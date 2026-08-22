@@ -531,6 +531,66 @@ export class ApiClient {
       method: 'DELETE'
     });
   }
+
+  // ============================================================
+  // RAG KNOWLEDGE BASE APIS (3.600+ ATRFB MARKDOWN DOCS)
+  // ============================================================
+  public getRagStats(): Promise<{
+    success: boolean;
+    totalDocuments: number;
+    totalChars: number;
+    atrfb: {
+      totalDocuments: number;
+      totalChars: number;
+      subjects: Array<{ subject: string; count: number; total_chars: number }>;
+      moduleTypes: Array<{ module_type: string; count: number }>;
+    };
+  }> {
+    return this.request('/rag/stats');
+  }
+
+  public searchRag(query: string, options?: { topK?: number; subject?: string; moduleType?: string }): Promise<{
+    success: boolean;
+    query: string;
+    total: number;
+    results: Array<{
+      id: number;
+      filePath: string;
+      subject: string;
+      moduleType: string;
+      lessonNumber: string;
+      title: string;
+      tags: string[];
+      articlesCited: string[];
+      sumulasCited: string[];
+      snippet: string;
+      rankScore: number;
+    }>;
+  }> {
+    return this.request('/rag/search', {
+      method: 'POST',
+      body: JSON.stringify({ query, ...options })
+    });
+  }
+
+  public askRag(question: string, options?: { subject?: string; careerId?: string }): Promise<{
+    success: boolean;
+    question: string;
+    answer: string;
+    sources: Array<{
+      title: string;
+      subject: string;
+      lessonNumber: string;
+      moduleType: string;
+      articlesCited: string[];
+      sumulasCited: string[];
+    }>;
+  }> {
+    return this.request('/rag/ask', {
+      method: 'POST',
+      body: JSON.stringify({ question, ...options })
+    });
+  }
 }
 
 // Singleton Instance Export

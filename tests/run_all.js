@@ -9,6 +9,7 @@ import { runLeiSecaAndAproveitamentoTests } from './integration/leiseca_and_apro
 import { runCommunityAndCadernoErrosTests } from './integration/community_and_caderno_erros.test.js';
 import { runV35FixesTests } from './integration/v3_5_fixes.test.js';
 import { runStudyCyclesTests } from './integration/study_cycles.test.js';
+import { runRagKnowledgeTests } from './integration/rag_knowledge.test.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -64,6 +65,7 @@ async function main() {
     await runCommunityAndCadernoErrosTests();
     await runV35FixesTests();
     await runStudyCyclesTests();
+    await runRagKnowledgeTests();
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(2);
     console.log('\n===============================================================');

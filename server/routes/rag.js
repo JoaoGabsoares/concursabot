@@ -1,10 +1,9 @@
 import { Router } from 'express';
 import multer from 'multer';
-import pdfParse from 'pdf-parse';
 import db from '../database.js';
 import { generateEmbedding, cosineSimilarity, streamChat, generateContent } from '../gemini.js';
-import { guessSubject } from '../subject-guesser.js';
-import { chunkText } from '../ingest.js';
+import { ragKnowledgeService } from '../services/RagKnowledgeService.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const upload = multer({
   storage: multer.memoryStorage(),
@@ -13,21 +12,24 @@ const upload = multer({
 
 const router = Router();
 
-// GET /stats — Return RAG knowledge base statistics
+// GET /stats — Return RAG knowledge base statistics (including 3.600+ ATRFB markdown docs)
 router.get('/stats', (req, res) => {
   try {
-    const docCount = db.prepare('SELECT COUNT(*) as count FROM rag_documents').get().count;
-    const chunkCount = db.prepare('SELECT COUNT(*) as count FROM rag_chunks').get().count;
-    const subjects = db.prepare(`
-      SELECT subject, COUNT(*) as count, SUM(total_chunks) as chunks 
-      FROM rag_documents 
-      GROUP BY subject
-    `).all();
+    const atrfbStats = ragKnowledgeService.getStats();
+
+    // Also get legacy uploaded pdf stats if any
+    const legacyDocCount = db.prepare('SELECT COUNT(*) as count FROM rag_documents').get()?.count || 0;
+    const legacyChunkCount = db.prepare('SELECT COUNT(*) as count FROM rag_chunks').get()?.count || 0;
 
     res.json({
-      totalDocuments: docCount,
-      totalChunks: chunkCount,
-      subjects: subjects
+      success: true,
+      totalDocuments: atrfbStats.totalDocuments + legacyDocCount,
+      totalChars: atrfbStats.totalChars,
+      atrfb: atrfbStats,
+      legacy: {
+        documents: legacyDocCount,
+        chunks: legacyChunkCount
+      }
     });
   } catch (error) {
     console.error('Erro ao buscar stats RAG:', error);
@@ -35,284 +37,94 @@ router.get('/stats', (req, res) => {
   }
 });
 
-// GET /documents — List all indexed documents
+// GET /documents — List indexed documents with filter
 router.get('/documents', (req, res) => {
   try {
-    const docs = db.prepare(`
-      SELECT id, filename, filepath, subject, total_chunks, created_at
-      FROM rag_documents
-      ORDER BY created_at DESC
-    `).all();
+    const { subject, limit = 50, page = 1 } = req.query;
+    const offset = (Math.max(1, parseInt(page, 10)) - 1) * parseInt(limit, 10);
 
-    res.json({ documents: docs });
+    let sql = `
+      SELECT id, file_path, subject, module_type, lesson_number, title, char_count, created_at
+      FROM atrfb_rag_documents
+    `;
+    const params = [];
+
+    if (subject && subject !== 'Todas' && subject !== 'Geral') {
+      sql += ' WHERE subject LIKE ?';
+      params.push(`%${subject}%`);
+    }
+
+    sql += ' ORDER BY subject, lesson_number ASC LIMIT ? OFFSET ?';
+    params.push(parseInt(limit, 10), offset);
+
+    const docs = db.prepare(sql).all(...params);
+    const total = db.prepare('SELECT COUNT(*) as count FROM atrfb_rag_documents').get()?.count || 0;
+
+    res.json({
+      success: true,
+      total,
+      page: parseInt(page, 10),
+      documents: docs
+    });
   } catch (error) {
     console.error('Erro ao listar documentos RAG:', error);
     res.status(500).json({ error: 'Falha ao listar documentos' });
   }
 });
 
-// Helper function: Semantic vector search across all chunks
-async function performVectorSearch(query, topK = 5, subjectFilter = null) {
-  const queryEmbedding = await generateEmbedding(query);
-
-  let querySql = `
-    SELECT rc.id, rc.document_id, rc.chunk_index, rc.content, rc.embedding,
-           rd.filename, rd.subject
-    FROM rag_chunks rc
-    JOIN rag_documents rd ON rc.document_id = rd.id
-  `;
-  const params = [];
-
-  if (subjectFilter && subjectFilter !== 'Todas') {
-    querySql += ' WHERE rd.subject = ?';
-    params.push(subjectFilter);
-  }
-
-  const allChunks = db.prepare(querySql).all(...params);
-
-  // Compute similarity scores
-  const scoredChunks = allChunks.map(chunk => {
-    let emb;
-    try {
-      emb = JSON.parse(chunk.embedding);
-    } catch (e) {
-      emb = [];
-    }
-
-    const similarity = cosineSimilarity(queryEmbedding, emb);
-    return {
-      id: chunk.id,
-      documentId: chunk.document_id,
-      filename: chunk.filename,
-      subject: chunk.subject,
-      chunkIndex: chunk.chunk_index,
-      content: chunk.content,
-      score: similarity
-    };
-  });
-
-  // Sort descending and take top K
-  scoredChunks.sort((a, b) => b.score - a.score);
-  return scoredChunks.slice(0, topK);
-}
-
-// POST /search — Semantic similarity search across indexed PDFs
-router.post('/search', async (req, res) => {
+// POST /search — Fast hybrid search across ATRFB knowledge base
+router.post('/search', (req, res) => {
   try {
-    const { query, topK = 5, subject } = req.body;
+    const { query, topK = 5, subject, moduleType } = req.body;
 
-    if (!query) {
+    if (!query || typeof query !== 'string' || !query.trim()) {
       return res.status(400).json({ error: 'Query de busca é obrigatória' });
     }
 
-    const results = await performVectorSearch(query, topK, subject);
-    res.json({ query, results });
+    const results = ragKnowledgeService.search(query, {
+      subject,
+      moduleType,
+      limit: parseInt(topK, 10) || 5
+    });
+
+    res.json({ success: true, query, total: results.length, results });
   } catch (error) {
     console.error('Erro na busca semântica RAG:', error);
     res.status(500).json({ error: 'Falha ao realizar busca semântica' });
   }
 });
 
-// POST /ask — Full RAG question answering citing multiple PDF sources
+// POST /ask — Full RAG question answering citing official ATRFB lessons
 router.post('/ask', async (req, res) => {
   try {
-    const { question, subject, stream = false } = req.body;
+    const { question, subject, careerId = 'atrfb' } = req.body;
+    const userId = getAuthenticatedUserId(req);
 
-    if (!question) {
+    if (!question || typeof question !== 'string' || !question.trim()) {
       return res.status(400).json({ error: 'Pergunta é obrigatória' });
     }
 
-    // 1. Retrieve top 5 most relevant snippets from the entire 1000 PDF library
-    const topSnippets = await performVectorSearch(question, 5, subject);
+    let userName = 'Aluno';
+    try {
+      const userProf = db.prepare('SELECT name FROM user_profiles WHERE id = ?').get(userId);
+      if (userProf?.name) userName = userProf.name;
+    } catch (e) {}
 
-    if (topSnippets.length === 0) {
-      return res.json({
-        answer: 'Nenhum documento indexado na base de conhecimento RAG ainda. Execute a ingestão de PDFs primeiro.',
-        sources: []
-      });
-    }
-
-    // 2. Format context with source citations
-    const contextText = topSnippets.map((s, idx) => `
-[FONTE ${idx + 1}]: Arquivo "${s.filename}" (${s.subject})
-${s.content}
-`).join('\n---\n');
-
-    // 3. Construct Augmented Prompt
-    const ragPrompt = `Você é o Tutor IA Especialista do Gabarito.AI com acesso à base completa de conhecimento (RAG) de PDFs do aluno.
-
-Responda à dúvida do aluno fundamentando sua resposta nos trechos fornecidos abaixo.
-Sempre cite de quais arquivos/fontes você extraiu as informações (ex: Conforme o material "Aula02_Tributario.pdf"...).
-Se os trechos não responderem completamente, use seu conhecimento geral para complementar de forma clara.
-
-DÚVIDA DO ALUNO:
-${question}
-
-TRECHOS RELEVANTES RECUPERADOS DOS PDFS:
-${contextText}
-`;
-
-    if (stream) {
-      // Stream response via SSE
-      res.setHeader('Content-Type', 'text/event-stream');
-      res.setHeader('Cache-Control', 'no-cache');
-      res.setHeader('Connection', 'keep-alive');
-
-      // Send sources first
-      res.write(`data: ${JSON.stringify({ sources: topSnippets.map(s => ({ filename: s.filename, subject: s.subject, score: Math.round(s.score * 100) })) })}\n\n`);
-
-      try {
-        for await (const chunk of streamChat([], ragPrompt, 'Você é um professor de concursos especialista com suporte a RAG.')) {
-          if (chunk) {
-            res.write(`data: ${JSON.stringify({ chunk })}\n\n`);
-          }
-        }
-      } catch (streamErr) {
-        console.error('Erro no streaming RAG:', streamErr);
-      }
-
-      res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
-      res.end();
-    } else {
-      const answer = await generateContent(ragPrompt, 'Você é um professor de concursos especialista com suporte a RAG.');
-      res.json({
-        answer,
-        sources: topSnippets.map(s => ({
-          filename: s.filename,
-          subject: s.subject,
-          score: Math.round(s.score * 100),
-          snippet: s.content.substring(0, 150) + '...'
-        }))
-      });
-    }
-
-  } catch (error) {
-    console.error('Erro no RAG Q&A:', error);
-    res.status(500).json({ error: 'Falha ao processar pergunta com RAG' });
-  }
-});
-
-// POST /upload — Ingest one or more PDFs uploaded directly through UI
-router.post('/upload', (req, res, next) => {
-  upload.array('pdfs', 100)(req, res, (err) => {
-    if (err) {
-      console.error('Erro no Multer /api/rag/upload:', err.message);
-      if (err.code === 'LIMIT_FILE_COUNT') {
-        return res.status(400).json({ error: 'Limite de arquivos por lote excedido (máximo 100 por envio).' });
-      }
-      if (err.code === 'LIMIT_FILE_SIZE') {
-        return res.status(400).json({ error: 'Arquivo excede o tamanho máximo de 50MB.' });
-      }
-      return res.status(400).json({ error: `Erro no upload: ${err.message}` });
-    }
-    next();
-  });
-}, async (req, res) => {
-  try {
-    const files = req.files;
-    if (!files || files.length === 0) {
-      return res.status(400).json({ error: 'Nenhum arquivo PDF enviado.' });
-    }
-
-    const results = [];
-    let totalChunksIndexed = 0;
-
-    for (const file of files) {
-      try {
-        const filename = file.originalname;
-        const pdfData = await pdfParse(file.buffer);
-        const text = pdfData.text || '';
-
-        if (!text.trim() || text.length < 50) {
-          results.push({ filename, status: 'skipped', reason: 'PDF sem texto legível ou escaneado sem OCR' });
-          continue;
-        }
-
-        const subject = req.body.subject && req.body.subject !== 'Auto'
-          ? req.body.subject
-          : guessSubject(filename, text);
-
-        const chunks = chunkText(text, 2200, 250);
-        if (chunks.length === 0) {
-          results.push({ filename, status: 'skipped', reason: 'Texto insuficiente para gerar trechos' });
-          continue;
-        }
-
-        // Save document record
-        const insertDoc = db.prepare(`
-          INSERT OR REPLACE INTO rag_documents (filename, filepath, subject, total_chunks)
-          VALUES (?, ?, ?, ?)
-        `);
-        const docResult = insertDoc.run(filename, `upload://${filename}`, subject, chunks.length);
-        const docId = docResult.lastInsertRowid;
-
-        // Clean previous chunks if any
-        db.prepare('DELETE FROM rag_chunks WHERE document_id = ?').run(docId);
-
-        const insertChunk = db.prepare(`
-          INSERT INTO rag_chunks (document_id, chunk_index, content, embedding)
-          VALUES (?, ?, ?, ?)
-        `);
-
-        const EMBEDDING_CONCURRENCY = 5;
-        for (let i = 0; i < chunks.length; i += EMBEDDING_CONCURRENCY) {
-          const batch = chunks.slice(i, i + EMBEDDING_CONCURRENCY);
-          const embeddings = await Promise.all(
-            batch.map(async (content, idx) => {
-              try {
-                return await generateEmbedding(content);
-              } catch (embErr) {
-                console.warn(`Erro ao gerar embedding chunk ${i + idx} de ${filename}:`, embErr.message);
-                return [];
-              }
-            })
-          );
-
-          for (let j = 0; j < batch.length; j++) {
-            insertChunk.run(docId, i + j, batch[j], JSON.stringify(embeddings[j] || []));
-            totalChunksIndexed++;
-          }
-
-          // Small delay to respect Google Gemini RPM free tier quota
-          if (i + EMBEDDING_CONCURRENCY < chunks.length) {
-            await new Promise(r => setTimeout(r, 120));
-          }
-        }
-
-        results.push({ filename, subject, chunksCount: chunks.length, status: 'success' });
-
-      } catch (err) {
-        console.error(`Erro ao processar PDF ${file.originalname}:`, err);
-        results.push({ filename: file.originalname, status: 'error', error: err.message });
-      }
-    }
+    const response = await ragKnowledgeService.ask(question, {
+      subject,
+      careerId,
+      userName
+    });
 
     res.json({
       success: true,
-      processed: results.length,
-      totalChunksIndexed,
-      results
+      question,
+      answer: response.answer,
+      sources: response.sources
     });
-
   } catch (error) {
-    console.error('Erro no upload de PDFs RAG:', error);
-    res.status(500).json({ error: error.message || 'Falha no processamento dos PDFs' });
-  }
-});
-
-// DELETE /documents/:id — Delete a document and its vector chunks
-router.delete('/documents/:id', (req, res) => {
-  try {
-    const docId = parseInt(req.params.id, 10);
-    if (isNaN(docId) || docId <= 0) {
-      return res.status(400).json({ error: 'ID de documento inválido.' });
-    }
-    db.prepare('DELETE FROM rag_chunks WHERE document_id = ?').run(docId);
-    db.prepare('DELETE FROM rag_documents WHERE id = ?').run(docId);
-    res.json({ success: true });
-  } catch (error) {
-    console.error('Erro ao deletar documento RAG:', error);
-    res.status(500).json({ error: 'Falha ao deletar documento' });
+    console.error('Erro no Q&A RAG:', error);
+    res.status(500).json({ error: 'Falha ao processar pergunta no RAG' });
   }
 });
 

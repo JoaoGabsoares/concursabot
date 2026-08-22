@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.2)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.3)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
@@ -11,13 +11,18 @@
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Interface Despoluída e sem Menus Duplicados**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Interface Despoluída e sem Menus Duplicados**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
 
 ---
 
-## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.2)
+## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.3)
 
-1. 🔄 **Ciclo de Estudos Dinâmico & Ponderado (Interleaving Anti-Fadiga):**
+1. 🧠 **Acervo RAG Híbrido ATRFB & Motor FTS5 no SQLite (3.613 Documentos):**
+   - Base canônica com mais de **204 milhões de caracteres** de doutrina, legislação e teoria para a Receita Federal (FGV).
+   - Busca textual instantânea (< 5ms) por artigos da lei (`Art. 150`), súmulas do STF/STJ e tópicos doutrinários via SQLite FTS5.
+   - **Tutor IA** e **Chat Comunitário** conectados diretamente ao acervo para respostas fundamentadas e com citação direta de aulas.
+   - Mais de **900 apostilas teóricas auto-provisionadas** prontas para estudo imediato na Sala de Estudos.
+2. 🔄 **Ciclo de Estudos Dinâmico & Ponderado (Interleaving Anti-Fadiga):**
    - Esteira rotativa contínua para editais com muitas matérias (ex: Receita Federal ATRFB com 13 disciplinas).
    - Cálculo proporcional: $\text{Tempo} \propto \text{Peso no Edital} \times \text{Dificuldade do Aluno} \times \text{Fase}$.
    - Intercalação automática entre *Exatas & Dados*, *Direito & Leis* e *Humanas & Linguagens* para prevenir fadiga sináptica.

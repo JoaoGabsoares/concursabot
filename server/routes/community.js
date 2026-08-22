@@ -4,6 +4,7 @@ import { generateContent, sanitizePromptInput } from '../gemini.js';
 import { CAREERS_CATALOG } from '../careers.js';
 import { getSessionAccount } from './auth.js';
 import { getAuthenticatedUserId } from '../middleware/session-auth.js';
+import { ragKnowledgeService } from '../services/RagKnowledgeService.js';
 
 const router = express.Router();
 
@@ -202,13 +203,20 @@ router.post('/messages', async (req, res) => {
                 try {
                     const careerInfo = CAREERS_CATALOG[careerId] || { name: 'Concursos Públicos', banca: 'Oficial' };
                     const sanitizedInput = typeof sanitizePromptInput === 'function' ? sanitizePromptInput(safeText) : safeText;
+                    
+                    let ragContext = '';
+                    if (careerId === 'atrfb') {
+                        const { contextBlock } = ragKnowledgeService.buildAugmentedContext(sanitizedInput, { limit: 3 });
+                        if (contextBlock) ragContext = `\n${contextBlock}\n`;
+                    }
+
                     const aiPrompt = `Você é o Tutor Oficial de Elite do Gabarito.AI na sala de estudos comunitária da carreira: "${careerInfo.name}" (Banca: ${careerInfo.banca || 'Oficial'}).
 O estudante ${safeName} perguntou no grupo:
 """
 ${sanitizedInput}
 """
-
-Responda em formato direto, conciso, de altíssima precisão técnica e com tom encorajador e profissional de banca examinadora. Cite artigos de lei relevantes, mnemônicos ou pegadinhas clássicas da banca examinadora se aplicável. Mantenha a resposta entre 2 e 4 parágrafos curtos.`;
+${ragContext}
+Responda em formato direto, conciso, de altíssima precisão técnica e com tom encorajador e profissional de banca examinadora. Cite artigos de lei relevantes, mnemônicos ou as aulas oficiais do material se aplicável. Mantenha a resposta entre 2 e 4 parágrafos curtos.`;
 
                     const aiResponseText = await generateContent(aiPrompt, 'Você é o Tutor IA oficial da plataforma Gabarito.AI no chat da comunidade.');
 

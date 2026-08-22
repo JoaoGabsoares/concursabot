@@ -3,6 +3,7 @@ import db, { logActivity } from '../database.js';
 import { streamChat } from '../gemini.js';
 import { getTutorSystemInstruction } from '../prompts/tutor.js';
 import { getAuthenticatedUserId } from '../middleware/session-auth.js';
+import { ragKnowledgeService } from '../services/RagKnowledgeService.js';
 import crypto from 'crypto';
 
 const router = express.Router();
@@ -68,8 +69,14 @@ router.post('/chat', async (req, res) => {
 
         let fullModelResponse = "";
         
-        // Setup dynamic AI prompt for the active career and style
-        const systemPrompt = getTutorSystemInstruction(careerId, subject || 'Geral', tutorStyle);
+        // Setup dynamic AI prompt for the active career and style with RAG Knowledge Base
+        let systemPrompt = getTutorSystemInstruction(careerId, subject || 'Geral', tutorStyle);
+        if (careerId === 'atrfb') {
+            const { contextBlock } = ragKnowledgeService.buildAugmentedContext(message, { subject, limit: 3 });
+            if (contextBlock) {
+                systemPrompt += `\n\n${contextBlock}\nInstrução Adicional: Se o trecho do acervo acima for relevante para a dúvida do aluno, cite a aula e o artigo correspondente.`;
+            }
+        }
         const stream = await streamChat(history, message, systemPrompt);
         
         for await (const chunk of stream) {

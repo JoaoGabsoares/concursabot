@@ -227,4 +227,22 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 14. Motor RAG Híbrido & Acervo de 3.613 Documentos Markdown ATRFB (v5.3.0)
+
+1. **📚 Acervo Canônico de Conhecimento em Markdown**:
+   - **3.613 Documentos Markdown (`.md`) Estruturados**: Cobrindo 100% dos 10 polos disciplinares do certame da Receita Federal (ATRFB / FGV).
+   - **YAML Frontmatter Padronizado**: Cada material contém cabeçalho estruturado com `cargo`, `banca: FGV`, `disciplina`, `tags`, `aula_numero`, `titulo_aula`, `artigos_citados` e `sumulas_citadas`.
+   - **Manifesto Mestre**: `atrfb_rag_manifest.json` com mapeamento completo de metadados e contagem de caracteres (>204 milhões de caracteres de doutrina).
+
+2. **⚡ Mecanismo Híbrido FTS5 no SQLite (`RagKnowledgeService.js` / `atrfb_rag_fts`)**:
+   - Busca textual e semântica em milissegundos (< 5ms) com tokenização `unicode61` e rankeamento `bm25`.
+   - Suporte a filtros por termos conceituais, dispositivos legais (ex: `Art. 150`, `CTN`), súmulas do STF/STJ e número de aula.
+
+3. **🧠 Tutor IA & Chat Comunitário Aumentados por RAG**:
+   - **Tutor Chat (`/api/tutor/chat`)**: O sistema injeta dinamicamente no prompt do Gemini Flash os trechos mais relevantes do acervo ATRFB com menção exata da aula e dos artigos citados.
+   - **Bot Comunitário `@GabaritoAI` (`/api/community/messages`)**: Respostas enriquecidas com citações fundamentadas das apostilas oficiais e alertas de pegadinhas da banca examinadora.
+   - **Auto-Provisionamento na Sala de Estudos**: Mais de 900 apostilas teóricas essenciais disponibilizadas diretamente na base para leitura sem necessidade de upload manual individual.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

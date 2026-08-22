@@ -340,6 +340,54 @@ function initDB() {
             FOREIGN KEY (document_id) REFERENCES rag_documents(id) ON DELETE CASCADE
         );
 
+        -- Base de Conhecimento Estruturada ATRFB (3.543 Documentos Markdown)
+        CREATE TABLE IF NOT EXISTS atrfb_rag_documents (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            file_path TEXT UNIQUE NOT NULL,
+            subject TEXT NOT NULL,
+            module_type TEXT NOT NULL,
+            lesson_number TEXT,
+            title TEXT NOT NULL,
+            tags_json TEXT,
+            articles_cited_json TEXT,
+            sumulas_cited_json TEXT,
+            content_markdown TEXT NOT NULL,
+            char_count INTEGER NOT NULL,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+        );
+        CREATE INDEX IF NOT EXISTS idx_atrfb_rag_subject ON atrfb_rag_documents(subject);
+        CREATE INDEX IF NOT EXISTS idx_atrfb_rag_type ON atrfb_rag_documents(module_type);
+        CREATE INDEX IF NOT EXISTS idx_atrfb_rag_lesson ON atrfb_rag_documents(lesson_number);
+
+        CREATE VIRTUAL TABLE IF NOT EXISTS atrfb_rag_fts USING fts5(
+            title,
+            subject,
+            module_type,
+            lesson_number,
+            tags_json,
+            articles_cited_json,
+            sumulas_cited_json,
+            content_markdown,
+            content='atrfb_rag_documents',
+            content_rowid='id',
+            tokenize='unicode61'
+        );
+
+        CREATE TRIGGER IF NOT EXISTS atrfb_rag_ai AFTER INSERT ON atrfb_rag_documents BEGIN
+          INSERT INTO atrfb_rag_fts(rowid, title, subject, module_type, lesson_number, tags_json, articles_cited_json, sumulas_cited_json, content_markdown)
+          VALUES (new.id, new.title, new.subject, new.module_type, new.lesson_number, new.tags_json, new.articles_cited_json, new.sumulas_cited_json, new.content_markdown);
+        END;
+        CREATE TRIGGER IF NOT EXISTS atrfb_rag_ad AFTER DELETE ON atrfb_rag_documents BEGIN
+          INSERT INTO atrfb_rag_fts(atrfb_rag_fts, rowid, title, subject, module_type, lesson_number, tags_json, articles_cited_json, sumulas_cited_json, content_markdown)
+          VALUES('delete', old.id, old.title, old.subject, old.module_type, old.lesson_number, old.tags_json, old.articles_cited_json, old.sumulas_cited_json, old.content_markdown);
+        END;
+        CREATE TRIGGER IF NOT EXISTS atrfb_rag_au AFTER UPDATE ON atrfb_rag_documents BEGIN
+          INSERT INTO atrfb_rag_fts(atrfb_rag_fts, rowid, title, subject, module_type, lesson_number, tags_json, articles_cited_json, sumulas_cited_json, content_markdown)
+          VALUES('delete', old.id, old.title, old.subject, old.module_type, old.lesson_number, old.tags_json, old.articles_cited_json, old.sumulas_cited_json, old.content_markdown);
+          INSERT INTO atrfb_rag_fts(rowid, title, subject, module_type, lesson_number, tags_json, articles_cited_json, sumulas_cited_json, content_markdown)
+          VALUES (new.id, new.title, new.subject, new.module_type, new.lesson_number, new.tags_json, new.articles_cited_json, new.sumulas_cited_json, new.content_markdown);
+        END;
+
         -- Caderno de Erros Automatizado (Smart Error Bank)
         CREATE TABLE IF NOT EXISTS caderno_erros (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
