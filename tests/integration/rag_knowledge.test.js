@@ -1,17 +1,14 @@
 import assert from 'assert';
 import { ragKnowledgeService } from '../../server/services/RagKnowledgeService.js';
+import { authService } from '../../server/services/AuthService.js';
 import db from '../../server/database.js';
 
 export async function runRagKnowledgeTests(baseUrl = 'http://localhost:3000') {
   console.log('\n🧠 [TEST SUITE: RAG Knowledge Base ATRFB & FTS5 Hybrid Engine]');
 
-  // 0. Registrar e Autenticar Usuário de Teste
+  // 0. Registrar e Autenticar Usuário de Teste (via AuthService para isolamento de testes)
   const username = `user_rag_${Date.now()}`;
-  const reg = await fetch(`${baseUrl}/api/auth/register`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ username, password: 'SenhaSegura123!', email: `${username}@teste.com` })
-  }).then(r => r.json());
+  const reg = authService.register(username, 'SenhaSegura123!', `${username}@teste.com`);
   const token = reg.token;
   const authHeaders = { 'Authorization': `Bearer ${token}`, 'x-account-token': token };
 

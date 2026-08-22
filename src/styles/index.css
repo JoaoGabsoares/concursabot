@@ -226,20 +226,75 @@ html:not(.dark) .bg-grid-cyber {
   border-color: var(--color-status-neutral);
 }
 
-/* Custom Scrollbars */
-::-webkit-scrollbar {
-  width: 7px;
-  height: 7px;
+/* ============================================================
+   PREMIUM CUSTOM SCROLLBARS DESIGN SYSTEM (W3C + WebKit)
+   ============================================================ */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148, 163, 184, 0.28) transparent;
 }
+
+html:not(.dark) * {
+  scrollbar-color: rgba(100, 116, 139, 0.35) transparent;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
 ::-webkit-scrollbar-track {
   background: transparent;
 }
+
 ::-webkit-scrollbar-thumb {
-  background: var(--border-subtle);
+  background-color: rgba(148, 163, 184, 0.25);
+  border-radius: 9999px;
+  border: 1px solid transparent;
+  background-clip: padding-box;
+  transition: background-color 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--accent-primary);
+}
+
+html:not(.dark) ::-webkit-scrollbar-thumb {
+  background-color: rgba(100, 116, 139, 0.32);
+}
+
+html:not(.dark) ::-webkit-scrollbar-thumb:hover {
+  background-color: var(--accent-primary);
+}
+
+/* Utilitários Especiais de Rolagem */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148, 163, 184, 0.25) transparent;
+}
+
+.custom-scrollbar-horizontal {
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148, 163, 184, 0.35) transparent;
+}
+
+.custom-scrollbar-horizontal::-webkit-scrollbar {
+  height: 5px;
+}
+
+.custom-scrollbar-horizontal::-webkit-scrollbar-thumb {
+  background-color: rgba(148, 163, 184, 0.35);
   border-radius: 9999px;
 }
-::-webkit-scrollbar-thumb:hover {
-  background: var(--border-focus);
+
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
 }
 
 /* Transitions & Animations */

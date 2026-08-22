@@ -282,6 +282,14 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const [studyNotes, setStudyNotes] = useState<string>('');
   const [isSavingProgress, setIsSavingProgress] = useState<boolean>(false);
   const readerTopRef = useRef<HTMLDivElement>(null);
+  const moduleNavScrollRef = useRef<HTMLDivElement>(null);
+
+  const scrollModuleNav = (direction: 'left' | 'right') => {
+    if (moduleNavScrollRef.current) {
+      const offset = direction === 'left' ? -200 : 200;
+      moduleNavScrollRef.current.scrollBy({ left: offset, behavior: 'smooth' });
+    }
+  };
 
   // Cadence State (Configurável: 60/30, 45/15, 50/10, 90/30 ou Custom)
   const [cadencePreset, setCadencePreset] = useState<CadencePreset>('60_30');
@@ -649,7 +657,12 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
       </div>
 
       {/* 2. Top Navigation: Disciplinas do Edital & PDFs Cadastrados */}
-      <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-thin">
+      <div
+        onWheel={(e) => {
+          if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY * 0.8;
+        }}
+        className="flex items-center gap-2 overflow-x-auto pb-2 custom-scrollbar-horizontal scroll-smooth"
+      >
         <span className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0 pl-1">
           Disciplinas:
         </span>
@@ -674,7 +687,12 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
       {/* Uploaded PDF Shelf with Smart Indicators */}
       {uploadedMaterials.length > 0 && (
-        <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto">
+        <div
+          onWheel={(e) => {
+            if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY * 0.8;
+          }}
+          className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto custom-scrollbar-horizontal scroll-smooth"
+        >
           <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
             📁 PDFs Carregados:
           </span>
@@ -796,7 +814,12 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   </span>
                 </div>
 
-                <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
+                <div
+                  onWheel={(e) => {
+                    if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY * 0.8;
+                  }}
+                  className="flex items-center gap-2 overflow-x-auto pb-1 custom-scrollbar-horizontal scroll-smooth"
+                >
                   {subjectModules.map((mod) => {
                     const isModActive = mod.moduleNumber === currentModule.moduleNumber;
                     return (
@@ -843,32 +866,70 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   : currentModule.title}
               </h2>
 
-              {/* NAVEGADOR DE PÁGINAS DO MÓDULO (PÁGINAS 1 A 5) */}
+              {/* NAVEGADOR DE PÁGINAS DO MÓDULO (PÁGINAS 1 A 5) COM SCROLL FLUIDO & SETAS */}
               {!selectedCustomMaterial && (
-                <div className="pt-2 flex items-center gap-1.5 overflow-x-auto scrollbar-none border-b border-[var(--border-subtle)] pb-3">
-                  {[
-                    { num: 1, label: '1. Doutrina & Fundamentos' },
-                    { num: 2, label: '2. Esquemas & Tabelas' },
-                    { num: 3, label: '3. Casos & Pegadinhas' },
-                    { num: 4, label: '4. Letra de Lei & Súmulas' },
-                    { num: 5, label: '5. Treino de Fixação' }
-                  ].map((p) => {
-                    const isPageActive = currentPage === p.num;
-                    return (
-                      <button
-                        key={p.num}
-                        type="button"
-                        onClick={() => handleSelectPageDirect(p.num)}
-                        className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all ${
-                          isPageActive
-                            ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border border-[var(--accent-primary)] shadow-xs'
-                            : 'text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]'
-                        }`}
-                      >
-                        {p.label}
-                      </button>
-                    );
-                  })}
+                <div className="pt-2 relative flex items-center border-b border-[var(--border-subtle)] pb-3">
+                  {/* Botão de rolagem para esquerda */}
+                  <button
+                    type="button"
+                    onClick={() => scrollModuleNav('left')}
+                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all mr-1.5 shadow-xs"
+                    title="Rolar abas para esquerda"
+                    aria-label="Rolar abas para esquerda"
+                  >
+                    <ChevronLeft className="w-3.5 h-3.5" />
+                  </button>
+
+                  {/* Container deslizante com suporte a mouse wheel */}
+                  <div
+                    ref={moduleNavScrollRef}
+                    onWheel={(e) => {
+                      if (e.deltaY !== 0) {
+                        e.currentTarget.scrollLeft += e.deltaY * 0.8;
+                      }
+                    }}
+                    className="flex-1 flex items-center gap-1.5 overflow-x-auto custom-scrollbar-horizontal scroll-smooth py-1"
+                  >
+                    {[
+                      { num: 1, label: '1. Doutrina & Fundamentos' },
+                      { num: 2, label: '2. Esquemas & Tabelas' },
+                      { num: 3, label: '3. Casos & Pegadinhas' },
+                      { num: 4, label: '4. Letra de Lei & Súmulas' },
+                      { num: 5, label: '5. Treino de Fixação' }
+                    ].map((p) => {
+                      const isPageActive = currentPage === p.num;
+                      return (
+                        <button
+                          key={p.num}
+                          type="button"
+                          onClick={() => handleSelectPageDirect(p.num)}
+                          className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all shrink-0 flex items-center gap-1.5 ${
+                            isPageActive
+                              ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border border-[var(--accent-primary)] shadow-xs'
+                              : 'text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] border border-transparent'
+                          }`}
+                        >
+                          <span className={`w-4 h-4 rounded-full text-[10px] font-mono flex items-center justify-center font-bold ${
+                            isPageActive ? 'bg-[var(--accent-primary)] text-white' : 'bg-[var(--bg-surface)] text-[var(--text-muted)] border border-[var(--border-subtle)]'
+                          }`}>
+                            {p.num}
+                          </span>
+                          <span>{p.label.replace(/^\d+\.\s*/, '')}</span>
+                        </button>
+                      );
+                    })}
+                  </div>
+
+                  {/* Botão de rolagem para direita */}
+                  <button
+                    type="button"
+                    onClick={() => scrollModuleNav('right')}
+                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all ml-1.5 shadow-xs"
+                    title="Rolar abas para direita"
+                    aria-label="Rolar abas para direita"
+                  >
+                    <ChevronRight className="w-3.5 h-3.5" />
+                  </button>
                 </div>
               )}
             </div>
