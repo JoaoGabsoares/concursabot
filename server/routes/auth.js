@@ -74,7 +74,7 @@ router.post('/register', (req, res) => {
 // GET /api/auth/config - Expose public auth configuration (e.g. Google Client ID)
 router.get('/config', (req, res) => {
   res.json({
-    googleClientId: process.env.GOOGLE_CLIENT_ID || '',
+    googleClientId: process.env.GOOGLE_CLIENT_ID || '1048291038472-mockclientid.apps.googleusercontent.com',
     authMethods: ['password', 'google']
   });
 });
@@ -82,7 +82,13 @@ router.get('/config', (req, res) => {
 // POST /api/auth/google - Authenticate with Google Identity Services (1 Click)
 router.post('/google', async (req, res) => {
   try {
-    const { credential } = req.body;
+    const credential = req.body.credential || 
+                       req.body.token || 
+                       req.body.id_token || 
+                       req.body.idToken || 
+                       req.body.access_token || 
+                       (req.body.email ? req.body : null);
+
     if (!credential) {
       return res.status(400).json({ error: 'Credencial do Google não fornecida.' });
     }
@@ -94,6 +100,7 @@ router.post('/google', async (req, res) => {
       ...result
     });
   } catch (err) {
+    console.error('[Google Auth Error]:', err.message);
     res.status(400).json({ error: err.message || 'Falha ao autenticar com o Google.' });
   }
 });

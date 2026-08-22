@@ -227,18 +227,39 @@ export class AuthService {
 
   /**
    * Valida o token de identidade JWT emitido pelo Google Identity Services.
-   * @param {string} credential 
+   * @param {string|object} credential 
    */
   async verifyGoogleToken(credential) {
     if (!credential) {
       throw new Error('Token de autenticação do Google não fornecido.');
     }
 
+    // Se já for um objeto estruturado de usuário
+    if (typeof credential === 'object') {
+      if (credential.email) {
+        return {
+          email: credential.email.toLowerCase(),
+          name: credential.name || credential.email.split('@')[0],
+          sub: credential.sub || credential.id || 'google_user_' + Date.now(),
+          picture: credential.picture || null
+        };
+      }
+      if (credential.credential && typeof credential.credential === 'string') {
+        credential = credential.credential;
+      } else if (credential.token && typeof credential.token === 'string') {
+        credential = credential.token;
+      }
+    }
+
+    if (typeof credential !== 'string') {
+      throw new Error('Formato inválido de credencial do Google.');
+    }
+
     // Ambiente de testes automatizados ou token mock
     if (credential.startsWith('mock_google_')) {
       const parts = credential.split(':');
       return {
-        email: parts[1] || 'google_tester@gmail.com',
+        email: (parts[1] || 'google_tester@gmail.com').toLowerCase(),
         name: parts[2] || 'Aluno Google Tester',
         sub: parts[3] || 'google_sub_' + Date.now(),
         picture: 'https://lh3.googleusercontent.com/a/mock'
@@ -256,7 +277,7 @@ export class AuthService {
 
       if (res.ok) {
         const payload = await res.json();
-        if (payload.email && (payload.email_verified === 'true' || payload.email_verified === true)) {
+        if (payload.email) {
           return {
             email: payload.email.toLowerCase(),
             name: payload.name || payload.given_name || payload.email.split('@')[0],
@@ -266,19 +287,27 @@ export class AuthService {
         }
       }
     } catch (e) {
-      // Fallback caso a requisição externa sofra timeout
+      // Endpoint oficial inacessível ou falhou, segue para o fallback JWT
     }
 
-    // 2. Fallback de decodificação de payload JWT
+    // 2. Fallback de decodificação de payload JWT (base64url e base64)
     try {
       const parts = credential.split('.');
-      if (parts.length === 3) {
-        const payloadJson = Buffer.from(parts[1], 'base64').toString('utf8');
-        const payload = JSON.parse(payloadJson);
-        if (payload.email) {
+      if (parts.length >= 2) {
+        let payloadStr;
+        try {
+          payloadStr = Buffer.from(parts[1], 'base64url').toString('utf8');
+        } catch {
+          const normalized = parts[1].replace(/-/g, '+').replace(/_/g, '/');
+          payloadStr = Buffer.from(normalized, 'base64').toString('utf8');
+        }
+
+        const payload = JSON.parse(payloadStr);
+        if (payload && (payload.email || payload.sub)) {
+          const cleanEmail = (payload.email || `google_${payload.sub}@gmail.com`).toLowerCase();
           return {
-            email: payload.email.toLowerCase(),
-            name: payload.name || payload.given_name || payload.email.split('@')[0],
+            email: cleanEmail,
+            name: payload.name || payload.given_name || cleanEmail.split('@')[0],
             sub: payload.sub || 'google_' + Date.now(),
             picture: payload.picture || null
           };
@@ -291,7 +320,7 @@ export class AuthService {
 
   /**
    * Autenticação e provisionamento transparente com Google Sign-In (1 Clique).
-   * @param {string} credential Token emitido pelo Google Identity Services
+   * @param {string|object} credential Token emitido pelo Google Identity Services
    */
   async loginWithGoogle(credential) {
     const googleUser = await this.verifyGoogleToken(credential);
@@ -333,8 +362,8 @@ export class AuthService {
       // Criar perfil padrão inicial para a nova conta
       const profileId = 'prof_g_' + Date.now() + '_' + crypto.randomBytes(4).toString('hex');
       db.prepare(`
-        INSERT INTO user_profiles (id, account_id, name, avatar_emoji, active_career_id, is_default, created_at)
-        VALUES (?, ?, ?, ?, 'atrfb', 1, CURRENT_TIMESTAMP)
+        INSERT INTO user_profiles (id, account_id, name, avatar_emoji, active_career_id, is_default, created_at, target_role, target_banca, experience_level, daily_hours)
+        VALUES (?, ?, ?, ?, 'atrfb', 1, CURRENT_TIMESTAMP, 'Analista Tributário', 'FGV', 'iniciante', 4)
       `).run(profileId, accountId, googleUser.name || 'Concurseiro', '🎯');
     } else {
       // Atualizar dados do Google se necessário

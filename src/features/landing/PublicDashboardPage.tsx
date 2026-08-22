@@ -196,21 +196,23 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
 
     const timer = setTimeout(() => {
       const btnContainer = document.getElementById('googleModalBtnContainer');
-      if (btnContainer && (window as any).google?.accounts?.id && googleClientId) {
+      const win = window as any;
+      if (btnContainer && win.google?.accounts?.id) {
         btnContainer.innerHTML = '';
-        (window as any).google.accounts.id.initialize({
-          client_id: googleClientId,
+        win.google.accounts.id.initialize({
+          client_id: googleClientId || '1048291038472-mockclientid.apps.googleusercontent.com',
           callback: handleGoogleCredentialResponse,
           auto_select: false,
           cancel_on_tap_outside: true
         });
-        (window as any).google.accounts.id.renderButton(btnContainer, {
+        win.google.accounts.id.renderButton(btnContainer, {
           theme: isDark ? 'filled_black' : 'outline',
           size: 'large',
           text: authTab === 'login' ? 'signin_with' : 'signup_with',
           shape: 'rectangular',
-          width: '100%',
-          logo_alignment: 'left'
+          width: 320,
+          logo_alignment: 'left',
+          locale: 'pt-BR'
         });
       }
     }, 150);
