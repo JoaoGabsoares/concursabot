@@ -1,0 +1,3618 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+GESTÃO DA QUALIDADE
+
+
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+Qualidade
+Conceito
+
+
+                                               Se refere ao melhor que se pode fazer. A excelência é absoluta: é o ideal
+                           Excelência
+                                                                           mais elevado.
+
+
+
+                                                 Se refere à qualidade “planejada”. Ou seja, é a definição de “como” o
+                         Especificações             produto ou serviço deve ser. Qualidade significa o conjunto das
+                                                               características de um produto ou serviço.
+ Significados
+ (Maximiano)
+
+                                                   Se refere ao grau de identidade entre o produto ou serviço e suas
+                         Conformidade
+                                                                            especificações.
+
+
+
+
+                                                Adequação ao uso é uma ideia que engloba as definições anteriores e tem
+                        Adequação ao Uso
+                                                  dois significados: qualidade de projeto e ausência de deficiências.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           https://t.me/KakashiAssinaturasBot
+Gestão da Qualidade
+Conceito
+
+
+
+
+                                         identificar as necessidades dos clientes
+
+      A Gestão da         projetar e elaborar produtos, serviços e processos que atendam a essas
+  Qualidade, por sua                                   necessidades
+ vez, consiste em uma
+aplicação sistemática   produzir fielmente produtos e serviços com as características determinadas
+     de métodos e                                       no projeto
+  ferramentas, cujos
+ principais objetivos
+          são                    entregar o produto ou serviço em condições satisfatórias
+
+                        avaliar a satisfação do consumidor com o produto/serviço adquirido e com o
+                                        pacote de suporte (pós-venda) que o envolve
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          https://t.me/KakashiAssinaturasBot
+Gerenciamento da Rotina x Gerenciamento para Melhoria
+Conceito
+
+
+
+
+Gerenciamento da    Temporários   Constituídos por um prazo determinado, para realizar determinada tarefa.
+     Rotina
+        x
+ Gerenciamento
+  para Melhoria                    Constituídos para realizar tarefas de longo prazo. Não há um prazo de
+                    Permanentes
+                                                             término determinado.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    https://t.me/KakashiAssinaturasBot
+Gerenciamento da Rotina x Gerenciamento para Melhoria
+Conceito
+
+
+
+
+                  Gerenciamento da Rotina
+         Esse método tem por objetivo padronizar os
+          processos da organização, para que eles
+                 funcionem em sintonia.                               Gerenciamento para Melhoria
+                                                                  Esse método tem por objetivo fornecer
+                                                                condições para que a organização melhore
+                                                                    seus processos e aumente a sua
+                                                                            competitividade.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          https://t.me/KakashiAssinaturasBot
+                        (CESPE – PGE-PE – Analista - 2019)
+Julgue o item subsequente, referentes ao modelo de gestão baseado na qualidade
+total (GQT).
+O gerenciamento de qualidade de uma organização pode ocorrer de duas formas: a
+primeira abrange o gerenciamento da rotina, que visa estabelecer padrões bem
+definidos do processo e apresenta resultados previsíveis, e a outra atua com o
+gerenciamento por melhorias, em que as demandas surgem do mercado ou cliente,
+sempre no sentido de melhorar o fator competitividade
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (SELECON – Prefeitura de Cuiabá-MT – Técnico - 2018)
+Considere que uma empresa busca melhorar seu desempenho através da
+implantação um programa de administração da qualidade. Para atingir seu objetivo,
+está buscando o melhor que se pode fazer, o padrão mais elevado em seu campo de
+atuação. Essa situação está relacionada à seguinte definição de qualidade:
+a) excelência
+b) especificação
+c) conformidade
+d) adequação ao uso
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (IBFC – EBSERH – Assistente Administrativo - 2016)
+Dentro da Administração da Qualidade, o melhor que se pode fazer, o padrão mais
+elevado de desempenho em qualquer campo de atuação denomina-se:
+a) Especificações.
+b) Excelência.
+c) Conformidade.
+d) Adequação ao uso.
+e) Não conformidade.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Abordagens da Qualidade
+                    Transcendental           Trata-se do “melhor que se pode fazer“. A qualidade é sinônimo de
+                                                    excelência absoluta e universalmente reconhecível.
+
+
+
+                                          A qualidade é uma variável que depende das especificações do produto. A
+                  Baseada no Produto      qualidade é considerada uma variável precisa e mensurável. Quanto mais
+                                                 atributos o produto tiver, tanto maior será a sua qualidade.
+
+
+
+                                         A qualidade é uma variável que está relacionada ao grau de conformidade do
+  Abordagens      Baseada na Produção
+                                             produto quanto às suas especificações. Ou seja, se refere ao grau de
+    (Garvin)          (Fabricação)
+                                           identidade entre o que foi “planejado” e o que foi realmente “executado”.
+
+
+
+                                         A qualidade está relacionada ao grau em que as características do produto
+                  Baseada no Usuário
+                                        atendem às necessidades (satisfazem os desejos) dos usuários. Portanto, a
+                       (Cliente)
+                                              qualidade está relacionada à adequação ao uso de cada usuário.
+
+
+                                        A qualidade está relacionada ao “custo x benefício” do produto. Ou seja, é uma
+                                            abordagem que combina duas variáveis: “adequação ao uso” e preço.
+                   Baseada no Valor
+Prof. Stefan Fantini                    De forma similar, essa abordagem também pode ser vista como uma abordagem
+                                                       que mistura duas variáveis: “excelência” e “valor”.
+ @prof.stefan.fantini
+                                         https://t.me/KakashiAssinaturasBot
+Significados x Abordagens da Qualidade
+
+
+                        Significados (Maximiano)                       Abordagens (Garvin)
+
+                               Excelência                            Abordagem Transcendental
+
+                              Especificações                       Abordagem Baseada no Produto
+
+                              Conformidade                        Abordagem Baseada na Produção
+
+                            Adequação ao Uso                       Abordagem Baseada no Usuário
+
+                                    -                                Abordagem Baseada no Valor
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+                        (IF-TO – IF-TOP– Professor - 2017)
+No desenvolvimento da qualidade nas organizações foram trazidas características
+advindas de antigos modos artesanais de produção para as grandes e indústrias e
+corporações, através da valorização da opinião e da necessidade dos clientes. É
+importante saber que não há um consenso definido sobre o conceito de qualidade,
+devido à sua abrangência e complexidade. Todavia, David Garvin classificou a qualidade
+em cinco abordagens:
+a) Desempenho, Características, Conformidade, Confiabilidade, Durabilidade.
+b) Serviço, valor comercial, mercado, método, patente.
+c) Especialidade serviço, Corrente, Redes Neurais, Inteligência artificial.
+d) Abrangência de serviço, planejamento estratégico, valor comercial de mercado,
+patente.
+e) Transcendental, Centrada no produto, Centrada no valor, Centrada na fabricação,
+Centrada no cliente
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (Marinha – CAP – Técnico em Administração - 2018)
+Segundo Marshall Junior (2011), existem cinco abordagens principais para a
+definição de qualidade: transcendental, baseada no produto, baseada no usuário,
+baseada na produção e baseada no valor. A definição "Qualidade consiste na
+capacidade de satisfazer desejos" está de acordo com qual abordagem?
+a) Transcendental.
+b) Baseada no produto.
+c) Baseada no usuário.
+d) Baseada na produção.
+e) Baseada no valor.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESPE – ANCINE – Técnico Administrativo)
+A qualidade é sinônimo de excelência absoluta e universalmente reconhecível
+segundo a abordagem transcendental da qualidade.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+Dimensões da Qualidade
+                   Desempenho                    Se refere às características e atributos básicos de um produto.
+
+                  Características
+                   Secundárias           São as características “suplementares” (adicionais) que o produto oferece. É
+                 (Características)
+
+                                             Está relacionada ao grau em que os produtos estão de acordo com as
+                  Conformidade
+                                                          especificações previamente estabelecidas.
+
+
+                   Durabilidade                          Representa a “vida útil” (longevidade) do produto.
+ Dimensões
+   (Garvin)
+                                             Está relacionada à probabilidade de um produto não apresentar mau
+                  Confiabilidade
+                                                                       funcionamento.
+
+
+                        Estética                Está relacionada à “aparência” (“beleza”) de determinado produto.
+
+                Assistência Técnica
+                                      Está relacionada à velocidade e facilidade com que os produtos podem ser reparados
+                   (Pós-venda /
+                                                    ou consertados, caso apresentem alguma avaria/problema.
+                   Atendimento)
+
+               Qualidade Percebida                É a qualidade que o cliente “atribui” a determinado produto.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            https://t.me/KakashiAssinaturasBot
+                        (VUNESP – DCTA-SP– Tecnologista Júnior)
+São muito difundidas as dimensões da qualidade, segundo definidas por David A.
+Garvin. São exemplos de dimensões da qualidade:
+a) Desempenho, Produtividade, Confiabilidade, Durabilidade, Atendimento, Estética.
+b) Qualidade percebida, Conformidade, Durabilidade, Atendimento, Estética, Custo.
+c) Desempenho, Valor agregado, Características, Qualidade percebida,
+Conformidade, Estética
+d) Confiabilidade, CEP, Durabilidade, Atendimento, Estética, Conformidade.
+e) Desempenho, Características, Confiabilidade, Durabilidade, Atendimento,
+Conformidade.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (FGV – CONDER – Administrador)
+A dimensão da qualidade (Garvin, 1998) que se refere à possibilidade de mau
+funcionamento de um produto ou de falha em um determinado período, é
+denominada
+a) durabilidade.
+b) conformidade.
+c) confiabilidade.
+d) estética.
+e) desempenho.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+Evolução Histórica da Gestão da Qualidade
+(Eras da Qualidade)
+
+                        A inspeção consistia em observar os produtos e descartar aqueles que
+                                     apresentassem algum tipo de “defeito/falha”.
+
+                                            departamentos de inspeção
+
+                         todos os produtos eram inspecionados individualmente (um a um),
+                                              após serem produzidos.
+
+   Era da Inspeção da
+                                          detectar as não conformidades
+       Qualidade
+
+                               qualidade era vista como um “problema a ser resolvido”
+
+
+                                            ênfase estava na verificação
+
+
+                                     qualidade estava orientada para o produto
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+Evolução Histórica da Gestão da Qualidade
+(Eras da Qualidade)
+                                     utilização de técnicas estatísticas de amostragem
+
+                        continuava-se a analisar os produtos ao final do processo de produção, com o
+                                 objetivo de identificar e “descartar” os produtos defeituosos
+                           começa a surgir a preocupação com a identificação das “causas” dos
+                                                      problemas.
+
+   Era do Controle                       departamentos de produção e engenharia
+    Estatístico da
+     Qualidade                 Os produtos deveriam ter uniformidade, com menos inspeções
+
+
+                                qualidade ainda era vista como um “problema a ser resolvido”
+
+
+                                                   ênfase estava no controle
+
+                                      A qualidade estava orientada para os processos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          https://t.me/KakashiAssinaturasBot
+Evolução Histórica da Gestão da Qualidade
+(Eras da Qualidade)
+                                         ênfase passa a ser na prevenção de defeitos/falhas
+
+                          organizações passaram dar ênfase na motivação, capacitação e treinamento dos
+                                                           funcionários
+
+                                 gestão da qualidade passou a ser vista como um processo holístico
+
+  Era da Garantia da
+                                        ênfase estava no em todas as etapas da produção
+      Qualidade
+
+                                                        todos os departamentos
+
+                        A qualidade era vista como um “problema a ser resolvido” que era enfrentado de forma
+                                                             proativa
+
+                                             qualidade estava orientada para o sistema
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+Evolução Histórica da Gestão da Qualidade
+(Eras da Qualidade)
+                            qualidade passou a ser vista como um aspecto fundamental para o sucesso da
+                                                             organização
+
+                                         Todo o processo produtivo passa a ser controlado
+
+
+                                       todos da organização são responsáveis pela qualidade
+   Era da Gestão da
+   Qualidade Total /
+    Era da Gestão                 ênfase passou a ser a satisfação e as necessidades dos clientes
+    Estratégica da
+      Qualidade
+                            qualidade estava orientada para o consumidor e para o sistema de qualidade
+
+
+                        qualidade passou a ser vista como uma “oportunidade” de se diferenciar da concorrência.
+
+
+                                  A qualidade é vista como um sinônimo de “qualidade assegurada”.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         https://t.me/KakashiAssinaturasBot
+Evolução Histórica da Gestão da Qualidade (Eras da Qualidade)
+
+                                                                                                     Papel dos                 Quem é o
+                  Interesse       Visão da
+      Era                                                Ênfase                Métodos            Profissionais da          Responsável pela
+                  Principal      Qualidade
+                                                                                                    Qualidade                  Qualidade
+                                                                                               Inspeção, classificação,
+  Inspeção da                  Um problema a         Uniformidade do          Inspeção, de                                  O departamento de
+                 Verificação                                                                    contagem, avaliação e
+   Qualidade                    ser resolvido            produto.               medição.                                        inspeção.
+                                                                                                      reparo.
+    Controle                                                                                                               Os departamentos de
+                                                     Uniformidade do         Ferramentas e     Solução de problemas e
+   Estatístico                 Um problema a                                                                              fabricação e engenharia
+                  Controle                         produto, com menos           técnicas       a aplicação de métodos
+       da                       ser resolvido                                                                                  (o controle de
+                                                        inspeção.             estatísticas.           estatísticos.
+   Qualidade                                                                                                                     qualidade)
+                                                        Toca cadeia de
+                                                                                                                                  Todos os
+                                                     fabricação, desde o
+                                                                                                                          departamentos, com a
+                               Um problema a      projeto até o mercado,
+                                                                                               Planejamento, medição       alta administração se
+                                ser resolvido,       e a contribuição de
+  Garantia da                                                                 Programas e          da qualidade e               envolvendo
+                 Coordenação      mas que é            todos os grupos
+  Qualidade                                                                    Sistemas.         desenvolvimento de        superficialmente no
+                                 enfrentado       funcionais para impedir
+                                                                                                     programas.             planejamento e na
+                               positivamente.       falhas de qualidade.
+                                                                                                                          execução das diretrizes
+                                                    Qualidade orientada
+                                                                                                                               da qualidade.
+                                                       para o Sistema.
+                                                     As necessidades de      Planejamento         Estabelecimento de
+                                     Uma          mercado e dos clientes.     estratégico,         metas, educação e      Todos na empresa, com
+   Gestão da
+                Impacto        oportunidade de       A qualidade estava     estabelecimento    treinamento, consultoria    a alta administração
+   Qualidade
+               Estratégico     diferenciação da        orientada para o     de objetivos e a   a outros departamentos        exercendo forte
+      Total
+Prof. Stefan Fantini            concorrência.       consumidor e para o      mobilização da      e desenvolvimento de            liderança.
+ @prof.stefan.fantini                              sistema de qualidade.      organização.            programas.
+                                                    https://t.me/KakashiAssinaturasBot
+ Eras da Qualidade (Maximiano)
+
+
+                  Era da Inspeção                      É equivalente à Era da Inspeção da Qualidade
+
+
+
+
+  Eras da
+                  Era do Controle
+ Qualidade                                      É equivalente à Era do Controle Estatístico da Qualidade
+                    Estatístico
+(Maximiano)
+
+
+
+                                        Engloba tanto a Era da Garantia da Qualidade quanto a Era da Qualidade
+               Era da Qualidade Total
+                                                                         Total
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+                        (CS-UFG – Câmara de Goiânia-GO – Assistente - 2018)
+David Garvin (2002) classifica a evolução da qualidade em quatro eras, a saber:
+a) a transcendental, a centrada no produto, a centrada no valor e a centrada no
+usuário.
+b) a inspeção, o controle estatístico, a garantia e a gestão da qualidade.
+c) a conformidade, a confiabilidade, a durabilidade e a qualidade percebida.
+d) a histórica, a estratégica, a imagem e a propaganda.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (UFMT– UFSBA – Secretário Executivo - 2017)
+Marque a alternativa que apresenta uma característica da era da qualidade total,
+que a diferencia das eras da inspeção e do controle estatístico.
+a) Ênfase na separação dos produtos bons daqueles defeituosos, por meio da
+observação direta.
+b) Controle da qualidade baseado na amostragem, de modo que suas propriedades
+são estendidas ao lote examinado.
+c) Controle centrado em duas ideias principais: foco no cliente e sistema da
+qualidade.
+d) Inserção do inspetor da qualidade, desvinculado do supervisor, no processo de
+julgamento sobre a qualidade dos produtos e serviços.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESPE – ANAC – Especialista em Regulação)
+O desenvolvimento da gestão da qualidade divide-se em quatro fases ou eras. Na
+primeira, chamada era da inspeção, realizava-se a inspeção dos produtos no final da
+linha de produção; na segunda, passou a ser realizado o controle estatístico do
+processo de produção, como medida preventiva à obtenção de qualidade; na
+terceira, a era do sistema de garantia da qualidade, a qualidade passou a ser
+considerada em todas as etapas do ciclo de produção e, na quarta, a era da gestão
+estratégica da qualidade, adotou-se a abordagem sistêmica, com foco no ambiente
+externo da organização e na melhoria contínua dos processos de controle.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (FCC – MANAUSPREV – Técnico Previdenciário - 2015)
+A história da qualidade pode ser definida em três estágios, cada qual com suas
+características. O estágio corretamente caracterizado é
+a) Qualidade Americana: I. Observação direta do produto ou serviço pelo fornecedor, ao
+final do processo; II. Qualidade garantida do fornecedor ao cliente.
+b) Controle Estatístico: I. Observação direta do produto ou serviço pelo fornecedor, ao
+final do processo; II. Produtos e serviços inspecionados com base em amostras.
+c) Qualidade Japonesa: I. Produtos e serviços definidos com base nos interesses do
+consumidor; II. Qualidade garantida do fornecedor ao cliente.
+d) Inspeção: I. Produtos e serviços definidos com base nos interesses do consumidor; II.
+Produtos e serviços inspecionados um a um ou aleatoriamente.
+e) Qualidade total: I. Observação direta do produto ou serviço pelo fornecedor, ao final
+do processo; II. Observação de produtos e serviços durante o processo produtivo.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESPE – SEGER-ES – Analista Executivo)
+É característica da era do controle estatístico, na história da qualidade, a
+a) inspeção de produtos e serviços com base em amostras.
+b) definição de produtos e serviços com base nos interesses do consumidor.
+c) garantia de qualidade do fornecedor ao cliente
+d) supervisão de produtos e serviços durante o processo produtivo.
+e) inspeção de produtos e serviços um a um ou aleatoriamente.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+
+                                  Desenvolveu o gráfico de controle (ou carta de controle) para detectar
+                                                        variações nos processos.
+
+                               Foi primeiro a utilizar métodos estatísticos para o controle dos processos (Pai
+                                                     do Controle Estatístico da Qualidade)
+                    Shewhart
+                                                  Foi responsável por criar o do Ciclo PDCA.
+
+
+                                                      "A qualidade é subjetiva e objetiva"
+ Gurus da
+ Qualidade
+                                      Defendia a busca pela qualidade e por sua melhoria contínua.
+
+                                Percebeu que o Ciclo PDCA era uma ferramenta que se ajustava muito bem à
+                                     ideia de “melhoria contínua”. Aprimorou e difundiu o Ciclo PDCA.
+                    Deming
+                               A qualidade deve ser orientada pela busca do atendimento das necessidades
+                                                               dos clientes.
+                               A qualidade é “a satisfação das necessidades do cliente em primeiro lugar”.
+Prof. Stefan Fantini           “A qualidade deve ter como objetivo as necessidades do usuário, presentes e
+                                                                  futuras
+ @prof.stefan.fantini
+                                  https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+                         1 - Crie constância de propósitos em torno da melhoria de produtos e serviços, buscando
+                                        tornar-se competitivo, manter-se no negócio e gerar empregos.
+
+
+                     2 - Adote uma nova filosofia. Estamos em uma nova era econômica. Gerentes ocidentais precisam
+                          assumir o desafio, aprender suas responsabilidades e liderar o processo de mudança.
+
+
+                           3 - Acabe com a dependência da inspeção como forma de atingir a qualidade. Elimine a
+                        necessidade de inspeção em massa, construindo a qualidade do produto em primeiro lugar.
+
+            14          4 - Elimine a prática de priorizar negócios com base no preço. Pense em minimizar o custo
+        Princípios            total. Caminhe no sentido de um único fornecedor para cada item e estabeleça um
+        de Deming                     relacionamento de longo prazo, baseado na lealdade e na confiança.
+
+                        5 - Melhore constantemente o sistema de produção e de serviços, aprimorando a qualidade e a
+                                           produtividade, e assim sempre diminuindo os custos.
+
+
+                                           6 - Estabeleça o treinamento no trabalho (on the job).
+
+
+                     7 - Estabeleça a liderança. O objetivo da supervisão deve ser ajudar trabalhadores e máquinas a
+Prof. Stefan Fantini                                      fazer o trabalho melhor.
+ @prof.stefan.fantini
+                                              https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+                                 8 - Elimine o medo, assim todos podem trabalhar efetivamente para a organização.
+
+
+                         9 - Quebre as barreiras entre os departamentos. Pessoal de pesquisa, projeto, vendas e produção
+                                                    devem trabalhar juntos, como uma equipe.
+
+                        10 - Elimine os slogans, exortações e metas para a força de trabalho, tais como defeito zero (zero defects) e
+                        novos níveis de produtividade. Tais exortações apenas criam um ambiente de adversidade, pois as causas da
+                        baixa qualidade e produtividade pertencem ao sistema, indo além do poder da força de trabalho. Elimine as
+                         quotas de trabalho no chão-de-fábrica (Substitua por liderança). Elimine gerenciamentos por objetivos.
+                                      Elimine administrar por números e metas numéricas (Substitua por liderança).
+             14
+         Princípios
+             de         11 - Remova barreiras que impedem os trabalhadores de sentirem orgulho de seu trabalho. Substitua
+          Deming                                                 por liderança.
+
+
+                            12 - Remova barreiras que impedem os gerentes e engenheiros de sentirem orgulho de seu
+                                   trabalho. Isso significa abolir os índices anuais ou de mérito por objetivos.
+
+
+                                          13 - Institua um vigoroso programa de educação e automelhoria.
+
+
+                        14 - Envolva todos da organização na tarefa de alcançar a transformação. A transformação é tarefa
+Prof. Stefan Fantini                                               de todos.
+ @prof.stefan.fantini
+                                                 https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                         https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+
+                                           Foi o primeiro teórico a destacar os “Custos da Qualidade”.
+
+                              Os “custos” para se obter a qualidade podem ser classificados em 03 categorias: Custos
+                                         decorrentes de Falhas; Custos de Prevenção; Custos de Avaliação
+
+                    Juran         Propôs também a Trilogia da Qualidade: Planejamento, Controle e Melhoria.
+
+                                   a qualidade é definida de 03 maneiras: Qualidade do Projeto, Qualidade de
+                                               Conformidade, Qualidade do Serviço de Campo.
+
+   Gurus da                                              A qualidade é “adequação ao uso”
+   Qualidade
+                                     Foi o primeiro a tratar a qualidade de forma sistêmica nas organizações
+
+                              Responsável por criar o conceito de Controle Total da Qualidade (TQC – Total Quality
+                                                                    Control).
+                 Feigenbaum
+                              A qualidade é um dever de todos, e deve envolver aspectos como a “uniformidade da
+                                      produção”, com o objetivo de atender às necessidades dos clientes.
+                                  A qualidade é a “composição total das características de marketing, projeto,
+                              produção e manutenção dos bens e serviços, através dos quais os produtos atenderão
+Prof. Stefan Fantini                                    às expectativas do cliente”.
+ @prof.stefan.fantini
+                                      https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+
+
+
+
+                                                     Responsável por criar o conceito do “zero defeito”,
+
+
+                                 O Programa Zero Defeito (ou Defeito-Zero), é baseado na ideia de “fazer certo desde a
+                                                                   primeira vez”.
+ Gurus da
+                        Crosby
+ Qualidade
+                                                          Crosby escreveu o livro “Quality is Free”
+
+
+
+                                 A qualidade é a “conformidade às especificações/exigências”
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                   https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+                                      1 - Obter o comprometimento da alta gestão com a qualidade
+                               2 - Instalar equipes de aperfeiçoamento e melhoria da qualidade em todos os
+                                                                   setores
+                            3 - Mensurar a qualidade na organização por meio de indicadores de qualidade, que
+                                                  devem indicar as necessidades de melhoria
+                                                4 - Levantar os custos da não qualidade
+                              5 - Disseminar nos funcionários a importância da qualidade nos produtos ou
+                                                               serviços
+                                                6 - Implantar o sistema de ação corretiva
+
+                                                   7 - Planejar o programa zero defeito
+           14 “pontos” de
+               Crosby
+                                             8 - Treinar os inspetores e demais responsáveis
+
+                                                     9 - Instaurar o dia do zero defeito
+
+                                           10 - Estabelecer os objetivos a serem alcançados
+
+                                                    11 - Eliminar as causas dos erros
+                              12 - Reconhecer publicamente os que atingem os objetivos e não realizar a
+                                                       premiação financeira
+                                     13 - Instalar os círculos de qualidade para monitorar o processo
+Prof. Stefan Fantini
+ @prof.stefan.fantini                  14 - Realizar repetidamente os itens listados anteriormente
+                                            https://t.me/KakashiAssinaturasBot
+Principais Autores/Teóricos da Qualidade e suas Contribuições
+(Principais “Gurus” da Qualidade)
+                                    Foi responsável por contribuir na formação do conceito de Controle da Qualidade por
+                                                Toda a Empresa (CWQC – Company Wide Quality Control),
+
+
+                                                        Foi o criador dos Círculos da Qualidade (CQC).
+                        Ishikawa
+                                     Difundiu 07 importantes ferramentas da qualidade: -Análise de Pareto; -Diagrama de
+                                   causa-efeito (Diagrama “espinha de peixe” / Diagrama de Ishikawa); -Histograma; -Folhas
+                                        de controle; -Diagramas de escada; -Gráficos de controle; -Fluxos de controle.
+
+                                   “Qualidade é satisfazer radicalmente ao cliente, para ser agressivamente competitivo.”
+  Gurus da
+  Qualidade
+                                                        Foi o primeiro a focar nas atividades de projeto
+
+
+                                    Só existe uma maneira de satisfazer as necessidades do cliente, qual seja: produzindo
+                                                     produtos de qualidade robusta (robust quality).
+                        Taguchi
+                                     Propôs a ideia da “função perda da qualidade”: quanto mais as características de
+                                     qualidade de um produto se afastam do valor planejado (valor alvo), maior será a
+                                                                “perda para a sociedade”.
+
+                                    A qualidade é a “diminuição das perdas geradas por um produto, desde a produção
+Prof. Stefan Fantini                                            até seu uso pelos clientes.”
+ @prof.stefan.fantini
+                                     https://t.me/KakashiAssinaturasBot
+                        (IF-RS – IF-RS – Administração -2018)
+Assinale a sequência que ilustra o preenchimento CORRETO dos parênteses, de cima
+para baixo:
+1. Walter A. Shewhart
+2. W. Edwards Deming
+3. Joseph M. Juran
+4. Armand Feigenbaum
+5. Philip B. Crosby
+( ) Propôs a trilogia da qualidade: planejamento, controle e melhoria
+( ) Primeiro a tratar a qualidade de forma sistêmica nas organizações
+( ) Percebeu que o ciclo PDCA trazia o conceito de melhoria contínua
+( ) Lançou o programa Zero Defeito
+( ) Pai do controle estatístico da qualidade.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (IF-RS – IF-RS – Administração -2018)
+(...)
+a) 5 – 4 – 1 – 3 – 2.
+b) 5 – 4 – 1 – 2 – 3.
+c) 1 – 4 – 5 – 3 – 2.
+d) 3 – 4 – 1 – 5 – 2.
+e) 3 – 4 – 2 – 5 – 1.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FCC – TJ-AP – Analista Judiciário - ADAPTADA)
+A gestão da qualidade nos serviços públicos passa por conceitos de grandes
+estudiosos, tais como Ishikawa, criador do Diagrama Causa e Efeito, do Círculo da
+Qualidade e do PDCA.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FGV – Câmara de Salvador-BA – Analista – 2018)
+Nascido no Japão, em 1924, Genichi Taguchi buscou abordar a qualidade sob uma
+ótica estatística.
+Segundo a sua percepção de qualidade, é possível atribuir a Genichi Taguchi a
+seguinte frase, que sintetiza essa percepção:
+a) “conforme a característica de qualidade se afasta do valor alvo, aumenta a perda
+para a sociedade”;
+b) “embora a qualidade não seja definida, sabe-se que ela existe”;
+c) “a qualidade é definida pela aceitação do mercado”;
+d) “ o preço reduzido garante a excelência na execução”;
+e) “ sem inovações, a demanda se reduz, causando um conflito entre a necessidade
+do usuário e a capacidade de desenvolvimento de um produto de qualidade”.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (IF-RS – IF-RS - Professor)
+Entre os “gurus” da qualidade total destaca-se William E. Deming afirmando que a
+qualidade começa com a alta administração e propondo que a qualidade é uma atividade
+estratégica. Assinale a alternativa que está relacionada aos trabalhos de Deming:
+I. Foi considerado o pai do controle da qualidade no Japão.
+II. Criador dos conceitos de círculos de qualidade e dos diagramas de causa-e-efeito.
+III. Desenvolveu os “14 princípios” para o alcance da qualidade.
+IV. Escreveu o livro “Quality is free” apresentando o programa zero defeitos.
+V. Aplicou o melhoramento contínuo através do ciclo PDCA (Plan, Do, Check, Act).
+A) I; II; III; IV; e V.
+B) I; III; e V.
+C) I; III; IV; e V.
+D) II; III; e IV.
+E) II; III; e V.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FUNCAB– ANS – Técnico Administrativo -2016)
+Considerando os principais teóricos da gestão da qualidade, a afirmativa “A
+qualidade deve ter como objetivo as necessidades do usuário, presentes e futuras” é
+atribuída a:
+a) Juran.
+b) Feigenbaum.
+c) Deming.
+d) Crosby.
+e) Chiavenato.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Folha de Verificação (Lista de Verificação / Folha de Controle / Lista de Controle)
+ A Folha de Verificação (ou checklist) é uma ferramenta bastante simples, que tem por
+ objetivo coletar informações sobre “quantas vezes” determinado problema/defeito
+ ocorreu em determinado processo em um período de tempo definido.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Folha de Verificação (Lista de Verificação / Folha de Controle / Lista de Controle)
+
+
+
+
+                                  Defeitos no Processo de Fabricação de Pneus
+                                       Período: 01/01/2018 a 31/01/2018
+                        Tipo de
+                                            Frequência                Total (Somatória)
+                        Defeito
+                        Defeito A           IIIII IIIII                      10
+                        Defeito B          IIIII IIIII II                    12
+                        Defeito C              IIIII I                        6
+                                                                             16
+                        Defeito D       IIIII IIIII IIIII I
+
+                        Defeito E            IIIII III                       8
+                        Defeito F              IIII                          4
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Histograma
+ O histograma é um gráfico de barras (retângulos), que tem por objetivo auxiliar o gestor a
+ identificar e visualizar a frequência de determinado evento (defeito/problema). Ou seja,
+ cada barra representa a frequência com que determinado evento ocorre.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Histograma
+                                           Defeitos no Processo de Fabricação de Pneus
+                                               Período: 01/01/2018 a 31/01/2018
+                        16
+
+                        14
+
+                        12
+
+                        10
+                                                                    v
+                        8
+
+                        6
+
+                        4
+
+                        2
+
+                        0
+                             Defeito A   Defeito B      Defeito C       Defeito D   Defeito E   Defeito F
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Pareto (Análise de Pareto)
+ Ferramenta utilizada para identificar quais são as causas prioritárias (ou seja, quais as
+ “causas” que geram maiores “problemas”). Segundo a Regra do 80/20, 80% dos
+ “resultados” (“problemas”) provêm de 20% de ”causas”. Por sua vez, os outros 80% de
+ “causas” geram apenas 20% de “resultados” (“problemas”).
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Pareto (Análise de Pareto)
+
+                        Camisetas com Defeitos de Fabricação
+                   60
+                   50
+                   40
+                   30
+                   20
+                   10
+                    0
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Ishikawa (Diagrama de Causa-Efeito / Gráfico de Espinha de Peixe)
+ Ferramenta que auxilia o gestor a identificar as causas de determinados problemas. Ou seja,
+ essa ferramenta auxilia o gestor a identificar as causas que geram determinados efeitos (ou
+ problemas) e, consequentemente, “compreender” melhor um processo ou um problema.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Ishikawa (Diagrama de Causa-Efeito / Gráfico de Espinha de Peixe)
+                                Mão de Obra                        Materiais                                 Medida
+
+            Baixa qualificação de pessoal
+                                               Tecido de baixa qualidade         Ausência de Indicadores de Produção
+
+
+
+                      Falta de treinamento           Linhas de baixa qualidade      Ausência de Indicadores de Qualidade
+
+
+
+
+                                                                                                                                       Problema
+
+
+                            Molde Defeituoso       Máquinas de costura com defeito
+                                                                                              Layout Inadequado da Fábrica
+                                                                                                                             Camisetas com Defeito de Fábrica
+
+
+            Procedimento de Corte Inadequado              Falta de Manutenção                     Ambiente insalubre
+
+
+
+
+Prof. Stefan Fantini                  Método                        Máquinas                              Meio Ambiente
+ @prof.stefan.fantini
+                                                       https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Dispersão (Diagrama de Correlação)
+ O Diagrama de Dispersão, ou Diagrama de Correlação, é uma ferramenta que possibilita ao
+ gestor identificar se há ou não relação entre duas variáveis.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Dispersão (Diagrama de Correlação)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Estratificação
+ Essa ferramenta é utilizada com o objetivo de “separar” dados e informações, de acordo
+ com suas particularidades, para que sejam geradas informações mais precisas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Gráfico de Controle (Carta de Controle / Carta de Tendência)
+ O Gráfico de Controle é uma ferramenta de Controle Estatístico do Processo (CEP) utilizada
+ para que o gestor consiga visualizar e analisar a variabilidade de um processo.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Gráfico de Controle (Carta de Controle / Carta de Tendência)
+
+                                                 Defeitos no Processo de Fabricação de Pneus
+                                                           Período: Janeiro a Junho
+                                 16
+
+
+                                 14                                                                         LSC
+
+
+                                 12
+                 Variabilidade
+
+
+
+
+                                 10                                                                         Linha Central
+
+
+                                 8
+
+                                 6
+
+                                 4                                                                          LIC
+
+
+                                 2
+
+                                 0
+                                      Janeiro   Fevereiro       Março             Abril      Maio   Junho
+
+Prof. Stefan Fantini                                                    Período
+ @prof.stefan.fantini
+                                                        https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Benchmarking
+ Processo de análise das práticas adotadas por empresas concorrentes, as quais são
+ consideradas fortes e, na maioria das vezes, líderes de mercado.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Benchmarking
+                         Benchmarking          a organização busca comparar o seu desempenho com o desempenho de
+                          Competitivo        outras empresas que atuam no mesmo segmento, e que são concorrentes.
+
+
+
+
+                                                 a organização busca encontrar as “melhores práticas” dentro da própria
+                    Benchmarking Interno
+                                                                             organização.
+
+
+
+
+    Tipos de             Benchmarking           a organização busca comparar o seu desempenho com o desempenho de
+  Benchmarking             Genérico                     outras empresas que não atuam no mesmo segmento.
+
+
+
+                                             é uma “espécie” de benchmarking genérico. A diferença é que no benchmarking
+                         Benchmarking          funcional a organização busca estudar e comparar apenas alguma “função
+                           Funcional               específica” (e não o processo como um todo) de outra organização
+                                                                   (independente do ramo de atuação).
+
+
+
+                        Benchmarking com
+                                                                    as organizações cooperam entre si.
+Prof. Stefan Fantini       Cooperação
+ @prof.stefan.fantini
+                                           https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Os 5s da Qualidade
+
+
+
+                                                                     Seiri
+                                                         (organização / priorização /
+                                                                 utilização)
+
+
+
+                                  Shitsuke                                                      Seiton
+                        (disciplina / autodisciplina /                                  (arrumação / ordenação /
+                            comprometimento)                                                    ordem)
+
+
+
+
+                                       Seiketsu                                             Seiso
+                                (padronização / higiene /                                (limpeza)
+                                        saúde)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Ciclo PDCA (Ciclo de Deming / Ciclo de Shewhart)
+
+
+
+
+                                                PLAN
+
+
+
+
+                          ACT                                        DO
+
+
+
+
+                                              CHECK
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Ciclo PDSA
+
+
+
+
+                                           PLAN
+
+
+
+
+                        ACT                                   DO
+
+
+
+
+                                         STUDY
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Seis Sigma
+ É uma técnica que, através da coleta e análise dados, busca eliminar os defeitos (com base
+ em dados estatísticos sobre os processos), com o objetivo de aproximar os processos da
+ “perfeição”.
+
+
+
+                         Definir                                              Definir
+
+                        Mensurar                                             Mensurar
+
+  DMADV                 Analisar                            DMAIC             Analisar
+
+                        Desenhar                                         Melhorar (Improve)
+
+                        Verificar                                            Controlar
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Seis Sigma
+ “A representação estatística de Six Sigma descreve quantitativamente como um processo é
+ executado. Ao atingir seis sigmas, um processo obtém a capacidade de apresentar não mais
+ que 3,4 defeitos por milhão de oportunidades de defeito.” (CBOK)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESPE – SEDF – Analista de Gestão - 2017)
+Segundo a técnica de melhoria de processo six sigma, para atingir elevados níveis de
+qualidade, o processo não pode produzir mais de três ou quatro defeitos por milhão
+de quantidade total de chances para um defeito.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma
+ O Fluxograma, também chamado de Diagrama de Processos, é uma técnica que permite
+ visualizar graficamente o fluxo das atividades de determinado processo.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma
+
+
+                                          É um fluxograma baseado em um formulário padronizado, de fácil
+                                     preenchimento. A padronização do formulário evita distorções, divergências e
+                        Vertical
+                                    incoerências. Esse tipo de fluxograma é mais indicado para rotinas de trabalho
+                                                           existentes em unidades funcionais.
+
+
+                                      Tem a vantagem de poder ser elaborado com a adoção de alguns recursos
+                   Administrativo   técnicos adicionais, que permitem uma apresentação mais compreensível da
+Fluxograma         (de rotinas de      rotina, facilitando, assim, a análise da rotina e sua posterior otimização /
+                     trabalho)      racionalização. Esse tipo de fluxograma não utiliza “formulários padronizados”.
+                                             Portanto, o analista tem uma maior liberdade para elaborá-lo.
+
+
+                                        fornece uma visão “global” do fluxo de trabalho. Diferentemente dos
+                       Global        anteriores, no fluxograma global os órgãos aparecem no fluxo sob a forma de
+                    (de colunas)     “colunas”. A utilização desse fluxograma é mais indicada para se transmitir o
+                                                        fluxo de trabalho para toda a organização
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma Vertical
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma Administrativo
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma Global
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma Global
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Símbolos utilizados no fluxograma
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Símbolos utilizados no fluxograma
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Símbolos utilizados no fluxograma
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Símbolos utilizados no fluxograma
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Símbolos utilizados no fluxograma
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Fluxograma
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Concentração de Defeitos
+ Trata-se de uma ferramenta que consiste em representar graficamente “figuras” de
+ determinado produto que será fabricado, em diversos ângulos diferentes, com o objetivo de
+ indicar em quais “locais” costumam acontecer os defeitos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Diagrama de Concentração de Defeitos
+                                         Defeitos de Hardware em uma TV de LED
+
+                                ângulo frontal                                    ângulo traseiro
+
+
+
+
+                                ângulo superior                                    ângulo inferior
+
+
+
+
+                                                                                              ângulo lateral
+                        ângulo lateral
+                                                                                                 direito
+                          esquerdo
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Ferramenta 5W2H
+ A ferramenta 5W2H tem por objetivo facilitar o planejamento das atividades. Trata-se,
+ basicamente, de um “check-list” que auxilia o gestor a traçar os planos de ação para que os
+ objetivos sejam alcançados.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Ferramenta 5W2H
+                            •What? (O que?)
+                        W   •O que deve ser feito? (Indica qual ação deve ser realizada)
+
+                            •Why? (Por que?)
+                        W   •Por que deve ser feito? (Indica poruqe a ação deve ser realizada)
+
+                            •Who? (Quem?)
+                        W   •Quem deve fazer? (Indica os responsáveis pela execução da ação)
+
+                            •Where? (Onde?)
+                        W   •Onde deve ser realizado? (Indica a localização que deve ser realizada a ação)
+
+                            •When? (Quando?)
+                        W   •Quando deve ser realizado? (Indica os prazos a serem obedecidos)
+
+                            •How? (Como?)
+                        H   •Como deve ser realizado? (Indica o processo de execução da ação)
+
+                            •How much? (Quanto?)
+                        H   •Quanto custará? (Indica o orçamento que deverá ser alocado para a ação)
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Matriz GUT
+ A Matriz GUT (ou Matriz Gravidade, Urgência e Tendência) é uma ferramenta utilizada para
+ priorizar os problemas.
+
+
+                                                GUT
+
+
+
+
+            Gravidade:                      Urgência:                           Tendência:
+    Impacto do problema sobre a   Prazo que a organização possui       Forma que esse problema irá se
+           organização.             para agir sobre o problema                 desenvolver
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Matriz GUT
+
+
+
+       Problema         Gravidade             Urgência                   Tendência   GxUxT
+         Alpha              5                        1                       1         5
+         Beta               1                        2                       4         8
+        Gamma               2                        4                       4        32
+         Delta              4                        2                       5        40
+        Epsilon             3                        3                       1         9
+         Zeta               5                        2                       3        30
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Brainstorming
+ O Brainstorming, também chamado de “Tempestade de Ideias” (“Tempestade Cerebral”), é
+ uma ferramenta utilizada com o objetivo de criar alternativas criativas para solução de
+ problemas ou para o aproveitamento de oportunidades.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Brainstorming
+
+
+
+
+                               Coleta de Modo Estruturado (Brainstorming
+                                             estruturado)
+                  Geração de
+                    Ideias
+                                    Coleta de Modo Não Estruturado
+    Etapas                          (Brainstorming não estruturado)
+
+
+                               Seleção de ideias
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      https://t.me/KakashiAssinaturasBot
+Ferramentas da Qualidade
+Brainwriting
+ O brainwriting é a versão "escrita" do brainsotrming, utilizada com o objetivo de criar
+ alternativas criativas para solução de problemas ou para o aproveitamento de
+ oportunidades.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (IBFC – EMDEC – Assistente Administrativo -2019)
+Em relação às ferramentas da gestão de qualidade, leia o excerto:
+“O _____ permite que a empresa monitore e controle os seus processos. As _____
+são formulários em que os dados coletados são preenchidos de forma rápida, fácil e
+concisa. O _____ auxilia a explorar todas as causas potenciais ou reais que resultam
+em um único defeito ou falha.”
+Assinale a alternativa que preencha correta e respectivamente as lacunas.
+a) fluxograma / folhas de verificação / diagrama de Ishikawa
+b) histograma / cartas de controle / diagrama de Ishikawa
+c) fluxograma / cartas de controle / diagrama de Dispersão
+d) histograma / folhas de verificação / diagrama de Dispersão
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (UFLA – UFLA – Nutricionista - 2018)
+O sistema de qualidade 5S originou-se das palavras japonesas seiri, seiton, seiso,
+seiketsu e shitsuke que significam:
+a) Organização, satisfação, limpeza, padronização e autodisciplina.
+b) Organização, ordenação, limpeza, esterilização e autodisciplina.
+c) Organização, ordenação, limpeza, padronização e autodisciplina.
+d) Organização, ordenação, esterilização, padronização e autodisciplina.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (IF-ES – IF-ES – Auxiliar em Administração - 2016)
+O fluxograma ____________ é normalmente destinado à representação de rotinas
+simples e é o mais utilizado para identificar as rotinas existentes num setor de
+trabalho qualquer. Como exemplo de vantagem, este fluxograma pode ser impresso
+como formulário padronizado e de fácil preenchimento.
+Assinale a alternativa que preenche CORRETAMENTE a lacuna da frase acima.
+a) Administrativo
+b) Global
+c) Vertical
+d) Parcial ou descritivo
+e) Esqueleto
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (Instituto AOCP – EBSERH – Assistente - 2015)
+Um fluxograma é uma ferramenta que estabelece levantamentos e análise de
+rotinas e é representado por símbolos. Qual simbologia de um fluxograma vertical
+diz respeito a transporte?
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FGV – AL-BA – Técnico - Administração)
+Dentre as diversas ferramentas de gestão de qualidade, assinale aquela que melhor
+visualiza a quantidade de defeitos em lotes de uma linha de produção.
+a) Diagrama de dispersão.
+b) Diagrama de Pareto.
+c) Diagrama de linha de tempo.
+d) Fluxograma.
+e) Histograma.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESGRANRIO – Petrobrás - Técnico)
+Considere a descrição gráfica abaixo que identifica as principais reclamações de
+clientes em relação às companhias telefônicas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESGRANRIO – Petrobrás - Técnico)
+(...)
+As colunas refletem as frequências dessas reclamações em ordem decrescente de
+importância da esquerda para a direita. Essa ferramenta para o controle de
+qualidade é denominada
+a) diagrama de causa e efeito
+b) diagrama de dispersão
+c) diagrama de Pareto
+d)gráfico de controle
+e) histograma
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (FCC – TRF 4a Região – Analista Judiciário)
+Na gestão da qualidade, a ferramenta que auxilia o gestor a visualizar a alteração
+sofrida por uma variável quando outra se modifica é denominada
+a) gráfico de Pareto.
+b) diagrama de dispersão.
+c) histograma.
+d) diagrama de causa e efeito.
+e) carta de controle.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESGRANRIO – Petrobrás - Técnico)
+A ferramenta da qualidade denominada Gráfico de Controle é utilizada para
+a) acompanhar a não conformidade de um processo.
+b) visualizar a intensidade do relacionamento entre duas variáveis.
+c) comparar a relação entre dois efeitos.
+d) verificar a relação entre as variáveis.
+e) identificar todas as causas possíveis de um problema.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESPE – INMETRO – Pesquisador)
+Considerando que o funcionamento de uma empresa deverá se basear em
+fundamentos e conceitos da qualidade voltados para a liberação da área ocupada
+com material desorganizado, arrumação, limpeza, padronização e disciplina dos
+colaboradores, essa empresa deverá adotar a técnica de qualidade denominada
+a) kanban.
+b) kaizen.
+c) benchmarking.
+d) housekeeping.
+e) just in time.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (FGV – AL-BA – Técnico de Nível Superior)
+Um determinado gerente de departamento vê‐se a volta com numerosos problemas
+no ambiente de trabalho e precisa estabelecer um método que priorize esses
+problemas e a análise dos riscos envolvidos. Considerando as ferramentas de gestão
+de qualidade, assinale a opção que indica a que melhor se adapta a este contexto
+a) 5W2H.
+b) Brainstorming.
+c) Diagrama de árvore.
+d) Estratificação.
+e) Matriz GUT.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CETRO – AMASUL – Tecnólogo)
+Considerando o 5s como ferramenta de qualidade, assinale a alternativa que
+apresenta o s que corresponde ao senso de limpeza e que permite monitorar
+elementos que, se estiverem sujos, indicam não conformidade.
+a) Seiri.
+b) Seiton.
+c) Seiso.
+d) Seiketsu.
+e) Shitsuke.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+05 Gaps da Qualidade
+
+                        Gap 1: divergência entre a expectativa do cliente e o que a empresa entendeu como sendo a expectativa
+                                                                        do cliente
+
+
+                         Gap 2: divergência entre o entendimento da empresa e as especificações que a organização elabora
+                                                                para atender o cliente
+
+
+     05 Gaps da
+                                      Gap 3: divergência entre as especificações elaboradas e o serviço gerado
+     Qualidade
+
+
+                                    Gap 4: divergência entre o serviço gerado e a comunicação externa ao cliente
+
+
+                           Gap 5: divergência entre o serviço esperado (expectativa no início do ciclo) e o serviço fornecido
+                                                          (percepção sobre o serviço prestado)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             https://t.me/KakashiAssinaturasBot
+                        (CESPE – PGE-PE – Analista Administrativo -2019)
+Julgue o item subsecutivo, relativos à gestão da qualidade.
+Um dos modelos utilizados para avaliar a qualidade em serviços é o modelo dos gaps
+em serviços, que compara a expectativa do cliente no início do ciclo com a sua
+percepção sobre determinado serviço prestado; ao resultado dessa comparação
+denomina‐se gap do serviço.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+A Qualidade Total – Do TQC aos Modelos de Excelência
+
+O Controle Total da Qualidade (TQC – Total Quality Control), é “um sistema eficaz para
+integração dos esforços dos diversos grupos em uma organização, no desenvolvimento da
+qualidade, na manutenção e na melhoria da qualidade.” (Feigenbaum, 1951)
+
+                         Qualidade não é apenas controlar a uniformidade de produtos, de acordo com especificações criadas por
+                                          engenheiros. Qualidade é uma questão de satisfação do cliente.
+
+
+                        A qualidade é construída passo a passo, nos processos de desenvolvimento de fornecedores, produção,
+                                                      distribuição, vendas e assistência técnica.
+
+
+    Ideias do TQC       A qualidade tem que ser embutida no produto ou serviço desde o começo, a partir dos desejos e interesses
+     (Maximiano)                                                      do cliente.
+
+
+                          A questão importante é garantir a qualidade ao longo de todo o processo e não apenas encontrar os
+                                                          defeitos no final da linha de produção.
+
+                         Construir e melhorar a qualidade não depende apenas dos engenheiros e dos especialistas do controle da
+                         qualidade. Todos, na empresa, são responsáveis pela qualidade, desde as pessoas que estão no início
+                                                              da hierarquia, até o presidente.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              https://t.me/KakashiAssinaturasBot
+                        (FGV – 2018 – Câmara de Salvador-BA – Analista - 2018)
+A empresa Carro Jiraia S.A. gerencia a qualidade por meio de um método japonês
+conhecido por TQC (Controle da Qualidade Total).
+Com base no contexto da Carro Jiraia S.A., e à luz do conceito de TQC, uma possível
+ação a ser tomada seria:
+a) buscar adotar princípios burocráticos, garantindo a racionalidade nos processos e
+a centralização decisória;
+b) estimular o uso de controles corretivos em detrimento dos preventivos,
+reduzindo, assim, gastos desnecessários;
+c) controlar rigidamente a disseminação de informação na instituição, minimizando
+o risco de dados confidenciais serem divulgados indevidamente;
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FGV – 2018 – Câmara de Salvador-BA – Analista - 2018)
+(...)
+d) promover uma alta rotatividade profissional, assegurando, com isso, a atividade
+de inovação na empresa;
+e) averiguar o feedback dos clientes, fazendo com que orientem a criação e o
+aprimoramento de produtos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+A Qualidade Total – Do TQC aos Modelos de Excelência
+Controle Total da Qualidade
+O Controle Total da Qualidade (TQC – Total Quality Control), é “um sistema eficaz para
+integração dos esforços dos diversos grupos em uma organização, no desenvolvimento da
+qualidade, na manutenção e na melhoria da qualidade.” (Feigenbaum, 1951)
+
+                         Qualidade não é apenas controlar a uniformidade de produtos, de acordo com especificações criadas por
+                                          engenheiros. Qualidade é uma questão de satisfação do cliente.
+
+
+                        A qualidade é construída passo a passo, nos processos de desenvolvimento de fornecedores, produção,
+                                                      distribuição, vendas e assistência técnica.
+
+
+    Ideias do TQC       A qualidade tem que ser embutida no produto ou serviço desde o começo, a partir dos desejos e interesses
+     (Maximiano)                                                      do cliente.
+
+
+                          A questão importante é garantir a qualidade ao longo de todo o processo e não apenas encontrar os
+                                                          defeitos no final da linha de produção.
+
+                         Construir e melhorar a qualidade não depende apenas dos engenheiros e dos especialistas do controle da
+                         qualidade. Todos, na empresa, são responsáveis pela qualidade, desde as pessoas que estão no início
+                                                              da hierarquia, até o presidente.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              https://t.me/KakashiAssinaturasBot
+ A Qualidade Total – Do TQC aos Modelos de Excelência
+ Melhoria Contínua (Kaizen)
+O Kaizen é um conceito (filosofia) de melhoria contínua da qualidade que tem por objetivo
+aumentar o nível de qualidade dos diversos processos existentes na organização, através
+da redução dos desperdícios e da redução das variabilidades dos processos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+ A Qualidade Total – Do TQC aos Modelos de Excelência
+ Melhoria Contínua (Kaizen)
+
+
+                                     1 - Promover aprimoramentos contínuos
+
+                                                2 - Enfatizar os clientes
+
+                                   3 - Reconhecer os problemas abertamente
+
+                                     4 - Promover a discussão aberta e franca
+
+          Princípios                 5 - Criar e incentivar equipes de trabalho
+          do Kaizen
+         (Wellington)   6 - Gerenciar projetos por intermédio de equipes multifuncionais
+
+                                 7 - Incentivar o relacionamento entre as pessoas
+
+                                          8 - Desenvolver a autodisciplina
+
+                                   9 - Comunicar e informar a todas as pessoas
+
+                              10 - Treinar intensamente e capacitar todas as pessoas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  https://t.me/KakashiAssinaturasBot
+                        (CESPE – EBC – Analista – Administração)
+Kaizen, palavra de origem japonesa que significa melhoria contínua, é utilizada, no
+âmbito do estudo das organizações, para designar a redução de desperdícios.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FUNCAB – IF-AM – Administrador)
+O kaizen é uma filosofia de contínuo melhoramento de todos os empregados da
+organização, de maneira que realizem suas tarefas um pouco melhor a cada dia.
+Assinale a alternativa que apresenta corretamente o princípio que faz parte da
+maneira de pensar e agir desta filosofia.
+a) Enfatizar o resultado
+b) Criar e incentivar trabalhos individuais
+c) Treinar pessoas com baixo rendimento
+d) Comunicar e informar a todas as pessoas
+e) Reconhecer os problemas de forma discreta
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+ A Qualidade Total – Do TQC aos Modelos de Excelência
+ Gerenciamento Total da Qualidade / Gestão da Qualidade Total (TQM)
+
+ A TQM (ou Gestão da Qualidade Total ‐ GQT) visa à eficiência na relação entre todos os
+ envolvidos com a organização. Para a TQM, a qualidade é responsabilidade de todos os
+ envolvidos com a organização (operários, gestores, alta cúpula, clientes, fornecedores,
+ etc.).
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+ A Qualidade Total – Do TQC aos Modelos de Excelência
+ Gerenciamento Total da Qualidade / Gestão da Qualidade Total (TQM)
+
+
+
+
+                        O interesse do cliente é o ponto de partida para definir e administrar a qualidade
+
+       03
+   Princípios              A administração da qualidade exige o envolvimento de todos na empresa
+  (Maximiano)
+
+                                 A administração da qualidade envolve todo o ciclo do produto
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              https://t.me/KakashiAssinaturasBot
+                        (FGV – PGE-RO – Analista – 2015 - ADAPTADA)
+Os programas de Gestão da Qualidade Total (TQM) são voltados para o atendimento
+das necessidades e expectativas dos clientes, a construção do comprometimento de
+todos os membros da organização e o melhoramento contínuo dos processos e
+produtos da organização. Entre os elementos importantes para a implantação de
+programas de TQM estão o desenvolvimento de parcerias com os fornecedores e o
+empowerment dos funcionários.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+ A Qualidade Total – Do TQC aos Modelos de Excelência
+ Etapas do Processo de Melhoria da Qualidade
+
+
+                        1 – Escolha de uma área de melhoria (Escolha de uma área de “trabalho”)
+
+
+
+                        2 – Definição e Organização da equipe de trabalho que tratará da melhoria
+
+
+
+                                            3 - Identificação dos benchmarks
+
+
+
+                                              4 – Análise do método atual:
+
+
+
+                                  5 – Desenvolvimento de um estudo piloto da melhoria
+
+
+
+                                            6 - Implementação das melhorias
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+                        (FUNCAB – IDAF-ES – Administrador)
+O gerenciamento da qualidade total é um conceito de controle que atribui às
+pessoas, e não somente aos gerentes e dirigentes, a responsabilidade pelo alcance
+dos padrões desejados de qualidade.
+Assinale a alternativa que contém a sequência correta no processo de melhoria da
+qualidade.
+a) Organizar a equipe de melhoria da qualidade Escolher uma área de trabalho
+Identificar benchmarks Analisar o desempenho do método atual Desenvolver um
+estudo piloto Administrar a implementação das melhorias.
+b) Identificar benchmarks Escolher uma área de trabalho Organizar a equipe de
+melhoria da qualidade Analisar o desempenho do método atual Desenvolver um
+estudo piloto Administrar a implementação das melhorias.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (FUNCAB – IDAF-ES – Administrador)
+(...)
+c) Escolher uma área de trabalho Organizar a equipe de melhoria da qualidade
+Identificar benchmarks Analisar o desempenho do método atual Desenvolver um
+estudo piloto Administrar a implementação das melhorias.
+d) Desenvolver um estudo piloto Escolher uma área de trabalho Organizar a
+equipe de melhoria da qualidade Identificar benchmarks Analisar o desempenho
+do método atual Administrar a implementação das melhorias.
+e) Analisar o desempenho do método atual       Escolher uma área de trabalho
+Organizar a equipe de melhoria da qualidade Identificar benchmarks Desenvolver
+um estudo piloto Administrar a implementação das melhorias.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (Marinha – CAP – Técnico)
+Qual é a etapa do processo de melhoria da qualidade em que a equipe propõe a
+melhoria e cabe à direção assegurar sua implementação?
+a) Identificação dos benchmarks.
+b) Análise do método atual.
+c) Implementação das melhorias.
+d) Estudo piloto da melhoria.
+e) Escolha de uma área de melhoria.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+Gerenciamento Pelas Diretrizes
+ Trata‐se de um método de priorização de objetivos estratégicos e de desdobramento
+ desses objetivos por todos os níveis hierárquicos da organização. O GPD auxilia na
+ implementação do planejamento estratégico da organização. (Toledo, Borrás e Mergulhão, 2017)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  https://t.me/KakashiAssinaturasBot
+Gerenciamento Pelas Diretrizes
+
+
+                     Gerenciamento funcional
+                 Cuida da manutenção e melhoria
+              contínua das operações do dia a dia de               Gerenciamento interfuncional
+                  uma organização. Representa a                    Cuida da solução de problemas
+              administração da rotina do trabalho diário         prioritários da alta administração por
+               com a prática da gestão da qualidade.          meio do desdobramento das diretrizes e
+                                                                seu controle entre departamentos. Tem
+                                                                  como função olhar para o futuro da
+                                                                               organização
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            https://t.me/KakashiAssinaturasBot
+                        (FCC – TCE-GO – Analista de Controle Externo)
+O mecanismo de gestão denominado gerenciamento pelas diretrizes
+a) é um sistema administrativo desenvolvido para ser utilizado apenas junto ao nível
+hierárquico mais baixo de uma organização, pois se percebeu que neste nível o
+planejamento estratégico não era compreendido.
+b) define as diretrizes tecnológicas em um planejamento estratégico e que é dividida
+em três dimensões: o grau de automação das atividades, a escala de utilização e o
+grau de integração tecnológica na organização.
+c) é constituído pelo sistema de gerenciamento interfuncional, que cuida da solução
+de problemas rotineiros da linha de produção por meio da análise de metas e
+controle vertical, não necessitando de suporte da alta administração.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (FCC – TCE-GO – Analista de Controle Externo)
+(...)
+d) estabelece a ideologia central da organização, que é constituída pelos seus
+princípios, valores e objetivos missionários.
+e) é constituído pelo sistema de gerenciamento funcional, ou gerenciamento da
+rotina do dia‐a‐dia, que cuida da manutenção e melhoria contínua das operações do
+dia‐a‐dia de uma instituição.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESPE – TCU – Analista de Controle Externo)
+O gerenciamento pelas diretrizes é constituído de dois sistemas: gerenciamento
+funcional, que cuida da manutenção e melhoria contínua da rotina diária e
+gerenciamento interfuncional, que cuida da solução dos problemas prioritários da
+alta administração.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+
+A Fundação Nacional da Qualidade (FNQ) é uma instituição sem fins lucrativos, composta
+por representantes de diversas organizações (públicas e privadas), que tem por objetivo
+disseminar educação e conhecimento com foco na gestão voltada para a excelência e
+para a transformação das organizações do Brasil.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+
+                               disseminar os fundamentos da gestão para excelência e para o aumento da
+                                              competitividade das organizações e do Brasil
+
+
+                           promover a conscientização da gestão para excelência nas organizações e facilitar a
+                           transmissão de informações e conceitos relativos a técnicas e práticas bem-sucedidas
+
+                        instituir o PRÊMIO NACIONAL DA QUALIDADE (PNQ), reconhecimento que será concedido
+                           anualmente às organizações estabelecidas no Brasil, avaliadas conforme os critérios de
+   Finalidades                         premiação e regulamentos para candidatura por ela estabelecidos
+   Estatutárias
+     da FNQ
+                          planejar, organizar, operacionalizar, controlar e aperfeiçoar todo o processo de premiação
+
+
+                        promover e participar de eventos, conferências, seminários, palestras cursos, exposições e de
+                                     programas de divulgação vinculados à sua finalidade institucional
+
+                          firmar contratos, acordos e convênios, com entidades públicas ou privadas, nacionais ou
+                          estrangeiras, visando à produção e a distribuição de materiais referentes à prestação de
+                                     serviços especializados, atinentes às suas finalidades institucionais
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+
+
+                         atuar como articuladora da rede nacional de prêmios da qualidade, com objetivo de
+                                     disseminar o Modelo de Excelência da Gestão® (MEG)
+
+                         criar e manter acervo de obras, informações e publicações técnicas que permitam a
+                           operacionalização e o aperfeiçoamento do processo de premiação, bem como o
+                        fomento, o suporte técnico e a educação da gestão para excelência das organizações
+
+                        promover ações educativas para conscientizar e estimular as pessoas e organizações
+        Finalidades                 a adotarem o Modelo de Excelência da Gestão® (MEG)
+        Estatutárias
+          da FNQ        promover estudos e pesquisas, desenvolvimento de tecnologias alternativas, produção
+                                e divulgação de informações e conhecimentos técnicos e científicos
+
+
+                                                       promoção do voluntariado
+
+
+                         promoção da ética, da paz, da cidadania, dos direitos humanos, da democracia e de
+                                                      outros valores universais
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+
+O MEG é um Guia de Referência da Gestão para Excelência, que busca implementar um
+processo de autoconhecimento na organização. Assim, é possível identificar os maiores
+diferenciais competitivos da organização e fortalecê-los. Além disso, é possível identificar
+as principais falhas e corrigi‐las.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+
+
+
+
+                                           Possui um conceito de aprendizado e melhoria contínua, pois seu funcionamento é
+                   Modelo Sistêmico      inspirado no ciclo do PDCL (Plan - Planejar, Do - Executar, Check - Verificar, Learn -
+                                                                               Aprender).
+
+   Principais                              O MEG é considerado um modelo de referência e aprendizado, no qual não existe
+ Características    Não é prescritivo   prescrição na sua implementação de práticas de gestão. Em outras palavras, o MEG é
+    do MEG                                  um modelo não prescritivo, isto é, o MEG não prescreve “práticas de gestão”.
+
+
+                     Adaptável a todo   O MEG permite às organizações adequar suas práticas de gestão aos conceitos de
+                   tipo de organização            uma empresa classe mundial, respeitando a cultura existente.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+                                               Promove a competitividade e a sustentabilidade
+
+                                           Proporciona um referencial para a gestão de organizações
+
+                                                    Promove o aprendizado organizacional
+
+                                       Possibilita a avaliação e a melhoria da gestão de forma abrangente
+
+                                Prepara a organização para participar do Prêmio Nacional da Qualidade® (PNQ)
+
+                                           Melhora a compreensão de anseios das partes interessadas
+                Benefícios do
+                                               Mensura os resultados do negócio de forma objetiva
+                   MEG
+                                                  Desenvolve a visão sistêmica dos executivos
+
+                                        Estimula o comprometimento e a cooperação entre as pessoas
+
+                                                        Incorpora a cultura da excelência
+
+                                           Uniformiza a linguagem e melhora a comunicação gerencial
+                                  Permite um diagnóstico objetivo e a mensuração do grau de maturidade da
+Prof. Stefan Fantini                                                gestão
+ @prof.stefan.fantini                              Enfatiza a integração e o alinhamento sistêmico
+                                       https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+                                     É preciso que todos os colaboradores tenham o entendimento de que todas as atividades da
+                   Pensamento
+                                        organização possuem relação de interdependência, seja internamente, seja entre a
+                    Sistêmico
+                                                          organização e o ambiente com o qual interage.
+                   Aprendizado         Para ser competitiva no mercado, toda organização, seus colaboradores e redes precisam
+                 Organizacional e     sempre buscar novos patamares de competência, por meio de um ciclo de aprendizado
+                    Inovação                       permanente. Aprender e inovar sempre: esse é o caminho.
+                                     Corresponde à atuação dos líderes de forma ética, inspiradora, exemplar e comprometida
+                    Liderança        com a excelência, mobilizando as pessoas em torno de valores, princípios e objetivos da
+                 Transformadora     organização, explorando as potencialidades das culturas presentes, preparando líderes e
+                                                                              pessoas.
+                  Compromisso
+                                    É preciso o entendimento das necessidades e demandas, bem como o estabelecimento de
+                  com as Partes
+                                                    pactos com as partes interessadas, em especial os clientes,
+Fundamentos        Interessadas
+   MEG
+                                    Toda organização deve ter flexibilidade e capacidade de mudança, em tempo hábil, frente a
+                  Adaptabilidade
+                                           novas demandas das partes interessadas e alterações no contexto ambiental.
+
+                                      Corresponde ao compromisso da organização em responder pelos impactos de suas
+                 Desenvolvimento
+                                    decisões e atividades, na sociedade e no meio ambiente, e de contribuir para a melhoria
+                   Sustentável
+                                          das condições de vida, por meio de um comportamento ético e transparente
+                                     Reconhecer que a organização é um conjunto de processos, que precisam ser entendidos
+                  Orientação por
+                                    de ponta a ponta e considerados na definição das estruturas: organizacional, de trabalho e de
+                    Processos
+                                                                              gestão
+                                    Se refere ao alcance de resultados econômicos, sociais e ambientais, bem como de resultados
+Prof. Stefan Fantini
+                 Geração de Valor   dos processos que os potencializam, em níveis de excelência e que atendam às necessidades
+ @prof.stefan.fantini                                           e expectativas as partes interessadas
+                                            https://t.me/KakashiAssinaturasBot
+ Modelo da Fundação Nacional da Qualidade (FNQ) –
+ Modelo de Excelência da Gestão (MEG)
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                         https://t.me/KakashiAssinaturasBot
+                        (UFU-MG – UFU-MG – Administrador - 2019)
+O modelo de excelência em gestão, elaborado pela Fundação Nacional de
+Qualidade, é baseado em oito fundamentos que expressam conceitos reconhecidos
+internacionalmente.
+Assinale a alternativa que NÃO corresponde a um desses fundamentos.
+a) Desenvolvimento sustentável.
+b) Orientação por processos.
+c) Geração de valor.
+d) Prestação de contas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESPE – TELEBRÁS – Analista Superior - 2015)
+O Modelo de Excelência da Gestão (MEG®) é um modelo de referência e
+aprendizado baseado em enfoques sistêmico e prescritivo, e, por isso, é adaptável a
+qualquer tipo de organização.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESPE – TCE-PA – Auditor de Controle Externo - 2016)
+No que concerne a gestão da qualidade, modelo de excelência gerencial e modelo
+de gestão pública, julgue o item que se segue. Promover a competitividade e a
+sustentabilidade e estimular o aprendizado organizacional são benefícios do modelo
+de excelência em gestão adotado pela Fundação Nacional de Qualidade que podem
+ser aplicados a qualquer tipo de organização.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESPE – Polícia Federal – Administrador)
+A Fundação Nacional da Qualidade (FNQ), por meio do modelo de excelência da
+gestão (MEG), ressalta a importância do pensamento sistêmico e do aprendizado
+organizacional como caminhos para a obtenção de resultados qualitativos nas
+organizações.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESPE – TCM-RJ – Auditor - 2015)
+Instituída nos anos 1990, a Fundação Nacional da Qualidade − FNQ é um importante
+centro de estudos, debate e irradiação de conhecimentos sobre excelência em
+gestão. O modelo de excelência preconizado pela FNQ adota, entre seus
+fundamentos, o pensamento sistêmico, que corresponde ao entendimento das
+relações de interdependência entre os diversos componentes de uma organização e
+entre a organização e o ambiente externo.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+
+ O Gespública foi um programa criado com a finalidade de contribuir para a melhoria da
+ qualidade dos serviços públicos prestados aos cidadãos e para o aumento da
+ competitividade do País.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Evolução Histórica
+
+
+
+
+    1990                      1996                               2000                       2005
+        • Sub Programa da       • Programa da                         • Programa da           • Programa Nacional
+          Qualidade e             Qualidade e                           Qualidade no            de Gestão Pública
+          Produtividade na        Participação na                       Serviço Público         e
+          Administração           Administração                         (PQSP)                  Desburocratização
+          Pública                 Pública (QPAP)                                                (GESPÚBLICA)
+                                                                      • Foco na Qualidade
+        • Foco na Gestão de     • Foco na Gestão e                      do Atendimento        • Foco na Gestão
+          Processos               nos Resultados                        ao Cidadão              por Resultados
+                                                                                                Orientada para o
+                                                                                                Cidadão
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Objetivos
+
+                         eliminar o déficit institucional, visando ao integral atendimento das competências
+                                               constitucionais do Poder Executivo Federal
+
+                               promover a governança, aumentando a capacidade de formulação,
+                                      implementação e avaliação das políticas públicas
+
+      Objetivos
+                        promover a eficiência, por meio de melhor aproveitamento dos recursos, relativamente
+         do
+                                                    aos resultados da ação pública
+     Gespública
+
+                        assegurar a eficácia e efetividade da ação governamental, promovendo a adequação
+                                               entre meios, ações, impactos e resultados
+
+
+                               promover a gestão democrática, participativa, transparente e ética
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Princípios Constitucionais (na visão do Gespública)
+
+
+
+                                  Legalidade
+
+
+                                Impessoalidade
+
+    Princípios
+  Constitucionais
+                                  Moralidade
+   (na visão do
+   Gespública)
+
+                                  Publicidade
+
+
+                                   Eficiência
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Fundamentos do MEGP
+                     Pensamento       Entendimento das relações de interdependência entre os diversos componentes de uma
+                      sistêmico          organização, bem como entre a organização e o ambiente externo, com foco na
+                                                                            sociedade.
+
+                                      Busca contínua e alcance de novos patamares de conhecimento, individuais e coletivos,
+                     Aprendizado
+                                        por meio da percepção, reflexão, avaliação e compartilhamento de informações e
+                    organizacional
+                                                                          experiências
+
+                                             Promoção de um ambiente favorável à criatividade, à experimentação e à
+                      Cultura da
+                                         implementação de novas ideias que possam gerar um diferencial para a atuação da
+                      Inovação
+                                                                         organização
+
+   Fundamento         Liderança e       A liderança é o elemento promotor da gestão, responsável pela orientação, estímulo e
+     s MEGP          constância de     comprometimento para o alcance e melhoria dos resultados organizacionais e deve
+   (Gespública)       propósitos             atuar de forma aberta, democrática, inspiradora e motivadora das pessoas
+
+                    Orientação por
+                                      Compreensão e segmentação do conjunto das atividades e processos da organização
+                     processos e
+                                                      que agreguem valor para as partes interessadas,
+                     informações
+
+                                       Indica o rumo de uma organização e a constância de propósitos que a mantém nesse
+                    Visão de Futuro
+                                                                             rumo.
+
+Prof. Stefan Fantini  Geração de         Alcance de resultados consistentes, assegurando o aumento de valor tangível e
+ @prof.stefan.fantini   Valor                   intangível de forma sustentada para todas as partes interessadas
+                                           https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Fundamentos do MEGP
+                                                  Estabelecimento de relações com as pessoas, criando condições de melhoria da
+                        Comprometimento
+                                                     qualidade nas relações de trabalho, para que elas se realizem profissional e
+                         com as pessoas
+                                                                                   humanamente.
+
+                        Foco no cidadão e           Direcionamento das ações públicas para atender, regular e continuamente, as
+                          na sociedade                             necessidades dos cidadãos e da sociedade
+
+                                                   Desenvolvimento de atividades conjuntamente com outras organizações com
+                        Desenvolvimento de
+                                                    objetivos específicos comuns, buscando o pleno uso das suas competências
+                            parcerias
+                                                                    complementares para desenvolver sinergias.
+                                                 Atuação voltada para assegurar às pessoas a condição de cidadania com garantia
+    Fundamentos
+                         Responsabilidade        de acesso aos bens e serviços essenciais, e ao mesmo tempo tendo também como
+       MEGP
+                              social             um dos princípios gerenciais a preservação da biodiversidade e dos ecossistemas
+    (Gespública)
+                                                                                      naturais.
+                                                    participação das partes interessadas no planejamento, acompanhamento e
+                          Controle social         avaliação das atividades da Administração Pública e na execução das políticas e
+                                                                              dos programas públicos.
+
+                                                 atitude gerencial da alta administração que busque o máximo de cooperação das
+                        Gestão participativa
+                                                    pessoas, reconhecendo a capacidade e o potencial diferenciado de cada um.
+
+
+Prof. Stefan Fantini                            Consiste na flexibilidade e resposta rápida às mudanças e demandas da sociedade
+                             Agilidade
+ @prof.stefan.fantini                                                       por serviços e políticas públicas
+                                               https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Correlação entre os fundamentos do MEG e os fundamentos do MEGP
+
+                          Fundamentos MEG                                               Fundamentos MEGP
+                           Pensamento Sistêmico                                           Pensamento sistêmico
+                                                                                       Aprendizado organizacional
+                   Aprendizado Organizacional e Inovação
+                                                                                          Cultura da Inovação
+                         Liderança Transformadora                                Liderança e constância de propósitos
+                   Compromisso com as Partes Interessadas                        Comprometimento com as pessoas
+                              Adaptabilidade                                                    Agilidade
+                        Desenvolvimento Sustentável                                      Responsabilidade social
+                          Orientação por Processos                             Orientação por processos e informações
+                              Geração de Valor                                              Geração de Valor
+                                                                                             Visão de Futuro
+                                                                                      Foco no cidadão e na sociedade
+                                                                                      Desenvolvimento de parcerias
+                                                                                             Controle social
+                                                                                           Gestão participativa
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Critérios de Avaliação do Gespública
+
+
+                                               Este critério aborda a governança pública; o exercício da liderança pela alta
+                          Critério 1 –
+                                               administração e a atuação da alta administração na condução da análise do
+                          Governança
+                                                                      desempenho do órgão/entidade
+
+
+                          Critério 2 –     Este item aborda a implementação de processos que contribuem diretamente para a
+                          Estratégia e        formulação de uma estratégia consistente, coerente e alinhada aos objetivos de
+                            Planos                                               governo.
+    Critérios de
+    Avaliação do
+     Gespública
+                           Critério 3 –        Este critério aborda o relacionamento do órgão/entidade pública com os
+                        Cidadão-usuário    Cidadãos-usuários, abrangendo a imagem da organização, o conhecimento que os
+                         (Público-alvo)     Cidadãos-usuários tem da organização, a maneira como essa se relaciona com estes.
+
+
+                            Critério 4 –
+                                            Este critério aborda a observância do interesse público, a observância do regime
+                        Interesse Público
+                                                             administrativo e a participação e o controle social
+                           e Cidadania
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Critérios de Avaliação do Gespública
+
+
+                          Critério 5 –    Este critério aborda a implementação de processos que contribuem diretamente
+                         Informação e      para a disponibilização sistemática de informações atualizadas, precisas e seguras
+                        Conhecimento                                          aos usuários.
+
+
+                         Critério 6 –      Este critério aborda o sistema de trabalho do órgão/entidade, o desenvolvimento
+                          Pessoas                         profissional e a qualidade de vida da força de trabalho
+     Critérios de
+     Avaliação do
+      Gespública                                Este critério aborda a gestão dos processos finalísticos e os processos
+                         Critério 7 –        financeiros, de integração de políticas públicas, de atuação descentralizada, de
+                         Processos          compras e contratos, de parcerias com entidades civis e de gestão do patrimônio
+                                                                                   público
+
+
+                         Critério 8 –
+                                             Este critério apresenta os resultados produzidos pelo órgão/entidade pública.
+                         Resultados
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Critérios de Avaiação do Gespública
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Critérios de Avaiação do Gespública                                          1. Governança
+
+
+                                                                           2. Estratégia e planos
+                              Planejamento
+                                                                            3. Cidadão-usuário
+
+
+                                                                      4. Interesse público e Cidadania
+
+
+  08 dimensões são                                                              6. Pessoas
+   divididas em 04
+        blocos                  Execução
+                                                                               7. Processos
+
+
+                                 Controle                                      8. Resultados
+
+
+
+Prof. Stefan Fantini    Informação e Conhecimentos                    5. Informação e Conhecimento
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+ Programa Nacional de Gestão Pública e Desburocratização -
+ GESPÚBLICA
+ Critérios de Avaiação do Gespública
+
+
+
+                                          Cidadão-
+                                          usuário
+
+
+
+
+                                        2. Estratégias
+                        1. Governança
+
+
+
+                                           nteresse
+                                         Público e
+                                         Cidadania
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             https://t.me/KakashiAssinaturasBot
+                        (Instituto AOCP – TRT 1ª Região – Analista - 2018)
+Assinale a alternativa que apresenta o instrumento criado pelo Governo Federal do
+Brasil cuja missão é promover a gestão pública de excelência, visando contribuir
+para a qualidade dos serviços públicos prestados ao cidadão e para o aumento da
+competitividade do país.
+a) Programa de Qualidade e Participação na Administração Pública (QPAP).
+b) Programa de Qualidade no Serviço Público (PQSP).
+c) Programa Nacional de Desburocratização.
+d) Comissão de Simplificação Burocrática.
+e) Gespública.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (IF Sul Rio Grandense - Administrador - 2019)
+O Modelo de Excelência em Gestão Pública está alicerçado em fundamentos próprios da
+gestão de excelência contemporânea.
+São fundamentos do Modelo Gespública:
+a) pensamento sistêmico - aprendizado organizacional - cultura da inovação - liderança e
+constância de propósitos - orientação por processos e informações – geração de valor.
+b) visão de futuro – sustentabilidade - geração de valor - comprometimento com as
+pessoas – desenvolvimento de parcerias - governabilidade.
+c) aprendizado organizacional – sustentabilidade - geração de valor – desenvolvimento
+de parcerias – orientação por processos e informações – gestão de riscos.
+d) cultura da inovação - foco no cidadão e na sociedade – aprendizado organizacional –
+gestão de riscos – gestão participativa- governabilidade.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (CESPE – EBSERH – Assistente Administrativo - 2018)
+A respeito da gestão da qualidade e do modelo de excelência gerencial, julgue o
+item a seguir.
+O Programa Nacional de Gestão Pública e Desburocratização, denominado
+GesPública, busca a promoção da qualidade e excelência dos serviços públicos
+prestados ao cidadão.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (VUNESP – PC-BA – Investigador de Polícia - 2018)
+A busca contínua e o alcance de novos patamares de conhecimento, individuais e
+coletivos, por meio da percepção, reflexão, avaliação e compartilhamento de
+informações e experiências é a definição de um dos conceitos que fundamentam o
+modelo da Gespública. Trata-se do conceito de
+a) Controle Social.
+b) Cultura da Inovação.
+c) Responsabilidade Social.
+d) Aprendizado Organizacional.
+e) Foco no Cidadão e na Sociedade.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        (COMPERVE – UFRN – Assistente - 2017)
+O Programa Nacional de Gestão Pública e Desburocratização (GESPÚBLICA) é
+constituído de oito partes integradas, denominadas de Critérios, que orientam a
+adoção de práticas de excelência com a finalidade de levar as organizações a elevar
+o seu desempenho na prestação de serviço ao cidadão. Um desses critérios aborda a
+observância do regime administrativo, a participação e o controle social. Esse
+critério é denominado
+a) informação e conhecimento.
+b) governança.
+c) interesse público e cidadania.
+d) processos.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+ Decreto n. 9.094/2017
+ Diretrizes
+                                                                 I - presunção de boa-fé
+
+
+                                                 II - compartilhamento de informações, nos termos da lei
+
+
+                III - atuação integrada e sistêmica na expedição de atestados, certidões e documentos comprobatórios de regularidade
+
+
+                                               IV - racionalização de métodos e procedimentos de controle
+  Diretrizes
+                        V - eliminação de formalidades e exigências cujo custo econômico ou social seja superior ao risco envolvido
+
+                   VI - aplicação de soluções tecnológicas que visem a simplificar processos e procedimentos de atendimento aos
+                     usuários dos serviços públicos e a propiciar melhores condições para o compartilhamento das informações
+
+                               VII - utilização de linguagem clara, que evite o uso de siglas, jargões e estrangeirismos
+
+                        VIII - articulação com os Estados, o Distrito Federal, os Municípios e os outros Poderes para a integração,
+                                             racionalização, disponibilização e simplificação de serviços públicos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                https://t.me/KakashiAssinaturasBot
+ Decreto n. 9.094/2017
+ Diretrizes
+
+
+
+
+                        I - os serviços prestados pelo órgão ou pela entidade do Poder Executivo federal
+
+       A Carta de
+      Serviços ao               II - as formas de acesso aos serviços a que se refere o inciso I
+      Usuário tem
+      por objetivo
+     informar aos                       III - os serviços publicados no portal único gov.br
+        usuário
+
+                          IV - os compromissos e padrões de qualidade do atendimento ao público
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  https://t.me/KakashiAssinaturasBot
+ Decreto n. 9.094/2017
+ Diretrizes                                a) os usuários que farão jus à prioridade no atendimento
+
+                                                   b) o tempo de espera para o atendimento
+
+                                                   c) o prazo para a realização dos serviços
+
+                                             d) os mecanismos de comunicação com os usuários
+
+                           e) os procedimentos para receber, atender, gerir e responder às sugestões e reclamações
+        Para detalhar o
+          padrão de         f) as etapas, presentes e futuras, esperadas para a realização dos serviços, incluídas a
+         qualidade do                                        estimativas de prazos
+        atendimento, a
+       Carta de Serviços       g) os mecanismos para a consulta pelos usuários acerca das etapas, cumpridas e
+       ao Usuário deverá                     pendentes, para a realização do serviço solicitado
+          estabelecer
+                                    h) o tratamento a ser dispensado aos usuários quando do atendimento
+
+                           I) os elementos básicos para o sistema de sinalização visual das unidades de atendimento
+
+                           j) as condições mínimas a serem observadas pelas unidades de atendimento, em especial
+                                           no que se refere à acessibilidade, à limpeza e ao conforto
+                              k) os procedimentos para atendimento quando o sistema informatizado se encontrar
+                                                                indisponível
+
+Prof. Stefan Fantini                       l) outras informações julgadas de interesse dos usuários
+ @prof.stefan.fantini
+                                           https://t.me/KakashiAssinaturasBot
+                        (MPE-SP – MPE-SP – Promotor - 2019)
+Os órgãos e entidades responsáveis pela prestação dos serviços públicos divulgarão
+Carta de Serviços ao Usuário, que tem por objetivo informar o usuário sobre os
+serviços prestados pelo órgão ou entidade, as formas de acesso a esses serviços e
+seus compromissos e padrões de qualidade de atendimento ao público.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+ Certificação ISSO 9000
+ A ISO 9000 é um conjunto de normas técnicas internacionais, que definem modelo de
+ gestão da qualidade para as organizações.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              https://t.me/KakashiAssinaturasBot
+ Certificação ISSO 9000
+
+                                                           Foco no Cliente
+
+
+                                                              Liderança
+
+
+                                    Engajamento das pessoas (Envolvimento das pessoas)
+Princípios da
+ Gestão da
+                                Abordagem de Processo (Abordagem Sistêmica para a Gestão)
+Qualidade da
+  ISO 9000
+                                                         Melhoria Contínua
+
+
+                  Tomada de decisão com base em evidências (Abordagem Factual para Tomada de Decisões)
+
+
+                        Gestão de relacionamento (Benefícios mútuos nas relações com os fornecedores)
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         https://t.me/KakashiAssinaturasBot
+                        (CESPE – EBSERH – Tecnólogo - 2018)
+Indústrias farmacêuticas que possuam certificações da ISO 9000 têm garantia
+quanto aos produtos fabricados.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (CESPE – INMETRO – Analista - Adaptada)
+Segundo a ISO 9000, entre os princípios da gestão da qualidade, incluem-se foco no
+cliente, liderança, melhoria contínua e envolvimento das pessoas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        (FCC – PGE-MT – Engenheiro - 2016)
+Conforme a NBR ISO 9.001/2015, são princípios de gestão da qualidade:
+a) Liderança, análise financeira e sustentabilidade ambiental.
+b) Foco no cliente, engajamento das pessoas e melhoria.
+c) Gestão de relacionamento, análise financeira e assertividade.
+d) Melhoria, controle de processos e sustentabilidade ambiental.
+e) Liderança, assertividade e controle de processos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES
+
+
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+                        1. (CESPE – SEFAZ-CE – Auditor – 2021)
+O controle estatístico da qualidade (CEQ) é uma ferramenta de gestão da qualidade
+destinada a identificar desvios, erros e discrepâncias no processo produtivo.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        2. (CEBRASPE – CODEVASF – Analista - 2021)
+Utilização, ordenação, limpeza, asseio e autodisciplina integram os cinco conceitos
+do programa 5S.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        3. (CEBRASPE – CODEVASF – Analista - 2021)
+Uma das ferramentas úteis às etapas de avaliação inseridas na gestão de processos
+é o diagrama de causa e efeito, que consiste em uma técnica para priorização de
+problemas baseada na premissa de que 20% das causas geram 80% dos efeitos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        4.(CEBRASPE – CODEVASF – Analista - 2021)
+Uma das ferramentas para gestão da qualidade é o benchmarking, que se refere a
+implementar uma nova estrutura organizacional, eliminando‐se a anterior.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        5. (CEBRASPE – CODEVASF – Analista - 2021)
+Entre os princípios associados à qualidade total destaca‐se a eliminação de barreiras
+hierárquicas e departamentais.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        6.(CEBRASPE – CODEVASF – Analista - 2021)
+No controle estatístico da qualidade, adota-se o método de inspeção total, no qual
+todos os produtos da organização são inspecionados.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        7. (CEBRASPE – SEED-PR – Professor - 2021)
+São consideradas ferramentas de gestão da qualidade
+a) o histograma e o plano de carreira.
+b) o diagrama de Ishikawa e histogramas.
+c) o histograma e a metodologia DISC.
+d) a avaliação de desempenho e o plano de carreira.
+e) a diagrama de Ishikawa e a avaliação de desempenho.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        8.(CEBRASPE – SEED-PR – Professor - 2021)
+Com relação à gestão da qualidade, julgue os seguintes itens.
+I O ciclo PDCA (planejar, desenvolver, checar e agir) é usado na análise do
+andamento de um planejamento estratégico.
+II O fluxograma de processos é uma representação gráfica que descreve os passos e
+as etapas sequenciais de determinado processo.
+III O princípio de Pareto parte do pressuposto de que 80% dos problemas decorrem
+de 20% das causas, o que pode ser utilizado para priorizar a importância que os
+problemas têm para uma organização.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        8.(CEBRASPE – SEED-PR – Professor - 2021)
+(...)
+Assinale a opção correta.
+a) Apenas o item I está certo.
+b) Apenas o item II está certo.
+c) Apenas os itens I e III estão certos.
+d) Apenas os itens II e III estão certos.
+e) Todos os itens estão certos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 https://t.me/KakashiAssinaturasBot
+                        9. (CEBRASPE – TJ-PA – Analista – 2020)
+Na matriz GUT,
+I a gravidade tem relação com a intensidade dos danos de um dado problema.
+II a urgência tem relação com a temporalidade da eclosão dos danos causados por
+um problema.
+III a tendência tem relação com o desenvolvimento de um dado problema na
+ausência de ação.
+Assinale a opção correta.
+a) Apenas o item I está certo.
+b) Apenas o item II está certo
+c) Apenas os itens I e III estão certos.
+d) Apenas os itens II e III estão certos.
+e) Todos os itens estão certos.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        10. (CESPE – TCE-RO – Auditor – 2019)
+A ferramenta de gestão que serve para definir, com clareza, determinado problema
+e que se embasa nas respostas às perguntas “o quê?”, “por quê?”, “quem?”,
+“onde?”, “quando?”, “como?” e “quanto?” denomina‐se
+a) matriz GUT.
+b) matriz SWOT.
+c) gráfico de Gantt.
+d) análise 5W2H.
+e) diagrama espinha de peixe.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        11. (CESPE – PGE-PE – Analista – 2019)
+Julgue o item subsequente, referentes ao modelo de gestão baseado na qualidade
+total (GQT).
+De acordo com o modelo GQT, a organização deve seguir o atendimento da
+satisfação de seus clientes e ter uma cultura voltada para a melhoria contínua.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        12. (CESPE – PGE-PE – Analista – 2019)
+A gestão da qualidade consiste em um conjunto de ações a ser executado nas
+organizações com o objetivo de melhorar a qualidade dos produtos e serviços e,
+com isso, aumentar a satisfação dos clientes.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        13. (CESPE – PGE-PE – Analista – 2019)
+A respeito do modelo de excelência em gestão pública, julgue o item seguinte.
+Além de basear-se em alguns princípios de gestão da qualidade, o modelo de
+excelência em gestão pública adota fundamentos próprios da gestão de excelência
+contemporânea, como pensamento sistêmico; aprendizagem organizacional; cultura
+da inovação; foco no cidadão e na sociedade; e desenvolvimento de parcerias.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        14. (CESPE – PGE-PE – Analista - 2019)
+O modelo de excelência em gestão pública é uma adaptação dos critérios do prêmio
+nacional da qualidade (PNQ), voltado para a administração pública.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        15. (CESPE – FUB – Administrador – 2018)
+O benchmarking é um método aleatório de recolher informações para comparar
+desempenhos e identificar oportunidades de melhoria.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        16. (CESPE – FUB – Administrador – 2018)
+A respeito da gestão da qualidade e do modelo de excelência gerencial, julgue o
+item subsequente.
+O diagrama de Pareto é um gráfico de barras que ordena as frequências das
+ocorrências em ordem crescente, da esquerda para a direita, o que permite a
+priorização dos problemas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        17. (CESPE – IPHAN – Analista – 2018)
+Acerca de gestão da qualidade em organizações, julgue o próximo item.
+Enquanto método de gestão da qualidade, Seis Sigma corresponde à ação de
+repensar a essência da organização e reestruturar radicalmente os seus processos,
+para atingir inovação em custo, qualidade e serviços.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        18. (CESPE – IPHAN – Analista – 2018)
+Apesar de não pertencerem à estrutura organizacional, os fornecedores são
+fundamentais no processo de gestão da qualidade de uma organização.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        19. (CESPE – IPHAN – Analista – 2018)
+O controle estatístico de qualidade assegura a qualidade dos produtos e dos serviços
+por ele inspecionados.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        20. (CESPE – EMAP – Assistente – 2018)
+A implantação de um programa de inspeção ao final do processo produtivo é
+suficiente para que a organização alcance a qualidade total.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        21. (CESPE – EMAP – Assistente – 2018)
+Nas organizações, o sistema de qualidade é de responsabilidade exclusiva do
+departamento de qualidade ou de área a ele correlata.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        22. (CESPE – EMAP – Assistente – 2018)
+Apoia-se no método de William E. Deming o programa de qualidade que emprega
+propagandas e metas para exigir dos colaboradores da organização níveis elevados
+de produtividade e ausência de erros.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        23. (CESPE – EMAP – Assistente – 2018)
+O envolvimento da alta administração é essencial para o sucesso da gestão da
+qualidade.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        24. (CESPE – EMAP – Assistente – 2018)
+A respeito do ciclo PDCA e das ferramentas de gestão da qualidade, julgue o
+seguinte item.
+Conforme a simbologia utilizada em fluxograma global ou de colunas, o texto
+referente a uma tomada de decisão é inserido na figura   , enquanto o início, ou
+o fim, de uma rotina ou processo é descrito na figura  .
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        25. (CESPE – EMAP – Assistente – 2018)
+A respeito do ciclo PDCA e das ferramentas de gestão da qualidade, julgue o
+seguinte item.
+Se uma organização necessita estabelecer prioridades para agir corretivamente
+acerca da insatisfação de clientes com seu atendimento, mas não dispõe de dados
+quantificáveis, então, nesse caso, o uso da ferramenta GUT será adequado.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        26. (CESPE – EMAP – Assistente – 2018)
+A respeito do ciclo PDCA e das ferramentas de gestão da qualidade, julgue o
+seguinte item.
+O ciclo PDCA é um processo cíclico de busca da melhoria composto de quatro etapas
+ou fases. Nesse ciclo, a definição dos métodos e recursos necessários para o
+desenvolvimento das ações planejadas ocorre na etapa D.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        27. (CESPE – EMAP – Analista – 2018)
+O conceito de qualidade total se desenvolveu a partir dos estudos de vários teóricos,
+entre eles, Deming, Juran, Crosby, Feigenbaum e Ishikawa. Acerca das contribuições
+desses teóricos para a gestão da qualidade, julgue o item a seguir.
+Feigenbaum deu sua contribuição para a gestão da qualidade ao descrever as
+características de uma organização problema, entre elas o fornecimento de
+produtos ou a prestação de serviços em desacordo com o anunciado ou requerido e
+o retrabalho como forma de corrigir o que foi feito errado, a partir das quais foram
+criados princípios da qualidade como defeito zero e fazer certo na primeira vez.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        28. (CESPE – EMAP – Analista – 2018)
+Para Deming, a receita de sucesso organizacional baseia‐se em quatorze princípios,
+entre os quais estão a melhoria contínua dos processos produtivos, o fortalecimento
+da inspeção em massa para promover a qualidade, a ênfase no treinamento e nos
+princípios de liderança e o rompimento de barreiras entre unidades organizacionais.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        29. (CESPE – EBSERH – Psicólogo – 2018)
+A filosofia de controle burocrático baseada em regras e sistemas de recompensas
+fundamenta a gestão da qualidade total nas organizações.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        30. (CESPE – EBSERH – Tecnólogo – 2018)
+No que concerne aos conceitos básicos de qualidade total, ciclo PDCA e
+benchmarking, julgue o item subsecutivo.
+É denominado benchmarking o processo de fabricação de instrumentos hospitalares
+em condições similares a outros existentes no mercado, com as mesmas
+especificações técnicas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        31. (CESPE – EBSERH – Tecnólogo – 2018)
+O ciclo PDCA possibilita a observação dos resultados alcançados e a execução de
+ações corretivas, caso necessário.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        32. (CESPE – EBSERH – Tecnólogo – 2018)
+No que concerne aos conceitos básicos de qualidade total, ciclo PDCA e
+benchmarking, julgue o item subsecutivo.
+Embora as indústrias possam ter departamentos ou gerências destinadas ao
+controle de qualidade, essa é uma responsabilidade de todos os integrantes da
+organização.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        33. (CESPE – EBSERH – Assistente – 2018)
+Deming definiu quatorze pontos cruciais para a gestão da qualidade total, sendo
+possível destacar entre eles o forte apelo para a inspeção em massa.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        34. (CESPE – EBSERH – Tecnólogo – 2018)
+As cartas de controle, o princípio de Pareto e o diagrama de Ishikawa constituem
+ferramentas importantes para a gestão da qualidade em uma organização.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        35. (CESPE – EBSERH – Assistente – 2018)
+Utilizada atualmente como solução de aprimoramento contínuo em qualquer área,
+o ciclo PDCA (plan, do, check, act) é uma ferramenta versátil, oriunda da escola da
+qualidade total.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        36. (CESPE – EBSERH – Assistente – 2018)
+As ideias de Feigenbaum, responsável pelo conceito de TQC (total quality control),
+corroboravam a concepção geral de que qualidade não consiste apenas em controle
+de produção ou em mecanismos de inspeção: ela é, além disso, uniformidade de
+produção, visando a satisfação do cliente.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        37. (CESPE – EBSERH – Assistente – 2018)
+No início do século XX, era possível relacionar a qualidade à ausência de defeitos e à
+uniformidade na produção.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        38. (CESPE – EBSERH – Analista Administrativo – 2018)
+Na gestão da qualidade, destaca-se a técnica da qualidade total, que admite que a
+qualidade de um serviço seja estabelecida pela organização e garantida para o
+cliente em todas as suas interações, seja antes, seja após a prestação do serviço.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        39. (CESPE – EBSERH – Analista Administrativo – 2018)
+Em sua concepção inicial, no início do século XX, o objetivo da gestão da qualidade
+era garantir a uniformidade e, em sua concepção contemporânea, ele se refere ao
+atendimento das expectativas dos clientes.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        40. (CESPE – TCE-PB – Agente – 2018)
+O método gerencial de tomada de decisão denominado ciclo PDCA — do inglês plan,
+do, check, act — constitui elemento basilar do sistema de gerenciamento pela
+qualidade nos processos. De acordo com essa perspectiva, coletar dados e definir
+metas são atividades a serem realizadas, respectivamente, nas fases de
+a) planejamento e verificação.
+b) execução e verificação.
+c) planejamento e correção.
+d) execução e planejamento.
+e) verificação e correção.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        41. (CESPE – TRT 7a Região – Analista Judiciário – 2017)
+Na gestão da qualidade, conformidade se refere ao nível de correspondência entre
+determinado produto ou serviço e a sua
+a) qualidade do projeto, que corresponde ao uso adequado do produto ou serviço.
+b) categoria de excelência, que corresponde ao padrão de qualidade estabelecido
+para o produto ou serviço.
+c) especificação, que corresponde à qualidade planejada para esse produto ou
+serviço.
+d) regularidade, que corresponde à uniformidade entre produtos ou serviços de
+mesma categoria.
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        42. (CESPE – TCE-PE – Analista de Gestão – 2017)
+O diagrama de Ishikawa é uma ferramenta utilizada para identificar relações de
+causa e efeito apenas em processos administrativos.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        43. (CESPE – SEDF – Técnico – 2017)
+O diagrama de Pareto sugere atenção aos elementos críticos do processo,
+pressupondo que poucas causas são responsáveis pela maior parte dos problemas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        44. (CESPE – SEDF – Técnico – 2017)
+Em relação ao ciclo PDCA, às ferramentas de gestão da qualidade e aos modelos de
+excelência gerencial, julgue o item seguinte.
+Ferramenta destinada a operações e situações típicas do processo produtivo, o
+diagrama de causa e efeito, também conhecido como diagrama de Ishikawa, tem
+um esquema de apresentação semelhante a uma espinha de peixe.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        45. (CESPE – SEDF – Técnico – 2017)
+Em relação ao ciclo PDCA, às ferramentas de gestão da qualidade e aos modelos de
+excelência gerencial, julgue o item seguinte.
+O Modelo de Excelência em Gestão (MEG), desenvolvido pela Fundação Nacional da
+Qualidade (FNQ), prescreve práticas de gestão para instituições públicas e privadas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        46. (CESPE – SEDF – Analista – 2017)
+Em relação à gestão da qualidade, julgue o item seguinte.
+O diagrama de gestão do modelo de excelência em gestão é constituído de um ciclo
+PDCL (plan, do, check e learn), além da avaliação, melhoria e definição de práticas e
+padrões.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        47. (CESPE – SEDF – Analista – 2017)
+Em relação à gestão da qualidade, julgue o item seguinte.
+O pensamento sistêmico, um fundamento da excelência da qualidade, se refere à
+flexibilidade e à capacidade de mudança das organizações, em tempo hábil, para
+novas demandas das partes interessadas e alterações no ambiente.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        48. (FCC – Prefeitura de Recife-PE – Assistente – 2019)
+A busca da qualidade e excelência nos serviços públicos envolve a utilização, com as
+devidas adaptações, de conceitos e teorias consagradas no âmbito privado. Nesse
+sentido, uma das premissas sustentadas por W. Edwards Deming, estudioso que difundiu
+o Ciclo de Melhoria Contínua, também denominado PDCA, é
+a) que a diversificação de fornecedores aumenta a economicidade e favorece a
+produtividade.
+b) que os orçamentos devem ser aprovados exclusivamente com base na redução de
+custos.
+c) que a melhor qualidade proporciona, no conjunto, custos menores.
+d) a importância de slogans e exortações à falha zero na produção de bens e serviços.
+e) a necessidade de quotas na linha de produção, com administração por cifras e metas
+numéricas.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        49. (FCC – DETRAN-MA – Assistente – 2018)
+Entre os fundamentos de excelência considerados pela Fundação Nacional de
+Qualidade − FNQ se insere:
+a) planejamento estratégico: com o estabelecimento de metas e indicadores para
+orientarem a atuação da organização.
+b) downsizing: enxugamento, com redução de posições e redundâncias, visando a
+evitar o retrabalho e aumentar a produtividade.
+c) reengenharia: que corresponde ao conceito de “folha em branco”, a partir do qual
+novos paradigmas podem ser estabelecidos.
+d) adaptabilidade: flexibilidade e capacidade de mudança em tempo hábil, frente a
+novas demandas das partes interessadas e alterações no contexto.
+e) accountability: dever de responder por uma responsabilidade outorgada,
+prestando contas à sociedade.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               https://t.me/KakashiAssinaturasBot
+                        50. (FGV – Prefeitura de Salvador-BA – 2019)
+Ao discutir os preparativos para o Carnaval de 2020, o Governo da Bahia decide
+montar um plano de segurança com a Polícia Militar para combater os furtos
+ocorridos durante o evento. No entanto, devido à limitação de contingente polícia
+disponível, o plano irá focar apenas as regiões com o maior número de furtos.
+Assinale a opção que contém a ferramenta adequada para ser utilizada nessa
+situação.
+a) Ciclo PDCA
+b) Diagrama de Pareto
+c) 5W2H
+d) Diagrama de Árvore
+e) Gráfico de Dispersão
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        51. (FGV – DPE-RJ – Técnico – 2019)
+O Modelo de Excelência em Gestão Pública, instituído para ser utilizado pelos órgãos
+e entidades da Administração Pública Brasileira, como base na busca pela melhoria
+na qualidade, possui entre seus fundamentos:
+a) pensamento sistêmico;
+b) geração de valor de mercado;
+c) foco na eficiência e legalidade;
+d) comprometimento com o cliente;
+e) impacto de curto prazo.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        52. (FGV – Câmara de Salvador-BA – Analista – 2018)
+Após alguns anos de uso, João Paulo, um renomado escritor de romance policial,
+aproveita a desvalorização do dólar para comprar um computador novo. Ao chegar
+na loja, João Paulo informa ao vendedor que não queria nada extravagante, apenas
+um produto que se adequasse às suas necessidades. Considerando o pedido de João
+Paulo, é possível perceber que ele está buscando um conceito de qualidade
+baseado:
+a) no usuário;
+b) no produto;
+c) no valor;
+d) na produção;
+e) na transcendência.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        53. (FGV – Câmara de Salvador-BA – Analista – 2018)
+William Deming, apesar de americano, é considerado no Japão um dos especialistas
+mais importantes para a reconstrução da indústria no país após a Segunda Guerra
+Mundial. Ao longo de seus trabalhos, ele compilou a sua experiência no tema em 14
+diretrizes que seriam fundamentais para garantir a qualidade de qualquer empresa,
+que se tornaram conhecidas como os “14 pontos de Deming”.
+Com base nos 14 pontos de Deming, no que tange aos relacionamentos, seria
+adequado que as organizações:
+a) tivessem uma separação marcada de funções, para que não houvesse um conflito
+de interesses;
+b) apresentassem alta verticalidade nas hierarquias, garantindo a ordem na cultura
+organizacional;
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        53. (FGV – Câmara de Salvador-BA – Analista – 2018)
+(...)
+c) desenvolvessem uma metodologia top-down, permitindo maior liberdade
+decisória dos funcionários;
+d) considerassem a entidade como um organismo isolado do resto da sociedade,
+evitando influências externas incoerentes com o planejamento;
+e) reduzissem barreiras entre os departamentos, promovendo uma maior
+possibilidade de trabalho em equipe entre as áreas.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+                        54. (FGV – Câmara de Salvador-BA – Analista – 2018)
+Quando um indivíduo se orienta pela abordagem de qualidade baseada no produto
+para adquirir um celular, será escolhido:
+a) o mais barato;
+b) o de melhor custo-benefício;
+c) o com o maior número de atributos;
+d) o mais caro;
+e) o mais vendido.
+
+
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

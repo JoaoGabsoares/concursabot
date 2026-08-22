@@ -1,0 +1,3524 @@
+                                                                                     Índice
+1)  Governo Eletrônico
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................
+2)  Questões Governo Eletrônico                                                                                                                                                             54
+Olá, amigos do Estratégia Concursos, tudo bem?
+Preparados para mais uma aula? Então vamos em frente! ☺
+Um grande abraço,
+Stefan Fantini
+
+
+
+
+Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, siga meu Instagram, se inscreva no
+meu Canal no YouTube e participe do meu canal no TELEGRAM:
+
+
+
+
+                                  @prof.stefan.fantini
+                          https://www.instagram.com/prof.stefan.fantini
+
+
+
+
+                                      Stefan Fantini
+                 https://www.youtube.com/channel/UCptbQWFe4xIyYBcMG-PNNrQ
+
+
+
+
+                                                                                           1
+                                 t.me/admconcursos
+
+
+
+
+Os canais foram feitos especialmente para você! Então, será um enorme prazer contar com a sua
+presença nos nossos canais! ☺
+
+
+
+
+                                                                                        2
+Sumário
+
+Governo Eletrônico .................................................................................................................... 4
+
+   1 – Estágios do Governo Eletrônico .................................................................................................. 8
+
+      1.1 – Estágios do Governo Eletrônico no Brasil (Evolução do E-Gov no Brasil) ........................... 9
+
+   2 – Fundamentos e Diretrizes do Governo Eletrônico ................................................................... 14
+
+   3 – Aplicação do Governo Eletrônico (Relacionamentos Existentes com as TICs) ....................... 21
+
+   4 – Projetos e Sistemas de Governo Eletrônico no Brasil .............................................................. 24
+
+      4.1 – SEI (Sistema Eletrônico de Informações) ........................................................................... 26
+
+   5 – Governança Eletrônica (E-Governance) ................................................................................... 30
+
+   6 – Governo Digital ......................................................................................................................... 32
+
+      6.1 – Decreto 10.332, de 28 de abril de 2020 .............................................................................. 35
+
+Resumo Estratégico ................................................................................................................. 45
+
+
+
+
+                                                                                                                                           3
+                                    GOVERNO ELETRÔNICO
+De acordo com a União Europeia1, governo eletrônico (ou e-government, em inglês) relaciona-se
+ao uso das TICs (Tecnologias da Informação e Comunicação) na administração pública, combinado
+com mudança organizacional e novas práticas, a fim de melhorar os serviços públicos, os
+processos democráticos e fortalecer o suporte às políticas públicas.
+
+Para Calmon, “governo eletrônico é a utilização das tecnologias da informação e comunicação
+para dinamizar o relacionamento do governo com a sociedade, reduzindo custos, melhorando
+processos e diminuindo desigualdades”2.
+
+
+
+
+                                                         LEITURA
+                                                         OBRIGATÓRIA!
+
+
+Vejamos, a seguir, mais alguns conceitos de governo eletrônico:
+
+Governo eletrônico é definido como o uso das TIC, em particular a internet, como ferramenta para
+levar a um melhor governo3.
+
+Governo Eletrônico refere-se ao uso, por agências governamentais, de tecnologias de informação
+(como redes de longa distância, Internet e computação móvel) capazes de transformar as relações
+com cidadãos, empresas e outras unidades do governo. Essas tecnologias podem servir a
+diferentes fins, como: melhor prestação de serviços aos cidadãos, interações mais eficazes com
+empresas e a indústria, empowerment do cidadão por meio do acesso a informações ou mais
+eficiência na administração governamental4.
+
+Governo eletrônico (ou e-government, em inglês) é a forma pela qual o governo se utiliza da
+Internet e da web para ofertar informações e serviços governamentais aos cidadãos5.
+
+
+
+
+1
+  União Europeia (2003) apud Alves, W. S. BRAGA, L. V. FIGUEIREDO, R. M. C, SANTOS, R. R. O papel do Governo Eletrônico no
+fortalecimento da governança do setor público. Revista do Serviço Público Brasília 59 (1): 05-21 Jan/Mar 2008
+2
+  CALMON (2007) apud MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e Governança Eletrônica:
+Confrontação e Complementaridade. ENAPG – ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+3
+  OCDE (2003) apud apud Alves, W. S. BRAGA, L. V. FIGUEIREDO, R. M. C, SANTOS, R. R. O papel do Governo Eletrônico no
+fortalecimento da governança do setor público. Revista do Serviço Público Brasília 59 (1): 05-21 Jan/Mar 2008
+4
+  Banco Mundial (2003a) apud MEDEIROS, Paulo Henrique Ramos. Governo Eletrônico No Brasil: Aspectos Institucionais E
+Reflexos Na Governança. Dissertação apresentada ao Curso de Mestrado em Administração da Universidade de Brasília - UNB:
+2004.
+5
+  ONU (2002) apud ibid
+
+
+                                                                                                                     4
+Governo eletrônico ou e-governo significa prover acesso público via Internet a informações sobre
+os serviços oferecidos pelos departamentos centrais do governo e suas agências, habilitando o
+público à condução e conclusão de transações para tais serviços 6.
+
+O termo ‘e-government’ aborda o uso de novas tecnologias de informação e comunicação (TIC)
+pelos governos, aplicadas a todas as suas funções7.
+
+O termo governo eletrônico é definido como a oferta e troca de informações e serviços
+governamentais on-line para cidadãos, empresas e outras agências governamentais8.
+
+Governo eletrônico refere-se a processos e estruturas relativos ao fornecimento eletrônico de
+serviços governamentais ao público9.
+
+Governo eletrônico trata-se de um governo ágil e aberto para melhor atender à sociedade,
+utilizando-se da telemática (TI e telecomunicações) para ampliar a cidadania, aumentar a
+transparência da gestão pública, facilitar o controle popular do poder público e democratizar o
+acesso do cidadão aos meios eletrônicos10.
+
+
+
+
+Para Diniz, de modo geral, o governo eletrônico pode ser visto sob dois ângulos diferentes11:
+
+        a) dimensão interna: modernização da administração pública por meio do uso de
+        tecnologias de informação e comunicação (TICs) e melhoria da eficiência dos processos
+        operacionais e administrativos dos governos.
+
+        b) dimensão externa: uso de internet no setor público para prestação de serviços públicos
+        eletrônicos.
+
+A evolução e a utilização intensiva das Tecnologias de Informação e Comunicação (TICs), tais como
+a internet, a telefonia móvel, as transmissões via satélite e as redes de computadores, criaram
+condições bastante favoráveis para o surgimento do governo eletrônico.
+
+
+
+
+6
+  National Audit Office (2002b, p. 1) apud Ibid
+7
+  OCDE (2001c, p. 2) apud Ibid
+8
+  INTOSAI (2003, p.3) apud Ibid
+9
+  Okot-Uma (2001, p. 9) apud Ibid
+10
+   SOBREIRA, Netto. FISCHER, Gouvêa. (2004) apud MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e
+Governança Eletrônica: Confrontação e Complementaridade. ENAPG – ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+11
+   DINIZ, E. H. BARBOSA, A. F. JUNQUEIRA, A. R. B. PRADO, O. O governo eletrônico no Brasil: perspectiva histórica a partir de
+um modelo estruturado de análise. Revista de Administração Pública. Rio de Janeiro: 43(1):23-48, Jan./Fev. 2009.
+
+
+                                                                                                                         5
+De acordo com Medeiros12 e Diniz13, outros fatores que influenciaram o surgimento do governo
+eletrônico, ou seja, fatores que foram determinantes para a adoção das TICs de forma intensiva e
+estratégica pelos governos, foram:
+
+        a) a necessidade das Administrações aumentarem a arrecadação e melhorarem seus
+        processos internos, ou seja, “fazer mais com menos”.
+
+        b) uso intensivo das TICs pelos cidadãos, empresas privadas e organizações não
+        governamentais.
+
+        c) as pressões da sociedade para que o governo otimizasse seus gastos e atuasse, cada vez
+        mais, com transparência, qualidade e de modo universal na oferta de serviços e
+        provimento de informações aos cidadãos e organizações em geral.
+
+        d) a migração da informação baseada em papel para mídias eletrônicas e serviços online e
+        o avanço e universalização da infraestrutura pública de telecomunicações e da internet.
+
+        e) o movimento de Reforma do Estado (incorporação dos princípios gerenciais pela
+        administração pública), a modernização da gestão pública e a necessidade de maior
+        eficiência do governo.
+
+De acordo com o governo federal14, a “rede mundial tornou-se um desafio para as empresas,
+instituições e organismos do governo em todo o mundo e não há como escapar desse processo de
+transformação da sociedade. Para todos aqueles que tiverem meios de acesso, as informações são
+diversas, públicas e gratuitas e, para os que não têm, o Estado assume um papel muito
+importante, voltado para a democratização do acesso à rede e a prestação eficiente de seus
+serviços aos cidadãos, usando as tecnologias de informação e comunicação (TICs).”
+
+Nesse sentido, “as ações do programa de Governo Eletrônico (eGOV) priorizam o uso das
+tecnologias da informação e comunicação (TICs) para democratizar o acesso à informação,
+visando ampliar o debate e a participação popular na construção das políticas públicas, como
+também aprimorar a qualidade dos serviços e informações públicas prestadas. 15”
+
+
+
+
+12
+    MEDEIROS, Paulo Henrique Ramos. Governo Eletrônico No Brasil: Aspectos Institucionais E Reflexos Na Governança.
+Dissertação apresentada ao Curso de Mestrado em Administração da Universidade de Brasília - UNB: 2004.
+13
+   DINIZ, E. H. BARBOSA, A. F. JUNQUEIRA, A. R. B. PRADO, O. O governo eletrônico no Brasil: perspectiva histórica a partir de
+um modelo estruturado de análise. Revista de Administração Pública. Rio de Janeiro: 43(1):23-48, Jan./Fev. 2009.
+14
+   https://www.governodigital.gov.br/EGD/historico-1/diretrizes
+15
+   https://www.governodigital.gov.br/EGD/historico-1/historico
+
+
+                                                                                                                         6
+De acordo com Paludo, o governo eletrônico abrange 04 linhas de ação16:
+
+           Voltadas ao cidadão: procuram oferecer informações e serviços aos cidadãos em geral, com
+           qualidade e agilidade. Além disso, buscam proporcionar um canal para a participação dos
+           cidadãos nas decisões públicas.
+
+           Voltadas à eficiência interna: relativas ao funcionamento interno dos órgãos de governo,
+           com destaque para sua utilização nos processos de licitações e contratações em geral.
+
+           Voltadas à cooperação: tem finalidade de integrar os diversos órgãos governamentais,
+           assim como promover a integração com outras organizações públicas, púbicas não estatais e
+           privadas.
+
+           Voltadas à gestão do conhecimento: visam gerar e manter um banco de dados atualizado
+           dos conhecimentos do Governo, para servir como fonte de informação e inovação a gerar
+           melhorias nos processos em geral.
+
+
+
+
+O governo eletrônico consiste na utilização, pelo governo, das ferramentas de tecnologia de
+informação e comunicação (TIC), com os objetivos de:
+
+           -democratizar o acesso à informação (inclusão digital);
+
+           -modernizar a máquina pública / minimizar a burocracia pública;
+
+           -reduzir custos e melhorar a eficiência da administração pública no que se refere aos seus
+           processos internos;
+
+           -aumentar a eficiência e a qualidade dos serviços públicos;
+
+           -permitir maior participação popular do cidadão na gestão pública;
+
+           -aumentar a transparência, o controle social e a accountability;
+
+           -criar mecanismos de gestão do conhecimento;
+
+           -aprimorar a governança.
+
+
+
+
+16
+     PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.219
+
+
+                                                                                                                 7
+Transformar a relação do governo com a sociedade e promover interatividade com cidadãos,
+empresas e órgãos governamentais melhora o processo de democratização do país, dinamiza os
+serviços públicos e proporciona uma administração pública mais eficiente, já que, agora, a
+sociedade possui instrumentos para se manifestar junto às ações governamentais. 17
+
+
+
+1 – Estágios do Governo Eletrônico
+
+A ONU buscou classificar os estágios em que os países se encontram em relação aos seus esforços
+de implementação do governo eletrônico. Nesse sentido, de acordo com a ONU18, os estágios do
+governo eletrônico são os seguintes:
+
+           Estágio I - Emergente (Emerging): A presença on-line de um governo é composta
+           principalmente por uma página da web e/ou um site oficial. As informações são estáticas e
+           há pouca interação com os cidadãos.
+
+           Estágio II - Aprimorado (Enhanced): Os governos fornecem mais informações sobre
+           políticas públicas e governança. Os governos criam links que permitem aos cidadãos
+           obterem acesso a informações como: documentos, formulários, relatórios, leis,
+           regulamentos e boletins.
+
+           Estágio III - Interativo (Interactive): os governos fornecem serviços on-line, tais como
+           formulários para download para pagamento de impostos e pedidos de renovação de
+           licença. Além disso, evidencia-se o início de um portal interativo ou site com serviços para
+           melhorar a conveniência dos cidadãos.
+
+           Estágio IV - Transacional (Transactional): os governos começam a se transformar
+           introduzindo interações bidirecionais entre "cidadão e governo". Nesse sentido, inclui
+           opções para pagamento de impostos, solicitação de carteiras de identidade, certidões de
+           nascimento, passaportes e renovações de licenças, além de outras interações semelhantes.
+           Além disso, todas as transações são realizadas online, e o cidadão pode acessar esses
+           serviços on-line, 24 horas por dia, 7 dias por semana.
+
+           Estágio V - Conectado (Connected): os governos se transformam em uma entidade
+           conectada que responde às necessidades de seus cidadãos, desenvolvendo uma
+           infraestrutura integrada de suporte ao cidadão. Esse é o nível mais sofisticado de
+           iniciativas de governo eletrônico on-line e é caracterizado por:
+
+                  a) Conexões horizontais (entre agências governamentais).
+
+
+
+17
+     https://www.governodigital.gov.br/EGD/historico-1/historico
+18
+     ONU - From E-Government Survey 2008 – Froom E-Government to Connected Governance. New York: 2008.
+
+
+                                                                                                         8
+             b) Conexões verticais (entre agências governamentais de diferentes esferas de
+             governo: central/federal, estadual/regional e municipal/local).
+             c) Conexões de infraestrutura (questões relacionadas à interoperabilidade).
+             d) Conexões entre governos e cidadãos.
+             e) Conexões entre as partes interessadas (governo, setor privado, instituições
+             acadêmicas, ONGs e sociedade civil).
+
+
+1.1 – Estágios do Governo Eletrônico no Brasil (Evolução do E-Gov no Brasil)
+
+É importante que você saiba que, para Reinhard e Dias (2005), os estágios do governo eletrônico
+no Brasil são os seguintes:
+
+      Pioneirismo (dos anos 1950 até meados dos anos 1960);
+
+      Centralização (de meados dos 1960 até o final dos 1970);
+
+      Terceirização (anos 1980) e;
+
+      Governo Eletrônico propriamente dito (a partir dos anos 1990).
+
+
+
+Diniz (2005), por sua vez, sustenta um outro tipo de classificação. Segundo ele, os estágios do
+governo eletrônico no Brasil são os seguintes:
+
+      Gestão interna (1970 a 1992): as TICs são utilizadas para aprimorar os processos internos
+      de gestão pública. Buscava-se a melhoria da gestão interna e maior eficiência dos
+      processos administrativos financeiros. O maior exemplo foi a implementação, pela Receita
+      Federal do Brasil, da Declaração de Imposto de Renda por meios eletrônicos. Embora essa
+      prática tenha trazido vantagens ao contribuinte, os maiores benefícios foram para a
+      eficiência dos processos internos do Órgão Público.
+
+      Serviços e informações ao cidadão (1993 a 1998): são implementados processos com o
+      objetivo de apoiar a prestação de serviços ao cidadão (seja pessoalmente ou via telefone).
+      A iniciativa mais relevante foi a criação dos primeiros Serviços de Atendimento ao Cidadão
+      (SACs). Isso fez com que os cidadãos, através da tecnologia, ficassem mais próximos dos
+      serviços públicos.
+
+      Entrega de serviços via internet (a partir de 1999): trata-se de utilizar as tecnologias de
+      internet para fornecer serviços ao cidadão. Através da internet, são disponibilizados ao
+      cidadão, de forma integral, diversos serviços. Além disso, aumenta-se a transparência e a
+      accountability. Essa é a fase que nos encontramos atualmente.
+
+
+
+
+                                                                                             9
+O governo eletrônico começou a ganhar bastante visibilidade a partir do final da década de 1990
+e, nos últimos anos, vem crescendo de forma acelerada em vários órgãos de governo.
+
+O Programa de Governo Eletrônico do Estado brasileiro surgiu no ano 2000, quando o Decreto
+Presidencial de 03 de abril de 2000, instituiu um Grupo de Trabalho Interministerial para examinar
+e propor políticas, diretrizes e normas relacionadas com as novas formas eletrônicas de interação.
+
+Esse Grupo de Trabalho em Tecnologia da Informação (GTTI) concentrou esforços em três linhas:
+
+      -Universalização de serviços;
+
+      -Governo ao alcance de todos;
+
+      -Infraestrutura avançada.
+
+Posteriormente, o Decreto de 18 de Outubro de 2000, criou o Comitê Executivo de Governo
+Eletrônico (CEGE), com os objetivos de formular políticas, estabelecer diretrizes, coordenar e
+articular as ações de implantação do Governo Eletrônico, direcionando-o para a prestação de
+serviços e informações ao cidadão.
+
+
+
+
+                                            ESQUEMATIZANDO!
+
+
+
+
+                                                                                             10
+(ESAF – ANAC – Analista Administrativo – 2016)
+
+Indique qual sistema de grande abrangência utilizado na administração pública pode ser entendido
+como um conjunto de ações modernizadoras vinculadas à administração pública e que começou a
+ganhar visibilidade no final da década de 1990 e nos últimos anos vem crescendo de forma
+acelerada em vários órgãos de governo.
+
+a) Administração Pública Patrimonialista
+
+b) Administração Pública Burocrática.
+
+c) Administração Pública Gerencial.
+
+d) Governo eletrônico (e-gov).
+
+e) Planejamento de ações do governo (Siplan).
+
+Comentários:
+
+É o governo eletrônico que começou a ganhar bastante visibilidade a partir do final da década de
+1990 e que, nos últimos anos, vem crescendo de forma acelerada em vários órgãos de governo.
+
+O gabarito é a letra D.
+
+(FCC – DPE-SP – Administrador – 2015)
+
+Em relação ao fortalecimento do governo eletrônico e à adoção das Tecnologias de Informação e
+Comunicação − TICs na Administração pública brasileira, é correto afirmar:
+
+a) Na década de 1990, iniciou-se um processo de melhoria da gestão interna e aumento da
+eficiência dos processos administrativos e financeiros por meio das TICs.
+
+b) Nos anos 2000, iniciou-se um processo de uso das TICs para o apoio na prestação de serviços.
+
+c) Na década de 1980, a entrega de alguns serviços passou a ser via internet.
+
+d) Até a década de 1990, as TICs ainda não tinham sido adotadas.
+
+e) No final da década de 1990, a entrega de serviços via internet passou a ser disponibilizada.
+
+
+
+                                                                                                  11
+Comentários:
+
+Para essa questão, a banca se baseou na classificação da evolução dos estágios do governo
+eletrônico no Brasil proposta por Diniz, qual seja:
+
+       Gestão interna (1970 a 1992).
+
+       Serviços e informações ao cidadão (1993 a 1998).
+
+       Entrega de serviços via internet (a partir de 1999).
+
+Vejamos cada uma das assertivas.
+
+Letra A: errada. Foi a partir de 1970 que, na fase de gestão interna, as TICs foram utilizadas para
+aprimorar os processos internos de gestão pública e para melhorar a eficiência dos processos
+administrativos financeiros.
+
+Letra B: errada. Na década de 1990 já existiam serviços com o objetivo de apoiar a prestação de
+serviços ao cidadão (Serviços e informações ao cidadão - 1993 a 1998).
+
+Letra C: errada. A entrega de serviços via internet começou a partir de 1999.
+
+Letra D: errada. Desde 1970 as TICs já eram adotadas na gestão interna.
+
+Letra E: correta. Isso mesmo! A entrega de serviços via internet começou a partir de 1999 (final da
+década de 1990).
+
+O gabarito é a letra E.
+
+(FCC – TCE-CE – Analista de Controle Externo – 2015)
+
+Em 2008, a Organização das Nações Unidas publicou um relatório sobre a evolução do governo
+eletrônico (In: UN e-government survey: from e-government to connected governance. New York:
+United Nations, 2008). Considere os seguintes estágios da evolução do governo eletrônico:
+
+I. Governos disponibilizam serviços online, como download de formulários, para pagamento de
+taxas.
+
+II. Governos introduzem mecanismos de interação entre cidadãos e governo, nos quais a transação
+é online.
+
+III. Lançamento de websites oficiais de órgãos públicos com informações básicas e estáticas.
+
+IV. Governos apresentam informações sobre políticas públicas e governança por meio de links com
+arquivos acessíveis aos cidadãos, como leis e relatórios.
+
+
+
+                                                                                               12
+V. Governos tornam-se entidades conectadas que respondem às demandas dos cidadãos por meio
+de um escritório de desenvolvimento integrado.
+
+Os estágios estão ordenados de forma crescente, do estágio mais simples ao mais complexo, em
+
+a) IV - III - V - II - I
+
+b) III - IV - II - I - V
+
+c) IV - III - I - II - V
+
+d) III - IV - I - II - V
+
+e) V - III - IV - I - II
+
+Comentários:
+
+De acordo com a ONU19, os estágios do governo eletrônico são os seguintes:
+
+           (ASSERTIVA III) - Estágio I - Emergente (Emerging): A presença on-line de um governo é
+           composta principalmente por uma página da web e/ou um site oficial. As informações são
+           estáticas e há pouca interação com os cidadãos.
+
+           (ASSERTIVA IV) Estágio II: - Aprimorado (Enhanced): Os governos fornecem mais
+           informações sobre políticas públicas e governança. Os governos criam links que permitem
+           aos cidadãos obterem acesso a informações como: documentos, formulários, relatórios,
+           leis, regulamentos e boletins.
+
+           (ASSERTIVA I) Estágio III: Interativo (Interactive): os governos fornecem serviços on-line,
+           tais como formulários para download para pagamento de impostos e pedidos de
+           renovação de licença. Além disso, evidencia-se o início de um portal interativo ou site com
+           serviços para melhorar a conveniência dos cidadãos.
+
+           (ASSERTIVA II) Estágio IV: Transacional (Transactional): os governos começam a se
+           transformar introduzindo interações bidirecionais entre "cidadão e governo". Nesse
+           sentido, inclui opções para pagamento de impostos, solicitação de carteiras de identidade,
+           certidões de nascimento, passaportes e renovações de licenças, além de outras interações
+           semelhantes. Além disso, todas as transações são realizadas online, e o cidadão pode
+           acessar esses serviços on-line, 24 horas por dia, 7 dias por semana.
+
+           (ASSERTIVA V) Estágio V: Conectado (Connected): os governos se transformam em uma
+           entidade conectada que responde às necessidades de seus cidadãos, desenvolvendo uma
+
+
+
+19
+     ONU - From E-Government Survey 2008 – Froom E-Government to Connected Governance. New York: 2008.
+
+
+                                                                                                         13
+      infraestrutura integrada de suporte ao cidadão. Esse é o nível mais sofisticado de iniciativas
+      de governo eletrônico on-line
+
+O gabarito é a letra D.
+
+
+
+
+2 – Fundamentos e Diretrizes do Governo Eletrônico
+
+No Brasil, a política de Governo Eletrônico segue um conjunto de diretrizes que atuam em 03
+frentes fundamentais:
+
+      -Junto ao cidadão;
+
+      -Na melhoria da própria gestão interna do Estado e;
+
+      -Na integração com parceiros e fornecedores.
+
+
+
+
+Uma outra forma de dizer (e que também está correta) é que a política de Governo Eletrônico
+segue um conjunto de diretrizes baseado em 03 ideias fundamentais (ou fundamentos):
+
+      -Participação cidadã (Participação do cidadão);
+
+      -Melhoria da própria gestão interna do Estado;
+
+      -Integração com parceiros e fornecedores.
+
+Perceba que, ao invés de utilizar o termo “atuam em 03 frentes fundamentais”, a expressão
+utilizada foi “baseado em 03 ideias fundamentais”. A redação ficou um pouco diferente, mas o
+significado é o mesmo.
+
+As questões de prova cobram das duas maneiras. Cada vez as bancas utilizam uma forma
+diferente. Isso acontece pois os documentos do Governo Federal utilizam esses 02 tipos de
+nomenclaturas diferentes (que significam a mesma coisa).
+
+
+
+
+                                                                                               14
+Nesse sentido, o CEGE definiu 07 Diretrizes Gerais que servem de referência para estruturar as
+estratégias de governo eletrônico, e que devem ser observadas quando da implementação e
+operação do governo eletrônico. As 07 Diretrizes Gerais definidas pelo CEGE são as seguintes20:
+
+
+1) A prioridade do Governo Eletrônico é a promoção da cidadania
+
+A política de governo eletrônico do governo brasileiro abandona a visão que vinha sendo adotada,
+que apresentava o cidadão-usuário antes de mais nada como “cliente” dos serviços públicos, em
+uma perspectiva de provisão de inspiração neoliberal.
+
+O deslocamento não é somente semântico. Significa que o governo eletrônico tem como
+referência os direitos coletivos e uma visão de cidadania que não se restringe à somatória dos
+direitos dos indivíduos. Assim, forçosamente incorpora a promoção da participação e do controle
+social e a indissociabilidade entre a prestação de serviços e sua afirmação como direito dos
+indivíduos e da sociedade.
+
+Essa visão, evidentemente, não abandona a preocupação em atender as necessidades e demandas
+dos cidadãos individualmente, mas a vincula aos princípios da universalidade, da igualdade
+perante a lei e da equidade na oferta de serviços e informações.
+
+
+2) A Inclusão Digital é indissociável do Governo Eletrônico
+
+A Inclusão digital deve ser tratada como um elemento constituinte da política de governo
+eletrônico, para que esta possa configurar-se como política universal. Esta visão funda-se no
+entendimento da inclusão digital como direito de cidadania e, portanto, objeto de políticas
+públicas para sua promoção.
+
+Entretanto, a articulação à política de governo eletrônico não pode levar a uma visão instrumental
+da inclusão digital. Esta deve ser vista como estratégia para construção e afirmação de novos
+direitos e consolidação de outros pela facilitação de acesso a eles. Não se trata, portanto, de
+contar com iniciativas de inclusão digital somente como recurso para ampliar a base de usuários (e,
+portanto, justificar os investimentos em governo eletrônico), nem reduzida a elemento de
+aumento da empregabilidade de indivíduos ou de formação de consumidores para novos tipos ou
+canais de distribuição de bens e serviços.
+
+Além disso, enquanto a inclusão digital concentra-se apenas em indivíduos, ela cria benefícios
+individuais mas não transforma as práticas políticas. Não é possível falar de práticas políticas sem
+que se fale também da utilização da tecnologia da informação pelas organizações da sociedade
+civil em suas interações com os governos, o que evidencia o papel relevante da transformação
+dessas mesmas organizações pelo uso de recursos tecnológicos.
+
+
+20
+     https://www.governodigital.gov.br/EGD/historico-1/diretrizes
+
+
+                                                                                               15
+3) O Software Livre é um recurso estratégico para a implementação do Governo Eletrônico
+
+O software livre deve ser entendido como opção tecnológica do governo federal. Sempre que
+possível, deve ser promovida sua utilização. Para tanto, deve-se priorizar soluções, programas e
+serviços baseados em software livre que promovam a otimização de recursos e investimentos em
+tecnologia da informação. Entretanto, a opção pelo software livre não pode ser entendida
+somente como motivada por aspectos econômicos, mas pelas possibilidades que abre no campo
+da produção e circulação de conhecimento, no acesso a novas tecnologias e no estímulo ao
+desenvolvimento de software em ambientes colaborativos e ao desenvolvimento de software
+nacional.
+
+A escolha do software livre como opção prioritária onde cabível, encontra suporte também na
+preocupação em garantir ao cidadão o direito de acesso aos serviços públicos sem obrigá-lo a
+usar plataformas específicas.
+
+
+
+
+     Software livre é um software que pode ser executado, copiado, modificado, distribuído,
+     estudado e melhorado pelos usuários gratuitamente. Os usuários possuem livre acesso
+     ao código-fonte do software e podem fazer alterações conforme as suas necessidades.
+
+
+
+4) A gestão do conhecimento é um instrumento estratégico de articulação e gestão das políticas
+públicas do Governo Eletrônico
+
+A Gestão do Conhecimento é compreendida, no âmbito das políticas de governo eletrônico, como
+um conjunto de processos sistematizados, articulados e intencionais, capazes de assegurar a
+habilidade de criar, coletar, organizar, transferir e compartilhar conhecimentos estratégicos que
+podem servir para a tomada de decisões, para a gestão de políticas públicas e para inclusão do
+cidadão como produtor de conhecimento coletivo.
+
+
+5) O Governo Eletrônico deve racionalizar o uso de recursos
+
+O governo eletrônico não deve significar aumento dos dispêndios do governo federal na
+prestação de serviços e em tecnologia da informação. Ainda que seus benefícios não possam ficar
+restritos a este aspecto, é inegável que deve produzir redução de custos unitários e racionalização
+do uso de recursos.
+
+Grande parte das iniciativas de governo eletrônico pode ser realizada através do
+compartilhamento de recursos entre órgãos públicos. Este compartilhamento pode se dar tanto
+
+
+
+                                                                                              16
+no desenvolvimento quanto na operação de soluções, inclusive através do compartilhamento de
+equipamentos e recursos humanos. Deve merecer destaque especial o desenvolvimento
+compartilhado em ambiente colaborativo, envolvendo múltiplas organizações.
+
+
+6) O Governo Eletrônico deve contar com um arcabouço integrado de políticas, sistemas,
+padrões e normas
+
+O sucesso da política de governo eletrônico depende da definição e publicação de políticas,
+padrões, normas e métodos para sustentar as ações de implantação e operação do Governo
+Eletrônico que cubram uma série de fatores críticos para o sucesso das iniciativas.
+
+
+7) Integração das ações de Governo Eletrônico com outros níveis de governo e outros poderes
+
+A implantação do governo eletrônico não pode ser vista como um conjunto de iniciativas de
+diferentes atores governamentais que podem manter-se isoladas entre si. Pela própria natureza do
+governo eletrônico, este não pode prescindir da integração de ações e de informações.
+
+A natureza federativa do Estado brasileiro e a divisão dos Poderes não pode significar obstáculo
+para a integração das ações de governo eletrônico. Cabe ao Governo Federal um papel de
+destaque nesse processo, garantindo um conjunto de políticas, padrões e iniciativas que garantam
+a integração das ações dos vários níveis de governo e dos três Poderes.
+
+Nessa diretriz, um conceito que se destaca é o da interoperabildiade.
+
+
+
+
+         A interoperabiliade se refere à capacidade de sistemas heterogêneos se comunicarem.
+         Ou seja, trata-se da possibilidade de intercambiar informações e serviços, de forma
+         coerente, entre sistemas diferentes. A interoperabilidade conduz à convergência de
+         esforços e cria uma relação sinérgica entre as partes envolvidas.
+
+
+
+De acordo com o Governo Federal21, “a interoperabilidade pode ser entendida como uma
+característica que se refere à capacidade de diversos sistemas e organizações trabalharem em
+conjunto (interoperar) de modo a garantir que pessoas, organizações e sistemas computacionais
+interajam para trocar informações de maneira eficaz e eficiente.”
+
+
+
+21
+     https://www.governodigital.gov.br/transformacao/compras/orientacoes/interoperabilidade
+
+
+                                                                                               17
+                                             ESQUEMATIZANDO!
+
+
+
+
+                                                 Participação cidadã (Participação do cidadão)
+
+
+                        Fundamentos              Melhoria da própria gestão interna do Estado
+
+
+                                                   Integração com parceiros e fornecedores
+
+
+
+
+        Política de                                 Promoção da cidadania como prioridade
+         Governo
+        Eletrônico
+                                          Indissociabilidade entre inclusão digital e governo eletrônico
+
+
+                                             Utilização de software livre como recurso estratégico
+
+
+                                           Gestão do conhecimento como instrumento estratégico de
+                          Diretrizes
+                                                   articulação e gestão das políticas públicas
+
+
+                                                          Racionalização dos recursos
+
+
+                                                 Adoção de políticas, normas e padrões comuns
+
+
+                                           Integração com outros níveis de governo e com os demais
+                                                                   poderes
+
+
+
+
+(FPM Concursos – CGE-MT – Auditor do Estado – 2015)
+
+Considerando a temática do Governo Eletrônico no Brasil, analise as seguintes assertivas:
+
+I - A política de Governo Eletrônico segue um conjunto de diretrizes que atuam em três frentes
+fundamentais: junto ao cidadão; na melhoria da sua própria gestão interna; e na integração com
+parceiros e fornecedores.
+
+
+                                                                                                           18
+II – A gestão do conhecimento é um instrumento estratégico de articulação e gestão das políticas
+públicas do Governo Eletrônico.
+
+III - A inclusão digital deve ser tratada como um elemento constituinte da política de Governo
+Eletrônico.
+
+Quais estão CORRETAS?
+
+a) Apenas I.
+
+b) Apenas I e II.
+
+c) Apenas I e III.
+
+d) Apenas II e III.
+
+e) I, II e III.
+
+Comentários:
+
+A primeira assertiva está correta. De fato, a política de Governo Eletrônico segue um conjunto de
+diretrizes que atuam em três frentes fundamentais:
+
+         -Junto ao cidadão;
+         -Na melhoria da própria gestão interna do Estado e;
+         -Na integração com parceiros e fornecedores.
+
+A segunda assertiva está correta. Perfeito! Trata-se de uma das diretrizes da política de governo
+eletrônico.
+
+A terceira assertiva está correta. A indissociabilidade entre inclusão digital e governo eletrônico é
+uma das diretrizes da política de governo eletrônico. Nesse sentido, a Inclusão digital deve ser
+tratada como um elemento constituinte da política de governo eletrônico, para que esta possa
+configurar-se como política universal.
+
+O gabarito é a letra E.
+
+(ISAE – AL-MA – Analista)
+
+Com relação ao Governo Eletrônico, assinale a afirmativa incorreta.
+
+a) As ações do programa de Governo Eletrônico priorizam o uso das tecnologias da informação e
+comunicação (TIC's) para democratizar o acesso à informação, visando ampliar o debate e a
+participação popular na construção das políticas públicas, como também aprimorar a qualidade
+dos serviços e informações públicas prestadas.
+
+
+
+                                                                                                19
+b) A política de Governo Eletrônico do Estado brasileiro segue um conjunto de diretrizes baseado
+em três ideias fundamentais: participação cidadã, melhoria do gerenciamento interno do Estado e
+integração com parceiros e fornecedores.
+
+c) O uso do Software Livre não deve ser entendido como um recurso estratégico para a
+implementação do Governo Eletrônico, mas como opção tecnológica acessória, a ser usada quando
+as demais opções estão indisponíveis ou são extremamente caras
+
+d) A gestão do conhecimento é um instrumento estratégico de articulação e gestão das políticas
+públicas do Governo Eletrônico
+
+e) A Inclusão Digital deve ser tratada como um elemento constituinte da política de Governo
+Eletrônico, sendo dela indissociável.
+
+Comentários:
+
+Letra A: correta. Questão perfeita! A assertiva trouxe um excelente conceito de Governo
+Eletrônico.
+
+Letra B: correta. De fato, a política de Governo Eletrônico segue um conjunto de diretrizes baseado
+em 03 ideias fundamentais (ou fundamentos):
+
+       -Participação cidadã (Participação do cidadão);
+       -Melhoria da própria gestão interna do Estado;
+       -Integração com parceiros e fornecedores.
+
+Letra C: errada. Pelo contrário! A utilização de software livre como recurso estratégico é uma das
+diretrizes da política de governo eletrônico. O software livre deve ser entendido como opção
+tecnológica do governo federal. Sempre que possível, deve ser promovida sua utilização.
+
+Letra D: correta. A assertiva trouxe, corretamente, uma das diretrizes da política de governo
+eletrônico.
+
+Letra E: correta. Trata-se de uma das diretrizes da política de governo eletrônico.
+
+O gabarito é a letra C.
+
+
+
+
+                                                                                              20
+3 – Aplicação do Governo Eletrônico (Relacionamentos Existentes com as
+TICs)
+
+O e-commerce (comércio eletrônico) cresce a cada dia mais. No comércio eletrônico privado, são
+encontrados, basicamente, três tipos de negócios eletrônicos (a depender dos atores envolvidos):
+
+      B2C (Business to Consumer): trata-se das transações efetuadas entre as empresas e os
+      consumidores finais. As empresas usam a internet para vender produtos a seus
+      consumidores finais. Por exemplo: lojas virtuais como submarino.com, americanas.com, etc.
+
+      B2B (Business to Business): trata-se das transações efetuadas entre empresas. As empresas
+      utilizam a internet para negociar com outras empresas. Por exemplo: portais verticais de
+      negócios, EDI – Eletronic Data Interchange, etc.
+
+      C2C (Consumer to Consumer): trata-se das transações efetuadas entre consumidores finais.
+      Os consumidores finais utilizam a internet para negociar com outros consumidores finais.
+      Por exemplo: sites de leilões, classificados online, etc.
+
+No que se refere ao setor público, as transações envolvendo o governo envolvem 03 atores
+principais: o governo, os cidadãos e as empresas. Nesse sentido, as relações entre esses 03 atores,
+por meio das TICs, podem se dar das seguintes maneiras:
+
+      -G2C (Government to Citizen/Consumer) – Governo para Cidadão/Consumidor: são
+      transações que envolvem o governo e o cidadão. Através da utilização das TICs, o governo
+      atende diretamente aos cidadãos, com o objetivo de prestar os serviços públicos com maior
+      eficiência e aumentar a qualidade dos serviços públicos.
+
+      A interação entre o governo e os cidadãos pode se dar através da disponibilização de
+      informações, prestação de serviços, participação do cidadão na gestão pública, etc.
+
+      Por exemplo: pagamento de impostos pela internet, declarações de imposto de renda pela
+      internet, utilização de urnas eletrônicas, etc.
+
+      -G2B (Government to Business) – Governo para Empresas/Negócios: trata-se das transações
+      que envolvem o governo e as empresas. Através da utilização das TICs, o governo se
+      relaciona com seus fornecedores de produtos e serviços, com o objetivo de reduzir os
+      custos das aquisições, reduzir o “tempo” das aquisições, viabilizar negócios e promover o
+      desenvolvimento de determinados segmentos.
+
+      A interação entre o governo e as empresas pode se dar através da realização de licitações,
+      divulgação de compras governamentais, cadastro de fornecedores, etc.
+
+      Por exemplo: o portal “comprasgovernamentais.gov”.
+
+
+
+
+                                                                                              21
+      -G2G (Government to Government) – Governo para Governo: trata-se das transações que
+      entre o próprio governo (intragoverno). Através da utilização das TICs, os Órgãos e
+      Entidades da administração pública se relacionam entre si. Esse relacionamento pode ser de
+      duas formas:
+
+            Transações Horizontais: Órgãos e Entidades do mesmo Ente Federativo se
+            relacionam entre si. Por exemplo: Ministério da Saúde (Governo Federal) se
+            relacionando com a Secretaria de Vigilância em Saúde (Governo Federal).
+
+            Transações Verticais: Órgãos e Entidades de diferentes Entes Federativos se
+            relacionam entre si. Por exemplo: Ministério da Saúde (Governo Federal) se
+            relacionando com o Hospital das Clínicas de São Paulo (Governo Estadual).
+
+Além dessas formas de relacionamento, alguns autores ainda destacam mais uma:
+
+      -G2E (Government to Employee) – Governo para Servidor/Empregado: trata-se das
+      transações que envolvem o governo e os seus servidores/empregados públicos. Através da
+      utilização das TICs, o governo se relaciona com seus servidores/empregados, com o objetivo
+      de fornecer informações e serviços. Por exemplo: intranet do Órgão.
+
+
+
+
+                                           ESQUEMATIZANDO!
+
+
+
+
+                                             Governo
+
+
+
+                                        G2G
+                                                              G2C
+             Negócios /                                                    Cidadão /
+             Empresas                     GOVERNO                         Consumidor
+                              G2B
+                                                       G2E
+
+
+                                            Servidor /
+                                           Funcionário
+
+
+
+
+                                                                                           22
+(FCC – TCE-CE – Analista de Controle Externo – 2008)
+
+O Portal do Tribunal de Contas do Ceará na Internet é um exemplo de governo eletrônico (E-Gov),
+por provocar transformações profundas nos relacionamentos. Os relacionamentos mantidos pelo
+Tribunal com os cidadãos e com os demais órgãos governamentais denominam-se,
+respectivamente,
+
+a) G2G e G2B.
+
+b) G2B e C2G.
+
+c) G2C e G2G.
+
+d) B2G e C2G.
+
+e) C2G e G2B.
+
+Comentários:
+
+O relacionamento do governo com o cidadão é chamado de G2C (Government to Citizen). Já o
+relacionamento entre o próprio governo (intragoverno), é denominado de G2G (Government to
+Government).
+
+O gabarito é a letra C.
+
+
+
+
+                                                                                          23
+4 – Projetos e Sistemas de Governo Eletrônico no Brasil
+
+No Brasil, dentre os projetos de governo eletrônico destacam-se os seguintes:
+
+      Compras Eletrônicas Governamentais: É o portal utilizado pelo governo federal para
+      disponibilização e acompanhamento de informações referentes às compras
+      governamentais. Trata-se do portal onde se dá o cadastro dos fornecedores, e onde há
+      informações sobre contratações, licitações, processos de aquisição de bens, etc. Tem por
+      objetivo ampliar, desburocratizar e dar maior transparência às compras governamentais,
+      além de ampliar a acessibilidade às informações relativas às licitações. Atualmente, esse é o
+      site: https://www.comprasgovernamentais.gov.br
+
+      Inclusão Digital: Trata-se de iniciativas sociais, que tem por objetivo possibilitar que as
+      pessoas menos abastadas tenham acesso aos instrumentos e aos conhecimentos
+      necessários ao acesso à internet e ao governo eletrônico.
+
+      ePWG: Os Padrões Web em Governo Eletrônico (ePWG) são recomendações de boas
+      práticas agrupadas em formato de cartilhas com o objetivo de aprimorar a comunicação e o
+      fornecimento de informações e serviços prestados por meios eletrônicos pelos órgãos do
+      Governo Federal.
+
+      eMAG: O Modelo de Acessibilidade em Governo Eletrônico (eMAG) consiste em um
+      conjunto de recomendações a ser considerado para que o processo de acessibilidade dos
+      sítios e portais do governo brasileiro seja conduzido de forma padronizada e de fácil
+      implementação.
+
+      ePING: A arquitetura de Padrões de Interoperabilidade (ePing) define um conjunto mínimo
+      de premissas, políticas e especificações técnicas que regulamentam a utilização da
+      Tecnologia de Informação e Comunicação no Governo Federal, estabelecendo as condições
+      de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
+
+      Segurança da Informação e Comunicações: compreende um conjunto de ações que buscam
+      proteger e preservar os ativos de informação, assegurando-lhes disponibilidade,
+      integridade, confidencialidade e autenticidade.
+
+      Portal da Transparência: Trata-se do site onde o cidadão pode encontrar diversas
+      informações referentes às receitas públicas, despesas públicas, lotação e remuneração de
+      servidores, etc.
+
+      Certificação Digital: O Certificado Digital funciona como uma identidade virtual que permite
+      a identificação segura e inequívoca do autor de uma mensagem ou transação feita em
+      meios eletrônicos, através da utilização de chaves públicas. Possui mecanismos de
+      segurança capazes de garantir autenticidade, confidencialidade e integridade às
+
+
+
+
+                                                                                              24
+      informações eletrônicas. Serve para assegurar as transações on-line. Portanto, é um
+      instrumento fundamental para o Governo Eletrônico.
+
+      Cartão Magnético: O governo utiliza cartões magnéticos para pagamentos de auxílios
+      (como, por exemplo, o Bolsa-família). Com isso, além de maior controle sobre os programas
+      de auxílio, o governo também reduz seus custos.
+
+Por sua vez, dentre os sistemas de governo eletrônico destacam-se os seguintes:
+
+      SIAPE (Sistema Integrado de Administração de Pessoal): É um sistema de abrangência
+      nacional criado com a missão de integrar todas as plataformas de gestão da folha de
+      pessoal dos servidores públicos federais. Hoje, o SIAPE é um dos principais sistemas
+      estruturadores do governo e é responsável pela produção das folhas de pagamento dos
+      mais de 200 órgãos federais. Todos os órgãos das administrações direta, fundacional e
+      autárquica do poder executivo federal (e que dependem do tesouro para fazer frente a suas
+      despesas de pessoal) integram o SIAPE.
+
+      SIAFI (Sistema Integrado de Administração Financeira do Governo Federal): consiste no
+      principal instrumento utilizado para registro, acompanhamento e controle da execução
+      orçamentária, financeira e patrimonial do Governo Federal.
+
+      SIDOR (Sistema Integrado de Dados Orçamentários): é o sistema responsável pela
+      elaboração da proposta orçamentária do governo federal. Seu principal produto é o Projeto
+      de Lei Orçamentária enviado, anualmente, ao Congresso Nacional para aprovação e
+      consequente geração da Lei Orçamentária Anual. O SIDOR permite aprimorar o Processo
+      orçamentário federal.
+
+      SIASG (Sistema Integrado de Administração de Serviços Gerais) / ComprasNet: É o sistema
+      utilizado para facilitar e agilizar os processos de compra e aquisição de materiais e serviços
+      do Governo Federal. Sua finalidade é integrar os órgãos da Administração Pública Federal
+      direta, autárquica e fundacional. O Sistema inclui: Divulgação e a realização das licitações;
+      Emissão de notas de empenho; Registro dos contratos administrativos; Catalogação de
+      materiais e serviços; Cadastro de fornecedores. É um portal que oferece serviços ao próprio
+      governo, aos fornecedores e aos cidadãos.
+
+      SISCONV (Sistema de Convênio): Foi criado para administrar as transferências voluntárias
+      de recursos da União nos convênios firmados com estados, municípios, Distrito Federal e
+      também com as entidades privadas sem fins lucrativos. Entre as vantagens desta
+      ferramenta está a agilidade na efetivação dos contratos, a transparência do repasse do
+      dinheiro público e a qualificação da gestão financeira.
+
+      DOU (Diário Oficial da União): É um dos principais veículos de comunicação utilizados
+      pela Imprensa Nacional, com o objetivo de tornar público todo e qualquer assunto acerca
+      do âmbito federal. Atualmente, só pode ser acessado pela internet.
+
+
+
+                                                                                               25
+4.1 – SEI (Sistema Eletrônico de Informações)
+
+O Sistema Eletrônico de Informações (SEI) foi desenvolvido pelo Tribunal Regional Federal da 4ª
+Região (TRF4), e consiste em uma ferramenta de gestão de documentos e processos eletrônicos,
+e tem como objetivo promover a eficiência administrativa.
+
+De acordo com o Governo Federal, “trata-se de um sistema de gestão de processos e documentos
+eletrônicos, com práticas inovadoras de trabalho, tendo como principais características a
+libertação do paradigma do papel como suporte analógico para documentos institucionais e o
+compartilhamento do conhecimento com atualização e comunicação de novos eventos em tempo
+real.”22
+
+Ou seja, o objetivo do SEI é “substituir” os documentos e processos “físicos” (isto é, a “papelada”),
+por um sistema eletrônico que faça a gestão de todos esses documentos e processos.
+
+Portanto, trata-se de uma plataforma que envolve um conjunto de módulos e funcionalidades
+que buscam promover maior eficiência administrativa.
+
+O SEI integra o Processo Eletrônico Nacional (PEN), uma iniciativa conjunta de órgãos e entidades
+de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública
+de processos e documentos administrativos eletrônicos.
+
+O SEI é uma solução cedida gratuitamente para instituições públicas e permite transferir a gestão
+de documentos e de processos eletrônicos administrativos para um mesmo ambiente virtual.
+
+Por conta de suas características inovadoras e do sucesso da prática de cessão da ferramenta, sem
+ônus para outras instituições, o SEI transcendeu a classificação de sistema eletrônico do TRF4,
+para atingir a posição de projeto estratégico para toda a administração pública, amparando-se
+em premissas altamente relevantes e atuais, tais como:23
+
+           -a inovação,
+
+           -a economia do dinheiro público,
+
+           -a transparência administrativa,
+
+           -o compartilhamento do conhecimento produzido e
+
+           -a sustentabilidade.
+
+
+
+
+22
+     https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei-1
+23
+     https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei-1
+
+
+
+                                                                                                                        26
+Nesse sentido, o Governo Federal ressalta que “com a cessão gratuita, a economia do dinheiro
+público é incomensurável, uma vez que as instituições que o adotam deixam de gastar com a
+compra de soluções de mercado que, não raro, não solucionam as demandas para as quais são
+adquiridas. É a inovação advinda da implantação de uma cultura de socialização do conhecimento
+desenvolvido pela administração pública com os outros entes que a compõem. Se tal prática for
+mantida, será inegável que a gestão do orçamento público, a cada dia mais contingenciada, será
+sensivelmente mais racional. Não há mais espaço para aquisições milionárias quando há soluções
+gratuitas disponíveis.” 24
+
+Vejamos algumas das vantagens e benefícios do SEI, de acordo com o Governo Federal: 25
+
+           Portabilidade: 100% Web e pode ser acessado por meio dos principais navegadores do
+           mercado – Internet Explorer, Firefox e Google Chrome;
+
+           Acesso Remoto: pode ser acessado remotamente por diversos tipos de equipamentos,
+           como microcomputadores, notebooks, tablets e smartphones de vários sistemas
+           operacionais (Windows, Linux, IOS da Apple e Android do Google). Isso possibilita que os
+           usuários trabalhem à distância;
+
+           Acesso de usuários externos: gerencia o acesso de usuários externos, permitindo que
+           tomem conhecimento dos documentos e, por exemplo, assinem remotamente contratos e
+           outros tipos de processos;
+
+           Acompanhamento de processos online;
+
+           Controle de nível de acesso: gerencia a criação e o trâmite de processos e documentos com
+           informações sensíveis, conferindo o acesso somente às unidades envolvidas ou a usuários
+           específicos;
+
+           Tramitação em múltiplas unidades, permitindo a atuação simultânea de diversas unidades
+           em um mesmo processo: incorpora novo conceito de processo eletrônico, que rompe com a
+           tradicional tramitação linear, inerente à limitação física do papel. Com isso, várias unidades
+           podem ser demandadas, tomar providências e manifestar-se simultaneamente;
+
+           Funcionalidades específicas: controle de prazos, ouvidoria, estatísticas da unidade, tempo
+           do processo, base de conhecimento, pesquisa em todo teor, acompanhamento especial,
+           inspeção administrativa, modelos de documentos, textos padrão, sobrestamento de
+           processos, assinatura em bloco, organização de processos em bloco, acesso externo, entre
+           outros;
+
+
+
+
+24
+     https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei-1
+25
+    Baseado especialmente em https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-
+eletronico-de-informacoes-sei-1
+
+
+
+                                                                                                                        27
+     Sistema intuitivo: estruturado com boa navegabilidade e usabilidade.
+
+     Redução de custos financeiros e ambientais associados à impressão (impressoras, toner,
+     papel, contratos de impressão);
+
+     Redução de custos operacionais relacionados à entrega e ao armazenamento de
+     documentos e processos;
+
+     Redução do tempo gasto na abertura, manipulação, localização e tramitação de
+     documentos e processos;
+
+     Aumento da produtividade;
+
+     Eliminação de perdas, extravios e destruições indevidos de documentos e processos;
+
+     Compartilhamento simultâneo de documentos e processos, para fins de contribuição,
+     acompanhamento da tramitação ou simples consulta;
+
+     Auxílio aos servidores em sua rotina, com a disponibilização de modelos e orientações
+     sobre como proceder em situações específicas;
+
+     Incremento na publicidade dos processos, tornando mais fácil seu acompanhamento por
+     servidores e por administrados, e o seu controle interno e pela sociedade;
+
+     Ampliação da gestão do conhecimento e da possibilidade de melhoria de processos, em
+     razão da criação de uma plataforma única que permitirá a análise de fluxos de processos,
+     sua comparação entre órgãos distintos e a melhoria baseada em experiências de sucesso;
+
+     Aumento da possibilidade de definição, coleta e utilização direta e cruzada de dados e
+     indicadores, em razão da criação de um conjunto de bases de dados de mesma natureza.
+
+     Sem ônus para a Instituição Pública: O SEI é uma solução cedida gratuitamente para as
+     instituições públicas.
+
+     Melhoria nos fluxos de trabalho e agilidade na tramitação.
+
+
+
+
+(IBADE – Prefeitura de Seringueiras-RO – Agente Administrativo - 2019)
+
+
+
+
+                                                                                          28
+O Sistema Eletrônico de Informações (SEI) tem como objetivo construir uma infraestrutura
+pública de processos e documentos administrativos eletrônicos. Qual das alternativas
+abaixo NÃO representa um benefício trazido pelo uso do SEI? Assinale-a.
+
+Alternativas
+
+a) Acompanhamento de processos online
+
+b) Aumento da produtividade e diminuição do uso do papel.
+
+c) Acesso remoto por meio de diversos tipos de equipamentos.
+
+d) Melhoria nos fluxos de trabalho e agilidade na tramitação.
+
+e) Baixo custo de aquisição.
+
+Comentários:
+
+A única assertiva que não trouxe um dos benefícios do SEI é a letra E. Isso, pois, o SEI é uma
+solução cedida gratuitamente para instituições públicas. Portanto, não existe “custo de
+aquisição”.
+
+O gabarito é a letra E.
+
+(IBADE – Prefeitura de Vilhena-RO – Auxiliar Administrativo - 2019)
+
+O Sistema Eletrônico de Informações – SEI é uma ferramenta de gestão de documentos e
+processos eletrônicos que integra o Processo Eletrônico Nacional - PEN.
+
+São benefícios do SEI, EXCETO:
+
+Alternativas
+
+a) melhoria nos fluxos de trabalho e agilidade na tramitação.
+
+b) acesso remoto por meio de diversos tipos de equipamentos.
+
+c) atuação simultânea de diversas unidades em um mesmo processo.
+
+d) tramitação física dos documentos e arquivo com controle de umidade.
+
+e) aumento da produtividade e diminuição do uso do papel.
+
+Comentários:
+
+
+                                                                                         29
+A única assertiva que não trouxe um dos benefícios do SEI é a letra D. Isso, pois, o SEI é uma
+ferramenta de gestão de documentos e processos eletrônicos (e não “físicos”).
+
+O gabarito é a letra D.
+
+(ESAF – ESAF – Gerência de Projetos e Governança de TI – 2015)
+
+O conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a
+utilização da Tecnologia de Informação e Comunicação (TIC) no Governo Federal,
+estabelecendo as condições de interação com os demais Poderes e esferas de governo e
+com a sociedade em geral, é definido no
+
+a) eGOV.
+
+b) eMAG.
+
+c) ePING.
+
+d) ePWG.
+
+e) eTIC.
+
+Comentários:
+
+O enunciado trouxe o conceito de ePING, qual seja: conjunto mínimo de premissas,
+políticas e especificações técnicas que regulamentam a utilização da Tecnologia de
+Informação e Comunicação no Governo Federal, estabelecendo as condições de interação
+com os demais Poderes e esferas de governo e com a sociedade em geral.
+
+O gabarito é a letra C.
+
+
+
+5 – Governança Eletrônica (E-Governance)
+
+Governança consiste na forma pela qual o Governo exerce o seu poder; ou ainda, a forma com que
+os recursos do Estado são gerenciados pelo Governo. Trata-se da capacidade do Governo de
+formular e implantar políticas públicas.
+
+De acordo com a UNESCO26, “a governança eletrônica pode ser entendida como o desempenho
+dessa governança por meio eletrônico, a fim de facilitar um processo eficiente, rápido e
+
+
+26
+     http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+
+
+                                                                                              30
+transparente de disseminar informações ao público e a outras agências e para executar
+atividades de administração governamental”.
+
+
+
+
+Contudo, o que se nota, é que conceito de Governança Eletrônica é bastante “abstrato”, e cada
+autor tem uma definição diferente.
+
+Há autores que trazem conceitos bastante semelhantes ao de Governo Eletrônico. É o caso, por
+exemplo, de Rezende. Segundo o autor27, a governança eletrônica “tem foco no uso das
+tecnologias de informação e comunicação (TIC) aplicadas às atividades e ações de governo, seja
+de governo para governo ou em especial, de governo para com a sociedade e seus cidadãos”.
+
+Outros autores, por sua vez, optam por tratar Governança Eletrônica como sinônimo de Governo
+Eletrônico. É o caso, por exemplo, de Cunha28, o qual sustenta que “a governança eletrônica tem
+como áreas: a e-Administração Pública, melhoria dos processos governamentais e do trabalho
+interno do setor público com a utilização das tecnologias de informação e comunicação; e-
+Serviços Públicos, melhoria na prestação de serviços ao cidadão e a e-Democracia, maior
+participação do cidadão, mais ativa, possibilitada pelo uso das tecnologias de informação e
+comunicação no processo de tomada de decisão”.
+
+Já para Ruediger29, a governança eletrônica é uma “versão do governo eletrônico capaz de
+proporcionar mais eficiência, transparência e desenvolvimento, além do provimento democrático
+de informações para decisão”.
+
+
+
+A melhor linha a seguir é aquela apresentada pela UNESCO. Segundo essa acepção, a governança
+eletrônica é considerada um conceito mais amplo que o governo eletrônico, pois pode provocar
+uma mudança na maneira como os cidadãos se relacionam com os governos e entre si. A
+governança eletrônica pode trazer novos conceitos de cidadania, tanto em termos de
+necessidades e responsabilidades dos cidadãos. Seu objetivo é envolver, capacitar e emponderar o
+cidadão.30
+
+
+
+
+27
+   Rezende e Frey (2005) apud MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e Governança Eletrônica:
+Confrontação e Complementaridade. ENAPG – ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+28
+    Cunha, Duclós e Barbosa (2002) apud MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e Governança
+Eletrônica: Confrontação e Complementaridade. ENAPG – ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+29
+   Ruediger (2002) apud Ibid
+30
+     http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+
+
+
+                                                                                                              31
+Portanto, o que se percebe, é que a Governança Eletrônica é um elemento-chave para a
+existência de um governo eletrônico, pois, sem aquela, o que existe é apenas a informatização de
+alguns serviços públicos (o que poderia ser considerado uma “versão restrita” de Governo
+Eletrônico).31
+
+De acordo com a UNESCO, os campos de implementação da Governança Eletrônica são os
+seguintes:
+
+            Administração eletrônica (e-administration): refere-se à melhoria dos processos
+            governamentais e do funcionamento interno do setor público, através da utilização das
+            novas tecnologias de informação e comunicação (TICs).
+
+            Serviços eletrônicos (e-services): refere-se à melhoria da prestação de serviços públicos aos
+            cidadãos. Por exemplo: solicitações de documentos públicos, emissão de permissões e
+            licenças, etc.
+
+            Democracia eletrônica (e-democracy): refere-se a maior e mais ativa participação e
+            envolvimento do cidadão no processo de tomada de decisões governamentais, através da
+            utilização das TICs.
+
+
+
+6 – Governo Digital
+
+O uso intensivo as Tecnologias da Informação e Comunicação (TICs), fez com que surgisse uma
+nova forma de os governos interagirem com a sociedade. A utilização das TICs possibilitou aos
+cidadãos uma maior conveniência e comodidade no acesso e na utilização de serviços
+governamentais, o que ficou conhecido como governo eletrônico (e-Gov).
+
+Com a crescente e acentuada evolução das tecnologias, o Governo Eletrônico foi sendo substituído
+pelo Governo Digital. Com o objetivo de modernizar a administração do Estado Brasileiro, o
+governo digital, através da Tecnologia da Informação, reconstrói processos e utiliza dados
+disponíveis para otimizar e transformar os serviços públicos aos olhos do cidadão, além de reduzir
+a burocracia.32
+
+Nesse sentido, o Governo Federal ressalta que, “desde o ano 2000, o governo brasileiro tem
+buscado evoluir seus processos e a prestação de serviços públicos com o auxílio das Tecnologias da
+Informação e Comunicação (TIC). O Programa de Governo Eletrônico iniciou no Brasil uma série de
+adaptações, inovações e desafios para a realização da melhoria da qualidade do serviço público.
+
+
+
+
+31
+     Ibid
+32
+     https://portal.tcu.gov.br/fiscalizacao-de-tecnologia-da-informacao/atuacao/governo-digital/
+
+
+
+                                                                                                    32
+Diversas políticas e iniciativas foram realizadas até 2016, mas com a publicação da Estratégia de
+Governança Digital (EGD), foi implantado um novo paradigma de gestão pública e das relações
+entre o Estado brasileiro e a Sociedade. Desburocratização, modernização do Estado, simplificação
+de processos, melhoria no acesso à informação pública, transparência, melhoria nos atendimentos
+e racionalização de gastos públicos são alguns avanços que a política de governança eletrônica e
+digital proporcionaram.” 33
+
+Portanto, de acordo com o Governo Federal, foi a partir de 2015 “que o paradigma de governo
+eletrônico trouxe a informatização dos processos internos de trabalho (visão interna), evoluindo
+para o conceito de governo digital, cujo foco têm como centro a relação com a sociedade (visão
+do cidadão), a fim de tornar-se mais simples, mais acessível e mais eficiente na oferta de serviços
+ao cidadão por meio das tecnologias digitais.” 34
+
+Desta forma, em janeiro de 2016, “com a publicação do Decreto n.° 8.638, foi instituída a Política
+de Governança Digital para o Poder Executivo Federal e atribuiu-se ao Ministério do
+Planejamento, à época, a responsabilidade pela elaboração da Estratégia de Governança Digital
+(EGD) da administração pública federal. “35
+
+Vale dizer que a primeira versão da Estratégia de Governança Digital (EGD) foi publicada em
+março de 2016, sendo revisada em maio de 2018, com o detalhamento das ações e indicadores
+para 03 (três) eixos estratégicos: 36
+
+            a) Acesso à Informação
+
+            b) Prestação de Serviços
+
+            c) Participação Social
+
+A Estratégia de Governança Digital tem por objetivo “convergir esforços, compartilhamento de
+infraestruturas, sistemas e serviços dos órgãos federais com as iniciativas de governo digital, assim
+como articular para sensibilizar os gestores do Governo Federal sobre as oportunidades trazidas
+pelas novas tecnologias e a importância de coordenar os investimentos para acelerar a
+transformação digital.” 37
+
+Em 2018, por sua vez, o governo brasileiro publicou a Estratégia Brasileira para a Transformação
+Digital (E-Digital), “documento central da política pública que apresenta um amplo diagnóstico
+dos desafios a serem enfrentados e uma visão de futuro para a transformação digital da
+
+
+
+33
+   Extraído de: Do Eletrônico ao Digital, disponível em https://www.gov.br/governodigital/pt-br/estrategia-de-governanca-
+digital/do-eletronico-ao-digital
+34
+     ibid
+35
+     ibid
+36
+     ibid
+37
+     ibid
+
+
+
+                                                                                                                   33
+economia, do governo e da sociedade brasileira. O documento traz a conclusão de uma jornada
+iniciada a partir de uma recomendação do Conselho de Desenvolvimento Econômico e Social
+(CDES), refletindo o amplo engajamento entre o setor produtivo, a comunidade científica e a
+sociedade civil. A E-Digital é organizada em dois eixos - Economia Digital e Governo Digital - e
+apresenta com detalhes 100 ações de curto e médio prazo para que o Brasil acelere a sua própria
+transformação.” 38
+
+Em 2019, a transformação digital dos serviços públicos ocorreu em um ritmo mais acelerado e,
+mediante o esforço conjunto do governo, mais de 500 serviços públicos digitais foram entregues à
+população brasileira.
+
+Por derradeiro, em 2020 o Governo lança a Estratégia de Governo Digital para o período de 2020
+a 2022, que está organizada em princípios, objetivos e iniciativas que nortearão a transformação
+do governo por meio de tecnologias digitais. O Governo busca, com essa estratégia, oferecer
+políticas públicas e serviços de melhor qualidade, mais simples, acessíveis a qualquer hora e
+lugar e a um custo menor para o cidadão. Com a nova Estratégia de Governo Digital, o Estado
+brasileiro sinaliza um esforço ainda mais vigoroso e colaborativo para enfrentar possíveis desafios
+e entregar muito mais serviços digitais à população. O que se pretende é melhorar ainda mais o
+nível de confiança no governo e sua relação com os cidadãos por meio do digital.”39
+
+
+
+
+O Tribunal de Contas da União (TCU) destaca que, “por meio da Secretaria de Fiscalização de
+Tecnologia da Informação (Sefti), avaliou o uso das tecnologias digitais pelo governo (Governo
+Digital), como parte de sua estratégia de modernização para melhorar a oferta de serviços
+públicos à sociedade.
+
+Entre as principais conclusões da auditoria está a ausência de identificação única do cidadão, o
+que se traduz em multiplicidade de cadastros de usuários, e a dificuldade em integração entre os
+sistemas, o que obriga a entrega de informações e documentos já de posse do estado. A auditoria
+foi formalizada pelo Acórdão 1.469/2017-TCU- Plenário, da relatoria do ministro Benjamin
+Zymler.” 40
+
+
+
+
+38
+    Extraído de: Do Eletrônico ao Digital, disponível em https://www.gov.br/governodigital/pt-
+br/estrategia-de-governanca-digital/do-eletronico-ao-digital
+39
+    Extraído de: Do Eletrônico ao Digital, disponível em https://www.gov.br/governodigital/pt-
+br/estrategia-de-governanca-digital/do-eletronico-ao-digital
+40
+     https://portal.tcu.gov.br/fiscalizacao-de-tecnologia-da-informacao/atuacao/governo-digital/
+
+
+                                                                                                   34
+6.1 – Decreto 10.332, de 28 de abril de 2020
+
+Inicialmente, o Decreto 10.332 de 28 de abril de 202041, instituiu a Estratégia de Governo Digital
+para o período de 2020 a 2022, no âmbito dos órgãos e das entidades da administração pública
+federal direta, autárquica e fundacional e dá outras providências.
+
+Em 22/11/2022, entretanto, foi publicado o Decreto 11.260/2022, que dispõe sobre a elaboração
+e o encaminhamento da Estratégia Nacional de Governo Digital e prorrogou o período de
+vigência da Estratégia de Governo Digital (instituída pelo Decreto nº 10.332, de 28 de abril de
+2020) para o período de 2020 a 2023.
+
+Nesse sentido, o Decreto 11.260/2022 prevê, em seu art. 6-A, que o período de vigência da
+Estratégia de Governo Digital será de 04 anos, coincidente com o período de vigência do Plano
+Plurianual (PPA).
+
+O Decreto 10.332, além de legitimar, dá publicidade ao plano estratégico junto a todos os órgãos
+da administração pública e à sociedade.
+
+De acordo com o art. 3º, para a consecução dos objetivos estabelecidos na Estratégia de Governo
+Digital, os órgãos e as entidades elaborarão os seguintes instrumentos de planejamento:
+
+       I - Plano de Transformação Digital, que conterá, no mínimo, as ações de:
+
+              a) transformação digital de serviços;
+
+              b) unificação de canais digitais;
+
+              c) interoperabilidade de sistemas; e
+
+              d) segurança e privacidade.
+
+       *Vale destacar que o Plano de Transformação Digital incluirá sua estratégia de
+       monitoramento, que será pactuada com a Secretaria Especial de Modernização do Estado
+       da Secretaria-Geral da Presidência da República.
+
+       II - Plano Diretor de Tecnologia da Informação e Comunicação; e
+
+       III - Plano de Dados Abertos, nos termos do disposto no Decreto nº 8.777, de 11 de maio de
+       2016.
+
+
+
+
+41
+    Texto ora transcrito, ora reescrito de: BRASIL. Decreto 10.332 de 28 de abril de 2020. Disponível em:
+http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10332.htm
+
+
+
+
+                                                                                                   35
+Os instrumentos de planejamento serão:
+
+      I - elaborados pela unidade competente dos órgãos e das entidades; e
+
+      II - aprovados pelo respectivo Comitê de Governança Digital.
+
+
+
+O art. 2 do Decreto prevê que os órgãos e as entidades instituirão Comitê de Governança Digital,
+para deliberar sobre os assuntos relativos à implementação das ações de governo digital e ao uso
+de recursos de tecnologia da informação e comunicação. O Comitê de Governança Digital será
+composto:
+
+      I - por um representante da Secretaria-Executiva ou da unidade equivalente, que o
+      presidirá;
+
+      II - por um representante de cada unidade finalística;
+
+             *Os membros do Comitê de Governança Digital, de que tratam os itens I e II serão
+             ocupantes de cargo em comissão de nível equivalente ou superior ao nível 5 do
+             Grupo-Direção e Assessoramento Superiores.
+
+      III - pelo titular da unidade de tecnologia da informação e comunicação; e
+
+      IV - pelo encarregado do tratamento de dados pessoais, nos termos do disposto da Lei nº
+      13.709, de 14 de agosto de 2018.
+
+Os representantes acima elencados serão indicados e designados em ato da autoridade máxima
+do órgão ou da entidade.
+
+A participação no Comitê de Governança Digital será considerada prestação de serviço público
+relevante, não remunerada.
+
+Cabe dizer, ainda, que o Presidente do Comitê de Governança Digital poderá convidar
+representantes de outros órgãos e entidades para participar de suas reuniões, sem direito a
+voto.
+
+
+
+O art. 7 do decreto destaca, ainda, que fica instituída a Rede Nacional de Governo Digital - Rede
+Gov.br, de natureza colaborativa e adesão voluntária, no âmbito da União, dos Estados, do
+Distrito Federal e dos Municípios, com a finalidade de promover o intercâmbio de informações e
+a articulação de medidas conjuntas relacionadas à expansão da Estratégia de Governo Digital.
+
+
+
+
+                                                                                           36
+Os objetivos a serem alcançados, por meio da Estratégia de Governo Digital incluem:
+
+      - oferecer serviços públicos digitais simples e intuitivos, consolidados em plataforma única
+      e com avaliação de satisfação disponível;
+
+      - conceder acesso amplo à informação e aos dados abertos governamentais, para
+      possibilitar o exercício da cidadania e a inovação em tecnologias digitais;
+
+      - promover a integração e a interoperabilidade das bases de dados governamentais;
+
+      - promover políticas públicas baseadas em dados e evidências e em serviços preditivos e
+      personalizados, com utilização de tecnologias emergentes;
+
+      - implementar a Lei Geral de Proteção de Dados, no âmbito do Governo federal, e garantir
+      a segurança das plataformas de governo digital;
+
+      - disponibilizar a identificação digital ao cidadão;
+
+      - adotar tecnologia de processos e serviços governamentais em nuvem como parte da
+      estrutura tecnológica dos serviços e setores da administração pública federal;
+
+      - otimizar as infraestruturas de tecnologia da informação e comunicação; e
+
+      - formar equipes de governo com competências digitais.
+
+
+
+Vale mencionar, ainda, que o Decreto 11.260/2022 prevê que a Secretaria de Governo Digital da
+Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia,
+em parceria com a Secretaria Especial de Modernização do Estado da Secretaria-Geral da
+Presidência da República, será o órgão responsável pela articulação da matéria e pela elaboração
+da minuta preliminar da Estratégia Nacional de Governo Digital.
+
+O mencionado Decreto destaca, ainda, que os Estados, o Distrito Federal e os Municípios serão
+convidados a participar da discussão da proposta da Estratégia Nacional de Governo Digital e que
+o período de vigência da Estratégia Nacional de Governo Digital será de 04 anos, coincidente com
+o período de vigência do Plano Plurianual.
+
+Por derradeiro, o Decreto 11.260/2022 ressalta que a proposta de decreto sobre a Estratégia
+Nacional do Governo Digital será submetida à aprovação do Presidente da República, nos termos
+do disposto no Decreto nº 9.191, de 1º de novembro de 2017, até 15 de novembro do último ano
+de vigência do Plano Plurianual.
+
+
+
+
+                                                                                            37
+Por fim, o anexo do Decreto 10.332 prevê que a Estratégia de Governo Digital para o período de
+2020 a 2023 está organizada em princípios, objetivos e iniciativas que nortearão a transformação
+do governo por meio do uso de tecnologias digitais, com a promoção da efetividade das políticas
+e da qualidade dos serviços públicos e com o objetivo final de reconquistar a confiança dos
+brasileiros. Ou seja, um Governo centrado no cidadão, que busca oferecer uma jornada mais
+agradável e responde às suas expectativas por meio de serviços de alta qualidade.
+
+
+
+
+Por fim, o Decreto elenca 18 objetivos e respectivas iniciativas relacionadas a cada um desses
+objetivos. Vejamos:
+
+Objetivo 1 - Oferta de serviços públicos digitais
+
+      Iniciativa 1.1. Transformar cem por cento dos serviços públicos digitalizáveis, até 2023.
+
+      Iniciativa 1.2. Simplificar e agilizar a abertura, a alteração e a extinção de empresas no
+      Brasil, de forma que esses procedimentos possam ser realizados em um dia, até 2022.
+
+Objetivo 2 - Avaliação de satisfação nos serviços digitais
+
+      Iniciativa 2.1. Oferecer meio de avaliação de satisfação padronizado para, no mínimo,
+      cinquenta por cento dos serviços públicos digitais até 2023.
+
+      Iniciativa 2.2. Aprimorar a satisfação dos usuários dos serviços públicos e obter nível médio
+      de, no mínimo, 4,5 (quatro inteiros e cinco décimos) em escala de 5 (cinco) pontos, até
+      2022.
+
+      Iniciativa 2.3. Aprimorar a percepção de utilidade das informações dos serviços no portal
+      único gov.br e atingir, no mínimo, sessenta e cinco por cento de avaliações positivas até
+      2023.
+
+Objetivo 3 - Canais e serviços digitais simples e intuitivos
+
+      Iniciativa 3.1. Estabelecer padrão mínimo de qualidade para serviços públicos digitais, até
+      2020.
+
+      Iniciativa 3.2. Realizar, no mínimo, cem pesquisas de experiência com os usuários reais dos
+      serviços públicos, até 2022.
+
+
+
+
+                                                                                                  38
+      Um Governo integrado, que resulta em uma experiência consistente de atendimento para o
+      cidadão e integra dados e serviços da União, dos Estados, do Distrito Federal e Municípios,
+      reduzindo custos, ampliando a oferta de serviços digitais e retira do cidadão o ônus do
+      deslocamento e apresentação de documentos.
+
+Objetivo 4 - Acesso digital único aos serviços públicos
+
+      Iniciativa 4.1. Consolidar seiscentos e vinte e dois domínios do Poder Executivo federal no
+      portal único gov.br, até 2022.
+
+      Iniciativa 4.2. Integrar todos os Estados à Rede Gov.br, até 2022.
+
+      Iniciativa 4.3. Consolidar a oferta dos aplicativos móveis na conta única do Governo federal
+      nas lojas, até 2020.
+
+      Iniciativa 4.4. Ampliar a utilização do login único de acesso gov.br para mil serviços públicos
+      digitais, até 2022.
+
+Objetivo 5 - Plataformas e ferramentas compartilhadas
+
+      Iniciativa 5.1. Implementar meios de pagamentos digitais para, no mínimo, trinta por cento
+      dos serviços públicos digitais que envolvam cobrança, até 2022.
+
+      Iniciativa 5.2. Disponibilizar caixa postal do cidadão, que contemplará os requisitos do
+      domicílio eletrônico, nos termos do disposto na Lei nº 14.129, de 29 de março de 2021, até
+      2023.
+
+Objetivo 6 - Serviços públicos integrados
+
+      Iniciativa 6.1. Interoperar os sistemas do Governo federal, de forma que, no mínimo,
+      seiscentos serviços públicos disponham de preenchimento automático de informações
+      relacionadas ao Cadastro Base do Cidadão, ao Cadastro Nacional de Pessoa Jurídica e ao
+      Cadastro de Endereçamento Postal, até 2022.
+
+      Iniciativa 6.2. Ampliar para vinte a quantidade de atributos no cadastro base do cidadão até
+      2023.
+
+      Iniciativa 6.3. Estabelecer quinze cadastros base de referência para interoperabilidade do
+      Governo federal até 2023.
+
+      Iniciativa 6.4. Estabelecer barramento de interoperabilidade dos sistemas do Governo
+      federal, até 2020, de forma a garantir que pessoas, organizações e sistemas computacionais
+      compartilhem os dados.
+
+
+
+
+                                                                                               39
+      Um Governo inteligente, que implementa políticas efetivas com base em dados e evidências
+      e antecipa e soluciona de forma proativa as necessidades do cidadão e das organizações,
+      além de promover um ambiente de negócios competitivo e atrativo a investimentos.
+
+Objetivo 7 - Políticas públicas baseadas em dados e evidências
+
+      Iniciativa 7.1. Produzir quarenta novos painéis gerenciais de avaliação e monitoramento de
+      políticas públicas, até 2022.
+
+      Iniciativa 7.2. Catalogar, no mínimo, as trezentas principais bases de dados do Governo
+      federal, até 2022.
+
+      Iniciativa 7.3. Disponibilizar o mapa de empresas no Brasil, até 2020.
+
+Objetivo 8 - Serviços públicos do futuro e tecnologias emergentes
+
+      Iniciativa 8.1. Desenvolver, no mínimo, seis projetos de pesquisa, desenvolvimento e
+      inovação com parceiros do Governo federal, instituições de ensino superior, setor privado e
+      terceiro setor, até 2022.
+
+      Iniciativa 8.2. Implementar recursos de inteligência artificial em, no mínimo, doze serviços
+      públicos federais, até 2022.
+
+      Iniciativa 8.3. Disponibilizar, pelo menos, nove conjuntos de dados por meio de soluções de
+      blockchain na administração pública federal, até 2022.
+
+      Iniciativa 8.4. Implementar recursos para criação de uma rede blockchain do Governo
+      federal interoperável, com uso de identificação confiável e de algoritmos seguros.
+
+      Iniciativa 8.5. Implantar um laboratório de experimentação de dados com tecnologias
+      emergentes até 2023.
+
+Objetivo 9 - Serviços preditivos e personalizados ao cidadão
+
+      Iniciativa 9.1. Implantar mecanismo de personalização da oferta de serviços públicos
+      digitais, baseados no perfil do usuário, até 2022.
+
+      Iniciativa 9.2. Ampliar a notificação ao cidadão em, no mínimo, vinte e cinco por cento dos
+      serviços digitais.
+
+      Um Governo confiável, que respeita a liberdade e a privacidade dos cidadãos e assegura a
+      resposta adequada aos riscos, ameaças e desafios que surgem com o uso das tecnologias
+      digitais no Estado.
+
+
+
+
+                                                                                            40
+Objetivo 10 - Implementação da Lei Geral de Proteção de Dados no âmbito do Governo federal
+
+      Iniciativa 10.1. Estabelecer método de adequação e conformidade dos órgãos com os
+      requisitos da Lei Geral de Proteção de Dados, até 2020.
+
+      Iniciativa 10.2. Estabelecer plataforma de gestão da privacidade e uso dos dados pessoais
+      do cidadão, até 2020.
+
+Objetivo 11: Garantia da segurança das plataformas de governo digital e de missão crítica
+
+      Iniciativa 11.1. Garantir, no mínimo, noventa e nove por cento de disponibilidade das
+      plataformas compartilhadas de governo digital, até 2022.
+
+      Iniciativa 11.2. Implementar controles de segurança da informação e privacidade em trinta
+      sistemas críticos do Governo federal, até 2022.
+
+      Iniciativa 11.3. Definir padrão mínimo de segurança cibernética a ser aplicado nos canais e
+      nos serviços digitais, até 2022.
+
+Objetivo 12 - Identidade digital ao cidadão
+
+      Iniciativa 12.1. Prover dois milhões de validações biométricas mensais para serviços
+      públicos federais, até o final de 2020.
+
+      Iniciativa 12.2. Disponibilizar identidade digital ao cidadão, com expectativa de emissão de
+      quarenta milhões, até 2022.
+
+      Iniciativa 12.3. Criar as condições para a expansão e para a redução dos custos dos
+      certificados digitais para que custem, no máximo R$ 50,00 (cinquenta reais) por usuário
+      anualmente, até 2022.
+
+      Iniciativa 12.4. Disponibilizar novos mecanismos de assinatura digital ao cidadão, até 2022.
+
+      Iniciativa 12.5. Incentivar o uso de assinaturas digitais com alto nível de segurança.
+
+      Iniciativa 12.6. Estabelecer critérios para adoção de certificado de atributos para
+      simplificação dos processos de qualificação de indivíduo ou entidade.
+
+      Iniciativa 12.7. Promover a divulgação ampla de sistemas e aplicações para uso e verificação
+      das políticas de assinatura com códigos abertos e interoperáveis.
+
+      Um Governo transparente e aberto, que atua de forma proativa na disponibilização de
+      dados e informações e viabiliza o acompanhamento e a participação da sociedade nas
+      diversas etapas dos serviços e das políticas públicas.
+
+
+
+
+                                                                                               41
+Objetivo 13 - Reformulação dos canais de transparência e dados abertos
+
+      Iniciativa 13.1. Integrar os portais de transparência, de dados abertos e de ouvidoria ao
+      portal único gov.br, até 2020.
+
+      Iniciativa 13.2. Ampliar a quantidade de bases de dados abertos, de forma a atingir 0,68
+      (sessenta e oito centésimos) pontos no critério de disponibilidade de dados do índice
+      organizado pela Organização para a Cooperação e Desenvolvimento Econômico, até 2022.
+
+      Iniciativa 13.3. Melhorar a qualidade das bases de dados abertos, de forma a atingir 0,69
+      (sessenta e nove décimos) pontos no critério de acessibilidade de dados do índice
+      organizado pela Organização para a Cooperação e Desenvolvimento Econômico, até 2022.
+
+Objetivo 14 - Participação do cidadão na elaboração de políticas públicas
+
+      Iniciativa 14.1. Revogada.
+
+      Iniciativa 14.2. Aprimorar os meios de participação social e disponibilizar nova plataforma
+      de participação, até 2021.
+
+Objetivo 15 - Governo como plataforma para novos negócios
+
+      Iniciativa 15.1. Disponibilizar, no mínimo, vinte novos serviços interoperáveis que
+      interessem às empresas e às organizações até 2023.
+
+      Iniciativa 15.2. Revogada.
+
+      Um Governo eficiente, que capacita seus profissionais nas melhores práticas e faz uso
+      racional da força de trabalho e aplica intensivamente plataformas tecnológicas e serviços
+      compartilhados nas atividades operacionais.
+
+      Iniciativa 15.3. Criar dinâmica de integração entre os agentes públicos de transformação
+      digital e o ecossistema de inovação GovTech, até 2022.
+
+      Iniciativa 15.4. Ampliar em vinte por cento a quantidade de competições de inovação
+      abertas para a identificação ou o desenvolvimento de soluções de base tecnológica para o
+      Governo federal realizadas no âmbito do gov.br/desafios, até 2022.
+
+      Iniciativa 15.5. Sistematizar e disseminar conhecimentos sobre compras públicas de
+      inovação, até 2022.
+
+      Iniciativa 15.6. Incorporar a temática de GovTechs em, no mínimo, dois programas de
+      empreendedorismo inovador ou de transformação digital, até 2022.
+
+
+
+
+                                                                                           42
+      Iniciativa 15.7. Realizar, no mínimo, dois eventos sobre o uso de GovTechs na administração
+      pública federal, com foco no marco legal das start-ups, nos termos do disposto na Lei
+      Complementar nº 182, de 1º de junho de 2021, até 2022.
+
+Objetivo 16 - Otimização das infraestruturas de tecnologia da informação
+
+      Iniciativa 16.1. Realizar, no mínimo, seis compras centralizadas de bens e serviços comuns
+      de tecnologia da informação e comunicação, até 2022.
+
+      Iniciativa 16.2. Ampliar o compartilhamento de soluções de software estruturantes,
+      totalizando um novo software por ano, até 2022.
+
+      Iniciativa 16.3. Disponibilizar o Portal Nacional de Contratações Públicas, até 2022.
+
+      Iniciativa 16.4. Revogada.
+
+      Iniciativa 16.5. Migração de serviços de, pelo menos, trinta órgãos para a nuvem, até 2022.
+
+      Iniciativa 16.6. Negociar acordos corporativos com os maiores fornecedores de tecnologia
+      da informação e comunicação do governo, de forma a resultar na redução de, no mínimo,
+      vinte por cento dos preços de lista, até 2022.
+
+Objetivo 17 - O digital como fonte de recursos para políticas públicas essenciais
+
+      Iniciativa 17.1. Aprimorar a metodologia de medição da economia de recursos com a
+      transformação digital, até 2020.
+
+      Iniciativa 17.2. Disponibilizar painel com o total de economia de recursos auferida com a
+      transformação digital, até 2020.
+
+      Iniciativa 17.3. Revogada.
+
+Objetivo 18 - Equipes de governo com competências digitais
+
+      Iniciativa 18.1. Capacitar, no mínimo, dez mil profissionais das equipes do Governo federal
+      em áreas do conhecimento essenciais para a transformação digital.
+
+      Iniciativa 18.2. Difundir os princípios da transformação digital por meio de eventos e ações
+      de comunicação, de forma a atingir, no mínimo, cinquenta mil pessoas, até 2022.
+
+      Iniciativa 18.3. Promover ações com vistas ao recrutamento e à seleção de força de trabalho
+      dedicada à transformação digital e à tecnologia da informação na administração pública
+      federal.
+
+
+
+
+                                                                                              43
+(CEBRASPE – SEFAZ-CE – Auditor – 2021)
+
+A instituição da Rede Nacional de Governo Digital, de natureza colaborativa e adesão voluntária, é
+uma das estratégias do governo eletrônico para o período de 2020 a 2022.
+
+Comentários:
+
+Isso mesmo!
+
+O Decreto 10.332 de 28 de abril de 2020, institui a Estratégia de Governo Digital para o período
+de 2020 a 2022, no âmbito dos órgãos e das entidades da administração pública federal direta,
+autárquica e fundacional e dá outras providências.
+
+Nesse sentido, o art. 7 do decreto destaca que fica instituída a Rede Nacional de Governo Digital -
+Rede Gov.br, de natureza colaborativa e adesão voluntária, no âmbito da União, dos Estados, do
+Distrito Federal e dos Municípios, com a finalidade de promover o intercâmbio de informações e a
+articulação de medidas conjuntas relacionadas à expansão da Estratégia de Governo Digital.
+
+Gabarito: correta.
+
+
+
+
+                                                                                             44
+                                          RESUMO ESTRATÉGICO
+
+                                                    Governo Eletrônico
+
+
+                                                      Democratizar o acesso à informação (inclusão digital)
+
+
+
+                                                 Modernizar a máquina pública / minimizar a burocracia pública
+
+
+                                             Reduzir custos e melhorar a eficiência da administração pública no que
+                                                              se refere aos seus processos internos
+                O governo eletrônico
+                consiste na utilização,
+                   pelo governo, das                Aumentar a eficiência e a qualidade dos serviços públicos;
+                    ferramentas de
+                     tecnologia de
+                     informação e
+                  comunicação (TIC),            Permitir maior participação popular do cidadão na gestão pública
+                 com os objetivos de:
+
+
+                                                  Aumentar a transparência, o controle social e a accountability
+
+
+
+                                                          Criar mecanismos de gestão do conhecimento
+
+
+
+                                                                    Aprimorar a governança
+
+
+
+
+          “As ações do programa de Governo Eletrônico (eGOV) priorizam o uso das tecnologias
+         da informação e comunicação (TICs) para democratizar o acesso à informação, visando
+         ampliar o debate e a participação popular na construção das políticas públicas, como
+         também aprimorar a qualidade dos serviços e informações públicas prestadas. 42”
+
+
+
+
+42   https://www.governodigital.gov.br/EGD/historico-1/historico
+
+
+
+
+                                                                                                                      45
+                                      Estágios do Governo Eletrônico (ONU)
+
+
+                                                  Estágio I - Emergente
+     A presença on-line de um governo é composta principalmente por uma pagina da web e/ou um site oficial. As
+                                  informações são estáticas e há pouca interação.
+
+
+
+                                                 Estágio II - Aprimorado
+Os governos fornecem mais informações sobre políticas públicas e governança. Os governos criam links que permitem
+                  aos cidadãos obterem acesso a informações como: documentos, formulários, etc.
+
+
+
+                                                  Estágio III - Interativo
+Os governos fornecem serviços on-line, tais como formulários para download para pagamento de impostos. Evidencia-se
+              o início de um portal interativo com serviços para melhorar a conveniência dos cidadãos.
+
+
+
+                                                Estágio IV - Transacional
+   Os governos começam a se transformar introduzindo interações bidirecionais entre "cidadão e governo". Todas as
+                     transações são realizadas online, e podem ser acessadas 24 horas por dia.
+
+
+
+                                                  Estágio V - Conectado
+      Os governos se transformam em uma entidade conectada que responde às necessidades de seus cidadãos,
+                         desenvolvendo uma infraestrutura integrada de suporte ao cidadão.
+
+
+
+                                     Estágios do Governo Eletrônico no Brasil
+
+
+                                             Gestão interna (1970 a 1992)
+As TICs são utilizadas para aprimorar os processos internos de gestão pública. Buscava-se a melhoria da gestão interna e
+                                maior eficiência dos processos administrativos financeiros.
+
+
+
+                                Serviços e informações ao cidadão (1993 a 1998)
+ São implementados processos com o objetivo de apoiar a prestação de serviços ao cidadão . A iniciativa mais relevante
+                      foi a criação dos primeiros Serviços de Atendimento ao Cidadão (SACs).
+
+
+
+                                Entrega de serviços via internet (a partir de 1999)
+ Trata-se de utilizar as tecnologias de internet para fornecer serviços ao cidadão. Através da internet, são disponibilizados ao
+           cidadão, de forma integral, diversos serviços. Além disso, aumenta-se a transparência e a accountability.
+
+
+
+
+                                                                                                                                   46
+                      Fundamentos e Diretrizes do Governo Eletrônico
+
+
+
+                                        Participação cidadã (Participação do cidadão)
+
+
+                Fundamentos             Melhoria da própria gestão interna do Estado
+
+
+                                          Integração com parceiros e fornecedores
+
+
+
+
+Política de                                Promoção da cidadania como prioridade
+ Governo
+Eletrônico
+                                 Indissociabilidade entre inclusão digital e governo eletrônico
+
+
+                                    Utilização de software livre como recurso estratégico
+
+
+                                  Gestão do conhecimento como instrumento estratégico de
+                 Diretrizes
+                                          articulação e gestão das políticas públicas
+
+
+                                                 Racionalização dos recursos
+
+
+                                        Adoção de políticas, normas e padrões comuns
+
+
+                                  Integração com outros níveis de governo e com os demais
+                                                          poderes
+
+
+
+
+   A interoperabiliade se refere à capacidade de sistemas heterogêneos se comunicarem.
+   Ou seja, trata-se da possibilidade de intercambiar informações e serviços, de forma
+   coerente, entre sistemas diferentes. A interoperabilidade conduz à convergência de
+   esforços e cria uma relação sinérgica entre as partes envolvidas.
+
+
+
+
+                                                                                                  47
+                Aplicação do Governo Eletrônico (Relacionamentos Existentes com as TICs)
+
+
+
+                                                          Governo
+
+
+
+                                                     G2G
+                                                                             G2C
+                       Negócios /                                                         Cidadão /
+                       Empresas                         GOVERNO                          Consumidor
+                                           G2B
+                                                                    G2E
+
+
+                                                          Servidor /
+                                                         Funcionário
+
+
+
+                                 Projetos e Sistemas de Governo Eletrônico
+
+
+                              Compras Eletrônicas Governamentais: Trata-se do portal utilizado pelo governo federal para
+                              disponibilização e acompanhamento de informações referentes às compras governamentais.
+
+                          Inclusão Digital: Trata-se de iniciativas sociais, que tem por objetivo possibilitar que as pessoas menos
+                         abastadas tenham acesso aos instrumentos e aos conhecimentos necessários ao acesso à internet e ao
+                                                                      governo eletrônico.
+
+                        ePWG: recomendações de boas práticas agrupadas em formato de cartilhas com o objetivo de aprimorar
+                                          a comunicação e o fornecimento de informações e serviços.
+Projetos de Governo
+     Eletrônico
+                                              eMAG: acessibilidade dos sítios e portais do governo brasileiro.
+
+
+
+                        ePING: Padrões de Interoperabilidade. Conjunto mínimo de premissas, políticas e especificações técnicas
+                                         que regulamentam as TICs estabelecendo as condições de interação.
+
+
+
+                                                         Segurança da Informação e Comunicações
+
+
+
+                         Certificação Digital: identidade virtual que permite a identificação segura e inequívoca do autor de uma
+                                                                   mensagem ou transação.
+
+
+
+                                    Cartão Magnético: O governo utiliza cartões magnéticos para pagamentos de auxílios.
+
+
+
+
+                                                                                                                           48
+                                             SIAPE (Sistema Integrado de Administração de Pessoal): plataformas de
+                                                  gestão da folha de pessoal dos servidores públicos federais.
+
+                                          SIAFI (Sistema Integrado de Administração Financeira do Governo Federal):
+                                         registro, acompanhamento e controle da execução orçamentária, financeira e
+                                                                patrimonial do Governo Federal.
+
+                                          SIDOR (Sistema Integrado de Dados Orçamentários): elaboração da proposta
+            Sistemas de Governo                               orçamentária do governo federal.
+                 Eletrônico
+                                              SIASG (Sistema Integrado de Administração de Serviços Gerais) /
+                                           ComprasNet: para compra e aquisição de materiais e serviços do Governo
+                                                                         Federal.
+
+                                          SISCONV (Sistema de Convênio): administrar as transferências voluntárias de
+                                                         recursos da União nos convênios firmados.
+
+                                           DOU (Diário Oficial da União): É um dos principais veículos de comunicação
+                                           utilizados pela Imprensa Nacional. Atualmente, só pode ser acessado pela
+                                                                             internet.
+
+
+
+
+                                               Governança Eletrônica
+
+A governança eletrônica pode ser entendida como o desempenho da governança por meio
+eletrônico, a fim de facilitar um processo eficiente, rápido e transparente de disseminar
+informações ao público e a outras agências e para executar atividades de administração
+governamental.
+
+A governança eletrônica é considerada um conceito mais amplo que o governo eletrônico, pois
+pode provocar uma mudança na maneira como os cidadãos se relacionam com os governos e
+entre si. A governança eletrônica pode trazer novos conceitos de cidadania, tanto em termos de
+necessidades e responsabilidades dos cidadãos. Seu objetivo é envolver, capacitar e emponderar o
+cidadão.43
+
+
+                        Administração eletrônica (e-administration): refere-se à melhoria dos processos governamentais e do
+                                                      funcionamento interno do setor público
+  Campos de
+                        Serviços eletrônicos (e-services): refere-se à melhoria da prestação de serviços públicos aos cidadãos.
+Implementação
+                         Democracia eletrônica (e-democracy): refere-se a maior e mais ativa participação e envolvimento do
+                                           cidadão no processo de tomada de decisões governamentais
+
+
+
+
+43
+     http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+
+
+
+
+                                                                                                                         49
+                                Decreto 10.332 de 28 de abril de 2020
+
+Inicialmente, o Decreto 10.332 de 28 de abril de 202044, instituiu a Estratégia de Governo Digital
+para o período de 2020 a 2022, no âmbito dos órgãos e das entidades da administração pública
+federal direta, autárquica e fundacional e dá outras providências.
+
+Em 22/11/2022, entretanto, foi publicado o Decreto 11.260/2022, que dispõe sobre a elaboração
+e o encaminhamento da Estratégia Nacional de Governo Digital e prorrogou o período de
+vigência da Estratégia de Governo Digital (instituída pelo Decreto nº 10.332, de 28 de abril de
+2020) para o período de 2020 a 2023.
+
+O art. 7 do Decreto 10.332 destaca que fica instituída a Rede Nacional de Governo Digital - Rede
+Gov.br, de natureza colaborativa e adesão voluntária, no âmbito da União, dos Estados, do
+Distrito Federal e dos Municípios, com a finalidade de promover o intercâmbio de informações e a
+articulação de medidas conjuntas relacionadas à expansão da Estratégia de Governo Digital.
+
+                               Plano de Transformação Digital, que conterá, no mínimo, as ações de: a)
+                                transformação digital de serviços; b) unificação de canais digitais; e c)
+         os órgãos e as                           interoperabilidade de sistemas
+           entidades
+         elaborarão os
+                                     Plano Diretor de Tecnologia da Informação e Comunicação
+           seguintes
+       instrumentos de
+        planejamento
+                                                       Plano de Dados Abertos
+
+
+
+
+44
+    Texto ora transcrito, ora reescrito de: BRASIL. Decreto 10.332 de 28 de abril de 2020. Disponível em:
+http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10332.htm
+
+
+
+
+                                                                                                            50
+                         oferecer serviços públicos digitais simples e intuitivos, consolidados em
+                               plataforma única e com avaliação de satisfação disponível
+
+                     conceder acesso amplo à informação e aos dados abertos governamentais, para
+                         possibilitar o exercício da cidadania e a inovação em tecnologias digitais
+
+
+                    promover a integração e a interoperabilidade das bases de dados governamentais
+
+
+                        promover políticas públicas baseadas em dados e evidências e em serviços
+  Os objetivos a         preditivos e personalizados, com utilização de tecnologias emergentes
+serem alcançados,
+   por meio da
+  Estratégia de     implementar a Lei Geral de Proteção de Dados, no âmbito do Governo federal, e
+ Governo Digital               garantir a segurança das plataformas de governo digital
+     incluem
+
+                                     disponibilizar a identificação digital ao cidadão
+
+
+                    adotar tecnologia de processos e serviços governamentais em nuvem como parte
+                     da estrutura tecnológica dos serviços e setores da administração pública federal
+
+
+                         otimizar as infraestruturas de tecnologia da informação e comunicação
+
+
+
+                                 formar equipes de governo com competências digitais
+
+
+
+
+                                                                                                        51
+                          QUESTÕES COMENTADAS
+1. (FGV – Senado Federal - Analista Legislativo – Administração – 2022)
+
+  A inovação tecnológica pode ser importante aliada da gestão pública. As tecnologias da
+  informação e da comunicação, por exemplo, permitiram avanços como o chamado governo
+  eletrônico, e sua evolução tem trazido o chamado governo digital. A recente digitalização de
+  muitos serviços públicos incide decisivamente na qualidade e efetividade das políticas públicas.
+
+  Com relação aos possíveis impactos positivos da transformação digital dos serviços públicos,
+  analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+  ( ) A redução do contato com o usuário, permitindo maior foco nos processos administrativos.
+
+  ( ) Monitoramento pela sociedade da execução orçamentária e financeira em tempo real.
+
+  ( ) A simplificação administrativa e a integração de serviços públicos.
+
+  ( ) A ampliação da participação social por meio digital, incrementando os mecanismos de
+  disponibilização de informações e controle social.
+
+  As afirmativas são, na ordem apresentada, respectivamente,
+
+  a) F, V, V e V.
+
+  b) V, V, F e F.
+
+  c) F, F, V e F.
+
+  d) F, V, F e V.
+
+  e) V, V, V e F.
+
+Comentários:
+A primeira assertiva é a única que está errada. Isso, pois, o governo eletrônico bisca facilitar o
+controle popular e democratizar o acesso do cidadão aos meios eletrônicos. Além disso, “foco nos
+processos” é característica relacionada ao modelo burocrático.
+
+O gabarito é a letra A.
+
+2. (FGV – FUNSAÚDE - CE – Analista Administrativo – Suprimentos – 2021)
+
+  A evolução tecnológica dos últimos 30 anos, com a popularização da internet, permitiu uma
+  atuação do governo mais próxima da população, por meio do governo eletrônico. Assinale a
+  opção que apresenta uma diretriz do governo eletrônico.
+
+  a) Promoção do controle social.
+
+  b) Melhoria da gestão externa.
+
+  c) Atendimento aos clientes institucionais.
+
+  d) Trabalhar junto aos representantes.
+
+  e) Integração com parceiros e fornecedores.
+
+Comentários:
+
+Questão polêmica!
+
+Conforme vimos, no Brasil, a política de Governo Eletrônico segue um conjunto de diretrizes que
+atuam em 03 frentes fundamentais:
+
+      -Junto ao cidadão;
+
+      -Na melhoria da própria gestão interna do Estado e;
+
+      -Na integração com parceiros e fornecedores.
+
+Desta forma, primeiramente, o gabarito da banca foi a letra E (Integração com parceiros e
+fornecedores). Isso, pois, a alternativa trouxe corretamente uma das frentes fundamentais que
+sustenta o conjunto de diretrizes.
+
+Contudo, após os recursos, a banca alterou o gabarito para a letra A (Promoção do controle social).
+Penso que a banca optou pela alteração considerando uma das Diretrizes Gerais definidas pela
+CEGE, qual seja: A prioridade do Governo Eletrônico é a promoção da cidadania. Nesse sentido,
+forçosamente incorpora a promoção da participação e do controle social e a indissociabilidade
+entre a prestação de serviços e sua afirmação como direito dos indivíduos e da sociedade.
+Nesse sentido, considerando esse entendimento, o mais correto seria se a banca tivesse optado
+pela anulação da questão.
+
+Entretanto, a banca manteve como gabarito a letra A.
+
+O gabarito é a letra A.
+
+3. (FGV – Prefeitura de Niterói-RJ – APPGG – 2018)
+
+  A Administração Pública vem adotando numerosas ações que usam a tecnologia da informação
+  para estimular a interação entre governo e população, dando origem ao conceito de e-
+  govern (governo eletrônico).
+
+  Nesse contexto, as atividades listadas a seguir são consideradas finalidades do e-govern, à
+  exceção de uma. Assinale-a.
+
+  a) Minimizar a burocracia pública.
+
+  b) Incentivar a participação do cidadão.
+
+  c) Eliminar custos e reduzir a ineficiência administrava.
+
+  d) Promover a prestação de contas da Administração Pública.
+
+  e) Garantir a confidencialidade das ações governamentais.
+
+Comentários:
+
+A única alternativa que não traz uma das finalidades do governo eletrônico é a letra E (“garantir a
+confidencialidade das ações governamentais”).
+
+Um dos objetivos do governo eletrônico é exatamente promover a transparência.
+
+O gabarito é a letra E.
+
+4. (FGV – PGE-RO – Administrador – 2015)
+
+  A implantação e a operação do Governo Eletrônico pelo Governo Federal, no Brasil, segue um
+  conjunto de diretrizes dentre as quais destaca-se aquela em que:
+
+  a) a inclusão digital é dimensão dissociável;
+
+  b) a integração deve envolver outros níveis de governo e poderes;
+
+  c) a prioridade é a singularidade e a iniquidade perante a lei;
+  d) a segregação de recursos deve ser potencializada;
+
+  e) o software livre é um recurso casual na sua implantação.
+
+Comentários:
+
+As diretrizes a política de Governo Eletrônico no Brasil são as seguintes:
+
+       -promoção da cidadania como prioridade;
+
+       -indissociabilidade entre inclusão digital e governo eletrônico;
+
+       -utilização de software livre como recurso estratégico;
+
+       -gestão do conhecimento como instrumento estratégico de articulação e gestão das
+       políticas públicas;
+
+       -racionalização dos recursos;
+
+       -adoção de políticas, normas e padrões comuns; e
+
+       -integração com outros níveis de governo e com os demais poderes.
+
+O gabarito é a letra B.
+
+5. (FGV – CGE-MA – Auditor – 2014)
+
+  A política de governo eletrônico está baseada em normas que priorizam a cidadania. Assinale a
+  alternativa que apresenta os fundamentos dessas normas.
+
+  a) Eficiência da gestão interna, integração com parceiros e fornecedores e atendimento aos
+  cidadãos.
+
+  b) Gestão do conhecimento, melhoria da gestão externa e atendimento aos clientes.
+
+  c) Melhoria da gestão interna e externa, foco na burocracia e formalismo processual
+
+  d) Necessidade de atualização com o mundo moderno, estrutura verticalizada e atendimento
+  aos clientes.
+
+  e) Aperfeiçoamento da sistemática processual, estrutura hierarquizada e foco na gestão do
+  conhecimento.
+
+Comentários:
+No Brasil, a política de Governo Eletrônico segue um conjunto de diretrizes baseadas em 03
+fundamentos:
+
+       -Participação do cidadão (atendimento aos cidadãos);
+
+       -Melhoria da própria gestão interna do Estado (eficiência da gestão interna);
+
+       -Integração com parceiros e fornecedores.
+
+O gabarito é a letra A.
+
+6. (FGV – CGE-MA – Auditor – 2014)
+
+  Assinale a alternativa que indica a ação da Administração Pública que prioriza a promoção da
+  cidadania, com base nos meios eletrônicos.
+
+  a) Burocratiza as formas de comunicação com a sociedade em geral.
+
+  b) Reduz a eficácia da gestão pública.
+
+  c) Impacta a governança de forma negativa.
+
+  d) Aumenta custos e reduz a eficiência administrativa.
+
+  e) Promove o accountability governamental.
+
+Comentários:
+
+Letra A: errada. O objetivo é exatamente o oposto, ou seja, desburocratizar as formas de
+comunicação com a sociedade em geral.
+
+Letra B: errada. A promoção da cidadania, com base nos meios eletrônicos, visa a aumentar a
+eficácia da gestão pública.
+
+Letra C: errada. A promoção da cidadania, com base nos meios eletrônicos, impacta a governança
+de forma positiva.
+
+Letra D: errada. A utilização dos meios eletrônicos tem por objetivo reduzir custos e aumentar a
+eficiência administrativa.
+
+Letra E: correta. Isso mesmo! A utilização dos meios eletrônicos tem por objetivo promover a
+accountability governamental.
+
+O gabarito é a letra E.
+7. (CESPE – SEDF – Analista de Gestão Educacional – 2017)
+
+  A Internet de banda larga e as redes sociais facilitaram as relações entre o Estado e os seus
+  públicos e intensificaram as interações administrativas inerentes ao governo eletrônico e à
+  governança pública.
+
+Comentários:
+
+Isso mesmo! A internet banda larga possibilitou que um maior número de pessoas pudesse ter
+acesso à internet. No mesmo sentido, as redes sociais intensificaram as relações entre o Estado
+e os Cidadãos.
+
+Diversas Entidades governamentais possuem perfis nas redes sociais como, por exemplo, o
+Senado Federal, que através de seu perfil interage com os cidadãos, promovendo transparência
+a respeito dos trabalhos efetuados, coletando opiniões, etc.
+
+Portanto, de fato, a internet banda larga e as redes sociais facilitaram as relações entre o Estado
+e os seus públicos e intensificaram as interações administrativas inerentes ao governo
+eletrônico e à governança pública.
+
+Gabarito: correta.
+
+8. (CESPE – TCE-SC – Auditor Fiscal de Controle Externo – 2016)
+
+  A governança eletrônica por meio das redes sociais, apesar de proporcionar maior participação
+  dos cidadãos nas atividades públicas, pouco auxilia a população na solução e atendimento de
+  demandas locais.
+
+Comentários:
+
+As redes sociais intensificaram as relações entre o Estado e os Cidadãos.
+
+Diversas Entidades governamentais possuem perfis nas redes sociais, por meio das quais ficam
+mais “próximas” dos cidadãos.
+
+Portanto, as redes sociais proporcionam uma maior participação dos cidadãos nas políticas
+públicas e também auxiliam bastante a população na solução e atendimento de demandas
+locais.
+
+Por exemplo: Imagine que a iluminação pública de sua rua esteja bastante prejudicada, tendo
+em vista que existem muitas lâmpadas queimadas. Portanto, a troca das lâmpadas de sua rua
+pode ser considerada uma demanda local.
+
+Agora me responda uma coisa. O que é mais fácil:
+      a) Enviar um ofício à prefeitura, solicitando a troca das lâmpadas queimadas?
+
+      b) Ou, entrar no perfil do instagram de sua cidade e enviar uma mensagem solicitando a
+      troca das lâmpadas?
+
+Certamente, a segunda opção é bem mais fácil. Na verdade, há pessoas que não saberiam nem
+de que forma poderiam oficiar à Prefeitura. Por outro lado, enviar uma mensagem através do
+instagram é algo bastante fácil para a maior parte das pessoas.
+
+Além disso, uma mensagem no perfil da rede social da Entidade Pública tem uma força bem
+maior. Afinal, muitas outras pessoas irão visualizar essa mensagem e, consequentemente, a
+“pressão” sobre o Ente Público para resolver o “problema” será bem maior.
+
+Gabarito: errada.
+
+9. (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O portal SIASG / ComprasNet disponibiliza informações acerca do andamento das licitações dos
+  órgãos da administração pública federal, sendo o acesso a essas informações restrito aos
+  servidores cadastrados como ordenadores de despesa.
+
+Comentários:
+
+A primeira parte da assertiva está correta. De fato, o portal SIASG / ComprasNet é o sistema
+utilizado para facilitar e agilizar os processos de compra e aquisição de materiais e serviços do
+Governo Federal. Através dele, é possível visualizar informações acerca do andamento das
+licitações dos órgãos da administração pública federal.
+
+Contudo, a segunda parte da assertiva está errada. Isso porque o acesso às informações não é
+restrito aos servidores cadastrados como ordenadores de despesa. Existem diversos “perfis de
+acesso” disponíveis no sistema, tais como para fornecedores, outros servidores não ordenadores
+de despesas, cidadãos, etc.
+
+Gabarito: errada.
+
+10.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O servidor nomeado para ingressar em comissão de licitação de seu órgão de lotação para
+  realizar compras públicas deverá fazer curso de capacitação sobre o SIASG / ComprasNet antes
+  de tomar posse na referida comissão.
+
+Comentários:
+
+O curso de capacitação sobre o SIASG não é requisito obrigatório para que o servidor tome posse
+na comissão de licitação.
+Gabarito: errada.
+
+11.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  Conforme a lei de acesso à informação, todos os cidadãos têm acesso ao SIAPE, portal virtual no
+  qual é possível identificar o órgão de lotação de qualquer servidor público e obter informações
+  de sua ficha funcional e de sua remuneração.
+
+Comentários:
+
+Nada disso! O Portal SIAPE é um sistema voltado para relação entre o próprio governo e seus
+servidores (G2E).
+
+O cidadão pode consultar o órgão de lotação e a remuneração dos servidores através do Portal da
+Transparência.
+
+Gabarito: errada.
+
+12.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  Contracheque eletrônico, comprovante de rendimentos anuais e programação de férias, com
+  possibilidade de solicitação de ajustes quando inconsistências forem identificadas, são alguns
+  dos serviços disponibilizados no SIAPE aos servidores ativos e aposentados.
+
+Comentários:
+
+Isso mesmo! O Portal SIAPE é um sistema voltado para relação entre o próprio governo e seus
+servidores (G2E). É um sistema de abrangência nacional criado com a missão de integrar todas as
+plataformas de gestão da folha de pessoal dos servidores públicos federais.
+
+Gabarito: correta.
+
+13.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  As ações do governo eletrônico, relacionadas especialmente ao e-governança, e-democracia e
+  e-governo, embora favoreçam a transparência, limitam a participação do cidadão e o
+  fortalecimento da cidadania.
+
+Comentários:
+
+Pelo contrário! As ações do governo eletrônico, além de favorecerem a transparência, incentivam
+a participação do cidadão e fortalecem a cidadania.
+
+Gabarito: errada.
+14.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O uso de tecnologias da informação, que possibilita a elevação da eficiência administrativa e a
+  melhoria tanto dos serviços internos como daqueles prestados ao cidadão, deu origem ao
+  chamado governo eletrônico.
+
+Comentários:
+
+Isso mesmo! O governo eletrônico consiste no uso das TICs (Tecnologias da Informação e
+Comunicação) pela administração pública, a fim de, dentre outros objetivos, melhorar os serviços
+públicos e aumentar a eficiência administrativa.
+
+Gabarito: correta.
+
+15.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O uso de tecnologias da informação e comunicação, especialmente após a ampliação do acesso
+  à Internet, dificulta a transparência da administração pública devido ao excesso de informações
+  cuja avaliação, em termos de veracidade, depende de conhecimentos técnicos.
+
+Comentários:
+
+Nada disso!
+
+O uso das TICs aumenta a transparência da administração pública.
+
+Gabarito: errada.
+
+16.    (CESPE – FUB – Tecnólogo – 2015)
+
+  O Comitê Executor de Governo Eletrônico Federal abriu mão da associação direta entre inclusão
+  digital e governo eletrônico, limitando o uso do software livre como recurso estratégico de
+  acessibilidade.
+
+Comentários:
+
+Nada disso!
+
+A indissociabilidade entre inclusão digital e governo eletrônico é uma das diretrizes do governo
+eletrônico definidas pelo CEGE, assim como a utilização de software livre como recurso
+estratégico.
+
+Gabarito: errada.
+
+17.   (CESPE – MEC – Web Design - 2015)
+  A política de governo eletrônico brasileira (e-GOV) segue um conjunto de diretrizes que atuam
+  em três frentes. 1 junto ao cidadão; 2 na melhoria da gestão interna; e 3 na integração com
+  parceiros e fornecedores.
+
+Comentários:
+
+De fato, a política de Governo Eletrônico segue um conjunto de diretrizes que atuam em três
+frentes fundamentais:
+
+      -junto ao cidadão;
+
+      -na melhoria da própria gestão interna do Estado e;
+
+      -na integração com parceiros e fornecedores.
+
+Gabarito: correta.
+
+18.   (CESPE – FUB – Tecnólogo – 2015)
+
+  Governo eletrônico corresponde a um aparato de funções colocadas a serviço da população por
+  meio das TICs para dar mais transparência e eficiência à gestão.
+
+Comentários:
+
+Isso mesmo! A assertiva traz, corretamente, um conceito de governo eletrônico.
+
+Gabarito: correta.
+
+19.   (CESPE – SUFRAMA – Analista Técnico - 2014)
+
+  Em atendimento às expectativas dos cidadãos quanto à eficiência do Estado, as compras
+  públicas se tornaram objeto de controle social.
+
+Comentários:
+
+Isso mesmo! Nesse sentido, os diversos sistemas públicos disponíveis (tais como o
+SIASG/ComprasNet) permitem um controle social sobre as compras da administração pública.
+
+Gabarito: correta.
+
+20.   (CESPE – CADE – Analista Técnico - 2014)
+
+  Vinculado apenas às tecnologias da informação, o governo eletrônico permite o controle e o
+  acompanhamento dos atos de governo.
+Comentários:
+
+Nada disso!
+
+A questão, sob qualquer ângulo, está errada.
+
+Primeiro porque o governo eletrônico está relacionado ao uso das TICs (ou seja, tanto Tecnologias
+da Informação, quando Tecnologias de Comunicação).
+
+Segundo porque, mesmo se a questão tivesse mencionado “vinculado apenas às TICs” (ou seja,
+incluindo as Tecnologias de Comunicação), ainda assim estaria errada. Isso pois o uso das TICs deve
+estar combinado com mudança organizacional e com a adoção de novas práticas.
+
+Ora, de nada adianta o governo implementar as TICs, mas, por outro lado, adotar uma postura
+contrária à transparência e ao controle social. Ou seja, a “mentalidade” também deve mudar.
+
+Gabarito: errada.
+
+21.   (CESPE – SUFRAMA – Analista Técnico - 2014)
+
+  A adoção do governo eletrônico no Brasil é resultado das transformações do papel do Estado e
+  da busca por mecanismos de transparência e controle social.
+
+Comentários:
+
+Isso mesmo! O governo eletrônico é resultante das transformações do papel do Estado, e da busca,
+dentre outros, da incorporação (na administração pública) de princípios gerenciais, tais como a
+transparência, o controle social e a accountability.
+
+Gabarito: correta.
+
+22.   (CESPE – TCU – Auditor Federal de Controle Externo - 2013)
+
+  O governo eletrônico associa-se ao conceito de accountability, por proporcionar transparência
+  aos atos do governo e publicidade às informações governamentais.
+
+Comentários:
+
+Isso mesmo! O governo Eletrônico está intimamente relacionado à transparência, controle social e
+accountabilitty.
+
+Gabarito: correta.
+
+23.   (CESPE – TCU – Auditor Federal de Controle Externo - 2013)
+  Participação cidadã, melhoria do gerenciamento interno do Estado e integração com parceiros e
+  fornecedores são pressupostos que fundamentam as ações do programa de governo eletrônico.
+
+Comentários:
+
+De fato, no Brasil, o Programa de Governo Eletrônico segue um conjunto de diretrizes baseadas em
+03 ideais fundamentais:
+
+      -Participação do cidadão;
+
+      -Melhoria da própria gestão interna do Estado;
+
+      -Integração com parceiros e fornecedores.
+
+Gabarito: correta.
+
+24.   (CESPE – IBAMA – Analista Ambiental - 2013)
+
+  Com referência ao Portal do Software Público, que é um espaço reservado para o
+  compartilhamento de software de interesse público, julgue os itens que se seguem.
+
+  Um software que seja candidato a ser oferecido no referido portal, mas que dependa de
+  sistemas operacionais proprietários, não atenderá às condições para ser ofertado no portal em
+  questão.
+
+Comentários:
+
+Para responder essa questão, bastava que o aluno soubesse que uma das diretrizes do programa
+de Governo Eletrônico é a utilização de software livre como recurso estratégico.
+
+Portanto, um software que dependa de sistemas operacionais proprietários (ou seja, não é um
+Software livre), de fato, não atende às condições para ser ofertado no Portal do Software Público.
+
+Gabarito: correta.
+
+25.   (CESPE – ANAC – Analista Administrativo - 2012)
+
+  Os avanços tecnológicos têm gerado ferramentas mais acessíveis que incentivam o controle
+  social e demandam novos aplicativos, no âmbito do governo eletrônico.
+
+Comentários:
+
+Perfeito! De fato, os avanços tecnológicos têm criado ferramentas que incentivam o controle
+social. Nesse sentido, a criação de novos aplicativos se faz necessária para que haja um
+aprimoramento constante dos serviços públicos, da transparência, do controle social e da
+accountability.
+
+Gabarito: correta.
+
+26.    (CESPE – TCU – Auditor Federal de Controle Externo - 2011)
+
+  O governo eletrônico provoca uma integração daqueles que possuem mais recursos, deixando
+  de fora parte considerável da população.
+
+Comentários:
+
+Nada disso!
+
+A indissociabilidade entre a inclusão digital e o governo eletrônico é uma das diretrizes do
+programa de governo eletrônico no Brasil.
+
+A Inclusão digital deve ser tratada como um elemento constituinte da política de governo
+eletrônico, para que esta possa configurar-se como política universal. Esta visão funda-se no
+entendimento da inclusão digital como direito de cidadania e, portanto, objeto de políticas
+públicas para sua promoção.
+
+Um dos objetivos do governo eletrônico é democratizar o acesso à informação (inclusão digital).
+
+Gabarito: errada.
+
+27.   (CESPE – CORREIOS – Analista - 2011)
+
+  O modelo de acessibilidade de governo eletrônico (e-MAG) consiste em um conjunto de
+  recomendações a ser considerado no desenvolvimento de portais e sítios eletrônicos da
+  administração pública, a fim de garantir, a pessoas com necessidades especiais, o pleno acesso
+  aos conteúdos disponíveis.
+
+Comentários:
+
+Isso mesmo! O Modelo de Acessibilidade em Governo Eletrônico (eMAG) consiste em um conjunto
+de recomendações a ser considerado para que o processo de acessibilidade dos sítios e portais do
+governo brasileiro seja conduzido de forma padronizada e de fácil implementação.
+
+Gabarito: correta.
+
+28.   (CESPE – TRE-MA – Analista Judiciário - ADAPTADA)
+
+  Os avanços na tecnologia da informação produzem profundos impactos na administração
+  pública. Apesar de a reforma gerencial proporcionar mais informações e melhor qualidade aos
+  dirigentes públicos, a transparência pública não contribui para garantir caráter mais
+  democrático e orientado para a consolidação da cidadania.
+
+Comentários:
+
+A primeira parte da assertiva está correta! De fato, os avanços na tecnologia da informação
+produzem profundos impactos na administração pública.
+
+Contudo, a segunda parte da assertiva está errada. Isso pois, a transparência pública contribui sim
+para garantir um caráter mais democrático e orientado para a consolidação da cidadania.
+
+Gabarito: errada.
+
+29.   (CESPE – TRE-MA – Analista Judiciário - ADAPTADA)
+
+  O aumento das tecnologias de informação no setor público tem gerado maior nível de
+  burocratização dos serviços de gestão governamental, pois demanda atualizações frequentes
+  dos dados daquelas organizações que lidam com o governo.
+
+Comentários:
+
+Pelo contrário! O aumento das tecnologias de informação no setor público é pautado por
+princípios gerenciais, gerando um menor nível de burocratização dos serviços de gestão
+governamental.
+
+Gabarito: errada.
+
+30.   (CESPE – TRE-MA – Analista Judiciário - ADAPTADA)
+
+  O uso das tecnologias de informação e comunicação promove avanços significativos na gestão
+  da informação pelo serviço público, o que possibilita a redução dos custos, o aperfeiçoamento
+  dos processos e a capacitação para prestar serviços e informações de melhor qualidade,
+  promovendo a transparência das ações governamentais.
+
+Comentários:
+
+Assertiva perfeita!
+
+Gabarito: correta.
+
+31.   (FCC – DPE-RR – Administrador – 2015)
+
+  Há três tipos de transações no governo eletrônico. É um exemplo de government to
+  government:
+  a) Sistema de Convênios − SICONV.
+
+  b) Matrícula escolar informatizada.
+
+  c) Sistema de registro de Boletins de Ocorrência.
+
+  d) Divulgação de editais de compras públicas.
+
+  e) Receitanet.
+
+Comentários:
+
+Letra A: correta. O SISCONV é um sistema que administra as transferências voluntárias de recursos
+da União nos convênios firmados com estados, municípios e Distrito Federal. Trata-se, portanto,
+de um sistema G2G, uma vez que envolve transações entre o próprio governo (intragoverno).
+
+Vale dizer, contudo, que o SISCONV também administra as transferências de recursos advindas de
+convênios firmados com as entidades privadas sem fins lucrativos (nesse caso, funciona como um
+sistema G2B).
+
+Nesse sentido, podemos dizer que o SISCONV funciona como um “sistema híbrido”. A assertiva
+está correta pois, de fato, é um exemplo de G2C (embora também funcione como G2B).
+
+Letra B: errada. Trata-se de um exemplo de G2C (governo para cidadão).
+
+Letra C: errada. Trata-se de um exemplo de G2C (governo para cidadão).
+
+Letra D: errada. A assertiva trouxe um exemplo de G2B (governo para negócios/empresas).
+
+Letra E: errada. O Receitanet é um programa utilizado para validar e transmitir as declarações de
+impostos e contribuições federais de pessoas físicas e jurídicas. Trata-se, portanto, de um exemplo
+de G2C (governo para cidadão).
+
+O gabarito é a letra A.
+
+32.    (FCC – TCE-CE – Técnico de Controle Externo – 2015)
+
+  As Tecnologias de Informação e Comunicação (TICs) têm sido adotadas no setor público por
+  meio do governo eletrônico. Sobre esse tema, é INCORRETO afirmar que o governo eletrônico
+
+  a) pode se concretizar na informatização das atividades internas dos órgãos públicos.
+
+  b) pode aumentar a transparência e a participação da sociedade.
+
+  c) possibilita a disponibilização de informações e serviços.
+  d) pode ser entendido exclusivamente como a informatização da comunicação dos governos
+  com o público externo.
+
+  e) é integrado pelos portais governamentais, que são instrumentos de informatização da
+  comunicação entre os governos e o público externo.
+
+Comentários:
+
+A única alternativa incorreta é a letra D. A palavra “exclusivamente”, constante da alternativa D, já
+salta aos nossos olhos, e facilita encontrarmos a alternativa errada, não é mesmo?
+
+O governo eletrônico engloba a informatização da comunicação e da relação entre o governo e
+diversos atores (e não apenas com o “público externo”). Podemos citar, por exemplo, a interação
+G2G (comunicação intragoverno).
+
+Além disso, o governo eletrônico envolve a utilização das TICs para, dentre outros, reduzir custos e
+melhorar a eficiência da administração pública no que se refere aos seus processos internos.
+
+O gabarito é a letra D.
+
+33.   (FCC – TRE-AC – Analista Judiciário – 2010)
+
+  O instrumento estratégico de articulação e gestão das políticas públicas do Governo Eletrônico é
+  conhecido como:
+
+  a) Fluxograma 5W 2H.
+
+  b) Votação de Pareto.
+
+  c) Gestão de sistemas de compras governamentais.
+
+  d) Gestão de conhecimento.
+
+  e) Alinhamento e Integração.
+
+Comentários:
+
+A gestão do conhecimento é um instrumento estratégico de articulação e gestão das políticas
+públicas do Governo Eletrônico.
+
+Trata-se de uma das diretrizes da política de Governo Eletrônico.
+
+O gabarito é a letra D.
+
+34.   (VUNESP – EMPLASA – Analista Administrativo – 2014)
+  As ações para a implantação do Governo Eletrônico no Brasil surgiram em 2000, avançando,
+  posteriormente, por meio de um conjunto de diretrizes que atua em três frentes fundamentais:
+  junto ao cidadão; na melhoria da sua própria gestão interna; na integração com parceiros e
+  fornecedores. A primeira prioridade estabelecida, a partir das diretrizes, é
+
+  a) a inovação das relações do governo com o cidadão.
+
+  b) a promoção da cidadania.
+
+  c) a facilitação para utilização das redes sociais.
+
+  d) o controle dos cidadãos no uso dos equipamentos.
+
+  e) a facilitação para o pagamento dos tributos.
+
+Comentários:
+
+Uma das diretrizes do programa de Governo Eletrônico é a promoção da cidadania como
+prioridade. Em outras palavras, essa diretriz destaca que a prioridade do Governo Eletrônico é a
+promoção da cidadania.
+
+O gabarito é a letra B.
+
+35.   (CONSULPAN – Câmara de Belo Horizonte-MG – Consultor Legislativo – 2018)
+
+  “No Brasil, a política de Governo Eletrônico segue um conjunto de diretrizes que atuam em três
+  frentes fundamentais: junto ao cidadão; na melhoria da sua própria gestão interna; na
+  integração         com       parceiros        e     fornecedores.”        (Disponível     em:
+  https://www.governoeletronico.gov.br/sobre-o-programa/diretrizes.)
+
+  Partindo desses objetivos fundamentais, pode-se deduzir que tais diretrizes abrangem, EXCETO:
+
+  a) Priorização do uso de softwares livres.
+
+  b) Prescindibilidade de políticas de inclusão digital.
+
+  c) Integrabilidade de dados, programas e sistemas.
+
+  d) Acessibilidade e usabilidade dos sítios eletrônicos.
+
+Comentários:
+
+As diretrizes do Programa de Governo Eletrônico no Brasil são as seguintes:
+
+       -promoção da cidadania como prioridade;
+       -indissociabilidade entre inclusão digital e governo eletrônico;
+
+       -utilização de software livre como recurso estratégico;
+
+       -gestão do conhecimento como instrumento estratégico de articulação e gestão das
+       políticas públicas;
+
+       -racionalização dos recursos;
+
+       -adoção de políticas, normas e padrões comuns; e
+
+       -integração com outros níveis de governo e com os demais poderes.
+
+A inclusão digital é imprescindível (indispensável); e não “prescindível” (“dispensável”), conforme
+afirmou a alternativa B.
+
+O gabarito é a letra B.
+
+36.   (FUNIVERSA – SEAP-DF – Auditor de Controle Interno – 2014 - ADAPTADA)
+
+  No que se refere às diretrizes básicas para o governo eletrônico no caso brasileiro, assinale a
+  alternativa correta.
+
+  a) A política do governo eletrônico é baseada na visão de usuários como clientes.
+
+  b) A inclusão digital deve ser tratada como elemento acessório do governo eletrônico.
+
+  c) A implantação do software livre é obrigatória em todas as circunstâncias.
+
+  d) O governo eletrônico deve ser implementado sem aumento dos dispêndios do governo.
+
+Comentários:
+
+Letra A: errada. A política do governo eletrônico é baseada na visão de usuários como cidadãos.
+
+Letra B: errada. A Inclusão digital deve ser tratada como um elemento constituinte (isto é, um
+elemento fundamental; e não “acessório”) da política de governo eletrônico.
+
+Letra C: errada. A escolha do software livre deve ser tida como opção prioritária onde cabível (e
+não “obrigatória”, como afirma a assertiva).
+
+Letra D: correta. Isso mesmo! Uma das diretrizes da política de governo eletrônico é a
+racionalização dos recursos. Isso significa que o governo eletrônico não deve significar aumento
+dos dispêndios do governo federal na prestação de serviços e em tecnologia da informação. Ainda
+que seus benefícios não possam ficar restritos a este aspecto, é inegável que deve produzir
+redução de custos unitários e racionalização do uso de recursos.
+O gabarito é a letra D.
+                                 LISTA DE QUESTÕES
+1. (FGV – Senado Federal - Analista Legislativo – Administração – 2022)
+
+  A inovação tecnológica pode ser importante aliada da gestão pública. As tecnologias da
+  informação e da comunicação, por exemplo, permitiram avanços como o chamado governo
+  eletrônico, e sua evolução tem trazido o chamado governo digital. A recente digitalização de
+  muitos serviços públicos incide decisivamente na qualidade e efetividade das políticas públicas.
+
+  Com relação aos possíveis impactos positivos da transformação digital dos serviços públicos,
+  analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+  ( ) A redução do contato com o usuário, permitindo maior foco nos processos administrativos.
+
+  ( ) Monitoramento pela sociedade da execução orçamentária e financeira em tempo real.
+
+  ( ) A simplificação administrativa e a integração de serviços públicos.
+
+  ( ) A ampliação da participação social por meio digital, incrementando os mecanismos de
+  disponibilização de informações e controle social.
+
+  As afirmativas são, na ordem apresentada, respectivamente,
+
+  a) F, V, V e V.
+
+  b) V, V, F e F.
+
+  c) F, F, V e F.
+
+  d) F, V, F e V.
+
+  e) V, V, V e F.
+
+2. (FGV – FUNSAÚDE - CE – Analista Administrativo – Suprimentos – 2021)
+  A evolução tecnológica dos últimos 30 anos, com a popularização da internet, permitiu uma
+  atuação do governo mais próxima da população, por meio do governo eletrônico. Assinale a
+  opção que apresenta uma diretriz do governo eletrônico.
+
+  a) Promoção do controle social.
+
+  b) Melhoria da gestão externa.
+
+  c) Atendimento aos clientes institucionais.
+
+  d) Trabalhar junto aos representantes.
+
+  e) Integração com parceiros e fornecedores.
+
+3. (FGV – Prefeitura de Niterói-RJ – APPGG – 2018)
+
+  A Administração Pública vem adotando numerosas ações que usam a tecnologia da informação
+  para estimular a interação entre governo e população, dando origem ao conceito de e-
+  govern (governo eletrônico).
+
+  Nesse contexto, as atividades listadas a seguir são consideradas finalidades do e-govern, à
+  exceção de uma. Assinale-a.
+
+  a) Minimizar a burocracia pública.
+
+  b) Incentivar a participação do cidadão.
+
+  c) Eliminar custos e reduzir a ineficiência administrava.
+
+  d) Promover a prestação de contas da Administração Pública.
+
+  e) Garantir a confidencialidade das ações governamentais.
+
+4. (FGV – PGE-RO – Administrador – 2015)
+
+  A implantação e a operação do Governo Eletrônico pelo Governo Federal, no Brasil, segue um
+  conjunto de diretrizes dentre as quais destaca-se aquela em que:
+
+  a) a inclusão digital é dimensão dissociável;
+
+  b) a integração deve envolver outros níveis de governo e poderes;
+
+  c) a prioridade é a singularidade e a iniquidade perante a lei;
+
+  d) a segregação de recursos deve ser potencializada;
+  e) o software livre é um recurso casual na sua implantação.
+
+5. (FGV – CGE-MA – Auditor – 2014)
+
+  A política de governo eletrônico está baseada em normas que priorizam a cidadania. Assinale a
+  alternativa que apresenta os fundamentos dessas normas.
+
+  a) Eficiência da gestão interna, integração com parceiros e fornecedores e atendimento aos
+  cidadãos.
+
+  b) Gestão do conhecimento, melhoria da gestão externa e atendimento aos clientes.
+
+  c) Melhoria da gestão interna e externa, foco na burocracia e formalismo processual
+
+  d) Necessidade de atualização com o mundo moderno, estrutura verticalizada e atendimento
+  aos clientes.
+
+  e) Aperfeiçoamento da sistemática processual, estrutura hierarquizada e foco na gestão do
+  conhecimento.
+
+6. (FGV – CGE-MA – Auditor – 2014)
+
+  Assinale a alternativa que indica a ação da Administração Pública que prioriza a promoção da
+  cidadania, com base nos meios eletrônicos.
+
+  a) Burocratiza as formas de comunicação com a sociedade em geral.
+
+  b) Reduz a eficácia da gestão pública.
+
+  c) Impacta a governança de forma negativa.
+
+  d) Aumenta custos e reduz a eficiência administrativa.
+
+  e) Promove o accountability governamental.
+
+7. (CESPE – SEDF – Analista de Gestão Educacional – 2017)
+
+  A Internet de banda larga e as redes sociais facilitaram as relações entre o Estado e os seus
+  públicos e intensificaram as interações administrativas inerentes ao governo eletrônico e à
+  governança pública.
+
+8. (CESPE – TCE-SC – Auditor Fiscal de Controle Externo – 2016)
+  A governança eletrônica por meio das redes sociais, apesar de proporcionar maior participação
+  dos cidadãos nas atividades públicas, pouco auxilia a população na solução e atendimento de
+  demandas locais.
+
+9. (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O portal SIASG / ComprasNet disponibiliza informações acerca do andamento das licitações dos
+  órgãos da administração pública federal, sendo o acesso a essas informações restrito aos
+  servidores cadastrados como ordenadores de despesa.
+
+10.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O servidor nomeado para ingressar em comissão de licitação de seu órgão de lotação para
+  realizar compras públicas deverá fazer curso de capacitação sobre o SIASG / ComprasNet antes
+  de tomar posse na referida comissão.
+
+11.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  Conforme a lei de acesso à informação, todos os cidadãos têm acesso ao SIAPE, portal virtual no
+  qual é possível identificar o órgão de lotação de qualquer servidor público e obter informações
+  de sua ficha funcional e de sua remuneração.
+
+12.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  Contracheque eletrônico, comprovante de rendimentos anuais e programação de férias, com
+  possibilidade de solicitação de ajustes quando inconsistências forem identificadas, são alguns
+  dos serviços disponibilizados no SIAPE aos servidores ativos e aposentados.
+
+13.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  As ações do governo eletrônico, relacionadas especialmente ao e-governança, e-democracia e
+  e-governo, embora favoreçam a transparência, limitam a participação do cidadão e o
+  fortalecimento da cidadania.
+
+14.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  O uso de tecnologias da informação, que possibilita a elevação da eficiência administrativa e a
+  melhoria tanto dos serviços internos como daqueles prestados ao cidadão, deu origem ao
+  chamado governo eletrônico.
+
+15.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+  O uso de tecnologias da informação e comunicação, especialmente após a ampliação do acesso
+  à Internet, dificulta a transparência da administração pública devido ao excesso de informações
+  cuja avaliação, em termos de veracidade, depende de conhecimentos técnicos.
+
+16.   (CESPE – FUB – Tecnólogo – 2015)
+
+  O Comitê Executor de Governo Eletrônico Federal abriu mão da associação direta entre inclusão
+  digital e governo eletrônico, limitando o uso do software livre como recurso estratégico de
+  acessibilidade.
+
+17.   (CESPE – MEC – Web Design - 2015)
+
+  A política de governo eletrônico brasileira (e-GOV) segue um conjunto de diretrizes que atuam
+  em três frentes. 1 junto ao cidadão; 2 na melhoria da gestão interna; e 3 na integração com
+  parceiros e fornecedores.
+
+18.   (CESPE – FUB – Tecnólogo – 2015)
+
+  Governo eletrônico corresponde a um aparato de funções colocadas a serviço da população por
+  meio das TICs para dar mais transparência e eficiência à gestão.
+
+19.   (CESPE – SUFRAMA – Analista Técnico - 2014)
+
+  Em atendimento às expectativas dos cidadãos quanto à eficiência do Estado, as compras
+  públicas se tornaram objeto de controle social.
+
+20.   (CESPE – CADE – Analista Técnico - 2014)
+
+  Vinculado apenas às tecnologias da informação, o governo eletrônico permite o controle e o
+  acompanhamento dos atos de governo.
+
+21.   (CESPE – SUFRAMA – Analista Técnico - 2014)
+
+  A adoção do governo eletrônico no Brasil é resultado das transformações do papel do Estado e
+  da busca por mecanismos de transparência e controle social.
+
+22.   (CESPE – TCU – Auditor Federal de Controle Externo - 2013)
+
+  O governo eletrônico associa-se ao conceito de accountability, por proporcionar transparência
+  aos atos do governo e publicidade às informações governamentais.
+
+23.   (CESPE – TCU – Auditor Federal de Controle Externo - 2013)
+  Participação cidadã, melhoria do gerenciamento interno do Estado e integração com parceiros e
+  fornecedores são pressupostos que fundamentam as ações do programa de governo eletrônico.
+
+24.   (CESPE – IBAMA – Analista Ambiental - 2013)
+
+  Com referência ao Portal do Software Público, que é um espaço reservado para o
+  compartilhamento de software de interesse público, julgue os itens que se seguem.
+
+  Um software que seja candidato a ser oferecido no referido portal, mas que dependa de
+  sistemas operacionais proprietários, não atenderá às condições para ser ofertado no portal em
+  questão.
+
+25.   (CESPE – ANAC – Analista Administrativo - 2012)
+
+  Os avanços tecnológicos têm gerado ferramentas mais acessíveis que incentivam o controle
+  social e demandam novos aplicativos, no âmbito do governo eletrônico.
+
+26.   (CESPE – TCU – Auditor Federal de Controle Externo - 2011)
+
+  O governo eletrônico provoca uma integração daqueles que possuem mais recursos, deixando
+  de fora parte considerável da população.
+
+27.   (CESPE – CORREIOS – Analista - 2011)
+
+  O modelo de acessibilidade de governo eletrônico (e-MAG) consiste em um conjunto de
+  recomendações a ser considerado no desenvolvimento de portais e sítios eletrônicos da
+  administração pública, a fim de garantir, a pessoas com necessidades especiais, o pleno acesso
+  aos conteúdos disponíveis.
+
+28.   (CESPE – TRE-MA – Analista Judiciário - ADAPTADA)
+
+  Os avanços na tecnologia da informação produzem profundos impactos na administração
+  pública. Apesar de a reforma gerencial proporcionar mais informações e melhor qualidade aos
+  dirigentes públicos, a transparência pública não contribui para garantir caráter mais
+  democrático e orientado para a consolidação da cidadania.
+
+29.   (CESPE – TRE-MA – Analista Judiciário - ADAPTADA)
+
+  O aumento das tecnologias de informação no setor público tem gerado maior nível de
+  burocratização dos serviços de gestão governamental, pois demanda atualizações frequentes
+  dos dados daquelas organizações que lidam com o governo.
+
+30.   (CESPE – TRE-MA – Analista Judiciário - ADAPTADA)
+  O uso das tecnologias de informação e comunicação promove avanços significativos na gestão
+  da informação pelo serviço público, o que possibilita a redução dos custos, o aperfeiçoamento
+  dos processos e a capacitação para prestar serviços e informações de melhor qualidade,
+  promovendo a transparência das ações governamentais.
+
+31.   (FCC – DPE-RR – Administrador – 2015)
+
+  Há três tipos de transações no governo eletrônico. É um exemplo de government to
+  government:
+
+  a) Sistema de Convênios − SICONV.
+
+  b) Matrícula escolar informatizada.
+
+  c) Sistema de registro de Boletins de Ocorrência.
+
+  d) Divulgação de editais de compras públicas.
+
+  e) Receitanet.
+
+32.   (FCC – TCE-CE – Técnico de Controle Externo – 2015)
+
+  As Tecnologias de Informação e Comunicação (TICs) têm sido adotadas no setor público por
+  meio do governo eletrônico. Sobre esse tema, é INCORRETO afirmar que o governo eletrônico
+
+  a) pode se concretizar na informatização das atividades internas dos órgãos públicos.
+
+  b) pode aumentar a transparência e a participação da sociedade.
+
+  c) possibilita a disponibilização de informações e serviços.
+
+  d) pode ser entendido exclusivamente como a informatização da comunicação dos governos
+  com o público externo.
+
+  e) é integrado pelos portais governamentais, que são instrumentos de informatização da
+  comunicação entre os governos e o público externo.
+
+33.   (FCC – TRE-AC – Analista Judiciário – 2010)
+
+  O instrumento estratégico de articulação e gestão das políticas públicas do Governo Eletrônico é
+  conhecido como:
+
+  a) Fluxograma 5W 2H.
+
+  b) Votação de Pareto.
+  c) Gestão de sistemas de compras governamentais.
+
+  d) Gestão de conhecimento.
+
+  e) Alinhamento e Integração.
+
+34.   (VUNESP – EMPLASA – Analista Administrativo – 2014)
+
+  As ações para a implantação do Governo Eletrônico no Brasil surgiram em 2000, avançando,
+  posteriormente, por meio de um conjunto de diretrizes que atua em três frentes fundamentais:
+  junto ao cidadão; na melhoria da sua própria gestão interna; na integração com parceiros e
+  fornecedores. A primeira prioridade estabelecida, a partir das diretrizes, é
+
+  a) a inovação das relações do governo com o cidadão.
+
+  b) a promoção da cidadania.
+
+  c) a facilitação para utilização das redes sociais.
+
+  d) o controle dos cidadãos no uso dos equipamentos.
+
+  e) a facilitação para o pagamento dos tributos.
+
+35.   (CONSULPAN – Câmara de Belo Horizonte-MG – Consultor Legislativo – 2018)
+
+  “No Brasil, a política de Governo Eletrônico segue um conjunto de diretrizes que atuam em três
+  frentes fundamentais: junto ao cidadão; na melhoria da sua própria gestão interna; na
+  integração         com       parceiros        e     fornecedores.”        (Disponível     em:
+  https://www.governoeletronico.gov.br/sobre-o-programa/diretrizes.)
+
+  Partindo desses objetivos fundamentais, pode-se deduzir que tais diretrizes abrangem, EXCETO:
+
+  a) Priorização do uso de softwares livres.
+
+  b) Prescindibilidade de políticas de inclusão digital.
+
+  c) Integrabilidade de dados, programas e sistemas.
+
+  d) Acessibilidade e usabilidade dos sítios eletrônicos.
+
+36.   (FUNIVERSA – SEAP-DF – Auditor de Controle Interno – 2014 - ADAPTADA)
+
+  No que se refere às diretrizes básicas para o governo eletrônico no caso brasileiro, assinale a
+  alternativa correta.
+a) A política do governo eletrônico é baseada na visão de usuários como clientes.
+
+b) A inclusão digital deve ser tratada como elemento acessório do governo eletrônico.
+
+c) A implantação do software livre é obrigatória em todas as circunstâncias.
+
+d) O governo eletrônico deve ser implementado sem aumento dos dispêndios do governo.
+                GABARITO
+1. Letra A    13. ERRADA    25. CORRETA
+2. Letra A    14. CORRETA   26. ERRADA
+3. Letra E    15. ERRADA    27. CORRETA
+4. Letra B    16. ERRADA    28. ERRADA
+5. Letra E    17. CORRETA   29. ERRADA
+6. Letra E    18. CORRETA   30. CORRETA
+7. CORRETA    19. CORRETA   31. Letra A
+8. ERRADA     20. ERRADA    32. Letra D
+9. ERRADA     21. CORRETA   33. Letra D
+10. ERRADA    22. CORRETA   34. Letra B
+11. ERRADA    23. CORRETA   35. Letra B
+12. CORRETA   24. CORRETA   36. Letra D
+Referências Bibliográficas
+
+Alves, W. S. BRAGA, L. V. FIGUEIREDO, R. M. C, SANTOS, R. R. O papel do Governo Eletrônico no
+fortalecimento da governança do setor público. Revista do Serviço Público Brasília 59 (1): 05-21 Jan/Mar
+2008
+
+BRASIL.    Decreto      10.332      de     28    de     abril   de     2020.          Disponível      em:
+http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10332.htm
+
+DINIZ, E. H. BARBOSA, A. F. JUNQUEIRA, A. R. B. PRADO, O. O governo eletrônico no Brasil: perspectiva
+histórica a partir de um modelo estruturado de análise. Revista de Administração Pública. Rio de Janeiro:
+43(1):23-48, Jan./Fev. 2009.
+
+MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e Governança Eletrônica: Confrontação e
+Complementaridade. ENAPG – ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+
+MEDEIROS, Paulo Henrique Ramos. Governo Eletrônico No Brasil: Aspectos Institucionais E Reflexos Na
+Governança. Dissertação apresentada ao Curso de Mestrado em Administração da Universidade de Brasília
+- UNB: 2004.
+
+ONU - From E-Government Survey 2008 – Froom E-Government to Connected Governance. New York:
+2008.
+
+PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019.
+
+https://www.governodigital.gov.br/EGD/historico-1/diretrizes
+
+https://www.governodigital.gov.br/EGD/historico-1/historico
+
+https://www.governodigital.gov.br/transformacao/compras/orientacoes/interoperabilidade
+
+http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+

@@ -3,7 +3,7 @@ import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { UserProfile } from '../../types';
 import { api } from '../../api/client';
-import { Settings, BookOpen, Info, ShieldCheck, Download, Trash2, UserCheck, Flame, Target, Trophy } from 'lucide-react';
+import { Settings, BookOpen, Info, ShieldCheck, Download, Trash2, UserCheck, Flame, Target, Trophy, Cpu } from 'lucide-react';
 
 interface SettingsPageProps {
   user: UserProfile | null;

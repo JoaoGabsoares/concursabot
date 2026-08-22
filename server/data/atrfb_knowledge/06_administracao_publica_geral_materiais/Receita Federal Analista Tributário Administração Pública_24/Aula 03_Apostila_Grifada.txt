@@ -1,0 +1,4699 @@
+                                                                                     Índice
+1)  Governabilidade. Governança. Accountability
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................
+2)  Questões Governabilidade. Governança. Accountability                                                                                                                                    61
+Olá, amigos do Estratégia Concursos, tudo bem?
+Preparados para mais uma aula? Então vamos em frente! ☺
+Um grande abraço,
+Stefan Fantini
+
+
+
+
+Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, siga meu Instagram, se inscreva no
+meu Canal no YouTube e participe do meu canal no TELEGRAM:
+
+
+
+
+                                  @prof.stefan.fantini
+                          https://www.instagram.com/prof.stefan.fantini
+
+
+
+
+                                      Stefan Fantini
+                 https://www.youtube.com/channel/UCptbQWFe4xIyYBcMG-PNNrQ
+
+
+
+
+                                                                                           1
+                                 t.me/admconcursos
+
+
+
+
+Os canais foram feitos especialmente para você! Então, será um enorme prazer contar com a sua
+presença nos nossos canais! ☺
+
+
+
+
+                                                                                        2
+Sumário
+
+Governabilidade, Governança e Accountability ......................................................................... 4
+
+  1 – Governabilidade .......................................................................................................................... 4
+
+  2 – Governança ................................................................................................................................. 7
+
+     2.1 – Origem da Governança ....................................................................................................... 10
+
+     2.2 – Princípios da Boa Governança Pública ............................................................................... 13
+
+     2.3 – Funções da Governança (Atividades Básicas) .................................................................... 19
+
+     2.4 – Governança no Brasil .......................................................................................................... 21
+
+     2.5 – Sistema de Governança e Instâncias de Governança ........................................................ 23
+
+     2.6 – Diretrizes para a Boa Governança ...................................................................................... 26
+
+     2.7 – Mecanismos para o exercício da governança pública ........................................................ 30
+
+     2.8 – Níveis de Análise da Governança ....................................................................................... 31
+
+  3 – Governabilidade x Governança ................................................................................................. 31
+
+  4 – Governança Corporativa ........................................................................................................... 33
+
+     4.1 – Princípios da Governança Corporativa ............................................................................... 35
+
+     4.2 – Governança Corporativa no Setor Público ........................................................................ 37
+
+  5 – Accountability............................................................................................................................ 38
+
+     5.1 – Dimensões da Accountability ............................................................................................. 41
+
+     5.2 – Tipos de Accountability ...................................................................................................... 42
+
+  6 – Leitura Complementar – Práticas de Governança ................................................................... 47
+
+Resumo Estratégico ................................................................................................................. 55
+
+
+
+
+                                                                                                                                            3
+     GOVERNABILIDADE, GOVERNANÇA E ACCOUNTABILITY
+
+1 – Governabilidade
+
+Para Matias-Pereira1 governabilidade se refere à capacidade política de governar; ou seja, a
+governabilidade é resultante da relação de legitimidade do Estado (e do seu Governo) com a
+sociedade.
+
+
+
+
+      Legitimidade é a aceitação e o reconhecimento da autoridade (do poder) de um
+      governo.
+
+A governabilidade se refere às condições sistêmicas gerais por meio das quais se dá o exercício do
+poder em determinada sociedade, tais como: as características do sistema político, a forma de
+governo, as relações entre os Poderes, o sistema de intermediação de interesses, os sistemas
+partidários, etc.
+
+De acordo com Diniz2, o conceito de governabilidade apresenta três dimensões:
+
+        -capacidade do governo para identificar problemas críticos e formular políticas adequadas
+        ao seu enfrentamento;
+
+        -capacidade governamental de mobilizar os meios e recursos necessários à execução
+        dessas políticas, bem como à sua implementação; e
+
+        -capacidade liderança do Estado, sem a qual as decisões tornam-se inócuas.
+
+Portanto, a governabilidade representa um conjunto de atributos que são essenciais ao exercício
+do governo. Sem esses atributos essenciais, o poder não conseguirá ser devidamente exercido.
+
+
+
+
+1
+  MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição. São Paulo, Atlas:
+2018. p.81
+2
+   DINIZ (1995) apud GONÇALVES, Alcindo. O Conceito de Governança. Conpedi: Manaus. Disponível em:
+http://www.publicadireito.com.br/conpedi/manaus/arquivos/anais/XIVCongresso/078.pdf
+
+
+
+
+                                                                                                                  4
+                                                                    LEITURA
+                                                                    OBRIGATÓRIA!
+
+
+Vejamos, a seguir, mais alguns conceitos de governabilidade, na visão de renomados autores:
+
+Governabilidade consiste no poder que um governo possui para governar, que advém de sua
+legitimidade democrática e do apoio (legitimidade política) que esse governo possui da sociedade
+civil3.
+
+Governabilidade se refere às condições do ambiente político em que se efetivam as ações do
+sistema de governança, que podem gerar legitimidade das ações empreendidas, credibilidade e
+imagem pública positiva4.
+
+Governabilidade refere-se ao poder político em si, que deve ser legitimo e contar com o apoio da
+população e de seus representantes5.
+
+
+
+
+Conforme se observa, a governabilidade é formada pelo binômio: legitimidade democrática do
+Estado + legitimidade política do Governo.
+
+
+
+             Legetimidade                                        Legitimidade
+              democrática                                         política do                                      GOVERNABILIDADE
+               do Estado                                           Governo
+
+
+
+
+“Como assim, Stefan?”
+
+Por exemplo. Imagine o caso do Brasil. Com o advento da Redemocratização do Estado e da
+Constituição Federal de 1988, o Brasil passou a ter a Legitimidade Democrática do Estado (ou seja,
+
+
+3 PDRAE (1995)
+4 DIAS, Reinaldo. Gestão pública: aspectos atuais e perspectivas para atualização, São Paulo: Atlas, 2017. p.150
+5 PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.178
+
+
+
+
+                                                                                                                                     5
+a população participa do processo de escolha dos governantes). Portanto, uma “parte” dessa
+equação já estava preenchida.
+
+Contudo, na recente história do Brasil, vimos (e ainda vemos) diversos problemas relacionados à
+Legitimidade Política de Governo. Em outras palavras, apesar de sermos um Estado Democrático,
+por diversas vezes pudemos observar problemas relacionados à capacidade dos governantes de
+articularem suas posições com o povo.
+
+São situações em que não se discutem aspectos relacionados ao pleito eleitoral (legitimidade
+democrática). Contudo, são situações em que a Legitimidade Política do Governo se encontra
+abalada; isso é, situações em que o governo já não possui mais o apoio do povo.
+
+Nesse sentido, a equação fica incompleta (uma vez que não há a Legitimidade Política). Portanto,
+pode-se dizer que, nestas situações, o governo perde a sua governabilidade.
+
+Cabe ressaltar que o problema da governabilidade também pode decorrer das dificuldades do
+governo de articular suas políticas com o Congresso Nacional. Ou seja, da falta de apoio do Poder
+Legislativo.
+
+
+
+
+     Em resumo, a governabilidade se refere às condições sistêmicas gerais por meio das
+     quais se dá o exercício do poder em determinada sociedade. É um conceito associado à
+     capacidade política de governar e à legitimidade.
+
+     Nesse sentido, se um Governo possui o apoio do povo e do Poder Legislativo para
+     governar, ele possui governabilidade.
+
+
+
+
+(FUNDATEC – AL-RS – Analista Legislativo – 2018 - ADAPTADA)
+
+
+
+
+                                                                                            6
+A capacidade política, resultado da legitimidade do gestor público, refere-se à governabilidade.
+
+Comentários:
+
+Isso mesmo! A governabilidade se refere à capacidade política de governar, resultante da relação
+de legitimidade do Estado (e do seu Governo) com a sociedade.
+
+Gabarito: correta.
+
+
+
+
+2 – Governança
+
+A governança, por sua vez, decorre da capacidade financeira e administrativa, em sentido amplo,
+do governo realizar políticas públicas6. Ou seja, envolve a capacidade da ação do Governo de
+implantar políticas públicas e atingir metas coletivas.
+
+Em outras palavras, a governança se refere às capacidades técnicas, financeiras e gerenciais do
+Governo de implementar as políticas públicas.
+
+De acordo com o Banco Mundial (1992), governança é “a maneira pela qual o poder é exercido na
+administração dos recursos econômicos e sociais do país, com vistas ao desenvolvimento”.
+
+Segundo o TCU7, são apresentados três aspectos distintos de governança:
+
+        -a forma de regime político;
+
+        -o processo pelo qual a autoridade é exercida na gestão dos recursos econômicos e sociais
+        de um país, em prol do desenvolvimento; e
+
+        -a capacidade dos governos de conceber, formular e implementar políticas e exercer suas
+        funções.
+
+De acordo com a Corte de Contas Federal, para que as funções de governança sejam executadas
+de forma satisfatória, alguns mecanismos devem ser adotados: a liderança, a estratégia e
+o controle (accountability).
+
+
+
+
+6
+  MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição. São Paulo, Atlas:
+2018. p.81
+7
+  PORTARIA-TCU Nº 230 DE 25 DE AGOSTO DE 2014.
+
+
+
+
+                                                                                                                  7
+                                                           LEITURA
+                                                           OBRIGATÓRIA!
+
+
+Vejamos, a seguir, mais alguns conceitos de governança pública:
+
+        Governança envolve o modo/forma pelo qual o Governo se organiza para prestar serviços à
+        sociedade; o modo/forma de gestão dos recursos públicos; o modo/forma como divulga
+        suas informações; o modo/forma como se relaciona com a sociedade civil e o modo/forma
+        como constrói os arranjos/acordos institucionais necessários.
+
+        Governança Pública é a compreendida como a capacidade de governar, capacidade de
+        decidir e implementar políticas públicas que atendam às necessidades da população,
+        preservando o equilíbrio de poder e interesses entre governo, administração pública e
+        sociedade/cidadãos.
+
+        Governança no setor Público é um conjunto de mecanismos de liderança, estratégia e
+        controle postos em prática para avaliar, direcionar e monitorar a gestão, com vistas à
+        condução de políticas públicas e à prestação de serviços de interesse da sociedade8.
+
+        Governança Pública diz respeito à capacidade de ação estatal na implementação das
+        políticas e na consecução das metas coletivas. Implica expandir e aperfeiçoar os meios de
+        interlocução e de administração dos conflitos de interesses, fortalecendo os mecanismos
+        que garantam a responsabilização pública dos governantes. Governança refere-se, enfim, à
+        capacidade de inserção do Estado na sociedade, rompendo com a tradição de governo
+        fechado e enclausurado na alta burocracia governamental9.
+
+        Governança compreende a estrutura (administrativa, política, econômica, social, ambiental,
+        legal e outras) posta em prática para garantir que os resultados pretendidos pelas partes
+        interessadas sejam definidos e alcançados10.
+
+        Governança em políticas públicas se refere aos arranjos institucionais que condicionam a
+        forma pela qual as políticas são formuladas, implementadas e avaliadas, em benefício da
+        sociedade11.
+
+
+
+
+8
+   TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2 a versão, Brasília: 2014.
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+9
+  DINIZ, Eli. Globalização, Estado e Desenvolvimento: dilemas do Brasil no novo milênio. Rio de Janeiro, Editora FGV:2017.
+10
+   IFAC (2013) apud TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2a versão,
+Brasília:                                  2014.                                  Disponível                               em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+11
+    TCU (2014)
+
+
+
+
+                                                                                                                       8
+    Capacidades                        Capacidade de
+      Técnica,                           implantar                           GOVERNANÇA
+    Financeira e                          políticas
+     Gerencial                            públicas
+
+
+
+
+     Em suma, a governança trata-se da forma pela qual o Governo exerce o seu poder; ou
+     ainda, a forma com que os recursos do Estado são gerenciados pelo Governo.
+
+     Trata-se da capacidade do Governo de formular e implantar políticas públicas.
+
+
+
+
+(UNIFAL-MG – UNIFAL-MG – Assistente em Administração – 2018)
+
+A governança pública cada vez mais vem sendo cobrada dos entes da Administração Pública. Prova
+disso é que, no ano de 2016, o Ministério do Planejamento, com o Ministério da Transparência e
+da Controladoria Geral da União, emitiram uma Instrução Normativa Conjunta tratando sobre o
+assunto. O referido normativo prevê que são princípios de uma boa governança: a liderança, a
+integridade, a responsabilidade, o compromisso, a transparência e a accountability. Posto isso,
+qual é a melhor definição para a chamada governança pública?
+
+a) É a capacidade que determinado governo tem para formular e implementar suas políticas.
+
+b) É uma medida necessária para permitir que o governo possa atender de forma adequada às
+demandas da sociedade.
+
+c) São as condições substantivas e materiais do exercício do poder e de legitimidade do Estado e
+do seu governo derivada da sua postura diante da sociedade civil e do mercado.
+
+
+
+
+                                                                                            9
+d) É o conjunto de mecanismos e procedimentos que levam os gestores governamentais a prestar
+contas de suas ações, garantindo maior transparência e exposição pública das políticas públicas.
+
+Comentários:
+
+Governança consiste na capacidade do Governo de formular e implantar políticas públicas.
+
+O gabarito é a letra A.
+
+
+
+2.1 – Origem da Governança
+
+De acordo com um documento chamado Referencial Básico de Governança, produzido pelo TCU12,
+“a origem da governança está associada ao momento em que organizações deixaram de ser
+geridas diretamente por seus proprietários (p. ex. donos do capital) e passaram à administração de
+terceiros, a quem foi delegada autoridade e poder para administrar recursos pertencentes àqueles.
+Em muitos casos há divergência de interesses entre proprietários e administradores, o que, em
+decorrência do desequilíbrio de informação, poder e autoridade, leva a um potencial conflito de
+interesse entre eles, na medida em que ambos tentam maximizar seus próprios benefícios”.
+
+Para melhorar o desempenho organizacional, reduzir conflitos, alinhar ações e trazer mais
+segurança para proprietários, foram realizados estudos e desenvolvidas múltiplas estruturas de
+governança.”
+
+Portanto, podemos dizer que a governança surgiu com objetivo de evitar a chamada “Teoria da
+Agência” (ou “Conflito de Agência” ou “Teoria Principal-Agente”).
+
+
+
+
+“Teoria da agência? O que é isso, Stefan?”
+
+O Conflito de Agência (ou Teoria Principal-Agente) pode ser definido como a possibilidade de
+divergência de interesses que ocorre entre os acionistas (proprietários-principal) e os
+gestores/administradores (agente) de uma organização, onde cada um tenta obter vantagens “em
+cima” do outro.
+
+
+
+12
+  TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2a versão, Brasília: 2014.
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+
+
+
+
+                                                                                                                     10
+Em outras palavras, é o conflito de interesses que ocorre entre os sócios (proprietários) e os
+gestores (administradores) de uma empresa.
+
+Vejamos um exemplo para facilitar o entendimento:
+
+Imagine que você ganhou 2 milhões de reais na mega sena, e decidiu parar de estudar para
+concursos. Você decidiu que irá abrir uma sorveteria!
+
+Como você não está afim de “colocar a mão na massa”, você contrata uma pessoa para administrar
+a sua sorveteria. Vocês firmam um contrato, e essa pessoa passará a receber 2 mil reais mensais
+para administrar a sua sorveteria. Na verdade, você só está entrando com o “dinheiro”, e quer
+auferir os lucros da sorveteria.
+
+O que acontece, é que pode ocorrer um conflito de interesses entre você (proprietário, principal) e
+o administrador (gestor, agente) que você contratou para administrar a sorveteria.
+
+Pode chegar algum momento em que o administrador comece a pensar que merece ganhar mais
+dinheiro do que você, pois você nunca aparece na sorveteria, enquanto ele está todos os dias na
+sorveteria, trabalhando de finais de semana, feriados, etc.
+
+Isso é um grande problema, pois o administrador tem muito mais informações sobre a sorveteria
+do que você. Isso é o que chamamos de assimetria de informação.
+
+Então, como o controle da venda de sorvetes é totalmente manual (as vendas são lançadas em
+uma planilha de papel), o administrador decide começar a “roubar” o dinheiro que entra na
+sorveteria. Por exemplo, ao invés de ele registrar na planilha os 100 sorvetes que foram vendidos
+durante o dia, ele lança na planilha que foram vendidos apenas 60 sorvetes (e pega para ele o
+dinheiro referente à venda dos outros 40 sorvetes).
+
+Pois é, meu amigo! O conflito de agência surge exatamente nesse momento: quando o agente (o
+administrador da sorveteria) busca a maximização pessoal, em detrimento do principal (você).
+
+Isso acontece pois o agente (administrador) nem sempre administra o negócio de acordo com os
+interesses dos “proprietários-principal”, e os “proprietários-principal”, por sua vez, não dispõem
+de todas as informações relevantes que os agentes possuem (assimetria de informação);
+portanto, não conseguem controlar adequadamente as ações do agente.
+
+“Nossa, Stefan! E o que pode ser feito para evitar esse conflito de agência?”
+
+É aí que entram os mecanismos/estruturas de governança! Eles surgem no intuito de melhorar o
+desempenho organizacional, reduzir conflitos, alinhar ações e trazer mais segurança para os
+“proprietários-principal”.
+
+No nosso exemplo, um tipo de estrutura de governança seria um software de controle de estoques
+e de vendas, para evitar que o administrador “roube” o dinheiro da venda de sorvetes. Esse tipo de
+
+
+
+
+                                                                                             11
+software funcionaria como um mecanismo de controle que aumentaria a segurança, reduziria os
+conflitos e melhoraria o desempenho da organização; ou seja, aperfeiçoaria a governança.
+
+
+
+
+     Conflito de Agência: Conflito de Interesses (Divergência de Interesses) que ocorre entre
+     os administradores/gestores (agente) da organização e os sócios/acionistas (principal).
+
+     Assimetria de Informação: Divergência entre o grau e quantidade de informações que
+     as partes possuem. O agente possui mais informações que o principal.
+
+
+
+
+“Entendi, Stefan! Mas, me diga uma coisa: a Teoria da Agência também ocorre no setor público?”
+
+Excelente pergunta, meu amigo!
+
+Sim! O Conflito de Agência também ocorre no setor público.
+
+A diferença é que no setor público o “principal” é a sociedade/cidadãos e os “agentes” são os
+Governos, os Políticos e os Altos Gestores.
+
+Nesse sentido, as “estruturas de governança” do setor público são todos os órgãos que buscam
+controlar a atuação dos agentes (dos representantes do povo), para que eles atuem de acordo
+com os interesses do principal (da sociedade). Dentre esses Órgãos podem-se citar: Tribunais de
+Contas, Ministério Público, entre outros.
+
+
+
+
+(FGV – IMBEL – Supervisor - Administrador – 2021)
+
+Ao eleger representantes por meio do voto, a população espera que eles promovam políticas que
+sirvam ao interesse da sociedade. No decorrer dos respectivos mandatos, no entanto, nem sempre
+esses representantes cumprem com o prometido, buscando muitas vezes maximizar os interesses
+pessoais em detrimento dos sociais.
+
+Com base na literatura sobre governança pública, assinale a opção que apresenta como é
+
+
+
+
+                                                                                                12
+conhecido esse desalinhamento.
+
+a) Conflito de agência.
+
+b) Accountability.
+
+c) Problema dos feixes de contrato.
+
+d) Externalidades positivas.
+
+e) Free-riders.
+
+Comentários:
+
+O enunciado descreveu o conceito de Conflito de Agência. Ou seja, Conflito de Interesses
+(Divergência de Interesses) que ocorre entre os políticos/altos gestores (agente) e os cidadãos
+(principal).
+
+O gabarito é a letra A.
+
+(CESPE – IPHAN – Analista - 2018)
+
+A governança pública é um mecanismo para evitar conflitos de agência entre cidadãos (principais)
+e servidores públicos (agentes).
+
+Comentários:
+
+Isso mesmo! A governança é um mecanismo que tem, como um de seus objetivos, evitar o Conflito
+de Agência. De fato, no setor público, os cidadãos são os “principais”, e os governantes/servidores
+públicos são os “agentes”.
+
+Gabarito: correta.
+
+
+
+2.2 – Princípios da Boa Governança Pública
+
+De acordo com Canotilho (2006), a boa governança significa a “condução responsável dos
+assuntos do Estado em todas as esferas: governo/administração, legislativo e judiciário”.
+
+O autor destaca, ainda, cinco princípios da boa governança. São eles:
+
+       Transparência.
+
+       Coerência, entre as diversas políticas do Estado.
+
+
+
+
+                                                                                             13
+        Negociação e participação.
+
+        Eficácia, como resposta às necessidades sociais.
+
+        Democracia participativa, envolvendo cidadãos e associações representativas.
+
+Já para Matias-Pereira13, uma boa governança pública está apoiada em quatro princípios:
+
+        Relações éticas: consiste na ideia de que os governos adotem ações que visem ao interesse
+        da coletividade / interesse público (e não interesses pessoais).
+
+        Conformidade, em todas as suas dimensões: trata-se de agir conforme a lei e as normas
+        determinam.
+
+        Transparência: é indispensável para permitir que os responsáveis pela gestão pública sejam
+        controlados pela sociedade. Ela contribui de forma indireta para a boa governança.
+
+        Prestação de Contas Responsável (Accountabiliy).
+
+De acordo com o Banco Mundial, são princípios da boa governança14:
+
+        Transparência: Caracteriza-se pela possibilidade de acesso a todas as informações relativas
+        à organização pública, sendo um dos requisitos de controle do Estado pela sociedade civil. A
+        adequada transparência resulta em um clima de confiança, tanto internamente quanto nas
+        relações de órgãos e entidades com terceiros.
+
+        Equidade: Promover a equidade é garantir as condições para que todos tenham acesso ao
+        exercício de seus direitos civis - liberdade de expressão, de acesso à informação, de
+        associação, de voto, igualdade entre gêneros -, políticos e sociais - saúde, educação,
+        moradia, segurança.
+
+        Accountability: Trata-se da obrigação que têm as pessoas ou entidades às quais se tenham
+        confiado recursos, incluídas as empresas e organizações públicas, de assumir as
+        responsabilidades de ordem fiscal, gerencial e programática que lhes foram conferidas, e de
+        informar a quem lhes delegou essas responsabilidades.
+
+        Responsabilidade: Diz respeito ao zelo que os agentes de governança devem ter pela
+        sustentabilidade das organizações, visando sua longevidade, incorporando considerações de
+        ordem social e ambiental na definição dos negócios e operações.
+
+
+
+13
+   MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição. São Paulo, Atlas:
+2018. p.88-89
+14
+   TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2a versão, Brasília: 2014.
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+
+
+
+
+                                                                                                                      14
+        Legitimidade: princípio jurídico fundamental do Estado Democrático de Direito e critério
+        informativo do controle externo da administração pública que amplia a incidência do
+        controle para além da aplicação isolada do critério da legalidade. Não basta verificar se a lei
+        foi cumprida, mas se o interesse público e o bem comum foram alcançados. Admite o
+        ceticismo profissional de que nem sempre o que é legal é legítimo.
+
+        Eficiência: é fazer o que é preciso ser feito com qualidade adequada ao menor custo
+        possível. Não se trata de redução de custo de qualquer maneira, mas de buscar a melhor
+        relação entre qualidade do serviço e qualidade do gasto.
+
+        Probidade: trata-se do dever dos servidores públicos de demonstrar probidade, zelo,
+        economia e observância às regras e aos procedimentos do órgão ao utilizar, arrecadar,
+        gerenciar e administrar bens e valores públicos. Enfim, refere-se à obrigação que têm os
+        servidores de demonstrar serem dignos de confiança.
+
+Por fim, de acordo com o Decreto n.° 9.203/2017 (que dispõe sobre a política de governança da
+administração pública federal direta, autárquica e fundacional), são princípios da governança
+pública:15
+
+        -Capacidade de resposta;
+
+        -Integridade;
+
+        -Confiabilidade;
+
+        -Melhoria regulatória;
+
+        -Prestação de contas e responsabilidade; e
+
+        -Transparência.
+
+
+
+
+15
+  BRASIL. Decreto n.° 9.203/2017. Dispõe sobre a política de governança da administração pública federal direta, autárquica e
+fundacional.
+
+
+
+
+                                                                                                                      15
+                                                ESQUEMATIZANDO!
+
+
+  Princípios da Boa         Princípios da Boa            Princípios da Boa         Princípios da Governança
+     Governança                Governança                   Governança                      Pública
+   Banco Mundial                Canotilho                 Matias-Pereira            Decreto n.° 9.203/2017
+    Transparência             Transparência               Relações Éticas           Capacidade de resposta
+      Equidade                  Coerência                  Conformidade                  Integridade
+    Accountability       Negociação e Participação         Transparência                Confiabilidade
+                                                        Prestação de Contas          Melhoria regulatória
+   Responsabilidade               Eficácia
+                                                     Responsável (Accountabiliy)
+                                                                                     Prestação de contas e
+     Legitimidade         Democracia Participativa                -
+                                                                                       responsabilidade
+      Eficiência                     -                            -                      Transparência
+      Probidade                      -                            -                            -
+
+
+
+
+(UFG – Câmara de Goiânia – Assessor Técnico Legislativo - 2018)
+
+Uma boa governança pública deve estar baseada em quatro princípios, sendo eles as relações
+éticas, a conformidade, a transparência e
+
+a) a entidade.
+
+b) a anualidade.
+
+c) a prestação de contas responsável.
+
+d) a periodicidade.
+
+Comentários:
+
+Para responder essa questão, o aluno deveria conhecer os princípios da boa governança elencados
+por Matias-Pereira. Vejamos:
+
+       -Relações éticas
+       -Conformidade, em todas as suas dimensões
+       -Transparência
+
+
+
+
+                                                                                                    16
+       -Prestação de Contas Responsável (Accountabiliy).
+
+O gabarito é a letra C.
+
+(IDECAN – MS – Contador - 2017)
+
+“Uma boa governança pública, à semelhança da corporativa, está apoiada em princípios, ao qual as
+entidades do setor público devem aderir para efetivamente aplicar os elementos de governança
+corporativa visando alcançar as melhores práticas.” Os princípios a que o texto se refere são,
+EXCETO:
+
+a) Oratória.
+
+b) Transparência.
+
+c) Relações éticas.
+
+d) Prestação responsável de contas.
+
+e) Conformidade em todas as suas dimensões.
+
+Comentários:
+
+A questão se baseou nos princípios da boa governança enumerados por Matias-Pereira. Vejamos:
+
+       -Relações éticas
+       -Conformidade, em todas as suas dimensões
+       -Transparência
+       -Prestação de Contas Responsável (Accountabiliy).
+
+Portanto, a única alternativa que não traz um dos princípios acima dispostos é a letra A.
+
+O gabarito é a letra A.
+
+(UFRJ – UFRJ – Assistente em Administração - 2015)
+
+No Brasil, a abordagem do Tribunal de Contas de União (TCU) à governança pública sustenta-se em
+alguns princípios advindos da governança corporativa e dos conflitos agente-principal. Dentre
+esses princípios, destaca-se aquele relacionado ao dever dos servidores públicos de demonstrar
+confiança, integridade, zelo, economia e observância às regras e aos procedimentos do órgão, ao
+utilizar, arrecadar, gerenciar e administrar bens e valores públicos.
+
+O princípio de governança acima descrito denomina-se:
+
+
+
+
+                                                                                            17
+a) equidade
+
+b) probidade
+
+c) legitimidade
+
+d) transparência
+
+e) responsabilidade.
+
+Comentários:
+
+Essa questão se baseou nos princípios arrolados pelo Banco Mundial.
+
+Dentre eles, é o princípio da probidade que consiste no dever dos servidores públicos de
+demonstrar probidade, zelo, economia e observância às regras e aos procedimentos do órgão ao
+utilizar, arrecadar, gerenciar e administrar bens e valores públicos.
+
+O gabarito é a letra B.
+
+(FADESP – SEFA-PA – Fiscal - 2022)
+
+O Decreto Nº 9.203/2017 dispõe sobre política de governança da administração pública federal.
+São princípios da governança pública:
+
+I. Transparência;
+
+II. Confiabilidade;
+
+III. Qualidade do serviço público;
+
+IV. Engajamento no trabalho;
+
+V. Prestação de contas.
+
+Estão corretos os itens
+
+a) I, III e IV apenas.
+
+b) I, II e V apenas.
+
+c) I, II e IV apenas.
+
+d) II, III e V apenas.
+
+
+
+
+                                                                                        18
+e) II, III e IV apenas.
+
+Comentários:
+
+Essa questão se baseou nos princípios elencados pelo Decreto n.° 9.203/2017, quais sejam:
+
+        -Capacidade de resposta;
+
+        -Integridade;
+
+        -Confiabilidade;
+
+        -Melhoria regulatória;
+
+        -Prestação de contas e responsabilidade; e
+
+        -Transparência.
+
+O gabarito é a letra B.
+
+
+
+2.3 – Funções da Governança (Atividades Básicas)
+
+De acordo com o Referencial Básico de Governança16, as funções básicas (atividades básicas /
+funções principais) da governança são:
+
+        -Avaliar, com fundamento em evidências, o ambiente, os cenários, as alternativas, o
+        desempenho e os resultados atuais e os almejados. É necessário avaliar para poder
+        direcionar.
+
+        -Direcionar (dirigir), priorizar e orientar a preparação, a articulação e a coordenação de
+        políticas e de planos, alinhando as funções organizacionais às necessidades das partes
+        interessadas (usuários dos serviços, cidadãos e sociedade em geral) e assegurando o alcance
+        dos objetivos estabelecidos. O direcionamento dá os critérios para o monitoramento
+
+        -Monitorar os resultados, o desempenho e o cumprimento de políticas e planos,
+        confrontando-os com as metas estabelecidas e as expectativas das partes interessadas. O
+        monitoramento gera insumos para a avaliação.
+
+O Referencial elenca, ainda, algumas outras funções (“secundárias”) da governança 17:
+
+
+
+16
+  Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados
+ao             TCU.             3a              versão,            Brasília:       2020.          Disponível             em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+
+
+
+                                                                                                                     19
+        -Definir o direcionamento estratégico.
+
+        -Supervisionar a gestão.
+
+        -Envolver as partes interessadas.
+
+        -Gerenciar riscos estratégicos.
+
+        -Gerenciar conflitos internos.
+
+        -Auditar e avaliar o sistema de gestão e controle.
+
+        -Promover a transparência e a accountabilitty.
+
+
+
+2.3.1 Atividades Básicas de Gestão
+
+O Referencial Básico de Governança18 destaca, ainda, as atividades básicas de gestão:
+
+        -Planejar: dada a direção, as prioridades e os objetivos, quais são os passos para chegar lá?
+
+        -Executar: colocar o plano para funcionar e gerar resultados de políticas e serviços
+
+        -Controlar: como estão os indicadores de eficácia e de eficiência? como lidar
+        adequadamente com os riscos de não cumprir as metas?
+
+
+
+
+(CG-UFG – SANEAGO-GO – Administrador - 2018)
+
+A governança de órgãos e entidades da administração pública envolve três funções básicas,
+alinhadas às tarefas sugeridas pela ISO/IEC 38500:2008, que são:
+
+
+17
+   TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2 a versão, Brasília: 2014.
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+18
+   Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados
+ao             TCU.             3a              versão,            Brasília:         2020.         Disponível             em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+
+
+
+                                                                                                                       20
+a) organizar, dirigir e controlar.
+
+b) avaliar, direcionar e monitorar.
+
+c) motivar, treinar e gerenciar.
+
+d) planejar, controlar e executar.
+
+Comentários:
+
+De acordo com o Referencial Básico de Governança, as funções básicas da governança são:
+
+           -Avaliar o ambiente, o desempenho e os resultados atuais e futuros.
+
+           -Direcionar e orientar a preparação, a articulação e a coordenação de políticas e planos,
+           alinhando às funções organizacionais às necessidades das partes interessadas, e
+           assegurando o alcance dos objetivos estabelecidos.
+
+           -Monitorar os resultados, o desempenho e o cumprimento das políticas e planos,
+           comparando-os com as metas anteriormente estabelecidas e as expectativas das partes
+           interessadas.
+
+O gabarito é a letra B.
+
+
+
+2.4 – Governança no Brasil
+
+No Brasil, a governança ganhou destaque com o Plano Diretor de Reforma do Aparelho do Estado
+(PDRAE), de 1995.
+
+De acordo com PDRAE19, a reforma buscava “reforçar a governança - a capacidade de governo do
+Estado - através da transição programada de um tipo de administração pública burocrática, rígida e
+ineficiente, voltada para si própria e para o controle interno, para uma administração pública
+gerencial, flexível e eficiente, voltada para o atendimento do cidadão.”
+
+O PDRAE destaca que o governo brasileiro não carecia de “governabilidade”, (ou seja, de poder
+para governar), dada sua legitimidade democrática e o apoio com que conta na sociedade civil.
+Entretanto, enfrentava um problema de governança, na medida em que sua capacidade de
+implementar as políticas públicas é limitada pela rigidez e ineficiência da máquina administrativa.
+
+
+
+
+19
+     BRESSER PEREIRA, Luiz Carlos. Plano Diretor da Reforma do Estado. Brasília, Presidência da República: 1995.
+
+
+
+
+                                                                                                                   21
+O que ocorre é que a redemocratização do País (iniciada em 1985, com o fim da ditadura miliar), e
+o advento da CF/88, conferia governabilidade ao governo. Ou seja, a população apoiava o governo
+e o via como um governo “legitimo”.
+
+Por outro lado, faltava ao governo a capacidade de gerenciar adequadamente os recursos, no
+sentido de atender às demandas da população. Portanto, o governo carecia de governança.
+
+De acordo com a Agenda Nacional de Gestão Pública 20, o Brasil ainda enfrenta problemas de
+governança, relacionado especialmente a três aspectos:
+
+        Relação entre o Estado, o setor privado e a sociedade civil: A relação do Estado com o
+        setor privado e a sociedade civil carece de institucionalidade. Ou seja, ainda há problemas
+        na relação entre Estado, setor privado e sociedade civil.
+
+        Participação e organização da sociedade civil: Deficiência dos mecanismos de organização e
+        participação da sociedade civil nas políticas públicas.
+
+       Informação: Ainda há um acesso limitado a informações públicas. Mesmo com o advento
+       da Lei de Acesso a Informação (Lei n.° 12.527/2011), grande parte da população ainda tem
+       dificuldades em entender o funcionamento e as informações relacionadas ao Estado.
+
+Nesse sentido, a Agenda Nacional de Gestão Pública21 elenca algumas soluções para enfrentar
+esses problemas, e aprimorar a governança. São elas:
+
+        Participação, transparência e controle social: Garantia de mecanismos e instituições
+        capazes de prover transparência, participação e controle social nas atividades prestadas
+        pelo poder público.
+
+        Engajamento privado: Engajamento privado na formulação, implementação e avaliação de
+        políticas públicas.
+
+        Coordenação: Coordenação horizontal e vertical dos órgãos de governo.
+
+       Informação: Divulgação permanente de informações e análises da qualidade da
+       administração pública para fomentar o conhecimento sobre as ações e os impactos dos
+       programas governamentais.
+
+
+
+
+20
+      Ministério  do    Planejamento,      SAE.   Agenda      Nacional   de    Gestão   Pública.   Disponível    em:
+http://www.planejamento.gov.br/secretarias/upload/Arquivos/seges/091207_seges_agenda_gestao-
+1.pdf/@@download/file/091207_SEGES_agenda_gestao.pdf
+21
+      Ministério  do    Planejamento,      SAE.   Agenda      Nacional   de    Gestão   Pública.   Disponível    em:
+http://www.planejamento.gov.br/secretarias/upload/Arquivos/seges/091207_seges_agenda_gestao-
+1.pdf/@@download/file/091207_SEGES_agenda_gestao.pdf
+
+
+
+
+                                                                                                                22
+(CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+Governança no setor público é um tema inovador que foi introduzido no Brasil, a partir de 2007,
+após a harmonização internacional contábil.
+
+Comentários:
+
+Nada disso! No Brasil, a governança ganhou destaque com o Plano Diretor de Reforma do Aparelho
+do Estado (PDRAE), de 1995.
+
+Gabarito: errada.
+
+
+
+2.5 – Sistema de Governança e Instâncias de Governança
+
+O Referencial Básico de Governança22 destaca que para garantir que uma organização atenda aos
+interesses do principal, o IBGC (2015) recomenda um conjunto de práticas, por meio do Código
+Brasileiro de Governança Corporativa, a serem realizadas por agentes de governança, tais como:
+
+         -transparência;
+
+         -política de relacionamento com partes interessadas;
+
+         -avaliação de desempenho da alta administração;
+
+         -independência da auditoria interna;
+
+         -gerenciamento de riscos; e
+
+         -promoção de valores éticos e padrões de conduta
+
+De acordo com o Referencial Básico de Governança, o “sistema de governança reflete a maneira
+como diversos atores se organizam, interagem e procedem para obter boa governança.”23
+
+Nesse sentido, o Referencial destaca que o sistema de governança envolve:24
+
+
+22
+  Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados
+ao             TCU.             3a              versão,            Brasília:       2020.          Disponível             em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+23
+   TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2a versão, Brasília: 2014. Disponível em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+
+
+
+
+                                                                                                                                    23
+          -as estruturas administrativas (instâncias)
+
+          -os processos de trabalho
+
+          -os instrumentos (ferramentas, documentos, etc.)
+
+          -o fluxo de informações
+
+          -o comportamento de pessoas envolvidas direta, ou indiretamente, na avaliação, no
+          direcionamento e no monitoramento da organização.
+
+De forma simplificada, o Referencial prevê que o sistema de governança pode ser representado da
+seguinte maneira: 25
+
+
+
+
+De acordo com o TCU, portanto, no Sistema de Governança destacam-se algumas instâncias:
+
+          Instâncias externas de governança: são responsáveis pela fiscalização, pelo controle e pela
+          regulação. São autônomas e independentes, não estando vinculadas apenas a uma
+
+
+
+24 Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados ao TCU. 3a versão, Brasília: 2020.
+
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+25
+   Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados ao TCU. 3a versão, Brasília: 2020.
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+
+
+
+                                                                                                                                                       24
+        organização (não se vinculam às organizações que são por elas governadas). Exemplos:
+        Congresso Nacional e Tribunais de Contas.
+
+        Instâncias externas de apoio à governança: são responsáveis pela avaliação, auditoria e
+        monitoramento independente e, nos casos em que disfunções são identificadas, pela
+        comunicação dos fatos às instâncias superiores de governança, sejam elas internas ou
+        externas. Exemplos: Auditorias independentes e o “controle social organizado”.
+
+        Instâncias internas de governança: são responsáveis por definir ou avaliar a estratégia e as
+        políticas internas, bem como monitorar a conformidade e o desempenho destas, devendo
+        agir nos casos em que desvios forem identificados. São, também, responsáveis por garantir
+        que a estratégia e as políticas formuladas atendam ao interesse público servindo de elo
+        entre principal e agente. Exemplos: Conselhos de Administração e Alta Administração.
+
+        Instâncias internas de apoio à governança: realizam a comunicação entre partes
+        interessadas internas e externas à administração, bem como auditorias internas que
+        avaliam os processos de governança e de gestão de riscos e controles internos,
+        comunicando quaisquer disfunções identificadas à alta administração. Exemplos:
+        Corregedoria, a Ouvidoria, a auditoria interna, conselho fiscal, as comissões e os comitês.
+
+Além dessas instâncias, o Referencial Básico de Governança do TCU destaca que existem outras
+estruturas que contribuem para a boa governança da organização, são elas26:
+
+        A administração executiva (alta administração): instância interna de governança
+        responsável por avaliar, direcionar e monitorar, internamente, o órgão ou a entidade. A
+        autoridade máxima da organização e os dirigentes superiores são os agentes públicos que,
+        normalmente, atuam nessa estrutura. Os dirigentes superiores (gestores de nível
+        estratégico e administradores executivos diretamente ligados à autoridade máxima) são
+        responsáveis por auxiliar no estabelecimento de políticas e objetivos e no provimento de
+        direcionamento para a organização.
+
+        A gestão tática: responsável por coordenar a gestão operacional em áreas específicas. Os
+        dirigentes que integram o nível tático da organização são os agentes públicos que,
+        normalmente, atuam nessa estrutura (por exemplo: secretários).
+
+        A gestão operacional: responsável pela execução de processos produtivos finalísticos e de
+        apoio. Os gerentes, membros da organização que ocupam cargos ou funções a partir do
+        nível operacional, são os agentes públicos que, normalmente, atuam nessa estrutura (por
+        exemplo: gerentes, supervisores, chefes).
+
+
+
+
+26
+  Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados
+ao             TCU.             3a              versão,            Brasília:       2020.          Disponível             em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+
+
+
+                                                                                                                     25
+(CESPE – TCE-PR – Analista de Controle – 2016 - ADAPTADA)
+
+As instâncias internas de governança responsáveis pela avaliação de estratégias e políticas e pelo
+monitoramento de conformidade estão impedidas de atuar nas situações em que desvios forem
+identificados.
+
+Comentários:
+
+A primeira parte da assertiva está correta. De fato, as instâncias internas de governança são
+responsáveis por definir e avaliar as políticas e a estratégia, bem como monitorar a conformidade e
+o desempenho destas. Contudo, a segunda parte da assertiva está errada. Isso pois as instâncias
+internas devem sim atuar nos casos em que desvios forem identificados.
+
+Gabarito: errada.
+
+
+
+2.6 – Diretrizes para a Boa Governança
+
+2.6.1 Diretrizes para a Boa Governança (CIPFA)
+
+De acordo com CIPFA, são diretrizes para a boa governança27:
+
+        a) focar o propósito da organização em resultados para cidadãos e usuários dos serviços;
+
+        b) realizar, efetivamente, as funções e os papéis definidos;
+
+        c) tomar decisões embasadas em informações de qualidade;
+
+        d) gerenciar riscos;
+
+        e) desenvolver a capacidade e a eficácia do corpo diretivo das organizações;
+
+        f) prestar contas e envolver efetivamente as partes interessadas;
+
+
+
+
+27
+  Chartered Institute of Public Finance and Accountancy CIPFA (2004) apud TCU, Referencial Básico de Governança: Aplicável a
+Órgãos     e      Entidades     da     Administração      Pública,    2a   versão,   Brasília:  2014.    Disponível     em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+
+
+
+
+                                                                                                                     26
+g) ter clareza acerca do propósito da organização, bem como dos resultados esperados
+para cidadãos e usuários dos serviços;
+
+h) certificar-se de que os usuários recebem um serviço de alta qualidade;
+
+i) certificar-se de que os contribuintes recebem algo de valor em troca dos aportes
+financeiros providos;
+
+j) definir claramente as funções das organizações e as responsabilidades da alta
+administração e dos gestores, certificando-se de seu cumprimento;
+
+l) ser claro sobre as relações entre os membros da alta administração e a sociedade;
+
+m) ser rigoroso e transparente sobre a forma como as decisões são tomadas;
+
+n) ter, e usar, estruturas de aconselhamento, apoio e informação de boa qualidade;
+
+o) certificar-se de que um sistema eficaz de gestão de risco esteja em operação;
+
+p) certificar-se de que os agentes (comissionados ou eleitos) tenham as habilidades, o
+conhecimento e a experiência necessários para um bom desempenho;
+
+q) desenvolver a capacidade de pessoas com responsabilidades de governo e avaliar o seu
+desempenho, como indivíduos e como grupo;
+
+r) equilibrar, na composição do corpo diretivo, continuidade e renovação;
+
+s) compreender as relações formais e informais de prestação de contas;
+
+t) tomar ações ativas e planejadas para dialogar com e prestar contas à sociedade, bem
+como engajar, efetivamente, organizações parceiras e partes interessadas;
+
+u) tomar ações ativas e planejadas de responsabilização dos agentes;
+
+v) garantir que a alta administração se comporte de maneira exemplar, promovendo,
+sustentando e garantindo a efetividade da governança; e
+
+x) colocar em prática os valores organizacionais.
+
+
+
+
+                                                                                       27
+2.6.2 Diretrizes para a Boa Governança (Referencial Básico de Governança)
+
+De acordo com o Referencial Básico de Governança28, a boa governança é um direito do cidadão
+e, para alcançá-la em organizações públicas, é importante atender às seguintes diretrizes”:
+
+        a) definir formalmente e comunicar claramente os papéis e responsabilidades das
+        instâncias internas e de apoio à governança, e assegurar que sejam desempenhados de
+        forma efetiva;
+
+        b) estabelecer processos decisórios transparentes, baseados em evidências e orientados a
+        riscos, motivados pela equidade e pelo compromisso de atender ao interesse público;
+
+        c) promover valores de integridade e implementar elevados padrões de comportamento,
+        começando pela demonstração de conduta exemplar da liderança da organização e de
+        apoio às políticas e programa de integridade;
+
+        d) aprimorar a capacidade da liderança da organização, garantindo que seus membros
+        tenham habilidade, conhecimentos e experiências necessários ao desempenho de suas
+        funções; avaliando o desempenho deles como indivíduos e como grupo; e equilibrando, na
+        composição da liderança, continuidade e renovação;
+
+        e) desenvolver continuamente a capacidade da organização, assegurando a eficácia e
+        eficiência da gestão dos recursos organizacionais, como a gestão e a sustentabilidade do
+        orçamento, das pessoas, das contratações e da tecnologia e segurança da informação;
+
+        f) apoiar e viabilizar a inovação para agregar valor público e lidar com as limitações de
+        recursos e com novas ameaças e oportunidades;
+
+        g) estabelecer um sistema eficaz de gestão de riscos e controles internos;
+
+        h) estabelecer objetivos organizacionais alinhados ao interesse público, e comunicá-los de
+        modo que o planejamento e a execução das operações reflitam o propósito da organização
+        e contribuam para alcançar os resultados pretendidos;
+
+        i) monitorar o desempenho da organização e utilizar os resultados para identificar
+        oportunidades de melhoria e avaliar as estratégias organizacionais estabelecidas;
+
+        j) considerar os interesses, direitos e expectativas das partes interessadas nos processos de
+        tomada de decisão;
+
+        k) implementar boas práticas de transparência;
+
+
+28
+  Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados
+ao             TCU.             3a              versão,            Brasília:       2020.          Disponível             em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+
+
+
+                                                                                                                     28
+        l) prestar contas às partes interessadas e implementar mecanismos eficazes de
+        responsabilização dos agentes;
+
+        m) apoiar o uso das ferramentas digitais para aumentar e facilitar a participação das partes
+        interessadas nas decisões públicas e aprimorar a prestação de serviços públicos;
+
+        n) promover a simplificação administrativa, a modernização da gestão pública e a
+        integração dos serviços públicos, especialmente aqueles prestados por meio eletrônico;
+
+        o) editar e revisar atos normativos, pautando-se pelas boas práticas regulatórias e pela
+        legitimidade, estabilidade e coerência do ordenamento jurídico e realizando consultas
+        públicas, sempre que conveniente.
+
+
+
+2.6.3 Diretrizes para a Boa Governança (Decreto n.° 9.203/2017)
+
+O Decreto n.° 9.203/2017 (que dispõe sobre a política de governança da administração pública
+federal direta, autárquica e fundacional), ao seu turno, destaca que são diretrizes da governança
+pública:29
+
+        I - direcionar ações para a busca de resultados para a sociedade, encontrando soluções
+        tempestivas e inovadoras para lidar com a limitação de recursos e com as mudanças de
+        prioridades;
+
+        II - promover a simplificação administrativa, a modernização da gestão pública e a
+        integração dos serviços públicos, especialmente aqueles prestados por meio eletrônico;
+
+        III - monitorar o desempenho e avaliar a concepção, a implementação e os resultados das
+        políticas e das ações prioritárias para assegurar que as diretrizes estratégicas sejam
+        observadas;
+
+        IV - articular instituições e coordenar processos para melhorar a integração entre os
+        diferentes níveis e esferas do setor público, com vistas a gerar, preservar e entregar valor
+        público;
+
+        V - fazer incorporar padrões elevados de conduta pela alta administração para orientar o
+        comportamento dos agentes públicos, em consonância com as funções e as atribuições de
+        seus órgãos e de suas entidades;
+
+
+
+
+29
+  BRASIL. Decreto n.° 9.203/2017. Dispõe sobre a política de governança da administração pública federal direta, autárquica e
+fundacional.
+
+
+
+
+                                                                                                                      29
+        VI - implementar controles internos fundamentados na gestão de risco, que privilegiará
+        ações estratégicas de prevenção antes de processos sancionadores;
+
+        VII - avaliar as propostas de criação, expansão ou aperfeiçoamento de políticas públicas e
+        de concessão de incentivos fiscais e aferir, sempre que possível, seus custos e benefícios;
+
+        VIII - manter processo decisório orientado pelas evidências, pela conformidade legal, pela
+        qualidade regulatória, pela desburocratização e pelo apoio à participação da sociedade;
+
+        IX - editar e revisar atos normativos, pautando-se pelas boas práticas regulatórias e pela
+        legitimidade, estabilidade e coerência do ordenamento jurídico e realizando consultas
+        públicas sempre que conveniente;
+
+        X - definir formalmente as funções, as competências e as responsabilidades das estruturas
+        e dos arranjos institucionais; e
+
+        XI - promover a comunicação aberta, voluntária e transparente das atividades e dos
+        resultados da organização, de maneira a fortalecer o acesso público à informação.
+
+
+
+2.7 – Mecanismos para o exercício da governança pública
+
+De acordo com a Corte de Contas Federal, para que as funções de governança sejam executadas
+de forma satisfatória, alguns mecanismos devem ser adotados: a liderança, a estratégia e
+o controle (accountability).
+
+O Decreto n.° 9.203/2017 (que dispõe sobre a política de governança da administração pública
+federal direta, autárquica e fundacional), no mesmo sentido, destaca que são mecanismos para o
+exercício da governança pública:30
+
+        I - liderança, que compreende conjunto de práticas de natureza humana ou
+        comportamental exercida nos principais cargos das organizações, para assegurar a
+        existência das condições mínimas para o exercício da boa governança, quais sejam:
+
+                a) integridade;
+
+                b) competência;
+
+                c) responsabilidade; e
+
+
+
+30
+  BRASIL. Decreto n.° 9.203/2017. Dispõe sobre a política de governança da administração pública federal direta, autárquica e
+fundacional.
+
+
+
+
+                                                                                                                      30
+                d) motivação;
+
+        II - estratégia, que compreende a definição de diretrizes, objetivos, planos e ações, além de
+        critérios de priorização e alinhamento entre organizações e partes interessadas, para que os
+        serviços e produtos de responsabilidade da organização alcancem o resultado pretendido; e
+
+        III - controle, que compreende processos estruturados para mitigar os possíveis riscos com
+        vistas ao alcance dos objetivos institucionais e para garantir a execução ordenada, ética,
+        econômica, eficiente e eficaz das atividades da organização, com preservação da legalidade
+        e da economicidade no dispêndio de recursos públicos.
+
+
+
+2.8 – Níveis de Análise da Governança
+
+O Referencial Básico de Governança menciona que, tendo em vista que a governança não está
+isenta de custos e que os mecanismos, de forma isolada, não produzem todos os resultados
+potencialmente esperados, o Referencial foi criado tomando-se por base 04 níveis de análise31:
+
+        -os mecanismos de governança;
+
+        -os componentes;
+
+        -as práticas e;
+
+        -os itens de controle.
+
+
+
+
+3 – Governabilidade x Governança
+
+Governabilidade e Governança são conceitos que estão inter-relacionados; isto é, estão
+intimamente relacionados.
+
+
+
+
+“Como assim, Stefan?”
+
+
+
+
+31
+  TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2 a versão, Brasília: 2014.
+Disponível em: https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+
+
+
+
+                                                                                                                      31
+Pense em um Governo que esteja com sua governabilidade comprometida (em decorrência, por
+exemplo, da ruptura de princípios democráticos). Em outras palavras, esse Governo está sem o
+apoio da população, isto é, sem governabilidade.
+
+Como consequência, a implementação das políticas públicas e a execução de diversos serviços
+públicos oferecidos por esse Estado podem ser afetados. Assim, a governança deste governo
+também ficará prejudicada.
+
+O oposto também é verdadeiro: Pense em um Governo que esteja com a governança prejudicada,
+ou seja, o Governo não está conseguindo gerir os recursos e implementar as políticas públicas de
+forma eficaz. Como consequência, a sociedade pode começar a ficar insatisfeita e então o apoio a
+este governo diminui, ou seja, o governo vai perdendo a governabilidade.
+
+Contudo, vale lembrar que, conforme destacado pelo PDRAE, esse não foi o que aconteceu com o
+Brasil nos anos 90. Ou seja, a falta de governança vivida naquela época, não reduziu a
+governabilidade.
+
+
+Bresser Pereira explica que um governo pode ter governabilidade, na medida em que seus
+dirigentes contem com os necessários apoios políticos para governar, e no entanto pode governar
+mal por lhe faltar a capacidade da governança.
+
+Matias-Pereira (2018) menciona que enquanto a governabilidade diz respeito às condições do
+exercício da autoridade política, a governança qualifica o modo de uso dessa autoridade. Nesse
+sentido, Paludo (2019) destaca que a governança é instrumental, ou seja, é o “braço operacional”
+da governabilidade.
+
+Diniz32 nos ensina que o termo governabilidade se refere às condições sistêmicas mais gerais, por
+meio das quais se dá o exercício do poder em dada sociedade, como a forma de governo, as
+relações entre os poderes, os sistemas partidários etc. Por sua vez, governança refere-se à
+capacidade governativa, em sentido mais amplo, envolvendo a capacidade da ação estatal de
+implantação das políticas e na consecução das metas coletivas.
+
+Em suma, governabilidade é a capacidade política de governar, derivada da legitimidade exercida
+pelo governo e do grau de exercício da autoridade política para fazer-acontecer as decisões. Se
+relaciona à capacidade de um governo reunir em torno de suas ações os vários interesses de
+diferentes membros da sociedade que, a princípio, possuem interesses conflitantes. A
+governança, por sua vez, é um instrumento/meio/forma através da qual o governo exerce sua
+governabilidade; se refere, portanto, à capacidade governativa.
+
+
+
+
+32
+  DINIZ (1996) apud MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição.
+São Paulo, Atlas: 2018. p.81
+
+
+
+
+                                                                                                                  32
+                  GOVERNABILIDADE
+                        -Legitimidade                          GOVERNANÇA
+                     -Capacidade Política                  -Capacidade Governativa
+                -Exercício do Poder Político      -Maneira como os recursos são administrados
+            -Condições sistemicas mais "gerais"      -Forma como o governo exerce o poder
+                                                     -Capacidade do governo de formular e
+                                                        implementar políticas públicas
+                                                    -Braço instrumental da governabilidade
+
+
+
+
+(FCC – SEFAZ-PI – Analista do Tesouro Estadual - ADAPTADA)
+
+Governança, na Administração pública, pode ser entendida como o braço instrumental da
+governabilidade, envolvendo o modo como o Governo se organiza para atender às necessidades
+da população.
+
+Comentários:
+
+Isso mesmo, a governança é instrumental, ou seja, é o “braço operacional” da governabilidade.
+
+Gabarito: correta.
+
+
+
+4 – Governança Corporativa
+
+Diferentemente da governabilidade (que é um conceito relacionado especialmente à área pública),
+a governança é um assunto que está presente tanto na esfera pública quanto na esfera privada.
+
+A evolução constante das sociedades capitalistas traz uma nova relação entre as empresas e a
+sociedade como um todo e, em muitos casos, essa evolução culmina na segregação entre os
+proprietários das empresas (principal) e os seus administradores (agentes). Essa segregação entre
+
+
+
+
+                                                                                                33
+controle e gestão pode provocar conflitos de interesses entre acionistas, investidores e demais
+interessados na empresa33.
+
+Em outras palavras, conforme as empresas vão crescendo, aumenta-se a necessidade de
+contratação de gestores, bem como de descentralização das atividades e decisões.
+Consequentemente, o Conflito de Agência vai aumentando.
+
+Isso acontece pois as empresas passam, cada vez mais, a serem gerenciadas pelos administradores
+contratados (agentes) e não pelos proprietários (principal).
+
+É nesse contexto que surge a Governança Corporativa, com o objetivo de reduzir a disparidade de
+informações existente entre os proprietários e os administradores.
+
+De acordo com o Instituto Brasileiro de Governança Corporativa – IBCG (2004), a governança
+corporativa surge com o objetivo de superar o conflito de agência, presente a partir do fenômeno
+da separação entre a propriedade e a gestão empresarial. O “principal”, titular da propriedade,
+delega ao “agente” o poder de decisão sobre essa propriedade. A partir daí surgem os chamados
+conflitos de agência, pois os interesses daquele que administra a propriedade nem sempre estão
+alinhados com os de seu titular.
+
+Nesse sentido, a Governança Corporativa busca criar mecanismos eficientes (sistemas de
+monitoramento e incentivos) para garantir que o comportamento dos executivos (agentes) esteja
+alinhado com o interesse dos acionistas (principal).
+
+No setor público, a governança corporativa refere-se à administração das agências do setor
+público mediante a aplicação dos princípios de governança corporativa do setor privado 34.
+
+
+
+
+                                                        LEITURA
+                                                        OBRIGATÓRIA!
+
+
+Vejamos alguns conceitos de Governança Corporativa:
+
+        Governança Corporativa é o sistema pelo qual as organizações são dirigidas, monitoradas e
+        incentivadas, envolvendo os relacionamentos entre proprietários, Conselho de
+        Administração, Diretoria e órgãos de controle. As boas práticas de Governança Corporativa
+        convertem princípios em recomendações objetivas, alinhando interesses com a finalidade
+
+
+33
+    MALACRIDA, Mara Jane Contrera, YAMAMOTO, Marina Mitiyo. Governança Corporativa: Nível de Evidenciação das
+Informações e sua Relação com a Volatilidade das Ações do Ibovespa. USP – Edição Comemorativa – p.65-79. Setembro/2006.
+34
+   CESPE (2013)
+
+
+
+
+                                                                                                                34
+         de preservar e otimizar o valor da organização, facilitando seu acesso a recursos e
+         contribuindo para sua longevidade35.
+
+         Governança corporativa é o conjunto de práticas que tem por finalidade melhorar o
+         desempenho de uma companhia, ao proteger todas as partes envolvidas, como as
+         empresas, investidores, empregados e credores, facilitando o acesso ao capital 36.
+
+
+
+
+4.1 – Princípios da Governança Corporativa
+
+De acordo com o Instituto Brasileiro de Governança Corporativa – IBCG, os princípios da
+Governança Corporativa são os seguintes37:
+
+         Transparência (Disclosure): Trata-se da ideia de disponibilizar para as partes interessadas
+         não apenas as informações determinadas pelas leis ou regulamentos, mas também aquelas
+         informações que são do interesse dessas partes. As informações não devem se restringir ao
+         desempenho econômico-financeiro da empresa; pelo contrário, devem contemplar também
+         os demais fatores (inclusive intangíveis) que norteiam a ação gerencial e que conduzem à
+         preservação e à otimização do valor da organização.
+
+         Equidade (Fairness): Caracteriza-se pelo tratamento justo e isonômico de todos os sócios e
+         demais partes interessadas (stakeholders), levando em consideração seus direitos, deveres,
+         necessidades, interesses e expectativas.
+
+         Prestação de Contas (Accountability): Os agentes de governança devem prestar contas de
+         sua atuação de modo claro, conciso, compreensível e tempestivo, assumindo integralmente
+         as consequências de seus atos e omissões e atuando com diligência e responsabilidade no
+         âmbito dos seus papéis.
+
+         Responsabilidade Corporativa: Os agentes de governança devem zelar pela viabilidade
+         econômico-financeira das organizações (ou seja, pela sustentabilidade das organizações).
+         Nesse sentido, devem reduzir as externalidades negativas de seus negócios e suas
+         operações e aumentar as positivas, levando em consideração, no seu modelo de negócios,
+         os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental,
+         reputacional etc.) no curto, médio e longo prazos.
+
+
+
+
+35 IBGC (2014)
+36 CVM (2002)
+37 IBCG, Código das Melhores Práticas de Governança Corporativa. 5ª Edição.
+
+
+
+
+                                                                                              35
+Perceba que esses princípios também fazem parte dos princípios da boa governança que
+estudamos agora há pouco, elencados pelo Banco Mundial. Vejamos um quadro comparativo
+entre eles:
+
+                Princípios da Boa Governança      Princípios da Governança Corporativa
+                        Banco Mundial                             IBGC
+                                                              Transparência
+                        Transparência
+                                                               (Disclosure)
+                                                                Equidade
+                           Equidade
+                                                                (Fairness)
+                                                           Prestação de Contas
+                        Accountability
+                                                             (Accountability)
+                       Responsabilidade                Responsabilidade Corporativa
+                         Legitimidade                                -
+                           Eficiência                                -
+                          Probidade                                  -
+
+Um outro princípio que merece destaque, e que também serve de base de sustentação para a boa
+governança corporativa, é o Compliance.
+
+      Compliance: Trata-se de agir de acordo com as regras e normas. Ou seja, obedecer e fazer
+      cumprir as regras e as normas. Nesse sentido, “estar em compliance” significa estar em
+      conformidade com as regras e as normas (tanto internas, quanto externas). Busca-se, assim,
+      evitar desvios de condutas, ilícitos ou fraudes.
+
+
+
+
+                                                             Transparência
+
+
+              Princípios da Governança                         Equidade
+                     Corporativa
+                      (IBGC)                      Prestação de Contas (Accountability)
+
+
+                                                     Responsabilidade Corporativa
+
+
+
+
+                                                                                          36
+4.2 – Governança Corporativa no Setor Público
+
+De acordo com Timmers38, “a governança corporativa no setor público deve ser entendida como a
+proteção ao inter-relacionamento entre a administração, o controle e a supervisão, feita pela
+organização governamental, pela situação organizacional e pelas autoridades do governo, visando
+relacionar os objetivos políticos eficaz e eficientemente”.
+
+Matias-Pereira39 destaca que a governança corporativa do setor público é constituída pelos
+seguintes elementos:
+
+        -Responsabilidade em atender a sociedades;
+
+        -Supervisão;
+
+        -Controle;
+
+        -Assistência Social.
+
+De acordo com Marques40, a boa governança corporativa, seja no setor público ou no privado,
+exige:
+
+        -Clara identificação e articulação das definições de responsabilidade;
+
+        -Verdadeira compreensão do relacionamento entre as partes interessadas da organização e
+        sua estrutura de administrar os recursos e entregar os resultados; e
+
+        -Suporte para a administração, particularmente de alto nível.
+
+Por fim, o mesmo autor destaca que os fatores essenciais para uma governança corporativa sólida
+são os seguintes:
+
+        -Estrutura administrativa;
+
+        -Ambiente administrativo;
+
+        -Administração de riscos;
+
+        -Conformidade e complacência;
+
+        -Monitoração e avaliação de desempenho;
+
+
+38
+   MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição. São Paulo, Atlas: 2018.
+p.87
+39
+   Idib p.87
+40
+    Marques (2005) apud MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª
+edição. São Paulo, Atlas: 2018. p.86
+
+
+
+
+                                                                                                                         37
+        -Responsabilidade em prestar contas; e
+
+        -Conformidade versus desempenho.
+
+
+
+
+(FEPESE – CELESC – Administrador - 2018)
+
+Assinale a alternativa que lista corretamente os princípios básicos da Governança Corporativa,
+segundo o Código de Melhores Práticas do Instituto Brasileiro de Governança Corporativa.
+
+a) Transparência, Educação Corporativa, Prestação de Contas (Accountability) e Responsabilidade
+Corporativa.
+
+b) Transparência, Equidade, Prestação de Contas (Accountability) e Responsabilidade Corporativa.
+
+c) Transparência, Educação Corporativa, Combate à Corrupção e Responsabilidade Corporativa.
+
+d) Transparência, Educação Corporativa, Responsabilidade Ambiental e Responsabilidade
+Corporativa.
+
+e) Transparência, Educação Corporativa, Investimentos Sociais e Responsabilidade Corporativa.
+
+Comentários:
+
+De acordo com o IBGC os princípios da Governança Corporativa são: Transparência, Equidade,
+Prestação de Contas (Accountability) e Responsabilidade Corporativa.
+
+O gabarito é a letra B.
+
+
+
+
+5 – Accountability
+
+Conforme vimos anteriormente, a accountability é um dos princípios da governança.
+
+De acordo com Matias-Pereira41, “o termo accountability pode ser considerado o conjunto de
+mecanismos e procedimentos que levam os decisores governamentais a prestarem contas
+
+
+41
+  MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição. São Paulo, Atlas: 2018.
+p.81
+
+
+
+
+                                                                                                                        38
+dos resultados de suas ações, garantindo-se maior transparência e a exposição das políticas
+públicas. Quanto maior a possibilidade de os cidadãos poderem discernir se os governantes estão
+agindo em função do interesse da coletividade e sancioná-los apropriadamente,
+mais accountable é um governo. O conceito de accountable está relacionado estreitamente ao
+universo político-administrativo anglo-saxão”.
+
+Conforme se observa, Accountability é um termo bastante ligado à transparência. Trata-se, do
+dever que o administrador público possui de prestar contas, promovendo a transparência de suas
+ações e, como consequência, ser responsabilizado pelos seus atos de sua gestão.
+
+Como os recursos públicos são da sociedade (do povo), é fundamental que os agentes públicos que
+cuidam destes recursos tenham a obrigação de prestar contas deles.
+
+Pode-se dizer, nesse sentido, que um dos objetivos dos regimes democráticos é aumentar a
+responsabilização (accountability) dos governantes42.
+
+
+
+
+                                                       Responsabilidade
+Dever de prestar
+                                                         pelos atos de                                     ACCOUNTABILITY
+    contas
+                                                            gestão
+
+
+
+
+(FGV – FUNSAÚDE - CE – Analista Administrativo – Administração – 2021)
+
+Assinale a opção que melhor define o termo accountability.
+
+a) A ideia de que os representantes do Estado devem prestar contas e ser responsabilizados por
+seus atos.
+
+b) A capacidade de um governo gerir recursos e implementar, de forma estruturada, políticas
+públicas.
+
+
+
+
+42
+     PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.195
+
+
+
+
+                                                                                                                      39
+c) As condições materiais e sistêmicas necessárias para que um governo consiga exercer suas
+funções precípuas com legitimidade.
+
+d) O poder de garantir condições para que todos tenham acesso ao exercício universal dos direitos
+civis.
+
+e) A forma que permite a mobilização de meios necessários para o enfrentamento de problemas
+críticos da sociedade.
+
+Comentários:
+
+Accountability é um termo bastante ligado à transparência. Trata-se, do dever que o
+administrador público possui de prestar contas, promovendo a transparência de suas ações e,
+como consequência, ser responsabilizado pelos seus atos de sua gestão.
+
+O gabarito é a letra A.
+
+(UFG – Câmara de Goiânia – Assessor Técnico Legislativo - Administrador - 2018)
+
+Qual é o conjunto de mecanismos e de procedimentos que levam os decisores governamentais a
+prestar contas dos resultados de suas ações, garantindo maior transparência e exposição pública
+das políticas públicas?
+
+a) Governança.
+
+b) Governabilidade.
+
+c) Política fiscal.
+
+d) Accountability.
+
+Comentários:
+
+A questão trouxe o conceito exato de accountability na visão de Matias-Pereira. Vejamos: “o
+termo accountability pode ser considerado o conjunto de mecanismos e procedimentos que
+levam os decisores governamentais a prestarem contas dos resultados de suas ações, garantindo-
+se maior transparência e a exposição das políticas públicas.
+
+O gabarito é a letra D.
+
+
+
+
+                                                                                           40
+5.1 – Dimensões da Accountability
+
+Para Schedler43, na accountability estão presentes, quase sempre, três dimensões: informação,
+justificação e punição.
+
+        Informação: Está relacionada ao conceito da transparência. Ou seja, consiste na
+        disponibilização das informações, para que a sociedade tenha acesso às informações
+        relativas às ações e decisões tomadas pelos gestores públicos.
+
+        Justificação: Consiste na necessidade dos governantes justificarem (explicarem) as decisões
+        que tomaram. Os gestores públicos devem responder aos questionamentos realizados pela
+        sociedade, no sentido de justificarem às suas ações e decisões.
+
+        Punição (sanção / responsabilização): Os governantes poderão ser responsabilizados pelos
+        seus atos. Portanto, caso não atuem de acordo com a lei, poderão sofrer sanções. Essa
+        dimensão envolve os elementos que obrigam o cumprimento da lei, mediante a utilização
+        de sanções.
+
+Nesse sentido, essas três dimensões são utilizadas como formas básicas para prevenir o abuso de
+poder cometido pelos governantes. Vejamos:
+
+        a) obrigando que as ações e decisões sejam executadas de forma transparente.
+
+        b) forçando que os atos e decisões dos governantes sejam justificados.
+
+        c) sujeitando os governantes à ameaça de sanções.
+
+
+
+
+(FCC – Copergás – Analista - 2016)
+
+Entre as diversas dimensões envolvidas na aplicação do conceito de Accountability na
+administração pública, estão presentes:
+
+a) Informação, justificação dos atos praticados e responsabilização por desvios.
+
+
+
+
+43
+   SCHEDLER apud MOTA, Ana C.Y.H.A. Accountability no BrasilÇ os cidadãos e seus meios institucionais de controle dos
+representantes. Tese (Doutorado) – USP, São Paulo: 2006.
+
+
+
+
+                                                                                                              41
+b) Meritocracia, ética no desempenho das funções e economicidade.
+
+c) Equidade, responsabilidade social e legitimidade.
+
+d) Legalidade, legitimidade e moralidade.
+
+e) Responsabilidade fiscal, eficiência e redução de custos.
+
+Comentários:
+
+Na accountability estão presentes, quase sempre, três dimensões: informação, justificação e
+punição (sanção / responsabilização).
+
+O gabarito é a letra A.
+
+
+
+5.2 – Tipos de Accountability
+
+A accountability pode ser classificada em três tipos: vertical, horizontal, e societal.
+
+Accountability horizotal: ocorre por meio do controle e fiscalização mútua existente entre os
+poderes (sistema de freios e contrapesos), ou então entre os órgãos. Ou seja, está relacionada à
+prestação de contas que ocorre quando um dos poderes fiscaliza o outro (Congresso Nacional
+fiscaliza as contas do Presidente da República, por exemplo), ou quando um órgão fiscaliza o outro
+(Controladoria Geral da União fiscaliza um outro órgão do poder executivo federal, por exemplo).
+
+Esse tipo de accountability pressupõe uma ação entre iguais ou autônomos.
+
+A noção de accountability horizontal aponta para a existência de “agências estatais que têm o
+direito e o poder legal e que estão de fato dispostas e capacitadas para realizar ações, que vão
+desde a supervisão de rotina a sanções legais ou até o impeachment contra ações ou emissões de
+outros agentes ou agências do Estado que possam ser qualificadas como delituosas” 44.
+
+Exemplos: atuação dos Tribunais de Contas, do Ministério Público, das Controladorias-Gerais, das
+Ouvidorias, das Agências fiscalizadoras, etc.
+
+
+
+
+44
+  O´DONEL (1998) apud MOTA, Ana C.Y.H.A. Accountability no Brasil: os cidadãos e seus meios institucionais de controle dos
+representantes. Tese (Doutorado) – USP, São Paulo: 2006.
+
+
+
+
+                                                                                                                   42
+Accountability vertical: ocorre quando os cidadãos controlam as ações dos governantes por meio
+do referendo, do plebiscito, do voto, ou então mediante o exercício do controle social.
+
+A accountability vertical está intimamente relacionada à capacidade da sociedade de votar. Nesse
+sentido, é necessário que os cidadãos tenham acesso às informações (transparência) acerca do
+desempenho dos candidatos, para poderem decidir se irão reelegê-los ou não (a “não reeleição”
+de determinado candidato funcionária como uma espécie de “´punição”).
+
+Ana Mota destaca que accountability vertical são “os mecanismos institucionais que possibilitam
+ao cidadão e à sociedade civil exigir a prestação de contas pelos agentes públicos, sendo as
+eleições livres e justas o principal”45.
+
+Nesse sentido, pode-se dizer que o accountability vertical tem caráter político. À vista disso, alguns
+autores chamam esse tipo de accountability de accountability democrática ou ainda
+accountability eleitoral.
+
+Esse tipo de accountability pressupõe uma ação entre desiguais.
+
+Exemplos: os principais mecanismos de accountability vertical são o voto e a ação popular.
+
+
+
+Accountability societal (ou social): Esse tipo de accountability está relacionado ao controle
+exercido pelas diversas entidades sociais como associações, sindicados, ONG´s, mídia, as quais
+investigam e denunciam os abusos cometidos e cobram responsabilização46.
+
+De acordo com Smulovitz e Peruzzotti, o “accountability social é um mecanismo de controle não
+eleitoral, que emprega ferramentas institucionais e não institucionais (ações legais, participação
+em instâncias de monitoramento, denúncias na mídia etc.), que se baseia na ação de múltiplas
+associações de cidadãos, movimentos, ou mídia, objetivando expor erros e falhas do governo,
+trazer novas questões para a agenda pública ou influenciar decisões políticas a serem
+implementadas pelos órgãos públicos”47.
+
+Esse tipo de controle também tem por objetivo alcançar (e responsabilizar) os gestores públicos
+(administradores “burocratas”) e não apenas os governantes/políticos.
+
+As características desse tipo de accountability são:
+
+
+
+45
+   Ana Mota (2006) apud PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019.
+p.195
+46
+   PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.198
+47
+  Smulovitz e Peruzzotti (2000) apud CARNEIRO, Carla Bronzo Ladeira. Governança e Accountability: Algumas Notas
+Introdutórias. Escola de Governo da Fundação João Pinheiro. Belo Horizonte: 2004.
+
+
+
+
+                                                                                                                    43
+      -ausência de “mandato legal” para o exercício da accountability;
+
+      -incapacidade de aplicar sanções; e
+
+      -grande assimetria (diferença) na quantidade de recursos que as entidades possuem para
+      realizar a accountability.
+
+Pode ser considerado uma forma de accountability vertical (porém, não eleitoral).
+
+Esse tipo de accountability pressupõe a existência de liberdade de expressão para denunciar as
+falhas e erros cometidos pelos agentes políticos/governantes e gestores públicos.
+
+
+
+
+                                              ESQUEMATIZANDO!
+
+
+
+                                   Fiscalização                           Tribunais de
+                                                         Ação entre
+           Accountability         mútua entre                                Contas,
+                                                           iguais e
+             Horizontal            Poderes ou                            Controladorias
+                                                         autonomos
+                                  entre Órgãos                            Gerais, etc.
+
+
+                                    Cidadãos
+                                                                         Voto, plebiscito,
+           Accountability         controlam as           Ação entre
+                                                                         referendo, ação
+              Vertical             ações dos              desiguais
+                                                                             popular
+                                  governantes
+
+
+                                  Exercido por
+           Accountability          Entidades          Liberdade de        Controle "não
+              Societal           Sociais, ONG´s,        expressão           eleitoral"
+                                   mídia, etc.
+
+
+
+
+(FGV – DPE-RJ – Técnico Superior Especializado - 2019)
+
+A existência de eleições livres e justas é um dos elementos essenciais para a democracia de um
+país. É por meio delas que o povo adquire o poder de expressar sua satisfação ou insatisfação com
+a atuação de seus governantes e as políticas públicas executadas.
+
+Nesse sentido, o mecanismo representado pelo voto, por meio do qual a população exerce
+
+
+
+
+                                                                                             44
+controle sobre os seus governantes, é conhecido como:
+
+a) governança;
+
+b) governabilidade;
+
+c) accountability vertical;
+
+d) accountability horizontal;
+
+e) gestão top-down.
+
+Comentários:
+
+É a accountability vertical que ocorre quando os cidadãos controlam as ações dos governantes
+por meio do voto.
+
+O gabarito é a letra C.
+
+(UFAC – UFAC – Assistente em Administração - 2019)
+
+A _________________ remete à obrigação de membros de um órgão administrativo ou
+representativo de prestar contas a instâncias controladoras ou a seus representados (sociedade
+como um todo ou a própria administração). Estamos falando de:
+
+a) Efetividade.
+
+b) Governança.
+
+c) Accountability.
+
+d) Fixação de Despesas.
+
+e) Contraprestação Direta.
+
+Comentários:
+
+É a accountability que consiste do dever que o administrador público possui de prestar contas,
+promovendo a transparência de suas ações e, como consequência, ser responsabilizado pelos
+seus atos de sua gestão.
+
+O gabarito é a letra C.
+
+(FCC – DPE-SP – Administrador - 2015)
+
+
+
+
+                                                                                         45
+É correto afirmar que a accountability
+
+a) vertical compreende o controle exercido pelo Legislativo sobre o Executivo.
+
+b) vertical compreende o controle exercido pela administração direta sobre a indireta.
+
+c) horizontal compreende o controle exercido pelo Judiciário sobre o Executivo.
+
+d) horizontal compreende o controle exercido por meio de plebiscito e referendos.
+
+e) horizontal compreende o controle exercido pelos cidadãos por meio do voto.
+
+Comentários:
+
+Letra A: errada. É a accontability horizontal que compreende o controle exercido pelo Legislativo
+sobre o Executivo (controle de um poder sobre o outro).
+
+Letra B: errada. É a accontability horizontal que compreende o controle exercido pela
+administração direta sobre a indireta (controle de um órgão sobre o outro).
+
+Letra C: correta. Isso mesmo! É a accountability horizontal que se refere à prestação de contas que
+ocorre quando um dos poderes fiscaliza o outro.
+
+Letra D: errada. É a accontability vertical que compreende o controle exercido por meio de
+plebiscito e referendos.
+
+Letra E: errada. É a accontability vertical que compreende o controle exercido pelos cidadãos por
+meio do voto.
+
+O gabarito é a letra C.
+
+
+
+
+                                                                                             46
+6 – Leitura Complementar – Práticas de Governança
+
+O Referencial Básico de Governança Organizacional do Tribunal de Contas da União traz um
+capítulo direcionado às Práticas de Governança.
+
+De acordo com o Referencial, cada um dos mecanismos de governança (Liderança, Estratégia e
+Controle) é composto de alguns componentes: 48
+
+
+
+
+Nesse sentido, o Referencial Básico destaca algumas práticas de governança relacionadas a cada
+um desses componentes. Vejamos:49
+
+
+
+
+48
+   Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados
+ao             TCU.             3a              versão,           Brasília:           2020.        Disponível             em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+49
+   Extraído e transcrito de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes
+jurisdicionados         ao         TCU.            3a       versão,         Brasília:       2020.     Disponível          em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+
+
+
+                                                                                                                      47
+Mecanismo Liderança
+
+“A OCDE (2018) destaca que a liderança é elemento crucial para promover a boa governança
+pública. O comprometimento dos agentes dos mais altos níveis políticos e gerenciais do setor
+público é essencial para o sucesso no desenvolvimento e implementação dos valores, estratégias,
+políticas e processos necessários à boa governança e à melhoria dos resultados que são entregues
+à sociedade.”
+
+Práticas relacionadas:
+
+
+
+Prática 1.1 - Estabelecer o modelo de governança.
+
+“O modelo de governança é a representação clara e pública de como funciona ou deveria
+funcionar a governança na organização.
+
+A prática de ‘estabelecer o modelo de governança’ consiste na definição de um conjunto de
+diretrizes (orientações), valores, processos e estruturas necessários para que as atividades de
+governança – avaliar, dirigir e monitorar a gestão – sejam desempenhadas de forma eficaz, de
+modo a possibilitar que a organização alinhe seus objetivos ao interesse público, gerencie seus
+riscos e entregue o valor esperado de forma íntegra, transparente e responsável. Esta prática
+engloba:
+
+      a) a identificação de instâncias internas e as de apoio à governança;
+
+      b) a garantia de fluxos de informações eficazes entre elas e as partes interessadas; e
+
+      c) a definição de processos de trabalho e atividades relacionados à avaliação, ao
+      direcionamento e ao monitoramento da organização
+
+
+
+Prática 1.2 - Promover a integridade.
+
+“Integridade diz respeito às ações organizacionais e comportamento do agente público,
+referindo-se à sua adesão e alinhamento consistente aos valores, princípios e normas éticas
+comuns para sustentar e priorizar o interesse público sobre os interesses privados (OCDE, 2017;
+2020).
+
+A prática de ‘promover a integridade’ diz respeito à definição e promoção dos valores da
+organização e dos padrões de comportamento esperados dos seus membros, a começar pelo
+comprometimento da liderança com esses valores e condutas. Possibilita à organização fomentar a
+integridade das suas atividades e a das pessoas que as executam, de modo a construir e preservar
+
+
+
+
+                                                                                               48
+sua imagem, reputação e credibilidade perante as partes interessadas (OCDE, 2017).”
+
+
+
+Prática 1.3 - promover a capacidade da liderança.
+
+“Os resultados de qualquer organização dependem das competências das pessoas que nela
+trabalham.
+
+Por isso, no contexto da governança, é fundamental mobilizar conhecimentos, habilidades e
+atitudes da liderança em prol da otimização dos resultados organizacionais. Assim, é importante
+que todos os dirigentes públicos (e os que os assessoram) sejam nomeados mediante processos
+transparentes e baseados em mérito; sejam responsabilizados pelo desempenho; e lhes sejam
+dadas oportunidades de desenvolver suas capacidades de liderança (OCDE, 2019)
+
+
+
+Mecanismo Estratégia
+
+“As organizações públicas e outros entes jurisdicionados ao TCU existem para produzir políticas,
+bens e serviços públicos, visando ao aumento, de forma sistêmica e integrada, do bem-estar social
+e das oportunidades aos cidadãos. Para isso é importante traçar claramente seus objetivos, definir
+sua estratégia de atuação, desdobrá-la em planos de ação e acompanhar sua implementação
+(BRASIL, 2010).”
+
+Práticas relacionadas:
+
+
+
+Prática 2.1 - Gerir riscos.
+
+“De acordo com o COSO (2017), o gerenciamento de riscos deve ser integrado ao planejamento
+estratégico da entidade por meio do processo de definição da estratégia e dos objetivos de
+negócios. Os objetivos de negócios permitem que a estratégia seja posta em prática e moldam o
+dia a dia das operações e prioridades da organização.
+
+A gestão de riscos serve para identificar e entender os riscos e manter as instâncias responsáveis
+informadas, para que as respostas aos riscos sejam apropriadas. Para isso, a organização precisa
+implantar estrutura de gestão de riscos adequada às suas necessidades, definir o processo de
+gestão de riscos e integrá-lo à gestão e à tomada de decisão, garantindo a alocação de recursos e a
+existência dos canais de comunicação necessários (ABNT, 2018).”
+
+
+
+
+                                                                                             49
+Prática 2.2 - Estabelecer a estratégia.
+
+“Kluyver e Pearce (2015) admitem que não há uma definição simples e descritiva para estratégia,
+mas conseguem apresentar as suas principais dimensões, declarando que a estratégia não é
+sinônimo de visão, missão, objetivos, prioridades e planos, e sim o resultado das escolhas feitas
+com o objetivo de criar e maximizar valor a longo prazo para as partes interessadas. É o resultado
+de escolhas sobre: a maneira como a organização irá atuar; quem serão seus clientes e quais
+necessidades deles serão atendidas; que benefícios tangíveis e intangíveis irá oferecer aos seus
+clientes e outras partes interessadas; como os recursos serão alocados, e redes de parcerias e
+capacidades internas serão desenvolvidas para apoiar a entrega desses benefícios; qual estrutura
+organizacional e políticas de gestão serão adotadas para apoiar a proposta de valor escolhida.
+
+Kaplan e Norton (2008) afirmam que o desenvolvimento da estratégia envolve o conhecimento da
+razão de existência da organização e o que ela busca para o futuro; o entendimento sobre o
+contexto em que ela está inserida, ou seja, seus ambientes interno e externo e o desempenho da
+estratégia existente; os riscos aos quais é capaz de se expor e as oportunidades que pode
+aproveitar; suas principais capacidades internas e seus gargalos; quem são suas partes
+interessadas e clientes, e qual proposta de valor a ser entregue a eles.”
+
+A liderança da organização é responsável por estabelecer a estratégia e deve incentivar o
+pensamento estratégico por meio de: desenvolver visão sistêmica do ambiente externo; construir
+sólida rede de relacionamentos de alto nível; atentar para oportunidades que possam potencializar
+os resultados organizacionais; fomentar o pensamento crítico; aproveitar as informações que
+surgem de canais informais na organização; incentivar a adoção de projetos-piloto (IBGC, 2017b).
+Devem ser evitados os inibidores do pensamento estratégico, tais como: excesso de atenção a
+assuntos operacionais; inércia em tempos de bonança; previsões estratégicas simplistas como
+projeções do passado.”
+
+
+
+Prática 2.3 - Promover a gestão estratégica.
+
+“Esta prática trata do desdobramento da estratégia nas diversas unidades organizacionais, e de
+sua execução e eventuais ajustes no planejamento. É a comunicação eficaz e implementação da
+estratégia, a fim de que o planejamento das operações esteja alinhado verticalmente com a
+estratégia organizacional e articulado horizontalmente com as demais unidades, de modo a gerar a
+sinergia necessária à entrega de valor pretendido. A prática é essencial para a execução da
+estratégia, pois cada unidade organizacional traduz os objetivos estratégicos em objetivos e metas
+para as suas respectivas áreas, desenvolvendo planos que apoiem as prioridades da organização.
+
+Kaplan e Norton (2008) destacaram que uma estratégia visionária não vinculada a excelentes
+processos operacionais e de governança é impossível de se implementar, e que o alinhamento das
+unidades organizacionais é fundamental para o sucesso na implementação da estratégia. O
+desdobramento da estratégia deve englobar as unidades de negócio, as quais devem apresentar
+
+
+
+
+                                                                                            50
+suas estratégias às unidades de suporte - como recursos humanos, finanças, contratações,
+tecnologia da informação - para explicar como elas podem contribuir para o alcance dos objetivos
+de negócio. As unidades de suporte alinham então seus objetivos às estratégias de negócios e à
+estratégia organizacional para atender de forma efetiva às necessidades de seus clientes internos
+(KAPLAN; NORTON, 2006).”
+
+
+
+Prática 2.4 - Monitorar o alcance dos resultados organizacionais.
+
+“Cabe à liderança a responsabilidade de implementar as formas de criação de valor para a
+sociedade, de acordo os propósitos de criação e as competências de sua organização.
+
+Segundo o Decreto 9.203/2017, art. 6º, parágrafo único, compete à alta administração
+implementar instâncias, mecanismos e práticas de governança, incluindo nesse arcabouço, no
+mínimo, formas de acompanhamento de resultados, soluções para melhoria do desempenho das
+organizações e instrumentos de promoção do processo decisório fundamentado em evidências.”
+
+
+
+Prática 2.5 - Monitorar o desempenho das funções de gestão.
+
+“Essa prática está diretamente relacionada à prática 2.3 “Promover a gestão estratégica”, pois o
+monitoramento do desempenho das funções de gestão pressupõe que os objetivos, indicadores
+e metas (específicas, mensuráveis, alcançáveis, relevantes e com prazos definidos) das unidades de
+negócio e de suporte estejam definidos, alinhados à estratégia organizacional, comunicados e
+alinhados entre elas. Kaplan e Norton (2006) citam os acordos de serviços estratégicos, que
+definem níveis de serviço, produtos e custos negociados entre as unidades de suporte e as
+unidades de negócio, como meios de alinhar os esforços dessas unidades e monitorar o
+desempenho.
+
+A liderança é responsável por monitorar o desempenho das funções de gestão e informar as
+partes interessadas acerca do desempenho organizacional. Para isso, recebe relatórios da gestão
+(atividade de “controlar” executada pela gestão).”
+
+
+
+Mecanismo Controle
+
+“Os cidadãos delegam ao setor público o poder para gerir os recursos públicos e alcançar os
+resultados esperados. Em contrapartida, as organizações do setor público devem prestar contas
+aos cidadãos, demonstrando que administraram os recursos a elas confiados em conformidade
+com os princípios éticos, diretrizes estabelecidas pelo governo e normas aplicáveis. Assim, o
+controle sobre como os recursos públicos estão sendo empregados e se as metas estão sendo
+atingidas é um requerimento da sociedade e só é viável se houver práticas de transparência e de
+
+
+
+
+                                                                                            51
+prestação de contas eficazes.
+
+Os cidadãos devem ter acesso a informações que lhes possibilitem conhecer o que acontece nas
+organizações e entender o que elas planejam fazer, o que têm realizado de fato e quais resultados
+têm alcançado, para poderem assim se posicionar a respeito. Além disso, os cidadãos devem estar
+convencidos de que eventuais desvios do interesse público serão devidamente apurados e
+tratados.
+
+A auditoria interna é instrumento essencial para proteger o valor das organizações públicas (e de
+outros entes jurisdicionados ao TCU) na entrega de bens, serviços e políticas públicas aos cidadãos,
+pois tem o papel de avaliar objetivamente a eficácia dos processos de governança
+implementados, a execução dos planos, orçamentos e programas de governo, e se as organizações
+gerenciam adequadamente os seus riscos adotando controles eficazes para minimizá-los.”
+
+Práticas relacionadas:
+
+
+
+Prática 3.1 - Promover a transparência.
+
+“Em 2017, o Decreto 9.203 definiu a transparência como princípio da governança pública, e
+estabeleceu, como uma das diretrizes da governança, a promoção da comunicação aberta,
+voluntária e transparente das atividades e dos resultados da organização, de maneira a fortalecer
+o acesso público à informação.
+
+Promover a transparência implica:
+
+      a) assegurar transparência ativa e passiva às partes interessadas, admitindo-se o sigilo,
+      como exceção, nos termos da lei.
+
+      b) disponibilizar os dados de forma aderente aos princípios de dados abertos, para facilitar
+      o manuseio e a análise das informações.
+
+
+
+Prática 3.2 - Garantir a accountability.
+
+“A liderança é responsável por garantir que a implementação do modelo de governança pública
+inclua mecanismos de accountability (prestação de contas e responsabilização), em contexto de
+transparência que lhes garanta a efetividade em direção ao interesse da sociedade e que garanta
+o acesso a todas as informações de interesse público, e não somente daquelas previamente
+obrigatórias por norma (IFAC, 2014; IBGC, 2015; OCDE, 2018).
+
+A INTOSAI declara que a accountability e a transparência são dois elementos importantes para a
+boa governança. Segundo a ISSAI 20, a transparência é uma força poderosa que, quando aplicada
+
+
+
+
+                                                                                              52
+de forma consistente, pode ajudar a combater a corrupção, melhorar a governança e promover a
+accountability (INTOSAI, 2010).
+
+Garantir a accountability é uma prática que está, portanto, diretamente relacionada à promoção
+da transparência (prática 3.1), existindo até uma sobreposição entre as duas, principalmente
+quanto ao primeiro elemento da accountability: a prestação de contas.
+
+Decidiu-se, no entanto, abordá-las separadamente neste Referencial para destacar que a
+promoção da transparência isoladamente não garante a accountability, pois esta última exige
+que os responsáveis informem e justifiquem suas decisões no que tange à gestão dos recursos
+públicos, e ainda que as estruturas e processos organizacionais garantam que eles sejam
+responsabilizados por suas ações.”
+
+
+
+Prática 3.3 - Avaliar a satisfação das partes interessadas.
+
+“Esta prática implica monitorar e avaliar a imagem da organização perante as partes
+interessadas, bem como a satisfação destas com bens, serviços e políticas sob responsabilidade da
+organização, cuidando que ações de melhoria sejam implementadas, sempre que necessário.
+
+A ABNT NBR ISO 9001:2015 (ABNT, 2015), que trata do sistema de gestão da qualidade, orienta
+que a organização deve determinar os requisitos para os produtos e serviços a serem por ela
+oferecidos, observando a regulamentação aplicável; e que deve monitorar a percepção dos
+clientes quanto ao grau em que suas necessidades e expectativas foram atendidas. Orienta ainda
+que as inconformidades identificadas, incluindo as provenientes de reclamações dos usuários,
+devem ter suas causas determinadas para que ações corretivas apropriadas sejam adotadas.”
+
+
+
+Prática 3.4 - Avaliar a satisfação das partes interessadas.
+
+A auditoria interna deve aumentar e proteger o valor organizacional, fornecendo avaliação,
+assessoria e conhecimento objetivos baseados em riscos. A atividade de auditoria interna agrega
+valor quando oferece maneiras de aprimorar os processos de governança, gestão de riscos e de
+controle (IIA, 2017).
+
+As expectativas para a função da auditoria interna, bem como seus objetivos e responsabilidades,
+devem ser acordados com a liderança e definidos formalmente no estatuto da auditoria. O
+estatuto deve ser aprovado pela liderança, e contemplar as regras de funcionamento e
+organização da auditoria; estabelecer o nível de autoridade adequado para o acesso a registros,
+propriedades físicas e pessoal; garantir a independência da atividade por meio do acesso direto e
+irrestrito à alta administração e reporte funcional ao conselho ou colegiado superior; tratar da
+objetividade dos seus membros e da avaliação e melhoria da qualidade das suas atividades (IIA,
+
+
+
+
+                                                                                           53
+2019).
+
+A atividade de auditoria presta serviços de avaliação e consultoria para apoiar a liderança na sua
+responsabilidade de supervisionar a gestão.”
+
+
+
+
+                                                                                            54
+                              RESUMO ESTRATÉGICO
+
+                                        Governabilidade
+
+A governabilidade se refere às condições sistêmicas gerais por meio das quais se dá o exercício do
+poder em determinada sociedade. É um conceito associado à capacidade política de governar e à
+legitimidade.
+
+
+
+    Legetimidade                           Legitimidade
+   democrática do                           política do                                  GOVERNABILIDADE
+       Estado                                Governo
+
+
+
+
+                                         Capacidade do governo para identificar problemas críticos e formular
+                                                     políticas adequadas ao seu enfrentamento
+
+        Três dimensões da              Capacidade governamental de mobilizar os meios e recursos necessários à
+         Governabilidade                      execução dessas políticas, bem como à sua implementação
+
+
+                                       Capacidade liderança do Estado, sem a qual as decisões tornam-se inócuas
+
+
+
+                                          Governança
+
+A governança trata-se da forma pela qual o Governo exerce o seu poder; ou ainda, a forma com
+que os recursos do Estado são gerenciados pelo Governo.
+
+Trata-se da capacidade do Governo de formular e implantar políticas públicas.
+
+
+
+      Capacidades                          Capacidade de
+        Técnica,                             implantar                                      GOVERNANÇA
+      Financeira e                            políticas
+       Gerencial                              públicas
+
+
+
+
+                                                                                                           55
+Princípios da Boa       Princípios da Boa                Princípios da Boa             Princípios da Governança
+   Governança              Governança                       Governança                          Pública
+ Banco Mundial              Canotilho                     Matias-Pereira                Decreto n.° 9.203/2017
+  Transparência          Transparência                   Relações Éticas                    Capacidade de resposta
+    Equidade               Coerência                      Conformidade                           Integridade
+  Accountability    Negociação e Participação             Transparência                         Confiabilidade
+                                                       Prestação de Contas                   Melhoria regulatória
+Responsabilidade              Eficácia
+                                                    Responsável (Accountabiliy)
+                                                                                            Prestação de contas e
+  Legitimidade       Democracia Participativa                      -
+                                                                                              responsabilidade
+   Eficiência                       -                              -                            Transparência
+   Probidade                        -                              -                                  -
+
+
+
+
+                                                Avaliar o ambiente, os cenários, o desempenho e os
+                                                            resultados atuais e futuros
+
+                       Básicas                  Direcionar e orientar a preparação, a articulação e a
+                     (principais)                        coordenação de políticas e planos
+
+                                                    Monitorar os resultados, o desempenho e o
+                                                       cumprimento das políticas e planos
+
+
+                                                       Definir o direcionamento estratégico
+
+      FUNÇÕES DA
+      GOVERNANÇA                                              Supervisionar a gestão
+
+
+                                                          Envolver as partes interessadas
+
+                    Outras funções
+                     (secundárias)                          Gerenciar riscos estratégicos
+
+                                                            Gerenciar conflitos internos
+
+                                                  Auditar e avaliar o sistema de gestão e controle
+
+                                                   Promover a transparência e a accountabilitty
+
+
+
+
+                                                                                                           56
+                                       Governabilidade x Governança
+
+
+
+
+                    GOVERNABILIDADE
+                        -Legitimidade                                    GOVERNANÇA
+                     -Capacidade Política                            -Capacidade Governativa
+                  -Exercício do Poder Político              -Maneira como os recursos são administrados
+              -Condições sistemicas mais "gerais"              -Forma como o governo exerce o poder
+                                                               -Capacidade do governo de formular e
+                                                                  implementar políticas públicas
+                                                              -Braço instrumental da governabilidade
+
+
+
+
+                                                    Accountability
+
+Accountability se refere ao dever que o administrador público possui de prestar contas,
+promovendo a transparência de suas ações e, como consequência, ser responsabilizado pelos atos
+de sua gestão.
+
+
+
+
+                                                                                                          57
+                                                          Informação
+
+                  Dimensões                               Justificação
+
+                                              Punição (sanção / responsabilização)
+
+
+                                                                 Fiscalização mútua entre Poderes ou entre Órgãos
+
+                               Horizontal                                   Ação entre iguais e autonomos
+ ACCOUNTABILITY
+
+                                                        Exemplos: atuação dos Tribunais de Contas e Controladorias-Gerais
+
+                                                                   Cidadãos controlam as ações dos governantes
+
+                  Tipos            Vertical                                      Ação entre desiguais
+
+                                                                            Exemplos: voto e a ação popular
+
+                                                             Controle exercidopor Entidades Sociais, ONG´s, mídia, etc.
+
+                                   Societal                                      Controle não eleitoral
+
+                                                                 Pressupõe a existência de liberdade de expressão
+
+
+
+                                                 Governança Corporativa
+
+Governança Corporativa é o sistema pelo qual as organizações são dirigidas, monitoradas e
+incentivadas, envolvendo os relacionamentos entre proprietários, Conselho de Administração,
+Diretoria e órgãos de controle. As boas práticas de Governança Corporativa convertem princípios
+em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o
+valor da organização, facilitando seu acesso a recursos e contribuindo para sua longevidade.
+
+
+                                                                                     Transparência
+
+
+                                                                                       Equidade
+              Princípios da Governança
+                     Corporativa
+                          (IBGC)
+                                                                         Prestação de Contas (Accountability)
+
+
+                                                                            Responsabilidade Corporativa
+
+
+
+
+                                                                                                                          58
+                               QUESTÕES COMENTADAS
+                     Questões sobre Governança, Governabilidade e Accountability.
+
+
+1. (FGV – Senado Federal - Analista Legislativo – Administração – 2022)
+
+  A governança pública diz respeito aos arranjos organizacionais que envolvem liderança,
+  estratégia e controle no direcionamento da gestão pública, com vistas à implementação de
+  políticas públicas e à prestação de serviços à sociedade.
+
+  Sobre as diretrizes e mecanismos para consecução da governança pública, analise as afirmativas
+  a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+  ( ) A governança pública deve assegurar o foco nos processos, não permitindo que a eventual
+  escassez de recursos leve a mudanças de prioridades ou inovações que redirecionem a ação
+  pública.
+
+  ( ) A governança pública deve estimular comportamentos dos agentes públicos que favoreçam a
+  liderança no exercício da governança, entre eles, estimulando a motivação e a integridade.
+
+  ( ) A governança pública deve assegurar as condições para uma gestão estratégica que, por meio
+  de seus serviços e/ou produtos, atinja o valor público pretendido.
+
+  ( ) A governança pública deve assegurar a melhor implementação das políticas públicas,
+  inclusive promovendo a integração entre diferentes esferas do setor público quando necessário.
+
+  As afirmativas são, na ordem apresentada, respectivamente
+
+  a) F, V, F e V.
+
+  b) V, V, F, e F.
+
+  c) F, F, V e V.
+
+  d) V, V, V e F.
+    e) F, V, V e V.
+
+Comentários:
+
+A primeira assertiva é a única que está errada. Isso, pois, de acordo com o Referencial Básico de
+Governança1, “a mera adoção burocrática de práticas, sem foco nos resultados, não conduz à boa
+governança e nem condiz com ela. Todas as práticas de governança servem para criar contextos
+favoráveis à entrega dos resultados esperados pelos cidadãos, com sustentabilidade.” Portanto, a
+governança deve assegurar o foco nos resultados.
+
+Portanto, o gabarito é a letra E.
+
+O gabarito é a letra E.
+
+2. (FGV – TCE-TO - Analista Técnico – 2022)
+
+    A governança pública implica o desenvolvimento de um conjunto de princípios, diretrizes,
+    mecanismos e suas práticas correspondentes. Por exemplo, a prática de definição e promoção
+    dos valores da organização e dos padrões de comportamento esperados dos seus membros, a
+    começar pelo comprometimento da liderança com esses valores e condutas. A prática descrita
+    no exemplo refere-se a:
+
+    a) assegurar a efetividade da auditoria;
+
+    b) avaliar a satisfação das partes interessadas;
+
+    c) gerenciar os riscos do negócio;
+
+    d) monitorar o alcance dos resultados;
+
+    e) promover a integridade.
+
+Comentários:
+
+De acordo com o Referencial Básico de Governança2, “a prática de ‘promover a integridade’ diz
+respeito à definição e promoção dos valores da organização e dos padrões de comportamento
+esperados dos seus membros, a começar pelo comprometimento da liderança com esses valores e
+condutas. Possibilita à organização fomentar a integridade das suas atividades e a das pessoas que
+
+
+
+1
+  Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados ao
+TCU.                3a              versão,                Brasília:           2020.              Disponível               em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+2
+  Extraído de TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes jurisdicionados ao
+TCU.                3a              versão,                Brasília:           2020.              Disponível               em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+as executam, de modo a construir e preservar sua imagem, reputação e credibilidade perante as
+partes interessadas (OCDE, 2017).”
+
+O gabarito é a letra E.
+
+3. (FGV – Prefeitura de Manaus - AM - Administrador Geral – 2022)
+
+     Analise o texto a seguir, retirado do sítio de internet Agência Senado.
+
+     “O processo de impeachment de Dilma Rousseff teve início em 2 de dezembro de 2015, quando
+     o ex-presidente da Câmara dos Deputados Eduardo Cunha deu prosseguimento ao pedido dos
+     juristas Hélio Bicudo, Miguel Reale Júnior e Janaína Paschoal. Com uma duração de 273 dias, o
+     caso se encerrou em 31 de agosto de 2016, tendo como resultado a cassação do mandato, mas
+     sem a perda dos direitos políticos de Dilma”.
+
+     À luz dos tipos de accountabilty, mecanismo que auxilia na responsabilização dos agentes do
+     Estado, é correto afirmar que o impeachment constitui essencialmente um exemplo de
+     accountability
+
+     a) vertical.
+
+     b) horizontal.
+
+     c) societal.
+
+     d) parcial.
+
+     e) integral.
+
+Comentários:
+
+O Impeachment consiste em “termo inglês que significa impugnação de mandato. É a destituição
+legal, por meio de processo no Poder Legislativo, do ocupante de cargo de presidente da
+República. O impeachment propriamente dito é de responsabilidade do Senado Federal, mas a
+Câmara dos Deputados precisa autorizar a instauração do processo. Essa autorização precisa ter o
+apoio de 342 deputados. Se o impeachment for aprovado, o presidente perderá o cargo e ficará
+inabilitado por oito anos para o exercício de função pública. A aprovação do impeachment precisa
+do apoio de 54 senadores.”3
+
+
+
+
+3
+    Fonte: Agência Senado
+Trata-se, portanto, de um exemplo de accountability horizontal (controle e fiscalização mútua
+existente entre os poderes). Ou seja, o Poder Legislativo controlando o Poder Executivo.
+
+O gabarito é a letra B.
+
+4. (FGV – Câmara de Aracaju - SE – Analista Administrativo – 2021)
+
+  Relacione os termos a seguir com os respectivos conceitos.
+
+  I. Governança
+
+  II. Governabilidade
+
+  III. Accountability
+
+  A. Capacidade de mobilização social e controle participativo, divisão de poder.
+
+  B. Capacidade política para legitimar as políticas públicas do país.
+
+  C. Capacidade técnica para viabilizar e implementar políticas públicas.
+
+  A relação correta é:
+
+  a) I – A; II – B; III –C;
+
+  b) I – C; II – B; III – A;
+
+  c) I – C; II – A; III – B;
+
+  d) I – B; II – C; III – A;
+
+  e) I – B; II – A; III – C.
+
+Comentários:
+
+Vejamos:
+
+A. Capacidade de mobilização social e controle participativo, divisão de poder. = III. Accountability
+
+B. Capacidade política para legitimar as políticas públicas do país. = II. Governabilidade
+
+C. Capacidade técnica para viabilizar e implementar políticas públicas. = I. Governança
+
+Portanto, o gabarito é a letra B.
+O gabarito é a letra B.
+
+5. (FGV – IMBEL – Supervisor - Administrador – 2021)
+
+  Ao eleger representantes por meio do voto, a população espera que eles promovam políticas
+  que sirvam ao interesse da sociedade. No decorrer dos respectivos mandatos, no entanto, nem
+  sempre esses representantes cumprem com o prometido, buscando muitas vezes maximizar os
+  interesses pessoais em detrimento dos sociais.
+
+  Com base na literatura sobre governança pública, assinale a opção que apresenta como é
+  conhecido esse desalinhamento.
+
+  a) Conflito de agência.
+
+  b) Accountability.
+
+  c) Problema dos feixes de contrato.
+
+  d) Externalidades positivas.
+
+  e) Free-riders.
+
+Comentários:
+
+O enunciado descreveu o conceito de Conflito de Agência. Ou seja, Conflito de Interesses
+(Divergência de Interesses) que ocorre entre os políticos/altos gestores (agente) e os cidadãos
+(principal).
+
+O gabarito é a letra A.
+
+6. (FGV – FUNSAÚDE - CE – Analista Administrativo – Administração – 2021)
+
+  Assinale a opção que melhor define o termo accountability.
+
+  a) A ideia de que os representantes do Estado devem prestar contas e ser responsabilizados por
+  seus atos.
+
+  b) A capacidade de um governo gerir recursos e implementar, de forma estruturada, políticas
+  públicas.
+
+  c) As condições materiais e sistêmicas necessárias para que um governo consiga exercer suas
+  funções precípuas com legitimidade.
+
+  d) O poder de garantir condições para que todos tenham acesso ao exercício universal dos
+  direitos civis.
+  e) A forma que permite a mobilização de meios necessários para o enfrentamento de problemas
+  críticos da sociedade.
+
+Comentários:
+
+Accountability é um termo bastante ligado à transparência. Trata-se, do dever que o
+administrador público possui de prestar contas, promovendo a transparência de suas ações e,
+como consequência, ser responsabilizado pelos seus atos de sua gestão.
+
+O gabarito é a letra A.
+
+7. (FGV – IMBEL – Supervisor - Administrador – 2021)
+
+  O termo accountability está associado à obrigação de prestação de contas e de
+  responsabilização dos gestores públicos. Assinale a opção que indica o tipo de accountability
+  que representa o controle mútuo entre os Poderes da República, a exemplo de quando o Poder
+  Judiciário fiscaliza o Poder Executivo.
+
+  a) Accountability social.
+
+  b) Accountability político.
+
+  c) Accountability vertical.
+
+  d) Accountability horizontal.
+
+  e) Accountability constitucional.
+
+Comentários:
+
+É a Accountability horizontal que ocorre por meio do controle e fiscalização mútua existente entre
+os poderes (sistema de freios e contrapesos), ou então entre os órgãos. Ou seja, está relacionada à
+prestação de contas que ocorre quando um dos poderes fiscaliza o outro (Congresso Nacional
+fiscaliza as contas do Presidente da República, por exemplo), ou quando um órgão fiscaliza o outro
+(Controladoria Geral da União fiscaliza um outro órgão do poder executivo federal, por exemplo).
+
+O gabarito é a letra D.
+
+8. (FGV – TCE-AM - Auditor Técnico de Controle Externo - Obras Públicas – 2021)
+
+  Os princípios básicos que definem as boas práticas de governança foram concebidos no âmbito
+  empresarial, mas podem ser aplicados em larga medida às entidades da administração pública.
+
+  No contexto da gestão pública, a adoção de políticas e ações que promovam justiça social entre
+  os habitantes de um território, com vistas ao bem-estar social, está associada ao princípio do(a):
+  a) accountability;
+
+  b) equidade;
+
+  c) prestação de contas;
+
+  d) responsabilidade;
+
+  e) transparência.
+
+Comentários:
+
+A assertiva trouxe o conceito de equidade.
+
+Trata-se de um dos princípios da boa governança de acordo com o Banco Mundial. Nesse sentido,
+promover a equidade é garantir as condições para que todos tenham acesso ao exercício de seus
+direitos civis - liberdade de expressão, de acesso à informação, de associação, de voto, igualdade
+entre gêneros -, políticos e sociais - saúde, educação, moradia, segurança.
+
+O gabarito é a letra B.
+
+9. (FGV – Prefeitura de Niterói – Auditor Municipal de Controle Interno – 2018)
+
+  A Administração Gerencial, após se difundir pelos principais países do Ocidente, ganhou força
+  no Brasil no final do século passado, deixando para trás um período marcado pela forte
+  presença da burocracia na Administração Pública. O advento da administração gerencial trouxe
+  à tona o conceito da accountability. O conceito de accountability está relacionado à ideia de que
+
+  a) o agente público deve prestar contas e se responsabilizar por suas ações.
+
+  b) o processo deve ser priorizado em relação ao resultado.
+
+  c) o desenvolvimento econômico está atrelado ao sigilo das informações governamentais.
+
+  d) o Estado deve ter uma orientação empreendedora e garantir os serviços básicos para os
+  cidadãos.
+
+  e) os limites entre o patrimônio público e privado são reduzidos.
+
+Comentários:
+
+Accountability consiste no dever do administrador público de prestar contas, promovendo a
+transparência de suas ações e, como consequência, ser responsabilizado pelos atos praticados
+em sua gestão.
+O gabarito é a letra A.
+
+10.   (FGV – Prefeitura de Niterói – Auditor Municipal de Controle Interno – 2018)
+
+  “Os dados disponíveis no Basômetro demonstram que a presidente Dilma Rousseff tem
+  enfrentado maiores dificuldades na articulação de interesses do governo junto ao Congresso,
+  especialmente na Câmara, em comparação aos governos FHC e Lula. Alguns de seus aliados
+  atribuem tal problema ao fato de a presidente fazer pouca interlocução política.”
+
+  O trecho apresentado, retirado do site do “Estadão”, representa um problema relacionado com
+  o conceito de:
+
+  a) governabilidade;
+
+  b) governança;
+
+  c) jurisdição;
+
+  d) economia;
+
+  e) legalidade.
+
+Comentários:
+
+O trecho está destacando a dificuldade do Governo Dilma em articular suas políticas com o
+Congresso Nacional, ou seja, da falta de apoio do Poder Legislativo. Trata-se, portanto, de um
+conceito relacionado à falta de governabilidade.
+
+O gabarito é a letra A.
+
+11.   (FGV – TJ-SC – Analista Administrativo – 2018)
+
+  Após quatro anos de uma gestão insatisfatória do prefeito do município “W”, conhecido pelo
+  slogan “rouba, mas faz”, a população decide votar no candidato da oposição na eleição
+  seguinte.
+
+  A atitude da população do município “W” representa um exemplo de aplicação de:
+
+  a) accountability vertical;
+
+  b) plebiscito;
+
+  c) controle interno;
+
+  d) ação popular;
+  e) tutela universal.
+
+Comentários:
+
+O enunciado da questão descreve um exemplo de accountability vertical.
+
+A accountability vertical ocorre quando os cidadãos controlam as ações dos governantes por meio
+do referendo, do plebiscito, do voto, ou então mediante o exercício do controle social.
+
+A “não reeleição” do candidato funciona como uma espécie de “´punição” pelos seus atos de
+gestão.
+
+O gabarito é a letra A.
+
+12.   (CESPE – SLU-DF – Analista - 2019)
+
+  A qualidade do marco regulatório de um país é mensurada por indicadores de governança
+  pública conforme os quais o governo deve ser capaz de implementar boas normas para
+  subsidiar a condução de políticas públicas.
+
+Comentários:
+
+Isso mesmo! A governança está relacionada à capacidade do governo de formular e implementar
+políticas públicas.
+
+Gabarito: correta.
+
+13.   (CESPE – SLU-DF – Analista - 2019)
+
+  Governabilidade consiste na capacidade absoluta de governar independentemente de apoio
+  popular ou político.
+
+Comentários:
+
+Nada disso!
+
+A governabilidade consiste no poder que um governo possui para governar, que advém de sua
+legitimidade democrática e do apoio (legitimidade política) que esse governo possui da sociedade
+civil (apoio popular) e do poder legislativo (apoio político).
+
+Gabarito: errada.
+
+14.   (CESPE – CGE-CE – Auditor de Controle Interno - 2019)
+     Governança em políticas públicas se refere aos arranjos institucionais que condicionam a forma
+     pela qual as políticas são formuladas, implementadas e avaliadas, em benefício da sociedade
+
+Comentários:
+
+Perfeito! A assertiva trouxe um conceito descrito pelo TCU: “governança em políticas públicas se
+refere aos arranjos institucionais que condicionam a forma pela qual as políticas são formuladas,
+implementadas e avaliadas, em benefício da sociedade”4.
+
+Gabarito: correta.
+
+15.       (CESPE – IPHAN – Analista - 2018)
+
+     Liderança, estratégia e controle são considerados exemplos de mecanismos de governança.
+
+Comentários:
+
+Isso mesmo! De acordo com o TCU, a governança é “um conjunto de mecanismos de liderança,
+estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão, com vistas à
+condução de políticas públicas e à prestação de serviços de interesse da sociedade”.
+
+Gabarito: correta.
+
+16.       (CESPE – IPHAN – Analista - 2018)
+
+     Considerado um elemento fundamental para o grau de governança democrática,
+     o accountability refere-se à capacidade financeira e gerencial do Estado de implementar
+     políticas públicas.
+
+Comentários:
+
+De fato, accountability é um dos princípios da boa governança.
+
+Contudo, a “capacidade financeira e gerencial do Estado de implementar políticas públicas” se
+refere ao conceito de governança.
+
+Accountability, por sua vez, se refere ao dever que o administrador público possui de prestar
+contas, promovendo a transparência de suas ações e, como consequência, ser responsabilizado
+pelos seus atos de sua gestão.
+
+Gabarito: errada.
+
+
+
+
+4
+    TCU (2014)
+17.   (CESPE – IPHAN – Analista - 2018)
+
+  Para mensurar a governança pública, recomenda-se aferir o grau de independência do
+  funcionalismo em relação às pressões políticas: quanto menor for o grau de independência,
+  melhor será o nível de governança.
+
+Comentários:
+
+É exatamente o contrário. Quanto menos independência (ou seja, quanto mais “amarrado” o
+governo estiver), menos ele conseguirá implementar suas políticas públicas. Portanto, menor será
+o nível de governança.
+
+Por outro lado, quanto mais independência (isto é, quanto mais “livre” o governo estiver), mais ele
+conseguira implementar suas políticas publicas. Então, maior será o nível de governança.
+
+Gabarito: errada.
+
+18.    (CESPE – EMAP – Analista - 2018)
+
+  As instâncias externas de governança são responsáveis por definir ou avaliar a estratégia e as
+  políticas, bem como por monitorar sua conformidade e o desempenho.
+
+Comentários:
+
+São as instâncias internas de governança que são responsáveis por definir e avaliar as políticas e a
+estratégia, bem como monitorar a conformidade e o desempenho destas.
+
+Gabarito: errada.
+
+19.   (CESPE – STJ – Técnico Judiciário - 2018)
+
+  O gestor público promove a governança ao prever o atendimento às práticas de accountability,
+  dimensão que se refere à capacidade de execução das ações gerenciais de um órgão público.
+
+Comentários:
+
+De fato, accountability é um dos princípios da boa governança. Contudo, a questão traz um
+conceito errado de accountability.
+
+A “capacidade de execução das ações gerenciais de um órgão público” é um conceito relacionado à
+governança.
+
+Accountability, por sua vez, se refere ao dever que o administrador público possui de prestar
+contas, promovendo a transparência de suas ações e, como consequência, ser responsabilizado
+pelos seus atos de sua gestão.
+Gabarito: errada.
+
+20.     (CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+    Entre os objetivos da boa governança no setor público incluem-se garantir que a organização
+    seja responsável com os cidadãos, mantendo-os, por meio da transparência, informados sobre
+    decisões e riscos.
+
+Comentários:
+
+Perfeito! De acordo com o Banco Mundial os princípios da boa governança são: Transparência,
+Equidade, Accountability, Responsabilidade, Legitimidade, Eficiência e Probidade.
+
+Nesse sentido, a assertiva relacionou, corretamente, a boa governança aos princípios da
+Responsabilidade, da Transparência e Accountability.
+
+Gabarito: correta.
+
+21.     (CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+    Estruturas de governança servem para maximizar conflitos, alinhar ações e trazer mais
+    segurança à instituição.
+
+Comentários:
+
+As estruturas de governança servem para melhorar o desempenho organizacional, reduzir
+conflitos, alinhar ações e trazer mais segurança para proprietários.
+
+Gabarito: errada.
+
+22.     (CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+    Entre os tipos de estruturas compreendidas pela governança incluem-se as estruturas
+    administrativa, política, econômica, social, ambiental, legal, as quais servem para garantir que as
+    partes interessadas definam objetivos e alcancem resultados.
+
+Comentários:
+
+Isso mesmo! A assertiva se baseou no conceito trazido pelo TCU no Guia Referencial5. Vejamos:
+
+
+
+
+5
+ IFAC (2013) apud TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2 a versão,
+Brasília:                                  2014.                               Disponível                                em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+Governança compreende a estrutura (administrativa, política, econômica, social, ambiental, legal e
+outras) posta em prática para garantir que os resultados pretendidos pelas partes interessadas
+sejam definidos e alcançados.
+
+Gabarito: correta.
+
+23.    (CESPE – ABIN – Oficial de Inteligência - 2018)
+
+  A accountability é o elemento que efetivamente proporciona maior vínculo entre constituintes e
+  representantes.
+
+Comentários:
+
+A accountability consiste no dever do administrador público de prestar contas, e como
+consequência, ser responsabilizado (responder) pelos seus atos praticados em sua gestão.
+
+Nesse sentido, pode-se dizer que a accountability proporciona um vínculo entre representados (o
+povo) e representantes (governantes).
+
+A assertiva “viajou” ao utilizar o termo “constituintes”.
+
+Gabarito: errada.
+
+24.   (CESPE – IPHAN – Analista - 2018)
+
+  Ética, transparência e responsabilidade social são os princípios que sustentam o conceito de
+  governança na gestão pública.
+
+Comentários:
+
+Isso mesmo! A questão se baseou nos princípios da boa governança elencados por Matias-Pereira:
+Relações éticas, Conformidade, Transparência e Prestação de Contas Responsável.
+
+Gabarito: correta.
+
+25.   (CESPE – TCE-PB – Auditor de Contas Públicas - 2018)
+
+  A governança na gestão pública envolve o gerenciamento de recursos humanos, econômicos e
+  sociais com o propósito de gerar
+
+  a) controle social.
+
+  b) economicidade.
+
+  c) transparência.
+    d) accountability.
+
+    e) desenvolvimento.
+
+Comentários:
+
+Pois é, meu amigo! Essa questão costuma deixar os alunos com bastante dúvida.
+
+De fato, várias alternativas trazem conceitos relacionados à governança.
+
+Contudo, o que a questão nos pede é o propósito final (o objetivo) da governança. Nesse sentido,
+sabemos que a governança é o instrumento operacional para que as políticas públicas sejam
+implementadas. As políticas públicas, por sua vez, são implementadas para que ocorra o
+desenvolvimento econômico e social do país.
+
+Perceba, ainda, que a assertiva se baseou no conceito de governança proposto pelo Banco
+Mundial: governança é “a maneira pela qual o poder é exercido na administração dos recursos
+econômicos e sociais do país, com vistas ao desenvolvimento”.
+
+O gabarito é a letra E.
+
+26.     (CESPE – TCE-PE – Analista de Controle Externo - 2017)
+
+    Os problemas de governabilidade decorrem do excesso de democracia e do peso exagerado das
+    demandas sociais.
+
+Comentários:
+
+Pelo contrário! A legitimidade democrática é um dos pressupostos da governabilidade.
+
+Quando o governo não possui a legitimidade perante os cidadãos (por exemplo, no caso de uma
+ruptura dos princípios democráticos) é que surgem os problemas de governabilidade.
+
+De acordo com Bresser-Pereira, “os problemas de governabilidade não decorrem de ‘excesso de
+democracia’, do peso excessivo das demandas sociais, mas da falta de um pacto político ou de
+uma coalizão de classes que ocupe o centro do espectro político.”6
+
+Gabarito: errada.
+
+
+
+
+6
+  BRESSER PEREIRA, Luiz Carlos. Da administração pública burocrática à gerencial. Brasília, Revista do
+Serviço Público. Ano 47. Volume 120. Número 1. Jan-Abr-1996.
+27.   (CESPE – TCE-PE – Analista de Controle Externo - 2017)
+
+  Em um estado de direito, a accountability vertical ou democrática, entendida como a que ocorre
+  entre os diversos níveis de poder e sujeita à possibilidade de controle mútuo, é profícua no
+  fortalecimento de ações contra a corrupção.
+
+Comentários:
+
+Nada disso! A accountability vertical (democrática) ocorre quando os cidadãos controlam as ações
+dos governantes por meio do referendo, do plebiscito, do voto, ou então mediante o exercício do
+controle social.
+
+A assertiva trouxe características da accontability horizontal, ou seja, aquela que ocorre por meio
+do controle e fiscalização mútua existente entre os poderes, ou então entre os órgãos.
+
+Gabarito: errada.
+
+28.   (CESPE – TCE-PE – Analista de Controle Externo - 2017)
+
+  Acerca do conceito de accountability aplicado à administração pública, julgue o próximo item.
+
+  Trata-se de um mecanismo institucional por meio do qual os governantes são constrangidos a
+  responder, ininterruptamente, por seus atos ou omissões à sociedade.
+
+Comentários:
+
+Isso mesmo! A questão trouxe uma redação um pouco mais robuscada, no sentido de tentar
+confundir o candidato. Contudo, o conceito de accountability é exatamente esse trazido pela
+assertiva. Veja só:
+
+Accountability é um mecanismo institucional de prestação de contas e responsabilização, por meio
+do qual os governantes são constrangidos (forçados) a reponderem (prestarem contas)
+ininterruptamente (constantemente, continuamente) pelos seus atos ou omissões.
+
+Gabarito: correta.
+
+29.   (CESPE – TCE-PR – Analista de Controle – 2017 - ADAPTADA)
+
+  Governança na administração pública está relacionada ao uso do poder expresso por meio da
+  obrigação de prestar contas, enquanto accountability está relacionada à capacidade de
+  governar, decidir e implantar políticas públicas.
+
+Comentários:
+
+A assertiva inverteu os dois conceitos.
+É a governança que está relacionada à capacidade de governar, decidir e implantar políticas
+públicas. E a accountability, por sua vez, relaciona-se à obrigação de prestar contas.
+
+Gabarito: errada.
+
+30.   (CESPE – TRE-PE – Analista Judiciário - 2017)
+
+  Governança pública refere-se à forma de gerenciamento de recursos de um país. Um de seus
+  princípios basilares é a
+
+  a) transparência, que envolve a disponibilização de informações como estratégia de combate à
+  corrupção.
+
+  b) cidadania, que é obtida com a participação compulsória de cidadãos em conselhos populares.
+
+  c) accountability, que se refere à capacidade do Estado de executar sua gestão e implementar
+  políticas públicas.
+
+  d) responsabilidade civil, que se refere à pressão popular para o cumprimento das normas da
+  administração pública.
+
+  e) economia de custos, o que exige que o Estado privilegie o menor custo em todas as suas
+  compras e contratos.
+
+Comentários:
+
+Letra A: correta. Isso mesmo. A transparência é um dos princípios basilares da governança. Nesse
+sentido, a disponibilização das informações (transparência), de fato, funciona como uma estratégia
+de combate à corrupção.
+
+Letra B: errada. Com efeito, a participação dos cidadãos deve ser estimulada. Contudo, essa
+participação não é compulsória.
+
+Letra C: errada. De fato, a accountability é um dos princípios da governança. Contudo, a assertiva
+descreveu o conceito de governança, qual seja: “capacidade do Estado de executar sua gestão e
+implementar políticas públicas”.
+
+Letra D: errada. A pressão popular para o cumprimento das normas da administração pública é
+realizada através da accountability vertical ou então da accountability societal.
+
+Letra E: errada. A economia de custos não é um dos princípios da governança. Além disso, não é
+sempre que o menor custo trará as melhores contratações. Também devem ser observados
+padrões de qualidade nas contratações, e não apenas o custo.
+
+O gabarito é a letra A.
+31.   (CESPE – TCE-SC – Auditor Fiscal de Controle Externo - 2016)
+
+  Na administração pública, o termo accountability inclui a obrigação de os agentes públicos
+  prestarem contas, a utilização de boas práticas de gestão e a responsabilização pelos atos e
+  resultados decorrentes da utilização de recursos públicos.
+
+Comentários:
+
+A questão trouxe corretamente o conceito de accountability.
+
+Gabarito: correta.
+
+32.   (CESPE – FUNPRESP-EXE – Analista – 2016)
+
+  O princípio de accountability estabelece que os agentes de governança devem prestar contas de
+  sua atuação e responder integralmente por todos os atos praticados no exercício de suas
+  funções.
+
+Comentários:
+
+Isso mesmo! A accountability consiste no dever do administrador público de prestar contas, e
+como consequência, ser responsabilizado (responder) pelos seus atos praticados em sua gestão.
+
+Gabarito: correta.
+
+33.   (CESPE – TER-PI – Analista – 2016 - ADAPTADA)
+
+  A governança pública é caracterizada pelo atendimento dos interesses dos cidadãos por meio da
+  implantação de políticas públicas, preservando-se o equilíbrio financeiro e os interesses do
+  governo.
+
+Comentários:
+
+Isso mesmo! A governança está relacionada à implementação das políticas públicas para,
+consequentemente, atender aos interesses dos cidadãos.
+
+Gabarito: correta.
+
+34.   (CESPE – TRE-PI – Analista – 2016 - ADAPTADA)
+
+  Governabilidade refere-se à capacidade de governar, à eficiência na gestão da máquina pública
+  e à implantação das políticas públicas.
+
+Comentários:
+A assertiva trouxe características relacionadas à governança.
+
+Gabarito: errada.
+
+35.   (CESPE – TCE-PR – Analista de Controle – 2016 - ADAPTADA)
+
+  As instâncias externas de governança responsáveis pelo exercício de fiscalização e controle são
+  autônomas, mas podem depender de outras organizações.
+
+Comentários:
+
+As instâncias externas de governança são responsáveis pela fiscalização, pelo controle e pela
+regulação. São autônomas e independentes.
+
+Gabarito: errada.
+
+36.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  A adoção do accountability governamental minimiza a responsabilização dos governantes,
+  devido à eficiência das tecnologias utilizadas para sistematizar os meios de prestação de contas.
+
+Comentários:
+
+Pelo contrário! A accountability fortalece o dever de prestar contas e a consequente
+responsabilização dos governantes pelos atos praticados em sua gestão.
+
+Gabarito: errada.
+
+37.   (CESPE – TCU – Auditor Federal de Controle Externo – 2015)
+
+  Accountability consiste no dever do cidadão de realizar o controle social da administração
+  pública.
+
+Comentários:
+
+Veja bem: o dever de ser transparente e de prestar contas é dos agentes da administração
+pública.
+
+O cidadão tem o direito de ter acesso a essas informações, bem como à prestação de contas
+efetuada pelos administradores públicos. Ou seja, tem o direito (e não o dever) de realizar o
+controle social da administração pública.
+
+Gabarito: errada.
+
+38.   (CESPE – CGE-PI – Auditor Governamental – 2015)
+  Para a administração pública, governabilidade e governança são sinônimos e se referem, como
+  conceito, às condições e à legitimidade do governo perante a sociedade.
+
+Comentários:
+
+Nada disso! Governabilidade e governança não se confundem, ou seja, não são sinônimos.
+
+Governabilidade é a capacidade política de governar, derivada da legitimidade exercida pelo
+governo e do grau de exercício da autoridade política para fazer-acontecer as decisões.
+
+A governança, por sua vez, está relacionada à capacidade do governo de formular e implementar
+políticas públicas. A governança é um instrumento/meio/forma através da qual o governo exerce
+sua governabilidade
+
+Gabarito: errada.
+
+39.   (CESPE – FUFRAMA – Analista Técnico – 2014)
+
+  Accountability se refere às condições de um Estado para uso de sua autoridade política na
+  proposição de políticas públicas.
+
+Comentários:
+
+É a governabilidade que se refere ao grau de exercício da autoridade política para fazer-acontecer
+as decisões.
+
+Accountability, por sua vez, consiste no dever do administrador público de prestar contas, e como
+consequência, ser responsabilizado (responder) pelos seus atos praticados em sua gestão.
+
+Gabarito: errada.
+
+40.    (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  Nos debates entre as concepções sobre governabilidade e governança, presentes na atualidade,
+  marque 1 para a assertiva que define governabilidade, e, 2 para a assertiva que traz a definição
+  sobre governança.
+
+  ( ) Diz respeito à capacidade governativa em sentido amplo.
+
+  ( ) Capacidade de ação estatal na implementação das políticas e na consecução de metas
+  coletivas.
+
+  ( ) Refere-se às condições sistêmicas mais gerais sob as quais se dá o exercício do poder em uma
+  sociedade.
+  ( ) Exercício da capacidade alargada de gestão das politicas públicas e do controle social sobre
+  seus efeitos.
+
+  ( ) Compreende a forma de governo, as relações entre os poderes, o sistema partidário e o
+  equilíbrio entre as forças políticas de oposição e situação.
+
+  Preenche corretamente as lacunas acima, de cima para baixo,
+
+  a) 1 - 2 - 1 - 2 - 2
+
+  b) 2 - 1 - 2 - 1 - 2
+
+  c) 1 - 2 - 1 - 2 - 1
+
+  d) 2 - 2 - 1 - 2 - 1
+
+  e) 1 - 1 - 2 - 2 - 1
+
+Comentários:
+
+Excelente questão para colocarmos em prática os conhecimentos acerca das diferenças entre
+governabilidade e governança. Vejamos cada uma das assertivas:
+
+(2) Diz respeito à capacidade governativa em sentido amplo.
+
+A Governança refere-se à capacidade governativa, em sentido mais amplo, envolvendo a
+capacidade da ação estatal de implantação das políticas e na consecução das metas coletivas.
+
+(2) Capacidade de ação estatal na implementação das políticas e na consecução de metas
+coletivas.
+
+Mais uma vez, é a Governança que se refere à capacidade governativa, em sentido mais amplo,
+envolvendo a capacidade da ação estatal de implantação das políticas e na consecução das metas
+coletivas.
+
+(1) Refere-se às condições sistêmicas mais gerais sob as quais se dá o exercício do poder em uma
+sociedade.
+
+A governabilidade se refere às condições sistêmicas mais gerais, por meio das quais se dá o
+exercício do poder em dada sociedade.
+
+(2) Exercício da capacidade alargada de gestão das políticas públicas e do controle social sobre
+seus efeitos.
+
+É a governança que está relacionada à capacidade de gestão das políticas publicas.
+(1) Compreende a forma de governo, as relações entre os poderes, o sistema partidário e o
+equilíbrio entre as forças políticas de oposição e situação.
+
+É a governabilidade que se refere às condições sistêmicas mais gerais, por meio das quais se dá o
+exercício do poder em dada sociedade, como a forma de governo, as relações entre os poderes,
+os sistemas partidários etc.
+
+O gabarito é a letra D.
+
+41.   (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  O conceito de accountability aplicado ao setor público, entre uma de suas acepções correntes,
+  corresponde à
+
+  a) relação de legitimidade dos governantes para o exercício do poder.
+
+  b) capacidade dos governantes de decidir e implementar políticas públicas.
+
+  c) prestação de contas pelos agentes públicos aos cidadãos e responsabilização por sua atuação.
+
+  d) aplicação de mecanismos privados na gestão financeira da Administração.
+
+  e) adoção do orçamento por resultados, a partir da convergência com normas de contabilidade
+  privada.
+
+Comentários:
+
+Accountability consiste no dever do administrador público de prestar contas, e como
+consequência, ser responsabilizado pelos seus atos.
+
+A “letra A” traz um conceito de governabilidade. A “letra B” se refere à governança.
+
+O gabarito é a letra C.
+
+42.   (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  Os conceitos de governança e governabilidade ganharam bastante ênfase nos últimos anos,
+  sendo que
+
+  a) ambos os conceitos estão ligados ao exercício do poder, sendo que a governabilidade é
+  aferida através do voto e a governança se expressa e pode ser medida mediante instrumentos
+  de participação popular.
+  c) governança é um conceito aplicável exclusivamente às organizações privadas, o qual quando
+  transposto para o setor público, assume a conotação de governabilidade dada as peculiaridades
+  envolvidas nas relações públicas.
+
+  c) governabilidade possui caráter instrumental, representando as relações entre os agentes,
+  públicos e privados, que sustentam a governança enquanto condição de natureza estritamente
+  política.
+
+  d) governabilidade está ligada à capacidade política e às condições efetivas para governar
+  derivadas da relação de legitimidade do governo junto à sociedade, enquanto a governança
+  envolve o modo como o governo se organiza para atuar.
+
+  e) apenas a governança é um atributo da atuação administrativa, sendo a governabilidade um
+  efeito meramente circunstancial e exógeno.
+
+Comentários:
+
+Letra A: errada. De fato, ambos os conceitos estão relacionados o exercício do poder. A
+governabilidade se refere às condições sistêmicas gerais por meio das quais se dá o exercício do
+poder em determinada sociedade. A governança, por sua vez, relaciona-se é à maneira pela qual o
+poder é exercido na administração dos recursos econômicos e sociais do país.
+
+Contudo, a segunda parte da assertiva está errada. Governabilidade se refere à capacidade política
+de governar; ou seja, a governabilidade é resultante da relação de legitimidade do Estado (e do
+seu Governo) com a sociedade. Governança, ao seu turno, refere-se à capacidade governativa,
+em sentido mais amplo, envolvendo a capacidade da ação estatal de implantação das políticas e
+na consecução das metas coletivas.
+
+Letra B: errada. Nada disso! A governança é um conceito que também é aplicável à esfera pública.
+Além disso, governabilidade e governança são duas coisas diferentes, não se confundem.
+
+Letra C: errada. É a governança que possui caráter instrumental, ou seja, é o “braço operacional”
+da governabilidade.
+
+Letra D: correta. Questão perfeita!
+
+Letra E: errada. Nada disso! A governabilidade também é um atributo da atuação administrativa.
+
+O gabarito é a letra D.
+
+43.   (FCC – SEAD-AP – Assistente Administrativo – 2018)
+
+  Desde a reforma gerencial, que se consolidou nos anos de 1990, a Administração pública
+  passou, cada vez mais, a pautar-se pela busca da excelência e, nesse contexto, um dos conceitos
+  aplicáveis é o de accountability, que, em sua acepção corrente, está relacionado
+  a) ao aumento de produtividade no setor público, com redução de custos.
+
+  b) à transparência e prestação de contas pela Administração em relação às suas ações.
+
+  c) à aplicação das regras de contabilidade privada aos orçamentos públicos.
+
+  d) à remuneração dos servidores baseada em resultados e cumprimento de metas.
+
+  e) ao gerenciamento de serviços públicos por entidades privadas sem fins lucrativos.
+
+Comentários:
+
+Accountability consiste no dever do administrador público de prestar contas, promovendo a
+transparência de suas ações e, como consequência, ser responsabilizado pelos atos praticados
+em sua gestão.
+
+O gabarito é a letra B.
+
+44.       (FCC – Prefeitura de Macapá-AP – Administrador – 2018)
+
+  No que concerne aos conceitos de Governança e accountability em organizações públicas, tem-
+  se que:
+
+  I. Accountability diz respeito à prestação de contas aos cidadãos e responsabilização dos
+  agentes públicos.
+
+  II. Governança representa um aspecto instrumental da governabilidade e envolve os arranjos
+  institucionais para implementação de políticas públicas.
+
+  III. Ambos os conceitos são aspectos da atuação do poder público, a governança de natureza
+  política, e accountability de natureza contábil.
+
+  Está correto o que se afirma APENAS em
+
+  a) I e III.
+
+  b) I e II.
+
+  c) III.
+
+  d) II.
+
+  e) I.
+
+Comentários:
+A primeira assertiva está correta. De fato, accountability consiste no dever do administrador
+público de prestar contas à sociedade e, como consequência, ser responsabilizado pelos atos
+de sua gestão.
+
+A segunda assertiva está correta. Isso mesmo! A governança possui um caráter instrumental, ou
+seja, é o “braço operacional” da governabilidade.
+
+A terceira assertiva está errada. Quem tem “natureza política” é a governabilidade. A
+governança, por sua vez, tem “natureza governativa / instumental”.
+
+Além disso, a accountability está relacionada à transparência, prestação de contas, e
+responsabilização.
+
+O gabarito é a letra B.
+
+45.   (FCC – DPE-AM – Analista em Gestão Especializado em Defensoria – 2018)
+
+  Os conceitos de governança e de accountability, quando aplicados às organizações públicas,
+  dizem respeito, entre outros aspectos, respectivamente,
+
+  a) capacidade de implementar políticas públicas e responsabilização dos agentes públicos.
+
+  b) organograma representativo do conjunto de instituições que governam e indicadores de
+  desempenho fiscal.
+
+  c) índices de aprovação popular ou social e prestação de contas ao cidadão.
+
+  d) poder formal, outorgado com base na legislação e poder efetivo, decorrente da legitimidade
+  junto à sociedade.
+
+  e) sistema de freios e contrapesos entre os diferentes Poderes e gestão por resultados.
+
+Comentários:
+
+A Governança se refere à capacidade de implantação das políticas públicas.
+
+Accountability, ao seu turno, está relacionada à prestação de contas e responsabilização.
+
+O gabarito é a letra A.
+
+
+
+                          Questões sobre Governança Corporativa
+46.    (CESPE – FUNPRESP-EXE – Analista - 2016)
+  Com relação aos princípios fundamentais de governança corporativa, julgue o item a seguir.
+
+  Para o cumprimento do princípio da transparência, é suficiente que o agente limite-se a
+  informar suas diretrizes estratégicas.
+
+Comentários:
+
+Nada disso! O princípio da transparência consiste na ideia de disponibilizar para as partes
+interessadas todas aquelas informações que são do interesse dessas partes, e não apenas as
+informações relativas às diretrizes estratégias.
+
+Gabarito: errada.
+
+47.   (CESPE – FUNPRESP-EXE – Analista - 2016)
+
+  Com relação aos princípios fundamentais de governança corporativa, julgue o item a seguir.
+
+  A equidade, entendida como tratamento justo e igualitário a todas as partes interessadas, faz
+  parte dos princípios de governança corporativa.
+
+Comentários:
+
+De fato, segundo o IBGC, a equidade é um dos princípios da governança corporativa. A equidade
+caracteriza-se pelo tratamento justo e isonômico de todos os sócios e demais partes
+interessadas (stakeholders), levando em consideração seus direitos, deveres, necessidades,
+interesses e expectativas.
+
+Gabarito: correta.
+
+48.   (QUADRX – CRA-PR – Auxiliar Administrativo - 2019)
+
+  A governança corporativa é o modelo de administração em que a relação entre os diversos
+  agentes com interesse direto na empresa proporciona a adequada sustentação para o aumento
+  da atratividade da organização.
+
+Comentários:
+
+Isso mesmo! De acordo com o IBGC, Governança Corporativa é o sistema pelo qual as organizações
+são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre proprietários,
+Conselho de Administração, Diretoria e órgãos de controle. As boas práticas de Governança
+Corporativa convertem princípios em recomendações objetivas, alinhando interesses com a
+finalidade de preservar e otimizar o valor da organização, facilitando seu acesso a recursos e
+contribuindo para sua longevidade7.
+
+Gabarito: correta.
+
+49.        (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+     Um dos conceitos contemporâneos ligados à gestão de riscos no âmbito das organizações
+     públicas e privadas é o de compliance, que significa
+
+     a) mecanismo de aplicação de sanções aos responsáveis por condutas antiéticas e
+     responsabilização judicial.
+
+     b) compromisso com as finalidades institucionais, objetivando evitar o risco de baixa
+     produtividade.
+
+     c) controle de qualidade, focado na prevenção e tratamento dos riscos de perdas e de falhas de
+     produção.
+
+     d) atuação conforme as normas e regras fixadas, tendo como escopo evitar fraudes, ilícitos e
+     desvios de conduta.
+
+     e) governança corporativa, ou seja, o envolvimento de todos os stakeholders (agentes) no
+     processo decisório
+
+Comentários:
+
+Compliance significa agir de acordo com as regras e normas. Ou seja, obedecer e fazer cumprir as
+regras e as normas. Nesse sentido, “estar em compliance” significa estar em conformidade com as
+regras e as normas (tanto internas, quanto externas). Busca-se, assim, evitar desvios de condutas,
+ilícitos ou fraudes.
+
+O gabarito é a letra D.
+
+50.       (FUNRIO – CGE-RO – Assistente de Controle Interno - 2018)
+
+     São princípios básicos da boa prática de governança corporativa e gestão:
+
+     a) legalidade, legitimidade e transparência.
+
+     b) impessoalidade, competência, efetividade.
+
+
+
+
+7
+    IBGC (2014)
+  c) transparência, equidade, prestação de contas e responsabilidade.
+
+  d) eficiência, eficácia e competitividade.
+
+  e) competência, profissionalismo e formalidade.
+
+Comentários:
+
+De acordo com o IBGC os princípios da Governança Corporativa são: Transparência, Equidade,
+Prestação de Contas (Accountability) e Responsabilidade Corporativa.
+
+O gabarito é a letra C.
+
+51.    (FUNDATEC – Sulgás – Assistente de Serviços Administrativos - 2018)
+
+  Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas,
+  monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de
+  administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas. (Código
+  das Melhores Práticas de Governança Corporativa – Instituto Brasileiro de Governança
+  Corporativa – IBGC, 2015). Segundo o referido Código, são princípios básicos para governança
+  corporativa:
+
+  I. Transparência.
+
+  II. Equidade.
+
+  III. Prestação de contas (accountability).
+
+  IV. Responsabilidade corporativa.
+
+  Quais estão corretas?
+
+  a) Apenas I e III.
+
+  b) Apenas II e IV.
+
+  c) Apenas I, II e III.
+
+  d) Apenas II, III e IV.
+
+  e) I, II, III e IV.
+
+Comentários:
+
+De acordo com o IBGC os princípios da Governança Corporativa são: Transparência, Equidade,
+Prestação de Contas (Accountability) e Responsabilidade Corporativa.
+O gabarito é a letra E.
+
+52.    (FUNIVERSA – IF-PA – Tecnólogo em Gestão Pública - 2016)
+
+  Assinale a alternativa que apresenta um dos princípios básicos da Governança Corporativa.
+
+  a) sigilo de informações.
+
+  b) acúmulo de funções.
+
+  c) responsabilidade de governança pública.
+
+  d) segregação de pessoal.
+
+  e) prestação de contas (accountability).
+
+Comentários:
+
+De acordo com o IBGC os princípios da Governança Corporativa são: Transparência, Equidade,
+Prestação de Contas (Accountability) e Responsabilidade Corporativa.
+
+O gabarito é a letra E.
+
+53.   (FGV – DPE-MT – Administrador - 2015)
+
+  Os princípios básicos de governança corporativa, segundo o Instituto Brasileiro de Governança
+  Corporativa – IBGC, estão listados a seguir, à exceção de um. Assinale-o.
+
+  a) Transparência
+
+  b) Responsabilidade civil
+
+  c) Equidade
+
+  d) Prestação de contas
+
+  e) Responsabilidade corporativa.
+
+Comentários:
+
+De acordo com o IBGC os princípios da Governança Corporativa são: Transparência, Equidade,
+Prestação de Contas (Accountability) e Responsabilidade Corporativa.
+
+O gabarito é a letra B.
+54.   (FGV – CODEMIG – Analista de Desenvolvimento Econômico - 2015)
+
+  Conforme apresenta o Instituto Brasileiro de Governança Corporativa, os quatro princípios
+  básicos da governança corporativa são transparência, equidade, responsabilidade corporativa e
+  prestação de contas. Nesse contexto, o princípio da equidade significa que a organização:
+
+  a) não deve fugir às características especificadas pela sua missão;
+
+  b) deve tratar de forma igual e justa todos os seus acionistas;
+
+  c) deve realizar benchmarkings periódicos para manter a padronização dos processos;
+
+  d) deve garantir uma produção de bens ou serviços com base nas regras do ISO 9001;
+
+  e) deve buscar uma divisão igualitária de recursos para todos os seus funcionários.
+
+Comentários:
+
+O princípio da equidade caracteriza-se pelo tratamento justo e isonômico (igual) de todos os
+sócios (acionistas) e demais partes interessadas (stakeholders), levando em consideração seus
+direitos, deveres, necessidades, interesses e expectativas.
+
+O gabarito é a letra B.
+
+55.   (CESGRANRIO – LIQUIGÁS – Profissional Júnior - Adminsitração - 2015)
+
+  Governança Corporativa é um sistema que possui alguns princípios básicos. Existe um princípio
+  caracterizado por defender tratamento justo a todos os sócios bem como às demais partes
+  interessadas,    sendo     inaceitáveis    atitudes    ou      políticas     discriminatórias.
+
+  Esse princípio é conhecido como
+
+  a) accountability
+
+  b) equidade
+
+  c) prestação de contas
+
+  d) responsabilidade corporativa
+
+  e) transparência
+
+Comentários:
+O princípio da equidade caracteriza-se pelo tratamento justo e isonômico (igual) de todos os
+sócios (acionistas) e demais partes interessadas (stakeholders), levando em consideração seus
+direitos, deveres, necessidades, interesses e expectativas.
+
+O gabarito é a letra B.
+                                   LISTA DE QUESTÕES
+                     Questões sobre Governança, Governabilidade e Accountability.
+1. (FGV – Senado Federal - Analista Legislativo – Administração – 2022)
+
+  A governança pública diz respeito aos arranjos organizacionais que envolvem liderança,
+  estratégia e controle no direcionamento da gestão pública, com vistas à implementação de
+  políticas públicas e à prestação de serviços à sociedade.
+
+  Sobre as diretrizes e mecanismos para consecução da governança pública, analise as afirmativas
+  a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+  ( ) A governança pública deve assegurar o foco nos processos, não permitindo que a eventual
+  escassez de recursos leve a mudanças de prioridades ou inovações que redirecionem a ação
+  pública.
+
+  ( ) A governança pública deve estimular comportamentos dos agentes públicos que favoreçam a
+  liderança no exercício da governança, entre eles, estimulando a motivação e a integridade.
+
+  ( ) A governança pública deve assegurar as condições para uma gestão estratégica que, por meio
+  de seus serviços e/ou produtos, atinja o valor público pretendido.
+
+  ( ) A governança pública deve assegurar a melhor implementação das políticas públicas,
+  inclusive promovendo a integração entre diferentes esferas do setor público quando necessário.
+
+  As afirmativas são, na ordem apresentada, respectivamente
+
+  a) F, V, F e V.
+
+  b) V, V, F, e F.
+
+  c) F, F, V e V.
+
+  d) V, V, V e F.
+
+  e) F, V, V e V.
+2. (FGV – TCE-TO - Analista Técnico – 2022)
+
+  A governança pública implica o desenvolvimento de um conjunto de princípios, diretrizes,
+  mecanismos e suas práticas correspondentes. Por exemplo, a prática de definição e promoção
+  dos valores da organização e dos padrões de comportamento esperados dos seus membros, a
+  começar pelo comprometimento da liderança com esses valores e condutas. A prática descrita
+  no exemplo refere-se a:
+
+  a) assegurar a efetividade da auditoria;
+
+  b) avaliar a satisfação das partes interessadas;
+
+  c) gerenciar os riscos do negócio;
+
+  d) monitorar o alcance dos resultados;
+
+  e) promover a integridade.
+
+3. (FGV – Prefeitura de Manaus - AM - Administrador Geral – 2022)
+
+  Analise o texto a seguir, retirado do sítio de internet Agência Senado.
+
+  “O processo de impeachment de Dilma Rousseff teve início em 2 de dezembro de 2015, quando
+  o ex-presidente da Câmara dos Deputados Eduardo Cunha deu prosseguimento ao pedido dos
+  juristas Hélio Bicudo, Miguel Reale Júnior e Janaína Paschoal. Com uma duração de 273 dias, o
+  caso se encerrou em 31 de agosto de 2016, tendo como resultado a cassação do mandato, mas
+  sem a perda dos direitos políticos de Dilma”.
+
+  À luz dos tipos de accountabilty, mecanismo que auxilia na responsabilização dos agentes do
+  Estado, é correto afirmar que o impeachment constitui essencialmente um exemplo de
+  accountability
+
+  a) vertical.
+
+  b) horizontal.
+
+  c) societal.
+
+  d) parcial.
+
+  e) integral.
+
+4. (FGV – Câmara de Aracaju - SE – Analista Administrativo – 2021)
+
+  Relacione os termos a seguir com os respectivos conceitos.
+  I. Governança
+
+  II. Governabilidade
+
+  III. Accountability
+
+  A. Capacidade de mobilização social e controle participativo, divisão de poder.
+
+  B. Capacidade política para legitimar as políticas públicas do país.
+
+  C. Capacidade técnica para viabilizar e implementar políticas públicas.
+
+  A relação correta é:
+
+  a) I – A; II – B; III –C;
+
+  b) I – C; II – B; III – A;
+
+  c) I – C; II – A; III – B;
+
+  d) I – B; II – C; III – A;
+
+  e) I – B; II – A; III – C.
+
+5. (FGV – IMBEL – Supervisor - Administrador – 2021)
+
+  Ao eleger representantes por meio do voto, a população espera que eles promovam políticas
+  que sirvam ao interesse da sociedade. No decorrer dos respectivos mandatos, no entanto, nem
+  sempre esses representantes cumprem com o prometido, buscando muitas vezes maximizar os
+  interesses pessoais em detrimento dos sociais.
+
+  Com base na literatura sobre governança pública, assinale a opção que apresenta como é
+  conhecido esse desalinhamento.
+
+  a) Conflito de agência.
+
+  b) Accountability.
+
+  c) Problema dos feixes de contrato.
+
+  d) Externalidades positivas.
+
+  e) Free-riders.
+
+6. (FGV – FUNSAÚDE - CE – Analista Administrativo – Administração – 2021)
+  Assinale a opção que melhor define o termo accountability.
+
+  a) A ideia de que os representantes do Estado devem prestar contas e ser responsabilizados por
+  seus atos.
+
+  b) A capacidade de um governo gerir recursos e implementar, de forma estruturada, políticas
+  públicas.
+
+  c) As condições materiais e sistêmicas necessárias para que um governo consiga exercer suas
+  funções precípuas com legitimidade.
+
+  d) O poder de garantir condições para que todos tenham acesso ao exercício universal dos
+  direitos civis.
+
+  e) A forma que permite a mobilização de meios necessários para o enfrentamento de problemas
+  críticos da sociedade.
+
+7. (FGV – IMBEL – Supervisor - Administrador – 2021)
+
+  O termo accountability está associado à obrigação de prestação de contas e de
+  responsabilização dos gestores públicos. Assinale a opção que indica o tipo de accountability
+  que representa o controle mútuo entre os Poderes da República, a exemplo de quando o Poder
+  Judiciário fiscaliza o Poder Executivo.
+
+  a) Accountability social.
+
+  b) Accountability político.
+
+  c) Accountability vertical.
+
+  d) Accountability horizontal.
+
+  e) Accountability constitucional.
+
+8. (FGV – TCE-AM - Auditor Técnico de Controle Externo - Obras Públicas – 2021)
+
+  Os princípios básicos que definem as boas práticas de governança foram concebidos no âmbito
+  empresarial, mas podem ser aplicados em larga medida às entidades da administração pública.
+
+  No contexto da gestão pública, a adoção de políticas e ações que promovam justiça social entre
+  os habitantes de um território, com vistas ao bem-estar social, está associada ao princípio do(a):
+
+  a) accountability;
+
+  b) equidade;
+  c) prestação de contas;
+
+  d) responsabilidade;
+
+  e) transparência.
+
+9. (FGV – Prefeitura de Niterói – Auditor Municipal de Controle Interno – 2018)
+
+  A Administração Gerencial, após se difundir pelos principais países do Ocidente, ganhou força
+  no Brasil no final do século passado, deixando para trás um período marcado pela forte
+  presença da burocracia na Administração Pública. O advento da administração gerencial trouxe
+  à tona o conceito da accountability. O conceito de accountability está relacionado à ideia de que
+
+  a) o agente público deve prestar contas e se responsabilizar por suas ações.
+
+  b) o processo deve ser priorizado em relação ao resultado.
+
+  c) o desenvolvimento econômico está atrelado ao sigilo das informações governamentais.
+
+  d) o Estado deve ter uma orientação empreendedora e garantir os serviços básicos para os
+  cidadãos.
+
+  e) os limites entre o patrimônio público e privado são reduzidos.
+
+10.   (FGV – Prefeitura de Niterói – Auditor Municipal de Controle Interno – 2018)
+
+  “Os dados disponíveis no Basômetro demonstram que a presidente Dilma Rousseff tem
+  enfrentado maiores dificuldades na articulação de interesses do governo junto ao Congresso,
+  especialmente na Câmara, em comparação aos governos FHC e Lula. Alguns de seus aliados
+  atribuem tal problema ao fato de a presidente fazer pouca interlocução política.”
+
+  O trecho apresentado, retirado do site do “Estadão”, representa um problema relacionado com
+  o conceito de:
+
+  a) governabilidade;
+
+  b) governança;
+
+  c) jurisdição;
+
+  d) economia;
+
+  e) legalidade.
+
+11.   (FGV – TJ-SC – Analista Administrativo – 2018)
+  Após quatro anos de uma gestão insatisfatória do prefeito do município “W”, conhecido pelo
+  slogan “rouba, mas faz”, a população decide votar no candidato da oposição na eleição
+  seguinte.
+
+  A atitude da população do município “W” representa um exemplo de aplicação de:
+
+  a) accountability vertical;
+
+  b) plebiscito;
+
+  c) controle interno;
+
+  d) ação popular;
+
+  e) tutela universal.
+
+12.   (CESPE – SLU-DF – Analista - 2019)
+
+  A qualidade do marco regulatório de um país é mensurada por indicadores de governança
+  pública conforme os quais o governo deve ser capaz de implementar boas normas para
+  subsidiar a condução de políticas públicas.
+
+13.   (CESPE – SLU-DF – Analista - 2019)
+
+  Governabilidade consiste na capacidade absoluta de governar independentemente de apoio
+  popular ou político.
+
+14.   (CESPE – CGE-CE – Auditor de Controle Interno - 2019)
+
+  Governança em políticas públicas se refere aos arranjos institucionais que condicionam a forma
+  pela qual as políticas são formuladas, implementadas e avaliadas, em benefício da sociedade
+
+15.   (CESPE – IPHAN – Analista - 2018)
+
+  Liderança, estratégia e controle são considerados exemplos de mecanismos de governança.
+
+16.   (CESPE – IPHAN – Analista - 2018)
+
+  Considerado um elemento fundamental para o grau de governança democrática,
+  o accountability refere-se à capacidade financeira e gerencial do Estado de implementar
+  políticas públicas.
+
+17.   (CESPE – IPHAN – Analista - 2018)
+  Para mensurar a governança pública, recomenda-se aferir o grau de independência do
+  funcionalismo em relação às pressões políticas: quanto menor for o grau de independência,
+  melhor será o nível de governança.
+
+18.   (CESPE – EMAP – Analista - 2018)
+
+  As instâncias externas de governança são responsáveis por definir ou avaliar a estratégia e as
+  políticas, bem como por monitorar sua conformidade e o desempenho.
+
+19.   (CESPE – STJ – Técnico Judiciário - 2018)
+
+  O gestor público promove a governança ao prever o atendimento às práticas de accountability,
+  dimensão que se refere à capacidade de execução das ações gerenciais de um órgão público.
+
+20.   (CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+  Entre os objetivos da boa governança no setor público incluem-se garantir que a organização
+  seja responsável com os cidadãos, mantendo-os, por meio da transparência, informados sobre
+  decisões e riscos.
+
+21.   (CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+  Estruturas de governança servem para maximizar conflitos, alinhar ações e trazer mais
+  segurança à instituição.
+
+22.   (CESPE – CGM-João Pessoa – Técnico Municipal de Controle Interno - 2018)
+
+  Entre os tipos de estruturas compreendidas pela governança incluem-se as estruturas
+  administrativa, política, econômica, social, ambiental, legal, as quais servem para garantir que as
+  partes interessadas definam objetivos e alcancem resultados.
+
+23.   (CESPE – ABIN – Oficial de Inteligência - 2018)
+
+  A accountability é o elemento que efetivamente proporciona maior vínculo entre constituintes e
+  representantes.
+
+24.   (CESPE – IPHAN – Analista - 2018)
+
+  Ética, transparência e responsabilidade social são os princípios que sustentam o conceito de
+  governança na gestão pública.
+
+25.   (CESPE – TCE-PB – Auditor de Contas Públicas - 2018)
+  A governança na gestão pública envolve o gerenciamento de recursos humanos, econômicos e
+  sociais com o propósito de gerar
+
+  a) controle social.
+
+  b) economicidade.
+
+  c) transparência.
+
+  d) accountability.
+
+  e) desenvolvimento.
+
+26.   (CESPE – TCE-PE – Analista de Controle Externo - 2017)
+
+  Os problemas de governabilidade decorrem do excesso de democracia e do peso exagerado das
+  demandas sociais.
+
+27.   (CESPE – TCE-PE – Analista de Controle Externo - 2017)
+
+  Em um estado de direito, a accountability vertical ou democrática, entendida como a que ocorre
+  entre os diversos níveis de poder e sujeita à possibilidade de controle mútuo, é profícua no
+  fortalecimento de ações contra a corrupção.
+
+28.   (CESPE – TCE-PE – Analista de Controle Externo - 2017)
+
+  Acerca do conceito de accountability aplicado à administração pública, julgue o próximo item.
+
+  Trata-se de um mecanismo institucional por meio do qual os governantes são constrangidos a
+  responder, ininterruptamente, por seus atos ou omissões à sociedade.
+
+29.   (CESPE – TCE-PR – Analista de Controle – 2017 - ADAPTADA)
+
+  Governança na administração pública está relacionada ao uso do poder expresso por meio da
+  obrigação de prestar contas, enquanto accountability está relacionada à capacidade de
+  governar, decidir e implantar políticas públicas.
+
+30.   (CESPE – TRE-PE – Analista Judiciário - 2017)
+
+  Governança pública refere-se à forma de gerenciamento de recursos de um país. Um de seus
+  princípios basilares é a
+
+  a) transparência, que envolve a disponibilização de informações como estratégia de combate à
+  corrupção.
+  b) cidadania, que é obtida com a participação compulsória de cidadãos em conselhos populares.
+
+  c) accountability, que se refere à capacidade do Estado de executar sua gestão e implementar
+  políticas públicas.
+
+  d) responsabilidade civil, que se refere à pressão popular para o cumprimento das normas da
+  administração pública.
+
+  e) economia de custos, o que exige que o Estado privilegie o menor custo em todas as suas
+  compras e contratos.
+
+31.   (CESPE – TCE-SC – Auditor Fiscal de Controle Externo - 2016)
+
+  Na administração pública, o termo accountability inclui a obrigação de os agentes públicos
+  prestarem contas, a utilização de boas práticas de gestão e a responsabilização pelos atos e
+  resultados decorrentes da utilização de recursos públicos.
+
+32.   (CESPE – FUNPRESP-EXE – Analista – 2016)
+
+  O princípio de accountability estabelece que os agentes de governança devem prestar contas de
+  sua atuação e responder integralmente por todos os atos praticados no exercício de suas
+  funções.
+
+33.   (CESPE – TER-PI – Analista – 2016 - ADAPTADA)
+
+  A governança pública é caracterizada pelo atendimento dos interesses dos cidadãos por meio da
+  implantação de políticas públicas, preservando-se o equilíbrio financeiro e os interesses do
+  governo.
+
+34.   (CESPE – TRE-PI – Analista – 2016 - ADAPTADA)
+
+  Governabilidade refere-se à capacidade de governar, à eficiência na gestão da máquina pública
+  e à implantação das políticas públicas.
+
+35.   (CESPE – TCE-PR – Analista de Controle – 2016 - ADAPTADA)
+
+  As instâncias externas de governança responsáveis pelo exercício de fiscalização e controle são
+  autônomas, mas podem depender de outras organizações.
+
+36.   (CESPE – TRE-PI – Analista Judiciário – 2016 - ADAPTADA)
+
+  A adoção do accountability governamental minimiza a responsabilização dos governantes,
+  devido à eficiência das tecnologias utilizadas para sistematizar os meios de prestação de contas.
+
+37.   (CESPE – TCU – Auditor Federal de Controle Externo – 2015)
+  Accountability consiste no dever do cidadão de realizar o controle social da administração
+  pública.
+
+38.    (CESPE – CGE-PI – Auditor Governamental – 2015)
+
+  Para a administração pública, governabilidade e governança são sinônimos e se referem, como
+  conceito, às condições e à legitimidade do governo perante a sociedade.
+
+39.    (CESPE – FUFRAMA – Analista Técnico – 2014)
+
+  Accountability se refere às condições de um Estado para uso de sua autoridade política na
+  proposição de políticas públicas.
+
+40.    (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  Nos debates entre as concepções sobre governabilidade e governança, presentes na atualidade,
+  marque 1 para a assertiva que define governabilidade, e, 2 para a assertiva que traz a definição
+  sobre governança.
+
+  ( ) Diz respeito à capacidade governativa em sentido amplo.
+
+  ( ) Capacidade de ação estatal na implementação das políticas e na consecução de metas
+  coletivas.
+
+  ( ) Refere-se às condições sistêmicas mais gerais sob as quais se dá o exercício do poder em uma
+  sociedade.
+
+  ( ) Exercício da capacidade alargada de gestão das politicas públicas e do controle social sobre
+  seus efeitos.
+
+  ( ) Compreende a forma de governo, as relações entre os poderes, o sistema partidário e o
+  equilíbrio entre as forças políticas de oposição e situação.
+
+  Preenche corretamente as lacunas acima, de cima para baixo,
+
+  a) 1 - 2 - 1 - 2 - 2
+
+  b) 2 - 1 - 2 - 1 - 2
+
+  c) 1 - 2 - 1 - 2 - 1
+
+  d) 2 - 2 - 1 - 2 - 1
+
+  e) 1 - 1 - 2 - 2 - 1
+41.   (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  O conceito de accountability aplicado ao setor público, entre uma de suas acepções correntes,
+  corresponde à
+
+  a) relação de legitimidade dos governantes para o exercício do poder.
+
+  b) capacidade dos governantes de decidir e implementar políticas públicas.
+
+  c) prestação de contas pelos agentes públicos aos cidadãos e responsabilização por sua atuação.
+
+  d) aplicação de mecanismos privados na gestão financeira da Administração.
+
+  e) adoção do orçamento por resultados, a partir da convergência com normas de contabilidade
+  privada.
+
+42.   (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  Os conceitos de governança e governabilidade ganharam bastante ênfase nos últimos anos,
+  sendo que
+
+  a) ambos os conceitos estão ligados ao exercício do poder, sendo que a governabilidade é
+  aferida através do voto e a governança se expressa e pode ser medida mediante instrumentos
+  de participação popular.
+
+  c) governança é um conceito aplicável exclusivamente às organizações privadas, o qual quando
+  transposto para o setor público, assume a conotação de governabilidade dada as peculiaridades
+  envolvidas nas relações públicas.
+
+  c) governabilidade possui caráter instrumental, representando as relações entre os agentes,
+  públicos e privados, que sustentam a governança enquanto condição de natureza estritamente
+  política.
+
+  d) governabilidade está ligada à capacidade política e às condições efetivas para governar
+  derivadas da relação de legitimidade do governo junto à sociedade, enquanto a governança
+  envolve o modo como o governo se organiza para atuar.
+
+  e) apenas a governança é um atributo da atuação administrativa, sendo a governabilidade um
+  efeito meramente circunstancial e exógeno.
+
+43.   (FCC – SEAD-AP – Assistente Administrativo – 2018)
+
+  Desde a reforma gerencial, que se consolidou nos anos de 1990, a Administração pública
+  passou, cada vez mais, a pautar-se pela busca da excelência e, nesse contexto, um dos conceitos
+  aplicáveis é o de accountability, que, em sua acepção corrente, está relacionado
+  a) ao aumento de produtividade no setor público, com redução de custos.
+
+  b) à transparência e prestação de contas pela Administração em relação às suas ações.
+
+  c) à aplicação das regras de contabilidade privada aos orçamentos públicos.
+
+  d) à remuneração dos servidores baseada em resultados e cumprimento de metas.
+
+  e) ao gerenciamento de serviços públicos por entidades privadas sem fins lucrativos.
+
+44.        (FCC – Prefeitura de Macapá-AP – Administrador – 2018)
+
+  No que concerne aos conceitos de Governança e accountability em organizações públicas, tem-
+  se que:
+
+  I. Accountability diz respeito à prestação de contas aos cidadãos e responsabilização dos
+  agentes públicos.
+
+  II. Governança representa um aspecto instrumental da governabilidade e envolve os arranjos
+  institucionais para implementação de políticas públicas.
+
+  III. Ambos os conceitos são aspectos da atuação do poder público, a governança de natureza
+  política, e accountability de natureza contábil.
+
+  Está correto o que se afirma APENAS em
+
+  a) I e III.
+
+  b) I e II.
+
+  c) III.
+
+  d) II.
+
+  e) I.
+
+45.       (FCC – DPE-AM – Analista em Gestão Especializado em Defensoria – 2018)
+
+  Os conceitos de governança e de accountability, quando aplicados às organizações públicas,
+  dizem respeito, entre outros aspectos, respectivamente,
+
+  a) capacidade de implementar políticas públicas e responsabilização dos agentes públicos.
+
+  b) organograma representativo do conjunto de instituições que governam e indicadores de
+  desempenho fiscal.
+  c) índices de aprovação popular ou social e prestação de contas ao cidadão.
+
+  d) poder formal, outorgado com base na legislação e poder efetivo, decorrente da legitimidade
+  junto à sociedade.
+
+  e) sistema de freios e contrapesos entre os diferentes Poderes e gestão por resultados.
+
+
+
+                         Questões sobre Governança Corporativa
+46.   (CESPE – FUNPRESP-EXE – Analista - 2016)
+
+  Com relação aos princípios fundamentais de governança corporativa, julgue o item a seguir.
+
+  Para o cumprimento do princípio da transparência, é suficiente que o agente limite-se a
+  informar suas diretrizes estratégicas.
+
+47.   (CESPE – FUNPRESP-EXE – Analista - 2016)
+
+  Com relação aos princípios fundamentais de governança corporativa, julgue o item a seguir.
+
+  A equidade, entendida como tratamento justo e igualitário a todas as partes interessadas, faz
+  parte dos princípios de governança corporativa.
+
+48.   (QUADRX – CRA-PR – Auxiliar Administrativo - 2019)
+
+  A governança corporativa é o modelo de administração em que a relação entre os diversos
+  agentes com interesse direto na empresa proporciona a adequada sustentação para o aumento
+  da atratividade da organização.
+
+49.   (FCC – Prefeitura de Recife-PE – Analista de Planejamento, Orçamento e Gestão – 2019)
+
+  Um dos conceitos contemporâneos ligados à gestão de riscos no âmbito das organizações
+  públicas e privadas é o de compliance, que significa
+
+  a) mecanismo de aplicação de sanções aos responsáveis por condutas antiéticas e
+  responsabilização judicial.
+
+  b) compromisso com as finalidades institucionais, objetivando evitar o risco de baixa
+  produtividade.
+
+  c) controle de qualidade, focado na prevenção e tratamento dos riscos de perdas e de falhas de
+  produção.
+  d) atuação conforme as normas e regras fixadas, tendo como escopo evitar fraudes, ilícitos e
+  desvios de conduta.
+
+  e) governança corporativa, ou seja, o envolvimento de todos os stakeholders (agentes) no
+  processo decisório
+
+50.    (FUNRIO – CGE-RO – Assistente de Controle Interno - 2018)
+
+  São princípios básicos da boa prática de governança corporativa e gestão:
+
+  a) legalidade, legitimidade e transparência.
+
+  b) impessoalidade, competência, efetividade.
+
+  c) transparência, equidade, prestação de contas e responsabilidade.
+
+  d) eficiência, eficácia e competitividade.
+
+  e) competência, profissionalismo e formalidade.
+
+51.    (FUNDATEC – Sulgás – Assistente de Serviços Administrativos - 2018)
+
+  Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas,
+  monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de
+  administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas. (Código
+  das Melhores Práticas de Governança Corporativa – Instituto Brasileiro de Governança
+  Corporativa – IBGC, 2015). Segundo o referido Código, são princípios básicos para governança
+  corporativa:
+
+  I. Transparência.
+
+  II. Equidade.
+
+  III. Prestação de contas (accountability).
+
+  IV. Responsabilidade corporativa.
+
+  Quais estão corretas?
+
+  a) Apenas I e III.
+
+  b) Apenas II e IV.
+
+  c) Apenas I, II e III.
+
+  d) Apenas II, III e IV.
+  e) I, II, III e IV.
+
+52.    (FUNIVERSA – IF-PA – Tecnólogo em Gestão Pública - 2016)
+
+  Assinale a alternativa que apresenta um dos princípios básicos da Governança Corporativa.
+
+  a) sigilo de informações.
+
+  b) acúmulo de funções.
+
+  c) responsabilidade de governança pública.
+
+  d) segregação de pessoal.
+
+  e) prestação de contas (accountability).
+
+53.     (FGV – DPE-MT – Administrador - 2015)
+
+  Os princípios básicos de governança corporativa, segundo o Instituto Brasileiro de Governança
+  Corporativa – IBGC, estão listados a seguir, à exceção de um. Assinale-o.
+
+  a) Transparência
+
+  b) Responsabilidade civil
+
+  c) Equidade
+
+  d) Prestação de contas
+
+  e) Responsabilidade corporativa.
+
+54.     (FGV – CODEMIG – Analista de Desenvolvimento Econômico - 2015)
+
+  Conforme apresenta o Instituto Brasileiro de Governança Corporativa, os quatro princípios
+  básicos da governança corporativa são transparência, equidade, responsabilidade corporativa e
+  prestação de contas. Nesse contexto, o princípio da equidade significa que a organização:
+
+  a) não deve fugir às características especificadas pela sua missão;
+
+  b) deve tratar de forma igual e justa todos os seus acionistas;
+
+  c) deve realizar benchmarkings periódicos para manter a padronização dos processos;
+
+  d) deve garantir uma produção de bens ou serviços com base nas regras do ISO 9001;
+
+  e) deve buscar uma divisão igualitária de recursos para todos os seus funcionários.
+55.   (CESGRANRIO – LIQUIGÁS – Profissional Júnior - Administração - 2015)
+
+  Governança Corporativa é um sistema que possui alguns princípios básicos. Existe um princípio
+  caracterizado por defender tratamento justo a todos os sócios bem como às demais partes
+  interessadas,    sendo     inaceitáveis    atitudes    ou      políticas     discriminatórias.
+
+  Esse princípio é conhecido como
+
+  a) accountability
+
+  b) equidade
+
+  c) prestação de contas
+
+  d) responsabilidade corporativa
+
+  e) transparência
+                GABARITO
+1. Letra E    20. CORRETA   39. ERRADA
+2. Letra E    21. ERRADA    40. Letra D
+3. Letra B    22. CORRETA   41. Letra C
+4. Letra B    23. ERRADA    42. Letra D
+5. Letra A    24. CORRETA   43. Letra B
+6. Letra A    25. Letra E   44. Letra B
+7. Letra D    26. ERRADA    45. Letra A
+8. Letra B    27. ERRADA    46. ERRADA
+9. Letra A    28. CORRETA   47. CORRETA
+10. Letra A   29. ERRADA    48. CORRETA
+11. Letra A   30. Letra A   49. Letra D
+12. CORRETA   31. CORRETA   50. Letra C
+13. ERRADA    32. CORRETA   51. Letra E
+14. CORRETA   33. CORRETA   52. Letra E
+15. CORRETA   34. ERRADA    53. Letra B
+16. ERRADA    35. ERRADA    54. Letra B
+17. ERRADA    36. ERRADA    55. Letra B
+18. ERRADA    37. ERRADA
+19. ERRADA    38. ERRADA
+Referências Bibliográficas
+
+BRASIL. Decreto n.° 9.203/2017. Dispõe sobre a política de governança da administração pública federal
+direta, autárquica e fundacional.
+
+BRESSER PEREIRA, Luiz Carlos. Da administração pública burocrática à gerencial. Brasília, Revista do
+Serviço Público. Ano 47. Volume 120. Número 1. Jan-Abr-1996.
+
+BRESSER PEREIRA, Luiz Carlos. Plano Diretor da Reforma do Estado. Brasília, Presidência da República:
+1995.
+
+CARNEIRO, Carla Bronzo Ladeira. Governança e Accountability: Algumas Notas Introdutórias. Escola de
+Governo da Fundação João Pinheiro. Belo Horizonte: 2004.
+
+DIAS, Reinaldo. Gestão pública: aspectos atuais e perspectivas para atualização, São Paulo: Atlas, 2017.
+
+DINIZ, Eli. Globalização, Estado e Desenvolvimento: dilemas do Brasil no novo milênio. Rio de Janeiro,
+Editora FGV:2017.
+
+GONÇALVES, Alcindo. O Conceito de Governança. Conpedi: Manaus. Disponível                              em:
+http://www.publicadireito.com.br/conpedi/manaus/arquivos/anais/XIVCongresso/078.pdf
+
+IBCG, Código das Melhores Práticas de Governança Corporativa. 5ª Edição.
+
+MALACRIDA, Mara Jane Contrera, YAMAMOTO, Marina Mitiyo. Governança Corporativa: Nível de
+Evidenciação das Informações e sua Relação com a Volatilidade das Ações do Ibovespa. USP – Edição
+Comemorativa – p.65-79. Setembro/2006.
+
+MATIAS-PEREIRA, José. Administração Pública: foco nas instituições e ações governamentais, 5ª edição.
+São Paulo, Atlas: 2018.
+
+Ministério do Planejamento, SAE. Agenda Nacional de Gestão Pública. Disponível em:
+http://www.planejamento.gov.br/secretarias/upload/Arquivos/seges/091207_seges_agenda_gestao-
+1.pdf/@@download/file/091207_SEGES_agenda_gestao.pdf
+
+MOTA, Ana C.Y.H.A. Accountability no Brasil: os cidadãos e seus meios institucionais de controle dos
+representantes. Tese (Doutorado) – USP, São Paulo: 2006.
+
+PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019.
+
+TCU, Referencial Básico de Governança Organizacional para organizações públicas e outros entes
+jurisdicionados       ao      TCU.        3a      versão,      Brasília:   2020.     Disponível   em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A81881F7595543501762EB92E957799
+
+TCU, Referencial Básico de Governança: Aplicável a Órgãos e Entidades da Administração Pública, 2a
+versão,                   Brasília:                 2014.                  Disponível            em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B34D4A14347
+TCU, PORTARIA-TCU Nº 230 DE 25 DE AGOSTO DE 2014.
+

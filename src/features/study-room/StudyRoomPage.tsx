@@ -4,7 +4,7 @@ import { Card, Button, CarimboStatus, ProgressBar } from '../../components/UIPri
 import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
-import { getLessonContent } from '../../utils/studyContent';
+import { getLessonContent, getModulesForSubject, getModulePage, DisciplineModule, ModulePage } from '../../utils/studyContent';
 import { api } from '../../api/client';
 import { 
   UploadCloud, 
@@ -99,11 +99,13 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const [viewMode, setViewMode] = useState<'pdf' | 'notebook'>('notebook');
 
   // Study Progress & Page Tracking State
+  const [selectedModuleNumber, setSelectedModuleNumber] = useState<number>(1);
   const [currentPage, setCurrentPage] = useState<number>(1);
-  const [totalPages, setTotalPages] = useState<number>(45);
+  const [totalPages, setTotalPages] = useState<number>(5);
   const [isCompleted, setIsCompleted] = useState<boolean>(false);
   const [studyNotes, setStudyNotes] = useState<string>('');
   const [isSavingProgress, setIsSavingProgress] = useState<boolean>(false);
+  const readerTopRef = useRef<HTMLDivElement>(null);
 
   // Cadence State (Configurável: 60/30, 45/15, 50/10, 90/30 ou Custom)
   const [cadencePreset, setCadencePreset] = useState<CadencePreset>('60_30');
@@ -259,6 +261,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     if (careerSubjects.length > 0) {
       setSelectedSubject(careerSubjects[0].name);
       setUploadSubject(careerSubjects[0].name);
+      setSelectedModuleNumber(1);
       setSelectedCustomMaterial(null);
       setUserSelectedOption(null);
       setAnswered(false);
@@ -272,6 +275,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   // Ao trocar de disciplina
   const handleSubjectChange = (subjectName: string) => {
     setSelectedSubject(subjectName);
+    setSelectedModuleNumber(1);
     setSelectedCustomMaterial(null);
     setUserSelectedOption(null);
     setAnswered(false);
@@ -298,8 +302,28 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     fetchReadingPace(mat.id);
   };
 
+  const subjectModules = getModulesForSubject(selectedSubject);
+  const currentModule = subjectModules.find((m) => m.moduleNumber === selectedModuleNumber) || subjectModules[0] || {
+    moduleNumber: 1,
+    totalModules: 1,
+    title: `Módulo 01 • ${selectedSubject}`,
+    bancaTrend: '',
+    totalPages: 5,
+    pages: []
+  };
+
+  const activePage: ModulePage | null = !selectedCustomMaterial 
+    ? getModulePage(selectedSubject, currentModule.moduleNumber, currentPage) 
+    : null;
+
   const lesson = getLessonContent(selectedSubject);
-  const activeQuestion = lesson.question;
+  const activeQuestion = activePage?.question || lesson.question;
+
+  const scrollToReaderTop = () => {
+    if (readerTopRef.current) {
+      readerTopRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
 
   const handleSelectOption = (opt: string) => {
     if (answered) return;
@@ -307,6 +331,48 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setAnswered(true);
     if (opt === activeQuestion.answer) {
       success('Resposta Correta!', 'Excelente fixação no ponto do edital.', 10);
+    }
+  };
+
+  const handleSelectModule = (modNum: number) => {
+    setSelectedModuleNumber(modNum);
+    setCurrentPage(1);
+    setUserSelectedOption(null);
+    setAnswered(false);
+    scrollToReaderTop();
+  };
+
+  const handleSelectPageDirect = (pageNum: number) => {
+    setCurrentPage(pageNum);
+    setUserSelectedOption(null);
+    setAnswered(false);
+    scrollToReaderTop();
+  };
+
+  const handlePrevPage = () => {
+    setCurrentPage((prev) => {
+      const next = Math.max(1, prev - 1);
+      scrollToReaderTop();
+      return next;
+    });
+    setUserSelectedOption(null);
+    setAnswered(false);
+  };
+
+  const handleNextPage = () => {
+    setCurrentPage((prev) => {
+      const next = Math.min(effectiveTotalPages, prev + 1);
+      scrollToReaderTop();
+      return next;
+    });
+    setUserSelectedOption(null);
+    setAnswered(false);
+  };
+
+  const handleAdvanceToNextModule = () => {
+    if (selectedModuleNumber < subjectModules.length) {
+      handleSelectModule(selectedModuleNumber + 1);
+      success('🎉 Módulo Concluído!', `Avançando para o Módulo 0${selectedModuleNumber + 1}!`);
     }
   };
 
@@ -407,16 +473,6 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     }
   };
 
-  // Quick page controls
-  const handlePrevPage = () => {
-    setCurrentPage((prev) => Math.max(1, prev - 1));
-  };
-
-  const handleNextPage = () => {
-    setCurrentPage((prev) => Math.min(totalPages, prev + 1));
-  };
-
-  const effectiveTotalPages = selectedCustomMaterial?.theory_pages || totalPages || 45;
   const progressPercent = Math.min(100, Math.max(1, Math.round((currentPage / (effectiveTotalPages || 1)) * 100)));
 
   return (
@@ -536,6 +592,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           
           <Card className="p-5 sm:p-7 space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
             
+            {/* Anchor for smooth scroll */}
+            <div ref={readerTopRef} />
+
             {/* View Mode Bar & Smart Universal PDF Badges */}
             <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
               <div className="flex items-center gap-2">
@@ -566,7 +625,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   }`}
                 >
                   <BookOpen className="w-3.5 h-3.5" />
-                  <span>📝 Caderno de Doutrina</span>
+                  <span>📝 Caderno de Doutrina Paginado</span>
                 </button>
               </div>
 
@@ -595,6 +654,42 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               )}
             </div>
 
+            {/* SELETOR DE MÓDULOS DA DISCIPLINA (Sem PDF) */}
+            {!selectedCustomMaterial && subjectModules.length > 0 && (
+              <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+                <div className="flex items-center justify-between">
+                  <span className="text-[11px] font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider flex items-center gap-1.5">
+                    <ShieldCheck className="w-3.5 h-3.5" />
+                    <span>Módulos de {selectedSubject} ({subjectModules.length} Módulos Disponíveis)</span>
+                  </span>
+                  <span className="text-[10px] font-mono text-[var(--text-muted)]">
+                    Selecione o módulo para estudar:
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
+                  {subjectModules.map((mod) => {
+                    const isModActive = mod.moduleNumber === currentModule.moduleNumber;
+                    return (
+                      <button
+                        key={mod.moduleNumber}
+                        type="button"
+                        onClick={() => handleSelectModule(mod.moduleNumber)}
+                        className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold whitespace-nowrap transition-all flex items-center gap-1.5 shrink-0 ${
+                          isModActive
+                            ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                            : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] hover:text-[var(--text-primary)]'
+                        }`}
+                      >
+                        <span>Módulo 0{mod.moduleNumber}</span>
+                        {isModActive && <span className="text-[10px] opacity-80 font-normal">({currentPage}/5p)</span>}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+
             {/* Lesson Title & Module Meta */}
             <div className="space-y-2">
               <div className="flex items-center justify-between flex-wrap gap-2">
@@ -603,19 +698,50 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   <span>
                     {selectedCustomMaterial 
                       ? `PDF DA AULA • ${selectedCustomMaterial.subject}`
-                      : `MÓDULO 0${lesson.lessonNumber} DE ${lesson.totalLessons} • ${lesson.subject}`}
+                      : `MÓDULO 0${currentModule.moduleNumber} DE 0${currentModule.totalModules} • ${selectedSubject}`}
                   </span>
                 </span>
 
                 <CarimboStatus 
                   status={isCompleted ? "homologado" : "em_revisao"} 
-                  label={isCompleted ? "AULA CONCLUÍDA" : `EM LEITURA • PÁG ${currentPage}/${effectiveTotalPages}`} 
+                  label={isCompleted ? "MÓDULO CONCLUÍDO" : `EM LEITURA • PÁG ${currentPage}/${effectiveTotalPages}`} 
                 />
               </div>
 
               <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] tracking-tight">
-                {selectedCustomMaterial ? (selectedCustomMaterial.title || selectedCustomMaterial.filename) : lesson.topic}
+                {selectedCustomMaterial 
+                  ? (selectedCustomMaterial.title || selectedCustomMaterial.filename) 
+                  : currentModule.title}
               </h2>
+
+              {/* NAVEGADOR DE PÁGINAS DO MÓDULO (PÁGINAS 1 A 5) */}
+              {!selectedCustomMaterial && (
+                <div className="pt-2 flex items-center gap-1.5 overflow-x-auto scrollbar-none border-b border-[var(--border-subtle)] pb-3">
+                  {[
+                    { num: 1, label: '1. Doutrina & Fundamentos' },
+                    { num: 2, label: '2. Esquemas & Tabelas' },
+                    { num: 3, label: '3. Casos & Pegadinhas' },
+                    { num: 4, label: '4. Letra de Lei & Súmulas' },
+                    { num: 5, label: '5. Treino de Fixação' }
+                  ].map((p) => {
+                    const isPageActive = currentPage === p.num;
+                    return (
+                      <button
+                        key={p.num}
+                        type="button"
+                        onClick={() => handleSelectPageDirect(p.num)}
+                        className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all ${
+                          isPageActive
+                            ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border border-[var(--accent-primary)] shadow-xs'
+                            : 'text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]'
+                        }`}
+                      >
+                        {p.label}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
             </div>
 
             {/* Partial Reading Progress & Pace Intelligence Banner */}
@@ -663,135 +789,233 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               </div>
             ) : (
               /* ============================================================ */
-              /* VIEW 2: FORMATTED EDITORIAL DOCTRINE NOTEBOOK                */
+              /* VIEW 2: FORMATTED EDITORIAL DOCTRINE NOTEBOOK (PAGINADO)     */
               /* ============================================================ */
               <div className="space-y-6 text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
                 
-                {/* 1. Banca Trends & Jurisprudence Card */}
+                {/* 1. Banca Trends & Header Banner */}
                 <div className="p-4 sm:p-5 rounded-xl bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] space-y-2">
-                  <div className="flex items-center gap-2">
+                  <div className="flex items-center justify-between flex-wrap gap-2">
                     <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold uppercase tracking-wider">
-                      🎯 Tendência da Banca {currentCareer.banca}
+                      🎯 Tendência da Banca {currentCareer.banca} • {activePage?.category || 'Doutrina & Teoria'}
                     </span>
-                    <span className="text-[11px] font-mono text-[var(--text-muted)]">
-                      Incidência Histórica Alta
+                    <span className="text-[11px] font-mono text-[var(--text-muted)] font-bold">
+                      Página {currentPage} de {effectiveTotalPages}
                     </span>
                   </div>
                   <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans">
                     {selectedCustomMaterial 
                       ? (selectedCustomMaterial.summary || "Resumo e tópicos mais cobrados extraídos da apostila.")
-                      : lesson.jurisprudenceNote}
+                      : currentModule.bancaTrend || lesson.jurisprudenceNote}
                   </p>
                 </div>
 
-                {/* 2. Structured Section 1 (Doutrina Fundamental & Aprofundamento) */}
-                <div className="space-y-3 pt-2">
-                  <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                    <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--text-muted)] font-mono text-[10px] font-bold">
-                      SEÇÃO 01 • TEORIA ESSENCIAL
+                {/* 2. Structured Active Page Body */}
+                <div className="space-y-4 pt-1">
+                  <div className="flex items-center gap-2 pb-2 border-b border-[var(--border-subtle)]">
+                    <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                      PÁGINA 0{currentPage}
                     </span>
                     <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                      {lesson.section1Title}
+                      {activePage ? activePage.pageTitle : lesson.section1Title}
                     </h3>
                   </div>
 
+                  {/* Lead Text */}
+                  {activePage?.leadText && (
+                    <div className="p-3.5 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-medium text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed">
+                      💡 {activePage.leadText}
+                    </div>
+                  )}
+
+                  {/* Main Body Text */}
                   <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans whitespace-pre-line">
                     {selectedCustomMaterial?.content_text 
                       ? selectedCustomMaterial.content_text
-                      : lesson.section1Body}
+                      : (activePage ? activePage.bodyText : lesson.section1Body)}
                   </p>
 
-                  {lesson.deepDiveText && !selectedCustomMaterial && (
-                    <div className="p-4 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-2 mt-3">
-                      <div className="font-mono text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider">
-                        📖 Aprofundamento Teórico & Doutrina
+                  {/* Deep Dive Box */}
+                  {activePage?.deepDiveText && (
+                    <div className="p-4 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-2 mt-3 shadow-xs">
+                      <div className="font-mono text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider flex items-center gap-1.5">
+                        <BookOpen className="w-3.5 h-3.5" />
+                        <span>Aprofundamento Teórico & Doutrina</span>
                       </div>
                       <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line font-sans">
-                        {lesson.deepDiveText}
+                        {activePage.deepDiveText}
                       </p>
                     </div>
                   )}
-                </div>
 
-                {/* 3. Caderno Enxuto / Mnemônicos Estruturados */}
-                <div className="space-y-3 pt-2">
-                  <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
-                      SEÇÃO 02 • ESQUEMAS DE FIXAÇÃO
-                    </span>
-                    <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                      {lesson.section2Title || "Mnemônicos e Macetes da Banca"}
-                    </h3>
-                  </div>
-
-                  {selectedCustomMaterial?.caderno_enxuto ? (
-                    <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] whitespace-pre-line leading-relaxed font-sans">
-                      {selectedCustomMaterial.caderno_enxuto}
-                    </div>
-                  ) : (
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 font-mono text-xs">
-                      {lesson.mnemonics.map((m, idx) => (
-                        <div key={idx} className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                          <span className="text-[var(--accent-primary)] font-bold block">{m.code}:</span>
-                          <span className="text-[var(--text-secondary)] font-sans text-xs">{m.meaning}</span>
-                        </div>
-                      ))}
+                  {/* Tabela de Esquemas / Verdade (Se disponível) */}
+                  {activePage?.tableData && (
+                    <div className="mt-4 rounded-xl border border-[var(--border-subtle)] overflow-hidden shadow-xs">
+                      <div className="p-2.5 bg-[var(--bg-elevated)] border-b border-[var(--border-subtle)] font-mono text-xs font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <Layers className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+                        <span>Tabela Estrutural & Esquematização da Banca</span>
+                      </div>
+                      <div className="overflow-x-auto">
+                        <table className="w-full text-xs text-left border-collapse font-mono">
+                          <thead className="bg-[var(--bg-surface)] text-[var(--text-muted)] border-b border-[var(--border-subtle)]">
+                            <tr>
+                              {activePage.tableData.headers.map((h, i) => (
+                                <th key={i} className="p-2.5 font-bold">{h}</th>
+                              ))}
+                            </tr>
+                          </thead>
+                          <tbody className="divide-y divide-[var(--border-subtle)] bg-[var(--bg-base)]">
+                            {activePage.tableData.rows.map((row, rIdx) => (
+                              <tr key={rIdx} className="hover:bg-[var(--bg-elevated)]/50 transition-colors">
+                                {row.map((cell, cIdx) => (
+                                  <td key={cIdx} className="p-2.5 text-[var(--text-primary)]">{cell}</td>
+                                ))}
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
                     </div>
                   )}
+
+                  {/* Mnemônicos Estruturados */}
+                  {activePage?.mnemonics && activePage.mnemonics.length > 0 && (
+                    <div className="space-y-3 pt-3">
+                      <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                        <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                          ESQUEMAS DE FIXAÇÃO
+                        </span>
+                        <h4 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
+                          Mnemônicos e Regras de Ouro
+                        </h4>
+                      </div>
+
+                      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 font-mono text-xs">
+                        {activePage.mnemonics.map((m, idx) => (
+                          <div key={idx} className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                            <span className="text-[var(--accent-primary)] font-bold block">{m.code}:</span>
+                            <span className="text-[var(--text-secondary)] font-sans text-xs">{m.meaning}</span>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Casos Práticos & Pegadinhas */}
+                  {activePage?.practicalCases && activePage.practicalCases.length > 0 && (
+                    <div className="space-y-3 pt-3">
+                      <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                        <span className="px-2 py-0.5 rounded bg-amber-500/10 text-amber-500 font-mono text-[10px] font-bold">
+                          CASOS PRÁTICOS & PEGADINHAS
+                        </span>
+                        <h4 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
+                          Aplicação em Situações Hipotéticas da {currentCareer.banca}
+                        </h4>
+                      </div>
+
+                      <div className="grid grid-cols-1 gap-3">
+                        {activePage.practicalCases.map((pc, idx) => (
+                          <div key={idx} className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+                            <div className="text-xs font-bold font-mono text-[var(--text-primary)]">
+                              {pc.title}
+                            </div>
+                            <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
+                              {pc.scenario}
+                            </p>
+                            <div className="p-2.5 rounded-lg bg-amber-500/10 border border-amber-500/20 text-xs text-amber-500 font-mono">
+                              ⚡ <strong>Dica da Banca:</strong> {pc.tip}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Legislação Aplicada & Artigos de Ouro */}
+                  {activePage?.lawArticles && activePage.lawArticles.length > 0 && (
+                    <div className="space-y-3 pt-3">
+                      <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                        <span className="px-2 py-0.5 rounded bg-blue-500/10 text-blue-500 font-mono text-[10px] font-bold">
+                          LETRA DE LEI & SÚMULAS
+                        </span>
+                        <h4 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
+                          Dispositivos Normativos e Precedentes
+                        </h4>
+                      </div>
+
+                      <div className="space-y-2">
+                        {activePage.lawArticles.map((la, idx) => (
+                          <div key={idx} className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs space-y-1">
+                            <div className="font-bold text-[var(--accent-primary)]">{la.article}</div>
+                            <div className="text-[var(--text-secondary)] font-sans text-xs italic">"{la.text}"</div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Questão de Fixação da Página 5 */}
+                  {activePage?.question && (
+                    <div className="space-y-4 pt-4">
+                      <div className="p-5 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-4 shadow-sm">
+                        <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
+                          <span className="px-2.5 py-1 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                            🎯 QUESTÃO DE FIXAÇÃO DO MÓDULO 0{currentModule.moduleNumber}
+                          </span>
+                          <span className="font-mono text-xs text-[var(--accent-success)] font-bold">+10 XP</span>
+                        </div>
+
+                        <p className="text-xs sm:text-sm font-sans font-medium text-[var(--text-primary)] leading-relaxed">
+                          {activePage.question.question}
+                        </p>
+
+                        <div className="space-y-2">
+                          {Object.entries(activePage.question.options).map(([letter, text]) => {
+                            const isSelected = userSelectedOption === letter;
+                            const isCorrect = letter === activePage.question?.answer;
+                            let btnStyle = 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]';
+
+                            if (answered) {
+                              if (isCorrect) {
+                                btnStyle = 'bg-emerald-500/10 border-emerald-500 text-emerald-400 font-bold';
+                              } else if (isSelected) {
+                                btnStyle = 'bg-rose-500/10 border-rose-500 text-rose-400';
+                              }
+                            }
+
+                            return (
+                              <button
+                                key={letter}
+                                type="button"
+                                onClick={() => handleSelectOption(letter)}
+                                disabled={answered}
+                                className={`w-full text-left p-3.5 rounded-xl border text-xs sm:text-sm flex items-start gap-3 transition-all ${btnStyle}`}
+                              >
+                                <span className="w-5 h-5 rounded-md flex items-center justify-center font-mono font-bold shrink-0 bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
+                                  {letter}
+                                </span>
+                                <span className="font-sans leading-relaxed">{text}</span>
+                              </button>
+                            );
+                          })}
+                        </div>
+
+                        {answered && (
+                          <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs font-sans">
+                            <div className="font-mono font-bold text-[var(--accent-primary)] flex items-center gap-1.5">
+                              <CheckCircle2 className="w-4 h-4" />
+                              <span>Gabarito Comentado Oficial:</span>
+                            </div>
+                            <p className="text-[var(--text-primary)] leading-relaxed">
+                              {activePage.question.explanation}
+                            </p>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  )}
+
                 </div>
-
-                {/* 4. Casos Práticos & Pegadinhas da Banca (Se disponível) */}
-                {lesson.practicalCases && lesson.practicalCases.length > 0 && !selectedCustomMaterial && (
-                  <div className="space-y-3 pt-2">
-                    <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                      <span className="px-2 py-0.5 rounded bg-amber-500/10 text-amber-500 font-mono text-[10px] font-bold">
-                        SEÇÃO 03 • CASOS PRÁTICOS & PEGADINHAS
-                      </span>
-                      <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                        Aplicação em Situações Hipotéticas da {currentCareer.banca}
-                      </h3>
-                    </div>
-
-                    <div className="grid grid-cols-1 gap-3">
-                      {lesson.practicalCases.map((pc, idx) => (
-                        <div key={idx} className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
-                          <div className="text-xs font-bold font-mono text-[var(--text-primary)]">
-                            {pc.title}
-                          </div>
-                          <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                            {pc.scenario}
-                          </p>
-                          <div className="p-2.5 rounded-lg bg-amber-500/10 border border-amber-500/20 text-xs text-amber-500 font-mono">
-                            ⚡ <strong>Dica da Banca:</strong> {pc.tip}
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
-
-                {/* 5. Legislação Aplicada & Artigos de Ouro */}
-                {lesson.lawArticles && lesson.lawArticles.length > 0 && !selectedCustomMaterial && (
-                  <div className="space-y-3 pt-2">
-                    <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                      <span className="px-2 py-0.5 rounded bg-blue-500/10 text-blue-500 font-mono text-[10px] font-bold">
-                        SEÇÃO 04 • LETRA DE LEI APLICADA
-                      </span>
-                      <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                        Dispositivos Normativos de Alta Incidência
-                      </h3>
-                    </div>
-
-                    <div className="space-y-2">
-                      {lesson.lawArticles.map((la, idx) => (
-                        <div key={idx} className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs space-y-1">
-                          <div className="font-bold text-[var(--accent-primary)]">{la.article}</div>
-                          <div className="text-[var(--text-secondary)] font-sans text-xs italic">"{la.text}"</div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
 
               </div>
             )}
@@ -920,6 +1144,19 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 )}
 
                 <div className="flex items-center gap-2 ml-auto">
+                  {!selectedCustomMaterial && selectedModuleNumber < subjectModules.length && (
+                    <Button
+                      variant="secondary"
+                      size="sm"
+                      onClick={handleAdvanceToNextModule}
+                      className="font-mono text-xs font-semibold flex items-center gap-1.5 shadow-xs"
+                      title={`Pular para o Módulo 0${selectedModuleNumber + 1}`}
+                    >
+                      <span>Próximo Módulo (0{selectedModuleNumber + 1})</span>
+                      <ChevronRight className="w-3.5 h-3.5" />
+                    </Button>
+                  )}
+
                   <Button
                     variant="brand"
                     size="sm"

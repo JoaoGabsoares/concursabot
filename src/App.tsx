@@ -3,6 +3,7 @@ import { UserProfile, ActiveTab, DailyMission } from './types';
 import { api } from './api/client';
 import { Sidebar } from './components/Sidebar';
 import { Header } from './components/Header';
+import { DesktopNav } from './components/DesktopNav';
 import { MobileBottomNav } from './components/MobileBottomNav';
 import { AuthAndUserSelector } from './components/AuthAndUserSelector';
 import { PublicDashboardPage } from './features/landing/PublicDashboardPage';
@@ -18,6 +19,8 @@ import { AproveitamentoPage } from './features/aproveitamento/AproveitamentoPage
 import { EditalPage } from './features/edital/EditalPage';
 import { FlashcardsPage } from './features/flashcards/FlashcardsPage';
 import { CommunityPage } from './features/community/CommunityPage';
+import { GuiaMetodoPage } from './features/guide/GuiaMetodoPage';
+import { AboutPage } from './features/about/AboutPage';
 import { SettingsPage } from './features/settings/SettingsPage';
 import { ToastProvider } from './components/Toast';
 
@@ -186,6 +189,13 @@ export const App: React.FC = () => {
           onSwitchUser={handleSwitchUser}
         />
 
+        {/* Horizontal Navigation Bar (Desktop/Tablet) */}
+        <DesktopNav
+          activeTab={activeTab}
+          onNavigate={(tab) => setActiveTab(tab)}
+          pendingErrorsCount={pendingErrorsCount}
+        />
+
         {/* Scrollable Viewport */}
         <main className="flex-1 overflow-y-auto p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8">
           <div className="max-w-7xl w-full mx-auto space-y-8">
@@ -235,17 +245,19 @@ export const App: React.FC = () => {
               <CommunityPage careerId={careerId} user={user} />
             )}
 
-            {(activeTab === 'settings' || activeTab === 'settings_ajustes' || activeTab === 'settings_guia' || activeTab === 'settings_sobre') && (
+            {(activeTab === 'guia' || activeTab === 'settings_guia') && (
+              <GuiaMetodoPage onNavigate={(tab) => setActiveTab(tab)} />
+            )}
+
+            {(activeTab === 'sobre' || activeTab === 'settings_sobre') && (
+              <AboutPage />
+            )}
+
+            {(activeTab === 'settings' || activeTab === 'settings_ajustes') && (
               <SettingsPage
                 user={user}
                 onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
-                initialTab={
-                  activeTab === 'settings_guia'
-                    ? 'guia'
-                    : activeTab === 'settings_sobre'
-                    ? 'sobre'
-                    : 'ajustes'
-                }
+                initialTab="ajustes"
               />
             )}
           </div>

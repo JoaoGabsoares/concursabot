@@ -23,7 +23,10 @@ import {
   PenTool,
   BarChart3,
   MessageSquare,
-  ShieldCheck
+  ShieldCheck,
+  HelpCircle,
+  Info,
+  Grid
 } from 'lucide-react';
 
 interface HeaderProps {
@@ -51,6 +54,7 @@ export const Header: React.FC<HeaderProps> = ({
 }) => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
   const [careerDrawerDropdownOpen, setCareerDrawerDropdownOpen] = useState(false);
+  const [quickMenuOpen, setQuickMenuOpen] = useState(false);
   const currentCareer = getCareerById(currentCareerId);
   const currentRank = getConcurseiroRank(user?.xp || 0);
 
@@ -65,9 +69,11 @@ export const Header: React.FC<HeaderProps> = ({
     redacao: { title: 'Corretor de Redação', category: 'INTELIGÊNCIA' },
     edital: { title: 'Raio-X do Edital', category: 'INTELIGÊNCIA' },
     comunidade: { title: 'Comunidade & Tutor IA', category: 'COMUNIDADE' },
+    guia: { title: 'Guia de Uso & Método', category: 'METODOLOGIA' },
+    sobre: { title: 'Sobre a Plataforma', category: 'SISTEMA' },
     settings: { title: 'Configurações', category: 'SISTEMA' },
     settings_ajustes: { title: 'Configurações', category: 'SISTEMA' },
-    settings_guia: { title: 'Guia de Uso & Método', category: 'SISTEMA' },
+    settings_guia: { title: 'Guia de Uso & Método', category: 'METODOLOGIA' },
     settings_sobre: { title: 'Sobre a Plataforma', category: 'SISTEMA' },
   };
 
@@ -84,6 +90,8 @@ export const Header: React.FC<HeaderProps> = ({
     { id: 'redacao', label: 'Redação Discursiva', icon: <PenTool className="w-4 h-4" /> },
     { id: 'edital', label: 'Raio-X do Edital', icon: <BarChart3 className="w-4 h-4" /> },
     { id: 'comunidade', label: 'Comunidade & Chat', icon: <MessageSquare className="w-4 h-4" /> },
+    { id: 'guia', label: 'Guia de Uso & Método', icon: <HelpCircle className="w-4 h-4" /> },
+    { id: 'sobre', label: 'Sobre a Plataforma', icon: <Info className="w-4 h-4" /> },
     { id: 'settings', label: 'Configurações', icon: <Settings className="w-4 h-4" /> },
   ];
 
@@ -142,6 +150,119 @@ export const Header: React.FC<HeaderProps> = ({
             <Flame className="w-3.5 h-3.5 fill-amber-500 text-amber-500" />
             <span className="hidden sm:inline">{user?.streakDays || 0} DIAS</span>
             <span className="sm:hidden">{user?.streakDays || 0}d</span>
+          </div>
+
+          {/* Quick Menu Launcher Button (Desktop/Tablet) */}
+          <div className="relative">
+            <button
+              onClick={() => setQuickMenuOpen(!quickMenuOpen)}
+              className="px-3 py-1.5 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] hover:border-[var(--accent-primary)] flex items-center gap-1.5 text-xs font-mono font-bold text-[var(--text-primary)] transition-all shadow-xs"
+              title="Menu de Atalhos Rápidos"
+            >
+              <Grid className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+              <span className="hidden sm:inline">Menu</span>
+              <ChevronDown className={`w-3 h-3 text-[var(--text-muted)] transition-transform ${quickMenuOpen ? 'rotate-180' : ''}`} />
+            </button>
+
+            {quickMenuOpen && (
+              <>
+                <div className="fixed inset-0 z-40" onClick={() => setQuickMenuOpen(false)} />
+                <div className="absolute right-0 top-full mt-2 w-72 sm:w-80 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-focus)] shadow-2xl p-3 z-50 animate-fade-in font-sans space-y-3">
+                  <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)] px-1">
+                    <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider">
+                      Atalhos da Plataforma
+                    </span>
+                    <CarimboStatus status="homologado" label="OFICIAL" />
+                  </div>
+
+                  <div className="grid grid-cols-2 gap-2 text-xs">
+                    <button
+                      onClick={() => { onNavigate('study'); setQuickMenuOpen(false); }}
+                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
+                    >
+                      <div className="flex items-center gap-1.5 text-[var(--accent-primary)] font-bold">
+                        <BookOpen className="w-3.5 h-3.5" />
+                        <span>Doutrina</span>
+                      </div>
+                      <div className="text-[10px] text-[var(--text-muted)]">Sala de Estudos</div>
+                    </button>
+
+                    <button
+                      onClick={() => { onNavigate('simulados'); setQuickMenuOpen(false); }}
+                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
+                    >
+                      <div className="flex items-center gap-1.5 text-emerald-500 font-bold">
+                        <Target className="w-3.5 h-3.5" />
+                        <span>Simulados</span>
+                      </div>
+                      <div className="text-[10px] text-[var(--text-muted)]">Treino Oficial</div>
+                    </button>
+
+                    <button
+                      onClick={() => { onNavigate('erros'); setQuickMenuOpen(false); }}
+                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
+                    >
+                      <div className="flex items-center gap-1.5 text-rose-500 font-bold">
+                        <BookMarked className="w-3.5 h-3.5" />
+                        <span>Erros</span>
+                      </div>
+                      <div className="text-[10px] text-[var(--text-muted)]">{pendingErrorsCount} pendentes</div>
+                    </button>
+
+                    <button
+                      onClick={() => { onNavigate('leiseca'); setQuickMenuOpen(false); }}
+                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
+                    >
+                      <div className="flex items-center gap-1.5 text-amber-500 font-bold">
+                        <Scale className="w-3.5 h-3.5" />
+                        <span>Pegadinhas</span>
+                      </div>
+                      <div className="text-[10px] text-[var(--text-muted)]">Lei Seca</div>
+                    </button>
+
+                    <button
+                      onClick={() => { onNavigate('edital'); setQuickMenuOpen(false); }}
+                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
+                    >
+                      <div className="flex items-center gap-1.5 text-blue-500 font-bold">
+                        <BarChart3 className="w-3.5 h-3.5" />
+                        <span>Raio-X Edital</span>
+                      </div>
+                      <div className="text-[10px] text-[var(--text-muted)]">Pesos e Pareto</div>
+                    </button>
+
+                    <button
+                      onClick={() => { onNavigate('guia'); setQuickMenuOpen(false); }}
+                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
+                    >
+                      <div className="flex items-center gap-1.5 text-indigo-500 font-bold">
+                        <HelpCircle className="w-3.5 h-3.5" />
+                        <span>Metodologia</span>
+                      </div>
+                      <div className="text-[10px] text-[var(--text-muted)]">Guia de Estudos</div>
+                    </button>
+                  </div>
+
+                  <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono">
+                    <button
+                      onClick={() => { onNavigate('settings'); setQuickMenuOpen(false); }}
+                      className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] flex items-center gap-1"
+                    >
+                      <Settings className="w-3.5 h-3.5" />
+                      <span>Ajustes</span>
+                    </button>
+
+                    <button
+                      onClick={() => { onNavigate('sobre'); setQuickMenuOpen(false); }}
+                      className="text-[var(--text-muted)] hover:text-[var(--text-primary)] flex items-center gap-1"
+                    >
+                      <Info className="w-3.5 h-3.5" />
+                      <span>Sobre o Sistema</span>
+                    </button>
+                  </div>
+                </div>
+              </>
+            )}
           </div>
 
           {/* Theme Toggle */}
