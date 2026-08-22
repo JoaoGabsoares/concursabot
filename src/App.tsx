@@ -5,6 +5,7 @@ import { Sidebar } from './components/Sidebar';
 import { Header } from './components/Header';
 import { MobileBottomNav } from './components/MobileBottomNav';
 import { AuthAndUserSelector } from './components/AuthAndUserSelector';
+import { PublicDashboardPage } from './features/landing/PublicDashboardPage';
 
 // Pages
 import { DashboardPage } from './features/dashboard/DashboardPage';
@@ -144,9 +145,15 @@ export const App: React.FC = () => {
     );
   }
 
-  // If no active user, render Auth & Profile Selector Screen
+  // If no active user, render Public Interactive Dashboard (Landing Portal)
   if (!user) {
-    return <AuthAndUserSelector onSelectUser={handleSelectUser} />;
+    return (
+      <PublicDashboardPage
+        onSelectUser={handleSelectUser}
+        isDark={isDark}
+        onToggleTheme={() => setIsDark(!isDark)}
+      />
+    );
   }
 
   return (
