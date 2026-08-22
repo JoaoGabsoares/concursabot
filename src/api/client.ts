@@ -252,7 +252,7 @@ export class ApiClient {
     });
   }
 
-  public registerPastStudy(data: {
+  public async registerPastStudy(data: {
     studyDate: string;
     subject: string;
     topic?: string;
@@ -264,21 +264,47 @@ export class ApiClient {
     careerId?: string;
     materialId?: number;
   }): Promise<{ success: boolean; sessionId: number; xpGained: number; newStreak: number; studyDate: string; message: string }> {
-    return this.request<{ success: boolean; sessionId: number; xpGained: number; newStreak: number; studyDate: string; message: string }>('/study-room/register-past-study', {
-      method: 'POST',
-      body: JSON.stringify(data)
-    });
+    try {
+      return await this.request<{ success: boolean; sessionId: number; xpGained: number; newStreak: number; studyDate: string; message: string }>('/study-room/register-past-study', {
+        method: 'POST',
+        body: JSON.stringify(data)
+      });
+    } catch (err: any) {
+      if (err.message && (err.message.includes('404') || err.message.includes('Not Found'))) {
+        return this.request<{ success: boolean; sessionId: number; xpGained: number; newStreak: number; studyDate: string; message: string }>('/dashboard/register-past-study', {
+          method: 'POST',
+          body: JSON.stringify(data)
+        });
+      }
+      throw err;
+    }
   }
 
-  public getPastStudies(careerId?: string): Promise<{ success: boolean; items: any[] }> {
+  public async getPastStudies(careerId?: string): Promise<{ success: boolean; items: any[] }> {
     const qs = careerId ? `?careerId=${careerId}` : '';
-    return this.request<{ success: boolean; items: any[] }>(`/study-room/past-studies${qs}`);
+    try {
+      return await this.request<{ success: boolean; items: any[] }>(`/study-room/past-studies${qs}`);
+    } catch (err: any) {
+      if (err.message && (err.message.includes('404') || err.message.includes('Not Found'))) {
+        return this.request<{ success: boolean; items: any[] }>(`/dashboard/past-studies${qs}`);
+      }
+      throw err;
+    }
   }
 
-  public deletePastStudy(sessionId: number): Promise<{ success: boolean; newStreak: number; message: string }> {
-    return this.request<{ success: boolean; newStreak: number; message: string }>(`/study-room/past-study/${sessionId}`, {
-      method: 'DELETE'
-    });
+  public async deletePastStudy(sessionId: number): Promise<{ success: boolean; newStreak: number; message: string }> {
+    try {
+      return await this.request<{ success: boolean; newStreak: number; message: string }>(`/study-room/past-study/${sessionId}`, {
+        method: 'DELETE'
+      });
+    } catch (err: any) {
+      if (err.message && (err.message.includes('404') || err.message.includes('Not Found'))) {
+        return this.request<{ success: boolean; newStreak: number; message: string }>(`/dashboard/past-study/${sessionId}`, {
+          method: 'DELETE'
+        });
+      }
+      throw err;
+    }
   }
 
   public updateBookmark(materialId: string | number, page: number): Promise<{ success: boolean }> {

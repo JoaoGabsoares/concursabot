@@ -294,7 +294,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
   // Loading Session Checker
   if (authStatus === 'checking') {
     return (
-      <div className="min-h-screen w-screen flex items-center justify-center p-4 bg-[var(--bg-base)] animate-fade-in font-sans">
+      <div className="min-h-screen w-full flex items-center justify-center p-4 bg-[var(--bg-base)] animate-fade-in font-sans">
         <div className="text-center space-y-3">
           <div className="w-12 h-12 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)] flex items-center justify-center text-[var(--accent-primary)] mx-auto animate-pulse">
             <ShieldCheck className="w-6 h-6" />
@@ -571,7 +571,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
   // Phase 2: Authenticated Screen (Profile Selector & Creator - Max 3 per Account)
   return (
-    <div className="min-h-screen w-screen overflow-y-auto overflow-x-hidden flex flex-col justify-center items-center py-10 px-4 sm:px-6 bg-[var(--bg-base)] animate-fade-in font-sans">
+    <div className="min-h-screen w-full overflow-y-auto overflow-x-hidden flex flex-col justify-center items-center py-10 px-4 sm:px-6 bg-[var(--bg-base)] animate-fade-in font-sans">
       <div className="w-full max-w-2xl space-y-5 my-auto">
         
         {/* Account Info Header */}

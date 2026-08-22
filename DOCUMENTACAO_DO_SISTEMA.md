@@ -450,5 +450,40 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 23. Estabilização de Layout, Ancoramento de Viewport e Scrollbars Sólidas (v6.3.0)
+
+1. **🔒 Ancoramento Rígido de Viewport (`html, body, #root`)**:
+   - `html, body, #root` configurados com `height: 100%; width: 100%; overflow: hidden; overscroll-behavior: none;`.
+   - Eliminação completa de deslocamentos verticais/horizontais da moldura da aplicação (*rubber-banding* / *bounce effect*).
+   - O container `<main>` passa a ser o único elemento com rolagem vertical ativa da página (`overflow-y: auto; overflow-x: hidden; overscroll-behavior: contain; scrollbar-gutter: stable;`).
+
+2. **🚫 Eliminação de Sequestro de Eventos de Rolagem (`onWheel`)**:
+   - Remoção de todos os handlers `onWheel` que convertiam o deslocamento vertical do mouse (`deltaY`) em rolagem horizontal (`scrollLeft`) em containers de abas, prateleiras de PDF e seletores de módulos.
+   - Preservação da navegação horizontal fluida por toque/touchpad nativo, botões direcionais de seta (`ChevronLeft` / `ChevronRight`) e scrollbars estilizadas.
+
+3. **📐 Eliminação de `100vw` / `w-screen`**:
+   - Substituição sistemática por `w-full` e `h-full h-[100dvh]` para eliminar transbordamentos causados pela largura da calha da scrollbar nativa do navegador.
+
+---
+
+## 24. Resolução Definitiva do Registro de Estudos Retroativos & Aliases Universais (v6.4.0)
+
+1. **🌐 Aliases Universais de Rotas Express**:
+   - Montagem de `/api/study` como alias direto de `/api/study-room` no `server/index.js`.
+   - Espelhamento completo das rotas de estudo retroativo em `server/routes/dashboard.js` e `server/routes/study-room.js`:
+     - `POST /register-past-study`: Gravação retroativa com data personalizada, concessão de XP (+20 XP/30m + 2 XP/questão), registro em `activity_log` e recálculo dinâmico da ofensiva com `calculateUserStreak`.
+     - `GET /past-studies`: Listagem paginada dos últimos 50 lançamentos de estudo com badges de disciplina e notas de escopo.
+     - `DELETE /past-study/:id`: Remoção segura e recálculo instantâneo de ofensiva.
+
+2. **🛡️ Blindagem e Fallback no Cliente HTTP (`src/api/client.ts`)**:
+   - Implementação de fallback inteligente em `api.registerPastStudy`, `api.getPastStudies` e `api.deletePastStudy`.
+   - Caso qualquer rota legada responda com 404, o cliente efetua imediatamente o redirecionamento transparente para a rota espelhada correspondente.
+
+3. **🧪 Cobertura Automatizada na Suíte E2E (`study_room_cadence.test.js`)**:
+   - Testes automatizados validando gravação, listagem, alias da Dashboard e deleção com 100% de assertividade e status 200 OK.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
+
 

@@ -205,6 +205,7 @@ app.use('/api/flashcards', flashcardsRoutes);
 app.use('/api/schedule', scheduleRoutes);
 app.use('/api/dashboard', dashboardRoutes);
 app.use('/api/study-room', studyRoomRoutes);
+app.use('/api/study', studyRoomRoutes);
 app.use('/api/rag', aiRateLimiter, ragRoutes);
 app.use('/api/backlog', backlogRoutes);
 app.use('/api/benchmarks', benchmarksRoutes);

@@ -116,6 +116,79 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(regFinish.success, true);
   assert.strictEqual(regFinish.xpGained, 50);
   console.log('  ✅ 5. Registro de Conclusão de Aula (+50 XP, logActivity OK): PASSOU');
+
+  // 6. Testar POST /api/study-room/register-past-study (Gravação de Estudo Retroativo)
+  const pastRes = await fetch(`${baseUrl}/api/study-room/register-past-study`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    },
+    body: JSON.stringify({
+      studyDate: '2026-08-20',
+      subject: 'Legislação Tributária',
+      topic: 'Regimes de Lucro Real e Presumido',
+      durationMinutes: 60,
+      pagesRead: 15,
+      questionsCount: 10,
+      questionsCorrect: 8,
+      notes: 'Estudo feito presencialmente',
+      careerId: 'atrfb'
+    })
+  });
+  const pastData = await pastRes.json();
+  assert.strictEqual(pastRes.status, 200, 'Status deve ser 200 ao gravar estudo retroativo');
+  assert.strictEqual(pastData.success, true);
+  assert.ok(pastData.sessionId > 0, 'Deve retornar sessionId gerado');
+  assert.ok(pastData.xpGained > 0, 'Deve conceder XP');
+  console.log(`  ✅ 6. Gravação de Estudo Retroativo (+${pastData.xpGained} XP, 2026-08-20): PASSOU`);
+
+  // 7. Testar GET /api/study-room/past-studies (Histórico)
+  const histRes = await fetch(`${baseUrl}/api/study-room/past-studies?careerId=atrfb`, {
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    }
+  });
+  const histData = await histRes.json();
+  assert.strictEqual(histRes.status, 200, 'Status deve ser 200 ao listar histórico');
+  assert.strictEqual(histData.success, true);
+  assert.ok(Array.isArray(histData.items) && histData.items.length > 0, 'Deve listar estudos passados');
+  console.log(`  ✅ 7. Listagem de Histórico Retroativo (${histData.items.length} itens encontrados): PASSOU`);
+
+  // 8. Testar POST /api/dashboard/register-past-study (Alias Espelhado na Dashboard)
+  const dashPastRes = await fetch(`${baseUrl}/api/dashboard/register-past-study`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    },
+    body: JSON.stringify({
+      studyDate: '2026-08-19',
+      subject: 'Raciocínio Lógico-Matemático',
+      durationMinutes: 45,
+      careerId: 'atrfb'
+    })
+  });
+  const dashPastData = await dashPastRes.json();
+  assert.strictEqual(dashPastRes.status, 200, 'Status deve ser 200 no alias dashboard');
+  assert.strictEqual(dashPastData.success, true);
+  console.log('  ✅ 8. Endpoint Espelhado da Dashboard (/api/dashboard/register-past-study): PASSOU');
+
+  // 9. Testar DELETE /api/study-room/past-study/:id (Exclusão e Recálculo)
+  const delRes = await fetch(`${baseUrl}/api/study-room/past-study/${pastData.sessionId}`, {
+    method: 'DELETE',
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    }
+  });
+  const delData = await delRes.json();
+  assert.strictEqual(delRes.status, 200, 'Status deve ser 200 ao excluir');
+  assert.strictEqual(delData.success, true);
+  console.log('  ✅ 9. Exclusão de Estudo Retroativo e Recálculo de Streak: PASSOU');
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

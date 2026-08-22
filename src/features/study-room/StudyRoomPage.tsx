@@ -808,12 +808,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
       </div>
 
       {/* 2. Top Navigation: Disciplinas do Edital & PDFs Cadastrados */}
-      <div
-        onWheel={(e) => {
-          if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY * 0.8;
-        }}
-        className="flex items-center gap-2 overflow-x-auto pb-2 custom-scrollbar-horizontal scroll-smooth"
-      >
+      <div className="flex items-center gap-2 overflow-x-auto pb-2 custom-scrollbar-horizontal scroll-smooth">
         <span className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0 pl-1">
           Disciplinas:
         </span>
@@ -838,12 +833,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
       {/* Uploaded PDF Shelf with Smart Indicators */}
       {uploadedMaterials.length > 0 && (
-        <div
-          onWheel={(e) => {
-            if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY * 0.8;
-          }}
-          className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto custom-scrollbar-horizontal scroll-smooth"
-        >
+        <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto custom-scrollbar-horizontal scroll-smooth">
           <span className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
             📁 PDFs Carregados:
           </span>
@@ -965,12 +955,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   </span>
                 </div>
 
-                <div
-                  onWheel={(e) => {
-                    if (e.deltaY !== 0) e.currentTarget.scrollLeft += e.deltaY * 0.8;
-                  }}
-                  className="flex items-center gap-2 overflow-x-auto pb-1 custom-scrollbar-horizontal scroll-smooth"
-                >
+                <div className="flex items-center gap-2 overflow-x-auto pb-1 custom-scrollbar-horizontal scroll-smooth">
                   {subjectModules.map((mod) => {
                     const isModActive = mod.moduleNumber === currentModule.moduleNumber;
                     return (
@@ -1034,11 +1019,6 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   {/* Container deslizante com suporte a mouse wheel */}
                   <div
                     ref={moduleNavScrollRef}
-                    onWheel={(e) => {
-                      if (e.deltaY !== 0) {
-                        e.currentTarget.scrollLeft += e.deltaY * 0.8;
-                      }
-                    }}
                     className="flex-1 flex items-center gap-1.5 overflow-x-auto custom-scrollbar-horizontal scroll-smooth py-1"
                   >
                     {[

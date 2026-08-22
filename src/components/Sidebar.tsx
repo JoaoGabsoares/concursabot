@@ -62,7 +62,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
   ];
 
   return (
-    <aside className="hidden lg:flex flex-col justify-between w-68 xl:w-72 h-screen bg-[var(--bg-surface)] border-r border-[var(--border-subtle)] select-none shrink-0 z-30 font-sans shadow-lg">
+    <aside className="hidden lg:flex flex-col justify-between w-68 xl:w-72 h-full bg-[var(--bg-surface)] border-r border-[var(--border-subtle)] select-none shrink-0 z-30 font-sans shadow-lg">
       
       {/* Top Section: Brand + Edital */}
       <div className="overflow-y-auto scrollbar-thin flex-1">

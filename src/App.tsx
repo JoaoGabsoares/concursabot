@@ -180,7 +180,7 @@ export const App: React.FC = () => {
 
   if (loadingUser) {
     return (
-      <div className="h-screen w-screen flex items-center justify-center bg-[var(--bg-base)] text-xs text-[var(--text-muted)] font-mono">
+      <div className="h-full h-[100dvh] w-full flex items-center justify-center bg-[var(--bg-base)] text-xs text-[var(--text-muted)] font-mono">
         Carregando ambiente Gabarito.AI...
       </div>
     );
@@ -198,7 +198,7 @@ export const App: React.FC = () => {
   }
 
   return (
-    <div className="flex h-screen w-screen overflow-hidden bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
+    <div className="flex h-full h-[100dvh] w-full overflow-hidden bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
       {/* 1. Desktop Left Sidebar (Fixed 64px width on desktop) */}
       <Sidebar
         user={user}
@@ -213,7 +213,7 @@ export const App: React.FC = () => {
       />
 
       {/* 2. Main Application Viewport (Full Height & Width) */}
-      <div className="flex-1 flex flex-col h-screen overflow-hidden min-w-0">
+      <div className="flex-1 flex flex-col h-full overflow-hidden min-w-0">
         {/* Topbar Header */}
         <Header
           user={user}
@@ -228,7 +228,7 @@ export const App: React.FC = () => {
         />
 
         {/* Scrollable Viewport (Zero menu duplication: left Sidebar handles desktop navigation) */}
-        <main className="flex-1 overflow-y-auto p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8">
+        <main className="flex-1 overflow-y-auto overflow-x-hidden p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8 overscroll-contain scrollbar-gutter-stable">
           <div className="max-w-7xl w-full mx-auto space-y-8">
             <React.Suspense fallback={
               <div className="min-h-[50vh] flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
