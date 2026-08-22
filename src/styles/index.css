@@ -1,114 +1,114 @@
 @import "tailwindcss";
 
 :root {
-  /* Three Named Fonts */
-  --font-display: 'Newsreader', Georgia, 'Times New Roman', serif;
-  --font-mono: 'IBM Plex Mono', Menlo, Monaco, Consolas, monospace;
-  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  /* Tactical Font Hierarchy */
+  --font-display: 'IBM Plex Mono', 'JetBrains Mono', Menlo, Monaco, Consolas, monospace;
+  --font-mono: 'IBM Plex Mono', 'JetBrains Mono', Menlo, Monaco, Consolas, monospace;
+  --font-sans: 'Inter', 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
-  /* Dark Theme (Executive Obsidian / Figma-Grade Depth & Contrast) */
-  --bg-base: #0B0F17;
-  --bg-surface: #111827;
-  --bg-elevated: #1E293B;
-  --bg-active: #283548;
-  --bg-glass: rgba(17, 24, 39, 0.85);
-  --bg-input: #0F172A;
+  /* Dark Theme (Tactical Operations Room / Warm Graphite & Amber) */
+  --bg-base: #16181C;
+  --bg-surface: #1E2126;
+  --bg-elevated: #252930;
+  --bg-active: #2D323B;
+  --bg-glass: rgba(30, 33, 38, 0.90);
+  --bg-input: #16181C;
 
-  --text-primary: #F8FAFC;
-  --text-secondary: #94A3B8;
-  --text-muted: #64748B;
-  --text-placeholder: #475569;
+  --text-primary: #F0EDE6;
+  --text-secondary: #9DA5B4;
+  --text-muted: #6B7280;
+  --text-placeholder: #4B5563;
 
-  --border-subtle: rgba(255, 255, 255, 0.08);
-  --border-strong: rgba(255, 255, 255, 0.18);
-  --border-focus: #6366F1;
-  --border-highlight: #818CF8;
+  --border-subtle: #2D323B;
+  --border-strong: #3E4450;
+  --border-focus: #C98A2B;
+  --border-highlight: #D4973B;
 
-  /* Royal Indigo Accent (High-End SaaS & EdTech Aesthetic) */
-  --accent-primary: #4F46E5;
-  --accent-primary-hover: #4338CA;
-  --accent-primary-glow: rgba(79, 70, 229, 0.18);
+  /* Sole Decision Color: Tactical Amber / Brass */
+  --accent-primary: #C98A2B;
+  --accent-primary-hover: #D4973B;
+  --accent-primary-glow: rgba(201, 138, 43, 0.12);
 
-  /* Status Colors for Official Stamps & Live Counters */
-  --color-status-success: #10B981;
-  --color-status-success-bg: rgba(16, 185, 129, 0.12);
-  --color-status-warning: #F59E0B;
-  --color-status-warning-bg: rgba(245, 158, 11, 0.12);
-  --color-status-danger: #EF4444;
-  --color-status-danger-bg: rgba(239, 68, 68, 0.12);
-  --color-status-neutral: #64748B;
-  --color-status-neutral-bg: rgba(100, 116, 139, 0.12);
+  /* Status Colors Strictly Semantic (Real Answers / Real State) */
+  --color-status-success: #2EA043;
+  --color-status-success-bg: rgba(46, 160, 67, 0.12);
+  --color-status-warning: #C98A2B;
+  --color-status-warning-bg: rgba(201, 138, 43, 0.12);
+  --color-status-danger: #DA3633;
+  --color-status-danger-bg: rgba(218, 54, 51, 0.12);
+  --color-status-neutral: #6B7280;
+  --color-status-neutral-bg: rgba(107, 114, 128, 0.12);
 
-  --accent-success: #10B981;
-  --accent-emerald: #10B981;
-  --accent-emerald-bg: rgba(16, 185, 129, 0.12);
-  --accent-warning: #F59E0B;
-  --accent-amber: #F59E0B;
-  --accent-amber-bg: rgba(245, 158, 11, 0.12);
-  --accent-danger: #EF4444;
-  --accent-purple: #8B5CF6;
-  --accent-purple-bg: rgba(139, 92, 246, 0.12);
-  --accent-cyan: #0EA5E9;
-  --accent-cyan-bg: rgba(14, 165, 233, 0.12);
+  --accent-success: #2EA043;
+  --accent-emerald: #2EA043;
+  --accent-emerald-bg: rgba(46, 160, 67, 0.12);
+  --accent-warning: #C98A2B;
+  --accent-amber: #C98A2B;
+  --accent-amber-bg: rgba(201, 138, 43, 0.12);
+  --accent-danger: #DA3633;
+  --accent-purple: #C98A2B;
+  --accent-purple-bg: rgba(201, 138, 43, 0.12);
+  --accent-cyan: #9DA5B4;
+  --accent-cyan-bg: rgba(157, 165, 180, 0.12);
 
-  --btn-primary-bg: #4F46E5;
-  --btn-primary-text: #FFFFFF;
-  --btn-primary-hover: #4338CA;
+  --btn-primary-bg: #C98A2B;
+  --btn-primary-text: #16181C;
+  --btn-primary-hover: #D4973B;
   
-  --shadow-card: 0 4px 24px -2px rgba(0, 0, 0, 0.45);
-  --shadow-elevated: 0 10px 32px -4px rgba(0, 0, 0, 0.60);
+  --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.45);
+  --shadow-elevated: 0 8px 30px -4px rgba(0, 0, 0, 0.60);
 }
 
 html:not(.dark) {
-  /* Light Theme (Editorial Paper / Diário Oficial de Elite) */
-  --bg-base: #F8FAFC;
+  /* Light Theme (Tactical Field Paper / Diário Oficial Sóbrio) */
+  --bg-base: #F4F1EA;
   --bg-surface: #FFFFFF;
-  --bg-elevated: #F1F5F9;
-  --bg-active: #E2E8F0;
-  --bg-glass: rgba(255, 255, 255, 0.88);
+  --bg-elevated: #ECE7DE;
+  --bg-active: #E2DBD0;
+  --bg-glass: rgba(255, 255, 255, 0.90);
   --bg-input: #FFFFFF;
 
-  --text-primary: #0F172A;
-  --text-secondary: #334155;
-  --text-muted: #64748B;
-  --text-placeholder: #94A3B8;
+  --text-primary: #1A1B1E;
+  --text-secondary: #4A4D53;
+  --text-muted: #737780;
+  --text-placeholder: #9DA1AA;
 
-  --border-subtle: #E2E8F0;
-  --border-strong: #CBD5E1;
-  --border-focus: #4F46E5;
-  --border-highlight: #6366F1;
+  --border-subtle: #DCD6CB;
+  --border-strong: #BDB5A6;
+  --border-focus: #A86D1E;
+  --border-highlight: #C98A2B;
 
-  --accent-primary: #4F46E5;
-  --accent-primary-hover: #4338CA;
-  --accent-primary-glow: rgba(79, 70, 229, 0.10);
+  --accent-primary: #A86D1E;
+  --accent-primary-hover: #8F5C17;
+  --accent-primary-glow: rgba(168, 109, 30, 0.10);
 
-  --color-status-success: #059669;
-  --color-status-success-bg: rgba(5, 150, 105, 0.10);
-  --color-status-warning: #D97706;
-  --color-status-warning-bg: rgba(217, 119, 6, 0.10);
-  --color-status-danger: #DC2626;
-  --color-status-danger-bg: rgba(220, 38, 38, 0.10);
-  --color-status-neutral: #64748B;
-  --color-status-neutral-bg: rgba(100, 116, 139, 0.10);
+  --color-status-success: #1A7F37;
+  --color-status-success-bg: rgba(26, 127, 55, 0.10);
+  --color-status-warning: #A86D1E;
+  --color-status-warning-bg: rgba(168, 109, 30, 0.10);
+  --color-status-danger: #CF222E;
+  --color-status-danger-bg: rgba(207, 34, 46, 0.10);
+  --color-status-neutral: #57606A;
+  --color-status-neutral-bg: rgba(87, 96, 106, 0.10);
 
-  --accent-success: #059669;
-  --accent-emerald: #059669;
-  --accent-emerald-bg: rgba(5, 150, 105, 0.10);
-  --accent-warning: #D97706;
-  --accent-amber: #D97706;
-  --accent-amber-bg: rgba(217, 119, 6, 0.10);
-  --accent-danger: #DC2626;
-  --accent-purple: #7C3AED;
-  --accent-purple-bg: rgba(124, 58, 237, 0.10);
-  --accent-cyan: #0284C7;
-  --accent-cyan-bg: rgba(2, 132, 199, 0.10);
+  --accent-success: #1A7F37;
+  --accent-emerald: #1A7F37;
+  --accent-emerald-bg: rgba(26, 127, 55, 0.10);
+  --accent-warning: #A86D1E;
+  --accent-amber: #A86D1E;
+  --accent-amber-bg: rgba(168, 109, 30, 0.10);
+  --accent-danger: #CF222E;
+  --accent-purple: #A86D1E;
+  --accent-purple-bg: rgba(168, 109, 30, 0.10);
+  --accent-cyan: #57606A;
+  --accent-cyan-bg: rgba(87, 96, 106, 0.10);
 
-  --btn-primary-bg: #4F46E5;
+  --btn-primary-bg: #A86D1E;
   --btn-primary-text: #FFFFFF;
-  --btn-primary-hover: #4338CA;
+  --btn-primary-hover: #8F5C17;
 
-  --shadow-card: 0 4px 16px -2px rgba(15, 23, 42, 0.06);
-  --shadow-elevated: 0 8px 24px -4px rgba(15, 23, 42, 0.10);
+  --shadow-card: 0 4px 16px -2px rgba(26, 27, 30, 0.06);
+  --shadow-elevated: 0 8px 24px -4px rgba(26, 27, 30, 0.10);
 }
 
 /* Safe Box Sizing without destructive universal reset */

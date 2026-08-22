@@ -281,7 +281,11 @@ export const App: React.FC = () => {
               )}
 
               {activeTab === 'edital' && (
-                <EditalPage careerId={careerId} />
+                <EditalPage 
+                  careerId={careerId} 
+                  onNavigate={(tab) => setActiveTab(tab)}
+                  onStartStudy={handleStartStudy}
+                />
               )}
 
               {activeTab === 'flashcards' && (

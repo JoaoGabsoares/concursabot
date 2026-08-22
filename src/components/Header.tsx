@@ -55,8 +55,15 @@ export const Header: React.FC<HeaderProps> = ({
 }) => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
   const [careerDrawerDropdownOpen, setCareerDrawerDropdownOpen] = useState(false);
+  const [userDropdownOpen, setUserDropdownOpen] = useState(false);
   const currentCareer = getCareerById(currentCareerId);
   const currentRank = getConcurseiroRank(user?.xp || 0);
+
+  const handleLogout = () => {
+    localStorage.removeItem('GABARITO_AUTH_TOKEN');
+    localStorage.removeItem('CURRENT_USER_ID');
+    window.location.reload();
+  };
 
   const tabLabels: Record<ActiveTab, { title: string; category: string }> = {
     dashboard: { title: 'Dashboard', category: 'ESTUDO DIÁRIO' },
@@ -172,6 +179,94 @@ export const Header: React.FC<HeaderProps> = ({
           >
             {isDark ? <Sun className="w-4 h-4 text-[var(--accent-warning)]" /> : <Moon className="w-4 h-4 text-[var(--accent-primary)]" />}
           </button>
+
+          {/* Desktop User Dropdown (Trocar Perfil, Configurações, Logout) */}
+          <div className="relative hidden lg:block">
+            <button
+              onClick={() => setUserDropdownOpen(!userDropdownOpen)}
+              className="flex items-center gap-2.5 p-1.5 pr-3 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:border-[var(--border-focus)] transition-all cursor-pointer focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+            >
+              <div className="w-7 h-7 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/40 flex items-center justify-center text-xs font-mono font-bold text-[var(--accent-primary)] shrink-0">
+                {user?.name ? user.name.substring(0, 2).toUpperCase() : 'OP'}
+              </div>
+              <div className="text-left font-mono text-xs hidden xl:block">
+                <div className="font-bold text-[var(--text-primary)] leading-tight truncate max-w-[100px]">
+                  {user?.name || 'Operador'}
+                </div>
+                <div className="text-[10px] text-[var(--text-muted)] leading-tight">
+                  Lv.{user?.level || 1}
+                </div>
+              </div>
+              <ChevronDown className={`w-3.5 h-3.5 text-[var(--text-muted)] transition-transform duration-200 ${userDropdownOpen ? 'rotate-180 text-[var(--text-primary)]' : ''}`} />
+            </button>
+
+            {userDropdownOpen && (
+              <>
+                <div className="fixed inset-0 z-40" onClick={() => setUserDropdownOpen(false)} />
+                <div className="absolute right-0 mt-2 w-64 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-strong)] shadow-2xl p-2 z-50 animate-fade-in font-sans space-y-1">
+                  
+                  {/* User Profile Header */}
+                  <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                    <div className="font-mono text-xs font-bold text-[var(--text-primary)] truncate">
+                      {user?.name || 'Concurseiro Operacional'}
+                    </div>
+                    <div className="text-[11px] font-mono text-[var(--accent-primary)] flex items-center justify-between">
+                      <span>{currentRank.title}</span>
+                      <span className="text-[var(--text-muted)]">{user?.xp || 0} XP</span>
+                    </div>
+                  </div>
+
+                  {/* Dropdown Options */}
+                  <button
+                    onClick={() => {
+                      setUserDropdownOpen(false);
+                      if (onSwitchUser) onSwitchUser();
+                    }}
+                    className="w-full flex items-center gap-2.5 px-3 py-2.5 rounded-lg text-xs font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors text-left cursor-pointer"
+                  >
+                    <span className="font-mono text-[10px] text-[var(--accent-primary)]">[ 01 ]</span>
+                    <span>Trocar Perfil / Usuário</span>
+                  </button>
+
+                  <button
+                    onClick={() => {
+                      setUserDropdownOpen(false);
+                      onNavigate('settings');
+                    }}
+                    className="w-full flex items-center gap-2.5 px-3 py-2.5 rounded-lg text-xs font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors text-left cursor-pointer"
+                  >
+                    <span className="font-mono text-[10px] text-[var(--accent-primary)]">[ 02 ]</span>
+                    <span>Configurações & Metas</span>
+                  </button>
+
+                  <button
+                    onClick={() => {
+                      setUserDropdownOpen(false);
+                      onNavigate('guia');
+                    }}
+                    className="w-full flex items-center gap-2.5 px-3 py-2.5 rounded-lg text-xs font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors text-left cursor-pointer"
+                  >
+                    <span className="font-mono text-[10px] text-[var(--accent-primary)]">[ 03 ]</span>
+                    <span>Guia de Metodologia</span>
+                  </button>
+
+                  <div className="border-t border-[var(--border-subtle)] my-1" />
+
+                  <button
+                    onClick={() => {
+                      setUserDropdownOpen(false);
+                      handleLogout();
+                    }}
+                    className="w-full flex items-center gap-2.5 px-3 py-2.5 rounded-lg text-xs font-medium text-[var(--accent-danger)] hover:bg-[var(--accent-danger)]/10 transition-colors text-left cursor-pointer"
+                  >
+                    <LogOut className="w-3.5 h-3.5" />
+                    <span>Encerrar Sessão</span>
+                  </button>
+
+                </div>
+              </>
+            )}
+          </div>
 
           {/* Mobile Quick Settings Button */}
           <button

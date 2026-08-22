@@ -59,12 +59,28 @@ As rotas Express funcionam como controllers enxutos que apenas validam parâmetr
 
 ---
 
-## 3. Design System & UI Components
+## 3. Design System "Sala de Operações / Documento Tático" (v6.0.0)
 
-O sistema visual é regido pelos tokens definidos em `src/styles/design-tokens.ts`:
-- **Cores**: Background (`#0a0d14`), Superfícies (`#111726`, `#182033`), Borda Ativa (`#3b82f6`), Status Verde (`#10b981`), Alerta (`#f59e0b`), Erro (`#ef4444`).
-- **Tipografia**: Fraunces/Newsreader (Display Editorial), Inter (Corpo do texto e interface), JetBrains Mono (Dados, temporizadores e código).
-- **Componentes Primitivos**: `Card`, `Badge`, `Button`, `Input`, `Modal`, `ProgressBar`, `SegmentedControl`, `Toast`.
+O sistema visual foi completamente reformulado sob o conceito de **Sala de Operações Militar / Documento Tático Oficial**, erradicando o visual genérico de template IA e estabelecendo uma hierarquia de informação com foco máximo na tomada de decisão:
+
+### 3.1. Paleta de Cores Oficial
+- **Fundo Base (Dark)**: Grafite Quente Sóbrio (`#16181C`), substituindo o preto puro/azul-escuro.
+- **Superfícies de Cards**: Painel Tático (`#1E2126`), Elevada (`#252930`), Borda Sutil (`#2D323B`), Borda Forte (`#3E4450`).
+- **Cor de Decisão ÚNICA**: Âmbar / Latão Tático (`#C98A2B` / hover `#D4973B` / glow `rgba(201, 138, 43, 0.12)`). Utilizada com moderação e intencionalidade estrita (máximo de 2 a 3 focos por tela).
+- **Tipografia com Papéis Definidos**:
+  - *Display / Headers / Badges / Dados*: `IBM Plex Mono` / `JetBrains Mono` / `monospace`.
+  - *Leitura Doutrinária e Textos Extensos*: `Inter` / `Plus Jakarta Sans` / `system-ui`.
+- **Estados Reais (Sem badges multicoloridos decorativos)**:
+  - *Verde (`#2EA043`)*: Estritamente reservado para acertos reais em questões ou homologação.
+  - *Vermelho (`#DA3633`)*: Estritamente reservado para erros reais no Caderno de Erros.
+
+### 3.2. Arquitetura de Informação & Densidade Máxima (Regra de 1 Trabalho Só)
+- **Dashboard Tático (3 Blocos Essenciais, Zero Scroll Infinito)**:
+  1. *Bloco 1: Próxima Ação Recomendada*: Card em destaque com disciplina da vez, tópico, estimativa de tempo e botão de decisão âmbar `CONTINUAR ESTUDO AGORA ➔`.
+  2. *Bloco 2: Sequência de Operação*: Chama da consistência, streak de dias ativos, heatmap dos 7 dias e botão de lançamento retroativo (`PastStudyModal`).
+  3. *Bloco 3: Índice de Domínio Global*: Barra de progresso única do edital (taxa macro %), resumo numérico em 1 linha e atalho direto para o Radar do Edital.
+- **Radar do Edital**: Mapeamento completo com as 13 disciplinas, pesos da banca, filtros de categoria e Pareto 80/20 em sua própria página dedicada (`edital`).
+- **Dropdown de Usuário no Topo**: Ações de baixa frequência (Trocar Perfil, Configurações da Conta e Logout) centralizadas no menu suspenso do avatar superior direito.
 
 ---
 

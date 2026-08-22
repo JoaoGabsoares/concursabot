@@ -50,8 +50,8 @@ export const Button: React.FC<ButtonProps> = ({
   };
 
   const variantStyles = {
-    brand: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-[var(--accent-primary)]/20 active:opacity-90',
-    primary: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-[var(--accent-primary)]/20',
+    brand: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-[var(--btn-primary-text)] shadow-sm border border-[var(--accent-primary)]/20 active:opacity-90',
+    primary: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-[var(--btn-primary-text)] shadow-sm border border-[var(--accent-primary)]/20',
     secondary: 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm',
     outline: 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm',
     ghost: 'bg-transparent hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]',
