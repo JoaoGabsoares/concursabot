@@ -5,7 +5,7 @@ import { getConcurseiroRank, getSubjectsForCareer, SubjectStats } from '../../ut
 import { getLessonContent } from '../../utils/studyContent';
 import { Card, Button, ProgressBar, CarimboStatus } from '../../components/UIPrimitives';
 import { api } from '../../api/client';
-import { ChevronRight, Flame, Target, Trophy, CheckCircle2, Circle, ArrowRight, BookOpen, Layers, Scale, PenTool, BookMarked, Sparkles } from 'lucide-react';
+import { ChevronRight, Flame, Target, Trophy, CheckCircle2, Circle, ArrowRight, BookOpen, Layers, Scale, PenTool, BookMarked, Sparkles, RotateCw } from 'lucide-react';
 
 interface DashboardPageProps {
   user: UserProfile | null;
@@ -89,6 +89,14 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   const activeDayIndex = new Date().getDay() === 0 ? 6 : new Date().getDay() - 1;
 
   const quickActions = [
+    {
+      title: 'Ciclo de Estudos',
+      desc: 'Esteira rotativa ponderada com interleaving',
+      icon: RotateCw,
+      color: 'text-indigo-500',
+      bg: 'bg-indigo-500/10 border-indigo-500/20',
+      action: () => onNavigate('ciclos')
+    },
     {
       title: 'Sala de Estudos',
       desc: 'Leitura de doutrina, cadência 60/30 e timer',

@@ -19,6 +19,7 @@ export interface UserProfile {
 export interface Career {
   id: string;
   name: string;
+  shortName?: string;
   banca: string;
   color?: string;
   description: string;
@@ -135,6 +136,8 @@ export type ActiveTab =
   | 'dashboard' 
   | 'study' 
   | 'study-room' 
+  | 'ciclos'
+  | 'study-cycle'
   | 'simulados' 
   | 'erros' 
   | 'error-notebook' 
@@ -170,4 +173,65 @@ export interface AuthResponse {
   message?: string;
   error?: string;
 }
+
+export type CycleModelType = 'adaptativo' | 'pareto_80_20' | 'pre_edital' | 'data_prova' | 'micro_sprints';
+
+export interface StudyCycleBlock {
+  id?: number;
+  cycle_id?: string;
+  subject: string;
+  order_index: number;
+  duration_minutes: number;
+  cognitive_group: 'exatas_dados' | 'juridico' | 'humanas_linguagens';
+  weight_score?: number;
+  difficulty_level?: number;
+  status: 'pending' | 'in_progress' | 'completed';
+  completed_count?: number;
+  last_completed_at?: string | null;
+  created_at?: string;
+}
+
+export interface CycleSimulationResult {
+  cycleTotalHours: number;
+  daysPerLap: number;
+  weeklyHours: number;
+  daysUntilExam?: number | null;
+  weeksUntilExam?: number | null;
+  totalLapsUntilExam?: number | null;
+  projectedTotalStudyHours?: number | null;
+  projectedQuestions?: number | null;
+}
+
+export interface StudyCycle {
+  id: string;
+  user_id: string;
+  career_id: string;
+  name: string;
+  model_type: CycleModelType;
+  weekly_hours: number;
+  block_duration_minutes: number;
+  exam_date?: string | null;
+  total_cycle_minutes: number;
+  current_block_index: number;
+  completed_cycles_count: number;
+  is_active: boolean;
+  settings?: {
+    customDifficulties?: Record<string, number>;
+    simulation?: CycleSimulationResult;
+    generatedAt?: string;
+  };
+  blocks: StudyCycleBlock[];
+  created_at?: string;
+  updated_at?: string;
+}
+
+export interface CycleModelOption {
+  id: CycleModelType;
+  name: string;
+  tag: string;
+  description: string;
+  idealFor: string;
+  recommendedBlockMin: number;
+}
+
 

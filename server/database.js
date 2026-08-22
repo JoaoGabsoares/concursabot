@@ -838,12 +838,255 @@ function initDB() {
         } catch (e) {
             console.warn('Migration study_sessions note:', e.message);
         }
+        // Study Cycles: Engine de Ciclos de Estudo Inteligentes
+        try {
+            db.exec(`
+                CREATE TABLE IF NOT EXISTS study_cycles (
+                    id TEXT PRIMARY KEY,
+                    user_id TEXT NOT NULL,
+                    career_id TEXT NOT NULL,
+                    name TEXT NOT NULL,
+                    model_type TEXT NOT NULL, -- 'adaptativo', 'pareto_80_20', 'pre_edital', 'data_prova', 'micro_sprints'
+                    weekly_hours REAL NOT NULL DEFAULT 20.0,
+                    block_duration_minutes INTEGER NOT NULL DEFAULT 60,
+                    exam_date DATE DEFAULT NULL,
+                    total_cycle_minutes INTEGER NOT NULL DEFAULT 0,
+                    current_block_index INTEGER NOT NULL DEFAULT 0,
+                    completed_cycles_count INTEGER NOT NULL DEFAULT 0,
+                    is_active BOOLEAN NOT NULL DEFAULT 1,
+                    settings_json TEXT DEFAULT NULL,
+                    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+                    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
+                );
+                CREATE INDEX IF NOT EXISTS idx_study_cycles_user_career ON study_cycles(user_id, career_id, is_active);
+
+                CREATE TABLE IF NOT EXISTS study_cycle_blocks (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    cycle_id TEXT NOT NULL,
+                    subject TEXT NOT NULL,
+                    order_index INTEGER NOT NULL,
+                    duration_minutes INTEGER NOT NULL DEFAULT 60,
+                    cognitive_group TEXT NOT NULL, -- 'exatas_dados', 'juridico', 'humanas_linguagens'
+                    weight_score REAL DEFAULT 1.0,
+                    difficulty_level INTEGER DEFAULT 2, -- 1=Facil, 2=Medio, 3=Dificil, 4=Critico
+                    status TEXT NOT NULL DEFAULT 'pending' CHECK(status IN ('pending', 'in_progress', 'completed')),
+                    completed_count INTEGER NOT NULL DEFAULT 0,
+                    last_completed_at DATETIME DEFAULT NULL,
+                    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+                    FOREIGN KEY (cycle_id) REFERENCES study_cycles(id) ON DELETE CASCADE
+                );
+                CREATE INDEX IF NOT EXISTS idx_cycle_blocks_cycle_order ON study_cycle_blocks(cycle_id, order_index);
+            `);
+        } catch (e) {
+            console.warn('Study cycles table init note:', e.message);
+        }
     } catch (e) {
         console.warn('Migration note:', e.message);
     }
 }
 
 initDB();
+
+// ============================================================
+// STUDY CYCLES REPOSITORY METHODS
+// ============================================================
+
+export function getActiveStudyCycle(userId = 'user_joao', careerId = 'atrfb') {
+    try {
+        const cycle = db.prepare(`
+            SELECT * FROM study_cycles 
+            WHERE user_id = ? AND career_id = ? AND is_active = 1 
+            ORDER BY created_at DESC LIMIT 1
+        `).get(userId, careerId);
+
+        if (!cycle) return null;
+
+        const blocks = db.prepare(`
+            SELECT * FROM study_cycle_blocks 
+            WHERE cycle_id = ? 
+            ORDER BY order_index ASC
+        `).all(cycle.id);
+
+        let settings = {};
+        if (cycle.settings_json) {
+            try { settings = JSON.parse(cycle.settings_json); } catch (e) {}
+        }
+
+        return {
+            ...cycle,
+            settings,
+            blocks: blocks || []
+        };
+    } catch (err) {
+        console.error('Error fetching active study cycle:', err);
+        return null;
+    }
+}
+
+export function saveStudyCycle(cycleData, blocks = []) {
+    try {
+        return db.transaction(() => {
+            // Desativa ciclos anteriores desta carreira para o usuário
+            db.prepare(`
+                UPDATE study_cycles 
+                SET is_active = 0, updated_at = CURRENT_TIMESTAMP 
+                WHERE user_id = ? AND career_id = ?
+            `).run(cycleData.user_id, cycleData.career_id);
+
+            const cycleId = cycleData.id || `cycle_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`;
+            const settingsJson = JSON.stringify(cycleData.settings || {});
+
+            db.prepare(`
+                INSERT INTO study_cycles (
+                    id, user_id, career_id, name, model_type, weekly_hours, 
+                    block_duration_minutes, exam_date, total_cycle_minutes, 
+                    current_block_index, completed_cycles_count, is_active, settings_json
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)
+            `).run(
+                cycleId,
+                cycleData.user_id,
+                cycleData.career_id,
+                cycleData.name || 'Meu Ciclo de Estudos',
+                cycleData.model_type || 'adaptativo',
+                cycleData.weekly_hours || 20.0,
+                cycleData.block_duration_minutes || 60,
+                cycleData.exam_date || null,
+                cycleData.total_cycle_minutes || 0,
+                0,
+                0,
+                settingsJson
+            );
+
+            // Inserir blocos do ciclo
+            const insertBlockStmt = db.prepare(`
+                INSERT INTO study_cycle_blocks (
+                    cycle_id, subject, order_index, duration_minutes, 
+                    cognitive_group, weight_score, difficulty_level, status
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            `);
+
+            blocks.forEach((b, idx) => {
+                insertBlockStmt.run(
+                    cycleId,
+                    b.subject,
+                    idx,
+                    b.duration_minutes || 60,
+                    b.cognitive_group || 'humanas_linguagens',
+                    b.weight_score || 1.0,
+                    b.difficulty_level || 2,
+                    idx === 0 ? 'in_progress' : 'pending'
+                );
+            });
+
+            return getActiveStudyCycle(cycleData.user_id, cycleData.career_id);
+        })();
+    } catch (err) {
+        console.error('Error saving study cycle:', err);
+        throw err;
+    }
+}
+
+export function advanceStudyCycleBlock(cycleId, blockId, userId = 'user_joao', careerId = 'atrfb') {
+    try {
+        return db.transaction(() => {
+            const cycle = db.prepare('SELECT * FROM study_cycles WHERE id = ?').get(cycleId);
+            if (!cycle) throw new Error('Ciclo de estudos não encontrado.');
+
+            const blocks = db.prepare('SELECT * FROM study_cycle_blocks WHERE cycle_id = ? ORDER BY order_index ASC').all(cycleId);
+            if (!blocks || blocks.length === 0) throw new Error('Nenhum bloco encontrado neste ciclo.');
+
+            // Atualiza bloco concluído
+            db.prepare(`
+                UPDATE study_cycle_blocks 
+                SET status = 'completed', completed_count = completed_count + 1, last_completed_at = CURRENT_TIMESTAMP 
+                WHERE id = ? AND cycle_id = ?
+            `).run(blockId, cycleId);
+
+            const nextIndex = cycle.current_block_index + 1;
+
+            if (nextIndex >= blocks.length) {
+                // Completou a volta inteira do ciclo! Reinicia status para nova volta
+                db.prepare(`
+                    UPDATE study_cycle_blocks 
+                    SET status = CASE WHEN order_index = 0 THEN 'in_progress' ELSE 'pending' END 
+                    WHERE cycle_id = ?
+                `).run(cycleId);
+
+                db.prepare(`
+                    UPDATE study_cycles 
+                    SET current_block_index = 0, completed_cycles_count = completed_cycles_count + 1, updated_at = CURRENT_TIMESTAMP 
+                    WHERE id = ?
+                `).run(cycleId);
+
+                logActivity('cycle_completed', `Completou a volta #${cycle.completed_cycles_count + 1} do ciclo de estudos!`, userId, careerId);
+            } else {
+                // Avança para o próximo bloco da esteira
+                db.prepare(`
+                    UPDATE study_cycle_blocks 
+                    SET status = 'in_progress' 
+                    WHERE cycle_id = ? AND order_index = ?
+                `).run(cycleId, nextIndex);
+
+                db.prepare(`
+                    UPDATE study_cycles 
+                    SET current_block_index = ?, updated_at = CURRENT_TIMESTAMP 
+                    WHERE id = ?
+                `).run(nextIndex, cycleId);
+
+                const currentBlock = blocks[cycle.current_block_index];
+                logActivity('cycle_block', `Concluiu bloco de ${currentBlock?.subject || 'estudo'} no ciclo (+20 XP)`, userId, careerId);
+            }
+
+            return getActiveStudyCycle(userId, careerId);
+        })();
+    } catch (err) {
+        console.error('Error advancing study cycle block:', err);
+        throw err;
+    }
+}
+
+export function updateStudyCycleBlock(blockId, updateData = {}) {
+    try {
+        const fields = [];
+        const params = [];
+
+        if (typeof updateData.duration_minutes === 'number') {
+            fields.push('duration_minutes = ?');
+            params.push(updateData.duration_minutes);
+        }
+        if (typeof updateData.difficulty_level === 'number') {
+            fields.push('difficulty_level = ?');
+            params.push(updateData.difficulty_level);
+        }
+        if (typeof updateData.order_index === 'number') {
+            fields.push('order_index = ?');
+            params.push(updateData.order_index);
+        }
+        if (updateData.status) {
+            fields.push('status = ?');
+            params.push(updateData.status);
+        }
+
+        if (fields.length === 0) return null;
+
+        params.push(blockId);
+        db.prepare(`UPDATE study_cycle_blocks SET ${fields.join(', ')} WHERE id = ?`).run(...params);
+        return db.prepare('SELECT * FROM study_cycle_blocks WHERE id = ?').get(blockId);
+    } catch (err) {
+        console.error('Error updating study cycle block:', err);
+        throw err;
+    }
+}
+
+export function deleteStudyCycle(cycleId, userId = 'user_joao', careerId = 'atrfb') {
+    try {
+        db.prepare('DELETE FROM study_cycles WHERE id = ? AND user_id = ?').run(cycleId, userId);
+        return { success: true, message: 'Ciclo excluído com sucesso.' };
+    } catch (err) {
+        console.error('Error deleting study cycle:', err);
+        throw err;
+    }
+}
 
 // Log activity wrapper with multi-user and career context
 export function logActivity(type, detail, userId = 'user_joao', careerId = 'atrfb') {

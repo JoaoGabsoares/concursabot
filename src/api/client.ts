@@ -7,7 +7,20 @@
  * Padrões: Singleton Pattern, Typed Facade, Clean Code.
  */
 
-import { UserProfile, DailyMission, Question, ErrorItem, Simulado, RedacaoCritique, Flashcard, Career, AuthResponse } from '../types';
+import {
+  UserProfile,
+  DailyMission,
+  Question,
+  ErrorItem,
+  Simulado,
+  StudyMaterial,
+  Flashcard,
+  RedacaoCritique,
+  AuthResponse,
+  StudyCycle,
+  StudyCycleBlock,
+  CycleModelOption
+} from '../types';
 
 export class ApiClient {
   private readonly baseUrl: string;
@@ -457,6 +470,65 @@ export class ApiClient {
     return this.request<{ success: boolean; action: string; reactions: any[] }>(`/community/messages/${messageId}/react`, {
       method: 'POST',
       body: JSON.stringify({ emoji, channelId, userId })
+    });
+  }
+
+  // --- MÓDULO DE CICLOS DE ESTUDO INTELIGENTES ---
+  public getActiveStudyCycle(userId?: string, careerId?: string): Promise<StudyCycle | null> {
+    const params = new URLSearchParams();
+    if (userId) params.append('userId', userId);
+    if (careerId) params.append('careerId', careerId);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<StudyCycle>(`/study-cycles/active${qs}`);
+  }
+
+  public generateStudyCycle(payload: {
+    userId?: string;
+    careerId?: string;
+    modelType?: string;
+    weeklyHours?: number;
+    blockDurationMinutes?: number;
+    examDate?: string | null;
+    customDifficulties?: Record<string, number>;
+    cycleName?: string;
+    saveImmediately?: boolean;
+  }): Promise<StudyCycle> {
+    return this.request<StudyCycle>('/study-cycles/generate', {
+      method: 'POST',
+      body: JSON.stringify(payload)
+    });
+  }
+
+  public advanceStudyCycleBlock(cycleId: string, blockId: number, userId?: string, careerId?: string): Promise<{ success: boolean; message: string; cycle: StudyCycle }> {
+    return this.request<{ success: boolean; message: string; cycle: StudyCycle }>('/study-cycles/advance', {
+      method: 'POST',
+      body: JSON.stringify({ cycleId, blockId, userId, careerId })
+    });
+  }
+
+  public updateStudyCycleBlock(blockId: number, data: Partial<StudyCycleBlock>): Promise<StudyCycleBlock> {
+    return this.request<StudyCycleBlock>(`/study-cycles/blocks/${blockId}`, {
+      method: 'PUT',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public getStudyCycleModels(): Promise<CycleModelOption[]> {
+    return this.request<CycleModelOption[]>('/study-cycles/models');
+  }
+
+  public getStudyCycleSubjects(careerId?: string): Promise<any[]> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<any[]>(`/study-cycles/subjects${qs}`);
+  }
+
+  public deleteStudyCycle(cycleId: string, userId?: string, careerId?: string): Promise<{ success: boolean; message: string }> {
+    const params = new URLSearchParams();
+    if (userId) params.append('userId', userId);
+    if (careerId) params.append('careerId', careerId);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<{ success: boolean; message: string }>(`/study-cycles/${cycleId}${qs}`, {
+      method: 'DELETE'
     });
   }
 }

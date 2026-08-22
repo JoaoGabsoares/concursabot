@@ -201,4 +201,30 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 13. Módulo de Ciclos de Estudo Inteligentes & Despoluição de Interface (v5.2.0)
+
+1. **🔄 Motor Matemático de Ciclos de Estudo Ponderados (`StudyCycleService.js` / `/api/study-cycles`)**:
+   - **Superação de Cronogramas Lineares Fixos**: Concursos de alta densidade (ex: Receita Federal ATRFB com 13 disciplinas) quebram diante de cronogramas fixos por dia da semana quando surgem imprevistos. O Ciclo de Estudos opera como uma esteira contínua e ininterrupta.
+   - **Fórmula de Ponderação Não-Genérica**:
+     $$T_i = H_{\text{semanais}} \times \frac{W_i \cdot D_i \cdot P_i \cdot B_i}{\sum (W_k \cdot D_k \cdot P_k \cdot B_k)}$$
+     Onde $W_i$ é o peso no edital, $D_i$ é o diagnóstico pessoal de dificuldade do aluno (1 a 4), $P_i$ é o multiplicador de fase e $B_i$ é o histórico de incidência da banca.
+   - **Interleaving / Alternância Cognitiva Anti-Fadiga**: O algoritmo organiza a fila de blocos alternando entre `Exatas & Dados` $\leftrightarrow$ `Direito & Leis` $\leftrightarrow$ `Humanas & Linguagens`, prevenindo esgotamento neural e maximizando a consolidação na memória de longo prazo.
+
+2. **📊 5 Modelos de Ciclo Especializados**:
+   - 🎯 **Adaptativo Inteligente**: Rebalanceamento proporcional automático edital $\times$ dificuldade pessoal.
+   - ⚡ **Pareto 80/20 (Reta Final)**: Alocação de 75-80% do tempo no "Núcleo Duro" da aprovação e discursiva.
+   - 🧱 **Base Pré-Edital (Construção por Ondas)**: Foco inicial na Onda 1 de disciplinas estruturais antes de abrir a Onda 2.
+   - ⏱️ **Sprint com Data da Prova**: Cálculo exato de voltas completas até o domingo da prova e checkpoints periódicos.
+   - 🚀 **Micro-Sprints (1h-2h/dia)**: Blocos rápidos de 45m com foco em questões para concurseiros com rotina de trabalho em tempo integral.
+
+3. **🎨 Despoluição Visual & Eliminação de Menus Duplicados**:
+   - **Navegação Desktop Unificada**: A barra lateral esquerda (**Sidebar**) centraliza 100% da navegação estrutural desktop.
+   - **Remoção de Menus Redundantes**: Eliminados o dropdown duplicado de atalhos no topo direito do Header e a barra horizontal secundária `DesktopNav`, liberando área nobre de leitura e estudo.
+   - **Navegação Mobile Otimizada**: `MobileBottomNav` e gaveta lateral unificada no Header.
+
+4. **🚀 Ação Direta na Sala de Estudos**:
+   - O card do Bloco Atual permite iniciar imediatamente a sessão na **Sala de Estudos** com a matéria pré-carregada ou registrar a conclusão com **+20 XP** e avanço em tempo real no gráfico do ciclo.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

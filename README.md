@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.1)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.2)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
@@ -11,16 +11,25 @@
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Interface Despoluída e sem Menus Duplicados**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
 
 ---
 
-## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.1)
+## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.2)
 
-1. 🏛️ **Dashboard Inicial & Portal Interativo (Público):**
+1. 🔄 **Ciclo de Estudos Dinâmico & Ponderado (Interleaving Anti-Fadiga):**
+   - Esteira rotativa contínua para editais com muitas matérias (ex: Receita Federal ATRFB com 13 disciplinas).
+   - Cálculo proporcional: $\text{Tempo} \propto \text{Peso no Edital} \times \text{Dificuldade do Aluno} \times \text{Fase}$.
+   - Intercalação automática entre *Exatas & Dados*, *Direito & Leis* e *Humanas & Linguagens* para prevenir fadiga sináptica.
+   - 5 modelos especializados: *Adaptativo*, *Pareto 80/20*, *Base Pré-Edital*, *Sprint com Data da Prova* e *Micro-Sprints (1h-2h)*.
+   - Ação direta: botão *"▶ Iniciar Estudo Deste Bloco"* conectado à Sala de Estudos e botão *"✓ Concluir Bloco (+20 XP)"*.
+2. 🎨 **Despoluição Visual & Eliminação de Menus Duplicados:**
+   - Navegação desktop unificada exclusivamente na Sidebar esquerda.
+   - Removidos dropdowns repetidos de atalhos e barras horizontais secundárias.
+3. 🏛️ **Dashboard Inicial & Portal Interativo (Público):**
    - Elimina a barreira de telas de login cruas.
    - Demonstração ao vivo de certames, distribuição de pesos oficiais e **Laboratório Caça-Pegadinhas com timer de 15 segundos**.
-2. 🔑 **Google OAuth Oficial Full-Page Redirect & Segurança de Sessão:**
+4. 🔑 **Google OAuth Oficial Full-Page Redirect & Segurança de Sessão:**
    - Redirecionamento nativo de tela inteira para `accounts.google.com` (sem popups invasivos, prompts inline ou GIS).
    - Troca de código de autorização em backend seguro (`/api/auth/google/callback`) com persistência na tabela `auth_sessions`.
    - Criptografia de senhas via Scrypt nativo com validação rigorosa de e-mail e isolamento hermético entre contas.

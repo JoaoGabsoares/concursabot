@@ -449,3 +449,17 @@ export function getGamificationStatus(userId, careerId = null) {
     };
   }
 }
+
+export function addXP(userId, amount, reason = 'Atividade Concluída', careerId = 'atrfb') {
+  try {
+    db.prepare(`
+      INSERT INTO user_xp_log (user_id, amount, reason, created_at, career_id)
+      VALUES (?, ?, ?, CURRENT_TIMESTAMP, ?)
+    `).run(userId, amount, reason, careerId);
+    return true;
+  } catch (e) {
+    console.error('Error adding XP:', e);
+    return false;
+  }
+}
+

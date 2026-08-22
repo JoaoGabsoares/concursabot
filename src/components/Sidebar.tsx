@@ -37,6 +37,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
       title: 'ESTUDO DIÁRIO',
       items: [
         { id: 'dashboard' as ActiveTab, label: 'Dashboard' },
+        { id: 'ciclos' as ActiveTab, label: 'Ciclo de Estudos' },
         { id: 'study' as ActiveTab, label: 'Sala de Estudos' },
         { id: 'simulados' as ActiveTab, label: 'Simulados & Treino' },
       ]

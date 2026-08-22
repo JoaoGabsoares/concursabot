@@ -3,13 +3,13 @@ import { UserProfile, ActiveTab, DailyMission } from './types';
 import { api } from './api/client';
 import { Sidebar } from './components/Sidebar';
 import { Header } from './components/Header';
-import { DesktopNav } from './components/DesktopNav';
 import { MobileBottomNav } from './components/MobileBottomNav';
 import { AuthAndUserSelector } from './components/AuthAndUserSelector';
 import { PublicDashboardPage } from './features/landing/PublicDashboardPage';
 
 // Pages
 import { DashboardPage } from './features/dashboard/DashboardPage';
+import { StudyCyclePage } from './features/study-cycle/StudyCyclePage';
 import { StudyRoomPage } from './features/study-room/StudyRoomPage';
 import { SimuladosPage } from './features/simulados/SimuladosPage';
 import { ErrorNotebookPage } from './features/error-notebook/ErrorNotebookPage';
@@ -164,7 +164,7 @@ export const App: React.FC = () => {
     }
   };
 
-  const handleStartStudy = (mission?: DailyMission) => {
+  const handleStartStudy = (target?: DailyMission | string) => {
     setActiveTab('study');
   };
 
@@ -228,14 +228,7 @@ export const App: React.FC = () => {
           onSwitchUser={handleSwitchUser}
         />
 
-        {/* Horizontal Navigation Bar (Desktop/Tablet) */}
-        <DesktopNav
-          activeTab={activeTab}
-          onNavigate={(tab) => setActiveTab(tab)}
-          pendingErrorsCount={pendingErrorsCount}
-        />
-
-        {/* Scrollable Viewport */}
+        {/* Scrollable Viewport (Zero menu duplication: left Sidebar handles desktop navigation) */}
         <main className="flex-1 overflow-y-auto p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8">
           <div className="max-w-7xl w-full mx-auto space-y-8">
             {activeTab === 'dashboard' && (
@@ -244,6 +237,15 @@ export const App: React.FC = () => {
                 careerId={careerId}
                 onNavigate={(tab) => setActiveTab(tab)}
                 pendingErrorsCount={pendingErrorsCount}
+                onStartStudy={handleStartStudy}
+              />
+            )}
+
+            {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
+              <StudyCyclePage
+                user={user}
+                careerId={careerId}
+                onNavigate={(tab) => setActiveTab(tab)}
                 onStartStudy={handleStartStudy}
               />
             )}

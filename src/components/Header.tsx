@@ -15,6 +15,7 @@ import {
   Settings, 
   LogOut,
   LayoutDashboard,
+  RotateCw,
   BookOpen,
   Target,
   BookMarked,
@@ -26,8 +27,7 @@ import {
   MessageSquare,
   ShieldCheck,
   HelpCircle,
-  Info,
-  Grid
+  Info
 } from 'lucide-react';
 
 interface HeaderProps {
@@ -55,12 +55,13 @@ export const Header: React.FC<HeaderProps> = ({
 }) => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
   const [careerDrawerDropdownOpen, setCareerDrawerDropdownOpen] = useState(false);
-  const [quickMenuOpen, setQuickMenuOpen] = useState(false);
   const currentCareer = getCareerById(currentCareerId);
   const currentRank = getConcurseiroRank(user?.xp || 0);
 
   const tabLabels: Record<ActiveTab, { title: string; category: string }> = {
     dashboard: { title: 'Dashboard', category: 'ESTUDO DIÁRIO' },
+    ciclos: { title: 'Ciclo de Estudos', category: 'ESTUDO DIÁRIO' },
+    'study-cycle': { title: 'Ciclo de Estudos', category: 'ESTUDO DIÁRIO' },
     study: { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
     'study-room': { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
@@ -85,6 +86,7 @@ export const Header: React.FC<HeaderProps> = ({
 
   const navMenuItems: { id: ActiveTab; label: string; icon: React.ReactNode; badge?: number }[] = [
     { id: 'dashboard', label: 'Dashboard', icon: <LayoutDashboard className="w-4 h-4" /> },
+    { id: 'ciclos', label: 'Ciclo de Estudos', icon: <RotateCw className="w-4 h-4" /> },
     { id: 'study', label: 'Sala de Estudos', icon: <BookOpen className="w-4 h-4" /> },
     { id: 'simulados', label: 'Simulados Oficiais', icon: <Target className="w-4 h-4" /> },
     { id: 'erros', label: 'Caderno de Erros', icon: <BookMarked className="w-4 h-4" />, badge: pendingErrorsCount },
@@ -156,117 +158,9 @@ export const Header: React.FC<HeaderProps> = ({
             <span className="sm:hidden">{user?.streakDays || 0}d</span>
           </div>
 
-          {/* Quick Menu Launcher Button (Desktop/Tablet) */}
-          <div className="relative">
-            <button
-              onClick={() => setQuickMenuOpen(!quickMenuOpen)}
-              className="px-3 py-1.5 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] hover:border-[var(--accent-primary)] flex items-center gap-1.5 text-xs font-mono font-bold text-[var(--text-primary)] transition-all shadow-xs"
-              title="Menu de Atalhos Rápidos"
-            >
-              <Grid className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
-              <span className="hidden sm:inline">Menu</span>
-              <ChevronDown className={`w-3 h-3 text-[var(--text-muted)] transition-transform ${quickMenuOpen ? 'rotate-180' : ''}`} />
-            </button>
-
-            {quickMenuOpen && (
-              <>
-                <div className="fixed inset-0 z-40" onClick={() => setQuickMenuOpen(false)} />
-                <div className="absolute right-0 top-full mt-2 w-72 sm:w-80 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-focus)] shadow-2xl p-3 z-50 animate-fade-in font-sans space-y-3">
-                  <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)] px-1">
-                    <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider">
-                      Atalhos da Plataforma
-                    </span>
-                    <CarimboStatus status="homologado" label="OFICIAL" />
-                  </div>
-
-                  <div className="grid grid-cols-2 gap-2 text-xs">
-                    <button
-                      onClick={() => { onNavigate('study'); setQuickMenuOpen(false); }}
-                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
-                    >
-                      <div className="flex items-center gap-1.5 text-[var(--accent-primary)] font-bold">
-                        <BookOpen className="w-3.5 h-3.5" />
-                        <span>Doutrina</span>
-                      </div>
-                      <div className="text-[10px] text-[var(--text-muted)]">Sala de Estudos</div>
-                    </button>
-
-                    <button
-                      onClick={() => { onNavigate('simulados'); setQuickMenuOpen(false); }}
-                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
-                    >
-                      <div className="flex items-center gap-1.5 text-emerald-500 font-bold">
-                        <Target className="w-3.5 h-3.5" />
-                        <span>Simulados</span>
-                      </div>
-                      <div className="text-[10px] text-[var(--text-muted)]">Treino Oficial</div>
-                    </button>
-
-                    <button
-                      onClick={() => { onNavigate('erros'); setQuickMenuOpen(false); }}
-                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
-                    >
-                      <div className="flex items-center gap-1.5 text-rose-500 font-bold">
-                        <BookMarked className="w-3.5 h-3.5" />
-                        <span>Erros</span>
-                      </div>
-                      <div className="text-[10px] text-[var(--text-muted)]">{pendingErrorsCount} pendentes</div>
-                    </button>
-
-                    <button
-                      onClick={() => { onNavigate('leiseca'); setQuickMenuOpen(false); }}
-                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
-                    >
-                      <div className="flex items-center gap-1.5 text-amber-500 font-bold">
-                        <Scale className="w-3.5 h-3.5" />
-                        <span>Pegadinhas</span>
-                      </div>
-                      <div className="text-[10px] text-[var(--text-muted)]">Lei Seca</div>
-                    </button>
-
-                    <button
-                      onClick={() => { onNavigate('edital'); setQuickMenuOpen(false); }}
-                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
-                    >
-                      <div className="flex items-center gap-1.5 text-blue-500 font-bold">
-                        <BarChart3 className="w-3.5 h-3.5" />
-                        <span>Raio-X Edital</span>
-                      </div>
-                      <div className="text-[10px] text-[var(--text-muted)]">Pesos e Pareto</div>
-                    </button>
-
-                    <button
-                      onClick={() => { onNavigate('guia'); setQuickMenuOpen(false); }}
-                      className="p-2.5 rounded-xl bg-[var(--bg-elevated)] hover:bg-[var(--bg-base)] border border-[var(--border-subtle)] text-left space-y-1 transition-colors group"
-                    >
-                      <div className="flex items-center gap-1.5 text-indigo-500 font-bold">
-                        <HelpCircle className="w-3.5 h-3.5" />
-                        <span>Metodologia</span>
-                      </div>
-                      <div className="text-[10px] text-[var(--text-muted)]">Guia de Estudos</div>
-                    </button>
-                  </div>
-
-                  <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono">
-                    <button
-                      onClick={() => { onNavigate('settings'); setQuickMenuOpen(false); }}
-                      className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] flex items-center gap-1"
-                    >
-                      <Settings className="w-3.5 h-3.5" />
-                      <span>Ajustes</span>
-                    </button>
-
-                    <button
-                      onClick={() => { onNavigate('sobre'); setQuickMenuOpen(false); }}
-                      className="text-[var(--text-muted)] hover:text-[var(--text-primary)] flex items-center gap-1"
-                    >
-                      <Info className="w-3.5 h-3.5" />
-                      <span>Sobre o Sistema</span>
-                    </button>
-                  </div>
-                </div>
-              </>
-            )}
+          {/* Edital Official Badge */}
+          <div className="hidden xl:flex items-center gap-1.5 px-3 py-1 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20 text-xs font-mono text-[var(--accent-primary)] font-bold">
+            <span>{currentCareer.shortName || currentCareer.banca}</span>
           </div>
 
           {/* Theme Toggle */}

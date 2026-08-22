@@ -14,10 +14,10 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
 }) => {
   const tabs = [
     { id: 'dashboard' as ActiveTab, label: 'Início' },
+    { id: 'ciclos' as ActiveTab, label: 'Ciclos' },
     { id: 'study' as ActiveTab, label: 'Estudo' },
     { id: 'simulados' as ActiveTab, label: 'Simulado' },
     { id: 'erros' as ActiveTab, label: 'Erros', badge: pendingErrorsCount },
-    { id: 'redacao' as ActiveTab, label: 'Redação' },
   ];
 
   return (

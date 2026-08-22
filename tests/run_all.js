@@ -8,6 +8,7 @@ import { runSecurityTests } from './security/pentest_and_ai.test.js';
 import { runLeiSecaAndAproveitamentoTests } from './integration/leiseca_and_aproveitamento.test.js';
 import { runCommunityAndCadernoErrosTests } from './integration/community_and_caderno_erros.test.js';
 import { runV35FixesTests } from './integration/v3_5_fixes.test.js';
+import { runStudyCyclesTests } from './integration/study_cycles.test.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -62,6 +63,7 @@ async function main() {
     await runLeiSecaAndAproveitamentoTests();
     await runCommunityAndCadernoErrosTests();
     await runV35FixesTests();
+    await runStudyCyclesTests();
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(2);
     console.log('\n===============================================================');
