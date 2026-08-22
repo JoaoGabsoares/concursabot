@@ -522,38 +522,6 @@ export class ApiClient {
     });
   }
 
-  // --- MÓDULO DE COMUNIDADE & CHAT EM TEMPO REAL ---
-  public getCommunityChannels(careerId?: string): Promise<{ success: boolean; channels: any[] }> {
-    const qs = careerId ? `?careerId=${careerId}` : '';
-    return this.request<{ success: boolean; channels: any[] }>(`/community/channels${qs}`);
-  }
-
-  public getCommunityMessages(channelId: string, limit: number = 60): Promise<{ success: boolean; messages: any[] }> {
-    return this.request<{ success: boolean; messages: any[] }>(`/community/messages/${channelId}?limit=${limit}`);
-  }
-
-  public sendCommunityMessage(payload: { 
-    channelId: string; 
-    messageText: string; 
-    userName?: string; 
-    userAvatar?: string; 
-    careerBadge?: string; 
-    careerId?: string;
-    userId?: string;
-  }): Promise<{ success: boolean; message: any }> {
-    return this.request<{ success: boolean; message: any }>('/community/messages', {
-      method: 'POST',
-      body: JSON.stringify(payload)
-    });
-  }
-
-  public reactCommunityMessage(messageId: number, emoji: string, channelId?: string, userId?: string): Promise<{ success: boolean; action: string; reactions: any[] }> {
-    return this.request<{ success: boolean; action: string; reactions: any[] }>(`/community/messages/${messageId}/react`, {
-      method: 'POST',
-      body: JSON.stringify({ emoji, channelId, userId })
-    });
-  }
-
   // --- MÓDULO DE CICLOS DE ESTUDO INTELIGENTES ---
   public getActiveStudyCycle(userId?: string, careerId?: string): Promise<StudyCycle | null> {
     const params = new URLSearchParams();

@@ -18,7 +18,6 @@ const LeiSecaPage = React.lazy(() => import('./features/leiseca/LeiSecaPage').th
 const AproveitamentoPage = React.lazy(() => import('./features/aproveitamento/AproveitamentoPage').then(m => ({ default: m.AproveitamentoPage })));
 const EditalPage = React.lazy(() => import('./features/edital/EditalPage').then(m => ({ default: m.EditalPage })));
 const FlashcardsPage = React.lazy(() => import('./features/flashcards/FlashcardsPage').then(m => ({ default: m.FlashcardsPage })));
-const CommunityPage = React.lazy(() => import('./features/community/CommunityPage').then(m => ({ default: m.CommunityPage })));
 const GuiaMetodoPage = React.lazy(() => import('./features/guide/GuiaMetodoPage').then(m => ({ default: m.GuiaMetodoPage })));
 const AboutPage = React.lazy(() => import('./features/about/AboutPage').then(m => ({ default: m.AboutPage })));
 const SettingsPage = React.lazy(() => import('./features/settings/SettingsPage').then(m => ({ default: m.SettingsPage })));
@@ -290,10 +289,6 @@ export const App: React.FC = () => {
 
               {activeTab === 'flashcards' && (
                 <FlashcardsPage careerId={careerId} />
-              )}
-
-              {activeTab === 'comunidade' && (
-                <CommunityPage careerId={careerId} user={user} />
               )}
 
               {(activeTab === 'guia' || activeTab === 'settings_guia') && (

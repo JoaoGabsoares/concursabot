@@ -146,8 +146,6 @@ export type ActiveTab =
   | 'aproveitamento' 
   | 'edital' 
   | 'flashcards' 
-  | 'comunidade' 
-  | 'community'
   | 'guia'
   | 'sobre'
   | 'settings'

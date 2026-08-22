@@ -40,25 +40,18 @@ export async function runV35FixesTests() {
   assert.ok(shortPassData.error && shortPassData.error.includes('8 caracteres'), 'Mensagem de erro deve exigir mínimo de 8 caracteres');
   console.log('   ✅ Senha curta (< 8) rejeitada corretamente com mensagem clara.');
 
-  // 2. Teste do Chat Comunitário & SSE
-  console.log('2️⃣  Validando arquitetura do Chat Comunitário & Provisionamento de Canais...');
-  const msgRes = await fetch(`${BASE_URL}/community/messages`, {
-    method: 'POST',
-    headers: { 
-      'Content-Type': 'application/json',
+  // 2. Teste de Caderno de Erros & Foco Individual
+  console.log('2️⃣  Validando isolamento de dados do Caderno de Erros...');
+  const errosRes = await fetch(`${BASE_URL}/caderno-erros?career_id=transpetro_adm`, {
+    headers: {
       'x-user-id': prof.id,
       ...authHeaders
-    },
-    body: JSON.stringify({
-      channelId: 'transpetro_adm_geral',
-      content: 'Mensagem de teste de alta confiabilidade v3.5'
-    })
+    }
   });
-  const msgData = await msgRes.json();
-  assert.strictEqual(msgRes.status, 200, 'Envio de mensagem deve retornar 200 OK');
-  assert.ok(msgData.id, 'Mensagem deve conter ID persistido');
-  assert.strictEqual(msgData.content, 'Mensagem de teste de alta confiabilidade v3.5');
-  console.log('   ✅ Chat Comunitário: canais auto-provisionados e mensagens persistidas com sucesso.');
+  const errosData = await errosRes.json();
+  assert.strictEqual(errosRes.status, 200, 'Consulta de caderno de erros deve retornar 200 OK');
+  assert.strictEqual(errosData.success, true);
+  console.log('   ✅ Caderno de Erros: isolamento e persistência verificados com sucesso.');
 
   // 3. Teste de Isolamento de Carreira Transpetro
   console.log('3️⃣  Validando catálogo de matérias da Transpetro (Isolamento de Carreiras)...');

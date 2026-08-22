@@ -768,71 +768,16 @@ function initDB() {
               INSERT INTO questions_fts(rowid, question_text, explanation, subject, topic, banca)
               VALUES (new.id, new.question_text, new.explanation, new.subject, new.topic, new.banca);
             END;
-
-            -- Community Chat Schema (Real-time SSE + SQLite)
-            CREATE TABLE IF NOT EXISTS community_channels (
-                id TEXT PRIMARY KEY,
-                career_id TEXT NOT NULL,
-                name TEXT NOT NULL,
-                description TEXT,
-                icon TEXT DEFAULT '💬',
-                created_at DATETIME DEFAULT CURRENT_TIMESTAMP
-            );
-            CREATE INDEX IF NOT EXISTS idx_community_channels_career ON community_channels(career_id);
-
-            CREATE TABLE IF NOT EXISTS community_messages (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                channel_id TEXT NOT NULL,
-                user_id TEXT NOT NULL,
-                user_name TEXT NOT NULL,
-                user_avatar TEXT DEFAULT '👨‍🎓',
-                career_badge TEXT,
-                message_text TEXT NOT NULL,
-                attachment_type TEXT,
-                attachment_id INTEGER,
-                is_ai_response INTEGER DEFAULT 0,
-                created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-                FOREIGN KEY (channel_id) REFERENCES community_channels(id) ON DELETE CASCADE
-            );
-            CREATE INDEX IF NOT EXISTS idx_community_messages_channel ON community_messages(channel_id, created_at ASC);
-
-            CREATE TABLE IF NOT EXISTS message_reactions (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                message_id INTEGER NOT NULL,
-                user_id TEXT NOT NULL,
-                reaction_emoji TEXT NOT NULL,
-                created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-                UNIQUE(message_id, user_id, reaction_emoji),
-                FOREIGN KEY (message_id) REFERENCES community_messages(id) ON DELETE CASCADE
-            );
-            CREATE INDEX IF NOT EXISTS idx_reactions_message ON message_reactions(message_id);
         `);
 
-        // Seed default community channels if empty
+        // Drop legacy community chat tables if present (zero distraction solo study environment)
         try {
-            const channelCount = db.prepare('SELECT COUNT(*) as c FROM community_channels').get()?.c || 0;
-            if (channelCount === 0) {
-                const defaultCareers = ['atrfb', 'transpetro_adm', 'transpetro_log', 'bb_comercial', 'bb_ti', 'ses_rj', 'marinha_rm2'];
-                const channelTemplates = [
-                    { suffix: 'geral', name: 'Geral & Estratégia de Edital', icon: '🏛️', desc: 'Canal de discussões gerais, cronogramas e notícias do certame.' },
-                    { suffix: 'duvidas', name: 'Dúvidas & Resoluções', icon: '💡', desc: 'Tire dúvidas conceituais e marque @GabaritoAI para explicações com IA.' },
-                    { suffix: 'leiseca', name: 'Lei Seca & Pegadinhas', icon: '⚖️', desc: 'Troca de artigos de ouro e alertas de pegadinhas das bancas.' },
-                    { suffix: 'redacao', name: 'Discursivas & Redação', icon: '✍️', desc: 'Estruturação de argumentos e temas oficiais de concurso.' }
-                ];
-
-                for (const career of defaultCareers) {
-                    for (const tpl of channelTemplates) {
-                        const channelId = `${career}_${tpl.suffix}`;
-                        db.prepare(`
-                            INSERT OR IGNORE INTO community_channels (id, career_id, name, description, icon)
-                            VALUES (?, ?, ?, ?, ?)
-                        `).run(channelId, career, tpl.name, tpl.desc, tpl.icon);
-                    }
-                }
-            }
-        } catch (seedChErr) {
-            console.warn('Community seed note:', seedChErr.message);
-        }
+            db.exec(`
+                DROP TABLE IF EXISTS message_reactions;
+                DROP TABLE IF EXISTS community_messages;
+                DROP TABLE IF EXISTS community_channels;
+            `);
+        } catch (dropErr) {}
 
         // Popular e sincronizar FTS5
         try {

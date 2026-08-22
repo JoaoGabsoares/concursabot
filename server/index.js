@@ -32,7 +32,6 @@ import redacaoRoutes from './routes/redacao.js';
 import leisecaRoutes from './routes/leiseca.js';
 import aproveitamentoRoutes from './routes/aproveitamento.js';
 import jurisprudenciaRoutes from './routes/jurisprudencia.js';
-import communityRoutes from './routes/community.js';
 import studyCycleRoutes from './routes/studyCycle.js';
 import { generalLimiter, aiRateLimiter, authRateLimiter } from './middleware/rate-limiter.js';
 import { seedExamBenchmarks } from './seeds/exam_benchmarks_seed.js';
@@ -67,10 +66,10 @@ app.disable('x-powered-by');
 // Security Hardening: Confia no primeiro proxy reverso (Cloudflare / Render) para Rate Limiting real
 app.set('trust proxy', 1);
 
-// Enable HTTP Compression (Gzip / Brotli) with exclusion for Server-Sent Events (SSE)
+// Enable HTTP Compression (Gzip / Brotli)
 app.use(compression({
     filter: (req, res) => {
-        if (req.headers.accept === 'text/event-stream' || (req.path && req.path.includes('/community/stream'))) {
+        if (req.headers.accept === 'text/event-stream') {
             return false;
         }
         return compression.filter(req, res);
@@ -218,7 +217,6 @@ app.use('/api/redacao', aiRateLimiter, redacaoRoutes);
 app.use('/api/leiseca', leisecaRoutes);
 app.use('/api/aproveitamento', aproveitamentoRoutes);
 app.use('/api/jurisprudencia', jurisprudenciaRoutes);
-app.use('/api/community', communityRoutes);
 app.use('/api/study-cycles', studyCycleRoutes);
 
 // SPA Client Routing Catch-All (React 19 / Vite)

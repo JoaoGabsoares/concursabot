@@ -6,7 +6,7 @@ import { runAuthAndIsolationTests } from './integration/auth_and_isolation.test.
 import { runStudyRoomCadenceTests } from './integration/study_room_cadence.test.js';
 import { runSecurityTests } from './security/pentest_and_ai.test.js';
 import { runLeiSecaAndAproveitamentoTests } from './integration/leiseca_and_aproveitamento.test.js';
-import { runCommunityAndCadernoErrosTests } from './integration/community_and_caderno_erros.test.js';
+import { runCadernoErrosTests } from './integration/community_and_caderno_erros.test.js';
 import { runV35FixesTests } from './integration/v3_5_fixes.test.js';
 import { runStudyCyclesTests } from './integration/study_cycles.test.js';
 import { runRagKnowledgeTests } from './integration/rag_knowledge.test.js';
@@ -63,7 +63,7 @@ async function main() {
     await runStudyRoomCadenceTests(TEST_BASE_URL);
     await runSecurityTests(TEST_BASE_URL);
     await runLeiSecaAndAproveitamentoTests(TEST_BASE_URL);
-    await runCommunityAndCadernoErrosTests(TEST_BASE_URL);
+    await runCadernoErrosTests(TEST_BASE_URL);
     await runV35FixesTests(TEST_BASE_URL);
     await runStudyCyclesTests(TEST_BASE_URL);
     await runRagKnowledgeTests(TEST_BASE_URL);
