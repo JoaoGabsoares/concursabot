@@ -11,9 +11,9 @@ console.log('===============================================================');
 
 const rootDir = path.join(__dirname, '..');
 
-// 1. Inicia o Servidor Backend (Porta 3000)
-console.log('📡 Iniciando Servidor Backend (Node.js / Express na porta 3000)...');
-const serverProc = spawn(process.execPath, [path.join(rootDir, 'server/index.js')], {
+// 1. Inicia o Servidor Backend (Porta 3000 com Hot-Reload nativo --watch)
+console.log('📡 Iniciando Servidor Backend (Node.js 22 com --watch na porta 3000)...');
+const serverProc = spawn(process.execPath, ['--watch', path.join(rootDir, 'server/index.js')], {
     stdio: 'inherit',
     env: { ...process.env, PORT: '3000' }
 });

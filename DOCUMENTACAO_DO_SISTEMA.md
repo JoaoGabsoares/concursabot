@@ -484,6 +484,17 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 25. Ativação de Hot-Reload Nativo do Backend (Node 22 `--watch`) e Prevenção de Processos Stale (v6.5.0)
+
+1. **🔥 Hot-Reload Nativo no Backend (`scripts/dev.js` e `package.json`)**:
+   - Atualizado o script central de desenvolvimento (`npm run dev`) e os atalhos (`npm run server` / `npm run dev:server`) para executar `node --watch server/index.js`.
+   - Todas as modificações em rotas, middlewares e controladores em `server/` agora disparam o reinício instantâneo do Express em memória (<100ms), sincronizando automaticamente as rotas com o cliente Vite sem necessidade de reinício manual.
+
+2. **🧹 Limpeza e Encerramento de Processos Residuais**:
+   - Encerramento de instâncias antigas do Node.js em background e liberação completa da porta 3000 para uso exclusivo do ambiente de desenvolvimento atualizado.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
 
 
