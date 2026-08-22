@@ -17,6 +17,7 @@ import {
   STUDY_ROOM_SYSTEM_PROMPT
 } from '../prompts/study-room.js';
 import { CAREERS_CATALOG, getCareerConfig } from '../careers.js';
+import { calculateUserStreak } from '../gamification.js';
 import { universalPdfService } from '../services/UniversalPdfService.js';
 import { studyCadenceService } from '../services/StudyCadenceService.js';
 import { processUniversalPdf, sanitizePdfText, calculateReadingMetrics } from '../utils/universal-pdf-parser.js';
@@ -427,6 +428,198 @@ router.post('/register-study', (req, res) => {
   } catch (err) {
     console.error('Erro ao registrar estudo:', err);
     res.status(500).json({ error: 'Falha ao registrar estudo: ' + err.message });
+  }
+});
+
+// POST /register-past-study — Grava estudo retroativo (dias anteriores) com cálculo de XP e recálculo de streak
+router.post('/register-past-study', (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
+    const {
+      studyDate,
+      subject,
+      topic,
+      durationMinutes,
+      pagesRead,
+      questionsCount,
+      questionsCorrect,
+      notes,
+      materialId
+    } = req.body;
+
+    if (!studyDate) {
+      return res.status(400).json({ error: 'A data do estudo (studyDate) é obrigatória.' });
+    }
+
+    if (!subject) {
+      return res.status(400).json({ error: 'A disciplina (subject) é obrigatória.' });
+    }
+
+    const minutes = Math.max(parseInt(durationMinutes, 10) || 60, 5);
+    const pRead = parseInt(pagesRead, 10) || 0;
+    const qCount = parseInt(questionsCount, 10) || 0;
+    const qCorrect = parseInt(questionsCorrect, 10) || 0;
+
+    // Formata os timestamps com a data retroativa
+    const dateOnly = studyDate.split('T')[0];
+    const startedAt = `${dateOnly} 10:00:00`;
+    const endMinutes = String(minutes % 60).padStart(2, '0');
+    const endHours = String(Math.min(23, 10 + Math.floor(minutes / 60))).padStart(2, '0');
+    const completedAt = `${dateOnly} ${endHours}:${endMinutes}:00`;
+
+    // 1. Grava a sessão em study_sessions com a data passada
+    const scopeNote = [
+      topic ? `Assunto: ${topic}` : null,
+      pRead > 0 ? `${pRead} páginas lidas` : null,
+      qCount > 0 ? `${qCorrect}/${qCount} questões certas` : null,
+      notes ? `Notas: ${notes}` : null
+    ].filter(Boolean).join(' • ');
+
+    const sessionResult = db.prepare(`
+      INSERT INTO study_sessions (
+        material_id, duration_minutes, status, user_id, career_id, started_at, completed_at, actual_duration_seconds, scope_note
+      ) VALUES (?, ?, 'completed', ?, ?, ?, ?, ?, ?)
+    `).run(
+      materialId ? Number(materialId) : null,
+      minutes,
+      userId,
+      careerId,
+      startedAt,
+      completedAt,
+      minutes * 60,
+      scopeNote || 'Estudo retroativo registrado'
+    );
+
+    const sessionId = sessionResult.lastInsertRowid;
+
+    // 2. Calcula XP concedido: 20 XP por bloco de 30m + 2 XP por questão feita
+    const xpGained = Math.round((minutes / 30) * 20 + (qCount * 2) + (pRead > 0 ? 10 : 0));
+
+    // 3. Atualiza perfil do usuário (XP e histórico)
+    try {
+      db.prepare(`
+        UPDATE user_profiles
+        SET xp = xp + ?
+        WHERE id = ?
+      `).run(xpGained, userId);
+
+      db.prepare(`
+        INSERT INTO user_xp_log (user_id, amount, reason)
+        VALUES (?, ?, ?)
+      `).run(userId, xpGained, `Estudo Retroativo (${dateOnly}): ${subject}${topic ? ` - ${topic}` : ''}`);
+    } catch (xpErr) {
+      console.warn('Aviso ao atualizar XP retroativo:', xpErr.message);
+    }
+
+    // 4. Registra no log de atividade com a data do estudo
+    try {
+      db.prepare(`
+        INSERT INTO activity_log (user_id, career_id, type, detail, created_at)
+        VALUES (?, ?, 'study_session', ?, ?)
+      `).run(
+        userId,
+        careerId,
+        `[Estudo Retroativo] ${minutes}min de ${subject}${topic ? ` (${topic})` : ''} em ${dateOnly}`,
+        completedAt
+      );
+    } catch (logErr) {
+      console.warn('Aviso ao registrar log retroativo:', logErr.message);
+    }
+
+    // 5. Recalcula o streak do usuário considerando a nova data inserida
+    let newStreak = 0;
+    try {
+      newStreak = calculateUserStreak(userId, careerId);
+      db.prepare(`
+        UPDATE user_profiles
+        SET streakDays = ?
+        WHERE id = ?
+      `).run(newStreak, userId);
+    } catch (streakErr) {
+      console.warn('Aviso ao recalcular streak:', streakErr.message);
+    }
+
+    res.json({
+      success: true,
+      sessionId,
+      xpGained,
+      newStreak,
+      studyDate: dateOnly,
+      message: `Estudo de ${dateOnly} registrado com sucesso! +${xpGained} XP concedidos.`
+    });
+  } catch (err) {
+    console.error('Erro ao registrar estudo retroativo:', err);
+    res.status(500).json({ error: 'Falha ao registrar estudo retroativo: ' + err.message });
+  }
+});
+
+// GET /past-studies — Lista histórico de sessões de estudo retroativas
+router.get('/past-studies', (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.query.careerId || null;
+
+    const rows = db.prepare(`
+      SELECT 
+        ss.id,
+        ss.material_id,
+        ss.duration_minutes,
+        ss.started_at,
+        ss.completed_at,
+        ss.scope_note,
+        COALESCE(sm.subject, 'Estudo Geral') as subject,
+        COALESCE(sm.title, '') as title,
+        substr(ss.started_at, 1, 10) as study_date
+      FROM study_sessions ss
+      LEFT JOIN study_materials sm ON ss.material_id = sm.id
+      WHERE ss.user_id = ? AND ss.status = 'completed'
+        AND (ss.career_id = ? OR ? IS NULL OR ss.career_id IS NULL)
+      ORDER BY ss.started_at DESC
+      LIMIT 50
+    `).all(userId, careerId, careerId);
+
+    res.json({
+      success: true,
+      items: rows
+    });
+  } catch (err) {
+    console.error('Erro ao buscar estudos passados:', err);
+    res.status(500).json({ error: 'Falha ao buscar histórico de estudos: ' + err.message });
+  }
+});
+
+// DELETE /past-study/:id — Remove um lançamento de estudo retroativo
+router.delete('/past-study/:id', (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const sessionId = parseInt(req.params.id, 10);
+
+    const session = db.prepare(`
+      SELECT id, career_id FROM study_sessions WHERE id = ? AND user_id = ?
+    `).get(sessionId, userId);
+
+    if (!session) {
+      return res.status(404).json({ error: 'Sessão de estudo não encontrada.' });
+    }
+
+    db.prepare(`DELETE FROM study_sessions WHERE id = ? AND user_id = ?`).run(sessionId, userId);
+
+    // Recalcula o streak
+    let newStreak = 0;
+    try {
+      newStreak = calculateUserStreak(userId, session.career_id);
+      db.prepare(`UPDATE user_profiles SET streakDays = ? WHERE id = ?`).run(newStreak, userId);
+    } catch (e) {}
+
+    res.json({
+      success: true,
+      newStreak,
+      message: 'Lançamento de estudo removido com sucesso.'
+    });
+  } catch (err) {
+    console.error('Erro ao excluir estudo retroativo:', err);
+    res.status(500).json({ error: 'Falha ao excluir estudo: ' + err.message });
   }
 });
 

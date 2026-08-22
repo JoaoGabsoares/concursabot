@@ -353,4 +353,46 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 19. Registro de Estudos Retroativos / Dias Anteriores & Recálculo de Ofensiva (v5.9.0)
+
+1. **📅 Gravação Retroativa de Dias de Estudo Anteriores**:
+   - **Objetivo**: Permitir que o concurseiro registre estudos realizados em datas passadas (livros físicos, PDFs externos ou dias em que estudou antes de cadastrar no sistema) sem perder sua ofensiva e histórico de horas.
+   - **Campos Estruturados**:
+     - *Data do Estudo*: Seletor de data (`YYYY-MM-DD`, até a data atual) com atalhos inteligentes (`[Ontem]`, `[Anteontem]`, `[3 dias atrás]`, `[Hoje]`).
+     - *Disciplina & Tópico*: Dropdown com as matérias oficiais do concurso ativo e campo livre de assunto.
+     - *Duração*: Presets rápidos (`30m`, `45m`, `60m`, `90m`, `120m`, `180m`) e campo numérico livre.
+     - *Páginas Lidas & Questões Resolvidas*: Campos opcionais com volume de questões e acertos.
+     - *Anotações Pessoais*: Resumo técnico ou pontos de revisão.
+
+2. **🔥 Recálculo Automático de Ofensiva (Streak) & Concessão de XP**:
+   - O motor `calculateUserStreak(userId, careerId)` foi atualizado para agrupar todas as sessões históricas registradas em `study_sessions`, `activity_log` e `question_answers`.
+   - Concessão de XP retroativo em tempo real (+20 XP por 30m de estudo + 2 XP por questão feita) com feedback instantâneo via toast.
+
+3. **📜 Histórico e Gerenciamento de Lançamentos**:
+   - Aba interna no modal para consultar todas as sessões retroativas cadastradas com badge de data, duração e opção de exclusão com recálculo imediato do streak.
+   - Pontos de acesso direto no **Widget da Chama da Consistência** no Dashboard e na **Sala de Estudos**.
+
+---
+
+## 20. Sincronização Selecionável de Fontes de Estudo para Questões e Simulados (v5.10.0)
+
+1. **🎯 Segmentação e Seleção de Fontes de Estudo**:
+   - O concurseiro agora pode escolher explicitamente qual modalidade de estudo guiará a seleção e geração de questões nos simulados por disciplina:
+     - 🌐 **Todas as Fontes (Híbrido)**: Considera PDFs + Elaborações de IA + Estudos Retroativos gravados.
+     - 🤖 **Apenas Elaborações da IA**: Questões baseadas estritamente nos módulos didáticos, cadernos enxutos e resumos conceituais gerados pela IA no Gabarito.AI.
+     - 📄 **Apenas Meus PDFs**: Questões focadas nos tópicos e capítulos dos arquivos PDF que o aluno subiu e estudou.
+     - 🏛️ **Edital Completo**: Simulado amplo cobrindo toda a ementa oficial da banca.
+     - ⚠️ **Caderno de Erros**: Drill direcionado apenas às questões erradas anteriormente na matéria.
+
+2. **📊 Painel de Reconhecimento em Tempo Real**:
+   - Ao selecionar a disciplina no simulado, o painel exibe em tempo real o volume de conteúdo já estudado naquela matéria:
+     - `📄 X PDFs • 🤖 Y Aulas IA • ⏱️ Z Sessões Retroativas`.
+   - Se o aluno escolher uma fonte sem estudo prévio, o sistema emite um aviso suave e adapta automaticamente com questões oficiais da banca.
+
+3. **🧠 Injeção Contextual no Gemini e Banco de Questões**:
+   - O endpoint `POST /api/simulados/create-by-subject` extrai os tópicos reais da fonte selecionada e injeta as diretrizes específicas da banca examinadora (FGV, DEnsM, Cesgranrio) garantindo precisão cirúrgica no conteúdo treinado.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
+

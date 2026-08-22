@@ -111,10 +111,20 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   // Configurações do Simulado por Matéria
   const [selectedSubject, setSelectedSubject] = useState<string>(careerSubjects[0]?.name || 'Direito Tributário');
   const [selectedQuestionCount, setSelectedQuestionCount] = useState<number>(20);
-  const [selectedScopeMode, setSelectedScopeMode] = useState<'studied_only' | 'full_edital' | 'errors_only'>('studied_only');
+  const [selectedStudySource, setSelectedStudySource] = useState<'all' | 'ai_only' | 'pdf_only' | 'full_edital' | 'errors_only'>('all');
 
-  // Reconhecimento do que foi estudado
+  // Reconhecimento do que foi estudado segmentado
   const [studiedScope, setStudiedScope] = useState<string[]>([]);
+  const [pdfSubjects, setPdfSubjects] = useState<string[]>([]);
+  const [aiSubjects, setAiSubjects] = useState<string[]>([]);
+  const [manualSubjects, setManualSubjects] = useState<string[]>([]);
+  const [topicsBySubject, setTopicsBySubject] = useState<Record<string, { pdf: string[]; ai: string[]; manual: string[]; all: string[] }>>({});
+  const [scopeCounts, setScopeCounts] = useState<{ pdfCount: number; aiCount: number; manualCount: number; total: number }>({
+    pdfCount: 0,
+    aiCount: 0,
+    manualCount: 0,
+    total: 0
+  });
   const [studiedScopeCount, setStudiedScopeCount] = useState<number>(0);
 
   // Lista dinâmica de questões do exame ativo
@@ -153,9 +163,14 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const loadStudiedScope = async () => {
     try {
       const res = await api.getStudiedScope(careerId);
-      if (res && res.studiedSubjects) {
-        setStudiedScope(res.studiedSubjects);
-        setStudiedScopeCount(res.studiedMaterialsCount || 0);
+      if (res) {
+        if (res.studiedSubjects) setStudiedScope(res.studiedSubjects);
+        if (res.pdfSubjects) setPdfSubjects(res.pdfSubjects);
+        if (res.aiSubjects) setAiSubjects(res.aiSubjects);
+        if (res.manualSubjects) setManualSubjects(res.manualSubjects);
+        if (res.topicsBySubject) setTopicsBySubject(res.topicsBySubject);
+        if (res.counts) setScopeCounts(res.counts);
+        setStudiedScopeCount(res.studiedMaterialsCount || res.studiedSubjects?.length || 0);
       }
     } catch (err) {
       console.warn('Erro ao carregar escopo de estudos:', err);
@@ -164,6 +179,17 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
   const isSubjectStudied = (subjName: string) => {
     const lower = subjName.toLowerCase().trim();
+    return studiedScope.some(s => s.toLowerCase().trim().includes(lower) || lower.includes(s.toLowerCase().trim()));
+  };
+
+  const isSubjectInSource = (subjName: string, source: 'all' | 'ai_only' | 'pdf_only') => {
+    const lower = subjName.toLowerCase().trim();
+    if (source === 'pdf_only') {
+      return pdfSubjects.some(s => s.toLowerCase().trim().includes(lower) || lower.includes(s.toLowerCase().trim()));
+    }
+    if (source === 'ai_only') {
+      return aiSubjects.some(s => s.toLowerCase().trim().includes(lower) || lower.includes(s.toLowerCase().trim()));
+    }
     return studiedScope.some(s => s.toLowerCase().trim().includes(lower) || lower.includes(s.toLowerCase().trim()));
   };
 
@@ -189,10 +215,15 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
     try {
       if (mode === 'materia') {
-        if (selectedScopeMode === 'studied_only' && !isSubjectStudied(selectedSubject) && studiedScope.length > 0) {
+        const isStudiedInSelectedSource = 
+          selectedStudySource === 'pdf_only' ? isSubjectInSource(selectedSubject, 'pdf_only') :
+          selectedStudySource === 'ai_only' ? isSubjectInSource(selectedSubject, 'ai_only') :
+          selectedStudySource === 'all' ? isSubjectStudied(selectedSubject) : true;
+
+        if (!isStudiedInSelectedSource && selectedStudySource !== 'full_edital' && selectedStudySource !== 'errors_only') {
           info(
             '💡 Dica de Estudo',
-            `Você ainda não registrou estudo formal de ${selectedSubject}. O simulado usará questões do Edital Completo padrão ${currentCareer.banca || 'Oficial'}.`
+            `Não encontramos registros de ${selectedSubject} na fonte selecionada (${selectedStudySource === 'pdf_only' ? 'Meus PDFs' : selectedStudySource === 'ai_only' ? 'Elaborações da IA' : 'Estudos'}). O simulado adaptará questões padrão ${currentCareer.banca || 'Oficial'}.`
           );
         }
 
@@ -200,7 +231,8 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           subject: selectedSubject,
           questionCount: selectedQuestionCount,
           banca: currentCareer.banca || 'FGV',
-          scopeMode: selectedScopeMode,
+          studySource: selectedStudySource,
+          scopeMode: selectedStudySource === 'errors_only' ? 'errors_only' : selectedStudySource === 'full_edital' ? 'full_edital' : 'studied_only',
           careerId
         });
 
@@ -525,49 +557,95 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   </span>
                 </div>
 
-                {/* 3. Filtro de Escopo e Reconhecimento */}
+                {/* 3. Filtro e Fonte de Sincronização */}
                 <div className="space-y-2">
                   <label className="text-xs font-sans font-bold text-[var(--text-primary)] flex items-center gap-1.5">
                     <Filter className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
-                    <span>3. Filtro de Escopo:</span>
+                    <span>3. Fonte da Sincronização:</span>
                   </label>
                   <div className="space-y-1.5">
-                    <label className="flex items-center gap-2 p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] cursor-pointer text-xs">
+                    <label className={`flex items-center gap-2 p-2 rounded-xl border transition-all cursor-pointer text-xs ${
+                      selectedStudySource === 'all'
+                        ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/40 text-[var(--text-primary)]'
+                        : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                    }`}>
                       <input
                         type="radio"
-                        name="scopeMode"
-                        checked={selectedScopeMode === 'studied_only'}
-                        onChange={() => setSelectedScopeMode('studied_only')}
+                        name="studySource"
+                        checked={selectedStudySource === 'all'}
+                        onChange={() => setSelectedStudySource('all')}
                         className="accent-[var(--accent-primary)]"
                       />
-                      <span className="text-[var(--text-primary)] font-medium">
-                        🎯 <strong>Sincronizado:</strong> Apenas o que estudei
+                      <span className="font-medium">
+                        🌐 <strong>Todas as Fontes:</strong> PDFs + IA + Lançamentos
                       </span>
                     </label>
 
-                    <label className="flex items-center gap-2 p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] cursor-pointer text-xs">
+                    <label className={`flex items-center gap-2 p-2 rounded-xl border transition-all cursor-pointer text-xs ${
+                      selectedStudySource === 'ai_only'
+                        ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/40 text-[var(--text-primary)]'
+                        : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                    }`}>
                       <input
                         type="radio"
-                        name="scopeMode"
-                        checked={selectedScopeMode === 'full_edital'}
-                        onChange={() => setSelectedScopeMode('full_edital')}
+                        name="studySource"
+                        checked={selectedStudySource === 'ai_only'}
+                        onChange={() => setSelectedStudySource('ai_only')}
                         className="accent-[var(--accent-primary)]"
                       />
-                      <span className="text-[var(--text-primary)] font-medium">
-                        🌐 <strong>Edital Completo:</strong> Todos os tópicos
+                      <span className="font-medium">
+                        🤖 <strong>Apenas Elaborações da IA:</strong> Módulos & Aulas IA
                       </span>
                     </label>
 
-                    <label className="flex items-center gap-2 p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] cursor-pointer text-xs">
+                    <label className={`flex items-center gap-2 p-2 rounded-xl border transition-all cursor-pointer text-xs ${
+                      selectedStudySource === 'pdf_only'
+                        ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/40 text-[var(--text-primary)]'
+                        : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                    }`}>
                       <input
                         type="radio"
-                        name="scopeMode"
-                        checked={selectedScopeMode === 'errors_only'}
-                        onChange={() => setSelectedScopeMode('errors_only')}
+                        name="studySource"
+                        checked={selectedStudySource === 'pdf_only'}
+                        onChange={() => setSelectedStudySource('pdf_only')}
                         className="accent-[var(--accent-primary)]"
                       />
-                      <span className="text-[var(--text-primary)] font-medium">
-                        ⚠️ <strong>Erros:</strong> Questões que errei
+                      <span className="font-medium">
+                        📄 <strong>Apenas Meus PDFs:</strong> Arquivos que subi
+                      </span>
+                    </label>
+
+                    <label className={`flex items-center gap-2 p-2 rounded-xl border transition-all cursor-pointer text-xs ${
+                      selectedStudySource === 'full_edital'
+                        ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/40 text-[var(--text-primary)]'
+                        : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                    }`}>
+                      <input
+                        type="radio"
+                        name="studySource"
+                        checked={selectedStudySource === 'full_edital'}
+                        onChange={() => setSelectedStudySource('full_edital')}
+                        className="accent-[var(--accent-primary)]"
+                      />
+                      <span className="font-medium">
+                        🏛️ <strong>Edital Completo:</strong> Todos os tópicos da banca
+                      </span>
+                    </label>
+
+                    <label className={`flex items-center gap-2 p-2 rounded-xl border transition-all cursor-pointer text-xs ${
+                      selectedStudySource === 'errors_only'
+                        ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/40 text-[var(--text-primary)]'
+                        : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                    }`}>
+                      <input
+                        type="radio"
+                        name="studySource"
+                        checked={selectedStudySource === 'errors_only'}
+                        onChange={() => setSelectedStudySource('errors_only')}
+                        className="accent-[var(--accent-primary)]"
+                      />
+                      <span className="font-medium">
+                        ⚠️ <strong>Caderno de Erros:</strong> Apenas o que errei
                       </span>
                     </label>
                   </div>
@@ -575,12 +653,51 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
               </div>
 
+              {/* PAINEL DE RECONHECIMENTO DA MATÉRIA SELECIONADA */}
+              <div className="p-3.5 rounded-2xl bg-[var(--bg-elevated)]/60 border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs">
+                <div className="flex items-center gap-2 flex-wrap">
+                  <span className="font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                    <Bookmark className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+                    Status em {selectedSubject}:
+                  </span>
+                  <span className={`px-2 py-0.5 rounded-lg border font-mono ${
+                    isSubjectInSource(selectedSubject, 'pdf_only')
+                      ? 'bg-[var(--accent-emerald-bg)] border-[var(--accent-success)]/30 text-[var(--accent-success)] font-bold'
+                      : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] text-[var(--text-muted)]'
+                  }`}>
+                    📄 {topicsBySubject[selectedSubject]?.pdf.length || 0} PDFs
+                  </span>
+                  <span className={`px-2 py-0.5 rounded-lg border font-mono ${
+                    isSubjectInSource(selectedSubject, 'ai_only')
+                      ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/30 text-[var(--accent-primary)] font-bold'
+                      : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] text-[var(--text-muted)]'
+                  }`}>
+                    🤖 {topicsBySubject[selectedSubject]?.ai.length || 0} Aulas IA
+                  </span>
+                  <span className={`px-2 py-0.5 rounded-lg border font-mono ${
+                    manualSubjects.includes(selectedSubject)
+                      ? 'bg-[var(--accent-amber-bg)] border-[var(--accent-warning)]/30 text-[var(--accent-warning)] font-bold'
+                      : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] text-[var(--text-muted)]'
+                  }`}>
+                    ⏱️ {topicsBySubject[selectedSubject]?.manual.length || 0} Retroativos
+                  </span>
+                </div>
+
+                <div className="text-[11px] font-mono text-[var(--text-muted)]">
+                  Banca Ativa: <strong className="text-[var(--accent-warning)]">{currentCareer.banca}</strong>
+                </div>
+              </div>
+
               {/* Botão de Iniciar Simulado por Matéria */}
               <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-t border-[var(--border-subtle)]">
                 <div className="text-xs font-mono text-[var(--text-muted)] flex items-center gap-2">
-                  <Bookmark className="w-4 h-4 text-[var(--accent-primary)]" />
+                  <Sparkles className="w-4 h-4 text-[var(--accent-primary)] shrink-0" />
                   <span>
-                    Escopo Reconhecido: <strong>{studiedScope.length} matérias</strong> com estudo registrado no seu acervo.
+                    {selectedStudySource === 'pdf_only' && !isSubjectInSource(selectedSubject, 'pdf_only')
+                      ? '💡 Nenhum PDF desta matéria encontrado. O simulado adaptará o acervo oficial.'
+                      : selectedStudySource === 'ai_only' && !isSubjectInSource(selectedSubject, 'ai_only')
+                      ? '💡 Módulo de IA em elaboração. As questões cobrirão o edital oficial.'
+                      : `Sincronização ativa: foco em ${selectedSubject} padrão ${currentCareer.banca}.`}
                   </span>
                 </div>
 
@@ -589,7 +706,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   size="md"
                   onClick={() => handleStartExam('materia')}
                   disabled={loadingSimulado}
-                  className="font-sans text-xs font-bold px-6 py-3 shadow-md flex items-center gap-2"
+                  className="font-sans text-xs font-bold px-6 py-3 shadow-md flex items-center justify-center gap-2 min-h-[44px] cursor-pointer"
                 >
                   <Zap className="w-4 h-4" />
                   <span>{loadingSimulado ? 'Preparando Questões Oficiais...' : `Iniciar Simulado de ${selectedSubject} (${selectedQuestionCount}Q)`}</span>

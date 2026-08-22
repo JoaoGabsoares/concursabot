@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { createPortal } from 'react-dom';
 import { Card, Button, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
+import { PastStudyModal } from '../../components/PastStudyModal';
 import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
@@ -35,7 +36,8 @@ import {
   ArrowRight,
   Trash2,
   Settings,
-  Layers
+  Layers,
+  Calendar
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -437,8 +439,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   // Reading Pace & Velocity state
   const [paceInfo, setPaceInfo] = useState<ReadingPaceInfo | null>(null);
 
-  // Upload Modal State
+  // Upload & Past Study Modal States
   const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
+  const [isPastStudyModalOpen, setIsPastStudyModalOpen] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [uploadSubject, setUploadSubject] = useState<string>(careerSubjects[0]?.name || 'Geral');
   const [isUploading, setIsUploading] = useState(false);
@@ -775,12 +778,22 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           </p>
         </div>
 
-        {/* Action Controls: Cadence Preset & Upload PDF */}
+        {/* Action Controls: Cadence Preset, Past Study & Upload PDF */}
         <div className="flex flex-wrap items-center gap-2 self-stretch sm:self-auto shrink-0">
           <button
             type="button"
+            onClick={() => setIsPastStudyModalOpen(true)}
+            className="px-3 py-2 rounded-xl text-xs font-sans font-bold bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-warning)] text-[var(--accent-warning)] flex items-center gap-1.5 transition-all shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
+            title="Lançar estudos realizados em dias anteriores fora da plataforma"
+          >
+            <Calendar className="w-3.5 h-3.5 text-[var(--accent-warning)]" />
+            <span>📅 Lançar Estudo Passado</span>
+          </button>
+
+          <button
+            type="button"
             onClick={() => setIsCadenceModalOpen(true)}
-            className="px-3 py-2 rounded-xl text-xs font-sans font-bold bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center gap-1.5 transition-all shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+            className="px-3 py-2 rounded-xl text-xs font-sans font-bold bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center gap-1.5 transition-all shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
             title="Ajustar proporção de tempo entre Leitura Teórica e Questões"
           >
             <SlidersHorizontal className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
@@ -791,7 +804,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             variant="brand"
             size="sm"
             onClick={() => setIsUploadModalOpen(true)}
-            className="font-sans text-xs flex items-center gap-2 shadow-sm whitespace-nowrap"
+            className="font-sans text-xs flex items-center gap-2 shadow-sm whitespace-nowrap cursor-pointer"
           >
             <UploadCloud className="w-4 h-4" />
             <span>+ Subir PDF da Aula</span>
@@ -1866,6 +1879,16 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         </div>,
         document.body
       )}
+
+      {/* Modal de Lançamento de Estudo Retroativo */}
+      <PastStudyModal
+        isOpen={isPastStudyModalOpen}
+        onClose={() => setIsPastStudyModalOpen(false)}
+        careerId={careerId}
+        onStudySaved={() => {
+          loadMaterials();
+        }}
+      />
 
     </div>
   );

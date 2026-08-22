@@ -4,6 +4,7 @@ import { getCareerById } from '../../utils/careers';
 import { getConcurseiroRank, getSubjectsForCareer, SubjectStats } from '../../utils/gamification';
 import { getLessonContent } from '../../utils/studyContent';
 import { Card, Button, ProgressBar, CarimboStatus } from '../../components/UIPrimitives';
+import { PastStudyModal } from '../../components/PastStudyModal';
 import { api } from '../../api/client';
 import { 
   ChevronRight, 
@@ -25,7 +26,8 @@ import {
   Zap,
   TrendingUp,
   Filter,
-  CheckCircle
+  CheckCircle,
+  Calendar
 } from 'lucide-react';
 
 interface DashboardPageProps {
@@ -46,7 +48,9 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   const currentCareer = getCareerById(careerId);
   const userXp = user?.xp || 0;
   const userLevel = user?.level || 1;
-  const userStreak = user?.streakDays || 0;
+  const [localStreak, setLocalStreak] = useState<number | null>(null);
+  const [isPastStudyModalOpen, setIsPastStudyModalOpen] = useState<boolean>(false);
+  const userStreak = localStreak !== null ? localStreak : (user?.streakDays || 0);
   const todayQuestions = user?.todayQuestions || 0;
   const goalQuestions = user?.dailyGoalQuestions || 30;
   const todayMinutes = user?.todayMinutes || 0;
@@ -306,9 +310,19 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
               </div>
             </div>
           </div>
-          <div className="pt-3 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono">
-            <span className="text-[var(--text-muted)]">MULTIPLICADOR ATIVO:</span>
-            <span className="font-bold text-[var(--accent-warning)]">{userStreak >= 7 ? '1.5x XP (Ativado)' : '1.0x XP'}</span>
+          <div className="pt-3 border-t border-[var(--border-subtle)] space-y-2.5">
+            <div className="flex items-center justify-between text-xs font-mono">
+              <span className="text-[var(--text-muted)]">MULTIPLICADOR ATIVO:</span>
+              <span className="font-bold text-[var(--accent-warning)]">{userStreak >= 7 ? '1.5x XP (Ativado)' : '1.0x XP'}</span>
+            </div>
+            <button
+              type="button"
+              onClick={() => setIsPastStudyModalOpen(true)}
+              className="w-full py-2 px-3 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-xs font-sans font-bold text-[var(--accent-warning)] flex items-center justify-center gap-1.5 transition-all cursor-pointer shadow-sm hover:border-[var(--accent-warning)]/40 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+            >
+              <Calendar className="w-3.5 h-3.5" />
+              <span>+ Lançar Dias Anteriores</span>
+            </button>
           </div>
         </div>
       </div>
@@ -535,6 +549,15 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
           </button>
         </div>
       </div>
+
+      <PastStudyModal
+        isOpen={isPastStudyModalOpen}
+        onClose={() => setIsPastStudyModalOpen(false)}
+        careerId={careerId}
+        onStudySaved={(xpGained, newStreak) => {
+          setLocalStreak(newStreak);
+        }}
+      />
     </div>
   );
 };

@@ -252,6 +252,35 @@ export class ApiClient {
     });
   }
 
+  public registerPastStudy(data: {
+    studyDate: string;
+    subject: string;
+    topic?: string;
+    durationMinutes: number;
+    pagesRead?: number;
+    questionsCount?: number;
+    questionsCorrect?: number;
+    notes?: string;
+    careerId?: string;
+    materialId?: number;
+  }): Promise<{ success: boolean; sessionId: number; xpGained: number; newStreak: number; studyDate: string; message: string }> {
+    return this.request<{ success: boolean; sessionId: number; xpGained: number; newStreak: number; studyDate: string; message: string }>('/study-room/register-past-study', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public getPastStudies(careerId?: string): Promise<{ success: boolean; items: any[] }> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<{ success: boolean; items: any[] }>(`/study-room/past-studies${qs}`);
+  }
+
+  public deletePastStudy(sessionId: number): Promise<{ success: boolean; newStreak: number; message: string }> {
+    return this.request<{ success: boolean; newStreak: number; message: string }>(`/study-room/past-study/${sessionId}`, {
+      method: 'DELETE'
+    });
+  }
+
   public updateBookmark(materialId: string | number, page: number): Promise<{ success: boolean }> {
     return this.request<{ success: boolean }>(`/study-room/materials/${materialId}/page`, {
       method: 'PUT',
@@ -311,8 +340,13 @@ export class ApiClient {
   public getStudiedScope(careerId?: string): Promise<{
     careerId: string;
     studiedSubjects: string[];
+    pdfSubjects?: string[];
+    aiSubjects?: string[];
+    manualSubjects?: string[];
+    topicsBySubject?: Record<string, { pdf: string[]; ai: string[]; manual: string[]; all: string[] }>;
+    counts?: { pdfCount: number; aiCount: number; manualCount: number; total: number };
     studiedMaterialsCount: number;
-    details: any[];
+    details?: any[];
   }> {
     const qs = careerId ? `?careerId=${careerId}` : '';
     return this.request<any>(`/simulados/studied-scope${qs}`);
@@ -330,6 +364,7 @@ export class ApiClient {
     questionCount: number;
     banca?: string;
     scopeMode?: 'studied_only' | 'full_edital' | 'errors_only';
+    studySource?: 'all' | 'ai_only' | 'pdf_only' | 'full_edital' | 'errors_only';
     timeLimitMinutes?: number;
     careerId?: string;
   }): Promise<{

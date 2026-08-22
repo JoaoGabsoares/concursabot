@@ -144,8 +144,8 @@ export function calculateUserStreak(userId, careerId = null) {
         FROM (
           SELECT ss.started_at as study_time 
           FROM study_sessions ss
-          JOIN study_materials sm ON ss.material_id = sm.id
-          WHERE ss.user_id = ? AND (sm.career_id = ? OR sm.subject IN (${placeholders}))
+          LEFT JOIN study_materials sm ON ss.material_id = sm.id
+          WHERE ss.user_id = ? AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
           UNION
           SELECT qa.answered_at as study_time 
           FROM question_answers qa
@@ -155,10 +155,14 @@ export function calculateUserStreak(userId, careerId = null) {
           SELECT s.created_at as study_time 
           FROM simulados s
           WHERE s.user_id = ? AND s.career_id = ?
+          UNION
+          SELECT al.created_at as study_time
+          FROM activity_log al
+          WHERE al.user_id = ? AND (al.career_id = ? OR al.career_id IS NULL)
         )
         WHERE study_date IS NOT NULL
         ORDER BY study_date DESC
-      `).all(userId, careerId, ...subjects, userId, careerId, ...subjects, userId, careerId);
+      `).all(userId, careerId, careerId, ...subjects, userId, careerId, ...subjects, userId, careerId, userId, careerId);
     } else {
       dates = db.prepare(`
         SELECT DISTINCT substr(study_time, 1, 10) as study_date
@@ -168,10 +172,12 @@ export function calculateUserStreak(userId, careerId = null) {
           SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
           UNION
           SELECT created_at as study_time FROM simulados WHERE user_id = ?
+          UNION
+          SELECT created_at as study_time FROM activity_log WHERE user_id = ?
         )
         WHERE study_date IS NOT NULL
         ORDER BY study_date DESC
-      `).all(userId, userId, userId);
+      `).all(userId, userId, userId, userId);
     }
 
     if (dates.length === 0) return 0;

@@ -72,47 +72,118 @@ router.post('/create', async (req, res) => {
     }
 });
 
-// GET /studied-scope - Reconhecimento inteligente do que o aluno já estudou
+// GET /studied-scope - Reconhecimento inteligente e segmentado do que o aluno já estudou (PDFs vs Elaborações IA vs Lançamentos)
 router.get('/studied-scope', (req, res) => {
     try {
         const userId = getAuthenticatedUserId(req);
         const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || 'atrfb';
 
-        // 1. Matérias e aulas com estudo registrado em study_materials
-        const studiedMaterials = db.prepare(`
-            SELECT DISTINCT subject, lesson_number, title, current_page, total_pages, theory_completed, questions_completed, studied_at
+        // 1. Materiais PDF próprios do aluno (Uploads de PDF)
+        const pdfMaterials = db.prepare(`
+            SELECT DISTINCT id, subject, lesson_number, title, summary, current_page, total_pages, studied_at
             FROM study_materials
-            WHERE user_id = ? AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
+            WHERE user_id = ? AND (is_native_lesson = 0 OR is_native_lesson IS NULL)
+              AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
         `).all(userId);
 
-        // 2. Matérias com blocos de ciclo concluídos
+        // 2. Elaborações da IA / Módulos Nativos / Cadernos Enxutos
+        const aiMaterials = db.prepare(`
+            SELECT DISTINCT id, subject, lesson_number, title, summary, current_page, total_pages, studied_at
+            FROM study_materials
+            WHERE user_id = ? AND is_native_lesson = 1
+              AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
+        `).all(userId);
+
+        // 3. Blocos de ciclo concluídos
         const cycleBlocks = db.prepare(`
-            SELECT DISTINCT scb.subject
+            SELECT DISTINCT scb.subject, scb.topic
             FROM study_cycle_blocks scb
             JOIN study_cycles sc ON scb.cycle_id = sc.id
             WHERE sc.user_id = ? AND sc.career_id = ? AND scb.status = 'completed'
         `).all(userId, careerId);
 
-        // 3. Matérias com sessões de estudo registradas
-        const sessions = db.prepare(`
-            SELECT DISTINCT sm.subject
+        // 4. Sessões e Lançamentos Retroativos
+        const pastSessions = db.prepare(`
+            SELECT ss.id, ss.duration_minutes, ss.started_at, ss.scope_note,
+                   COALESCE(sm.subject, 'Estudo Geral') as subject,
+                   COALESCE(sm.title, '') as title,
+                   COALESCE(sm.is_native_lesson, 0) as is_native
             FROM study_sessions ss
-            JOIN study_materials sm ON ss.material_id = sm.id
+            LEFT JOIN study_materials sm ON ss.material_id = sm.id
             WHERE ss.user_id = ? AND ss.status = 'completed'
-        `).all(userId);
+              AND (ss.career_id = ? OR ? IS NULL OR ss.career_id IS NULL)
+        `).all(userId, careerId, careerId);
 
-        const studiedSubjectsSet = new Set();
-        studiedMaterials.forEach(m => { if (m.subject) studiedSubjectsSet.add(m.subject); });
-        cycleBlocks.forEach(b => { if (b.subject) studiedSubjectsSet.add(b.subject); });
-        sessions.forEach(s => { if (s.subject) studiedSubjectsSet.add(s.subject); });
+        const pdfSubjectsSet = new Set();
+        const aiSubjectsSet = new Set();
+        const manualSubjectsSet = new Set();
+        const allSubjectsSet = new Set();
 
-        const studiedSubjects = Array.from(studiedSubjectsSet);
+        const topicsBySubject = {};
+
+        const registerTopic = (subj, topic, source) => {
+            if (!subj) return;
+            const normSubj = subj.trim();
+            if (!topicsBySubject[normSubj]) {
+                topicsBySubject[normSubj] = { pdf: [], ai: [], manual: [], all: [] };
+            }
+            if (topic && topic.trim()) {
+                const normTop = topic.trim();
+                if (!topicsBySubject[normSubj][source].includes(normTop)) {
+                    topicsBySubject[normSubj][source].push(normTop);
+                }
+                if (!topicsBySubject[normSubj].all.includes(normTop)) {
+                    topicsBySubject[normSubj].all.push(normTop);
+                }
+            }
+        };
+
+        pdfMaterials.forEach(m => {
+            if (m.subject) {
+                pdfSubjectsSet.add(m.subject);
+                allSubjectsSet.add(m.subject);
+                registerTopic(m.subject, m.title || `Aula ${m.lesson_number || 1}`, 'pdf');
+            }
+        });
+
+        aiMaterials.forEach(m => {
+            if (m.subject) {
+                aiSubjectsSet.add(m.subject);
+                allSubjectsSet.add(m.subject);
+                registerTopic(m.subject, m.title || `Módulo IA ${m.lesson_number || 1}`, 'ai');
+            }
+        });
+
+        cycleBlocks.forEach(b => {
+            if (b.subject) {
+                aiSubjectsSet.add(b.subject);
+                allSubjectsSet.add(b.subject);
+                registerTopic(b.subject, b.topic, 'ai');
+            }
+        });
+
+        pastSessions.forEach(s => {
+            if (s.subject) {
+                manualSubjectsSet.add(s.subject);
+                allSubjectsSet.add(s.subject);
+                registerTopic(s.subject, s.scope_note || 'Estudo Retroativo', 'manual');
+            }
+        });
 
         res.json({
             careerId,
-            studiedSubjects,
-            studiedMaterialsCount: studiedMaterials.length,
-            details: studiedMaterials
+            studiedSubjects: Array.from(allSubjectsSet),
+            pdfSubjects: Array.from(pdfSubjectsSet),
+            aiSubjects: Array.from(aiSubjectsSet),
+            manualSubjects: Array.from(manualSubjectsSet),
+            topicsBySubject,
+            counts: {
+                pdfCount: pdfMaterials.length,
+                aiCount: aiMaterials.length + cycleBlocks.length,
+                manualCount: pastSessions.length,
+                total: allSubjectsSet.size
+            },
+            studiedMaterialsCount: pdfMaterials.length + aiMaterials.length
         });
     } catch (error) {
         console.error("Studied scope error:", error);
@@ -120,7 +191,7 @@ router.get('/studied-scope', (req, res) => {
     }
 });
 
-// POST /create-by-subject - Cria simulado específico de uma disciplina (20 a 50 questões)
+// POST /create-by-subject - Cria simulado específico de uma disciplina (20 a 50 questões) com seleção de fonte de estudo
 router.post('/create-by-subject', async (req, res) => {
     try {
         const userId = getAuthenticatedUserId(req);
@@ -130,6 +201,7 @@ router.post('/create-by-subject', async (req, res) => {
             questionCount = 20,
             banca = 'FGV',
             scopeMode = 'studied_only', // 'studied_only' | 'full_edital' | 'errors_only'
+            studySource = 'all',        // 'all' | 'ai_only' | 'pdf_only' | 'full_edital' | 'errors_only'
             timeLimitMinutes = null
         } = req.body;
 
@@ -137,12 +209,59 @@ router.post('/create-by-subject', async (req, res) => {
             return res.status(400).json({ error: 'Disciplina (subject) é obrigatória.' });
         }
 
+        // Mapeia modo de escopo consolidado
+        const effectiveSource = (scopeMode === 'errors_only' || studySource === 'errors_only')
+            ? 'errors_only'
+            : (scopeMode === 'full_edital' || studySource === 'full_edital')
+            ? 'full_edital'
+            : (studySource || 'all');
+
         const count = Math.min(Math.max(parseInt(questionCount, 10) || 20, 5), 100);
         const timeLimit = timeLimitMinutes ? parseInt(timeLimitMinutes, 10) : Math.max(15, count * 2);
 
         let candidateQuestionIds = [];
+        let specificTopics = [];
 
-        if (scopeMode === 'errors_only') {
+        // 1. Extração contextual dos tópicos estudados conforme a fonte selecionada
+        if (effectiveSource === 'pdf_only') {
+            const pdfRows = db.prepare(`
+                SELECT title, summary FROM study_materials
+                WHERE user_id = ? AND (is_native_lesson = 0 OR is_native_lesson IS NULL)
+                  AND LOWER(subject) LIKE LOWER(?) AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
+            `).all(userId, `%${subject}%`);
+            specificTopics = pdfRows.map(r => r.title || r.summary?.substring(0, 50)).filter(Boolean);
+        } else if (effectiveSource === 'ai_only') {
+            const aiRows = db.prepare(`
+                SELECT title, summary FROM study_materials
+                WHERE user_id = ? AND is_native_lesson = 1
+                  AND LOWER(subject) LIKE LOWER(?) AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
+            `).all(userId, `%${subject}%`);
+            const cycleRows = db.prepare(`
+                SELECT scb.topic FROM study_cycle_blocks scb
+                JOIN study_cycles sc ON scb.cycle_id = sc.id
+                WHERE sc.user_id = ? AND LOWER(scb.subject) LIKE LOWER(?) AND scb.status = 'completed'
+            `).all(userId, `%${subject}%`);
+            specificTopics = [
+                ...aiRows.map(r => r.title),
+                ...cycleRows.map(r => r.topic)
+            ].filter(Boolean);
+        } else if (effectiveSource === 'all') {
+            const allRows = db.prepare(`
+                SELECT title FROM study_materials
+                WHERE user_id = ? AND LOWER(subject) LIKE LOWER(?)
+                  AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
+            `).all(userId, `%${subject}%`);
+            const sessionRows = db.prepare(`
+                SELECT scope_note FROM study_sessions
+                WHERE user_id = ? AND LOWER(career_id) = LOWER(?) AND status = 'completed'
+            `).all(userId, careerId);
+            specificTopics = [
+                ...allRows.map(r => r.title),
+                ...sessionRows.map(r => r.scope_note)
+            ].filter(Boolean);
+        }
+
+        if (effectiveSource === 'errors_only') {
             const errorQuestions = db.prepare(`
                 SELECT DISTINCT q.id
                 FROM question_answers qa
@@ -154,7 +273,7 @@ router.post('/create-by-subject', async (req, res) => {
 
             candidateQuestionIds = errorQuestions.map(r => r.id);
         } else {
-            // 1. Busca nas questões da banca informada ou cadastradas
+            // 2. Busca nas questões da banca informada ou cadastradas
             const existing = db.prepare(`
                 SELECT id FROM questions 
                 WHERE LOWER(subject) LIKE LOWER(?) AND (banca = ? OR banca LIKE ? OR ? = 'todas' OR banca = 'FGV' OR banca = 'DEnsM' OR banca = 'Cesgranrio')
@@ -164,7 +283,7 @@ router.post('/create-by-subject', async (req, res) => {
 
             candidateQuestionIds = existing.map(r => r.id);
 
-            // 2. Se faltar, busca no career_question_bank sincronizado
+            // 3. Se faltar, busca no career_question_bank sincronizado
             if (candidateQuestionIds.length < count && careerId) {
                 const cqbQuestions = db.prepare(`
                     SELECT q.id
@@ -183,14 +302,27 @@ router.post('/create-by-subject', async (req, res) => {
             }
         }
 
-        // Se o banco tiver menos questões que o solicitado, gerar com IA as restantes no padrão da banca
-        if (candidateQuestionIds.length < count && scopeMode !== 'errors_only') {
+        // 4. Se o banco tiver menos questões que o solicitado, gerar com IA as restantes calibradas pela fonte selecionada
+        if (candidateQuestionIds.length < count && effectiveSource !== 'errors_only') {
             const needed = count - candidateQuestionIds.length;
             try {
                 const systemInstruction = getQuestionsSystemInstruction(careerId);
+                
+                let topicDirective = `Tópicos mais cobrados em prova da banca ${banca}`;
+                if (specificTopics.length > 0) {
+                    const sampleTopics = specificTopics.slice(0, 4).join(', ');
+                    if (effectiveSource === 'pdf_only') {
+                        topicDirective = `Tópicos estudados nos PDFs do aluno: [${sampleTopics}] (Padrão ${banca} com casos práticos e pegadinhas)`;
+                    } else if (effectiveSource === 'ai_only') {
+                        topicDirective = `Tópicos teóricos dos módulos de IA estudados: [${sampleTopics}] (Padrão ${banca} com jurisprudência e análise)`;
+                    } else {
+                        topicDirective = `Tópicos estudados pelo aluno: [${sampleTopics}] (Padrão ${banca})`;
+                    }
+                }
+
                 const prompt = questionsPromptTemplate(
                     subject, 
-                    `Tópicos de alto rendimento da banca ${banca} (Padrão de prova com casos práticos e pegadinhas)`, 
+                    topicDirective, 
                     banca, 
                     'multiple_choice', 
                     needed
@@ -207,7 +339,7 @@ router.post('/create-by-subject', async (req, res) => {
                     for (const q of questionsArray) {
                         const info = insertQ.run(
                             subject,
-                            q.topic || 'Conhecimentos Específicos',
+                            q.topic || (specificTopics[0] || 'Conhecimentos Específicos'),
                             banca,
                             q.question_text,
                             typeof q.options === 'string' ? q.options : JSON.stringify(q.options),
@@ -224,7 +356,7 @@ router.post('/create-by-subject', async (req, res) => {
 
         if (candidateQuestionIds.length === 0) {
             return res.status(404).json({ 
-                error: `Nenhuma questão encontrada para ${subject} no modo selecionado (${scopeMode}).` 
+                error: `Nenhuma questão encontrada para ${subject} no modo selecionado (${effectiveSource}).` 
             });
         }
 
@@ -243,7 +375,7 @@ router.post('/create-by-subject', async (req, res) => {
             }
         })();
 
-        logActivity('simulado_create', `Iniciou Simulado de ${subject} (${candidateQuestionIds.length} questões • ${banca})`, userId, careerId);
+        logActivity('simulado_create', `Iniciou Simulado de ${subject} (${candidateQuestionIds.length} questões • ${banca} • Fonte: ${effectiveSource})`, userId, careerId);
 
         res.json({
             success: true,
