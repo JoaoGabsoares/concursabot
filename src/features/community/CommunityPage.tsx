@@ -250,10 +250,10 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
         <div className="flex items-center gap-2">
           <span className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-mono border ${
             isConnected 
-              ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-400' 
-              : 'bg-amber-500/10 border-amber-500/30 text-amber-400'
+              ? 'bg-[var(--accent-emerald-bg)] border-[var(--accent-success)]/30 text-[var(--accent-success)]' 
+              : 'bg-[var(--accent-amber-bg)] border-[var(--accent-warning)]/30 text-[var(--accent-warning)]'
           }`}>
-            <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-emerald-400 animate-pulse' : 'bg-amber-400'}`} />
+            <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-[var(--accent-success)]' : 'bg-[var(--accent-warning)]'}`} />
             {isConnected ? 'LIVE SYNC (SSE)' : 'CONECTANDO...'}
           </span>
         </div>
@@ -281,7 +281,7 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
                     <button
                       key={ch.id}
                       onClick={() => setSelectedChannel(ch)}
-                      className={`w-full text-left px-3 py-2.5 rounded-lg text-sm transition-all flex items-start gap-2.5 ${
+                      className={`w-full text-left px-3 py-2.5 rounded-lg text-sm transition-all flex items-start gap-2.5 min-h-[44px] ${
                         isActive
                           ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-semibold border border-[var(--accent-primary)]/30 shadow-sm'
                           : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]'
@@ -289,8 +289,8 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
                     >
                       <span className="text-base leading-none mt-0.5">{ch.icon || '💬'}</span>
                       <div className="flex-1 min-w-0">
-                        <div className="truncate text-xs font-mono font-bold">{ch.name}</div>
-                        <div className="text-[11px] text-[var(--text-muted)] truncate font-sans">{ch.description}</div>
+                        <div className="truncate text-xs font-sans font-bold">{ch.name}</div>
+                        <div className="text-xs text-[var(--text-muted)] truncate font-sans">{ch.description}</div>
                       </div>
                     </button>
                   );
@@ -301,7 +301,7 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
 
           {/* Card Dica do Tutor IA */}
           <div className="p-4 bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-xl space-y-2.5">
-            <div className="flex items-center gap-2 text-xs font-mono font-bold text-[var(--accent-primary)]">
+            <div className="flex items-center gap-2 text-xs font-sans font-bold text-[var(--accent-primary)]">
               <Bot className="w-4 h-4" />
               <span>TUTOR IA NO GRUPO</span>
             </div>
@@ -312,9 +312,9 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
               variant="outline"
               size="sm"
               onClick={handleMentionBot}
-              className="w-full text-xs font-mono flex items-center justify-center gap-1.5"
+              className="w-full text-xs font-sans flex items-center justify-center gap-1.5 min-h-[44px]"
             >
-              <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+              <Sparkles className="w-3.5 h-3.5 text-[var(--accent-warning)]" />
               Chamar @GabaritoAI
             </Button>
           </div>
@@ -327,7 +327,7 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
             <div className="flex items-center gap-3">
               <span className="text-xl">{selectedChannel?.icon || '💬'}</span>
               <div>
-                <h2 className="text-sm font-mono font-bold text-[var(--text-primary)]">
+                <h2 className="text-sm font-sans font-bold text-[var(--text-primary)]">
                   {selectedChannel?.name || 'Selecione um canal'}
                 </h2>
                 <p className="text-xs text-[var(--text-muted)]">
@@ -368,25 +368,25 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
                       isBot ? 'bg-[var(--bg-elevated)] p-4 rounded-xl border border-[var(--accent-primary)]/20 shadow-sm' : ''
                     }`}
                   >
-                    <div className="w-8 h-8 rounded-full bg-[var(--border-subtle)] flex items-center justify-center text-base flex-shrink-0 select-none shadow-sm">
+                    <div className="w-10 h-10 rounded-full bg-[var(--border-subtle)] flex items-center justify-center text-lg flex-shrink-0 select-none shadow-sm">
                       {isBot ? '🤖' : msg.user_avatar || '👨‍🎓'}
                     </div>
 
                     <div className="flex-1 min-w-0 space-y-1.5">
                       <div className="flex items-center gap-2 flex-wrap">
-                        <span className={`text-xs font-mono font-bold ${isBot ? 'text-[var(--accent-primary)]' : 'text-[var(--text-primary)]'}`}>
+                        <span className={`text-xs font-sans font-bold ${isBot ? 'text-[var(--accent-primary)]' : 'text-[var(--text-primary)]'}`}>
                           {msg.user_name}
                         </span>
                         {isBot ? (
-                          <span className="px-1.5 py-0.5 rounded text-[10px] font-mono font-bold bg-[var(--accent-primary)] text-white tracking-wide">
+                          <span className="px-1.5 py-0.5 rounded text-xs font-sans font-bold bg-[var(--accent-primary)] text-white tracking-wide">
                             TUTOR OFICIAL
                           </span>
                         ) : msg.career_badge ? (
-                          <span className="px-1.5 py-0.2 text-[10px] font-mono text-[var(--text-muted)] bg-[var(--bg-elevated)] rounded border border-[var(--border-subtle)]">
+                          <span className="px-1.5 py-0.5 text-xs font-sans text-[var(--text-muted)] bg-[var(--bg-elevated)] rounded border border-[var(--border-subtle)]">
                             {msg.career_badge}
                           </span>
                         ) : null}
-                        <span className="text-[10px] font-mono text-[var(--text-muted)]">
+                        <span className="text-xs font-mono text-[var(--text-muted)]">
                           {new Date(msg.created_at).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}
                         </span>
                       </div>
@@ -407,7 +407,7 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
                             <button
                               key={emoji}
                               onClick={() => handleToggleReaction(msg.id, emoji)}
-                              className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-mono transition-all ${
+                              className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-mono transition-all min-h-[32px] ${
                                 hasReacted
                                   ? 'bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/40 text-[var(--accent-primary)] font-bold'
                                   : 'bg-[var(--bg-elevated)] hover:bg-[var(--border-subtle)] text-[var(--text-muted)] border border-[var(--border-subtle)]'
@@ -434,7 +434,7 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
                 type="button"
                 onClick={handleMentionBot}
                 title="Mencionar Tutor IA"
-                className="p-2 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[var(--accent-primary)] hover:bg-[var(--accent-primary-glow)] transition-all flex items-center gap-1 text-xs font-mono"
+                className="p-2 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[var(--accent-primary)] hover:bg-[var(--accent-primary-glow)] transition-all flex items-center gap-1 text-xs font-sans min-h-[44px] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <Bot className="w-4 h-4" />
                 <span className="hidden sm:inline">@Tutor</span>
@@ -445,14 +445,14 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
                 value={inputText}
                 onChange={(e) => setInputText(e.target.value)}
                 placeholder={`Envie sua mensagem em #${selectedChannel?.name || 'geral'}...`}
-                className="flex-1 bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-lg px-3.5 py-2.5 text-xs sm:text-sm text-[var(--text-primary)] placeholder-[var(--text-muted)] focus:outline-none focus:border-[var(--accent-primary)] font-sans"
+                className="flex-1 bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-lg px-3.5 py-2.5 text-xs sm:text-sm text-[var(--text-primary)] placeholder-[var(--text-muted)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] focus:border-[var(--accent-primary)] font-sans min-h-[44px]"
               />
 
               <Button
                 type="submit"
                 variant="brand"
                 disabled={!inputText.trim() || sending}
-                className="px-4 py-2.5 font-mono text-xs flex items-center gap-1.5"
+                className="px-4 py-2.5 font-sans text-xs flex items-center gap-1.5 min-h-[44px]"
               >
                 <Send className="w-3.5 h-3.5" />
                 <span className="hidden sm:inline">Enviar</span>

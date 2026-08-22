@@ -7,21 +7,21 @@ import { MobileBottomNav } from './components/MobileBottomNav';
 import { AuthAndUserSelector } from './components/AuthAndUserSelector';
 import { PublicDashboardPage } from './features/landing/PublicDashboardPage';
 
-// Pages
-import { DashboardPage } from './features/dashboard/DashboardPage';
-import { StudyCyclePage } from './features/study-cycle/StudyCyclePage';
-import { StudyRoomPage } from './features/study-room/StudyRoomPage';
-import { SimuladosPage } from './features/simulados/SimuladosPage';
-import { ErrorNotebookPage } from './features/error-notebook/ErrorNotebookPage';
-import { RedacaoPage } from './features/redacao/RedacaoPage';
-import { LeiSecaPage } from './features/leiseca/LeiSecaPage';
-import { AproveitamentoPage } from './features/aproveitamento/AproveitamentoPage';
-import { EditalPage } from './features/edital/EditalPage';
-import { FlashcardsPage } from './features/flashcards/FlashcardsPage';
-import { CommunityPage } from './features/community/CommunityPage';
-import { GuiaMetodoPage } from './features/guide/GuiaMetodoPage';
-import { AboutPage } from './features/about/AboutPage';
-import { SettingsPage } from './features/settings/SettingsPage';
+// Lazy loaded page modules for optimal chunking and initial load speed
+const DashboardPage = React.lazy(() => import('./features/dashboard/DashboardPage').then(m => ({ default: m.DashboardPage })));
+const StudyCyclePage = React.lazy(() => import('./features/study-cycle/StudyCyclePage').then(m => ({ default: m.StudyCyclePage })));
+const StudyRoomPage = React.lazy(() => import('./features/study-room/StudyRoomPage').then(m => ({ default: m.StudyRoomPage })));
+const SimuladosPage = React.lazy(() => import('./features/simulados/SimuladosPage').then(m => ({ default: m.SimuladosPage })));
+const ErrorNotebookPage = React.lazy(() => import('./features/error-notebook/ErrorNotebookPage').then(m => ({ default: m.ErrorNotebookPage })));
+const RedacaoPage = React.lazy(() => import('./features/redacao/RedacaoPage').then(m => ({ default: m.RedacaoPage })));
+const LeiSecaPage = React.lazy(() => import('./features/leiseca/LeiSecaPage').then(m => ({ default: m.LeiSecaPage })));
+const AproveitamentoPage = React.lazy(() => import('./features/aproveitamento/AproveitamentoPage').then(m => ({ default: m.AproveitamentoPage })));
+const EditalPage = React.lazy(() => import('./features/edital/EditalPage').then(m => ({ default: m.EditalPage })));
+const FlashcardsPage = React.lazy(() => import('./features/flashcards/FlashcardsPage').then(m => ({ default: m.FlashcardsPage })));
+const CommunityPage = React.lazy(() => import('./features/community/CommunityPage').then(m => ({ default: m.CommunityPage })));
+const GuiaMetodoPage = React.lazy(() => import('./features/guide/GuiaMetodoPage').then(m => ({ default: m.GuiaMetodoPage })));
+const AboutPage = React.lazy(() => import('./features/about/AboutPage').then(m => ({ default: m.AboutPage })));
+const SettingsPage = React.lazy(() => import('./features/settings/SettingsPage').then(m => ({ default: m.SettingsPage })));
 import { ToastProvider } from './components/Toast';
 
 export const App: React.FC = () => {
@@ -231,76 +231,83 @@ export const App: React.FC = () => {
         {/* Scrollable Viewport (Zero menu duplication: left Sidebar handles desktop navigation) */}
         <main className="flex-1 overflow-y-auto p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8">
           <div className="max-w-7xl w-full mx-auto space-y-8">
-            {activeTab === 'dashboard' && (
-              <DashboardPage
-                user={user}
-                careerId={careerId}
-                onNavigate={(tab) => setActiveTab(tab)}
-                pendingErrorsCount={pendingErrorsCount}
-                onStartStudy={handleStartStudy}
-              />
-            )}
+            <React.Suspense fallback={
+              <div className="min-h-[50vh] flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
+                <div className="w-8 h-8 rounded-full border-2 border-[var(--accent-primary)] border-t-transparent animate-spin" />
+                <span>Carregando módulo de estudo...</span>
+              </div>
+            }>
+              {activeTab === 'dashboard' && (
+                <DashboardPage
+                  user={user}
+                  careerId={careerId}
+                  onNavigate={(tab) => setActiveTab(tab)}
+                  pendingErrorsCount={pendingErrorsCount}
+                  onStartStudy={handleStartStudy}
+                />
+              )}
 
-            {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
-              <StudyCyclePage
-                user={user}
-                careerId={careerId}
-                onNavigate={(tab) => setActiveTab(tab)}
-                onStartStudy={handleStartStudy}
-              />
-            )}
+              {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
+                <StudyCyclePage
+                  user={user}
+                  careerId={careerId}
+                  onNavigate={(tab) => setActiveTab(tab)}
+                  onStartStudy={handleStartStudy}
+                />
+              )}
 
-            {activeTab === 'study' && (
-              <StudyRoomPage careerId={careerId} />
-            )}
+              {activeTab === 'study' && (
+                <StudyRoomPage careerId={careerId} />
+              )}
 
-            {activeTab === 'simulados' && (
-              <SimuladosPage careerId={careerId} />
-            )}
+              {activeTab === 'simulados' && (
+                <SimuladosPage careerId={careerId} />
+              )}
 
-            {activeTab === 'erros' && (
-              <ErrorNotebookPage careerId={careerId} />
-            )}
+              {activeTab === 'erros' && (
+                <ErrorNotebookPage careerId={careerId} />
+              )}
 
-            {activeTab === 'redacao' && (
-              <RedacaoPage careerId={careerId} />
-            )}
+              {activeTab === 'redacao' && (
+                <RedacaoPage careerId={careerId} />
+              )}
 
-            {activeTab === 'leiseca' && (
-              <LeiSecaPage careerId={careerId} />
-            )}
+              {activeTab === 'leiseca' && (
+                <LeiSecaPage careerId={careerId} />
+              )}
 
-            {activeTab === 'aproveitamento' && (
-              <AproveitamentoPage careerId={careerId} />
-            )}
+              {activeTab === 'aproveitamento' && (
+                <AproveitamentoPage careerId={careerId} />
+              )}
 
-            {activeTab === 'edital' && (
-              <EditalPage careerId={careerId} />
-            )}
+              {activeTab === 'edital' && (
+                <EditalPage careerId={careerId} />
+              )}
 
-            {activeTab === 'flashcards' && (
-              <FlashcardsPage careerId={careerId} />
-            )}
+              {activeTab === 'flashcards' && (
+                <FlashcardsPage careerId={careerId} />
+              )}
 
-            {activeTab === 'comunidade' && (
-              <CommunityPage careerId={careerId} user={user} />
-            )}
+              {activeTab === 'comunidade' && (
+                <CommunityPage careerId={careerId} user={user} />
+              )}
 
-            {(activeTab === 'guia' || activeTab === 'settings_guia') && (
-              <GuiaMetodoPage onNavigate={(tab) => setActiveTab(tab)} />
-            )}
+              {(activeTab === 'guia' || activeTab === 'settings_guia') && (
+                <GuiaMetodoPage onNavigate={(tab) => setActiveTab(tab)} />
+              )}
 
-            {(activeTab === 'sobre' || activeTab === 'settings_sobre') && (
-              <AboutPage />
-            )}
+              {(activeTab === 'sobre' || activeTab === 'settings_sobre') && (
+                <AboutPage />
+              )}
 
-            {(activeTab === 'settings' || activeTab === 'settings_ajustes') && (
-              <SettingsPage
-                user={user}
-                onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
-                initialTab="ajustes"
-              />
-            )}
+              {(activeTab === 'settings' || activeTab === 'settings_ajustes') && (
+                <SettingsPage
+                  user={user}
+                  onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
+                  initialTab="ajustes"
+                />
+              )}
+            </React.Suspense>
           </div>
         </main>
       </div>

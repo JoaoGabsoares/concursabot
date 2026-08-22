@@ -149,8 +149,8 @@ router.post('/upload', async (req, res) => {
         titulo: cleanTitle,
         materia: requestedSubject !== 'Geral' ? requestedSubject : universalMeta.subject,
         numeroAula: detectedLessonNumber || 1,
-        resumoEstrategico: universalMeta.sanitizedTheoryText.substring(0, 350).replace(/\s+/g, ' ') + '...',
-        topicosChave: universalMeta.tableOfContents.length > 0 
+        resumoEstrategico: (universalMeta.sanitizedSample || universalMeta.sanitizedTheoryText || textContent || '').substring(0, 350).replace(/\s+/g, ' ') + '...',
+        topicosChave: (universalMeta.tableOfContents && universalMeta.tableOfContents.length > 0)
           ? universalMeta.tableOfContents.slice(0, 5).map(t => t.title)
           : [universalMeta.subject || 'Conceitos Chave', 'Legislação e Doutrina'],
         jurisprudenciaRelevante: 'Doutrina e jurisprudência aplicável ao edital.',

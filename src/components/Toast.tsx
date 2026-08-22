@@ -70,42 +70,46 @@ export const ToastProvider: React.FC<{ children: React.ReactNode }> = ({ childre
             <div
               key={toast.id}
               className={`pointer-events-auto flex items-start justify-between gap-3 p-4 rounded-xl border shadow-xl backdrop-blur-md transition-all duration-300 animate-in fade-in slide-in-from-bottom-5 ${
-                toast.type === 'xp'
-                  ? 'bg-[#181a20]/95 border-amber-500/40 text-amber-100 shadow-amber-950/20'
+                toast.type === 'xp' || toast.type === 'warning'
+                  ? 'bg-[var(--bg-surface)] border-[var(--accent-warning)]/40 text-[var(--text-primary)] shadow-lg'
                   : toast.type === 'success'
-                  ? 'bg-[#141d18]/95 border-emerald-500/40 text-emerald-100 shadow-emerald-950/20'
+                  ? 'bg-[var(--bg-surface)] border-[var(--accent-success)]/40 text-[var(--text-primary)] shadow-lg'
                   : toast.type === 'error'
-                  ? 'bg-[#221415]/95 border-rose-500/40 text-rose-100 shadow-rose-950/20'
-                  : 'bg-[var(--bg-surface)]/95 border-[var(--border-subtle)] text-[var(--text-primary)] shadow-black/30'
+                  ? 'bg-[var(--bg-surface)] border-[var(--accent-danger)]/40 text-[var(--text-primary)] shadow-lg'
+                  : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] text-[var(--text-primary)] shadow-lg'
               }`}
             >
               <div className="flex items-start gap-3">
                 <div className="mt-0.5 shrink-0">
                   {toast.type === 'xp' ? (
-                    <div className="w-8 h-8 rounded-lg bg-amber-500/20 border border-amber-500/30 flex items-center justify-center text-amber-400 font-mono font-bold text-xs">
+                    <div className="w-8 h-8 rounded-lg bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 flex items-center justify-center text-[var(--accent-warning)] font-mono font-bold text-xs">
                       <Award className="w-4 h-4" />
                     </div>
                   ) : toast.type === 'success' ? (
-                    <div className="w-8 h-8 rounded-lg bg-emerald-500/20 border border-emerald-500/30 flex items-center justify-center text-emerald-400">
+                    <div className="w-8 h-8 rounded-lg bg-[var(--accent-emerald-bg)] border border-[var(--accent-success)]/30 flex items-center justify-center text-[var(--accent-success)]">
                       <CheckCircle2 className="w-4 h-4" />
                     </div>
                   ) : toast.type === 'error' ? (
-                    <div className="w-8 h-8 rounded-lg bg-rose-500/20 border border-rose-500/30 flex items-center justify-center text-rose-400">
+                    <div className="w-8 h-8 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 flex items-center justify-center text-[var(--accent-danger)]">
+                      <AlertTriangle className="w-4 h-4" />
+                    </div>
+                  ) : toast.type === 'warning' ? (
+                    <div className="w-8 h-8 rounded-lg bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 flex items-center justify-center text-[var(--accent-warning)]">
                       <AlertTriangle className="w-4 h-4" />
                     </div>
                   ) : (
-                    <div className="w-8 h-8 rounded-lg bg-blue-500/20 border border-blue-500/30 flex items-center justify-center text-blue-400">
+                    <div className="w-8 h-8 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)]">
                       <Info className="w-4 h-4" />
                     </div>
                   )}
                 </div>
                 <div className="space-y-1">
                   <div className="flex items-center gap-2">
-                    <h4 className="font-sans font-bold text-sm leading-tight text-white">
+                    <h4 className="font-sans font-bold text-sm leading-tight text-[var(--text-primary)]">
                       {toast.title}
                     </h4>
                     {toast.xp && (
-                      <span className="font-mono text-[11px] font-bold px-2 py-0.5 rounded-md bg-amber-500/30 text-amber-300 border border-amber-500/40 animate-pulse">
+                      <span className="font-mono text-xs font-bold px-2 py-0.5 rounded-md bg-[var(--accent-amber-bg)] text-[var(--accent-warning)] border border-[var(--accent-warning)]/40">
                         +{toast.xp} XP
                       </span>
                     )}
@@ -119,7 +123,7 @@ export const ToastProvider: React.FC<{ children: React.ReactNode }> = ({ childre
               </div>
               <button
                 onClick={() => removeToast(toast.id)}
-                className="text-[var(--text-muted)] hover:text-white transition-colors p-1 rounded-md"
+                className="text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors p-1 rounded-md focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 aria-label="Fechar"
               >
                 <X className="w-4 h-4" />

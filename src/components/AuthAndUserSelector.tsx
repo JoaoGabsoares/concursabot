@@ -315,7 +315,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
           
           {/* Brand Header */}
           <div className="text-center space-y-1.5">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[10px] font-mono text-[var(--accent-primary)] font-bold">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--accent-primary)] font-bold">
               <ShieldCheck className="w-3.5 h-3.5" />
               <span>ACESSO PRIVADO • CUSTO ZERO</span>
             </div>
@@ -330,7 +330,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
           <Card className="p-5 sm:p-7 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-2xl">
             
             {/* Auth Mode Switcher Tabs */}
-            <div className="grid grid-cols-2 gap-1 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs font-bold">
+            <div className="grid grid-cols-2 gap-1 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-sans text-xs font-bold">
               <button
                 type="button"
                 onClick={() => {
@@ -370,7 +370,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                 type="button"
                 onClick={handleGoogleRedirectLogin}
                 disabled={authLoading}
-                className="w-full h-11 px-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-primary)] hover:border-[var(--accent-primary)]/50 transition-all font-sans font-bold text-xs sm:text-sm flex items-center justify-center gap-3 shadow-sm active:scale-[0.99] cursor-pointer"
+                className="w-full h-11 px-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-primary)] hover:border-[var(--accent-primary)]/50 transition-all font-sans font-bold text-xs sm:text-sm flex items-center justify-center gap-3 shadow-sm active:scale-[0.99] cursor-pointer focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <GoogleIcon className="w-5 h-5 shrink-0" />
                 <span>{authTab === 'login' ? 'Entrar com a Conta Google' : 'Cadastrar com a Conta Google'}</span>
@@ -378,7 +378,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
               <div className="flex items-center gap-3">
                 <div className="flex-1 h-px bg-[var(--border-subtle)]"></div>
-                <span className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">
+                <span className="text-xs font-sans text-[var(--text-muted)] uppercase tracking-wider">
                   ou com e-mail e senha
                 </span>
                 <div className="flex-1 h-px bg-[var(--border-subtle)]"></div>
@@ -389,7 +389,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
             {authTab === 'login' ? (
               <form onSubmit={handleLogin} className="space-y-3.5" autoComplete="on">
                 <div className="space-y-1">
-                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                  <label className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     E-mail do Aluno:
                   </label>
                   <div className="relative">
@@ -403,13 +403,13 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       placeholder="seu.email@exemplo.com"
                       value={emailInput}
                       onChange={(e) => setEmailInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] placeholder-[var(--text-placeholder)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                   </div>
                 </div>
 
                 <div className="space-y-1">
-                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                  <label className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     Senha de Acesso:
                   </label>
                   <div className="relative">
@@ -422,7 +422,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       placeholder="••••••••"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] placeholder-[var(--text-placeholder)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                     <button
                       type="button"
@@ -448,7 +448,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs sm:text-sm font-bold shadow-md flex items-center justify-center gap-2 mt-3 py-3 h-11 cursor-pointer active:scale-[0.99]"
+                  className="font-sans text-xs sm:text-sm font-bold shadow-md flex items-center justify-center gap-2 mt-3 py-3 h-11 cursor-pointer active:scale-[0.99]"
                 >
                   {authLoading ? (
                     <span className="flex items-center gap-2">
@@ -464,7 +464,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               /* Register Form */
               <form onSubmit={handleRegister} className="space-y-3.5" autoComplete="on">
                 <div className="space-y-1">
-                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                  <label className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     Nome Completo / Apelido:
                   </label>
                   <div className="relative">
@@ -478,13 +478,13 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       placeholder="ex: João Silva"
                       value={usernameInput}
                       onChange={(e) => setUsernameInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] placeholder-[var(--text-placeholder)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                   </div>
                 </div>
 
                 <div className="space-y-1">
-                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                  <label className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     E-mail do Aluno (Obrigatório):
                   </label>
                   <div className="relative">
@@ -497,13 +497,13 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       placeholder="seu.email@exemplo.com"
                       value={emailInput}
                       onChange={(e) => setEmailInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] placeholder-[var(--text-placeholder)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                   </div>
                 </div>
 
                 <div className="space-y-1">
-                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                  <label className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     Senha de Acesso:
                   </label>
                   <div className="relative">
@@ -517,7 +517,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       placeholder="Mínimo 8 caracteres"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] placeholder-[var(--text-placeholder)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                     <button
                       type="button"
@@ -543,7 +543,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs sm:text-sm font-bold shadow-md flex items-center justify-center gap-2 mt-3 py-3 h-11 cursor-pointer active:scale-[0.99]"
+                  className="font-sans text-xs sm:text-sm font-bold shadow-md flex items-center justify-center gap-2 mt-3 py-3 h-11 cursor-pointer active:scale-[0.99]"
                 >
                   {authLoading ? (
                     <span className="flex items-center gap-2">
@@ -558,8 +558,8 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
             )}
 
             <div className="pt-2.5 border-t border-[var(--border-subtle)] text-center">
-              <span className="text-[11px] text-[var(--text-muted)] flex items-center justify-center gap-1.5">
-                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+              <span className="text-xs text-[var(--text-muted)] flex items-center justify-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent-success)]"></span>
                 Conexão Segura • Dados 100% Protegidos
               </span>
             </div>
@@ -584,7 +584,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               <div className="text-xs font-bold text-[var(--text-primary)]">
                 Conta: @{account?.username}
               </div>
-              <div className="text-[10px] font-mono text-[var(--text-muted)]">
+              <div className="text-xs font-mono text-[var(--text-muted)]">
                 Perfis cadastrados: <span className="font-bold text-[var(--accent-primary)]">{profiles.length}</span> de 3 permitidos
               </div>
             </div>
@@ -592,7 +592,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
           <button
             onClick={handleLogout}
-            className="text-xs font-mono text-[var(--text-muted)] hover:text-[var(--accent-danger)] flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-[var(--border-subtle)] hover:border-[var(--accent-danger)]/40 transition-colors"
+            className="text-xs font-sans text-[var(--text-muted)] hover:text-[var(--accent-danger)] flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-[var(--border-subtle)] hover:border-[var(--accent-danger)]/40 transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
           >
             <LogOut className="w-3.5 h-3.5" />
             <span>Sair / Trocar Conta</span>
@@ -627,7 +627,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       <div className="text-sm font-bold text-[var(--text-primary)] truncate flex items-center gap-2">
                         <span>{p.name}</span>
                         {p.xp > 0 && (
-                          <span className="px-1.5 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                          <span className="px-1.5 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-xs font-bold">
                             {p.xp} XP
                           </span>
                         )}
@@ -642,7 +642,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                         type="button"
                         title="Excluir Perfil"
                         onClick={(e) => handleDeleteProfile(e, p.id)}
-                        className="opacity-0 group-hover:opacity-100 p-1.5 rounded text-[var(--text-muted)] hover:text-[var(--accent-danger)] hover:bg-[var(--color-status-danger-bg)] transition-all"
+                        className="opacity-0 group-hover:opacity-100 p-1.5 rounded text-[var(--text-muted)] hover:text-[var(--accent-danger)] hover:bg-[var(--color-status-danger-bg)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       >
                         <Trash2 className="w-4 h-4" />
                       </button>
@@ -655,7 +655,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
           ) : (
             <Card className="p-6 sm:p-8 text-center space-y-3 bg-[var(--bg-surface)] border-[var(--border-subtle)]">
               <div className="w-12 h-12 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)] mx-auto">
-                <Sparkles className="w-6 h-6 text-amber-400" />
+                <Sparkles className="w-6 h-6 text-[var(--accent-warning)]" />
               </div>
               <div className="font-display font-bold text-base text-[var(--text-primary)]">
                 Nenhum Perfil Criado Nesta Conta
@@ -671,12 +671,12 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
             <Card
               hoverable={true}
               onClick={() => setShowCreateModal(true)}
-              className="p-4 sm:p-5 text-center border-dashed border-2 border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-transparent flex items-center justify-center gap-2 text-xs sm:text-sm font-mono font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer uppercase tracking-wider"
+              className="p-4 sm:p-5 text-center border-dashed border-2 border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-transparent flex items-center justify-center gap-2 text-xs sm:text-sm font-sans font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer uppercase tracking-wider"
             >
               <span>+ Criar Novo Perfil de Estudante ({profiles.length + 1} de 3)</span>
             </Card>
           ) : (
-            <div className="p-3 text-center rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-muted)]">
+            <div className="p-3 text-center rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-sans text-[var(--text-muted)]">
               🔒 Limite de 3 perfis atingido para esta conta.
             </div>
           )}
@@ -691,13 +691,13 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
                     Cadastrar Perfil ({profiles.length + 1} de 3)
                   </h3>
-                  <p className="text-[11px] text-[var(--text-muted)] font-mono">
+                  <p className="text-xs text-[var(--text-muted)] font-mono">
                     Vinculado à conta @{account?.username}
                   </p>
                 </div>
                 <button
                   onClick={() => setShowCreateModal(false)}
-                  className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+                  className="font-sans text-xs font-semibold text-[var(--text-muted)] hover:text-[var(--text-primary)]"
                 >
                   [ FECHAR ]
                 </button>
@@ -705,7 +705,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
               <form onSubmit={handleCreateProfile} className="space-y-3.5 font-sans text-xs sm:text-sm">
                 <div className="space-y-1">
-                  <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                  <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
                     Nome do Estudante / Perfil:
                   </label>
                   <input
@@ -715,18 +715,18 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     placeholder="Ex: João - Receita Federal"
                     value={newName}
                     onChange={(e) => setNewName(e.target.value)}
-                    className="w-full h-10 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none shadow-sm"
+                    className="w-full h-10 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] placeholder-[var(--text-placeholder)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none shadow-sm"
                   />
                 </div>
 
                 <div className="space-y-1">
-                  <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                  <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
                     Concurso / Edital Alvo:
                   </label>
                   <select
                     value={newCareerId}
                     onChange={(e) => setNewCareerId(e.target.value)}
-                    className="w-full h-10 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none cursor-pointer font-sans shadow-sm"
+                    className="w-full h-10 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-input)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none cursor-pointer font-sans shadow-sm"
                   >
                     {CAREERS_LIST.map((c) => (
                       <option key={c.id} value={c.id}>
@@ -737,7 +737,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                 </div>
 
                 <div className="space-y-1">
-                  <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                  <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
                     Meta Diária de Estudos:
                   </label>
                   <div className="grid grid-cols-4 gap-2 font-mono">
@@ -771,7 +771,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     size="md"
                     fullWidth={true}
                     onClick={() => setShowCreateModal(false)}
-                    className="font-mono text-xs"
+                    className="font-sans text-xs"
                   >
                     Cancelar
                   </Button>
@@ -781,7 +781,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     size="md"
                     fullWidth={true}
                     disabled={creatingUser || !newName.trim()}
-                    className="font-bold font-mono text-xs shadow-md"
+                    className="font-bold font-sans text-xs shadow-md"
                   >
                     {creatingUser ? "Cadastrando..." : "Criar Perfil"}
                   </Button>

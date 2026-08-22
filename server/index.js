@@ -92,8 +92,7 @@ app.use((req, res, next) => {
     next();
 });
 
-// Core Middleware & Prototype Pollution Guard
-app.use(securityGuardMiddleware);
+// Core Middleware
 app.use(cors({
     origin: process.env.CORS_ORIGIN || true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
@@ -101,6 +100,8 @@ app.use(cors({
 }));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
+// Prototype Pollution & Security Guard (runs after body parsing)
+app.use(securityGuardMiddleware);
 
 // Serve static files from 'dist' (React 19 build) if exists, fallback to 'public'
 const distDir = path.join(__dirname, '../dist');

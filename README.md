@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.3)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.4)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
@@ -11,13 +11,30 @@
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Interface Despoluída e sem Menus Duplicados**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Design System 100% Semântico (Zero Cores Hardcoded e Zero Slop de IA)**, **Code-Splitting e Otimização de Performance (-52% Bundle Payload)**, **Hardening de Segurança de Backend (Zero-Trust OAuth & Anti-IDOR)**, **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Interface Despoluída e sem Menus Duplicados**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
 
 ---
 
-## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.3)
+## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.4)
 
-1. 🧠 **Acervo RAG Híbrido ATRFB & Motor FTS5 no SQLite (3.613 Documentos):**
+1. 🎨 **Design System 100% Semântico & Despoluição Visual Total:**
+   - **Zero Cores Hardcoded**: Todas as 188 cores literais do Tailwind foram substituídas por tokens semânticos CSS (`--accent-primary`, `--accent-success`, `--accent-warning`, `--accent-danger`, `--accent-purple`, `--btn-primary-bg`, etc.).
+   - **Eliminação de Slop de IA**: Remoção completa de efeitos `.glow-*` desnecessários, background grid cibernético e animações decorativas não-funcionais.
+   - **Tipografia Racionalizada (Regra 60-30-10)**: `font-mono` reservada estritamente para dados numéricos, timers e XP; textos e botões padronizados em `font-sans`.
+   - **Tamanho Mínimo de 12px**: Nenhuma fonte abaixo de `text-xs` no projeto, garantindo conforto em leituras de 4h+ de estudo.
+
+2. ⚡ **Code-Splitting & Redução de 52% no Bundle Inicial:**
+   - Páginas carregadas dinamicamente via `React.lazy` e `Suspense`.
+   - Bundle principal reduzido de 623 KB para **299 KB** com carregamento sob demanda em 25 chunks.
+   - Consulta ao Dashboard otimizada com resolução O(1) e eliminação de N+1 queries no SQLite.
+
+3. 🛡️ **Hardening de Segurança & Proteção de Dados:**
+   - Rate limiting protegido contra bypass de cabeçalhos.
+   - Mock OAuth desativado e bloqueado em ambientes de produção.
+   - Validação estrita do parâmetro `aud` (Audience) em tokens de autenticação Google.
+   - Ordem de execução de middlewares do Express corrigida com sanitização prévia contra Prototype Pollution.
+
+4. 🧠 **Acervo RAG Híbrido ATRFB & Motor FTS5 no SQLite (3.613 Documentos):**
    - Base canônica com mais de **204 milhões de caracteres** de doutrina, legislação e teoria para a Receita Federal (FGV).
    - Busca textual instantânea (< 5ms) por artigos da lei (`Art. 150`), súmulas do STF/STJ e tópicos doutrinários via SQLite FTS5.
    - **Tutor IA** e **Chat Comunitário** conectados diretamente ao acervo para respostas fundamentadas e com citação direta de aulas.

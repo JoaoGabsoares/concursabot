@@ -156,13 +156,13 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
           {/* Carreira de Origem */}
           <div className="md:col-span-5 space-y-2">
             <label className="text-xs font-mono text-[var(--text-muted)] font-semibold flex items-center gap-1.5">
-              <BookOpen className="w-3.5 h-3.5 text-blue-400" />
+              <BookOpen className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
               <span>EDITAL QUE VOCÊ ESTUDOU / ESTÁ ESTUDANDO:</span>
             </label>
             <select
               value={origemId}
               onChange={(e) => setOrigemId(e.target.value)}
-              className="w-full p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] font-medium text-xs sm:text-sm focus:border-[var(--accent-primary)] outline-none"
+              className="w-full p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] font-medium text-xs sm:text-sm focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none min-h-[44px]"
             >
               {CAREERS_LIST.map(c => (
                 <option key={c.id} value={c.id}>
@@ -182,13 +182,13 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
           {/* Carreira de Destino */}
           <div className="md:col-span-5 space-y-2">
             <label className="text-xs font-mono text-[var(--text-muted)] font-semibold flex items-center gap-1.5">
-              <Compass className="w-3.5 h-3.5 text-emerald-400" />
+              <Compass className="w-3.5 h-3.5 text-[var(--accent-success)]" />
               <span>NOVO EDITAL ALVO (MIGRAÇÃO / NOVO FOCO):</span>
             </label>
             <select
               value={destinoId}
               onChange={(e) => setDestinoId(e.target.value)}
-              className="w-full p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] font-medium text-xs sm:text-sm focus:border-[var(--accent-primary)] outline-none"
+              className="w-full p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] font-medium text-xs sm:text-sm focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none min-h-[44px]"
             >
               {CAREERS_LIST.map(c => (
                 <option key={c.id} value={c.id}>
@@ -208,7 +208,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
               <select
                 value={dailyHours}
                 onChange={(e) => setDailyHours(Number(e.target.value))}
-                className="h-8 px-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none cursor-pointer"
+                className="h-9 px-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none cursor-pointer focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <option value={1}>1h / dia</option>
                 <option value={2}>2h / dia (Padrão)</option>
@@ -224,7 +224,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
               <select
                 value={daysPerWeek}
                 onChange={(e) => setDaysPerWeek(Number(e.target.value))}
-                className="h-8 px-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none cursor-pointer"
+                className="h-9 px-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none cursor-pointer focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <option value={5}>5 dias (Seg a Sex)</option>
                 <option value={6}>6 dias (Seg a Sáb)</option>
@@ -232,7 +232,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
               </select>
             </div>
 
-            <span className="text-[11px] text-[var(--text-muted)]">
+            <span className="text-xs text-[var(--text-muted)]">
               Capacidade: <strong>{dailyHours * daysPerWeek}h / semana</strong>
             </span>
           </div>
@@ -242,7 +242,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
             icon={GitCompare}
             onClick={() => handleComparar(origemId, destinoId, dailyHours, daysPerWeek)}
             disabled={loading}
-            className="font-mono text-xs font-bold shadow-md"
+            className="font-sans text-xs font-bold shadow-md min-h-[44px]"
           >
             {loading ? 'Calculando Matriz...' : 'Recalcular Aproveitamento & Datas'}
           </Button>
@@ -301,11 +301,11 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
               <div className="pt-3 border-t border-[var(--border-subtle)] space-y-1.5 text-xs text-[var(--text-secondary)]">
                 <div className="flex justify-between">
                   <span>Matérias Comuns:</span>
-                  <strong className="text-emerald-400 font-mono">{resultado.disciplinasComuns.length}</strong>
+                  <strong className="text-[var(--accent-success)] font-mono">{resultado.disciplinasComuns.length}</strong>
                 </div>
                 <div className="flex justify-between">
                   <span>Matérias Inéditas (Gap):</span>
-                  <strong className="text-amber-400 font-mono">{resultado.disciplinasIneditas.length}</strong>
+                  <strong className="text-[var(--accent-warning)] font-mono">{resultado.disciplinasIneditas.length}</strong>
                 </div>
                 <div className="flex justify-between">
                   <span>Total Horas de Transição:</span>
@@ -331,7 +331,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
                     <div>
                       <div className="font-semibold text-[var(--text-primary)]">{d.nome}</div>
                       {d.origemEquivalente && (
-                        <div className="text-[11px] text-[var(--text-muted)] font-mono">
+                        <div className="text-xs text-[var(--text-muted)] font-mono">
                           Equivale a: {d.origemEquivalente}
                         </div>
                       )}
@@ -386,18 +386,18 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
                   variant={syncSuccess ? "outline" : "brand"}
                   onClick={handleSincronizar}
                   disabled={syncing || syncSuccess}
-                  className={`font-mono text-xs font-bold shrink-0 ${syncSuccess ? 'border-emerald-500 text-emerald-400' : ''}`}
+                  className={`font-sans text-xs font-bold shrink-0 min-h-[44px] ${syncSuccess ? 'border-[var(--accent-success)] text-[var(--accent-success)]' : ''}`}
                 >
                   {syncing ? (
                     'Sincronizando...'
                   ) : syncSuccess ? (
                     <span className="flex items-center gap-1.5">
-                      <Check className="w-4 h-4 text-emerald-400" />
+                      <Check className="w-4 h-4 text-[var(--accent-success)]" />
                       Cronograma Sincronizado!
                     </span>
                   ) : (
                     <span className="flex items-center gap-1.5">
-                      <Zap className="w-4 h-4 text-amber-400 fill-amber-400" />
+                      <Zap className="w-4 h-4 text-[var(--accent-warning)] fill-[var(--accent-warning)]" />
                       ⚡ Sincronizar com Meu Cronograma
                     </span>
                   )}
@@ -425,7 +425,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
 
                     <div className="space-y-1.5 text-xs">
                       <div className="font-bold text-[var(--text-primary)] flex items-center gap-1.5">
-                        <Target className="w-3.5 h-3.5 text-amber-400" />
+                        <Target className="w-3.5 h-3.5 text-[var(--accent-warning)]" />
                         <span>Foco: {sem.focoPrincipal}</span>
                       </div>
                       <p className="text-[var(--text-secondary)] font-sans text-xs leading-relaxed">
@@ -435,7 +435,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
 
                     <div className="pt-2 border-t border-[var(--border-subtle)] space-y-1.5">
                       {sem.materias.map((m, mIdx) => (
-                        <div key={mIdx} className="flex items-center justify-between text-[11px] font-mono">
+                        <div key={mIdx} className="flex items-center justify-between text-xs font-mono">
                           <span className="text-[var(--text-secondary)] truncate max-w-[220px]">
                             • {m.nome}
                           </span>

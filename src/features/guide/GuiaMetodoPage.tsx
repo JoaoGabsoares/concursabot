@@ -52,7 +52,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
               <Target className="w-5 h-5" />
               <span>1. Princípio de Pareto 80/20</span>
             </div>
-            <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+            <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-xs font-bold">
               ESTRATÉGIA
             </span>
           </div>
@@ -71,7 +71,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
             variant="outline"
             size="sm"
             onClick={() => onNavigate('edital')}
-            className="w-full font-mono text-xs font-semibold flex items-center justify-center gap-2"
+            className="w-full font-sans text-xs font-semibold flex items-center justify-center gap-2 min-h-[44px]"
           >
             <span>Acessar Raio-X do Edital</span>
             <ArrowRight className="w-3.5 h-3.5" />
@@ -81,11 +81,11 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
         {/* Pilar 2: Curva do Esquecimento SM-2 */}
         <Card className="p-6 sm:p-7 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm hover:border-[var(--accent-primary)] transition-all">
           <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-            <div className="flex items-center gap-2.5 text-amber-500 font-bold text-base sm:text-lg">
+            <div className="flex items-center gap-2.5 text-[var(--accent-warning)] font-bold text-base sm:text-lg">
               <Flame className="w-5 h-5" />
               <span>2. Curva do Esquecimento (SM-2)</span>
             </div>
-            <span className="px-2 py-0.5 rounded bg-amber-500/10 text-amber-500 font-mono text-[10px] font-bold">
+            <span className="px-2 py-0.5 rounded bg-[var(--accent-amber-bg)] text-[var(--accent-warning)] font-mono text-xs font-bold">
               MEMÓRIA
             </span>
           </div>
@@ -104,7 +104,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
             variant="outline"
             size="sm"
             onClick={() => onNavigate('flashcards')}
-            className="w-full font-mono text-xs font-semibold flex items-center justify-center gap-2"
+            className="w-full font-sans text-xs font-semibold flex items-center justify-center gap-2 min-h-[44px]"
           >
             <span>Abrir Flashcards do Dia</span>
             <ArrowRight className="w-3.5 h-3.5" />
@@ -114,11 +114,11 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
         {/* Pilar 3: Superação no Caderno de Erros */}
         <Card className="p-6 sm:p-7 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm hover:border-[var(--accent-primary)] transition-all">
           <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-            <div className="flex items-center gap-2.5 text-rose-500 font-bold text-base sm:text-lg">
+            <div className="flex items-center gap-2.5 text-[var(--accent-danger)] font-bold text-base sm:text-lg">
               <Trophy className="w-5 h-5" />
               <span>3. Superação no Caderno de Erros</span>
             </div>
-            <span className="px-2 py-0.5 rounded bg-rose-500/10 text-rose-500 font-mono text-[10px] font-bold">
+            <span className="px-2 py-0.5 rounded bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] font-mono text-xs font-bold">
               DIAGNÓSTICO
             </span>
           </div>
@@ -137,7 +137,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
             variant="outline"
             size="sm"
             onClick={() => onNavigate('erros')}
-            className="w-full font-mono text-xs font-semibold flex items-center justify-center gap-2"
+            className="w-full font-sans text-xs font-semibold flex items-center justify-center gap-2 min-h-[44px]"
           >
             <span>Ver Caderno de Erros</span>
             <ArrowRight className="w-3.5 h-3.5" />
@@ -147,11 +147,11 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
         {/* Pilar 4: Cadência 60/30 & Prática Ativa */}
         <Card className="p-6 sm:p-7 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm hover:border-[var(--accent-primary)] transition-all">
           <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-            <div className="flex items-center gap-2.5 text-emerald-500 font-bold text-base sm:text-lg">
+            <div className="flex items-center gap-2.5 text-[var(--accent-success)] font-bold text-base sm:text-lg">
               <Clock className="w-5 h-5" />
               <span>4. Cadência 60/30 & Fixação Imediata</span>
             </div>
-            <span className="px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-500 font-mono text-[10px] font-bold">
+            <span className="px-2 py-0.5 rounded bg-[var(--accent-emerald-bg)] text-[var(--accent-success)] font-mono text-xs font-bold">
               EXECUÇÃO
             </span>
           </div>
@@ -170,7 +170,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
             variant="outline"
             size="sm"
             onClick={() => onNavigate('study')}
-            className="w-full font-mono text-xs font-semibold flex items-center justify-center gap-2"
+            className="w-full font-sans text-xs font-semibold flex items-center justify-center gap-2 min-h-[44px]"
           >
             <span>Ir para a Sala de Estudos</span>
             <ArrowRight className="w-3.5 h-3.5" />
@@ -200,7 +200,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
               01
             </div>
             <div className="font-bold text-xs text-[var(--text-primary)]">Missão do Dia</div>
-            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+            <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
               Abra o Dashboard e identifique a disciplina e módulo prioritários indicados.
             </p>
           </div>
@@ -210,7 +210,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
               02
             </div>
             <div className="font-bold text-xs text-[var(--text-primary)]">Leitura de Doutrina</div>
-            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+            <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
               Leia as 5 páginas do módulo na Sala de Estudos e salve o ponto de parada.
             </p>
           </div>
@@ -220,7 +220,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
               03
             </div>
             <div className="font-bold text-xs text-[var(--text-primary)]">Fixação Imediata</div>
-            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+            <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
               Resolva questões da banca para consolidar os mnemônicos e pegadinhas.
             </p>
           </div>
@@ -230,7 +230,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
               04
             </div>
             <div className="font-bold text-xs text-[var(--text-primary)]">Flashcards & Erros</div>
-            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+            <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
               Zere os flashcards do dia e revise as questões erradas no Caderno de Erros.
             </p>
           </div>
@@ -240,7 +240,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
               05
             </div>
             <div className="font-bold text-xs text-[var(--text-primary)]">Simulado & Redação</div>
-            <p className="text-[11px] text-[var(--text-secondary)] leading-relaxed">
+            <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
               Aos fins de semana, realize um Simulado Cronometrado e envie uma Redação.
             </p>
           </div>
@@ -263,7 +263,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
           variant="brand"
           size="md"
           onClick={() => onNavigate('dashboard')}
-          className="font-mono text-xs font-bold shrink-0 shadow-sm"
+          className="font-sans text-xs font-bold shrink-0 shadow-sm min-h-[44px]"
         >
           Ir para o Meu Treinamento ➔
         </Button>

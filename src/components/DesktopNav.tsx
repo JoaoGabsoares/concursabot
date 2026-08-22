@@ -62,7 +62,7 @@ export const DesktopNav: React.FC<DesktopNavProps> = ({
                 <Icon className={`w-3.5 h-3.5 ${isActive ? 'text-[var(--accent-primary)]' : 'text-[var(--text-muted)]'}`} />
                 <span>{item.label}</span>
                 {item.badge && item.badge > 0 ? (
-                  <span className="px-1.5 py-0.2 bg-rose-500 text-white text-[9px] font-mono font-bold rounded-full ml-0.5">
+                  <span className="px-1.5 py-0.5 bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 text-[var(--accent-danger)] text-xs font-mono font-bold rounded-full ml-0.5">
                     {item.badge}
                   </span>
                 ) : null}

@@ -41,7 +41,7 @@ export const Button: React.FC<ButtonProps> = ({
   disabled,
   ...props
 }) => {
-  const baseStyles = 'inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-150 cursor-pointer select-none active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none disabled:active:scale-100 whitespace-nowrap';
+  const baseStyles = 'inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-150 cursor-pointer select-none active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none disabled:active:scale-100 whitespace-nowrap focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]';
 
   const sizeStyles = {
     sm: 'min-h-9 px-3.5 text-xs gap-2',
@@ -50,12 +50,12 @@ export const Button: React.FC<ButtonProps> = ({
   };
 
   const variantStyles = {
-    brand: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-blue-400/20 active:bg-blue-800',
-    primary: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-blue-400/20',
+    brand: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-[var(--accent-primary)]/20 active:opacity-90',
+    primary: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-[var(--accent-primary)]/20',
     secondary: 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm',
     outline: 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm',
     ghost: 'bg-transparent hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]',
-    danger: 'bg-red-600 hover:bg-red-700 text-white shadow-sm border border-red-500/30'
+    danger: 'bg-[var(--accent-danger)] hover:opacity-90 text-white shadow-sm border border-[var(--accent-danger)]/30'
   };
 
   return (
@@ -118,7 +118,7 @@ export const Badge: React.FC<BadgeProps> = ({
 
   return (
     <span
-      className={`inline-flex items-center px-2 py-0.5 rounded text-[11px] font-mono font-bold uppercase tracking-wider ${variantStyles[variant]} ${className}`}
+      className={`inline-flex items-center px-2 py-0.5 rounded text-xs font-mono font-bold uppercase tracking-wider ${variantStyles[variant]} ${className}`}
     >
       {children}
     </span>
@@ -184,7 +184,7 @@ export const BottomSheet: React.FC<BottomSheetProps> = ({
           </h3>
           <button
             onClick={onClose}
-            className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--text-primary)] p-1"
+            className="font-sans text-xs font-semibold text-[var(--text-muted)] hover:text-[var(--text-primary)] p-1 focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] rounded"
           >
             [ FECHAR ]
           </button>

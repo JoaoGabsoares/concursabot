@@ -168,14 +168,14 @@ const CadenceTimerWidget: React.FC<{
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <Clock className="w-4 h-4 text-[var(--accent-primary)]" />
-          <span className="font-mono text-xs font-bold text-[var(--text-primary)] uppercase tracking-wider">
+          <span className="font-sans text-xs font-bold text-[var(--text-primary)] uppercase tracking-wider">
             Cadência de Estudo
           </span>
         </div>
         <button
           type="button"
           onClick={onOpenCadenceModal}
-          className="text-[10px] font-mono font-bold text-[var(--accent-primary)] hover:underline flex items-center gap-1 bg-[var(--accent-primary)]/10 px-2 py-0.5 rounded"
+          className="text-xs font-sans font-bold text-[var(--accent-primary)] hover:underline flex items-center gap-1 bg-[var(--accent-primary-glow)] px-2 py-0.5 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
           title="Ajustar Método de Cadência"
         >
           <span>{getPresetLabel()}</span>
@@ -183,11 +183,11 @@ const CadenceTimerWidget: React.FC<{
         </button>
       </div>
 
-      <div className="grid grid-cols-3 gap-1 p-1 bg-[var(--bg-elevated)] rounded-lg text-xs font-mono">
+      <div className="grid grid-cols-3 gap-1 p-1 bg-[var(--bg-elevated)] rounded-lg text-xs font-sans">
         <button
           type="button"
           onClick={() => onModeChange('leitura')}
-          className={`py-1.5 rounded-md font-bold transition-all ${
+          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
             timerMode === 'leitura'
               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -198,7 +198,7 @@ const CadenceTimerWidget: React.FC<{
         <button
           type="button"
           onClick={() => onModeChange('questoes')}
-          className={`py-1.5 rounded-md font-bold transition-all ${
+          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
             timerMode === 'questoes'
               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -209,7 +209,7 @@ const CadenceTimerWidget: React.FC<{
         <button
           type="button"
           onClick={() => onModeChange('livre')}
-          className={`py-1.5 rounded-md font-bold transition-all ${
+          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
             timerMode === 'livre'
               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -231,7 +231,7 @@ const CadenceTimerWidget: React.FC<{
           size="sm"
           fullWidth={true}
           onClick={() => setIsRunning(!isRunning)}
-          className="font-mono text-xs font-bold flex items-center justify-center gap-2"
+          className="font-sans text-xs font-bold flex items-center justify-center gap-2"
         >
           {isRunning ? (
             <>
@@ -252,7 +252,7 @@ const CadenceTimerWidget: React.FC<{
             setIsRunning(false);
             setSeconds(initialSecsRef.current);
           }}
-          className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+          className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
           title="Reiniciar Cronômetro"
         >
           <RotateCcw className="w-4 h-4" />
@@ -637,7 +637,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           <button
             type="button"
             onClick={() => setIsCadenceModalOpen(true)}
-            className="px-3 py-2 rounded-xl text-xs font-mono font-bold bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center gap-1.5 transition-all shadow-sm"
+            className="px-3 py-2 rounded-xl text-xs font-sans font-bold bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center gap-1.5 transition-all shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             title="Ajustar proporção de tempo entre Leitura Teórica e Questões"
           >
             <SlidersHorizontal className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
@@ -648,7 +648,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             variant="brand"
             size="sm"
             onClick={() => setIsUploadModalOpen(true)}
-            className="font-mono text-xs flex items-center gap-2 shadow-sm whitespace-nowrap"
+            className="font-sans text-xs flex items-center gap-2 shadow-sm whitespace-nowrap"
           >
             <UploadCloud className="w-4 h-4" />
             <span>+ Subir PDF da Aula</span>
@@ -663,7 +663,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         }}
         className="flex items-center gap-2 overflow-x-auto pb-2 custom-scrollbar-horizontal scroll-smooth"
       >
-        <span className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0 pl-1">
+        <span className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0 pl-1">
           Disciplinas:
         </span>
         {careerSubjects.map((sub) => {
@@ -673,7 +673,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               key={sub.name}
               type="button"
               onClick={() => handleSubjectChange(sub.name)}
-              className={`px-3.5 py-1.5 rounded-lg text-xs font-mono font-bold whitespace-nowrap transition-all flex items-center gap-1.5 shrink-0 ${
+              className={`px-3.5 py-1.5 rounded-lg text-xs font-sans font-bold whitespace-nowrap transition-all flex items-center gap-1.5 shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                 isSelected
                   ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                   : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)]'
@@ -693,7 +693,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           }}
           className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto custom-scrollbar-horizontal scroll-smooth"
         >
-          <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
+          <span className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
             📁 PDFs Carregados:
           </span>
           {uploadedMaterials.map((mat) => {
@@ -702,7 +702,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               <div
                 key={mat.id}
                 onClick={() => handleSelectMaterial(mat)}
-                className={`group px-3 py-1.5 rounded-lg text-xs font-mono transition-all flex items-center gap-2 shrink-0 cursor-pointer ${
+                className={`group px-3 py-1.5 rounded-lg text-xs font-mono transition-all flex items-center gap-2 shrink-0 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                   isSelected
                     ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
                     : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
@@ -711,7 +711,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <FileText className="w-3.5 h-3.5" />
                 <span className="max-w-[160px] truncate">{mat.title || mat.filename}</span>
                 {mat.theory_pages && (
-                  <span className="text-[10px] opacity-80 bg-black/20 px-1.5 py-0.5 rounded">
+                  <span className="text-xs opacity-80 bg-black/20 px-1.5 py-0.5 rounded">
                     {mat.current_page || 1}/{mat.theory_pages}p teoria
                   </span>
                 )}
@@ -719,7 +719,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   type="button"
                   title="Excluir este PDF do computador"
                   onClick={(e) => handleDeleteMaterial(e, mat.id)}
-                  className="opacity-0 group-hover:opacity-100 p-0.5 hover:text-rose-400 transition-opacity ml-0.5"
+                  className="opacity-0 group-hover:opacity-100 p-0.5 hover:text-[var(--accent-danger)] transition-opacity ml-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] rounded"
                 >
                   <Trash2 className="w-3.5 h-3.5" />
                 </button>
@@ -749,7 +749,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   type="button"
                   onClick={() => setViewMode('pdf')}
                   disabled={!selectedCustomMaterial?.pdfUrl}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all flex items-center gap-1.5 ${
+                  className={`px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                     viewMode === 'pdf'
                       ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                       : selectedCustomMaterial?.pdfUrl
@@ -765,7 +765,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <button
                   type="button"
                   onClick={() => setViewMode('notebook')}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all flex items-center gap-1.5 ${
+                  className={`px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                     viewMode === 'notebook'
                       ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                       : 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
@@ -778,14 +778,14 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
               {/* Universal Badges */}
               {selectedCustomMaterial && (
-                <div className="flex items-center gap-2 font-mono text-[11px]">
+                <div className="flex items-center gap-2 font-mono text-xs">
                   {selectedCustomMaterial.theory_pages && (
-                    <span className="px-2 py-0.5 rounded bg-blue-500/10 text-blue-400 border border-blue-500/20 font-bold">
+                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20 font-bold">
                       📖 {selectedCustomMaterial.theory_pages}p Teoria
                     </span>
                   )}
                   {selectedCustomMaterial.exercise_pages && selectedCustomMaterial.exercise_pages > 0 && (
-                    <span className="px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 border border-purple-500/20 font-bold">
+                    <span className="px-2 py-0.5 rounded bg-[var(--accent-purple-bg)] text-[var(--accent-purple)] border border-[var(--accent-purple)]/20 font-bold">
                       🎯 {selectedCustomMaterial.exercise_pages}p Questões
                     </span>
                   )}
@@ -805,11 +805,11 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             {!selectedCustomMaterial && subjectModules.length > 0 && (
               <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
                 <div className="flex items-center justify-between">
-                  <span className="text-[11px] font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider flex items-center gap-1.5">
+                  <span className="text-xs font-sans font-bold text-[var(--accent-primary)] uppercase tracking-wider flex items-center gap-1.5">
                     <ShieldCheck className="w-3.5 h-3.5" />
                     <span>Módulos de {selectedSubject} ({subjectModules.length} Módulos Disponíveis)</span>
                   </span>
-                  <span className="text-[10px] font-mono text-[var(--text-muted)]">
+                  <span className="text-xs font-sans text-[var(--text-muted)]">
                     Selecione o módulo para estudar:
                   </span>
                 </div>
@@ -827,14 +827,14 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                         key={mod.moduleNumber}
                         type="button"
                         onClick={() => handleSelectModule(mod.moduleNumber)}
-                        className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold whitespace-nowrap transition-all flex items-center gap-1.5 shrink-0 ${
+                        className={`px-3 py-1.5 rounded-lg text-xs font-sans font-bold whitespace-nowrap transition-all flex items-center gap-1.5 shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                           isModActive
                             ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                             : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] hover:text-[var(--text-primary)]'
                         }`}
                       >
                         <span>Módulo 0{mod.moduleNumber}</span>
-                        {isModActive && <span className="text-[10px] opacity-80 font-normal">({currentPage}/5p)</span>}
+                        {isModActive && <span className="text-xs opacity-80 font-normal">({currentPage}/5p)</span>}
                       </button>
                     );
                   })}
@@ -873,7 +873,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   <button
                     type="button"
                     onClick={() => scrollModuleNav('left')}
-                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all mr-1.5 shadow-xs"
+                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all mr-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                     title="Rolar abas para esquerda"
                     aria-label="Rolar abas para esquerda"
                   >
@@ -903,13 +903,13 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                           key={p.num}
                           type="button"
                           onClick={() => handleSelectPageDirect(p.num)}
-                          className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all shrink-0 flex items-center gap-1.5 ${
+                          className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all shrink-0 flex items-center gap-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                             isPageActive
                               ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border border-[var(--accent-primary)] shadow-xs'
                               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] border border-transparent'
                           }`}
                         >
-                          <span className={`w-4 h-4 rounded-full text-[10px] font-mono flex items-center justify-center font-bold ${
+                          <span className={`w-4 h-4 rounded-full text-xs font-mono flex items-center justify-center font-bold ${
                             isPageActive ? 'bg-[var(--accent-primary)] text-white' : 'bg-[var(--bg-surface)] text-[var(--text-muted)] border border-[var(--border-subtle)]'
                           }`}>
                             {p.num}
@@ -924,7 +924,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   <button
                     type="button"
                     onClick={() => scrollModuleNav('right')}
-                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all ml-1.5 shadow-xs"
+                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all ml-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                     title="Rolar abas para direita"
                     aria-label="Rolar abas para direita"
                   >
@@ -938,8 +938,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             {selectedCustomMaterial && (
               <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs">
                 <div className="space-y-0.5">
-                  <div className="flex items-center gap-2 font-mono font-bold text-[var(--text-primary)]">
-                    <Flame className="w-4 h-4 text-amber-400" />
+                  <div className="flex items-center gap-2 font-sans font-bold text-[var(--text-primary)]">
+                    <Flame className="w-4 h-4 text-[var(--accent-warning)]" />
                     <span>Ritmo de Estudo & Parada:</span>
                   </div>
                   <p className="text-[var(--text-secondary)] font-sans text-xs">
@@ -951,7 +951,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   variant="brand"
                   size="sm"
                   onClick={handleSwitchToQuestions}
-                  className="font-mono text-xs font-bold flex items-center gap-1.5 shrink-0 shadow-sm"
+                  className="font-sans text-xs font-bold flex items-center gap-1.5 shrink-0 shadow-sm"
                   title="Salva a página onde você parou e já inicia o bloco de questões"
                 >
                   <span>⚡ Ir p/ Questões ({getQuestionsMinutes()}m)</span>
@@ -972,7 +972,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     title="Leitor de PDF Integrado"
                   />
                 </div>
-                <div className="flex items-center justify-between text-[11px] font-mono text-[var(--text-muted)] px-1">
+                <div className="flex items-center justify-between text-xs font-sans text-[var(--text-muted)] px-1">
                   <span>Visualizador Universal: compatível com qualquer banca e editora</span>
                   <span>Use o controle abaixo para salvar sua página de leitura</span>
                 </div>
@@ -986,10 +986,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 {/* 1. Banca Trends & Header Banner */}
                 <div className="p-4 sm:p-5 rounded-xl bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] space-y-2">
                   <div className="flex items-center justify-between flex-wrap gap-2">
-                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold uppercase tracking-wider">
+                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold uppercase tracking-wider">
                       🎯 Tendência da Banca {currentCareer.banca} • {activePage?.category || 'Doutrina & Teoria'}
                     </span>
-                    <span className="text-[11px] font-mono text-[var(--text-muted)] font-bold">
+                    <span className="text-xs font-mono text-[var(--text-muted)] font-bold">
                       Página {currentPage} de {effectiveTotalPages}
                     </span>
                   </div>
@@ -1003,7 +1003,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 {/* 2. Structured Active Page Body */}
                 <div className="space-y-4 pt-1">
                   <div className="flex items-center gap-2 pb-2 border-b border-[var(--border-subtle)]">
-                    <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                    <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--accent-primary)] font-sans text-xs font-bold">
                       PÁGINA 0{currentPage}
                     </span>
                     <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
@@ -1028,7 +1028,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   {/* Deep Dive Box */}
                   {activePage?.deepDiveText && (
                     <div className="p-4 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-2 mt-3 shadow-xs">
-                      <div className="font-mono text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider flex items-center gap-1.5">
+                      <div className="font-sans text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider flex items-center gap-1.5">
                         <BookOpen className="w-3.5 h-3.5" />
                         <span>Aprofundamento Teórico & Doutrina</span>
                       </div>
@@ -1041,7 +1041,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   {/* Tabela de Esquemas / Verdade (Se disponível) */}
                   {activePage?.tableData && (
                     <div className="mt-4 rounded-xl border border-[var(--border-subtle)] overflow-hidden shadow-xs">
-                      <div className="p-2.5 bg-[var(--bg-elevated)] border-b border-[var(--border-subtle)] font-mono text-xs font-bold text-[var(--text-primary)] flex items-center gap-2">
+                      <div className="p-2.5 bg-[var(--bg-elevated)] border-b border-[var(--border-subtle)] font-sans text-xs font-bold text-[var(--text-primary)] flex items-center gap-2">
                         <Layers className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
                         <span>Tabela Estrutural & Esquematização da Banca</span>
                       </div>
@@ -1072,7 +1072,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   {activePage?.mnemonics && activePage.mnemonics.length > 0 && (
                     <div className="space-y-3 pt-3">
                       <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                        <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                        <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold">
                           ESQUEMAS DE FIXAÇÃO
                         </span>
                         <h4 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
@@ -1095,7 +1095,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   {activePage?.practicalCases && activePage.practicalCases.length > 0 && (
                     <div className="space-y-3 pt-3">
                       <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                        <span className="px-2 py-0.5 rounded bg-amber-500/10 text-amber-500 font-mono text-[10px] font-bold">
+                        <span className="px-2 py-0.5 rounded bg-[var(--accent-amber-bg)] text-[var(--accent-warning)] font-sans text-xs font-bold">
                           CASOS PRÁTICOS & PEGADINHAS
                         </span>
                         <h4 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
@@ -1112,7 +1112,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                             <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
                               {pc.scenario}
                             </p>
-                            <div className="p-2.5 rounded-lg bg-amber-500/10 border border-amber-500/20 text-xs text-amber-500 font-mono">
+                            <div className="p-2.5 rounded-lg bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/20 text-xs text-[var(--accent-warning)] font-sans">
                               ⚡ <strong>Dica da Banca:</strong> {pc.tip}
                             </div>
                           </div>
@@ -1125,7 +1125,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   {activePage?.lawArticles && activePage.lawArticles.length > 0 && (
                     <div className="space-y-3 pt-3">
                       <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
-                        <span className="px-2 py-0.5 rounded bg-blue-500/10 text-blue-500 font-mono text-[10px] font-bold">
+                        <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold">
                           LETRA DE LEI & SÚMULAS
                         </span>
                         <h4 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
@@ -1149,7 +1149,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     <div className="space-y-4 pt-4">
                       <div className="p-5 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-4 shadow-sm">
                         <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
-                          <span className="px-2.5 py-1 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                          <span className="px-2.5 py-1 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold">
                             🎯 QUESTÃO DE FIXAÇÃO DO MÓDULO 0{currentModule.moduleNumber}
                           </span>
                           <span className="font-mono text-xs text-[var(--accent-success)] font-bold">+10 XP</span>
@@ -1167,9 +1167,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
                             if (answered) {
                               if (isCorrect) {
-                                btnStyle = 'bg-emerald-500/10 border-emerald-500 text-emerald-400 font-bold';
+                                btnStyle = 'bg-[var(--accent-emerald-bg)] border-[var(--accent-success)] text-[var(--accent-success)] font-bold';
                               } else if (isSelected) {
-                                btnStyle = 'bg-rose-500/10 border-rose-500 text-rose-400';
+                                btnStyle = 'bg-[var(--color-status-danger-bg)] border-[var(--accent-danger)] text-[var(--accent-danger)]';
                               }
                             }
 
@@ -1179,7 +1179,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                                 type="button"
                                 onClick={() => handleSelectOption(letter)}
                                 disabled={answered}
-                                className={`w-full text-left p-3.5 rounded-xl border text-xs sm:text-sm flex items-start gap-3 transition-all ${btnStyle}`}
+                                className={`w-full text-left p-3.5 rounded-xl border text-xs sm:text-sm flex items-start gap-3 transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${btnStyle}`}
                               >
                                 <span className="w-5 h-5 rounded-md flex items-center justify-center font-mono font-bold shrink-0 bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
                                   {letter}
@@ -1192,8 +1192,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
                         {answered && (
                           <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs font-sans">
-                            <div className="font-mono font-bold text-[var(--accent-primary)] flex items-center gap-1.5">
-                              <CheckCircle2 className="w-4 h-4" />
+                            <div className="font-sans font-bold text-[var(--accent-primary)] flex items-center gap-1.5">
+                              <CheckCircle2 className="w-4 h-4 text-[var(--accent-success)]" />
                               <span>Gabarito Comentado Oficial:</span>
                             </div>
                             <p className="text-[var(--text-primary)] leading-relaxed">
@@ -1216,7 +1216,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             <div className="p-4 sm:p-5 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-4 pt-4 mt-6">
               
               <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-                <div className="flex items-center gap-2 font-mono text-xs font-bold text-[var(--text-primary)]">
+                <div className="flex items-center gap-2 font-sans text-xs font-bold text-[var(--text-primary)]">
                   <Bookmark className="w-4 h-4 text-[var(--accent-primary)]" />
                   <span>REGISTRO DE PÁGINA & PROGRESSO</span>
                 </div>
@@ -1235,7 +1235,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 
                 {/* Page Increment Buttons */}
                 <div className="space-y-1">
-                  <label className="text-[11px] font-mono text-[var(--text-muted)] block">
+                  <label className="text-xs font-sans text-[var(--text-muted)] block">
                     Página Atual da Leitura:
                   </label>
                   <div className="flex items-center gap-2">
@@ -1243,7 +1243,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                       type="button"
                       onClick={handlePrevPage}
                       disabled={currentPage <= 1}
-                      className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors"
+                      className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       title="Página Anterior"
                     >
                       <ChevronLeft className="w-4 h-4" />
@@ -1257,7 +1257,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                         max={effectiveTotalPages}
                         value={currentPage}
                         onChange={(e) => setCurrentPage(Math.max(1, Math.min(effectiveTotalPages, parseInt(e.target.value, 10) || 1)))}
-                        className="w-16 h-8 text-center rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                        className="w-16 h-8 text-center rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                       />
                       <span className="text-[var(--text-muted)]">de {effectiveTotalPages}</span>
                     </div>
@@ -1266,7 +1266,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                       type="button"
                       onClick={handleNextPage}
                       disabled={currentPage >= effectiveTotalPages}
-                      className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors"
+                      className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       title="Próxima Página"
                     >
                       <ChevronRight className="w-4 h-4" />
@@ -1276,7 +1276,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
                 {/* Status Toggle */}
                 <div className="space-y-1">
-                  <label className="text-[11px] font-mono text-[var(--text-muted)] block">
+                  <label className="text-xs font-sans text-[var(--text-muted)] block">
                     Status da Lição:
                   </label>
                   <div className="flex items-center gap-4 pt-1 text-xs">
@@ -1286,7 +1286,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                         name="lesson_status"
                         checked={!isCompleted}
                         onChange={() => setIsCompleted(false)}
-                        className="accent-[var(--accent-primary)]"
+                        className="accent-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       />
                       <span>Em Andamento</span>
                     </label>
@@ -1297,9 +1297,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                         name="lesson_status"
                         checked={isCompleted}
                         onChange={() => setIsCompleted(true)}
-                        className="accent-emerald-500"
+                        className="accent-[var(--accent-success)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       />
-                      <span className="font-bold text-emerald-400">Aula Finalizada</span>
+                      <span className="font-bold text-[var(--accent-success)]">Aula Finalizada</span>
                     </label>
                   </div>
                 </div>
@@ -1308,7 +1308,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
               {/* Study Notes */}
               <div className="space-y-1 pt-1">
-                <label className="text-[11px] font-mono text-[var(--text-muted)] block">
+                <label className="text-xs font-sans text-[var(--text-muted)] block">
                   Anotação do Ponto de Parada:
                 </label>
                 <input
@@ -1316,7 +1316,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   placeholder="Ex: Parei no Art. 150 da CF/88 (Princípio da Anterioridade Anual vs Nonagesimal)..."
                   value={studyNotes}
                   onChange={(e) => setStudyNotes(e.target.value)}
-                  className="w-full h-9 px-3 rounded-lg text-xs bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none focus:border-[var(--accent-primary)] shadow-sm"
+                  className="w-full h-9 px-3 rounded-lg text-xs bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] shadow-sm"
                 />
               </div>
 
@@ -1327,7 +1327,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     variant="outline"
                     size="sm"
                     onClick={() => setSelectedCustomMaterial(null)}
-                    className="font-mono text-xs"
+                    className="font-sans text-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                   >
                     ← Voltar ao Edital Nativo
                   </Button>
@@ -1339,7 +1339,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                       variant="secondary"
                       size="sm"
                       onClick={handleAdvanceToNextModule}
-                      className="font-mono text-xs font-semibold flex items-center gap-1.5 shadow-xs"
+                      className="font-sans text-xs font-semibold flex items-center gap-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       title={`Pular para o Módulo 0${selectedModuleNumber + 1}`}
                     >
                       <span>Próximo Módulo (0{selectedModuleNumber + 1})</span>
@@ -1352,7 +1352,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     size="sm"
                     disabled={isSavingProgress}
                     onClick={handleRegisterStudy}
-                    className="font-mono text-xs font-bold flex items-center gap-1.5 shadow-sm"
+                    className="font-sans text-xs font-bold flex items-center gap-1.5 shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                   >
                     <Check className="w-3.5 h-3.5" />
                     <span>{isCompleted ? 'Concluir Aula (+25 XP)' : 'Salvar Marca-Página (+15 XP)'}</span>
@@ -1397,16 +1397,16 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
             <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
               <div className="space-y-0.5">
-                <div className="text-xs font-mono font-bold text-[var(--text-primary)] flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-amber-400" />
+                <div className="text-xs font-sans font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                  <Sparkles className="w-4 h-4 text-[var(--accent-warning)]" />
                   <span>QUESTÃO DE FIXAÇÃO DA AULA</span>
                 </div>
-                <div className="text-[10px] font-mono text-[var(--text-muted)]">
+                <div className="text-xs font-mono text-[var(--text-muted)]">
                   Banca {currentCareer.banca} • {selectedSubject}
                 </div>
               </div>
 
-              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold">
+              <span className="text-xs font-mono px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold">
                 Q#{activeQuestion.id}
               </span>
             </div>
@@ -1425,9 +1425,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 let optionStyles = "bg-[var(--bg-elevated)] border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)]";
                 if (answered) {
                   if (isCorrect) {
-                    optionStyles = "bg-emerald-500/10 border-emerald-500 text-emerald-400 font-bold";
+                    optionStyles = "bg-[var(--accent-emerald-bg)] border-[var(--accent-success)] text-[var(--accent-success)] font-bold";
                   } else if (isSelected && !isCorrect) {
-                    optionStyles = "bg-rose-500/10 border-rose-500 text-rose-400";
+                    optionStyles = "bg-[var(--color-status-danger-bg)] border-[var(--accent-danger)] text-[var(--accent-danger)]";
                   } else {
                     optionStyles = "opacity-50 bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-muted)]";
                   }
@@ -1439,7 +1439,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     type="button"
                     disabled={answered}
                     onClick={() => handleSelectOption(key)}
-                    className={`w-full p-3 rounded-xl border text-left transition-all flex items-start gap-2.5 ${optionStyles}`}
+                    className={`w-full p-3 rounded-xl border text-left transition-all flex items-start gap-2.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${optionStyles}`}
                   >
                     <span className="w-5 h-5 rounded-md font-mono font-bold text-xs flex items-center justify-center shrink-0 bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
                       {key}
@@ -1453,14 +1453,14 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             {/* Explanation / Justification */}
             {answered && (
               <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs font-sans">
-                <div className="flex items-center gap-1.5 font-bold font-mono text-[11px] text-[var(--accent-primary)]">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-400" />
+                <div className="flex items-center gap-1.5 font-bold font-sans text-xs text-[var(--accent-primary)]">
+                  <CheckCircle2 className="w-4 h-4 text-[var(--accent-success)]" />
                   <span>GABARITO COMENTADO: LETRA {activeQuestion.answer}</span>
                 </div>
                 <p className="text-[var(--text-secondary)] leading-relaxed">
                   {activeQuestion.explanation}
                 </p>
-                <div className="pt-2 text-[10px] font-mono text-[var(--text-muted)]">
+                <div className="pt-2 text-xs font-sans text-[var(--text-muted)]">
                   💡 Este conceito foi abordado diretamente na doutrina desta lição.
                 </div>
               </div>
@@ -1486,21 +1486,21 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
                   Configurar Cadência de Estudo
                 </h3>
-                <p className="text-xs text-[var(--text-muted)] font-mono">
+                <p className="text-xs text-[var(--text-muted)] font-sans">
                   Defina a proporção ideal para o seu perfil
                 </p>
               </div>
               <button
                 type="button"
                 onClick={() => setIsCadenceModalOpen(false)}
-                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors"
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <X className="w-5 h-5" />
               </button>
             </div>
 
-            <div className="space-y-3 font-mono text-xs">
-              <label className="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+            <div className="space-y-3 font-sans text-xs">
+              <label className="text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider block font-sans">
                 Selecione o Modelo de Sessão:
               </label>
               
@@ -1508,15 +1508,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <button
                   type="button"
                   onClick={() => applyCadencePreset('60_30')}
-                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                     cadencePreset === '60_30'
-                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
                       : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
                   }`}
                 >
                   <div>
-                    <div className="text-xs">⚡ Foco Profundo (Recomendado)</div>
-                    <div className="text-[11px] text-[var(--text-muted)] font-sans">60 min Teoria + 30 min Questões FGV</div>
+                    <div className="text-xs font-sans">⚡ Foco Profundo (Recomendado)</div>
+                    <div className="text-xs text-[var(--text-muted)] font-sans">60 min Teoria + 30 min Questões FGV</div>
                   </div>
                   {cadencePreset === '60_30' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
                 </button>
@@ -1524,15 +1524,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <button
                   type="button"
                   onClick={() => applyCadencePreset('45_15')}
-                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                     cadencePreset === '45_15'
-                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
                       : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
                   }`}
                 >
                   <div>
-                    <div className="text-xs">🚀 Sprint Ágil</div>
-                    <div className="text-[11px] text-[var(--text-muted)] font-sans">45 min Teoria + 15 min Questões</div>
+                    <div className="text-xs font-sans">🚀 Sprint Ágil</div>
+                    <div className="text-xs text-[var(--text-muted)] font-sans">45 min Teoria + 15 min Questões</div>
                   </div>
                   {cadencePreset === '45_15' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
                 </button>
@@ -1540,15 +1540,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <button
                   type="button"
                   onClick={() => applyCadencePreset('50_10')}
-                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                     cadencePreset === '50_10'
-                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
                       : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
                   }`}
                 >
                   <div>
-                    <div className="text-xs">🍅 Pomodoro Concurseiro</div>
-                    <div className="text-[11px] text-[var(--text-muted)] font-sans">50 min Teoria + 10 min Questões</div>
+                    <div className="text-xs font-sans">🍅 Pomodoro Concurseiro</div>
+                    <div className="text-xs text-[var(--text-muted)] font-sans">50 min Teoria + 10 min Questões</div>
                   </div>
                   {cadencePreset === '50_10' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
                 </button>
@@ -1556,15 +1556,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <button
                   type="button"
                   onClick={() => applyCadencePreset('90_30')}
-                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                     cadencePreset === '90_30'
-                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
                       : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
                   }`}
                 >
                   <div>
-                    <div className="text-xs">🏛️ Ciclo Imersivo (2 Horas)</div>
-                    <div className="text-[11px] text-[var(--text-muted)] font-sans">90 min Teoria + 30 min Questões</div>
+                    <div className="text-xs font-sans">🏛️ Ciclo Imersivo (2 Horas)</div>
+                    <div className="text-xs text-[var(--text-muted)] font-sans">90 min Teoria + 30 min Questões</div>
                   </div>
                   {cadencePreset === '90_30' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
                 </button>
@@ -1572,30 +1572,30 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
               {/* Custom Values */}
               <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3 pt-3">
-                <span className="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                <span className="text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider block font-sans">
                   Ou digite minutos personalizados:
                 </span>
                 <div className="grid grid-cols-2 gap-3">
                   <div>
-                    <label className="text-[10px] text-[var(--text-muted)] block mb-1">Leitura (min):</label>
+                    <label className="text-xs text-[var(--text-muted)] block mb-1 font-sans">Leitura (min):</label>
                     <input
                       type="number"
                       min="10"
                       max="180"
                       value={customReadingMin}
                       onChange={(e) => setCustomReadingMin(Math.max(5, parseInt(e.target.value, 10) || 60))}
-                      className="w-full h-9 px-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none"
+                      className="w-full h-9 px-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                   </div>
                   <div>
-                    <label className="text-[10px] text-[var(--text-muted)] block mb-1">Questões (min):</label>
+                    <label className="text-xs text-[var(--text-muted)] block mb-1 font-sans">Questões (min):</label>
                     <input
                       type="number"
                       min="5"
                       max="120"
                       value={customQuestionsMin}
                       onChange={(e) => setCustomQuestionsMin(Math.max(5, parseInt(e.target.value, 10) || 30))}
-                      className="w-full h-9 px-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none"
+                      className="w-full h-9 px-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                   </div>
                 </div>
@@ -1604,7 +1604,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   size="sm"
                   fullWidth={true}
                   onClick={() => applyCadencePreset('custom')}
-                  className="font-mono text-xs font-bold"
+                  className="font-sans text-xs font-bold focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   Salvar Cadência Personalizada
                 </Button>
@@ -1631,14 +1631,14 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
                   Subir PDF de Aula (Qualquer Formato)
                 </h3>
-                <p className="text-xs text-[var(--text-muted)] font-mono">
+                <p className="text-xs text-[var(--text-muted)] font-sans">
                   Compatível com Estratégia, Gran Cursos, Direção, Doutrina e Resumos
                 </p>
               </div>
               <button
                 type="button"
                 onClick={() => setIsUploadModalOpen(false)}
-                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors"
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <X className="w-5 h-5" />
               </button>
@@ -1647,13 +1647,13 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             <form onSubmit={handleUploadSubmit} className="space-y-4 text-xs sm:text-sm">
               
               <div className="space-y-1.5">
-                <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
                   Disciplina da Aula:
                 </label>
                 <select
                   value={uploadSubject}
                   onChange={(e) => setUploadSubject(e.target.value)}
-                  className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none cursor-pointer font-sans"
+                  className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none cursor-pointer font-sans"
                 >
                   {careerSubjects.map((s) => (
                     <option key={s.name} value={s.name}>
@@ -1664,7 +1664,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               </div>
 
               <div className="space-y-1.5">
-                <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
                   Arquivo PDF:
                 </label>
                 <div
@@ -1675,7 +1675,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   <div className="text-xs font-bold text-[var(--text-primary)]">
                     {selectedFile ? selectedFile.name : "Clique para selecionar o PDF"}
                   </div>
-                  <p className="text-[10px] text-[var(--text-muted)] font-mono">
+                  <p className="text-xs text-[var(--text-muted)] font-sans">
                     Detecta automaticamente teoria vs questões comentadas, sumário e banca
                   </p>
                   <input
@@ -1701,7 +1701,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   size="md"
                   fullWidth={true}
                   onClick={() => setIsUploadModalOpen(false)}
-                  className="font-mono text-xs"
+                  className="font-sans text-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   Cancelar
                 </Button>
@@ -1711,7 +1711,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   size="md"
                   fullWidth={true}
                   disabled={isUploading || !selectedFile}
-                  className="font-bold font-mono text-xs shadow-md"
+                  className="font-bold font-sans text-xs shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   {isUploading ? "Processando..." : "Subir e Indexar PDF"}
                 </Button>

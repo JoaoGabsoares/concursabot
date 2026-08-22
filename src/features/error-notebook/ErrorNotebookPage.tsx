@@ -196,9 +196,9 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
             variant="outline"
             size="sm"
             onClick={handleExportAnki}
-            className="font-mono text-xs flex items-center gap-1.5"
+            className="font-sans text-xs flex items-center gap-1.5 min-h-[44px]"
           >
-            <Download className="w-3.5 h-3.5 text-blue-400" />
+            <Download className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
             Exportar Anki (.CSV)
           </Button>
 
@@ -206,9 +206,9 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
             variant="outline"
             size="sm"
             onClick={() => setShowPrintModal(true)}
-            className="font-mono text-xs flex items-center gap-1.5"
+            className="font-sans text-xs flex items-center gap-1.5 min-h-[44px]"
           >
-            <Printer className="w-3.5 h-3.5 text-emerald-400" />
+            <Printer className="w-3.5 h-3.5 text-[var(--accent-success)]" />
             Folha de Revisão
           </Button>
         </div>
@@ -223,18 +223,18 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </div>
           <div>
             <span className="text-[var(--text-muted)]">Pendentes: </span>
-            <strong className="text-amber-400">{errorsList.filter(e => e.status === 'pending').length}</strong>
+            <strong className="text-[var(--accent-warning)]">{errorsList.filter(e => e.status === 'pending').length}</strong>
           </div>
           <div>
             <span className="text-[var(--text-muted)]">Superados: </span>
-            <strong className="text-emerald-400">{errorsList.filter(e => e.status === 'mastered').length}</strong>
+            <strong className="text-[var(--accent-success)]">{errorsList.filter(e => e.status === 'mastered').length}</strong>
           </div>
         </div>
 
-        <div className="flex items-center gap-1.5 font-mono text-xs">
+        <div className="flex items-center gap-2 font-mono text-xs overflow-x-auto custom-scrollbar-horizontal pb-1">
           <button
             onClick={() => setFilterStatus('pending')}
-            className={`px-3.5 py-1.5 rounded-lg transition-all ${
+            className={`px-3.5 py-1.5 rounded-lg transition-all min-h-[36px] whitespace-nowrap ${
               filterStatus === 'pending'
                 ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -244,7 +244,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </button>
           <button
             onClick={() => setFilterStatus('mastered')}
-            className={`px-3.5 py-1.5 rounded-lg transition-all ${
+            className={`px-3.5 py-1.5 rounded-lg transition-all min-h-[36px] whitespace-nowrap ${
               filterStatus === 'mastered'
                 ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -254,7 +254,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </button>
           <button
             onClick={() => setFilterStatus('all')}
-            className={`px-3.5 py-1.5 rounded-lg transition-all ${
+            className={`px-3.5 py-1.5 rounded-lg transition-all min-h-[36px] whitespace-nowrap ${
               filterStatus === 'all'
                 ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] font-bold shadow-sm'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -304,7 +304,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                       </>
                     )}
                     {item.banca && (
-                      <span className="font-mono text-[10px] text-[var(--text-muted)] px-1.5 py-0.5 rounded bg-[var(--bg-elevated)]">
+                      <span className="font-mono text-xs text-[var(--text-muted)] px-1.5 py-0.5 rounded bg-[var(--bg-elevated)]">
                         {item.banca}
                       </span>
                     )}
@@ -325,7 +325,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                   <Button
                     variant={isMastered ? "outline" : "brand"}
                     size="sm"
-                    className="font-mono text-xs shrink-0 font-bold"
+                    className="font-sans text-xs shrink-0 font-bold min-h-[44px]"
                   >
                     {isMastered ? 'Revisar' : 'Retreinar Item'}
                   </Button>
@@ -333,7 +333,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                   <button
                     onClick={(e) => handleDeleteItem(e, item.id)}
                     title="Remover do Caderno"
-                    className="p-2 rounded-lg text-[var(--text-muted)] hover:text-red-400 hover:bg-red-500/10 transition-all"
+                    className="p-2 rounded-lg text-[var(--text-muted)] hover:text-[var(--accent-danger)] hover:bg-[var(--color-status-danger-bg)] transition-all min-h-[44px] min-w-[44px] flex items-center justify-center"
                   >
                     <Trash2 className="w-4 h-4" />
                   </button>
@@ -366,7 +366,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                     <button
                       key={idx}
                       onClick={() => setRetryOption(idx)}
-                      className={`w-full text-left p-3 rounded-lg font-sans text-xs sm:text-sm transition-all border flex items-start gap-2.5 ${
+                      className={`w-full text-left p-3 rounded-lg font-sans text-xs sm:text-sm transition-all border flex items-start gap-2.5 min-h-[44px] ${
                         isSelected
                           ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-md font-semibold'
                           : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-primary)] hover:border-[var(--border-focus)]'
@@ -384,7 +384,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                   <button
                     key={opt}
                     onClick={() => setRetryOption(idx)}
-                    className={`h-12 rounded-lg font-mono font-bold text-sm sm:text-base transition-all border ${
+                    className={`h-12 rounded-lg font-mono font-bold text-sm sm:text-base transition-all border min-h-[44px] ${
                       retryOption === idx
                         ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-md'
                         : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-primary)] hover:border-[var(--border-focus)]'
@@ -401,7 +401,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
               fullWidth={true}
               onClick={handleExecuteRetry}
               disabled={retryOption === null}
-              className="font-bold text-sm mt-2 shadow-md"
+              className="font-bold text-sm mt-2 shadow-md min-h-[44px]"
             >
               Confirmar Resposta de Retreino
             </Button>
@@ -428,14 +428,14 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                 onChange={(e) => setNotes(e.target.value)}
                 placeholder="Ex: Artigo de lei ou mnemônico chave para não errar..."
                 rows={2}
-                className="w-full p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                className="w-full p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none font-sans"
               />
               <Button
                 variant="outline"
                 size="sm"
                 fullWidth={true}
                 onClick={handleSaveNotes}
-                className="font-mono text-xs font-semibold"
+                className="font-sans text-xs font-semibold min-h-[44px]"
               >
                 Salvar Nota Técnica
               </Button>
@@ -460,13 +460,13 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                   variant="brand"
                   size="sm"
                   onClick={handlePrintReviewSheet}
-                  className="font-mono text-xs"
+                  className="font-sans text-xs min-h-[40px]"
                 >
                   Imprimir / Salvar PDF
                 </Button>
                 <button
                   onClick={() => setShowPrintModal(false)}
-                  className="p-1.5 text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm font-mono"
+                  className="p-1.5 text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm font-sans"
                 >
                   ✕
                 </button>
@@ -490,7 +490,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                 <div key={item.id} className="border border-[var(--border-subtle)] rounded-lg p-4 space-y-2.5 bg-[var(--bg-elevated)]/20 break-inside-avoid">
                   <div className="flex items-center justify-between text-xs font-mono font-bold border-b border-[var(--border-subtle)] pb-1.5">
                     <span className="text-[var(--accent-primary)]">ITEM #{idx + 1} • {item.subject} {item.topic ? `(${item.topic})` : ''}</span>
-                    <div className="flex items-center gap-3 text-[10px] text-[var(--text-muted)]">
+                    <div className="flex items-center gap-3 text-xs text-[var(--text-muted)]">
                       <span>[ ] D+1</span>
                       <span>[ ] D+7</span>
                       <span>[ ] D+30</span>
@@ -502,7 +502,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                   </p>
 
                   <div className="bg-[var(--bg-surface)] p-3 rounded border border-[var(--border-subtle)] text-xs space-y-1">
-                    <div className="font-mono font-bold text-emerald-400">
+                    <div className="font-mono font-bold text-[var(--accent-success)]">
                       Gabarito Oficial: {String.fromCharCode(65 + (item.correct_index ?? 0))}
                     </div>
                     <p className="text-[var(--text-muted)] leading-relaxed">{item.explanation}</p>

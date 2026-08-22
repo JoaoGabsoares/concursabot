@@ -272,6 +272,9 @@ router.get('/google/dev-screen', (req, res) => {
 
 // POST /api/auth/google/dev-callback - Processa o formulário de desenvolvimento em tela cheia
 router.post('/google/dev-callback', async (req, res) => {
+  if (process.env.NODE_ENV === 'production') {
+    return res.status(403).send('Endpoint desativado em ambiente de produção.');
+  }
   try {
     const { email, name } = req.body;
     if (!email || !email.includes('@')) {

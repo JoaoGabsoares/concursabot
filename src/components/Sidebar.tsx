@@ -89,20 +89,20 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <button
             onClick={onToggleTheme}
             aria-label="Alternar tema"
-            className="w-9 h-9 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--border-focus)] transition-all shadow-sm"
+            className="w-9 h-9 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--border-focus)] transition-all shadow-sm focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
           >
-            {isDark ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
+            {isDark ? <Sun className="w-4 h-4 text-[var(--accent-warning)]" /> : <Moon className="w-4 h-4 text-[var(--accent-primary)]" />}
           </button>
         </div>
 
         {/* 2. Edital Selector (Official Process Style) */}
         <div className="p-4 border-b border-[var(--border-subtle)] relative bg-[var(--bg-elevated)]/30">
-          <div className="text-xs font-mono font-bold text-[var(--text-secondary)] uppercase tracking-wider mb-1.5 px-1">
+          <div className="text-xs font-sans font-bold text-[var(--text-secondary)] uppercase tracking-wider mb-1.5 px-1">
             Edital em Foco
           </div>
           <button
             onClick={() => setDropdownOpen(!dropdownOpen)}
-            className="w-full flex items-center justify-between p-3 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] transition-all text-left shadow-sm group"
+            className="w-full flex items-center justify-between p-3 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] transition-all text-left shadow-sm group focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
           >
             <div className="truncate pr-2 space-y-0.5">
               <div className="text-sm font-bold text-[var(--text-primary)] truncate">
@@ -131,12 +131,12 @@ export const Sidebar: React.FC<SidebarProps> = ({
                       className={`w-full text-left p-2.5 rounded-lg text-xs transition-colors flex items-center justify-between ${
                         isSelected
                           ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border-l-2 border-[var(--accent-primary)]'
-                          : 'hover:bg-[var(--bg-elevated)] text-[var(--text-primary)]'
+                          : 'hover:bg-[var(--bg-elevated)] hover:text-[var(--text-primary)] text-[var(--text-secondary)]'
                       }`}
                     >
                       <div className="truncate pr-2">
                         <div className="truncate font-semibold">{c.name}</div>
-                        <div className="text-[10px] text-[var(--text-muted)] font-mono">{c.banca}</div>
+                        <div className="text-xs text-[var(--text-muted)] font-mono">{c.banca}</div>
                       </div>
                       {isSelected && <Check className="w-3.5 h-3.5 shrink-0 text-[var(--accent-primary)]" />}
                     </button>
@@ -151,7 +151,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
         <div className="p-4 space-y-6">
           {navGroups.map((group) => (
             <div key={group.title} className="space-y-1.5">
-              <div className="text-xs font-mono font-bold text-[var(--text-secondary)] uppercase tracking-wider px-3 mb-2 flex items-center gap-1.5">
+              <div className="text-xs font-sans font-bold text-[var(--text-secondary)] uppercase tracking-wider px-3 mb-2 flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent-primary)]"></span>
                 <span>{group.title}</span>
               </div>
@@ -165,7 +165,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     className={`w-full flex items-center justify-between px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all ${
                       isActive
                         ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] border-l-4 border-[var(--accent-primary)] shadow-sm font-bold'
-                        : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]/60'
+                        : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]'
                     }`}
                   >
                     <span className="truncate">{item.label}</span>
@@ -203,7 +203,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
 
         <button
           onClick={onSwitchUser}
-          className="w-full flex items-center justify-center gap-2 py-2.5 rounded-xl text-xs font-mono font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] transition-all border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm"
+          className="w-full flex items-center justify-center gap-2 py-2.5 rounded-xl text-xs font-sans font-semibold text-[var(--text-secondary)] hover:text-[var(--text-primary)] bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] transition-all border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
         >
           <LogOut className="w-3.5 h-3.5" />
           <span>Trocar Perfil</span>

@@ -66,17 +66,22 @@ function getDashboardData(req, res) {
                 ORDER BY correct_pct ASC
             `).all(userId, careerId, ...subjects);
 
-            // Per-subject breakdown for the career edital radar
-            const subjectBreakdown = subjects.map(subj => {
-                const row = db.prepare(`
-                    SELECT 
-                        COUNT(qa.id) as total,
-                        SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
-                    FROM question_answers qa
-                    JOIN questions q ON qa.question_id = q.id
-                    WHERE qa.user_id = ? AND (qa.career_id = ? OR qa.career_id IS NULL) AND q.subject = ?
-                `).get(userId, careerId, subj);
+            // Per-subject breakdown for the career edital radar (O(1) in-memory lookup from single aggregated query)
+            const breakdownRows = db.prepare(`
+                SELECT 
+                    q.subject as name,
+                    COUNT(qa.id) as total,
+                    SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
+                FROM question_answers qa
+                JOIN questions q ON qa.question_id = q.id
+                WHERE qa.user_id = ? AND (qa.career_id = ? OR qa.career_id IS NULL)
+                GROUP BY q.subject
+            `).all(userId, careerId);
 
+            const statsBySubject = new Map(breakdownRows.map(r => [r.name, r]));
+
+            const subjectBreakdown = subjects.map(subj => {
+                const row = statsBySubject.get(subj);
                 const total = row?.total || 0;
                 const correct = row?.correct || 0;
                 const pct = total > 0 ? Math.round((correct / total) * 100) : 0;

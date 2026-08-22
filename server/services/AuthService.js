@@ -276,8 +276,11 @@ export class AuthService {
       throw new Error('Código de autorização do Google não informado.');
     }
 
-    // Suporte a mock em testes ou dev screen
+    // Suporte a mock em testes ou dev screen (estritamente bloqueado em produção)
     if (code.startsWith('mock_code_')) {
+      if (process.env.NODE_ENV === 'production') {
+        throw new Error('Autenticação simulada desativada em ambiente de produção.');
+      }
       const parts = code.split(':');
       const email = (parts[1] || 'aluno.concurso@gmail.com').toLowerCase();
       const name = parts[2] || email.split('@')[0];
@@ -352,8 +355,11 @@ export class AuthService {
       throw new Error('Token de autenticação do Google não fornecido ou em formato inválido.');
     }
 
-    // Ambiente de testes automatizados ou token mock
+    // Ambiente de testes automatizados ou token mock (estritamente bloqueado em produção)
     if (credential.startsWith('mock_google_')) {
+      if (process.env.NODE_ENV === 'production') {
+        throw new Error('Autenticação simulada desativada em ambiente de produção.');
+      }
       const parts = credential.split(':');
       return {
         email: (parts[1] || 'google_tester@gmail.com').toLowerCase(),
@@ -375,6 +381,10 @@ export class AuthService {
       if (res.ok) {
         const payload = await res.json();
         if (payload.email) {
+          const expectedClientId = process.env.GOOGLE_CLIENT_ID;
+          if (expectedClientId && payload.aud && payload.aud !== expectedClientId) {
+            throw new Error('Token Google emitido para aplicação não autorizada.');
+          }
           return {
             email: payload.email.toLowerCase(),
             name: payload.name || payload.given_name || payload.email.split('@')[0],

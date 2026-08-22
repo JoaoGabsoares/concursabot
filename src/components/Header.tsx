@@ -110,7 +110,7 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="flex items-center gap-2.5 sm:gap-4 min-w-0">
           <button
             onClick={() => setMobileDrawerOpen(true)}
-            className="lg:hidden w-9 h-9 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors shrink-0"
+            className="lg:hidden min-w-[44px] min-h-[44px] rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors shrink-0 focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             aria-label="Abrir Menu Lateral"
           >
             <Menu className="w-4 h-4" />
@@ -124,14 +124,14 @@ export const Header: React.FC<HeaderProps> = ({
             <span className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)] tracking-tight">
               Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
             </span>
-            <span className="hidden xs:inline-block px-1.5 py-0.5 rounded text-[10px] font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30 truncate max-w-[110px]">
+            <span className="hidden xs:inline-block px-1.5 py-0.5 rounded text-xs font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30 truncate max-w-[110px]">
               {currentCareer.banca}
             </span>
           </div>
 
           {/* Desktop Institutional Breadcrumbs */}
           <div className="hidden lg:flex items-center gap-2 text-xs">
-            <span className="font-mono text-[var(--text-muted)] uppercase tracking-wider text-[10px] font-bold">
+            <span className="font-mono text-[var(--text-muted)] uppercase tracking-wider text-xs font-bold">
               {currentTabInfo.category}
             </span>
             <ChevronRight className="w-3.5 h-3.5 text-[var(--border-focus)]" />
@@ -152,8 +152,8 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           {/* Streak Metric (Compact on mobile) */}
-          <div className="flex items-center gap-1 sm:gap-1.5 px-2 sm:px-3 py-1 rounded-lg bg-amber-500/10 border border-amber-500/30 text-xs font-mono text-amber-500 font-bold">
-            <Flame className="w-3.5 h-3.5 fill-amber-500 text-amber-500" />
+          <div className="flex items-center gap-1 sm:gap-1.5 px-2 sm:px-3 py-1 rounded-lg bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 text-xs font-mono text-[var(--accent-warning)] font-bold">
+            <Flame className="w-3.5 h-3.5 fill-[var(--accent-warning)] text-[var(--accent-warning)]" />
             <span className="hidden sm:inline">{user?.streakDays || 0} DIAS</span>
             <span className="sm:hidden">{user?.streakDays || 0}d</span>
           </div>
@@ -167,17 +167,17 @@ export const Header: React.FC<HeaderProps> = ({
           <button
             onClick={onToggleTheme}
             aria-label="Alternar tema"
-            className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+            className="min-w-[44px] min-h-[44px] rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             title={isDark ? "Mudar para Modo Claro" : "Mudar para Modo Escuro"}
           >
-            {isDark ? <Sun className="w-4 h-4 text-amber-400" /> : <Moon className="w-4 h-4 text-blue-500" />}
+            {isDark ? <Sun className="w-4 h-4 text-[var(--accent-warning)]" /> : <Moon className="w-4 h-4 text-[var(--accent-primary)]" />}
           </button>
 
           {/* Mobile Quick Settings Button */}
           <button
             onClick={() => onNavigate('settings')}
             aria-label="Configurações"
-            className="lg:hidden w-8 h-8 sm:w-9 sm:h-9 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+            className="lg:hidden min-w-[44px] min-h-[44px] rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             title="Configurações da Plataforma"
           >
             <Settings className="w-4 h-4" />
@@ -207,7 +207,7 @@ export const Header: React.FC<HeaderProps> = ({
                   <div className="text-xs font-mono font-bold text-[var(--text-primary)] truncate">
                     {user?.name || 'Concurseiro'}
                   </div>
-                  <div className="text-[11px] font-mono text-[var(--accent-primary)] font-semibold flex items-center gap-1">
+                  <div className="text-xs font-mono text-[var(--accent-primary)] font-semibold flex items-center gap-1">
                     <span>{user?.xp || 0} XP</span>
                     <span>•</span>
                     <span>Nível {user?.level || 1}</span>
@@ -217,7 +217,7 @@ export const Header: React.FC<HeaderProps> = ({
 
               <button
                 onClick={() => setMobileDrawerOpen(false)}
-                className="w-8 h-8 rounded-lg flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors"
+                className="min-w-[44px] min-h-[44px] rounded-lg flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 aria-label="Fechar menu"
               >
                 <X className="w-4 h-4" />
@@ -226,7 +226,7 @@ export const Header: React.FC<HeaderProps> = ({
 
             {/* Seletor de Carreira no Drawer */}
             <div className="p-3 border-b border-[var(--border-subtle)] bg-[var(--bg-surface)]">
-              <label className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block mb-1.5 px-1">
+              <label className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block mb-1.5 px-1">
                 Edital em Foco:
               </label>
               
@@ -234,11 +234,11 @@ export const Header: React.FC<HeaderProps> = ({
                 <button
                   type="button"
                   onClick={() => setCareerDrawerDropdownOpen(!careerDrawerDropdownOpen)}
-                  className="w-full flex items-center justify-between p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] font-mono hover:border-[var(--accent-primary)] transition-colors"
+                  className="w-full flex items-center justify-between p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-colors"
                 >
                   <div className="truncate text-left">
-                    <div className="font-bold truncate text-[11px]">{currentCareer.name}</div>
-                    <div className="text-[10px] text-[var(--text-muted)]">{currentCareer.banca}</div>
+                    <div className="font-bold truncate text-xs">{currentCareer.name}</div>
+                    <div className="text-xs text-[var(--text-muted)]">{currentCareer.banca}</div>
                   </div>
                   <ChevronDown className={`w-4 h-4 text-[var(--text-muted)] shrink-0 transition-transform ${careerDrawerDropdownOpen ? 'rotate-180' : ''}`} />
                 </button>
@@ -259,8 +259,8 @@ export const Header: React.FC<HeaderProps> = ({
                         }`}
                       >
                         <div className="truncate pr-2">
-                          <div className="font-semibold truncate text-[11px]">{c.name}</div>
-                          <div className="text-[9px] text-[var(--text-muted)] font-mono">{c.banca}</div>
+                          <div className="font-semibold truncate text-xs">{c.name}</div>
+                          <div className="text-xs text-[var(--text-muted)] font-mono">{c.banca}</div>
                         </div>
                         {c.id === currentCareerId && <Check className="w-3.5 h-3.5 text-[var(--accent-primary)] shrink-0" />}
                       </button>
@@ -272,7 +272,7 @@ export const Header: React.FC<HeaderProps> = ({
 
             {/* Lista de Navegação Principal */}
             <div className="flex-1 overflow-y-auto p-3 space-y-1">
-              <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block mb-1 px-2">
+              <span className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider block mb-1 px-2">
                 Navegação da Plataforma
               </span>
 
@@ -285,7 +285,7 @@ export const Header: React.FC<HeaderProps> = ({
                       onNavigate(item.id);
                       setMobileDrawerOpen(false);
                     }}
-                    className={`w-full flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold transition-all ${
+                    className={`w-full min-h-[44px] flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold transition-all ${
                       isActive
                         ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border-l-4 border-[var(--accent-primary)] shadow-sm'
                         : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]'
@@ -299,7 +299,7 @@ export const Header: React.FC<HeaderProps> = ({
                     </div>
 
                     {item.badge && item.badge > 0 ? (
-                      <span className="px-2 py-0.5 font-mono text-[10px] font-bold rounded bg-red-500/10 text-red-400 border border-red-500/30">
+                      <span className="px-2 py-0.5 font-mono text-xs font-bold rounded bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] border border-[var(--accent-danger)]/30">
                         {item.badge}
                       </span>
                     ) : null}
@@ -316,7 +316,7 @@ export const Header: React.FC<HeaderProps> = ({
                     setMobileDrawerOpen(false);
                     onSwitchUser();
                   }}
-                  className="w-full flex items-center justify-center gap-2 p-2 rounded-lg text-xs font-mono text-[var(--text-muted)] hover:text-[var(--accent-danger)] hover:bg-red-500/10 transition-colors"
+                  className="w-full min-h-[44px] flex items-center justify-center gap-2 p-2 rounded-lg text-xs font-sans text-[var(--text-muted)] hover:text-[var(--accent-danger)] hover:bg-[var(--color-status-danger-bg)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   <LogOut className="w-3.5 h-3.5" />
                   <span>Trocar Perfil / Sair</span>

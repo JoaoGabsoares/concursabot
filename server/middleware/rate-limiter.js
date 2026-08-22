@@ -25,7 +25,7 @@ export class RateLimiter {
 
   middleware() {
     return (req, res, next) => {
-      if (process.env.NODE_ENV === 'test' || req.headers['x-test-suite'] === 'true') {
+      if (process.env.NODE_ENV === 'test') {
         return next();
       }
 

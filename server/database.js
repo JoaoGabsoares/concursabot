@@ -443,6 +443,11 @@ function initDB() {
         CREATE INDEX IF NOT EXISTS idx_activity_log_user_created ON activity_log(user_id, created_at DESC);
         CREATE INDEX IF NOT EXISTS idx_missed_sessions_pending ON missed_sessions(status, created_at DESC);
         CREATE INDEX IF NOT EXISTS idx_study_materials_filepath ON study_materials(filepath);
+        CREATE INDEX IF NOT EXISTS idx_qa_user_correct ON question_answers(user_id, is_correct);
+        CREATE INDEX IF NOT EXISTS idx_simulados_user_career_status ON simulados(user_id, career_id, status);
+        CREATE INDEX IF NOT EXISTS idx_materials_user_career ON study_materials(user_id, career_id);
+        CREATE INDEX IF NOT EXISTS idx_reviews_user_status_date ON study_reviews(user_id, status, scheduled_date);
+        CREATE INDEX IF NOT EXISTS idx_caderno_user_question ON caderno_erros(user_id, question_id);
     `);
 
     // Safe migration for existing databases

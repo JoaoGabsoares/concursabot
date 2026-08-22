@@ -166,27 +166,27 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
     switch (group) {
       case 'exatas_dados':
         return {
-          bg: 'bg-sky-500/10',
-          text: 'text-sky-500 dark:text-sky-400',
-          border: 'border-sky-500/30',
-          dot: 'bg-sky-500',
+          bg: 'bg-[var(--accent-primary-glow)]',
+          text: 'text-[var(--accent-primary)]',
+          border: 'border-[var(--accent-primary)]/30',
+          dot: 'bg-[var(--accent-primary)]',
           label: 'Exatas & Dados'
         };
       case 'juridico':
         return {
-          bg: 'bg-purple-500/10',
-          text: 'text-purple-500 dark:text-purple-400',
-          border: 'border-purple-500/30',
-          dot: 'bg-purple-500',
+          bg: 'bg-[var(--accent-purple-bg)]',
+          text: 'text-[var(--accent-purple)]',
+          border: 'border-[var(--accent-purple)]/30',
+          dot: 'bg-[var(--accent-purple)]',
           label: 'Direito & Leis'
         };
       case 'humanas_linguagens':
       default:
         return {
-          bg: 'bg-emerald-500/10',
-          text: 'text-emerald-500 dark:text-emerald-400',
-          border: 'border-emerald-500/30',
-          dot: 'bg-emerald-500',
+          bg: 'bg-[var(--accent-emerald-bg)]',
+          text: 'text-[var(--accent-success)]',
+          border: 'border-[var(--accent-success)]/30',
+          dot: 'bg-[var(--accent-success)]',
           label: 'Humanas & Linguagens'
         };
     }
@@ -194,11 +194,11 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
   const getDifficultyLabel = (level: number = 2) => {
     switch (level) {
-      case 1: return { text: 'Fácil', color: 'text-emerald-500' };
-      case 2: return { text: 'Médio', color: 'text-sky-500' };
-      case 3: return { text: 'Difícil', color: 'text-amber-500' };
-      case 4: return { text: 'Crítico', color: 'text-rose-500' };
-      default: return { text: 'Médio', color: 'text-sky-500' };
+      case 1: return { text: 'Fácil', color: 'text-[var(--accent-success)]' };
+      case 2: return { text: 'Médio', color: 'text-[var(--accent-primary)]' };
+      case 3: return { text: 'Difícil', color: 'text-[var(--accent-warning)]' };
+      case 4: return { text: 'Crítico', color: 'text-[var(--accent-danger)]' };
+      default: return { text: 'Médio', color: 'text-[var(--accent-primary)]' };
     }
   };
 
@@ -218,7 +218,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
           <div className="space-y-2 max-w-2xl">
             <div className="flex items-center gap-2 flex-wrap">
               <CarimboStatus status="homologado" label="MÉTODO CIENTÍFICO" />
-              <span className="px-2.5 py-0.5 rounded-full text-xs font-mono font-bold bg-sky-500/10 text-sky-500 border border-sky-500/20">
+              <span className="px-2.5 py-0.5 rounded-full text-xs font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20">
                 Interleaving Anti-Fadiga
               </span>
               <span className="text-xs font-mono text-[var(--text-muted)]">
@@ -239,7 +239,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
           <div className="flex flex-wrap items-center gap-3">
             <button
               onClick={() => { setShowWizard(true); setWizardStep(1); }}
-              className="px-4 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white font-mono text-xs font-bold flex items-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer"
+              className="px-4 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white font-sans text-xs font-bold flex items-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             >
               <Sliders className="w-4 h-4" />
               <span>Configurar / Novo Ciclo</span>
@@ -248,7 +248,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
             <button
               onClick={loadCycleData}
               disabled={loading}
-              className="p-2.5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-all cursor-pointer"
+              className="p-2.5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               title="Recarregar dados"
             >
               <RefreshCw className={`w-4 h-4 ${loading ? 'animate-spin' : ''}`} />
@@ -260,28 +260,28 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
         {cycle && (
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-6 pt-6 border-t border-[var(--border-subtle)] text-xs">
             <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-              <div className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">Carga da Volta</div>
+              <div className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">Carga da Volta</div>
               <div className="font-display font-bold text-lg text-[var(--text-primary)] mt-0.5">
                 {(cycle.total_cycle_minutes / 60).toFixed(1)}h <span className="text-xs font-normal text-[var(--text-muted)]">líquidas</span>
               </div>
             </div>
 
             <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-              <div className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">Esteira de Blocos</div>
+              <div className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">Esteira de Blocos</div>
               <div className="font-display font-bold text-lg text-[var(--accent-primary)] mt-0.5">
                 {currentBlockIndex + 1} <span className="text-xs font-normal text-[var(--text-muted)]">de {totalBlocks} blocos</span>
               </div>
             </div>
 
             <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-              <div className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">Voltas Concluídas</div>
-              <div className="font-display font-bold text-lg text-emerald-500 mt-0.5">
+              <div className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">Voltas Concluídas</div>
+              <div className="font-display font-bold text-lg text-[var(--accent-success)] mt-0.5">
                 {cycle.completed_cycles_count} <span className="text-xs font-normal text-[var(--text-muted)]">voltas completas</span>
               </div>
             </div>
 
             <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-              <div className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">Modelo Ativo</div>
+              <div className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">Modelo Ativo</div>
               <div className="font-bold text-sm text-[var(--text-primary)] mt-1 truncate">
                 {cycle.model_type === 'adaptativo' ? '🎯 Adaptativo' : 
                  cycle.model_type === 'pareto_80_20' ? '⚡ Pareto 80/20' : 
@@ -295,7 +295,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
       {/* 2. Bloco da Vez (Card Destaque da Missão Imediata) */}
       {currentBlock ? (
-        <div className="rounded-2xl bg-gradient-to-br from-[var(--bg-surface)] to-[var(--bg-elevated)] border-2 border-[var(--accent-primary)]/40 p-6 sm:p-8 shadow-lg relative overflow-hidden">
+        <div className="rounded-2xl bg-[var(--bg-surface)] border-2 border-[var(--accent-primary)]/40 p-6 sm:p-8 shadow-lg relative overflow-hidden">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
             <div className="space-y-3">
               <div className="flex items-center gap-2 flex-wrap">
@@ -329,7 +329,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 shrink-0">
               <button
                 onClick={() => handleStartBlockStudy(currentBlock.subject)}
-                className="px-6 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-mono text-sm font-bold flex items-center justify-center gap-2.5 shadow-md hover:shadow-lg transition-all active:scale-98 cursor-pointer"
+                className="px-6 py-3.5 rounded-xl bg-[var(--accent-success)] hover:opacity-90 text-white font-sans text-sm font-bold flex items-center justify-center gap-2.5 shadow-md hover:shadow-lg transition-all active:scale-98 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <Play className="w-4 h-4 fill-white" />
                 <span>Iniciar na Sala de Estudos</span>
@@ -338,9 +338,9 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               <button
                 onClick={() => handleAdvanceBlock(currentBlock)}
                 disabled={actionLoading}
-                className="px-5 py-3.5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] text-[var(--text-primary)] font-mono text-xs font-bold flex items-center justify-center gap-2 transition-all hover:border-emerald-500/50 active:scale-98 cursor-pointer"
+                className="px-5 py-3.5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] text-[var(--text-primary)] font-sans text-xs font-bold flex items-center justify-center gap-2 transition-all hover:border-[var(--accent-success)]/50 active:scale-98 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
-                <CheckCircle2 className={`w-4 h-4 text-emerald-500 ${actionLoading ? 'animate-spin' : ''}`} />
+                <CheckCircle2 className={`w-4 h-4 text-[var(--accent-success)] ${actionLoading ? 'animate-spin' : ''}`} />
                 <span>Concluir Bloco (+20 XP)</span>
               </button>
             </div>
@@ -357,7 +357,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
           </p>
           <button
             onClick={() => { setShowWizard(true); setWizardStep(1); }}
-            className="px-5 py-2.5 rounded-xl bg-[var(--accent-primary)] text-white font-mono text-xs font-bold inline-flex items-center gap-2 cursor-pointer shadow-md"
+            className="px-5 py-2.5 rounded-xl bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white font-sans text-xs font-bold inline-flex items-center gap-2 cursor-pointer shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
           >
             <Zap className="w-4 h-4" />
             <span>Criar Meu Ciclo Agora</span>
@@ -380,15 +380,15 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
             <div className="flex items-center gap-4 text-xs font-mono">
               <div className="flex items-center gap-1.5">
-                <span className="w-2.5 h-2.5 rounded-full bg-sky-500 inline-block" />
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--accent-primary)] inline-block" />
                 <span className="text-[var(--text-muted)]">Exatas/Dados</span>
               </div>
               <div className="flex items-center gap-1.5">
-                <span className="w-2.5 h-2.5 rounded-full bg-purple-500 inline-block" />
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--accent-purple)] inline-block" />
                 <span className="text-[var(--text-muted)]">Jurídico</span>
               </div>
               <div className="flex items-center gap-1.5">
-                <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block" />
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--accent-success)] inline-block" />
                 <span className="text-[var(--text-muted)]">Humanas</span>
               </div>
             </div>
@@ -419,16 +419,16 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                     </span>
 
                     <div className="flex items-center gap-1.5">
-                      <span className={`px-2 py-0.5 rounded text-[10px] font-mono font-bold ${cog.bg} ${cog.text}`}>
+                      <span className={`px-2 py-0.5 rounded text-xs font-mono font-bold ${cog.bg} ${cog.text}`}>
                         {cog.label}
                       </span>
                       {isCurrent && (
-                        <span className="px-1.5 py-0.5 rounded text-[10px] font-mono font-bold bg-amber-500/20 text-amber-500 animate-pulse">
+                        <span className="px-1.5 py-0.5 rounded text-xs font-mono font-bold bg-[var(--accent-amber-bg)] text-[var(--accent-warning)]">
                           ATUAL
                         </span>
                       )}
                       {isPast && (
-                        <span className="text-emerald-500">
+                        <span className="text-[var(--accent-success)]">
                           <CheckCircle2 className="w-3.5 h-3.5" />
                         </span>
                       )}
@@ -454,7 +454,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                   <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs">
                     <button
                       onClick={() => handleStartBlockStudy(block.subject)}
-                      className="text-[var(--accent-primary)] hover:underline font-mono font-bold flex items-center gap-1 cursor-pointer"
+                      className="text-[var(--accent-primary)] hover:underline font-sans font-bold flex items-center gap-1 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] rounded"
                     >
                       <BookOpen className="w-3 h-3" />
                       <span>Estudar</span>
@@ -464,7 +464,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                       <button
                         onClick={() => handleAdvanceBlock(block)}
                         disabled={actionLoading}
-                        className="px-2 py-1 rounded bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-500 font-mono font-bold text-[10px] cursor-pointer"
+                        className="px-2 py-1 rounded bg-[var(--accent-emerald-bg)] hover:opacity-90 text-[var(--accent-success)] font-sans font-bold text-xs cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                       >
                         Concluir
                       </button>
@@ -493,7 +493,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               <div className="font-display font-bold text-xl text-[var(--text-primary)]">
                 {simulation.daysPerLap} dias
               </div>
-              <p className="text-[11px] text-[var(--text-secondary)]">
+              <p className="text-xs font-sans text-[var(--text-secondary)]">
                 Mantendo seu ritmo de <strong>{simulation.weeklyHours}h/semana</strong>, você roda todas as matérias do edital a cada {simulation.daysPerLap} dias.
               </p>
             </div>
@@ -502,10 +502,10 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               <>
                 <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
                   <div className="text-xs font-mono text-[var(--text-muted)]">Voltas até a Prova</div>
-                  <div className="font-display font-bold text-xl text-emerald-500">
+                  <div className="font-display font-bold text-xl text-[var(--accent-success)]">
                     {simulation.totalLapsUntilExam} voltas
                   </div>
-                  <p className="text-[11px] text-[var(--text-secondary)]">
+                  <p className="text-xs font-sans text-[var(--text-secondary)]">
                     Em <strong>{simulation.daysUntilExam} dias</strong> até o exame, você passará {simulation.totalLapsUntilExam} vezes por todo o conteúdo!
                   </p>
                 </div>
@@ -515,7 +515,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                   <div className="font-display font-bold text-xl text-[var(--accent-primary)]">
                     ~{simulation.projectedQuestions?.toLocaleString('pt-BR')} questões
                   </div>
-                  <p className="text-[11px] text-[var(--text-secondary)]">
+                  <p className="text-xs font-sans text-[var(--text-secondary)]">
                     Projeção de <strong>{simulation.projectedTotalStudyHours}h líquidas</strong> dedicadas na esteira.
                   </p>
                 </div>
@@ -530,7 +530,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                 </div>
                 <button
                   onClick={() => { setShowWizard(true); setWizardStep(2); }}
-                  className="px-3 py-1.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-xs font-mono font-bold text-[var(--text-primary)] hover:border-[var(--accent-primary)] cursor-pointer"
+                  className="px-3 py-1.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-xs font-sans font-bold text-[var(--text-primary)] hover:border-[var(--accent-primary)] cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   Definir Data
                 </button>
@@ -559,7 +559,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
               <button
                 onClick={() => setShowWizard(false)}
-                className="w-8 h-8 rounded-lg hover:bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] cursor-pointer"
+                className="w-8 h-8 rounded-lg hover:bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
                 <X className="w-4 h-4" />
               </button>
@@ -595,7 +595,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                         >
                           <div className="space-y-1.5">
                             <div className="flex items-center justify-between">
-                              <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)]">
+                              <span className="px-2 py-0.5 rounded text-xs font-sans font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)]">
                                 {m.tag}
                               </span>
                               {isSelected && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
@@ -608,7 +608,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                             </p>
                           </div>
 
-                          <div className="text-[10px] font-mono text-[var(--text-muted)] pt-2 border-t border-[var(--border-subtle)]">
+                          <div className="text-xs font-sans text-[var(--text-muted)] pt-2 border-t border-[var(--border-subtle)]">
                             Ideal para: <strong>{m.idealFor}</strong>
                           </div>
                         </div>
@@ -633,7 +633,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                   {/* Slider de Horas Semanais */}
                   <div className="p-5 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3">
                     <div className="flex items-center justify-between">
-                      <span className="text-xs font-mono font-bold text-[var(--text-primary)]">
+                      <span className="text-xs font-sans font-bold text-[var(--text-primary)]">
                         Horas Disponíveis por Semana:
                       </span>
                       <span className="text-lg font-display font-bold text-[var(--accent-primary)]">
@@ -651,7 +651,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                       className="w-full accent-[var(--accent-primary)] cursor-pointer"
                     />
 
-                    <div className="flex justify-between text-[10px] font-mono text-[var(--text-muted)]">
+                    <div className="flex justify-between text-xs font-sans text-[var(--text-muted)]">
                       <span>5h/sem (Rotina Apertada)</span>
                       <span>20h/sem (Padrão)</span>
                       <span>50h/sem (Dedicação Total)</span>
@@ -660,7 +660,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
                   {/* Duração do Bloco */}
                   <div className="p-5 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3">
-                    <div className="text-xs font-mono font-bold text-[var(--text-primary)]">
+                    <div className="text-xs font-sans font-bold text-[var(--text-primary)]">
                       Duração Padrão de Cada Bloco de Estudo:
                     </div>
                     <div className="grid grid-cols-4 gap-2">
@@ -668,7 +668,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                         <button
                           key={mins}
                           onClick={() => setBlockDurationMinutes(mins)}
-                          className={`p-2.5 rounded-xl border text-xs font-mono font-bold transition-all cursor-pointer ${
+                          className={`p-2.5 rounded-xl border text-xs font-mono font-bold transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                             blockDurationMinutes === mins
                               ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)]'
                               : 'bg-[var(--bg-surface)] text-[var(--text-primary)] border-[var(--border-subtle)] hover:border-[var(--border-focus)]'
@@ -684,7 +684,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                   <div className="p-5 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3">
                     <div className="flex items-center gap-2">
                       <Calendar className="w-4 h-4 text-[var(--accent-primary)]" />
-                      <span className="text-xs font-mono font-bold text-[var(--text-primary)]">
+                      <span className="text-xs font-sans font-bold text-[var(--text-primary)]">
                         Data Estimada da Prova (Opcional):
                       </span>
                     </div>
@@ -692,7 +692,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                       type="date"
                       value={examDate}
                       onChange={(e) => setExamDate(e.target.value)}
-                      className="w-full px-3 py-2 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full px-3 py-2 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none"
                     />
                   </div>
                 </div>
@@ -727,7 +727,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                                 {sub.subject}
                               </span>
                             </div>
-                            <div className="text-[10px] font-mono text-[var(--text-muted)]">
+                            <div className="text-xs font-mono text-[var(--text-muted)]">
                               Peso no Edital: {sub.weightPercentage}% • {sub.questions} questões
                             </div>
                           </div>
@@ -748,14 +748,14 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                                     [sub.subject]: d.lvl
                                   });
                                 }}
-                                className={`px-2.5 py-1 rounded-lg text-[10px] font-mono font-bold transition-all cursor-pointer ${
+                                className={`px-2.5 py-1 rounded-lg text-xs font-sans font-bold transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
                                   currentDiff === d.lvl
                                     ? d.lvl === 4
-                                      ? 'bg-rose-500 text-white'
+                                      ? 'bg-[var(--accent-danger)] text-white'
                                       : d.lvl === 3
-                                      ? 'bg-amber-500 text-white'
+                                      ? 'bg-[var(--accent-warning)] text-white'
                                       : d.lvl === 1
-                                      ? 'bg-emerald-500 text-white'
+                                      ? 'bg-[var(--accent-success)] text-white'
                                       : 'bg-[var(--accent-primary)] text-white'
                                     : 'bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
                                 }`}
@@ -785,20 +785,20 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
                   <div className="p-4 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] grid grid-cols-3 gap-2 text-center text-xs">
                     <div>
-                      <div className="text-[10px] font-mono text-[var(--text-muted)]">Total de Blocos</div>
+                      <div className="text-xs font-mono text-[var(--text-muted)]">Total de Blocos</div>
                       <div className="font-display font-bold text-lg text-[var(--text-primary)]">
                         {previewCycle.blocks?.length || 0}
                       </div>
                     </div>
                     <div>
-                      <div className="text-[10px] font-mono text-[var(--text-muted)]">Carga da Volta</div>
+                      <div className="text-xs font-mono text-[var(--text-muted)]">Carga da Volta</div>
                       <div className="font-display font-bold text-lg text-[var(--accent-primary)]">
                         {((previewCycle.cycleData?.total_cycle_minutes || 0) / 60).toFixed(1)}h
                       </div>
                     </div>
                     <div>
-                      <div className="text-[10px] font-mono text-[var(--text-muted)]">Dias por Volta</div>
-                      <div className="font-display font-bold text-lg text-emerald-500">
+                      <div className="text-xs font-mono text-[var(--text-muted)]">Dias por Volta</div>
+                      <div className="font-display font-bold text-lg text-[var(--accent-success)]">
                         {previewCycle.simulation?.daysPerLap || 7} dias
                       </div>
                     </div>
@@ -814,14 +814,14 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                           className="p-2.5 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex items-center justify-between text-xs"
                         >
                           <div className="flex items-center gap-2">
-                            <span className="font-mono text-[10px] font-bold text-[var(--text-muted)]">
+                            <span className="font-mono text-xs font-bold text-[var(--text-muted)]">
                               #{idx + 1}
                             </span>
                             <span className="font-bold text-[var(--text-primary)]">
                               {b.subject}
                             </span>
                           </div>
-                          <span className={`px-2 py-0.5 rounded text-[10px] font-mono font-bold ${cog.bg} ${cog.text}`}>
+                          <span className={`px-2 py-0.5 rounded text-xs font-mono font-bold ${cog.bg} ${cog.text}`}>
                             {cog.label} • {b.duration_minutes}m
                           </span>
                         </div>
@@ -838,7 +838,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               {wizardStep > 1 ? (
                 <button
                   onClick={() => setWizardStep(wizardStep - 1)}
-                  className="px-4 py-2 rounded-xl border border-[var(--border-subtle)] text-xs font-mono font-bold text-[var(--text-primary)] hover:bg-[var(--bg-surface)] cursor-pointer"
+                  className="px-4 py-2 rounded-xl border border-[var(--border-subtle)] text-xs font-sans font-bold text-[var(--text-primary)] hover:bg-[var(--bg-surface)] cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   Voltar
                 </button>
@@ -849,7 +849,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               {wizardStep < 3 ? (
                 <button
                   onClick={() => setWizardStep(wizardStep + 1)}
-                  className="px-5 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white text-xs font-mono font-bold flex items-center gap-1.5 cursor-pointer shadow-sm"
+                  className="px-5 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white text-xs font-sans font-bold flex items-center gap-1.5 cursor-pointer shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   <span>Próximo</span>
                   <ChevronRight className="w-4 h-4" />
@@ -857,7 +857,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               ) : wizardStep === 3 ? (
                 <button
                   onClick={handleGeneratePreview}
-                  className="px-5 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white text-xs font-mono font-bold flex items-center gap-1.5 cursor-pointer shadow-sm"
+                  className="px-5 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white text-xs font-sans font-bold flex items-center gap-1.5 cursor-pointer shadow-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   <Sparkles className="w-4 h-4" />
                   <span>Gerar Prévia do Ciclo</span>
@@ -866,7 +866,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
                 <button
                   onClick={handleSaveAndActivateCycle}
                   disabled={actionLoading}
-                  className="px-6 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-mono font-bold flex items-center gap-1.5 cursor-pointer shadow-md"
+                  className="px-6 py-2.5 rounded-xl bg-[var(--accent-success)] hover:opacity-90 text-white text-xs font-sans font-bold flex items-center gap-1.5 cursor-pointer shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
                   <Check className="w-4 h-4" />
                   <span>{actionLoading ? 'Salvando...' : 'Ativar Este Ciclo'}</span>

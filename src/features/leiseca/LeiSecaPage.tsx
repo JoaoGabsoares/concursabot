@@ -244,7 +244,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
       <div className="flex flex-wrap items-center gap-2 border-b border-[var(--border-subtle)] pb-2">
         <button
           onClick={() => setActiveSubTab('caca_pegadinha')}
-          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
+          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-sans text-xs font-bold transition-all min-h-[44px] ${
             activeSubTab === 'caca_pegadinha'
               ? 'bg-[var(--accent-primary)] text-white shadow-md'
               : 'text-[var(--text-secondary)] hover:bg-[var(--bg-elevated)]'
@@ -256,7 +256,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
 
         <button
           onClick={() => setActiveSubTab('jurisprudencia')}
-          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
+          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-sans text-xs font-bold transition-all min-h-[44px] ${
             activeSubTab === 'jurisprudencia'
               ? 'bg-[var(--accent-primary)] text-white shadow-md'
               : 'text-[var(--text-secondary)] hover:bg-[var(--bg-elevated)]'
@@ -268,7 +268,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
 
         <button
           onClick={() => setActiveSubTab('artigos_ouro')}
-          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
+          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-sans text-xs font-bold transition-all min-h-[44px] ${
             activeSubTab === 'artigos_ouro'
               ? 'bg-[var(--accent-primary)] text-white shadow-md'
               : 'text-[var(--text-secondary)] hover:bg-[var(--bg-elevated)]'
@@ -321,8 +321,8 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
                       </span>
                     </div>
                     <div className="flex items-center gap-2">
-                      <Timer className={`w-4 h-4 ${tempoRestante <= 5 ? 'text-red-500 animate-pulse' : 'text-[var(--accent-primary)]'}`} />
-                      <span className={`font-mono text-sm font-bold ${tempoRestante <= 5 ? 'text-red-500' : 'text-[var(--text-primary)]'}`}>
+                      <Timer className={`w-4 h-4 ${tempoRestante <= 5 ? 'text-[var(--accent-danger)]' : 'text-[var(--accent-primary)]'}`} />
+                      <span className={`font-mono text-sm font-bold ${tempoRestante <= 5 ? 'text-[var(--accent-danger)]' : 'text-[var(--text-primary)]'}`}>
                         00:{tempoRestante.toString().padStart(2, '0')}s
                       </span>
                     </div>
@@ -349,10 +349,10 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
                             key={idx}
                             onClick={() => handleSubmeterPalavra(cleanWord)}
                             disabled={jogoEncerrado}
-                            className={`px-1.5 py-0.5 rounded transition-all cursor-pointer select-none font-medium ${
+                            className={`px-2 py-1 rounded transition-all cursor-pointer select-none font-medium min-h-[32px] ${
                               isSelected
-                                ? 'bg-blue-600 text-white font-bold'
-                                : 'hover:bg-[var(--bg-active)] hover:text-blue-400 active:scale-95'
+                                ? 'bg-[var(--btn-primary-bg)] text-white font-bold'
+                                : 'hover:bg-[var(--bg-active)] hover:text-[var(--accent-primary)] active:scale-95'
                             } ${jogoEncerrado ? 'cursor-default' : ''}`}
                           >
                             {palavra}
@@ -390,12 +390,12 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
 
                       <div className="text-xs text-[var(--text-primary)] space-y-1.5 bg-[var(--bg-surface)] p-3 rounded-lg border border-[var(--border-subtle)]">
                         <div>
-                          <strong>Palavra adulterada:</strong> <span className="text-red-400 font-mono line-through">{resultado.palavraCorreta}</span> &rarr; <strong>Termo correto da lei:</strong> <span className="text-emerald-400 font-mono font-bold">{resultado.substituicaoEsperada}</span>
+                          <strong>Palavra adulterada:</strong> <span className="text-[var(--accent-danger)] font-mono line-through">{resultado.palavraCorreta}</span> &rarr; <strong>Termo correto da lei:</strong> <span className="text-[var(--accent-success)] font-mono font-bold">{resultado.substituicaoEsperada}</span>
                         </div>
                         <div className="text-[var(--text-secondary)] leading-relaxed">
                           <strong>💡 Como a banca cobra:</strong> {resultado.explicacao}
                         </div>
-                        <div className="text-[var(--text-muted)] font-mono text-[11px] pt-1">
+                        <div className="text-[var(--text-muted)] font-mono text-xs pt-1">
                           <strong>📜 Texto Oficial:</strong> "{resultado.textoOriginal}"
                         </div>
                       </div>
@@ -404,8 +404,8 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
 
                   {/* Tempo Esgotado sem resposta */}
                   {tempoRestante === 0 && !resultado && (
-                    <div className="p-4 rounded-xl bg-[var(--color-status-warning-bg)] border border-[var(--color-status-warning)]/30 text-[var(--color-status-warning)] space-y-2">
-                      <div className="flex items-center gap-2 font-bold text-sm">
+                    <div className="p-4 rounded-xl bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 text-[var(--text-primary)] space-y-2">
+                      <div className="flex items-center gap-2 font-bold text-sm text-[var(--accent-warning)]">
                         <AlertTriangle className="w-4 h-4" />
                         <span>Tempo esgotado! Em prova você teria 15 segundos para julgar este item.</span>
                       </div>
@@ -469,7 +469,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
                 value={busca}
                 onChange={(e) => setBusca(e.target.value)}
                 placeholder="Pesquisar por súmula, tema ou tribunal (ex: Nepotismo, SV 13, PAD)..."
-                className="w-full pl-9 pr-4 py-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs sm:text-sm text-[var(--text-primary)] outline-none focus:border-[var(--border-focus)] font-medium"
+                className="w-full pl-9 pr-4 py-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs sm:text-sm text-[var(--text-primary)] outline-none focus:border-[var(--border-focus)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] font-medium min-h-[44px]"
               />
             </div>
             <div className="flex items-center gap-1.5">
@@ -477,7 +477,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
                 <button
                   key={trib}
                   onClick={() => setTribunalFiltro(trib)}
-                  className={`px-3 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
+                  className={`px-3 py-2 rounded-lg font-sans text-xs font-bold transition-all min-h-[44px] ${
                     tribunalFiltro === trib
                       ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                       : 'bg-[var(--bg-elevated)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
@@ -505,7 +505,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
                   <h4 className="font-sans font-bold text-sm text-[var(--text-primary)]">
                     {sum.tema}
                   </h4>
-                  <div className="text-[11px] font-mono text-emerald-400 mt-0.5">
+                  <div className="text-xs font-mono text-[var(--accent-success)] mt-0.5">
                     {sum.relevancia}
                   </div>
                 </div>
@@ -515,8 +515,8 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
                 </p>
 
                 {/* Caixa de Pegadinha da Banca */}
-                <div className="p-3 rounded-lg bg-[var(--color-status-warning-bg)] border border-[var(--color-status-warning)]/30 text-xs text-[var(--color-status-warning)] space-y-1">
-                  <div className="font-bold font-mono text-[11px] flex items-center gap-1.5">
+                <div className="p-3 rounded-lg bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 text-xs text-[var(--text-primary)] space-y-1">
+                  <div className="font-bold font-mono text-xs text-[var(--accent-warning)] flex items-center gap-1.5">
                     <AlertTriangle className="w-3.5 h-3.5 shrink-0" />
                     <span>PEGADINHA DA BANCA ({sum.pegadinhaBanca.banca}):</span>
                   </div>

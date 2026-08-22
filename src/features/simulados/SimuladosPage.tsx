@@ -186,7 +186,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
         {examRunning && !finished && (
           <div className="flex items-center gap-4">
             <div className="px-4 py-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-sm font-bold text-[var(--text-primary)] flex items-center gap-2 shadow-sm">
-              <span className="text-[var(--accent-danger)] animate-pulse">●</span>
+              <span className="text-[var(--accent-danger)]">●</span>
               <ExamLiveTimerDisplay
                 modoProva={modoProva}
                 onTick={handleTimerTick}
@@ -197,7 +197,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               variant="brand"
               size="sm"
               onClick={handleFinishExam}
-              className="font-mono text-xs"
+              className="font-sans text-xs"
             >
               Entregar Prova
             </Button>
@@ -244,7 +244,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     setModoModo('treino_rapido');
                     setExamRunning(true);
                   }}
-                  className="font-mono text-xs font-bold"
+                  className="font-sans text-xs font-bold min-h-[44px]"
                 >
                   Iniciar Treino Rápido
                 </Button>
@@ -255,15 +255,15 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             <Card 
               className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
                 modoProva === 'vulnerabilidades' 
-                  ? 'border-rose-500 bg-[var(--bg-surface)] shadow-lg ring-1 ring-rose-500/30' 
-                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-rose-500/50 opacity-90'
+                  ? 'border-[var(--accent-danger)] bg-[var(--bg-surface)] shadow-lg ring-1 ring-[var(--accent-danger)]/30' 
+                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-[var(--accent-danger)]/50 opacity-90'
               }`}
               onClick={() => setModoModo('vulnerabilidades')}
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
                   <Badge variant="danger">FOCO EM PONTOS FRACOS</Badge>
-                  <div className="p-2 rounded-xl bg-rose-500/10 text-rose-500">
+                  <div className="p-2 rounded-xl bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)]">
                     <AlertTriangle className="w-5 h-5" />
                   </div>
                 </div>
@@ -281,7 +281,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 <Button 
                   variant={modoProva === 'vulnerabilidades' ? 'brand' : 'outline'}
                   fullWidth
-                  className={modoProva === 'vulnerabilidades' ? 'bg-rose-600 hover:bg-rose-700 text-white font-mono text-xs font-bold' : 'font-mono text-xs font-bold'}
+                  className={modoProva === 'vulnerabilidades' ? 'bg-[var(--accent-danger)] hover:bg-[var(--accent-danger)]/90 text-white font-sans text-xs font-bold min-h-[44px]' : 'font-sans text-xs font-bold min-h-[44px]'}
                   onClick={(e) => {
                     e.stopPropagation();
                     setModoModo('vulnerabilidades');
@@ -297,15 +297,15 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             <Card 
               className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
                 modoProva === 'dia_d' 
-                  ? 'border-amber-500 bg-[var(--bg-surface)] shadow-lg ring-1 ring-amber-500/30' 
-                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-amber-500/50 opacity-90'
+                  ? 'border-[var(--accent-warning)] bg-[var(--bg-surface)] shadow-lg ring-1 ring-[var(--accent-warning)]/30' 
+                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-[var(--accent-warning)]/50 opacity-90'
               }`}
               onClick={() => setModoModo('dia_d')}
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
                   <Badge variant="warning">IMERSÃO TOTAL • 4 HORAS</Badge>
-                  <div className="p-2 rounded-xl bg-amber-500/10 text-amber-500">
+                  <div className="p-2 rounded-xl bg-[var(--accent-amber-bg)] text-[var(--accent-warning)]">
                     <Award className="w-5 h-5" />
                   </div>
                 </div>
@@ -323,7 +323,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 <Button 
                   variant={modoProva === 'dia_d' ? 'brand' : 'outline'}
                   fullWidth
-                  className={modoProva === 'dia_d' ? 'bg-amber-600 hover:bg-amber-700 text-white font-mono text-xs font-bold' : 'font-mono text-xs font-bold'}
+                  className={modoProva === 'dia_d' ? 'bg-[var(--accent-warning)] hover:bg-[var(--accent-warning)]/90 text-white font-sans text-xs font-bold min-h-[44px]' : 'font-sans text-xs font-bold min-h-[44px]'}
                   onClick={(e) => {
                     e.stopPropagation();
                     setModoModo('dia_d');
@@ -376,7 +376,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 </button>
               </div>
 
-              <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-amber-500">
+              <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-[var(--accent-warning)]">
                 <AlertTriangle className="w-4 h-4" />
                 <span>MODO SIMULAÇÃO OFICIAL DIA D</span>
               </div>
@@ -403,7 +403,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   </p>
 
                   {/* Options */}
-                  <div className="space-y-3">
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                     {Object.entries(activeQ.options).map(([letter, text]) => {
                       const isSelected = answers[currentQuestionIndex] === letter;
 
@@ -411,7 +411,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                         <div
                           key={letter}
                           onClick={() => handleSelectAnswer(currentQuestionIndex, letter)}
-                          className={`p-4 rounded-xl border transition-all cursor-pointer select-none text-xs sm:text-sm flex items-start gap-3 ${
+                          className={`p-4 rounded-xl border transition-all cursor-pointer select-none text-xs sm:text-sm flex items-start gap-3 min-h-[44px] ${
                             isSelected
                               ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] shadow-sm'
                               : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]'
@@ -480,7 +480,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                             isCurrent
                               ? 'ring-2 ring-[var(--accent-primary)] bg-[var(--bg-surface)] text-[var(--text-primary)]'
                               : isAnswered
-                              ? 'bg-[var(--accent-primary)] text-white shadow-xs'
+                              ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                               : 'bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)]'
                           }`}
                         >
@@ -514,7 +514,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   <div key={idx} className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
                     <div className="flex items-center justify-between text-xs font-mono">
                       <span className="font-bold text-[var(--text-primary)]">Item #{idx + 1}</span>
-                      <span className="text-[10px] text-[var(--text-muted)] truncate max-w-[100px]">{q.subject}</span>
+                      <span className="text-xs text-[var(--text-muted)] truncate max-w-[100px]">{q.subject}</span>
                     </div>
                     <div className="flex items-center justify-between gap-1 pt-1">
                       {['A', 'B', 'C', 'D', 'E'].map((letter) => {
@@ -564,7 +564,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 onChange={(e) => setTextoRedacao(e.target.value)}
                 placeholder="Rascunhe e passe a limpo sua redação oficial aqui..."
                 rows={16}
-                className="w-full p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-sm font-sans text-[var(--text-primary)] leading-relaxed outline-none focus:border-[var(--border-focus)] resize-none"
+                className="w-full p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-sm font-sans text-[var(--text-primary)] leading-relaxed outline-none focus:border-[var(--border-focus)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] resize-none"
               />
             </Card>
           )}
@@ -591,19 +591,19 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-4 font-mono text-xs">
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">Taxa de Acerto</span>
+              <span className="text-[var(--text-muted)] uppercase block text-xs">Taxa de Acerto</span>
               <span className="font-bold text-[var(--text-primary)] text-lg">{scorePct}%</span>
             </div>
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">Itens Corretos</span>
+              <span className="text-[var(--text-muted)] uppercase block text-xs">Itens Corretos</span>
               <span className="font-bold text-[var(--accent-success)] text-lg">{correctCount} / {totalQuestions}</span>
             </div>
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">Tempo Total</span>
+              <span className="text-[var(--text-muted)] uppercase block text-xs">Tempo Total</span>
               <span className="font-bold text-[var(--text-primary)] text-lg">{formatTimer(finalTimeSeconds)}</span>
             </div>
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">XP Conquistado</span>
+              <span className="text-[var(--text-muted)] uppercase block text-xs">XP Conquistado</span>
               <span className="font-bold text-[var(--accent-primary)] text-lg">+{correctCount * 15 + (textoRedacao.trim() ? 50 : 0)} XP</span>
             </div>
           </div>
@@ -648,10 +648,10 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     <p className="text-[var(--text-secondary)] font-medium">
                       {q.question}
                     </p>
-                    <div className="text-[11px] font-mono text-[var(--text-muted)]">
+                    <div className="text-xs font-mono text-[var(--text-muted)]">
                       Sua resposta: <strong className={isCorrect ? "text-[var(--accent-success)]" : "text-[var(--accent-danger)]"}>{userAns || 'Em branco'}</strong> • Gabarito Oficial: <strong className="text-[var(--accent-success)]">{q.answer}</strong>
                     </div>
-                    <p className="text-[var(--text-secondary)] text-[11px] bg-[var(--bg-surface)] p-2.5 rounded border border-[var(--border-subtle)] italic">
+                    <p className="text-[var(--text-secondary)] text-xs bg-[var(--bg-surface)] p-2.5 rounded border border-[var(--border-subtle)] italic">
                       {q.explanation}
                     </p>
                   </div>
@@ -673,7 +673,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 setCurrentQuestionIndex(0);
                 setTextoRedacao('');
               }}
-              className="font-mono text-xs"
+              className="font-sans text-xs"
             >
               Novo Simulado
             </Button>

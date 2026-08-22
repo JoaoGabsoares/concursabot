@@ -49,7 +49,8 @@ router.post('/create', async (req, res) => {
             const insertSq = db.prepare('INSERT INTO simulado_questions (simulado_id, question_id) VALUES (?, ?)');
 
             for (const batch of subjectBatches) {
-                for (const q of batch.data) {
+                const questionsArray = Array.isArray(batch.data) ? batch.data : (batch.data?.questions || []);
+                for (const q of questionsArray) {
                     const info = insertQ.run(
                         batch.subject,
                         banca,
