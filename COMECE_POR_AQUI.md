@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Guia Mestre de Contextualização e Inicialização (v3.5 Ultra)
+# 🎯 Gabarito.AI — Guia Mestre de Contextualização e Inicialização (v4.6)
 > **Instruções para o Usuário / Desenvolvedor:** 
 > Você pode copiar e colar todo o conteúdo deste arquivo no início de qualquer nova conversa com IAs (Google Antigravity, Claude Code, ChatGPT, Cursor, etc.) para que a IA adquira imediatamente 100% de consciência arquitetural, funcional e das regras de negócio deste projeto sem precisar reexplicar nada.
 
@@ -9,9 +9,11 @@
 O **Gabarito.AI** é uma plataforma web full-stack de alto desempenho focada na preparação de concurseiros para certames públicos de elite no Brasil (Receita Federal, Transpetro/Petrobras, Banco do Brasil, Saúde Estadual, Marinha do Brasil, Tribunais e Polícias).
 
 ### 💡 Filosofia e Pilares do Projeto:
-1. **Custo Zero de Infraestrutura / Zero API Bill**: O sistema foi concebido para rodar de forma ultra-eficiente sem dependência de serviços externos pagos. Usa SQLite nativo do Node.js (`node:sqlite`) em modo WAL, Web APIs do navegador e heurísticas inteligentes locais. Quando IA generativa é acionada (ex: correção de redação discursiva), utiliza modelos rápidos como Gemini Flash ou chaves próprias (BYOK).
-2. **Aprendizado Ativo vs. Leitura Passiva**: Todo o fluxo de estudo força a evocação ativa: Cadência 60/30 (60 min leitura + 30 min questões), Caça-Pegadinhas da Lei Seca em 15s, Súmulas Vinculantes comentadas, Repetição Espaçada SM-2 (D+1, D+7, D+30) e Simulado "Dia D de Prova" com Cartão-Resposta Digital.
-3. **Design System Editorial & Mission-Driven**: Interface sem poluição visual, inspirada no design institucional suíço/editorial, com design tokens padronizados (`src/styles/design-tokens.ts`), modo escuro/claro nativo, feedback tátil e tipografia de alta legibilidade.
+1. **Custo Zero de Infraestrutura / Zero API Bill**: O sistema foi concebido para rodar de forma ultra-eficiente sem dependência de serviços externos pagos. Usa SQLite nativo do Node.js (`node:sqlite`) em modo WAL, Web APIs do navegador e heurísticas inteligentes locais. Quando IA generativa é acionada (ex: correção de redação discursiva), utiliza modelos rápidos como Gemini Flash.
+2. **Dashboard Inicial & Demonstração Interativa (v4.6)**: Ao entrar na plataforma deslogado, o usuário interage com um portal dinâmico com seletor de editais, raio-x de matérias e o laboratório Caça-Pegadinhas da Lei (15s) antes do login.
+3. **Autenticação Universal Google 1-Click (v4.6)**: Login rápido e gratuito via Google Identity Services ou credenciais seguras (Scrypt com salt individual), com isolamento hermético entre contas.
+4. **Aprendizado Ativo vs. Leitura Passiva**: Todo o fluxo de estudo força a evocação ativa: Cadência 60/30 (60 min leitura + 30 min questões), Caça-Pegadinhas da Lei Seca em 15s, Súmulas Vinculantes comentadas, Repetição Espaçada SM-2 (D+1, D+7, D+30) e Simulado "Dia D de Prova" com Cartão-Resposta Digital.
+5. **Design System Editorial & Mission-Driven**: Interface sem poluição visual, inspirada no design institucional suíço/editorial, com design tokens padronizados (`src/styles/design-tokens.ts`), modo escuro/claro nativo, feedback tátil e tipografia de alta legibilidade.
 
 ---
 

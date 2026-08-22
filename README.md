@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v3.5 Ultra)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v4.6)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
@@ -11,34 +11,41 @@
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Portal Interativo & Dashboard Inicial**, **Autenticação Universal Google 1-Click**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
 
 ---
 
 ## 🏛️ Destaques da Arquitetura & Funcionalidades
 
-1. 🧩 **Arquitetura Orientada a Objetos (POO & Domain Services):**
+1. 🏛️ **Dashboard Inicial & Portal Interativo (Público):**
+   - Elimina a barreira de telas de login cruas.
+   - Demonstração ao vivo de certames, distribuição de pesos oficiais e **Laboratório Caça-Pegadinhas com timer de 15 segundos**.
+2. 🔑 **Autenticação Universal Google Sign-In 1-Click & Credenciais Seguras:**
+   - Acesso cross-device simplificado (PC, celular e tablet) sem fricção de PINs/convites.
+   - Criptografia Scrypt nativa, validação rigorosa de e-mail e isolamento hermético entre contas.
+3. 🎯 **Formulação Heurística com DNA de Banca:**
+   - Calibração semântica específica para **FGV** (enunciados densos de 3 a 6 linhas com casos hipotéticos, trocas conceituais sutis e jurisprudência STF/STJ) e **Fundação Cesgranrio** (literalidade e competências institucionais).
+4. ⚡ **Hub de Acesso Rápido no Dashboard do Aluno:**
+   - Navegação limpa com 6 atalhos diretos (Sala de Estudos, Simulados, Caça-Pegadinhas, Caderno de Erros, Flashcards, Redação) para menor ruído cognitivo.
+5. 🧩 **Arquitetura Orientada a Objetos (POO & Domain Services):**
    - Camada de serviços desacoplada no backend (`UniversalPdfService`, `StudyCadenceService`, `AuthService`, `GamificationService`, `QuestionRepository`).
    - Frontend com `ApiClient` POO tipado em TypeScript e tokens centralizados em `design-tokens.ts`.
-2. 📄 **Motor Universal de Ingestão de Qualquer PDF:**
+6. 📄 **Motor Universal de Ingestão de Qualquer PDF:**
    - Heurísticas avançadas para processar materiais de qualquer editora (Estratégia, Gran, Direção, Cebraspe, livros).
    - Sanitização de ruídos (CPFs, e-mails, marcas d'água), extração de sumários, separação entre teoria e exercícios e cálculo de ritmo de leitura.
-3. ⏱️ **Cadência de Estudo Flexível & Retomada Parcial:**
+7. ⏱️ **Cadência de Estudo Flexível & Sala de Estudos Rica:**
    - Presets inteligentes: `60m / 30m` (Foco Profundo), `45m / 15m` (Sprint Ágil), `50m / 10m` (Pomodoro) ou Personalizado.
-   - Marcador inteligente de página com estimativa de tempo restante e botão de 1 toque: `⚡ Ir para Questões (30 min)`.
-4. 🔒 **Autenticação Segura & Isolamento Multi-Perfil:**
-   - Criptografia Scrypt nativa com salt individual para senhas.
-   - Isolamento total entre contas e perfis (cada usuário novo inicia com rigorosamente 0 XP, Level 1 Aspirante).
-5. ⚖️ **Caça-Pegadinhas da Lei Seca & Súmulas dos Tribunais (STF/STJ/TST):**
+   - Marca-página inteligente corrigido e persistido no SQLite com estimativa de tempo restante e seções teóricas aprofundadas com casos práticos e artigos de ouro.
+8. ⚖️ **Caça-Pegadinhas da Lei Seca & Súmulas dos Tribunais (STF/STJ/TST):**
    - Desafios dinâmicos de 15 segundos para desarmar armadilhas de bancas na letra da lei com +10 a +15 XP.
    - Mapeamento completo de Súmulas Vinculantes e teses jurisprudenciais com alertas de pegadinhas.
-6. 🏛️ **Simulação Realista "Dia D de Prova" (4 Horas):**
+9. 🏛️ **Simulação Realista "Dia D de Prova" (4 Horas):**
    - Prova Oficial contínua de 4h00 com **Folha de Respostas Digital (Cartão-Resposta)** e **Redação Discursiva** no mesmo bloco.
-7. 🧭 **Matriz de Aproveitamento & Transição de Editais:**
+10. 🧭 **Matriz de Aproveitamento & Transição de Editais:**
    - Comparador inteligente que calcula a afinidade percentual entre certames e gera a trilha de complementação de disciplinas.
-8. ✍️ **Corretor de Redação Discursiva por IA:**
+11. ✍️ **Corretor de Redação Discursiva por IA:**
    - Avaliação por espelho oficial em 4 eixos (*Domínio Temático, Estrutura Dissertativa, Norma Culta e Argumentação*).
-9. 🎯 **Caderno de Erros com Repetição Espaçada SM-2:**
+12. 🎯 **Caderno de Erros com Repetição Espaçada SM-2:**
    - Captura automática de itens incorretos em simulados com re-treino focado e recompensa de **+15 XP**.
 
 ---

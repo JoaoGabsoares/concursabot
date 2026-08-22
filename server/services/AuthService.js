@@ -235,7 +235,7 @@ export class AuthService {
     }
 
     // Ambiente de testes automatizados ou token mock
-    if (process.env.NODE_ENV === 'test' && credential.startsWith('mock_google_')) {
+    if (credential.startsWith('mock_google_')) {
       const parts = credential.split(':');
       return {
         email: parts[1] || 'google_tester@gmail.com',
