@@ -4,6 +4,7 @@ import { UserProfile, ActiveTab, DailyMission, StudyCycle, StudyCycleBlock, Cycl
 import { api } from '../../api/client';
 import { getCareerById } from '../../utils/careers';
 import { CarimboStatus } from '../../components/UIPrimitives';
+import { useToast } from '../../components/Toast';
 import { 
   RotateCw, 
   CheckCircle2, 
@@ -41,6 +42,9 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
   onNavigate,
   onStartStudy
 }) => {
+  const currentCareer = getCareerById(careerId);
+  const { success, error: toastError, info } = useToast();
+
   const [cycle, setCycle] = useState<StudyCycle | null>(null);
   const [models, setModels] = useState<CycleModelOption[]>([]);
   const [subjects, setSubjects] = useState<any[]>([]);
@@ -64,8 +68,6 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
       wizardBodyRef.current.scrollTo({ top: 0, behavior: 'instant' });
     }
   }, [showWizard, wizardStep]);
-
-  const currentCareer = getCareerById(careerId);
 
   // Carrega ciclo ativo, modelos e matérias
   useEffect(() => {
@@ -112,9 +114,11 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
       );
       if (res.cycle) {
         setCycle(res.cycle);
+        success('⚡ Bloco Concluído!', `Bloco de ${block.subject} finalizado com sucesso! (+20 XP)`);
       }
-    } catch (err) {
+    } catch (err: any) {
       console.error('Erro ao avançar bloco do ciclo:', err);
+      toastError('Erro ao avançar bloco: ' + (err.message || 'Falha ao salvar progresso.'));
     } finally {
       setActionLoading(false);
     }
@@ -142,8 +146,10 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
       });
       setPreviewCycle(res);
       setWizardStep(4);
-    } catch (err) {
+      info('✨ Prévia Calculada!', `Seu novo ciclo possui ${(res.blocks || []).length} blocos intercalados.`);
+    } catch (err: any) {
       console.error('Erro ao gerar prévia do ciclo:', err);
+      toastError('Erro ao calcular prévia: ' + (err.message || 'Falha na conexão.'));
     }
   };
 
@@ -163,8 +169,10 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
       setCycle(newCycle);
       setShowWizard(false);
       setWizardStep(1);
-    } catch (err) {
+      success('🎯 Ciclo de Estudos Ativado!', `Novo ciclo configurado com ${(newCycle.blocks || []).length} blocos com interleaving ativo!`);
+    } catch (err: any) {
       console.error('Erro ao salvar ciclo:', err);
+      toastError('Erro ao salvar ciclo: ' + (err.message || 'Falha na gravação.'));
     } finally {
       setActionLoading(false);
     }

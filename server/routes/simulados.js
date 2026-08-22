@@ -72,6 +72,175 @@ router.post('/create', async (req, res) => {
     }
 });
 
+// GET /studied-scope - Reconhecimento inteligente do que o aluno já estudou
+router.get('/studied-scope', (req, res) => {
+    try {
+        const userId = getAuthenticatedUserId(req);
+        const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || 'atrfb';
+
+        // 1. Matérias e aulas com estudo registrado em study_materials
+        const studiedMaterials = db.prepare(`
+            SELECT DISTINCT subject, lesson_number, title, current_page, total_pages, theory_completed, questions_completed, studied_at
+            FROM study_materials
+            WHERE user_id = ? AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
+        `).all(userId);
+
+        // 2. Matérias com blocos de ciclo concluídos
+        const cycleBlocks = db.prepare(`
+            SELECT DISTINCT scb.subject
+            FROM study_cycle_blocks scb
+            JOIN study_cycles sc ON scb.cycle_id = sc.id
+            WHERE sc.user_id = ? AND sc.career_id = ? AND scb.status = 'completed'
+        `).all(userId, careerId);
+
+        // 3. Matérias com sessões de estudo registradas
+        const sessions = db.prepare(`
+            SELECT DISTINCT sm.subject
+            FROM study_sessions ss
+            JOIN study_materials sm ON ss.material_id = sm.id
+            WHERE ss.user_id = ? AND ss.status = 'completed'
+        `).all(userId);
+
+        const studiedSubjectsSet = new Set();
+        studiedMaterials.forEach(m => { if (m.subject) studiedSubjectsSet.add(m.subject); });
+        cycleBlocks.forEach(b => { if (b.subject) studiedSubjectsSet.add(b.subject); });
+        sessions.forEach(s => { if (s.subject) studiedSubjectsSet.add(s.subject); });
+
+        const studiedSubjects = Array.from(studiedSubjectsSet);
+
+        res.json({
+            careerId,
+            studiedSubjects,
+            studiedMaterialsCount: studiedMaterials.length,
+            details: studiedMaterials
+        });
+    } catch (error) {
+        console.error("Studied scope error:", error);
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// POST /create-by-subject - Cria simulado específico de uma disciplina (20 a 50 questões)
+router.post('/create-by-subject', async (req, res) => {
+    try {
+        const userId = getAuthenticatedUserId(req);
+        const careerId = req.headers['x-exam-id'] || req.body.careerId || req.body.career_id || 'atrfb';
+        const {
+            subject,
+            questionCount = 20,
+            banca = 'FGV',
+            scopeMode = 'studied_only', // 'studied_only' | 'full_edital' | 'errors_only'
+            timeLimitMinutes = null
+        } = req.body;
+
+        if (!subject) {
+            return res.status(400).json({ error: 'Disciplina (subject) é obrigatória.' });
+        }
+
+        const count = Math.min(Math.max(parseInt(questionCount, 10) || 20, 5), 100);
+        const timeLimit = timeLimitMinutes ? parseInt(timeLimitMinutes, 10) : Math.max(15, count * 2);
+
+        let candidateQuestionIds = [];
+
+        if (scopeMode === 'errors_only') {
+            const errorQuestions = db.prepare(`
+                SELECT DISTINCT q.id
+                FROM question_answers qa
+                JOIN questions q ON qa.question_id = q.id
+                WHERE qa.user_id = ? AND qa.is_correct = 0 AND LOWER(q.subject) LIKE LOWER(?)
+                ORDER BY qa.answered_at DESC
+                LIMIT ?
+            `).all(userId, `%${subject}%`, count);
+
+            candidateQuestionIds = errorQuestions.map(r => r.id);
+        } else {
+            const existing = db.prepare(`
+                SELECT id FROM questions 
+                WHERE LOWER(subject) LIKE LOWER(?) AND (banca = ? OR banca = 'FGV' OR ? = 'todas')
+                ORDER BY RANDOM()
+                LIMIT ?
+            `).all(`%${subject}%`, banca, banca, count);
+
+            candidateQuestionIds = existing.map(r => r.id);
+        }
+
+        // Se o banco tiver menos questões que o solicitado, gerar com IA as restantes no padrão FGV
+        if (candidateQuestionIds.length < count && scopeMode !== 'errors_only') {
+            const needed = count - candidateQuestionIds.length;
+            try {
+                const systemInstruction = getQuestionsSystemInstruction(careerId);
+                const prompt = questionsPromptTemplate(
+                    subject, 
+                    `Tópicos de alto rendimento da banca ${banca} (Padrão de prova com casos práticos e pegadinhas)`, 
+                    banca, 
+                    'multiple_choice', 
+                    needed
+                );
+                const generatedData = await generateJSON(prompt, systemInstruction, questionsSchema);
+                const questionsArray = Array.isArray(generatedData) ? generatedData : (generatedData?.questions || []);
+
+                const insertQ = db.prepare(`
+                    INSERT INTO questions (subject, topic, banca, type, question_text, options, correct_index, explanation)
+                    VALUES (?, ?, ?, 'multiple_choice', ?, ?, ?, ?)
+                `);
+
+                db.transaction(() => {
+                    for (const q of questionsArray) {
+                        const info = insertQ.run(
+                            subject,
+                            q.topic || 'Conhecimentos Específicos',
+                            banca,
+                            q.question_text,
+                            typeof q.options === 'string' ? q.options : JSON.stringify(q.options),
+                            q.correct_index !== undefined ? q.correct_index : 0,
+                            q.explanation || 'Gabarito fundamentado na legislação e jurisprudência.'
+                        );
+                        candidateQuestionIds.push(info.lastInsertRowid);
+                    }
+                })();
+            } catch (aiErr) {
+                console.warn('Geração complementar de questões via IA:', aiErr.message);
+            }
+        }
+
+        if (candidateQuestionIds.length === 0) {
+            return res.status(404).json({ 
+                error: `Nenhuma questão encontrada para ${subject} no modo selecionado (${scopeMode}).` 
+            });
+        }
+
+        // Criar o registro do Simulado
+        const simInfo = db.prepare(`
+            INSERT INTO simulados (banca, subjects, question_count, time_limit_minutes, user_id, career_id)
+            VALUES (?, ?, ?, ?, ?, ?)
+        `).run(`${banca} • ${subject}`, JSON.stringify([subject]), candidateQuestionIds.length, timeLimit, userId, careerId);
+
+        const simuladoId = simInfo.lastInsertRowid;
+        const insertSq = db.prepare('INSERT INTO simulado_questions (simulado_id, question_id) VALUES (?, ?)');
+
+        db.transaction(() => {
+            for (const qId of candidateQuestionIds) {
+                insertSq.run(simuladoId, qId);
+            }
+        })();
+
+        logActivity('simulado_create', `Iniciou Simulado de ${subject} (${candidateQuestionIds.length} questões • ${banca})`, userId, careerId);
+
+        res.json({
+            success: true,
+            simuladoId,
+            subject,
+            banca,
+            questionCount: candidateQuestionIds.length,
+            timeLimitMinutes: timeLimit,
+            scopeMode
+        });
+    } catch (error) {
+        console.error("Create by subject error:", error);
+        res.status(500).json({ error: error.message });
+    }
+});
+
 // POST /create-from-errors - Build an instant mock exam from error notebook
 router.post('/create-from-errors', (req, res) => {
     const userId = getAuthenticatedUserId(req);

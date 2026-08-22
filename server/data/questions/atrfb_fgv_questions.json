@@ -1,0 +1,274 @@
+[
+  {
+    "subject": "Direito Tributário",
+    "topic": "Espécies Tributárias e Empréstimos Compulsórios",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Em decorrência de severa e imprevisível inundação que assolou determinada região geográfica do país, provocando estado de calamidade pública de proporções continentais formalmente reconhecido pelo Congresso Nacional, a União editou Medida Provisória instituindo Empréstimo Compulsório sobre a aquisição de combustíveis e veículos automotores para atender às despesas extraordinárias decorrentes do desastre. À luz da Constituição Federal de 1988 e do Código Tributário Nacional (CTN), a instituição do referido tributo é:",
+    "options": [
+      "A) Constitucional, pois a calamidade pública autoriza a União a instituir empréstimo compulsório por meio de lei ordinária ou medida provisória com eficácia imediata.",
+      "B) Inconstitucional, pois a instituição de empréstimos compulsórios é matéria reservada privativamente à Lei Complementar, sendo expressamente vedada a sua veiculação por Medida Provisória.",
+      "C) Constitucional, desde que respeitado o princípio da anterioridade nonagesimal para o início da cobrança sobre os combustíveis.",
+      "D) Inconstitucional, tendo em vista que despesas com calamidade pública somente admitem a majoração de alíquotas do IPI e do IOF, e não a criação de empréstimo compulsório.",
+      "E) Constitucional, desde que os recursos arrecadados sejam incorporados ao caixa único do Tesouro Nacional sem vinculação específica à despesa que fundamentou sua criação."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Nos termos do art. 148, caput e inciso I, da CF/88, a instituição de Empréstimos Compulsórios é de competência exclusiva da União e exige obrigatoriamente LEI COMPLEMENTAR. Por sua vez, o art. 62, § 1º, III, da CF/88 veda terminantemente a edição de Medidas Provisórias sobre matéria reservada a lei complementar."
+  },
+  {
+    "subject": "Direito Tributário",
+    "topic": "Imunidades Tributárias e Anterioridade",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - SEFAZ-MG - Auditor Fiscal) Uma determinada entidade beneficente de assistência social, sem fins lucrativos, proprietária de um imóvel urbano, aluga integralmente o referido prédio para uma sociedade empresária comercial privada. O valor integral dos aluguéis mensais auferidos é rigorosamente revertido e contabilizado na manutenção das atividades essenciais de assistência social da entidade. Sobre a incidência do IPTU sobre o referido imóvel, de acordo com a jurisprudência sumulada do Supremo Tribunal Federal:",
+    "options": [
+      "A) O imóvel perde a imunidade tributária, pois a exploração por pessoa jurídica com fins lucrativos descaracteriza a destinação institucional direta do bem.",
+      "B) A entidade goza de imunidade tributária do IPTU, desde que o valor dos aluguéis seja integralmente aplicado nas suas finalidades essenciais.",
+      "C) O IPTU incidirá proporcionalmente a 50% sobre o valor venal do imóvel, cabendo à sociedade locatária o dever de recolhimento como responsável tributária.",
+      "D) A imunidade é restrita aos templos de qualquer culto, aplicando-se às entidades de assistência social apenas a isenção condicionada a despacho da autoridade municipal.",
+      "E) A entidade somente manterá a imunidade se o contrato de locação for firmado com órgão da administração pública direta."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Aplicação direta da Súmula Vinculante nº 52 do STF: \"Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente a qualquer das entidades referidas pelo art. 150, VI, c, da Constituição Federal, desde que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.\""
+  },
+  {
+    "subject": "Direito Tributário",
+    "topic": "Responsabilidade Tributária dos Sócios (Art. 135 do CTN)",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) A sociedade empresária Alfa Comércio Ltda. deixou de recolher pontualmente a Contribuição para o Financiamento da Seguridade Social (COFINS) devida nos meses de janeiro a junho de 2024. Não houve dissolução irregular da sociedade, nem prática comprovada de atos com excesso de poderes, infração à lei ou ao contrato social por parte de seu sócio-administrador, Carlos. A Procuradoria-Geral da Fazenda Nacional (PGFN) requereu o redirecionamento da Execução Fiscal diretamente contra Carlos. À luz do art. 135 do CTN e da Súmula 430 do Superior Tribunal de Justiça (STJ):",
+    "options": [
+      "A) O redirecionamento é cabível, pois o mero inadimplemento da obrigação tributária gera presunção de dolo e responsabilidade solidária irrestrita dos administradores.",
+      "B) O redirecionamento não é cabível, pois o simples inadimplemento da obrigação tributária não gera, por si só, a responsabilidade pessoal e solidária do sócio-administrador.",
+      "C) O redirecionamento somente seria vedado se Carlos comprovasse hipossuficiência financeira perante o juízo da execução.",
+      "D) O administrador responde subsidiariamente, devendo o Fisco executar primeiramente a totalidade dos bens de todos os sócios cotistas.",
+      "E) A responsabilidade é automática para tributos federais, aplicando-se a restrição jurisprudencial unicamente a taxas municipais e contribuições de melhoria."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Conforme expressamente disposto na Súmula 430 do STJ: \"O simples inadimplemento da obrigação tributária não gera, por si só, a responsabilidade solidária do sócio-gerente (art. 135, III, do CTN)\"."
+  },
+  {
+    "subject": "Legislação Aduaneira",
+    "topic": "Regimes Aduaneiros Especiais e Drawback",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Determinada indústria exportadora brasileira importa insumos e matérias-primas com suspensão total do Imposto de Importação (II) e do IPI vinculado à importação, assumindo o compromisso de empregá-los na industrialização de maquinários pesados que serão comprovadamente exportados no prazo improrrogável fixado pela autoridade competente. O regime aduaneiro especial aplicado a essa operação e a consequência jurídica caso os bens finais sejam comercializados no mercado interno brasileiro sem autorização prévia são, respectivamente:",
+    "options": [
+      "A) Admissão Temporária; conversão automática em doação com isenção residual de tributos.",
+      "B) Drawback na modalidade Suspensão; exigibilidade imediata dos tributos suspensos acrescidos de juros de mora e penalidades legais cabíveis.",
+      "C) Entreposto Aduaneiro; prorrogação compulsória do prazo por mais 5 anos mediante depósito em caução.",
+      "D) Trânsito Aduaneiro; retenção irrecorrível no porto seco com extinção das obrigações acessórias.",
+      "E) Recof-Sped; imunidade retroativa com aplicação de multa meramente formal."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Trata-se do regime aduaneiro especial de Drawback na modalidade Suspensão (art. 383 do Regulamento Aduaneiro - Dec. 6.759/09)."
+  },
+  {
+    "subject": "Legislação Aduaneira",
+    "topic": "Jurisdição Aduaneira e Pena de Perdimento",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) No âmbito da jurisdição aduaneira brasileira regulada pelo Decreto nº 6.759/2009 (Regulamento Aduaneiro), o território aduaneiro compreende todo o território nacional e divide-se em Zona Primária e Zona Secundária. Considere a hipótese em que uma mercadoria estrangeira oculta em fundo falso de veículo terrestre é apreendida em rodovia federal no interior do país, configurando hipótese de dano ao Erário por contrabando/descaminho. A esse respeito, assinale a afirmativa correta:",
+    "options": [
+      "A) A apreensão ocorreu em Zona Primária, local onde a autoridade aduaneira possui atribuição privativa e exclusiva com exclusão de qualquer autoridade policial.",
+      "B) A apreensão ocorreu em Zona Secundária, sendo aplicável, após o devido processo legal administrativo aduaneiro, a pena de perdimento da mercadoria e do veículo transportador.",
+      "C) A pena de perdimento somente pode ser aplicada por sentença judicial transitada em julgado, sendo vedada sua aplicação em processo administrativo fiscal.",
+      "D) Os recintos alfandegados de portos secos localizados no interior do país integram sempre a Zona Secundária não contínua.",
+      "E) A mercadoria apreendida em zona secundária deve ser compulsoriamente devolvida ao exportador de origem caso não haja recolhimento de fiança bancária."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. A Zona Secundária compreende a parte restante do território aduaneiro, incluindo águas territoriais e espaço aéreo (art. 3º do Dec. 6.759/09)."
+  },
+  {
+    "subject": "Legislação Tributária",
+    "topic": "PIS/COFINS e Regime Não-Cumulativo",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Auditor Fiscal) A sociedade empresária Ômega S/A, tributada pelo Imposto de Renda com base no Lucro Real, sujeita-se ao regime de apuração não-cumulativa da Contribuição para o PIS/PASEP (Lei 10.637/2002) e da COFINS (Lei 10.833/2003). De acordo com a legislação de regência e a jurisprudência consolidada do Superior Tribunal de Justiça (Tema Repetitivo 779/STJ) acerca do conceito de insumos para creditamento de PIS/COFINS:",
+    "options": [
+      "A) O conceito de insumo para PIS/COFINS é idêntico ao adotado na legislação do IPI, restringindo-se a matérias-primas que se desgastam no contato físico direto com o produto.",
+      "B) O conceito de insumo para fins de creditamento deve ser aferido à luz dos critérios da essencialidade ou da relevância do bem ou serviço para o desenvolvimento da atividade econômica da empresa.",
+      "C) É vedado qualquer aproveitamento de créditos sobre despesas com energia elétrica consumida nos estabelecimentos da pessoa jurídica.",
+      "D) O conceito de insumo para o PIS/COFINS coincide estritamente com o conceito de despesa operacional dedutível previsto no IRPJ.",
+      "E) Gastos com equipamentos de proteção individual (EPIs) impostos por normas regulamentadoras não geram direito a crédito de PIS/COFINS por não integrarem o produto final."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. No julgamento do REsp 1.221.170/PR (Tema 779 dos Recursos Repetitivos), o STJ firmou a tese da essencialidade e relevância."
+  },
+  {
+    "subject": "Direito Constitucional",
+    "topic": "Direitos e Garantias Fundamentais (Art. 5º da CF/88)",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Determinado Auditor-Fiscal da Receita Federal do Brasil, no curso de procedimento de fiscalização tributária regularmente instaurado contra pessoa física suspeita de sonegação fiscal milionária, ingressou durante o dia, sem consentimento do morador e desprovido de prévia ordem judicial, no domicílio residencial do investigado para apreender livros contábeis e computadores pessoais. Considerando as normas constitucionais sobre a inviolabilidade domiciliar (art. 5º, XI, CF/88):",
+    "options": [
+      "A) A diligência é válida, pois a prerrogativa fiscalizatória da administração tributária equipara-se à ordem judicial em razão do interesse público indisponível.",
+      "B) A diligência é inconstitucional e as provas obtidas são ilícitas, pois o ingresso forçado em domicílio durante o dia sem mandado judicial somente se admite em caso de flagrante delito, desastre ou para prestar socorro.",
+      "C) A diligência é plenamente válida desde que realizada durante o horário comercial e acompanhada por duas testemunhas idôneas.",
+      "D) O domicílio somente é inviolável no período noturno, sendo livre o acesso da fiscalização tributária federal das 06h às 18h.",
+      "E) A prova será considerada válida se a Receita Federal demonstrar posterior confissão de dívida pelo contribuinte."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Conforme o art. 5º, XI, da CF/88, o Fisco não possui poderes para invadir domicílio sem ordem judicial."
+  },
+  {
+    "subject": "Direito Administrativo",
+    "topic": "Atos Administrativos e Convalidação",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - SEFAZ-MG - Auditor Fiscal) A respeito dos atributos do ato administrativo e do regime de nulidades na Administração Pública, assinale a afirmativa correta de acordo com a doutrina de Direito Administrativo e a jurisprudência dos Tribunais Superiores:",
+    "options": [
+      "A) A autoexecutoriedade está presente em todos os atos administrativos sem exceção, permitindo sempre a cobrança forçada de créditos sem intervenção judicial.",
+      "B) A presunção de legitimidade e veracidade dos atos administrativos é absoluta (juris et de jure), não admitindo prova em contrário pelo particular.",
+      "C) Os atos administrativos com vícios de competência (desde que não exclusiva) e de forma (desde que a forma não seja essencial à validade) admitem convalidação pela autoridade competente, com efeitos retroativos (ex tunc).",
+      "D) A revogação de um ato administrativo produz efeitos retroativos (ex tunc), desfazendo todas as relações jurídicas pretéritas constituídas sob sua vigência.",
+      "E) A anulação de ato administrativo eivado de ilegalidade só pode ser decretada pelo Poder Judiciário, sendo defeso à Administração exercê-la de ofício."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. A convalidação (sanatória) supre vícios de competência não privativa e forma não essencial com efeitos ex tunc (art. 55 da Lei 9.784/99)."
+  },
+  {
+    "subject": "Direito Previdenciário",
+    "topic": "Custeio e Princípios da Seguridade Social",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Nos termos da Constituição Federal de 1988 (art. 195, § 4º e § 6º), as contribuições sociais destinadas ao financiamento da Seguridade Social submetem-se a regras específicas de anterioridade e competência tributária. A esse propósito, é correto afirmar que:",
+    "options": [
+      "A) A criação de nova fonte de custeio para a seguridade social (competência residual) pode ser instituída por meio de lei ordinária federal.",
+      "B) As contribuições sociais de seguridade social sujeitam-se à anterioridade anual (exercício financeiro seguinte), sendo dispensada a anterioridade nonagesimal.",
+      "C) As contribuições sociais de seguridade social só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando a anterioridade anual (princípio da noventena).",
+      "D) Nenhuma contribuição de seguridade social pode ter alíquotas diferenciadas em razão da atividade econômica ou do porte da empresa.",
+      "E) A pessoa jurídica em débito com o sistema da seguridade social não sofre qualquer restrição para contratar com o Poder Público ou receber incentivos fiscais."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. Aplicação direta do art. 195, § 6º, da CF/88 (anterioridade nonagesimal / noventena pura para contribuições de seguridade social)."
+  },
+  {
+    "subject": "Fluência de Dados",
+    "topic": "SQL Avançado, Agrupamento e Normalização",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Em um banco de dados relacional de auditoria tributária da Receita Federal, existe a tabela \"declaracoes_importacao\" com as colunas: \"id_di\", \"cnpj_importador\", \"valor_cif\", \"data_registro\" e \"canal_desembaraco\". O auditor fiscal necessita listar o CNPJ de todos os importadores cujo somatório do \"valor_cif\" de declarações registradas no ano de 2024 ultrapasse R$ 5.000.000,00. A cláusula SQL correta para filtrar essa condição de agregação pós-agrupamento é:",
+    "options": [
+      "A) WHERE SUM(valor_cif) > 5000000",
+      "B) GROUP BY cnpj_importador HAVING SUM(valor_cif) > 5000000",
+      "C) ORDER BY SUM(valor_cif) FILTER (valor_cif > 5000000)",
+      "D) QUALIFY cnpj_importador WHERE valor_cif > 5000000",
+      "E) JOIN ON SUM(valor_cif) > 5000000 GROUP BY id_di"
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. No padrão SQL, filtros sobre funções agregadas após o GROUP BY devem ser declarados na cláusula HAVING."
+  },
+  {
+    "subject": "Fluência de Dados",
+    "topic": "Data Warehouse, Modelagem Dimensional e Big Data",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - CGU - Auditor Federal de Controle) Em arquiteturas de Business Intelligence (BI) e Data Warehousing utilizadas no combate a fraudes e análise fiscal, a modelagem dimensional destaca-se pela estruturação de Tabelas Fato e Tabelas Dimensão. Sobre as características da Tabela Fato e do Esquema Estrela (Star Schema), assinale a afirmativa correta:",
+    "options": [
+      "A) A Tabela Fato armazena atributos textuais e descritivos altamente normalizados na 3ª Forma Normal.",
+      "B) A Tabela Fato contém métricas quantitativas (medidas) do processo de negócio e chaves estrangeiras que referenciam as dimensões circundantes.",
+      "C) No Esquema Estrela, todas as tabelas dimensão são desmembradas em hierarquias normalizadas no modelo Snowflake.",
+      "D) Tabelas dimensão não admitem atributos categóricos temporais como data, trimestre ou mês.",
+      "E) O Data Lake substitui integralmente a necessidade de modelagem dimensional em qualquer ambiente corporativo."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Na modelagem dimensional de Kimball, a Tabela Fato armazena as métricas numéricas do evento e as FKs para as dimensões."
+  },
+  {
+    "subject": "Contabilidade Geral",
+    "topic": "Balanço Patrimonial, CPC 16 Estoques e DRE",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) A empresa Beta Comercial adquiriu mercadorias para revenda pelo valor faturado bruto de R$ 100.000,00. Na operação, havia R$ 18.000,00 de ICMS recuperável destacado na nota fiscal e a empresa contratou frete sobre compras no valor de R$ 5.000,00 com ICMS recuperável de R$ 600,00. Adicionalmente, incorreu em seguro de transporte de R$ 2.000,00 (sem tributos). De acordo com o Pronunciamento Técnico CPC 16 (Estoques), o custo de aquisição a ser registrado no Ativo Circulante (Estoques) é de:",
+    "options": [
+      "A) R$ 107.000,00",
+      "B) R$ 88.400,00",
+      "C) R$ 100.000,00",
+      "D) R$ 82.000,00",
+      "E) R$ 92.600,00"
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Custo de Aquisição = 100.000 - 18.000 (ICMS) + 5.000 (Frete) - 600 (ICMS Frete) + 2.000 (Seguro) = R$ 88.400,00."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação, Ambiguidade e Sintaxe FGV",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Considere o seguinte período extraído de um relatório de inteligência fiscal: \"O auditor fiscal examinou as declarações das empresas com atenção redobrada, visto que as inconsistências detectadas pelos algoritmos sinalizavam potenciais fraudes tributárias\". No tocante à estrutura morfossintática e semântica do enunciado, assinale a afirmativa correta:",
+    "options": [
+      "A) A locução \"visto que\" introduz uma oração subordinada adverbial consecutiva, exprimindo o efeito ou resultado da ação principal.",
+      "B) A locução \"com atenção redobrada\" funciona sintaticamente como adjunto adnominal do sujeito \"O auditor fiscal\".",
+      "C) A locução conjuntiva \"visto que\" possui valor semântico causal e pode ser substituída, sem alteração de sentido e correção gramatical, por \"uma vez que\" ou \"já que\".",
+      "D) O termo \"pelos algoritmos\" exerce a função de adjunto adverbial de meio, sendo facultativa a concordância nominal.",
+      "E) A substituição de \"examinou\" por \"examinara\" converteria a oração principal para o futuro do pretérito do indicativo."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. A locução conjuntiva \"visto que\" é subordinativa adverbial causal, equivalente a \"uma vez que\", \"já que\" e \"porque\"."
+  },
+  {
+    "subject": "Raciocínio Lógico Matemático",
+    "topic": "Lógica Proposicional e Equivalências Lógicas",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Considere a seguinte proposição composta P: \"Se o contribuinte omitir receitas na Declaração de Ajuste Anual, então o Fisco efetuará o lançamento de ofício da diferença com multa qualificada\". De acordo com as leis de De Morgan e as equivalências do cálculo proposicional, uma proposição logicamente equivalente a P é:",
+    "options": [
+      "A) Se o Fisco efetuar o lançamento de ofício com multa qualificada, então o contribuinte omitiu receitas.",
+      "B) O contribuinte omitiu receitas e o Fisco não efetuou o lançamento de ofício.",
+      "C) O contribuinte não omitiu receitas na Declaração de Ajuste Anual ou o Fisco efetuará o lançamento de ofício da diferença com multa qualificada.",
+      "D) Se o contribuinte não omitir receitas, o Fisco não efetuará o lançamento.",
+      "E) O contribuinte omitiu receitas se, e somente se, o Fisco efetuar o lançamento."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. A condicional (p -> q) é equivalente a (~p v q): \"O contribuinte não omitiu receitas OU o Fisco efetuará o lançamento\"."
+  },
+  {
+    "subject": "Estatística",
+    "topic": "Estatística Descritiva e Medidas de Dispersão",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Auditor Fiscal) Uma amostra de 5 processos fiscais aduaneiros apresentou os seguintes tempos de tramitação (em dias úteis): 10, 12, 14, 16, 18. A média aritmética, a mediana e o desvio padrão amostral dessa série de dados são, respectivamente:",
+    "options": [
+      "A) Média: 14; Mediana: 14; Desvio Padrão: 3,16 dias.",
+      "B) Média: 15; Mediana: 12; Desvio Padrão: 4,00 dias.",
+      "C) Média: 14; Mediana: 16; Desvio Padrão: 2,50 dias.",
+      "D) Média: 13; Mediana: 14; Desvio Padrão: 5,20 dias.",
+      "E) Média: 14; Mediana: 14; Desvio Padrão: 0,00 dias."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: Letra A. Média = 70/5 = 14; Mediana = 14; Variância = 40/4 = 10; Desvio Padrão = raiz(10) ≈ 3,16."
+  },
+  {
+    "subject": "Administração Geral e Pública",
+    "topic": "Planejamento Estratégico e Governança",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) O Balanced Scorecard (BSC), desenvolvido por Robert Kaplan e David Norton, é uma metodologia consagrada de alinhamento e gestão estratégica. Ao ser adaptado para organizações do Setor Público, como a Receita Federal do Brasil, o BSC sofre uma alteração conceitual de hierarquia em que a perspectiva que se posiciona no topo da cadeia de valor institucional é:",
+    "options": [
+      "A) Perspectiva Financeira de Lucratividade Máxima e Retorno aos Acionistas.",
+      "B) Perspectiva dos Clientes / Cidadão-Sociedade e Resultados Institucionais para o País.",
+      "C) Perspectiva de Redução Compulsória de Pessoal e Corte de Investimentos em TI.",
+      "D) Perspectiva de Processos Internos de Fiscalização sem Foco em Atendimento.",
+      "E) Perspectiva de Aprendizado e Crescimento Exclusivo dos Gestores de Cúpula."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. No setor público, o topo do mapa estratégico no BSC é a perspectiva dos Cidadãos/Sociedade e cumprimento da missão pública."
+  },
+  {
+    "subject": "Língua Inglesa",
+    "topic": "Comércio Exterior e Tributação Internacional",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - Receita Federal - Analista-Tributário) Read the excerpt below from the World Customs Organization (WCO): \"Trade facilitation involves the simplification, harmonization, and standardization of import and export procedures, notably through automated risk management and authorized economic operator programs.\" According to the text, trade facilitation aims primarily to:",
+    "options": [
+      "A) Impose stricter trade embargoes and mandatory inspection of 100% of physical cargo.",
+      "B) Streamline and standardize cross-border trade procedures using automation and risk-based compliance programs.",
+      "C) Eliminate all customs duties and trade tariffs universally among developing nations.",
+      "D) Restrict electronic data exchange and promote paper-based clearance documentation.",
+      "E) Prohibit the participation of private economic operators in global logistics supply chains."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. A facilitação do comércio busca desburocratizar e padronizar procedimentos fronteiriços com gestão de risco e programas OEA."
+  }
+]

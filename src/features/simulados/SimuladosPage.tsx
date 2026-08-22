@@ -3,6 +3,8 @@ import { Card, Button, CarimboStatus, ProgressBar, Badge } from '../../component
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
 import { getLessonContent } from '../../utils/studyContent';
+import { api } from '../../api/client';
+import { useToast } from '../../components/Toast';
 import { 
   Timer, 
   FileText, 
@@ -13,21 +15,46 @@ import {
   Award, 
   Clock, 
   Sparkles,
-  RotateCcw
+  RotateCcw,
+  BookOpen,
+  Filter,
+  CheckCircle2,
+  ChevronRight,
+  Flame,
+  Zap,
+  HelpCircle,
+  Bookmark
 } from 'lucide-react';
 
 interface SimuladosPageProps {
   careerId: string;
 }
 
-// Componente isolado para o display de timer ao vivo (evita re-renders na página inteira)
+export type SimuladoModo = 'materia' | 'treino_rapido' | 'vulnerabilidades' | 'dia_d';
+
+interface QuestionItem {
+  id: number;
+  subject: string;
+  topic?: string;
+  banca?: string;
+  question_text?: string;
+  question?: string;
+  options: any;
+  correct_index?: number;
+  answer?: string;
+  explanation?: string;
+}
+
+// Componente isolado para o display de timer ao vivo
 const ExamLiveTimerDisplay: React.FC<{
-  modoProva: 'treino_rapido' | 'dia_d' | 'vulnerabilidades';
+  modoProva: SimuladoModo;
+  timeLimitMinutes?: number;
   onTick: (elapsed: number) => void;
   onTimeExpired: () => void;
-}> = React.memo(({ modoProva, onTick, onTimeExpired }) => {
+}> = React.memo(({ modoProva, timeLimitMinutes, onTick, onTimeExpired }) => {
   const [seconds, setSeconds] = useState(0);
-  const [remainingDiaD, setRemainingDiaD] = useState(4 * 3600);
+  const totalLimitSecs = (timeLimitMinutes || (modoProva === 'dia_d' ? 270 : 60)) * 60;
+  const [remainingSecs, setRemainingSecs] = useState(totalLimitSecs);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -36,18 +63,16 @@ const ExamLiveTimerDisplay: React.FC<{
         onTick(next);
         return next;
       });
-      if (modoProva === 'dia_d') {
-        setRemainingDiaD((prev) => {
-          if (prev <= 1) {
-            onTimeExpired();
-            return 0;
-          }
-          return prev - 1;
-        });
-      }
+      setRemainingSecs((prev) => {
+        if (prev <= 1) {
+          onTimeExpired();
+          return 0;
+        }
+        return prev - 1;
+      });
     }, 1000);
     return () => clearInterval(interval);
-  }, [modoProva, onTick, onTimeExpired]);
+  }, [modoProva, timeLimitMinutes, onTick, onTimeExpired]);
 
   const format = (totalSecs: number) => {
     const hours = Math.floor(totalSecs / 3600);
@@ -60,8 +85,12 @@ const ExamLiveTimerDisplay: React.FC<{
   };
 
   return (
-    <span>
-      {modoProva === 'dia_d' ? `RESTANTE: ${format(remainingDiaD)}` : `TEMPO: ${format(seconds)}`}
+    <span className="flex items-center gap-2">
+      <span>TEMPO: {format(seconds)}</span>
+      <span className="text-[var(--text-muted)] font-normal">|</span>
+      <span className={remainingSecs < 300 ? 'text-[var(--accent-danger)] font-bold animate-pulse' : 'text-[var(--accent-warning)]'}>
+        RESTANTE: {format(remainingSecs)}
+      </span>
     </span>
   );
 });
@@ -69,27 +98,29 @@ const ExamLiveTimerDisplay: React.FC<{
 export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const currentCareer = getCareerById(careerId);
   const careerSubjects = getSubjectsForCareer(careerId);
-  
-  // Constrói o banco de questões oficial para o concurso ativo
-  const careerQuestions = careerSubjects.map((subj, idx) => {
-    const lesson = getLessonContent(subj.name);
-    return {
-      id: idx + 1,
-      subject: subj.name,
-      banca: currentCareer.banca,
-      question: lesson.question.question,
-      options: lesson.question.options,
-      answer: lesson.question.answer,
-      explanation: lesson.question.explanation
-    };
-  });
+  const { success, error: toastError, info } = useToast();
 
-  const [modoProva, setModoModo] = useState<'treino_rapido' | 'dia_d' | 'vulnerabilidades'>('treino_rapido');
+  const [modoProva, setModoModo] = useState<SimuladoModo>('materia');
   const [examRunning, setExamRunning] = useState(false);
+  const [loadingSimulado, setLoadingSimulado] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [answers, setAnswers] = useState<{ [key: number]: string }>({});
+  const [answers, setAnswers] = useState<{ [key: number]: number | string }>({});
   const [finished, setFinished] = useState(false);
-  
+  const [activeSimuladoId, setActiveSimuladoId] = useState<number | null>(null);
+
+  // Configurações do Simulado por Matéria
+  const [selectedSubject, setSelectedSubject] = useState<string>(careerSubjects[0]?.name || 'Direito Tributário');
+  const [selectedQuestionCount, setSelectedQuestionCount] = useState<number>(20);
+  const [selectedScopeMode, setSelectedScopeMode] = useState<'studied_only' | 'full_edital' | 'errors_only'>('studied_only');
+
+  // Reconhecimento do que foi estudado
+  const [studiedScope, setStudiedScope] = useState<string[]>([]);
+  const [studiedScopeCount, setStudiedScopeCount] = useState<number>(0);
+
+  // Lista dinâmica de questões do exame ativo
+  const [questionsList, setQuestionsList] = useState<QuestionItem[]>([]);
+  const [examResult, setExamResult] = useState<any>(null);
+
   // Final Time recorded upon exam completion
   const [finalTimeSeconds, setFinalTimeSeconds] = useState(0);
   const elapsedSecondsRef = useRef(0);
@@ -97,6 +128,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   // Sub-abas durante o Dia D
   const [diaDTab, setDiaDTab] = useState<'questoes' | 'cartao_resposta' | 'redacao'>('questoes');
   const [textoRedacao, setTextoRedacao] = useState('');
+
+  // Carrega escopo estudado ao montar ou mudar de carreira
+  useEffect(() => {
+    loadStudiedScope();
+  }, [careerId]);
 
   // Reseta ao trocar de carreira
   useEffect(() => {
@@ -107,7 +143,29 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     setFinalTimeSeconds(0);
     elapsedSecondsRef.current = 0;
     setTextoRedacao('');
+    setActiveSimuladoId(null);
+    setExamResult(null);
+    if (careerSubjects.length > 0) {
+      setSelectedSubject(careerSubjects[0].name);
+    }
   }, [careerId]);
+
+  const loadStudiedScope = async () => {
+    try {
+      const res = await api.getStudiedScope(careerId);
+      if (res && res.studiedSubjects) {
+        setStudiedScope(res.studiedSubjects);
+        setStudiedScopeCount(res.studiedMaterialsCount || 0);
+      }
+    } catch (err) {
+      console.warn('Erro ao carregar escopo de estudos:', err);
+    }
+  };
+
+  const isSubjectStudied = (subjName: string) => {
+    const lower = subjName.toLowerCase().trim();
+    return studiedScope.some(s => s.toLowerCase().trim().includes(lower) || lower.includes(s.toLowerCase().trim()));
+  };
 
   const formatTimer = (totalSecs: number) => {
     const hours = Math.floor(totalSecs / 3600);
@@ -119,51 +177,219 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
   };
 
-  const handleSelectAnswer = (qIndex: number, letter: string) => {
+  // Iniciar Simulado Dinâmico (via Backend)
+  const handleStartExam = async (mode: SimuladoModo) => {
+    setModoModo(mode);
+    setLoadingSimulado(true);
+    setAnswers({});
+    setCurrentQuestionIndex(0);
+    setFinished(false);
+    setExamResult(null);
+    elapsedSecondsRef.current = 0;
+
+    try {
+      if (mode === 'materia') {
+        if (selectedScopeMode === 'studied_only' && !isSubjectStudied(selectedSubject) && studiedScope.length > 0) {
+          info(
+            '💡 Dica de Estudo',
+            `Você ainda não registrou estudo formal de ${selectedSubject}. O simulado usará questões do Edital Completo padrão FGV.`
+          );
+        }
+
+        const res = await api.createSubjectSimulado({
+          subject: selectedSubject,
+          questionCount: selectedQuestionCount,
+          banca: currentCareer.banca || 'FGV',
+          scopeMode: selectedScopeMode,
+          careerId
+        });
+
+        if (res && res.simuladoId) {
+          setActiveSimuladoId(res.simuladoId);
+          const fullSim = await api.getSimuladoById(res.simuladoId);
+          if (fullSim && fullSim.questions && fullSim.questions.length > 0) {
+            setQuestionsList(fullSim.questions);
+            setExamRunning(true);
+            success(
+              '🎯 Simulado Iniciado!',
+              `Carregadas ${fullSim.questions.length} questões de ${selectedSubject} no padrão ${res.banca}.`
+            );
+          } else {
+            throw new Error('Nenhuma questão retornada para este simulado.');
+          }
+        }
+      } else if (mode === 'vulnerabilidades') {
+        const res = await api.request<any>('/simulados/create-from-errors', {
+          method: 'POST',
+          body: JSON.stringify({ careerId, limit: 15 })
+        });
+        if (res && res.simuladoId) {
+          setActiveSimuladoId(res.simuladoId);
+          const fullSim = await api.getSimuladoById(res.simuladoId);
+          setQuestionsList(fullSim.questions || []);
+          setExamRunning(true);
+          success('🛡️ Re-treino Iniciado!', `Simulado gerado com ${fullSim.questions.length} questões do seu Caderno de Erros.`);
+        }
+      } else if (mode === 'dia_d') {
+        const res = await api.createSimulado(careerId, 140);
+        if (res && (res as any).id) {
+          const simId = (res as any).id;
+          setActiveSimuladoId(simId);
+          const fullSim = await api.getSimuladoById(simId);
+          setQuestionsList(fullSim.questions || []);
+          setExamRunning(true);
+          success('🏛️ Dia D Iniciado!', 'Simulação oficial iniciada com 140 questões e 4h30 de prova.');
+        } else {
+          setQuestionsList(buildFallbackQuestions());
+          setExamRunning(true);
+        }
+      } else {
+        const res = await api.createSimulado(careerId, 10);
+        if (res && (res as any).id) {
+          const simId = (res as any).id;
+          setActiveSimuladoId(simId);
+          const fullSim = await api.getSimuladoById(simId);
+          setQuestionsList(fullSim.questions || []);
+          setExamRunning(true);
+        } else {
+          setQuestionsList(buildFallbackQuestions());
+          setExamRunning(true);
+        }
+      }
+    } catch (err: any) {
+      console.warn('Erro ao criar simulado no backend, usando acervo local:', err.message);
+      setQuestionsList(buildFallbackQuestions());
+      setExamRunning(true);
+      toastError('Aviso: Simulado gerado a partir do acervo local da carreira.');
+    } finally {
+      setLoadingSimulado(false);
+    }
+  };
+
+  const buildFallbackQuestions = () => {
+    return careerSubjects.map((subj, idx) => {
+      const lesson = getLessonContent(subj.name);
+      return {
+        id: idx + 1,
+        subject: subj.name,
+        banca: currentCareer.banca,
+        question_text: lesson.question.question,
+        options: lesson.question.options,
+        correct_index: ['A', 'B', 'C', 'D', 'E'].indexOf(lesson.question.answer),
+        answer: lesson.question.answer,
+        explanation: lesson.question.explanation
+      };
+    });
+  };
+
+  const handleSelectAnswer = (qIndex: number, letterOrIdx: string | number) => {
     if (finished) return;
     setAnswers(prev => ({
       ...prev,
-      [qIndex]: letter
+      [qIndex]: letterOrIdx
     }));
   };
 
-  const handleFinishExam = useCallback(() => {
+  const handleFinishExam = useCallback(async () => {
     setFinalTimeSeconds(elapsedSecondsRef.current);
     setFinished(true);
-  }, []);
+
+    if (activeSimuladoId) {
+      try {
+        const formattedAnswers: { [key: number]: number } = {};
+        questionsList.forEach((q, idx) => {
+          const raw = answers[idx];
+          if (raw !== undefined && raw !== null) {
+            if (typeof raw === 'number') {
+              formattedAnswers[q.id] = raw;
+            } else {
+              const letterIndex = ['A', 'B', 'C', 'D', 'E'].indexOf(String(raw).toUpperCase());
+              formattedAnswers[q.id] = letterIndex !== -1 ? letterIndex : 0;
+            }
+          }
+        });
+
+        const res = await api.finishSimulado(activeSimuladoId, {
+          answers: formattedAnswers,
+          timeSpentSeconds: elapsedSecondsRef.current
+        });
+        setExamResult(res);
+        success('🏆 Simulado Concluído!', `Desempenho: ${res.accuracyPct || 0}% (${res.acertos || 0}/${res.total || questionsList.length}).`);
+      } catch (err: any) {
+        console.error('Erro ao finalizar simulado no backend:', err);
+      }
+    }
+  }, [activeSimuladoId, answers, questionsList, success]);
 
   const handleTimerTick = useCallback((elapsed: number) => {
     elapsedSecondsRef.current = elapsed;
   }, []);
 
-  // Cálculos de desempenho
-  const questionsList = careerQuestions.length > 0 ? careerQuestions : [
-    {
-      id: 1,
-      subject: "Língua Portuguesa",
-      banca: currentCareer.banca,
-      question: "Assinale a opção em que a regência verbal atende rigorosamente ao padrão culto da língua.",
-      options: { A: "Visou ao cargo.", B: "Visou o cargo.", C: "Assistiu o filme.", D: "Prefere café do que chá." },
-      answer: "A",
-      explanation: "O verbo visar no sentido de almejar é transitivo indireto com preposição 'a'."
-    }
-  ];
-
   const totalQuestions = questionsList.length;
   const answeredCount = Object.keys(answers).length;
   let correctCount = 0;
 
+  const activeQ = questionsList[currentQuestionIndex] || questionsList[0] || {
+    id: 1,
+    subject: selectedSubject,
+    banca: currentCareer.banca,
+    question_text: "Aguardando questões...",
+    options: { A: "Opção A", B: "Opção B", C: "Opção C", D: "Opção D", E: "Opção E" },
+    correct_index: 0,
+    answer: "A",
+    explanation: ""
+  };
+
+  const getNormalizedOptions = (q: QuestionItem): { [key: string]: string } => {
+    if (!q || !q.options) return { A: "Opção A", B: "Opção B", C: "Opção C", D: "Opção D", E: "Opção E" };
+    if (typeof q.options === 'string') {
+      try {
+        const parsed = JSON.parse(q.options);
+        if (Array.isArray(parsed)) {
+          const obj: { [key: string]: string } = {};
+          parsed.forEach((opt, idx) => {
+            const letter = String.fromCharCode(65 + idx);
+            obj[letter] = opt.replace(/^[A-E]\)\s*/, '');
+          });
+          return obj;
+        }
+        return parsed;
+      } catch (e) {
+        return { A: q.options };
+      }
+    }
+    if (Array.isArray(q.options)) {
+      const obj: { [key: string]: string } = {};
+      q.options.forEach((opt, idx) => {
+        const letter = String.fromCharCode(65 + idx);
+        obj[letter] = typeof opt === 'string' ? opt.replace(/^[A-E]\)\s*/, '') : String(opt);
+      });
+      return obj;
+    }
+    return q.options;
+  };
+
+  const getCorrectLetter = (q: QuestionItem): string => {
+    if (q.answer) return q.answer;
+    if (q.correct_index !== undefined && q.correct_index !== null) {
+      return String.fromCharCode(65 + q.correct_index);
+    }
+    return 'A';
+  };
+
   if (finished) {
     questionsList.forEach((q, idx) => {
-      if (answers[idx] === q.answer) {
-        correctCount += 1;
-      }
+      const userAns = answers[idx];
+      const correctLetter = getCorrectLetter(q);
+      const isCorrect = typeof userAns === 'number' 
+        ? userAns === (q.correct_index !== undefined ? q.correct_index : 0)
+        : String(userAns).toUpperCase() === correctLetter.toUpperCase();
+
+      if (isCorrect) correctCount += 1;
     });
   }
 
   const scorePct = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
-  const activeQ = questionsList[currentQuestionIndex] || questionsList[0];
-
   const wordCount = textoRedacao.trim() ? textoRedacao.trim().split(/\s+/).length : 0;
   const lineCount = textoRedacao.split('\n').filter(l => l.trim().length > 0).length || (wordCount > 0 ? Math.ceil(wordCount / 10) : 0);
 
@@ -174,21 +400,22 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
         <div>
           <div className="flex items-center gap-3">
             <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
-              Simulados Oficiais & Dia D de Prova
+              Simulados & Treino Real de Prova
             </h1>
-            <CarimboStatus status="homologado" label={`BANCA ${currentCareer.banca}`} />
+            <CarimboStatus status="homologado" label={`PADRÃO OFICIAL ${currentCareer.banca}`} />
           </div>
           <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
-            Treino realístico para {currentCareer.name.split('—')[0]} com Cartão-Resposta e Redação Integrada
+            Simulados por Matéria (20 a 50 questões), Filtro Sincronizado e Dia D para {currentCareer.name}
           </p>
         </div>
 
         {examRunning && !finished && (
           <div className="flex items-center gap-4">
-            <div className="px-4 py-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-sm font-bold text-[var(--text-primary)] flex items-center gap-2 shadow-sm">
+            <div className="px-4 py-2 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs sm:text-sm font-bold text-[var(--text-primary)] flex items-center gap-2 shadow-sm">
               <span className="text-[var(--accent-danger)]">●</span>
               <ExamLiveTimerDisplay
                 modoProva={modoProva}
+                timeLimitMinutes={modoProva === 'materia' ? selectedQuestionCount * 2 : undefined}
                 onTick={handleTimerTick}
                 onTimeExpired={handleFinishExam}
               />
@@ -197,18 +424,184 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               variant="brand"
               size="sm"
               onClick={handleFinishExam}
-              className="font-sans text-xs"
+              className="font-sans text-xs font-bold shadow-sm"
             >
-              Entregar Prova
+              Entregar Simulado
             </Button>
           </div>
         )}
       </div>
 
-      {/* Tela Pré-Prova (Seleção de Modo) */}
+      {/* Tela Pré-Prova (Seleção de Modo e Simulado por Matéria) */}
       {!examRunning && !finished && (
         <div className="space-y-6">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 items-stretch">
+          
+          {/* DESTAQUE PRINCIPAL: SIMULADO POR MATÉRIA (20 A 50 QUESTÕES) */}
+          <Card className="p-6 sm:p-7 bg-[var(--bg-surface)] border-2 border-[var(--accent-primary)] rounded-3xl shadow-lg relative overflow-hidden">
+            <div className="absolute top-0 right-0 p-4 opacity-10 pointer-events-none">
+              <Sparkles className="w-32 h-32 text-[var(--accent-primary)]" />
+            </div>
+
+            <div className="space-y-6 relative z-10">
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
+                <div className="space-y-1">
+                  <div className="flex items-center gap-2">
+                    <span className="px-2.5 py-0.5 rounded-full text-xs font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30">
+                      NOVO • DRILL INTENSIVO
+                    </span>
+                    <span className="text-xs font-mono font-bold text-[var(--accent-warning)]">
+                      🎯 BANCA {currentCareer.banca}
+                    </span>
+                  </div>
+                  <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)]">
+                    Simulado Específico por Disciplina (20 a 50 Questões)
+                  </h2>
+                  <p className="text-xs text-[var(--text-secondary)] leading-relaxed max-w-3xl">
+                    Treine com volume concentrado em uma única matéria com enunciados longos, casos práticos e pegadinhas reais no estilo da banca {currentCareer.banca}.
+                  </p>
+                </div>
+              </div>
+
+              {/* Controles de Configuração do Simulado por Matéria */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+                
+                {/* 1. Seletor de Disciplina */}
+                <div className="space-y-2">
+                  <label className="text-xs font-sans font-bold text-[var(--text-primary)] flex items-center justify-between">
+                    <span>1. Escolha a Disciplina:</span>
+                    {isSubjectStudied(selectedSubject) && (
+                      <span className="text-xs text-[var(--accent-success)] flex items-center gap-1 font-mono font-normal">
+                        <CheckCircle2 className="w-3.5 h-3.5" /> Estudada
+                      </span>
+                    )}
+                  </label>
+                  <select
+                    value={selectedSubject}
+                    onChange={(e) => setSelectedSubject(e.target.value)}
+                    className="w-full px-3.5 py-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] font-medium outline-none focus:border-[var(--accent-primary)] focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] shadow-xs"
+                  >
+                    {careerSubjects.map((s) => {
+                      const studied = isSubjectStudied(s.name);
+                      return (
+                        <option key={s.name} value={s.name}>
+                          {studied ? '✅ ' : '⏳ '} {s.name} ({s.weight})
+                        </option>
+                      );
+                    })}
+                  </select>
+                  <span className="text-xs text-[var(--text-muted)] block">
+                    {careerSubjects.find(s => s.name === selectedSubject)?.weight || 'Peso de Prova'}
+                  </span>
+                </div>
+
+                {/* 2. Quantidade de Questões */}
+                <div className="space-y-2">
+                  <label className="text-xs font-sans font-bold text-[var(--text-primary)] block">
+                    2. Volume de Questões:
+                  </label>
+                  <div className="grid grid-cols-3 gap-2">
+                    {[
+                      { count: 20, time: '40 min' },
+                      { count: 30, time: '60 min' },
+                      { count: 50, time: '100 min' }
+                    ].map((qOpt) => (
+                      <button
+                        key={qOpt.count}
+                        type="button"
+                        onClick={() => setSelectedQuestionCount(qOpt.count)}
+                        className={`p-2.5 rounded-xl border text-xs font-mono font-bold transition-all text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
+                          selectedQuestionCount === qOpt.count
+                            ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-sm'
+                            : 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:border-[var(--accent-primary)]/50'
+                        }`}
+                      >
+                        <div className="font-display font-bold text-sm">{qOpt.count}Q</div>
+                        <div className="text-[10px] font-normal opacity-80">{qOpt.time}</div>
+                      </button>
+                    ))}
+                  </div>
+                  <span className="text-xs text-[var(--text-muted)] block">
+                    Tempo recomendado: 2 min por questão.
+                  </span>
+                </div>
+
+                {/* 3. Filtro de Escopo e Reconhecimento */}
+                <div className="space-y-2">
+                  <label className="text-xs font-sans font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                    <Filter className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+                    <span>3. Filtro de Escopo:</span>
+                  </label>
+                  <div className="space-y-1.5">
+                    <label className="flex items-center gap-2 p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] cursor-pointer text-xs">
+                      <input
+                        type="radio"
+                        name="scopeMode"
+                        checked={selectedScopeMode === 'studied_only'}
+                        onChange={() => setSelectedScopeMode('studied_only')}
+                        className="accent-[var(--accent-primary)]"
+                      />
+                      <span className="text-[var(--text-primary)] font-medium">
+                        🎯 <strong>Sincronizado:</strong> Apenas o que estudei
+                      </span>
+                    </label>
+
+                    <label className="flex items-center gap-2 p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] cursor-pointer text-xs">
+                      <input
+                        type="radio"
+                        name="scopeMode"
+                        checked={selectedScopeMode === 'full_edital'}
+                        onChange={() => setSelectedScopeMode('full_edital')}
+                        className="accent-[var(--accent-primary)]"
+                      />
+                      <span className="text-[var(--text-primary)] font-medium">
+                        🌐 <strong>Edital Completo:</strong> Todos os tópicos
+                      </span>
+                    </label>
+
+                    <label className="flex items-center gap-2 p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] cursor-pointer text-xs">
+                      <input
+                        type="radio"
+                        name="scopeMode"
+                        checked={selectedScopeMode === 'errors_only'}
+                        onChange={() => setSelectedScopeMode('errors_only')}
+                        className="accent-[var(--accent-primary)]"
+                      />
+                      <span className="text-[var(--text-primary)] font-medium">
+                        ⚠️ <strong>Erros:</strong> Questões que errei
+                      </span>
+                    </label>
+                  </div>
+                </div>
+
+              </div>
+
+              {/* Botão de Iniciar Simulado por Matéria */}
+              <div className="pt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-t border-[var(--border-subtle)]">
+                <div className="text-xs font-mono text-[var(--text-muted)] flex items-center gap-2">
+                  <Bookmark className="w-4 h-4 text-[var(--accent-primary)]" />
+                  <span>
+                    Escopo Reconhecido: <strong>{studiedScope.length} matérias</strong> com estudo registrado no seu acervo.
+                  </span>
+                </div>
+
+                <Button
+                  variant="brand"
+                  size="md"
+                  onClick={() => handleStartExam('materia')}
+                  disabled={loadingSimulado}
+                  className="font-sans text-xs font-bold px-6 py-3 shadow-md flex items-center gap-2"
+                >
+                  <Zap className="w-4 h-4" />
+                  <span>{loadingSimulado ? 'Gerando Questões FGV...' : `Iniciar Simulado de ${selectedSubject} (${selectedQuestionCount}Q)`}</span>
+                  <ChevronRight className="w-4 h-4" />
+                </Button>
+              </div>
+            </div>
+          </Card>
+
+          {/* DEMAIS MODALIDADES DE SIMULADO */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 items-stretch pt-2">
+            
             {/* Modo 1: Treino Rápido */}
             <Card 
               className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
@@ -220,38 +613,37 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
-                  <Badge variant="brand">MODO ÁGIL</Badge>
+                  <Badge variant="brand">MODO ÁGIL • 10Q</Badge>
                   <div className="p-2 rounded-xl bg-[var(--accent-primary)]/10 text-[var(--accent-primary)]">
                     <Clock className="w-5 h-5" />
                   </div>
                 </div>
                 <div>
                   <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                    Simulado Rápido de Treino
+                    Treino Rápido Geral
                   </h3>
                   <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
-                    Resolva as {totalQuestions} questões representativas no seu ritmo com cronômetro progressivo e gabarito comentado imediato.
+                    10 questões mistas de todas as disciplinas do edital para aquecimento ágil de 15 minutos com gabarito imediato.
                   </p>
                 </div>
               </div>
               
               <div className="pt-6 mt-auto">
                 <Button 
-                  variant={modoProva === 'treino_rapido' ? 'brand' : 'outline'}
+                  variant="outline"
                   fullWidth
                   onClick={(e) => {
                     e.stopPropagation();
-                    setModoModo('treino_rapido');
-                    setExamRunning(true);
+                    handleStartExam('treino_rapido');
                   }}
                   className="font-sans text-xs font-bold min-h-[44px]"
                 >
-                  Iniciar Treino Rápido
+                  Iniciar Treino Rápido (10Q)
                 </Button>
               </div>
             </Card>
 
-            {/* Modo 2: Treino de Vulnerabilidades */}
+            {/* Modo 2: Radar de Vulnerabilidades */}
             <Card 
               className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
                 modoProva === 'vulnerabilidades' 
@@ -262,7 +654,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
-                  <Badge variant="danger">FOCO EM PONTOS FRACOS</Badge>
+                  <Badge variant="danger">CADERNO DE ERROS</Badge>
                   <div className="p-2 rounded-xl bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)]">
                     <AlertTriangle className="w-5 h-5" />
                   </div>
@@ -272,23 +664,22 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     Radar de Vulnerabilidades
                   </h3>
                   <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
-                    Treino direcionado com base no seu <strong>Caderno de Erros</strong> e disciplinas de maior incidência estatística da banca.
+                    Re-treine exclusivamente as questões que você já errou em simulados anteriores para blindar pontos fracos.
                   </p>
                 </div>
               </div>
 
               <div className="pt-6 mt-auto">
                 <Button 
-                  variant={modoProva === 'vulnerabilidades' ? 'brand' : 'outline'}
+                  variant="outline"
                   fullWidth
-                  className={modoProva === 'vulnerabilidades' ? 'bg-[var(--accent-danger)] hover:bg-[var(--accent-danger)]/90 text-white font-sans text-xs font-bold min-h-[44px]' : 'font-sans text-xs font-bold min-h-[44px]'}
+                  className="border-[var(--accent-danger)] text-[var(--accent-danger)] hover:bg-[var(--color-status-danger-bg)] font-sans text-xs font-bold min-h-[44px]"
                   onClick={(e) => {
                     e.stopPropagation();
-                    setModoModo('vulnerabilidades');
-                    setExamRunning(true);
+                    handleStartExam('vulnerabilidades');
                   }}
                 >
-                  Iniciar Treino Crítico
+                  Re-treinar Meus Erros
                 </Button>
               </div>
             </Card>
@@ -304,7 +695,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
-                  <Badge variant="warning">IMERSÃO TOTAL • 4 HORAS</Badge>
+                  <Badge variant="warning">IMERSÃO TOTAL • 4H30</Badge>
                   <div className="p-2 rounded-xl bg-[var(--accent-amber-bg)] text-[var(--accent-warning)]">
                     <Award className="w-5 h-5" />
                   </div>
@@ -314,31 +705,31 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     Simulação Oficial "Dia D"
                   </h3>
                   <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
-                    4h contínuas com <strong>Cartão-Resposta Digital</strong> e <strong>Redação Oficial</strong> no mesmo bloco temporal de prova.
+                    140 questões cronometradas, <strong>Cartão-Resposta Digital</strong> e <strong>Redação Oficial Discursiva</strong>.
                   </p>
                 </div>
               </div>
 
               <div className="pt-6 mt-auto">
                 <Button 
-                  variant={modoProva === 'dia_d' ? 'brand' : 'outline'}
+                  variant="outline"
                   fullWidth
-                  className={modoProva === 'dia_d' ? 'bg-[var(--accent-warning)] hover:bg-[var(--accent-warning)]/90 text-white font-sans text-xs font-bold min-h-[44px]' : 'font-sans text-xs font-bold min-h-[44px]'}
+                  className="border-[var(--accent-warning)] text-[var(--accent-warning)] hover:bg-[var(--accent-amber-bg)] font-sans text-xs font-bold min-h-[44px]"
                   onClick={(e) => {
                     e.stopPropagation();
-                    setModoModo('dia_d');
-                    setExamRunning(true);
+                    handleStartExam('dia_d');
                   }}
                 >
-                  Iniciar Dia D (4h)
+                  Iniciar Simulado Dia D (140Q)
                 </Button>
               </div>
             </Card>
+
           </div>
         </div>
       )}
 
-      {/* Prova em Andamento */}
+      {/* EXAME EM ANDAMENTO */}
       {examRunning && !finished && (
         <div className="space-y-6">
           {/* Seletor de visualização do Dia D */}
@@ -384,28 +775,29 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           )}
 
           {/* VISÃO 1: CADERNO DE QUESTÕES */}
-          {(modoProva === 'treino_rapido' || diaDTab === 'questoes') && (
+          {(modoProva !== 'dia_d' || diaDTab === 'questoes') && (
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
               {/* Question View (8 cols) */}
               <div className="lg:col-span-8 space-y-6">
-                <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
+                <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] rounded-2xl">
+                  
                   {/* Question Header */}
-                  <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
+                  <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)] flex-wrap gap-2">
                     <span className="text-xs font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider">
                       QUESTÃO {currentQuestionIndex + 1} DE {totalQuestions} • {activeQ.subject}
                     </span>
-                    <CarimboStatus status="homologado" label={`BANCA ${currentCareer.banca}`} />
+                    <CarimboStatus status="homologado" label={`BANCA ${activeQ.banca || currentCareer.banca}`} />
                   </div>
 
                   {/* Question Text */}
-                  <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans font-medium">
-                    {activeQ.question}
+                  <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans font-medium whitespace-pre-line">
+                    {activeQ.question_text || activeQ.question}
                   </p>
 
                   {/* Options */}
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                    {Object.entries(activeQ.options).map(([letter, text]) => {
-                      const isSelected = answers[currentQuestionIndex] === letter;
+                  <div className="grid grid-cols-1 gap-2.5">
+                    {Object.entries(getNormalizedOptions(activeQ)).map(([letter, text]) => {
+                      const isSelected = answers[currentQuestionIndex] === letter || answers[currentQuestionIndex] === ['A', 'B', 'C', 'D', 'E'].indexOf(letter);
 
                       return (
                         <div
@@ -413,7 +805,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                           onClick={() => handleSelectAnswer(currentQuestionIndex, letter)}
                           className={`p-4 rounded-xl border transition-all cursor-pointer select-none text-xs sm:text-sm flex items-start gap-3 min-h-[44px] ${
                             isSelected
-                              ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] shadow-sm'
+                              ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] shadow-sm font-semibold'
                               : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]'
                           }`}
                         >
@@ -438,16 +830,20 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                       variant="outline"
                       size="sm"
                       disabled={currentQuestionIndex === 0}
-                      onClick={() => setCurrentQuestionIndex((prev) => prev - 1)}
+                      onClick={() => setCurrentQuestionIndex((prev) => Math.max(0, prev - 1))}
                     >
                       &larr; Anterior
                     </Button>
+
+                    <span className="text-xs font-mono text-[var(--text-muted)]">
+                      {currentQuestionIndex + 1} de {totalQuestions}
+                    </span>
 
                     <Button
                       variant="brand"
                       size="sm"
                       disabled={currentQuestionIndex === totalQuestions - 1}
-                      onClick={() => setCurrentQuestionIndex((prev) => prev + 1)}
+                      onClick={() => setCurrentQuestionIndex((prev) => Math.min(totalQuestions - 1, prev + 1))}
                     >
                       Próxima &rarr;
                     </Button>
@@ -457,28 +853,31 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
               {/* Sidebar Navigation Matrix (4 cols) */}
               <div className="lg:col-span-4 space-y-6">
-                <Card className="p-6 space-y-4 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
+                <Card className="p-6 space-y-4 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] rounded-2xl">
                   <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
                     <span className="text-xs font-mono uppercase tracking-wider text-[var(--text-muted)] font-bold">
-                      MAPA DE RESPOSTAS
+                      MAPA DE QUESTÕES
                     </span>
                     <span className="text-xs font-mono font-bold text-[var(--accent-primary)]">
-                      {answeredCount}/{totalQuestions}
+                      {answeredCount}/{totalQuestions} Respondidas
                     </span>
                   </div>
 
-                  <div className="grid grid-cols-5 gap-2">
+                  <ProgressBar value={totalQuestions > 0 ? (answeredCount / totalQuestions) * 100 : 0} />
+
+                  <div className="grid grid-cols-5 gap-2 max-h-72 overflow-y-auto pr-1 custom-scrollbar">
                     {questionsList.map((_, idx) => {
-                      const isAnswered = answers[idx] !== undefined;
+                      const isAnswered = answers[idx] !== undefined && answers[idx] !== null;
                       const isCurrent = idx === currentQuestionIndex;
 
                       return (
                         <button
                           key={idx}
+                          type="button"
                           onClick={() => setCurrentQuestionIndex(idx)}
-                          className={`h-9 rounded-lg font-mono text-xs font-bold transition-all ${
+                          className={`h-9 rounded-lg font-mono text-xs font-bold transition-all cursor-pointer ${
                             isCurrent
-                              ? 'ring-2 ring-[var(--accent-primary)] bg-[var(--bg-surface)] text-[var(--text-primary)]'
+                              ? 'ring-2 ring-[var(--accent-primary)] bg-[var(--bg-surface)] text-[var(--text-primary)] border border-[var(--accent-primary)]'
                               : isAnswered
                               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                               : 'bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -495,8 +894,8 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           )}
 
           {/* VISÃO 2: CARTÃO-RESPOSTA DIGITAL (FOLHA OFICIAL) */}
-          {diaDTab === 'cartao_resposta' && (
-            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-xl">
+          {modoProva === 'dia_d' && diaDTab === 'cartao_resposta' && (
+            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-xl rounded-2xl">
               <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
                 <div>
                   <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
@@ -518,14 +917,15 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     </div>
                     <div className="flex items-center justify-between gap-1 pt-1">
                       {['A', 'B', 'C', 'D', 'E'].map((letter) => {
-                        const isMarked = answers[idx] === letter;
+                        const isMarked = answers[idx] === letter || answers[idx] === ['A', 'B', 'C', 'D', 'E'].indexOf(letter);
                         return (
                           <button
                             key={letter}
+                            type="button"
                             onClick={() => handleSelectAnswer(idx, letter)}
-                            className={`w-7 h-7 rounded-full font-mono text-xs font-bold transition-all border ${
+                            className={`w-7 h-7 rounded-full font-mono text-xs font-bold transition-all border cursor-pointer ${
                               isMarked
-                                ? 'bg-black dark:bg-white text-white dark:text-black border-black dark:border-white shadow-md scale-105'
+                                ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-md scale-105'
                                 : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] text-[var(--text-muted)] hover:border-[var(--border-focus)]'
                             }`}
                           >
@@ -541,8 +941,8 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           )}
 
           {/* VISÃO 3: FOLHA DE REDAÇÃO DISCURSIVA */}
-          {diaDTab === 'redacao' && (
-            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-xl">
+          {modoProva === 'dia_d' && diaDTab === 'redacao' && (
+            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-xl rounded-2xl">
               <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
                 <div>
                   <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
@@ -571,16 +971,16 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
         </div>
       )}
 
-      {/* Resultado Oficial */}
+      {/* RESULTADO OFICIAL COM GABARITO COMENTADO */}
       {finished && (
-        <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] animate-fade-in">
+        <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] rounded-3xl animate-fade-in">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-[var(--border-subtle)]">
             <div className="space-y-1">
               <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider block font-bold">
                 BOLETIM OFICIAL HOMOLOGADO
               </span>
               <h2 className="font-display font-bold text-2xl text-[var(--text-primary)]">
-                Resultado do Simulado {modoProva === 'dia_d' ? '• Dia D de Prova' : ''}
+                Resultado do Simulado {modoProva === 'materia' ? `• ${selectedSubject}` : ''}
               </h2>
             </div>
             <CarimboStatus
@@ -590,19 +990,19 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-4 font-mono text-xs">
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+            <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-xs">Taxa de Acerto</span>
               <span className="font-bold text-[var(--text-primary)] text-lg">{scorePct}%</span>
             </div>
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+            <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-xs">Itens Corretos</span>
               <span className="font-bold text-[var(--accent-success)] text-lg">{correctCount} / {totalQuestions}</span>
             </div>
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+            <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-xs">Tempo Total</span>
               <span className="font-bold text-[var(--text-primary)] text-lg">{formatTimer(finalTimeSeconds)}</span>
             </div>
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+            <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-xs">XP Conquistado</span>
               <span className="font-bold text-[var(--accent-primary)] text-lg">+{correctCount * 15 + (textoRedacao.trim() ? 50 : 0)} XP</span>
             </div>
@@ -622,47 +1022,63 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
           {/* Detailed Question Review */}
           <div className="space-y-4 pt-4">
-            <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-              Gabarito Comentado e Diagnóstico
-            </h3>
+            <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
+              <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                Gabarito Comentado e Diagnóstico Oficial FGV
+              </h3>
+              <span className="text-xs font-mono text-[var(--text-muted)]">
+                {correctCount} de {totalQuestions} certas
+              </span>
+            </div>
 
             <div className="space-y-3">
               {questionsList.map((q, idx) => {
                 const userAns = answers[idx];
-                const isCorrect = userAns === q.answer;
+                const correctLetter = getCorrectLetter(q);
+                const userAnsLetter = typeof userAns === 'number' ? String.fromCharCode(65 + userAns) : (userAns ? String(userAns) : null);
+                const isCorrect = userAnsLetter === correctLetter;
 
                 return (
                   <div
                     key={idx}
-                    className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 text-xs"
+                    className="p-5 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3 text-xs"
                   >
-                    <div className="flex items-center justify-between font-mono">
+                    <div className="flex items-center justify-between font-mono flex-wrap gap-2">
                       <span className="font-bold text-[var(--text-primary)]">
-                        Item #{idx + 1} • {q.subject}
+                        Item #{idx + 1} • {q.subject} {q.topic ? `(${q.topic})` : ''}
                       </span>
                       <CarimboStatus
                         status={isCorrect ? "homologado" : "vulneravel"}
                         label={isCorrect ? "ACERTOU" : "ERROU"}
                       />
                     </div>
-                    <p className="text-[var(--text-secondary)] font-medium">
-                      {q.question}
+
+                    <p className="text-[var(--text-primary)] font-medium leading-relaxed whitespace-pre-line">
+                      {q.question_text || q.question}
                     </p>
-                    <div className="text-xs font-mono text-[var(--text-muted)]">
-                      Sua resposta: <strong className={isCorrect ? "text-[var(--accent-success)]" : "text-[var(--accent-danger)]"}>{userAns || 'Em branco'}</strong> • Gabarito Oficial: <strong className="text-[var(--accent-success)]">{q.answer}</strong>
+
+                    <div className="text-xs font-mono text-[var(--text-muted)] bg-[var(--bg-surface)] p-2.5 rounded-xl border border-[var(--border-subtle)]">
+                      Sua resposta: <strong className={isCorrect ? "text-[var(--accent-success)]" : "text-[var(--accent-danger)]"}>{userAnsLetter || 'Em branco'}</strong> • Gabarito Oficial: <strong className="text-[var(--accent-success)]">{correctLetter}</strong>
                     </div>
-                    <p className="text-[var(--text-secondary)] text-xs bg-[var(--bg-surface)] p-2.5 rounded border border-[var(--border-subtle)] italic">
-                      {q.explanation}
-                    </p>
+
+                    {q.explanation && (
+                      <div className="p-3.5 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20 text-xs text-[var(--text-primary)] leading-relaxed space-y-1">
+                        <div className="font-bold text-[var(--accent-primary)] flex items-center gap-1.5">
+                          <CheckCircle className="w-3.5 h-3.5" />
+                          <span>Fundamentação & Comentário do Gabarito:</span>
+                        </div>
+                        <p>{q.explanation}</p>
+                      </div>
+                    )}
                   </div>
                 );
               })}
             </div>
           </div>
 
-          <div className="pt-4 border-t border-[var(--border-subtle)] flex items-center justify-between">
+          <div className="pt-4 border-t border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3">
             <span className="text-xs font-mono text-[var(--text-muted)]">
-              Questões com erro foram catalogadas para retreino no Caderno de Erros.
+              Questões com erro foram catalogadas para retreino no seu Caderno de Erros.
             </span>
             <Button
               variant="brand"
@@ -672,8 +1088,10 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 setAnswers({});
                 setCurrentQuestionIndex(0);
                 setTextoRedacao('');
+                setActiveSimuladoId(null);
+                setExamResult(null);
               }}
-              className="font-sans text-xs"
+              className="font-sans text-xs font-bold"
             >
               Novo Simulado
             </Button>

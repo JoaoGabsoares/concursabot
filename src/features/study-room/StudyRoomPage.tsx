@@ -566,7 +566,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setUserSelectedOption(null);
     setAnswered(false);
     setCurrentPage(mat.current_page || 1);
-    setTotalPages(mat.theory_pages || mat.total_pages || 45);
+    const total = (mat.total_pages && mat.total_pages > 1) ? mat.total_pages : (mat.theory_pages || 45);
+    setTotalPages(total);
     setIsCompleted(Boolean(mat.theory_completed));
     setStudyNotes(mat.notes || '');
     if (mat.pdfUrl) {
@@ -624,7 +625,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     scrollToReaderTop();
   };
 
-  const effectiveTotalPages = selectedCustomMaterial ? (selectedCustomMaterial.total_pages || 1) : totalPages;
+  const effectiveTotalPages = selectedCustomMaterial 
+    ? ((selectedCustomMaterial.total_pages && selectedCustomMaterial.total_pages > 1) ? selectedCustomMaterial.total_pages : (selectedCustomMaterial.theory_pages || totalPages || 45))
+    : (currentModule.totalPages || 5);
 
   const handlePrevPage = () => {
     setCurrentPage((prev) => {
@@ -707,7 +710,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         lessonNumber: selectedCustomMaterial?.lesson_number || lesson.lessonNumber,
         title: selectedCustomMaterial ? selectedCustomMaterial.title : lesson.topic,
         currentPage,
-        totalPages,
+        totalPages: effectiveTotalPages,
         isCompleted,
         durationMinutes: durationMinutes > 0 ? durationMinutes : 30,
         notes: studyNotes
@@ -717,7 +720,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         if (isCompleted) {
           success('🏆 Aula Concluída!', `Parabéns! Você concluiu a aula e ganhou +${res.xpGained || 25} XP.`);
         } else {
-          info('🔖 Marca-Página Salvo!', `Progresso salvo na Página ${currentPage} de ${totalPages}. (+${res.xpGained || 15} XP)`);
+          info('🔖 Marca-Página Salvo!', `Progresso salvo na Página ${currentPage} de ${effectiveTotalPages}. (+${res.xpGained || 15} XP)`);
         }
         if (selectedCustomMaterial) {
           fetchReadingPace(selectedCustomMaterial.id);

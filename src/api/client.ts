@@ -308,10 +308,56 @@ export class ApiClient {
     return this.request<Simulado[]>(`/simulados${qs}`);
   }
 
+  public getStudiedScope(careerId?: string): Promise<{
+    careerId: string;
+    studiedSubjects: string[];
+    studiedMaterialsCount: number;
+    details: any[];
+  }> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<any>(`/simulados/studied-scope${qs}`);
+  }
+
   public createSimulado(careerId: string, numQuestions: number = 20, subject?: string): Promise<Simulado> {
     return this.request<Simulado>('/simulados/create', {
       method: 'POST',
       body: JSON.stringify({ career_id: careerId, num_questions: numQuestions, subject })
+    });
+  }
+
+  public createSubjectSimulado(data: {
+    subject: string;
+    questionCount: number;
+    banca?: string;
+    scopeMode?: 'studied_only' | 'full_edital' | 'errors_only';
+    timeLimitMinutes?: number;
+    careerId?: string;
+  }): Promise<{
+    success: boolean;
+    simuladoId: number;
+    subject: string;
+    banca: string;
+    questionCount: number;
+    timeLimitMinutes: number;
+    scopeMode: string;
+  }> {
+    return this.request<any>('/simulados/create-by-subject', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public getSimuladoById(id: number | string): Promise<any> {
+    return this.request<any>(`/simulados/${id}`);
+  }
+
+  public finishSimulado(id: number | string, data: {
+    answers: { [key: number]: number };
+    timeSpentSeconds?: number;
+  }): Promise<any> {
+    return this.request<any>(`/simulados/${id}/finish`, {
+      method: 'POST',
+      body: JSON.stringify(data)
     });
   }
 

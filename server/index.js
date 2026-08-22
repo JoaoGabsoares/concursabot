@@ -41,6 +41,7 @@ import { seedRM2Questions } from './seeds/rm2_questions_seed.js';
 import { seedSESRJQuestions } from './seeds/ses_rj_questions_seed.js';
 import { seedBBQuestions } from './seeds/bb_questions_seed.js';
 import { seedTranspetroQuestions } from './seeds/transpetro_questions_seed.js';
+import { seedATRFBQuestions } from './seeds/atrfb_fgv_questions_seed.js';
 
 // Run seeds
 seedExamBenchmarks();
@@ -49,6 +50,7 @@ seedRM2Questions(db);
 seedSESRJQuestions(db);
 seedBBQuestions(db);
 seedTranspetroQuestions(db);
+seedATRFBQuestions(db);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

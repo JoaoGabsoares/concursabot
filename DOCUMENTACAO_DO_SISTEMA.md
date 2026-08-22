@@ -301,4 +301,29 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 17. Banco Oficial FGV ATRFB, Simulados por Matéria (20-50Q) & Filtro Sincronizado (v5.7.0)
+
+1. **📚 Banco Oficial de Questões no Padrão FGV para Receita Federal (ATRFB)**:
+   - **Casos Concretos e Enunciados Longos**: Questões situacionais e jurisprudenciais complexas com 5 alternativas (A-E) e gabaritos fundamentados no CTN, CF/88, Lei 8.112/90, Lei 14.133/21, Regulamento Aduaneiro (Dec. 6.759/09), CPCs contábeis e Súmulas Vinculantes do STF/STJ.
+   - **Acervo para todas as 13 disciplinas do edital ATRFB**: *Direito Tributário*, *Legislação Aduaneira*, *Legislação Tributária*, *Fluência em Dados*, *Contabilidade Geral*, *Direito Administrativo*, *Direito Constitucional*, *Direito Previdenciário*, *Administração Geral e Pública*, *Língua Portuguesa*, *Língua Inglesa*, *Raciocínio Lógico Matemático* e *Estatística*.
+   - **Seed Automatizado**: `server/seeds/atrfb_fgv_questions_seed.js` populando simultaneamente a tabela central de questões e a `career_question_bank`.
+
+2. **🎯 Novo Card de Simulado Específico por Matéria (20 a 50 Questões)**:
+   - **Destaque Visual Superior**: Card de alta conversão na página `SimuladosPage.tsx` com gradiente sutil e borda de destaque.
+   - **Seletor de Matéria**: Dropdown com pesos oficiais da carreira e indicação visual se a disciplina já foi estudada (`✅ Estudada` / `⏳ Pendente`).
+   - **Seletor de Volume Ajustável**: Botões ágeis para **20 Questões (40m)**, **30 Questões (60m)** ou **50 Questões (100m)** com tempo de prova calculado proporcionalmente (2 min/questão).
+
+3. **🔄 Filtro Sincronizado Inteligente com o que foi Estudado**:
+   - **Endpoint `GET /api/simulados/studied-scope`**: Faz a varredura e reconhecimento dinâmico de todas as matérias e tópicos já estudados pelo aluno em `study_materials`, `study_sessions` e `study_cycle_blocks`.
+   - **Modos de Escopo**:
+     - 🎯 **Sincronizado (Apenas o que estudei)**: Monta simulados estritamente com base nos assuntos que o aluno já consumiu na Sala de Estudos e Ciclos.
+     - 🌐 **Edital Completo**: Simulado abrangente sobre todos os tópicos da matéria para testes de nivelamento.
+     - ⚠️ **Re-treino de Erros**: Simulado focado exclusivamente nas questões erradas daquela matéria.
+
+4. **⚡ Auditoria & Polimento no Gerador de Ciclos de Estudo**:
+   - **Feedback Visual com Toasts**: Integração de toasts de confirmação e erro para todas as ações do Wizard (geração de prévia, ativação do ciclo e avanço de bloco com +20 XP).
+   - **Scroll Reset Suave**: O modal do Wizard agora reseta a rolagem imediatamente para o topo em cada transição de etapa.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

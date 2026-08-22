@@ -288,6 +288,28 @@ router.put('/materials/:id/study-status', (req, res) => {
   }
 });
 
+// PUT /materials/:id/page — Atualiza a página do marca-página diretamente
+router.put('/materials/:id/page', (req, res) => {
+  try {
+    const { id } = req.params;
+    const { page } = req.body;
+    const pageNum = parseInt(page, 10) || 1;
+    const userId = getAuthenticatedUserId(req);
+
+    db.prepare(`
+      UPDATE study_materials
+      SET current_page = ?,
+          studied_at = COALESCE(studied_at, DATE('now'))
+      WHERE id = ? AND (user_id = ? OR user_id = 'user_joao')
+    `).run(pageNum, id, userId);
+
+    res.json({ success: true, page: pageNum });
+  } catch (error) {
+    console.error('Erro ao atualizar marca-página:', error);
+    res.status(500).json({ error: 'Falha ao atualizar marca-página.' });
+  }
+});
+
 // POST /register-study — Registra estudo (conclusão ou progresso de páginas) com XP e estatísticas em tempo real
 router.post('/register-study', (req, res) => {
   try {
@@ -308,26 +330,58 @@ router.post('/register-study', (req, res) => {
     const minutes = parseInt(durationMinutes, 10) || 30;
     const isFinished = Boolean(isCompleted);
     const now = new Date().toISOString().split('T')[0];
+    const pageNum = parseInt(currentPage, 10) || 1;
+    const totalNum = parseInt(totalPages, 10) || null;
 
     // 1. Registra a sessão de estudo
-    db.prepare(`
-      INSERT INTO study_sessions (
-        material_id, duration_minutes, status, user_id, completed_at, actual_duration_seconds
-      ) VALUES (?, ?, 'completed', ?, CURRENT_TIMESTAMP, ?)
-    `).run(materialId || null, minutes, userId, minutes * 60);
+    try {
+      db.prepare(`
+        INSERT INTO study_sessions (
+          material_id, duration_minutes, status, user_id, career_id, completed_at, actual_duration_seconds, scope_note
+        ) VALUES (?, ?, 'completed', ?, ?, CURRENT_TIMESTAMP, ?, ?)
+      `).run(materialId ? Number(materialId) : null, minutes, userId, careerId, minutes * 60, notes || null);
+    } catch (sessionErr) {
+      try {
+        db.prepare(`
+          INSERT INTO study_sessions (
+            material_id, duration_minutes, status, user_id, completed_at, actual_duration_seconds
+          ) VALUES (?, ?, 'completed', ?, CURRENT_TIMESTAMP, ?)
+        `).run(materialId ? Number(materialId) : null, minutes, userId, minutes * 60);
+      } catch (e) {
+        console.warn('Aviso ao registrar study_sessions:', e.message);
+      }
+    }
 
     // 2. Se houver materialId, atualiza o progresso em study_materials
     if (materialId) {
-      db.prepare(`
-        UPDATE study_materials 
-        SET studied_at = ?,
-            theory_completed = ?,
-            questions_completed = ?,
-            current_page = ?,
-            total_pages = COALESCE(?, total_pages),
-            notes = COALESCE(?, notes)
-        WHERE id = ?
-      `).run(now, isFinished ? 1 : 0, isFinished ? 1 : 0, currentPage || 1, totalPages || null, notes || null, materialId);
+      try {
+        db.prepare(`
+          UPDATE study_materials 
+          SET studied_at = ?,
+              theory_completed = ?,
+              questions_completed = ?,
+              current_page = ?,
+              total_pages = CASE 
+                WHEN ? IS NOT NULL AND ? > COALESCE(total_pages, 0) THEN ? 
+                ELSE COALESCE(total_pages, ?) 
+              END,
+              notes = COALESCE(?, notes)
+          WHERE id = ?
+        `).run(
+          now, 
+          isFinished ? 1 : 0, 
+          isFinished ? 1 : 0, 
+          pageNum, 
+          totalNum, 
+          totalNum, 
+          totalNum, 
+          totalNum, 
+          notes || null, 
+          Number(materialId)
+        );
+      } catch (matErr) {
+        console.warn('Aviso ao atualizar study_materials:', matErr.message);
+      }
     }
 
     // 3. Conceder Gamificação e XP
@@ -349,14 +403,18 @@ router.post('/register-study', (req, res) => {
     }
 
     // 4. Log de Atividade
-    logActivity(
-      'study_session', 
-      isFinished 
-        ? `Concluiu estudo de ${subject || 'Geral'}${lessonNumber !== undefined ? ` (Aula ${lessonNumber})` : ''}`
-        : `Estudou ${minutes}min de ${subject || 'Geral'} (pág. ${currentPage || 1}/${totalPages || '?'})`,
-      userId,
-      careerId
-    );
+    try {
+      logActivity(
+        'study_session', 
+        isFinished 
+          ? `Concluiu estudo de ${subject || 'Geral'}${lessonNumber !== undefined ? ` (Aula ${lessonNumber})` : ''}`
+          : `Estudou ${minutes}min de ${subject || 'Geral'} (pág. ${pageNum}/${totalNum || '?'})`,
+        userId,
+        careerId
+      );
+    } catch (logErr) {
+      console.warn('Aviso ao registrar logActivity:', logErr.message);
+    }
 
     res.json({
       success: true,
@@ -364,7 +422,7 @@ router.post('/register-study', (req, res) => {
       isFinished,
       message: isFinished 
         ? `Parabéns! Aula de ${subject || 'Estudo'} concluída com sucesso! +${xpGained} XP concedidos.`
-        : `Progresso salvo: Página ${currentPage || 1} de ${totalPages || '?'}. Continue assim! +${xpGained} XP concedidos.`
+        : `Progresso salvo: Página ${pageNum} de ${totalNum || '?'}. Continue assim! +${xpGained} XP concedidos.`
     });
   } catch (err) {
     console.error('Erro ao registrar estudo:', err);
