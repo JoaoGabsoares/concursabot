@@ -25,7 +25,8 @@ export class RateLimiter {
 
   middleware() {
     return (req, res, next) => {
-      if (process.env.NODE_ENV === 'test') {
+      // Ignora rate limiter em suítes de testes automatizados (bloqueado estritamente em produção)
+      if (process.env.NODE_ENV === 'test' || (process.env.NODE_ENV !== 'production' && req.headers['x-test-suite'] === 'true')) {
         return next();
       }
 

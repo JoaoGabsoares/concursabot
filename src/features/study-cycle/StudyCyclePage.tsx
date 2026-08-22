@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import { UserProfile, ActiveTab, DailyMission, StudyCycle, StudyCycleBlock, CycleModelType, CycleModelOption } from '../../types';
 import { api } from '../../api/client';
 import { getCareerById } from '../../utils/careers';
@@ -47,6 +48,7 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
   const [actionLoading, setActionLoading] = useState<boolean>(false);
   const [showWizard, setShowWizard] = useState<boolean>(false);
   const [wizardStep, setWizardStep] = useState<number>(1);
+  const wizardBodyRef = useRef<HTMLDivElement>(null);
 
   // Wizard state
   const [selectedModel, setSelectedModel] = useState<CycleModelType>('adaptativo');
@@ -55,6 +57,13 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
   const [examDate, setExamDate] = useState<string>('');
   const [customDifficulties, setCustomDifficulties] = useState<Record<string, number>>({});
   const [previewCycle, setPreviewCycle] = useState<any>(null);
+
+  // Auto-scroll modal body to top on step change or modal open
+  useEffect(() => {
+    if (showWizard && wizardBodyRef.current) {
+      wizardBodyRef.current.scrollTo({ top: 0, behavior: 'instant' });
+    }
+  }, [showWizard, wizardStep]);
 
   const currentCareer = getCareerById(careerId);
 
@@ -540,10 +549,16 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
         </div>
       )}
 
-      {/* 5. MODAL WIZARD: GERADOR / RECALIBRADOR DE CICLO */}
-      {showWizard && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-xs animate-fade-in">
-          <div className="w-full max-w-3xl max-h-[90vh] bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-3xl shadow-2xl flex flex-col overflow-hidden font-sans">
+      {/* 5. MODAL WIZARD: GERADOR / RECALIBRADOR DE CICLO (Renderizado via Portal Frontal na Viewport) */}
+      {showWizard && typeof document !== 'undefined' && createPortal(
+        <div 
+          className="fixed inset-0 z-[9999] flex items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-xs animate-fade-in"
+          onClick={() => setShowWizard(false)}
+        >
+          <div 
+            className="w-full max-w-3xl max-h-[90vh] bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-3xl shadow-2xl flex flex-col overflow-hidden font-sans"
+            onClick={(e) => e.stopPropagation()}
+          >
             
             {/* Modal Header */}
             <div className="p-5 border-b border-[var(--border-subtle)] flex items-center justify-between bg-[var(--bg-elevated)]/50">
@@ -565,8 +580,8 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
               </button>
             </div>
 
-            {/* Modal Body (Scrollable) */}
-            <div className="flex-1 overflow-y-auto p-6 space-y-6">
+            {/* Modal Body (Scrollable com reset automático de topo) */}
+            <div ref={wizardBodyRef} className="flex-1 overflow-y-auto p-6 space-y-6 custom-scrollbar">
               
               {/* ETAPA 1: SELEÇÃO DO MODELO */}
               {wizardStep === 1 && (
@@ -875,7 +890,8 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
             </div>
 
           </div>
-        </div>
+        </div>,
+        document.body
       )}
 
     </div>
