@@ -5,38 +5,32 @@ import { PastStudyModal } from '../../components/PastStudyModal';
 import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
-import { getLessonContent, getModulesForSubject, getModulePage, DisciplineModule, ModulePage } from '../../utils/studyContent';
+import { getLessonContent, getModulesForSubject, getModulePage, ModulePage } from '../../utils/studyContent';
 import { api } from '../../api/client';
 import { 
   UploadCloud, 
   FileText, 
   CheckCircle2, 
-  AlertCircle, 
   X, 
-  Plus, 
   BookOpen, 
   Clock, 
   Play, 
   Pause, 
   RotateCcw, 
   ExternalLink,
-  Bookmark,
   Sparkles,
-  HelpCircle,
-  Eye,
   Check,
   ChevronLeft,
   ChevronRight,
-  Download,
-  Scale,
   ShieldCheck,
   FileSearch,
   SlidersHorizontal,
   Flame,
   ArrowRight,
+  Bookmark,
+  Layers,
   Trash2,
   Settings,
-  Layers,
   Calendar
 } from 'lucide-react';
 
@@ -690,7 +684,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     formData.append('studyStatus', 'unread');
 
     try {
-      const result = await api.uploadStudyMaterial(formData, 'user_joao', careerId);
+      const currentUserId = localStorage.getItem('CURRENT_USER_ID') || '';
+      const result = await api.uploadStudyMaterial(formData, currentUserId, careerId);
       success('PDF Indexado com Heurísticas Universais!', `Detectadas ${result.theoryPages || 45} páginas de teoria e ${result.exercisePages || 0} páginas de exercícios.`);
       setSelectedFile(null);
       setIsUploadModalOpen(false);

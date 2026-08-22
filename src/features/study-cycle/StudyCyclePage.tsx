@@ -6,23 +6,16 @@ import { getCareerById } from '../../utils/careers';
 import { CarimboStatus } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { 
-  RotateCw, 
   CheckCircle2, 
   Play, 
-  Settings2, 
-  Calendar, 
   Clock, 
   Zap, 
-  Flame, 
-  Layers, 
+  Calendar,
   ChevronRight, 
   Sparkles, 
-  Award, 
   BookOpen, 
-  Target, 
   TrendingUp, 
   AlertCircle,
-  Plus,
   RefreshCw,
   Sliders,
   Check,
@@ -75,10 +68,11 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
   }, [careerId, user?.id]);
 
   const loadCycleData = async () => {
+    const currentUserId = user?.id || localStorage.getItem('CURRENT_USER_ID') || '';
     setLoading(true);
     try {
       const [activeCycleRes, modelsRes, subjectsRes] = await Promise.all([
-        api.getActiveStudyCycle(user?.id || 'user_joao', careerId),
+        api.getActiveStudyCycle(currentUserId, careerId),
         api.getStudyCycleModels(),
         api.getStudyCycleSubjects(careerId)
       ]);
@@ -104,12 +98,13 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
   const handleAdvanceBlock = async (block: StudyCycleBlock) => {
     if (!cycle || !block.id) return;
+    const currentUserId = user?.id || localStorage.getItem('CURRENT_USER_ID') || '';
     setActionLoading(true);
     try {
       const res = await api.advanceStudyCycleBlock(
         cycle.id,
         block.id,
-        user?.id || 'user_joao',
+        currentUserId,
         careerId
       );
       if (res.cycle) {
@@ -134,8 +129,9 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
   const handleGeneratePreview = async () => {
     try {
+      const currentUserId = user?.id || localStorage.getItem('CURRENT_USER_ID') || '';
       const res = await api.generateStudyCycle({
-        userId: user?.id || 'user_joao',
+        userId: currentUserId,
         careerId,
         modelType: selectedModel,
         weeklyHours,
@@ -156,8 +152,9 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
   const handleSaveAndActivateCycle = async () => {
     setActionLoading(true);
     try {
+      const currentUserId = user?.id || localStorage.getItem('CURRENT_USER_ID') || '';
       const newCycle = await api.generateStudyCycle({
-        userId: user?.id || 'user_joao',
+        userId: currentUserId,
         careerId,
         modelType: selectedModel,
         weeklyHours,
@@ -582,9 +579,10 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
               <button
                 onClick={() => setShowWizard(false)}
-                className="w-8 h-8 rounded-lg hover:bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+                className="min-w-[44px] min-h-[44px] rounded-xl hover:bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+                aria-label="Fechar Configurador de Ciclo"
               >
-                <X className="w-4 h-4" />
+                <X className="w-5 h-5" />
               </button>
             </div>
 

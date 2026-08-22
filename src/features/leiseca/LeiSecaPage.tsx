@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Button, Badge, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
+import { Card, Button, Badge, CarimboStatus } from '../../components/UIPrimitives';
 import { api } from '../../api/client';
 import { 
   BookOpen, 
@@ -14,8 +14,7 @@ import {
   Sparkles,
   HelpCircle,
   Scale,
-  Search,
-  Filter
+  Search
 } from 'lucide-react';
 import { CAREERS_MAP } from '../../utils/careers';
 
@@ -251,7 +250,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
           }`}
         >
           <Target className="w-4 h-4" />
-          <span>CAÇA-PEGADINHA DA LEI (15s)</span>
+          <span>CAÇA-PEGADINHAS DA LEI (15s)</span>
         </button>
 
         <button

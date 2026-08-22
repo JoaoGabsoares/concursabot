@@ -255,7 +255,7 @@ export const App: React.FC = () => {
                 />
               )}
 
-              {activeTab === 'study' && (
+              {(activeTab === 'study' || activeTab === 'study-room') && (
                 <StudyRoomPage careerId={careerId} />
               )}
 
@@ -263,7 +263,7 @@ export const App: React.FC = () => {
                 <SimuladosPage careerId={careerId} />
               )}
 
-              {activeTab === 'erros' && (
+              {(activeTab === 'erros' || activeTab === 'error-notebook') && (
                 <ErrorNotebookPage careerId={careerId} />
               )}
 

@@ -3,7 +3,7 @@ import { Card, Button, BottomSheet, CarimboStatus } from '../../components/UIPri
 import { useToast } from '../../components/Toast';
 import { api } from '../../api/client';
 import { getCareerById } from '../../utils/careers';
-import { Download, Printer, RefreshCw, CheckCircle, AlertTriangle, BookOpen, Trash2 } from 'lucide-react';
+import { Download, Printer, Trash2 } from 'lucide-react';
 
 interface ErrorNotebookPageProps {
   careerId: string;
@@ -446,7 +446,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
 
       {/* Modal de Folha de Revisão Imprimível */}
       {showPrintModal && (
-        <div className="fixed inset-0 z-50 bg-black/70 flex items-center justify-center p-4">
+        <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-xs flex items-center justify-center p-4">
           <div className="bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-2xl max-w-4xl w-full max-h-[90vh] flex flex-col shadow-2xl overflow-hidden animate-fade-in">
             <div className="p-5 border-b border-[var(--border-subtle)] flex items-center justify-between bg-[var(--bg-elevated)]">
               <div className="flex items-center gap-3">
@@ -460,13 +460,14 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                   variant="brand"
                   size="sm"
                   onClick={handlePrintReviewSheet}
-                  className="font-sans text-xs min-h-[40px]"
+                  className="font-sans text-xs min-h-[44px]"
                 >
                   Imprimir / Salvar PDF
                 </Button>
                 <button
                   onClick={() => setShowPrintModal(false)}
-                  className="p-1.5 text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm font-sans"
+                  className="min-w-[44px] min-h-[44px] flex items-center justify-center rounded-xl text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-surface)] transition-colors text-base font-sans"
+                  aria-label="Fechar Folha de Revisão"
                 >
                   ✕
                 </button>
@@ -475,8 +476,8 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
 
             {/* Conteúdo Imprimível */}
             <div className="p-6 overflow-y-auto space-y-6 print:p-0 print:m-0 text-[var(--text-primary)]">
-              <div className="border-b-2 border-black pb-3 text-center space-y-1">
-                <h1 className="font-serif font-bold text-xl uppercase tracking-wider text-black dark:text-white">
+              <div className="border-b-2 border-[var(--border-strong)] pb-3 text-center space-y-1">
+                <h1 className="font-serif font-bold text-xl uppercase tracking-wider text-[var(--text-primary)]">
                   CADERNO TÉCNICO DE REVISÃO E SUPERAÇÃO DE VULNERABILIDADES
                 </h1>
                 <div className="text-xs font-mono text-[var(--text-muted)] flex justify-center gap-6">

@@ -276,7 +276,7 @@ const RAIOX_DATA = {
     },
     marinha_rm2: {
         cargo: 'Marinha do Brasil • Oficial e Praça RM2 (SMV)',
-        banca: 'ComOpNav',
+        banca: 'DEnsM',
         corteMedio: '76% a 88%',
         topicosOuro: [
             { disciplina: 'Língua Portuguesa', peso: 50, questoes: 25, incidencia: 'Crítica (50% da Prova)', dica: 'Interpretação textual, Tipologia, Crase, Regência, Sintaxe do Período e Pontuação.' },

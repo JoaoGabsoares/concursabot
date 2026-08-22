@@ -2,6 +2,7 @@ import React from 'react';
 import { ActiveTab } from '../types';
 import { 
   LayoutDashboard, 
+  RotateCw,
   BookOpen, 
   Target, 
   BookMarked, 
@@ -10,10 +11,7 @@ import {
   Layers, 
   Scale, 
   GitCompare, 
-  MessageSquare, 
-  HelpCircle, 
-  Settings,
-  Sparkles
+  HelpCircle
 } from 'lucide-react';
 
 interface DesktopNavProps {
@@ -29,6 +27,7 @@ export const DesktopNav: React.FC<DesktopNavProps> = ({
 }) => {
   const navItems = [
     { id: 'dashboard' as ActiveTab, label: 'Dashboard', icon: LayoutDashboard },
+    { id: 'ciclos' as ActiveTab, label: 'Ciclos', icon: RotateCw },
     { id: 'study' as ActiveTab, label: 'Sala de Estudos', icon: BookOpen },
     { id: 'simulados' as ActiveTab, label: 'Simulados', icon: Target },
     { id: 'erros' as ActiveTab, label: 'Caderno de Erros', icon: BookMarked, badge: pendingErrorsCount },
@@ -37,7 +36,6 @@ export const DesktopNav: React.FC<DesktopNavProps> = ({
     { id: 'edital' as ActiveTab, label: 'Raio-X Edital', icon: BarChart3 },
     { id: 'redacao' as ActiveTab, label: 'Redação IA', icon: PenTool },
     { id: 'aproveitamento' as ActiveTab, label: 'Transição', icon: GitCompare },
-    { id: 'comunidade' as ActiveTab, label: 'Comunidade', icon: MessageSquare },
     { id: 'guia' as ActiveTab, label: 'Guia & Método', icon: HelpCircle },
   ];
 

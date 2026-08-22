@@ -6,7 +6,6 @@ import { getLessonContent } from '../../utils/studyContent';
 import { api } from '../../api/client';
 import { useToast } from '../../components/Toast';
 import { 
-  Timer, 
   FileText, 
   CheckCircle, 
   AlertTriangle, 
@@ -15,14 +14,10 @@ import {
   Award, 
   Clock, 
   Sparkles,
-  RotateCcw,
-  BookOpen,
   Filter,
   CheckCircle2,
   ChevronRight,
-  Flame,
   Zap,
-  HelpCircle,
   Bookmark
 } from 'lucide-react';
 
@@ -100,7 +95,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const careerSubjects = getSubjectsForCareer(careerId);
   const { success, error: toastError, info } = useToast();
 
-  const [modoProva, setModoModo] = useState<SimuladoModo>('materia');
+  const [modoProva, setModoProva] = useState<SimuladoModo>('materia');
   const [examRunning, setExamRunning] = useState(false);
   const [loadingSimulado, setLoadingSimulado] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -205,7 +200,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
   // Iniciar Simulado Dinâmico (via Backend)
   const handleStartExam = async (mode: SimuladoModo) => {
-    setModoModo(mode);
+    setModoProva(mode);
     setLoadingSimulado(true);
     setAnswers({});
     setCurrentQuestionIndex(0);
@@ -726,7 +721,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   ? 'border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-lg ring-1 ring-[var(--accent-primary)]/30' 
                   : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-[var(--accent-primary)]/50 opacity-90'
               }`}
-              onClick={() => setModoModo('treino_rapido')}
+              onClick={() => setModoProva('treino_rapido')}
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
@@ -767,7 +762,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   ? 'border-[var(--accent-danger)] bg-[var(--bg-surface)] shadow-lg ring-1 ring-[var(--accent-danger)]/30' 
                   : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-[var(--accent-danger)]/50 opacity-90'
               }`}
-              onClick={() => setModoModo('vulnerabilidades')}
+              onClick={() => setModoProva('vulnerabilidades')}
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
@@ -808,7 +803,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   ? 'border-[var(--accent-warning)] bg-[var(--bg-surface)] shadow-lg ring-1 ring-[var(--accent-warning)]/30' 
                   : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-[var(--accent-warning)]/50 opacity-90'
               }`}
-              onClick={() => setModoModo('dia_d')}
+              onClick={() => setModoProva('dia_d')}
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">

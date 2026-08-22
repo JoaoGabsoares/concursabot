@@ -38,13 +38,16 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
   const handleResetProgress = async () => {
     if (confirm('Tem certeza de que deseja zerar seu XP e histórico de estudos para reiniciar do zero absoluto?')) {
       try {
-        await api.updateUserProfile(user?.id || 'user_joao', {
-          xp: 0,
-          level: 1,
-          streakDays: 0,
-          todayQuestions: 0,
-          todayMinutes: 0
-        });
+        const targetUserId = user?.id || localStorage.getItem('CURRENT_USER_ID') || '';
+        if (targetUserId) {
+          await api.updateUserProfile(targetUserId, {
+            xp: 0,
+            level: 1,
+            streakDays: 0,
+            todayQuestions: 0,
+            todayMinutes: 0
+          });
+        }
         localStorage.removeItem('CURRENT_USER_ID');
         success('Progresso Zerado!', 'Histórico resetado para 0 XP com sucesso.');
         setTimeout(() => window.location.reload(), 1200);
@@ -257,7 +260,7 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
                   <span>3. Superação no Caderno de Erros (+15 XP)</span>
                 </div>
                 <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                  Cada questão errada na Sala de Estudos ou nos Simulados é automaticamente capturada. Você só avança na patente quando revisita o erro, anota a pegadinha e acerta o re-teste para ganhar bônus de superação.
+                  Cada questão errada na Sala de Estudos ou nos Simulados é automaticamente capturada. Você só avança na patente quando revisita o erro, anota a pegadinha e acerta o reteste para ganhar bônus de superação.
                 </p>
               </div>
 
@@ -300,7 +303,7 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
                   Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
                 </h2>
                 <div className="text-xs font-mono text-[var(--text-muted)] mt-0.5">
-                  Versão 2.5.0 (Produção Homologada)
+                  Versão 6.0.0 (Sala de Operações Homologada)
                 </div>
               </div>
               <CarimboStatus status="homologado" label="SISTEMA ATIVO" />
@@ -323,8 +326,8 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
               <ul className="space-y-1.5 text-[var(--text-muted)]">
                 <li>• <strong>Frontend:</strong> React 19, TypeScript, Vite, Tailwind CSS v4, Lucide Icons.</li>
                 <li>• <strong>Backend:</strong> Node.js Express ESM com motor de banco nativo <code>node:sqlite</code>.</li>
-                <li>• <strong>Inteligência Artificial:</strong> Google Gemini 3.5 com sanitização estrita de prompts.</li>
-                <li>• <strong>Blindagem:</strong> 117 testes automatizados (Pentest, AI Security, Rest APIs e QA).</li>
+                <li>• <strong>Inteligência Artificial:</strong> Google Gemini 2.5 Flash / 1.5 Pro com sanitização estrita de prompts.</li>
+                <li>• <strong>Blindagem:</strong> Suíte completa de testes automatizados (Pentest, AI Security, Rest APIs e QA).</li>
               </ul>
             </div>
           </Card>

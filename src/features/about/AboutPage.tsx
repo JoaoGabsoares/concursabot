@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CarimboStatus } from '../../components/UIPrimitives';
-import { ShieldCheck, Server, Database, Sparkles, Terminal, CheckCircle2, Lock } from 'lucide-react';
+import { ShieldCheck } from 'lucide-react';
 
 export const AboutPage: React.FC = () => {
   return (
@@ -14,7 +14,7 @@ export const AboutPage: React.FC = () => {
               Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
             </h1>
             <div className="text-xs font-mono text-[var(--text-muted)] mt-1">
-              Versão 2.5.0 (Produção Homologada & Multi-Plataforma)
+              Versão 6.0.0 (Sala de Operações • Multiplataforma)
             </div>
           </div>
           <CarimboStatus status="homologado" label="SISTEMA ATIVO & SEGURO" />
@@ -46,11 +46,11 @@ export const AboutPage: React.FC = () => {
             </li>
             <li className="flex items-start gap-2">
               <span className="text-[var(--accent-primary)] font-bold">•</span>
-              <span><strong>Inteligência Artificial:</strong> Google Gemini 3.5 com sanitização estrita de prompts e espelhos de critérios oficiais de bancas.</span>
+              <span><strong>Inteligência Artificial:</strong> Google Gemini 2.5 Flash / 1.5 Pro com sanitização estrita de prompts e espelhos de critérios oficiais de bancas.</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-[var(--accent-primary)] font-bold">•</span>
-              <span><strong>Segurança & Blindagem:</strong> 117 testes automatizados (Pentest, AI Security, Rest APIs, Headers OWASP e CSRF/XSS protection).</span>
+              <span><strong>Segurança & Blindagem:</strong> Suíte completa de testes automatizados (Pentest, AI Security, Rest APIs, Headers OWASP e CSRF/XSS protection).</span>
             </li>
           </ul>
         </div>

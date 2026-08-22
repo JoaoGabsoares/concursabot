@@ -1,23 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import { createPortal } from 'react-dom';
-import { Card, Button, CarimboStatus } from './UIPrimitives';
+import { Button } from './UIPrimitives';
 import { useToast } from './Toast';
 import { api } from '../api/client';
-import { getSubjectsForCareer, SubjectStats } from '../utils/gamification';
+import { getSubjectsForCareer } from '../utils/gamification';
 import { getCareerById } from '../utils/careers';
 import { 
   Calendar, 
   Clock, 
   BookOpen, 
-  CheckCircle2, 
   Sparkles, 
   X, 
   Trash2, 
   Flame, 
   Plus, 
   ChevronRight, 
-  HelpCircle,
-  FileText,
   History
 } from 'lucide-react';
 
@@ -200,13 +197,14 @@ export const PastStudyModal: React.FC<PastStudyModalProps> = ({
                 </span>
               </h2>
               <p className="text-xs text-[var(--text-muted)] mt-0.5">
-                Lance os dias anteriores que você estudou por fora para recuperar ofensiva e somar horas
+                Lance os dias anteriores que você estudou por fora para recuperar ofensiva e somar horas líquidas.
               </p>
             </div>
           </div>
           <button
             onClick={onClose}
-            className="w-8 h-8 rounded-full flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors cursor-pointer"
+            className="min-w-[44px] min-h-[44px] rounded-xl flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors cursor-pointer"
+            aria-label="Fechar Modal de Estudo Passado"
           >
             <X className="w-5 h-5" />
           </button>

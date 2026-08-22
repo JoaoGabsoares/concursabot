@@ -55,7 +55,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
                 ...baseSubj,
                 totalQuestions: found.totalQuestions || 0,
                 correctPercentage: found.correctPercentage || 0,
-                status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'em_revisao'),
+                status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'pendente'),
                 statusLabel: found.statusLabel || (found.totalQuestions > 0 ? 'EM ESTUDO' : 'NÃO INICIADO')
               };
             }

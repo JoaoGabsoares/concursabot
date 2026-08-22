@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { CAREERS_LIST, getCareerById } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
-import { ChevronDown, Check, Sun, Moon, LogOut, Settings } from 'lucide-react';
+import { ChevronDown, Check, Sun, Moon } from 'lucide-react';
 import { CarimboStatus } from './UIPrimitives';
 
 interface SidebarProps {
@@ -157,13 +157,13 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     onClick={() => onNavigate(item.id)}
                     className={`w-full flex items-center justify-between px-3 py-2.5 rounded-xl text-xs font-mono transition-all cursor-pointer ${
                       isActive
-                        ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] border-l-3 border-[var(--accent-primary)] shadow-sm font-bold'
+                        ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] border-l-[3px] border-[var(--accent-primary)] shadow-sm font-bold'
                         : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]/60'
                     }`}
                   >
                     <span className="truncate">{item.label}</span>
                     {item.badge && item.badge > 0 ? (
-                      <span className="px-1.5 py-0.2 font-mono text-[11px] font-bold rounded-md bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] border border-[var(--accent-danger)]/30">
+                      <span className="px-1.5 py-0.5 font-mono text-[11px] font-bold rounded-md bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] border border-[var(--accent-danger)]/30">
                         {item.badge}
                       </span>
                     ) : null}

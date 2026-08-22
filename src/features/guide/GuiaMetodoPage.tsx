@@ -4,16 +4,8 @@ import {
   Target, 
   Flame, 
   Trophy, 
-  Cpu, 
   Clock, 
-  BookOpen, 
-  CheckCircle2, 
   ArrowRight, 
-  Layers, 
-  ShieldCheck, 
-  Sparkles,
-  BookMarked,
-  Scale,
   Brain
 } from 'lucide-react';
 import { ActiveTab } from '../../types';
@@ -124,7 +116,7 @@ export const GuiaMetodoPage: React.FC<GuiaMetodoPageProps> = ({ onNavigate }) =>
           </div>
 
           <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed">
-            O erro é a bússola mais valiosa do concurseiro. Toda questão errada na Sala de Estudos ou nos Simulados é automaticamente arquivada. O aluno só atinge a maestria quando resolve novamente o item, anota o motivo do erro e acerta o re-teste (+15 XP).
+            O erro é a bússola mais valiosa do concurseiro. Toda questão errada na Sala de Estudos ou nos Simulados é automaticamente arquivada. O aluno só atinge a maestria quando resolve novamente o item, anota o motivo do erro e acerta o reteste (+15 XP).
           </p>
 
           <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs text-[var(--text-muted)] space-y-1">

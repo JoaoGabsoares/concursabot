@@ -594,6 +594,28 @@ function initDB() {
         if (!userCols.includes('cadence_mode')) {
             db.exec('ALTER TABLE user_profiles ADD COLUMN cadence_mode TEXT DEFAULT "60_30";');
         }
+        if (!userCols.includes('xp')) {
+            try {
+                db.exec('ALTER TABLE user_profiles ADD COLUMN xp INTEGER DEFAULT 0;');
+            } catch (e) {}
+        }
+        if (!userCols.includes('level')) {
+            try {
+                db.exec('ALTER TABLE user_profiles ADD COLUMN level INTEGER DEFAULT 1;');
+            } catch (e) {}
+        }
+
+        // Performance Indexes for Multi-Tenant Isolation and Fast Queries
+        try {
+            db.exec(`
+                CREATE INDEX IF NOT EXISTS idx_study_materials_user_career ON study_materials (user_id, career_id);
+                CREATE INDEX IF NOT EXISTS idx_question_answers_user_career ON question_answers (user_id, career_id);
+                CREATE INDEX IF NOT EXISTS idx_caderno_erros_user_career ON caderno_erros (user_id, career_id, status);
+                CREATE INDEX IF NOT EXISTS idx_flashcards_user_deck ON flashcards (user_id, deck_id);
+                CREATE INDEX IF NOT EXISTS idx_activity_log_user_career ON activity_log (user_id, career_id, created_at);
+                CREATE INDEX IF NOT EXISTS idx_redacoes_user_career ON redacoes (user_id, career_id);
+            `);
+        } catch (e) {}
 
         // Migration for study_materials columns
         const matCols = db.pragma('table_info(study_materials)').map(c => c.name);

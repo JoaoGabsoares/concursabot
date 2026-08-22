@@ -410,5 +410,26 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 21. Revisão Geral do Sistema, Ortografia, Layout e Blindagem de Código (v6.1.0)
+
+1. **✍️ Padronização Ortográfica e Textual (PT-BR)**:
+   - Correção de hifenização de acordo com o Novo Acordo Ortográfico: unificação dos termos `Retreino`, `Retreinar` e `Reteste` (eliminando hífens redundantes).
+   - Uniformização de caixa alta e termos institucionais: `Caderno de Erros`, `Gabarito Oficial` e `Discursiva Oficial`.
+   - Correção de acentuações em filtros de disciplinas (`inglês` / `ingles`) e pontuações em modais e toasts.
+   - Atualização das referências de modelos de IA para `Google Gemini 2.5 Flash / 1.5 Pro`.
+
+2. **🎨 Design System, Acessibilidade & Responsividade**:
+   - Ajuste de todas as áreas de toque interativas para o padrão mínimo acessível de **44px** (`min-w-[44px] min-h-[44px]`) nos botões de fechar, abas móveis e seletores de formulário (WCAG 2.5.5).
+   - Eliminação de resquícios de classes inexistentes no Tailwind (`border-l-3` corrigido para `border-l-[3px]`, `py-0.2` para `py-0.5`).
+   - Sincronização completa de aliases de navegação (`study-room`, `study-cycle`, `error-notebook`) na barra inferior móvel (`MobileBottomNav.tsx`) e na barra superior desktop (`DesktopNav.tsx`).
+
+3. **🛡️ Robustez do Banco de Dados & Isolamento Multi-Tenant**:
+   - Adição e migração automática das colunas `xp` e `level` na tabela `user_profiles` do SQLite.
+   - Criação de 6 novos índices compostos de alta performance para aceleração de queries multi-tenant (`user_id`, `career_id`).
+   - Sincronização de porta dinâmica na suíte de testes de integração (`tests/integration/v3_5_fixes.test.js`).
+   - Filtragem do contador estatístico do Caderno de Erros respeitando o escopo do certame ativo.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
 

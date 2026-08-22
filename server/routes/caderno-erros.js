@@ -69,16 +69,23 @@ router.get('/', (req, res) => {
             };
         });
 
-        // Compute overall statistics
-        const statsStmt = db.prepare(`
+        // Compute statistics for user and career scope
+        let statsQuery = `
             SELECT 
                 COUNT(ce.id) as total,
                 SUM(CASE WHEN ce.status = 'pending' THEN 1 ELSE 0 END) as pending,
                 SUM(CASE WHEN ce.status = 'mastered' THEN 1 ELSE 0 END) as mastered
             FROM caderno_erros ce
             WHERE ce.user_id = ?
-        `);
-        const stats = statsStmt.get(userId) || { total: 0, pending: 0, mastered: 0 };
+        `;
+        const statsParams = [userId];
+        if (career_id && career_id !== 'all') {
+            statsQuery += ` AND (ce.career_id = ? OR ce.career_id IS NULL)`;
+            statsParams.push(career_id);
+        }
+
+        const statsStmt = db.prepare(statsQuery);
+        const stats = statsStmt.get(...statsParams) || { total: 0, pending: 0, mastered: 0 };
         const total = stats.total || 0;
         const mastered = stats.mastered || 0;
         const overcomeRate = total > 0 ? Math.round((mastered / total) * 100) : 0;

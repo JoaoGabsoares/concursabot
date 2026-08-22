@@ -1,11 +1,11 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Card, CarimboStatus } from '../../components/UIPrimitives';
+import { CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
 import { CAREER_PARETO_DB, getLessonContent } from '../../utils/studyContent';
 import { getSubjectsForCareer, SubjectStats } from '../../utils/gamification';
 import { api } from '../../api/client';
 import { ActiveTab, DailyMission } from '../../types';
-import { Target, BookOpen, ChevronRight, Scale, BarChart2 } from 'lucide-react';
+import { Target, BookOpen } from 'lucide-react';
 
 interface EditalPageProps {
   careerId: string;
@@ -41,7 +41,7 @@ export const EditalPage: React.FC<EditalPageProps> = ({
                 ...baseSubj,
                 totalQuestions: found.totalQuestions || 0,
                 correctPercentage: found.correctPercentage || 0,
-                status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'em_revisao'),
+                status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'pendente'),
                 statusLabel: found.statusLabel || (found.totalQuestions > 0 ? 'EM ESTUDO' : 'NÃO INICIADO')
               };
             }
@@ -66,7 +66,7 @@ export const EditalPage: React.FC<EditalPageProps> = ({
         return lower.includes('raciocínio') || lower.includes('matemática') || lower.includes('estatística') || lower.includes('contabilidade') || lower.includes('tecnologia') || lower.includes('dados');
       }
       if (activeSubjectFilter === 'geral') {
-        return lower.includes('português') || lower.includes('língua') || lower.includes('redação') || lower.includes('ingles') || lower.includes('fluência');
+        return lower.includes('português') || lower.includes('língua') || lower.includes('redação') || lower.includes('inglês') || lower.includes('ingles') || lower.includes('fluência');
       }
       return true;
     });

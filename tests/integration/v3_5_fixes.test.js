@@ -1,8 +1,7 @@
 import assert from 'assert';
 
-const BASE_URL = 'http://127.0.0.1:3000/api';
-
-export async function runV35FixesTests() {
+export async function runV35FixesTests(baseUrl = 'http://localhost:3000') {
+  const BASE_URL = `${baseUrl}/api`;
   console.log('\n===============================================================');
   console.log('🧪 TESTES DE INTEGRAÇÃO: PACOTE DE CORREÇÕES v3.5 ULTRA');
   console.log('===============================================================');

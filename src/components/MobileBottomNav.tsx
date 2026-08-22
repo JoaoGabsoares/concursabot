@@ -27,7 +27,11 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
     >
       <div className="flex items-center justify-around max-w-md mx-auto">
         {tabs.map((tab) => {
-          const isActive = activeTab === tab.id;
+          const isActive = 
+            activeTab === tab.id ||
+            (tab.id === 'ciclos' && activeTab === 'study-cycle') ||
+            (tab.id === 'study' && activeTab === 'study-room') ||
+            (tab.id === 'erros' && activeTab === 'error-notebook');
 
           return (
             <button
