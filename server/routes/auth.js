@@ -53,7 +53,12 @@ router.get('/status', (req, res) => {
 // POST /api/auth/register - Register new isolated account
 router.post('/register', (req, res) => {
   try {
-    const { username, password, email } = req.body;
+    let { username, password, email, name } = req.body;
+    if (!username && email) {
+      // Derive clean username from email or name
+      const prefix = (name || email.split('@')[0]).replace(/[^a-zA-Z0-9._-]/g, '');
+      username = prefix.length >= 3 ? prefix : `aluno_${Date.now().toString().slice(-4)}`;
+    }
     const result = authService.register(username, password, email);
     res.status(201).json({
       success: true,
@@ -108,8 +113,9 @@ router.post('/google', async (req, res) => {
 // POST /api/auth/login - Login to isolated account
 router.post('/login', (req, res) => {
   try {
-    const { username, password } = req.body;
-    const result = authService.login(username, password);
+    const identifier = req.body.email || req.body.username || req.body.usernameOrEmail;
+    const password = req.body.password;
+    const result = authService.login(identifier, password);
     res.json({
       success: true,
       message: 'Login realizado com sucesso!',

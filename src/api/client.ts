@@ -82,10 +82,14 @@ export class ApiClient {
   }
 
   // --- MÓDULO DE AUTENTICAÇÃO ---
-  public login(username: string, password: string): Promise<AuthResponse> {
+  public login(emailOrUsername: string, password: string): Promise<AuthResponse> {
     return this.request<AuthResponse>('/auth/login', {
       method: 'POST',
-      body: JSON.stringify({ username, password })
+      body: JSON.stringify({
+        email: emailOrUsername,
+        username: emailOrUsername,
+        password
+      })
     });
   }
 
