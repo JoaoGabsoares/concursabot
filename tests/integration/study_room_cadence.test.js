@@ -68,6 +68,54 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
     assert.ok(pace.cadence, 'Deve conter objeto de cadência');
     console.log(`  ✅ 3. Consulta de Ritmo de Leitura (${pace.pagesRemaining} págs restantes, cadência ${pace.cadence.readingMin}m/${pace.cadence.questionsMin}m): PASSOU`);
   }
+
+  // 4. Testar POST /register-study com progresso de páginas (salvar parada)
+  const regProgressRes = await fetch(`${baseUrl}/api/study-room/register-study`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    },
+    body: JSON.stringify({
+      subject: 'Direito Constitucional',
+      lessonNumber: 1,
+      currentPage: 15,
+      totalPages: 45,
+      durationMinutes: 30,
+      isCompleted: false,
+      careerId: 'atrfb'
+    })
+  });
+  const regProgress = await regProgressRes.json();
+  assert.strictEqual(regProgressRes.status, 200, 'Status deve ser 200 ao salvar progresso');
+  assert.strictEqual(regProgress.success, true);
+  assert.strictEqual(regProgress.xpGained, 20);
+  console.log('  ✅ 4. Registro de Progresso de Estudo (+20 XP, logActivity OK): PASSOU');
+
+  // 5. Testar POST /register-study com conclusão de aula (+50 XP)
+  const regFinishRes = await fetch(`${baseUrl}/api/study-room/register-study`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    },
+    body: JSON.stringify({
+      subject: 'Direito Constitucional',
+      lessonNumber: 1,
+      currentPage: 45,
+      totalPages: 45,
+      durationMinutes: 60,
+      isCompleted: true,
+      careerId: 'atrfb'
+    })
+  });
+  const regFinish = await regFinishRes.json();
+  assert.strictEqual(regFinishRes.status, 200, 'Status deve ser 200 ao concluir aula');
+  assert.strictEqual(regFinish.success, true);
+  assert.strictEqual(regFinish.xpGained, 50);
+  console.log('  ✅ 5. Registro de Conclusão de Aula (+50 XP, logActivity OK): PASSOU');
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

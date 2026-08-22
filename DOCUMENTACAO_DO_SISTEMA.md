@@ -295,6 +295,10 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
    - **Recálculo Preciso no F5**: Ao recarregar a página ou navegar de volta à Sala de Estudos, o tempo restante exato é recalculado instantaneamente sem reiniciar a contagem do zero.
    - **Preservação de Modo e Presets**: Mantém o modo ativo (`leitura`, `questoes`, `livre`) e as configurações personalizadas de tempo mesmo após fechar a aba ou reiniciar o navegador.
 
+6. **🛡️ Correção no Registro de Progresso da Sala de Estudos (`logActivity`)**:
+   - **Correção de Importação**: Inclusão de `logActivity` na importação de `server/routes/study-room.js`, eliminando o erro 500 (`logActivity is not defined`) ao salvar páginas e marcar paradas de leitura.
+   - **Garantia de XP e Auditoria**: Registro transparente de +20 XP por progresso de páginas e +50 XP por conclusão de aula com log de atividade persistido no banco de dados.
+
 ---
 
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

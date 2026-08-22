@@ -14,11 +14,14 @@ import { runRagKnowledgeTests } from './integration/rag_knowledge.test.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-async function isServerHealthy() {
+const TEST_PORT = process.env.TEST_PORT || '3099';
+const TEST_BASE_URL = `http://127.0.0.1:${TEST_PORT}`;
+
+async function isServerHealthy(url = TEST_BASE_URL) {
   try {
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), 1000);
-    const res = await fetch('http://127.0.0.1:3000/api/health', { signal: controller.signal });
+    const res = await fetch(`${url}/api/health`, { signal: controller.signal });
     clearTimeout(timeoutId);
     return res.ok;
   } catch {
@@ -35,37 +38,35 @@ async function main() {
   let spawnedServer = null;
 
   try {
-    if (!(await isServerHealthy())) {
-      console.log('📡 Servidor não detectado na porta 3000. Inicializando instância de testes...');
-      spawnedServer = spawn(process.execPath, [path.join(__dirname, '../server/index.js')], {
-        stdio: 'ignore',
-        env: { ...process.env, PORT: '3000', NODE_ENV: 'test' }
-      });
+    console.log(`📡 Inicializando servidor de testes na porta ${TEST_PORT}...`);
+    spawnedServer = spawn(process.execPath, [path.join(__dirname, '../server/index.js')], {
+      stdio: 'ignore',
+      env: { ...process.env, PORT: TEST_PORT, NODE_ENV: 'test' }
+    });
 
-      let ready = false;
-      for (let i = 0; i < 30; i++) {
-        await new Promise(r => setTimeout(r, 400));
-        if (await isServerHealthy()) {
-          ready = true;
-          break;
-        }
+    let ready = false;
+    for (let i = 0; i < 30; i++) {
+      await new Promise(r => setTimeout(r, 400));
+      if (await isServerHealthy(TEST_BASE_URL)) {
+        ready = true;
+        break;
       }
-
-      if (!ready) {
-        throw new Error('Falha ao inicializar o servidor de testes na porta 3000.');
-      }
-      console.log('✅ Servidor de testes pronto e operacional!\n');
     }
 
+    if (!ready) {
+      throw new Error(`Falha ao inicializar o servidor de testes na porta ${TEST_PORT}.`);
+    }
+    console.log('✅ Servidor de testes pronto e operacional!\n');
+
     await runUniversalPdfTests();
-    await runAuthAndIsolationTests();
-    await runStudyRoomCadenceTests();
-    await runSecurityTests();
-    await runLeiSecaAndAproveitamentoTests();
-    await runCommunityAndCadernoErrosTests();
-    await runV35FixesTests();
-    await runStudyCyclesTests();
-    await runRagKnowledgeTests();
+    await runAuthAndIsolationTests(TEST_BASE_URL);
+    await runStudyRoomCadenceTests(TEST_BASE_URL);
+    await runSecurityTests(TEST_BASE_URL);
+    await runLeiSecaAndAproveitamentoTests(TEST_BASE_URL);
+    await runCommunityAndCadernoErrosTests(TEST_BASE_URL);
+    await runV35FixesTests(TEST_BASE_URL);
+    await runStudyCyclesTests(TEST_BASE_URL);
+    await runRagKnowledgeTests(TEST_BASE_URL);
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(2);
     console.log('\n===============================================================');

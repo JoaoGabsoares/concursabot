@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import pdfParse from 'pdf-parse';
-import db from '../database.js';
+import db, { logActivity } from '../database.js';
 import { generateJSON, generateContent, streamChat } from '../gemini.js';
 import logger from '../logger.js';
 import {
