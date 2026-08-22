@@ -4,7 +4,7 @@ import { getSubjectsForCareer, getConcurseiroRank } from '../../utils/gamificati
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { api, setAuthToken } from '../../api/client';
-import { UserProfile, AccountInfo } from '../../types';
+import { UserProfile } from '../../types';
 import { 
   ShieldCheck, 
   Sparkles, 
@@ -31,7 +31,16 @@ import {
   Eye,
   EyeOff,
   BrainCircuit,
-  Compass
+  Compass,
+  TrendingUp,
+  Award,
+  Check,
+  HelpCircle,
+  ChevronDown,
+  ArrowUpRight,
+  Activity,
+  DollarSign,
+  Briefcase
 } from 'lucide-react';
 
 interface PublicDashboardPageProps {
@@ -39,6 +48,18 @@ interface PublicDashboardPageProps {
   isDark: boolean;
   onToggleTheme: () => void;
 }
+
+// Extra Career Metadata for Rich Showcase
+const CAREER_METRICS: Record<string, { salary: string; vacancies: string; competition: string; badgeColor: string }> = {
+  atrfb: { salary: 'R$ 11.689,15/mês', vacancies: '469 Vagas', competition: '184 cand/vaga', badgeColor: 'from-blue-600 to-cyan-500' },
+  afrfb: { salary: 'R$ 21.029,09/mês', vacancies: '230 Vagas', competition: '240 cand/vaga', badgeColor: 'from-amber-500 to-yellow-400' },
+  bb_comercial: { salary: 'R$ 5.430,00/mês', vacancies: '3.000 Vagas', competition: '380 cand/vaga', badgeColor: 'from-emerald-500 to-teal-400' },
+  bb_ti: { salary: 'R$ 5.600,00/mês + PLR', vacancies: '1.500 Vagas', competition: '92 cand/vaga', badgeColor: 'from-cyan-500 to-blue-600' },
+  transpetro_adm: { salary: 'R$ 5.540,00/mês', vacancies: 'Cadastro Reserva', competition: '140 cand/vaga', badgeColor: 'from-purple-500 to-pink-500' },
+  transpetro_log: { salary: 'R$ 5.540,00/mês', vacancies: 'Quadro Terra', competition: '110 cand/vaga', badgeColor: 'from-indigo-500 to-blue-500' },
+  ses_rj: { salary: 'R$ 4.890,00/mês', vacancies: 'Edital 2026', competition: '160 cand/vaga', badgeColor: 'from-teal-500 to-emerald-500' },
+  marinha_rm2: { salary: 'R$ 4.300,00/mês', vacancies: 'Anual (RM2)', competition: '85 cand/vaga', badgeColor: 'from-blue-700 to-indigo-600' }
+};
 
 interface DemoPegadinha {
   id: string;
@@ -84,6 +105,22 @@ const DEMO_PEGADINHAS: DemoPegadinha[] = [
   }
 ];
 
+// Demo FGV Question for Lab 2
+const DEMO_FGV_QUESTION = {
+  career: 'Receita Federal — Analista-Tributário (ATRFB)',
+  banca: 'FGV (Fundação Getulio Vargas)',
+  enunciado: 'Tício, auditor-fiscal em fiscalização aduaneira no Porto de Santos, identifica mercadoria importada com documentação inidônea e declaração de valor flagrantemente subfaturado. Ao ser questionado pelo importador, Tício concede prazo discricionário de 60 dias sem previsão regulamentar para apresentação de novos documentos, abstendo-se de lavrar o auto de infração imediato. À luz dos princípios constitucionais tributários e das regras de lançamento do CTN, a conduta de Tício:',
+  options: [
+    { letter: 'A', text: 'É válida, pois o princípio da razoabilidade confere ao auditor a discricionariedade na escolha do momento da autuação.' },
+    { letter: 'B', text: 'É ilícita, pois a atividade administrativa de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional (Art. 142, parágrafo único do CTN).' },
+    { letter: 'C', text: 'Gera apenas nulidade relativa sanável por despacho fundamentado da chefia imediata.' },
+    { letter: 'D', text: 'É facultada pelo regime de autolançamento tributário aduaneiro.' },
+    { letter: 'E', text: 'Depende de prévia autorização judicial para configurar infração funcional.' }
+  ],
+  correct: 'B',
+  explanation: 'A FGV explora frequentemente a distinção entre atos vinculados e discricionários em matéria fiscal. Conforme o Art. 142, parágrafo único do CTN, a atividade de lançamento tributário é rigorosamente vinculada e obrigatória, sob pena de responsabilidade funcional do agente público. O auditor não possui margem de discricionariedade para postergar a autuação aduaneira.'
+};
+
 export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
   onSelectUser,
   isDark,
@@ -94,14 +131,26 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
   // Selected Career for Live Showcase
   const [selectedCareerId, setSelectedCareerId] = useState<string>('atrfb');
   const activeCareer = getCareerById(selectedCareerId);
+  const activeMetrics = CAREER_METRICS[selectedCareerId] || CAREER_METRICS.atrfb;
   const careerSubjects = getSubjectsForCareer(selectedCareerId);
 
-  // Demo Pegadinha State
+  // Lab 1: Demo Pegadinha State
   const [activeDemoIdx, setActiveDemoIdx] = useState<number>(0);
   const [timerLeft, setTimerLeft] = useState<number>(15);
   const [timerRunning, setTimerRunning] = useState<boolean>(false);
   const [demoAnswered, setDemoAnswered] = useState<boolean>(false);
   const [demoResult, setDemoResult] = useState<{ isCorrect: boolean; message: string } | null>(null);
+
+  // Lab 2: Demo FGV Question State
+  const [fgvSelectedOption, setFgvSelectedOption] = useState<string | null>(null);
+  const [fgvSubmitted, setFgvSubmitted] = useState<boolean>(false);
+
+  // Lab 3: Demo Matrix Aproveitamento State
+  const [matrixFrom, setMatrixFrom] = useState<string>('bb_comercial');
+  const [matrixTo, setMatrixTo] = useState<string>('transpetro_adm');
+
+  // FAQ Accordion State
+  const [openFaq, setOpenFaq] = useState<number | null>(0);
 
   // Auth Modal State
   const [showAuthModal, setShowAuthModal] = useState<boolean>(false);
@@ -214,7 +263,6 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
         if (res.profiles && res.profiles.length > 0) {
           handleEnterProfile(res.profiles[0]);
         } else {
-          // Auto-create default profile with selected career
           const newProf = await api.createUserProfile({
             name: res.account.name || 'Aluno Gabarito',
             careerId: selectedCareerId,
@@ -307,44 +355,77 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
     });
   };
 
+  // Matrix Affinity Calculation
+  const getMatrixPercentage = () => {
+    if (matrixFrom === matrixTo) return 100;
+    if ((matrixFrom.includes('bb') && matrixTo.includes('transpetro')) || (matrixFrom.includes('transpetro') && matrixTo.includes('bb'))) return 68;
+    if (matrixFrom.includes('atrfb') && matrixTo.includes('afrfb')) return 85;
+    if ((matrixFrom.includes('atrfb') || matrixFrom.includes('afrfb')) && matrixTo.includes('transpetro')) return 45;
+    return 52;
+  };
+
+  const ranksList = [
+    { level: 1, title: 'Recruta do Edital', xp: '0 XP' },
+    { level: 2, title: 'Sentinela da Lei Seca', xp: '500 XP' },
+    { level: 3, title: 'Operador de Questões', xp: '1.200 XP' },
+    { level: 4, title: 'Guardião da Jurisprudência', xp: '2.500 XP' },
+    { level: 5, title: 'Estrategista de Prova', xp: '4.500 XP' },
+    { level: 6, title: 'Mestre da Redação', xp: '7.500 XP' },
+    { level: 7, title: 'Auditor Aspirante', xp: '12.000 XP' },
+    { level: 8, title: 'Inspetor Sênior', xp: '18.000 XP' },
+    { level: 9, title: 'Especialista de Elite', xp: '26.000 XP' },
+    { level: 10, title: 'Titular Homologado', xp: '36.000 XP' }
+  ];
+
   return (
-    <div className="min-h-screen w-screen overflow-x-hidden bg-[var(--bg-base)] text-[var(--text-primary)] font-sans flex flex-col justify-between selection:bg-[var(--accent-primary)] selection:text-white">
+    <div className="min-h-screen w-full overflow-y-auto overflow-x-hidden bg-[var(--bg-base)] text-[var(--text-primary)] font-sans flex flex-col justify-between selection:bg-[var(--accent-primary)] selection:text-white bg-grid-cyber">
       
       {/* ============================================================ */}
       {/* 1. TOP NAVIGATION HEADER                                     */}
       {/* ============================================================ */}
-      <header className="sticky top-0 z-40 w-full border-b border-[var(--border-subtle)] bg-[var(--bg-surface)]/90 backdrop-blur-md px-4 sm:px-8 py-3.5">
+      <header className="sticky top-0 z-40 w-full border-b border-[var(--border-subtle)] bg-[var(--bg-surface)]/90 backdrop-blur-xl px-4 sm:px-8 py-3.5 shadow-sm">
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-4">
           
           {/* Logo & Platform Status */}
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-[var(--accent-primary)] text-white flex items-center justify-center font-display font-black text-xl shadow-md">
+            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-600 via-indigo-600 to-cyan-500 text-white flex items-center justify-center font-display font-black text-xl shadow-lg shadow-blue-500/20">
               G
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <span className="font-display font-bold text-lg sm:text-xl tracking-tight text-[var(--text-primary)]">
-                  Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
+                <span className="font-display font-black text-xl tracking-tight text-[var(--text-primary)]">
+                  Gabarito<span className="text-cyan-400 font-mono font-normal">.AI</span>
                 </span>
-                <span className="hidden sm:inline-flex px-2 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-500 font-mono text-[10px] font-bold">
-                  SISTEMA ONLINE
+                <span className="hidden sm:inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 font-mono text-[10px] font-bold">
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                  SISTEMA ATIVO
                 </span>
               </div>
               <p className="text-[11px] font-mono text-[var(--text-muted)] hidden md:block">
-                Motor Heurístico de Provas & Inteligência de Bancas
+                Inteligência Heurística & Metodologia Ativa de Bancas
               </p>
             </div>
           </div>
+
+          {/* Navigation Anchors */}
+          <nav className="hidden lg:flex items-center gap-6 font-mono text-xs text-[var(--text-secondary)]">
+            <a href="#simulador" className="hover:text-cyan-400 transition-colors">Simulador</a>
+            <a href="#laboratorios" className="hover:text-cyan-400 transition-colors">Laboratórios</a>
+            <a href="#metodologia" className="hover:text-cyan-400 transition-colors">Metodologia</a>
+            <a href="#comparativo" className="hover:text-cyan-400 transition-colors">Comparativo</a>
+            <a href="#patentes" className="hover:text-cyan-400 transition-colors">Patentes</a>
+            <a href="#faq" className="hover:text-cyan-400 transition-colors">FAQ</a>
+          </nav>
 
           {/* Quick Actions */}
           <div className="flex items-center gap-2.5">
             <button
               type="button"
               onClick={onToggleTheme}
-              className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer"
+              className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer shadow-sm"
               title={isDark ? "Modo Claro" : "Modo Escuro"}
             >
-              {isDark ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
+              {isDark ? <Sun className="w-4 h-4 text-amber-400" /> : <Moon className="w-4 h-4 text-blue-500" />}
             </button>
 
             <Button
@@ -369,9 +450,9 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                 setAuthError(null);
                 setShowAuthModal(true);
               }}
-              className="font-mono text-xs font-bold shadow-md"
+              className="font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 shadow-md shadow-blue-500/20"
             >
-              <Sparkles className="w-3.5 h-3.5" />
+              <Sparkles className="w-3.5 h-3.5 text-cyan-200" />
               <span>Começar Grátis</span>
             </Button>
           </div>
@@ -382,40 +463,63 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
       {/* ============================================================ */}
       {/* 2. HERO INTERATIVO: SELETOR DE CARREIRAS AO VIVO             */}
       {/* ============================================================ */}
-      <main className="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-8 py-8 sm:py-12 space-y-12">
+      <main className="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-8 py-8 sm:py-14 space-y-16">
         
+        {/* Live Metrics Ticker Bar */}
+        <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-8 p-3 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] shadow-md font-mono text-xs text-[var(--text-muted)]">
+          <div className="flex items-center gap-2">
+            <span className="w-2 h-2 rounded-full bg-cyan-400 animate-ping"></span>
+            <span className="text-[var(--text-primary)] font-bold">24.850+</span> Questões Classificadas
+          </div>
+          <span className="text-[var(--border-subtle)] hidden sm:inline">•</span>
+          <div className="flex items-center gap-2">
+            <Activity className="w-3.5 h-3.5 text-emerald-400" />
+            <span className="text-[var(--text-primary)] font-bold">1.420</span> Simulados Hoje
+          </div>
+          <span className="text-[var(--border-subtle)] hidden sm:inline">•</span>
+          <div className="flex items-center gap-2">
+            <BrainCircuit className="w-3.5 h-3.5 text-purple-400" />
+            Bancas <strong className="text-cyan-400">FGV</strong>, <strong className="text-emerald-400">Cesgranrio</strong> & <strong className="text-amber-400">Cebraspe</strong>
+          </div>
+        </div>
+
         {/* Hero Title & Value Proposition */}
         <div className="text-center max-w-4xl mx-auto space-y-4">
-          <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--accent-primary)] font-bold">
-            <BrainCircuit className="w-4 h-4" />
-            <span>METODOLOGIA ATIVA • DNA DE PROVA FGV, CESGRANRIO & CEBRASPE</span>
+          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-gradient-to-r from-blue-500/10 via-cyan-500/10 to-indigo-500/10 border border-cyan-500/30 text-xs font-mono text-cyan-400 font-bold glow-blue">
+            <Sparkles className="w-4 h-4 text-cyan-300" />
+            <span>METODOLOGIA ATIVA DE ALTO IMPACTO PARA CONCURSOS DE ELITE</span>
           </div>
 
-          <h1 className="font-display font-black text-3xl sm:text-5xl lg:text-6xl text-[var(--text-primary)] tracking-tight leading-[1.15]">
-            A Preparação de Elite com <br className="hidden sm:inline" />
-            <span className="text-[var(--accent-primary)]">Inteligência Estratégica de Bancas</span>
+          <h1 className="font-display font-black text-3xl sm:text-5xl lg:text-6xl text-[var(--text-primary)] tracking-tight leading-[1.12]">
+            Acelere sua Aprovação com <br className="hidden sm:inline" />
+            <span className="bg-gradient-to-r from-blue-400 via-cyan-300 to-indigo-400 bg-clip-text text-transparent">
+              Inteligência Heurística de Provas
+            </span>
           </h1>
 
           <p className="text-sm sm:text-base text-[var(--text-secondary)] leading-relaxed max-w-2xl mx-auto">
-            Simulados cronometrados com pesos reais do edital, caça-pegadinhas da lei seca em 15s, correção dissertativa por critérios e caderno de erros com repetição espaçada SM-2.
+            Simulados calibrados com a malícia da sua banca examinadora, caça-pegadinhas da lei em 15s, correção dissertativa por critérios e caderno de erros com ciclo SM-2.
           </p>
         </div>
 
-        {/* Dynamic Career Selector Bar */}
-        <div className="space-y-3">
+        {/* ============================================================ */}
+        {/* SECTION: SIMULADOR AO VIVO DE CARREIRAS (BENTO HERO)         */}
+        {/* ============================================================ */}
+        <section id="simulador" className="space-y-4 pt-4 scroll-mt-24">
           <div className="flex items-center justify-between px-1">
             <div className="flex items-center gap-2">
-              <Compass className="w-4 h-4 text-[var(--accent-primary)]" />
-              <span className="font-mono text-xs font-bold text-[var(--text-primary)] uppercase tracking-wider">
-                1. Selecione o Certame Desejado para Simulação em Tempo Real:
+              <Compass className="w-5 h-5 text-cyan-400" />
+              <span className="font-mono text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wider">
+                1. Selecione o Certame para Simulação em Tempo Real:
               </span>
             </div>
-            <span className="text-[11px] font-mono text-[var(--text-muted)] hidden sm:inline">
-              9 Editais Oficiais Mapeados
+            <span className="text-xs font-mono text-cyan-400 font-bold hidden sm:inline">
+              9 Editais Disponíveis
             </span>
           </div>
 
-          <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-thin">
+          {/* Interactive Career Buttons Grid */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2">
             {CAREERS_LIST.map((career) => {
               const isSelected = career.id === selectedCareerId;
               return (
@@ -423,282 +527,608 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   key={career.id}
                   type="button"
                   onClick={() => setSelectedCareerId(career.id)}
-                  className={`px-4 py-2.5 rounded-xl font-mono text-xs font-bold shrink-0 transition-all flex items-center gap-2 border cursor-pointer ${
+                  className={`p-2.5 rounded-xl font-mono text-xs font-bold transition-all text-center flex flex-col items-center justify-center gap-1 border cursor-pointer ${
                     isSelected
-                      ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-md scale-[1.02]'
-                      : 'bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:border-[var(--border-focus)]'
+                      ? 'bg-gradient-to-b from-blue-600 to-indigo-700 text-white border-cyan-400 shadow-lg shadow-blue-500/20 scale-[1.03]'
+                      : 'bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:border-cyan-500/40'
                   }`}
                 >
-                  <Target className="w-3.5 h-3.5" />
-                  <span>{career.name.split('—')[0].trim()}</span>
-                  <span className={`text-[10px] px-1.5 py-0.2 rounded ${isSelected ? 'bg-white/20 text-white' : 'bg-[var(--bg-elevated)] text-[var(--text-muted)]'}`}>
+                  <span className="truncate w-full">{career.name.split('—')[0].trim()}</span>
+                  <span className={`text-[10px] px-1.5 py-0.2 rounded font-semibold ${isSelected ? 'bg-white/20 text-white' : 'bg-[var(--bg-elevated)] text-[var(--text-muted)]'}`}>
                     {career.banca.split(' ')[0]}
                   </span>
                 </button>
               );
             })}
           </div>
-        </div>
 
-        {/* Live Career Radar & Edital Breakdown Card */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-stretch">
-          
-          {/* Card A: Raio-X da Carreira Selecionada */}
-          <Card className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6 bg-[var(--bg-surface)] border-l-4 border-l-[var(--accent-primary)] shadow-xl">
-            <div className="space-y-4">
-              <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-[var(--border-subtle)]">
-                <div className="flex items-center gap-2">
-                  <CarimboStatus status="homologado" label={`BANCA ${activeCareer.banca.toUpperCase()}`} />
-                  <span className="font-mono text-xs font-bold text-[var(--text-muted)]">
-                    EDITAL VERTICALIZADO
+          {/* Live Career Bento Card */}
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-stretch">
+            
+            {/* Card A: Raio-X & Salário da Carreira */}
+            <Card className="lg:col-span-7 p-6 sm:p-8 flex flex-col justify-between space-y-6 bg-[var(--bg-surface)] border-l-4 border-l-cyan-500 shadow-2xl relative overflow-hidden">
+              <div className="space-y-4">
+                <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-[var(--border-subtle)]">
+                  <div className="flex items-center gap-2">
+                    <CarimboStatus status="homologado" label={`BANCA ${activeCareer.banca.toUpperCase()}`} />
+                    <span className="font-mono text-xs font-bold text-[var(--text-muted)]">
+                      EDITAL VERTICALIZADO
+                    </span>
+                  </div>
+                  <span className="px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 font-mono text-xs font-bold">
+                    💰 {activeMetrics.salary}
                   </span>
                 </div>
-                <div className="flex items-center gap-1 font-mono text-xs text-[var(--accent-primary)] font-bold">
-                  <span>RECOMPENSA: +50 XP/SIMULADO</span>
+
+                <div>
+                  <h2 className="font-display font-black text-2xl sm:text-3xl text-[var(--text-primary)]">
+                    {activeCareer.name}
+                  </h2>
+                  <p className="text-xs sm:text-sm text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                    {activeCareer.description}
+                  </p>
+                </div>
+
+                {/* Key Metrics Badges */}
+                <div className="grid grid-cols-3 gap-2 font-mono text-xs">
+                  <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-center">
+                    <div className="text-[10px] text-[var(--text-muted)] uppercase">Vagas</div>
+                    <div className="font-bold text-cyan-400 mt-0.5">{activeMetrics.vacancies}</div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-center">
+                    <div className="text-[10px] text-[var(--text-muted)] uppercase">Concorrência</div>
+                    <div className="font-bold text-amber-400 mt-0.5">{activeMetrics.competition}</div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-center">
+                    <div className="text-[10px] text-[var(--text-muted)] uppercase">Simulados</div>
+                    <div className="font-bold text-emerald-400 mt-0.5">Disponível</div>
+                  </div>
+                </div>
+
+                {/* Subject Weight Distribution Bars */}
+                <div className="space-y-2 pt-2">
+                  <div className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider flex justify-between">
+                    <span>Matérias de Maior Peso no Edital:</span>
+                    <span className="text-cyan-400">Distribuição Oficial da Banca</span>
+                  </div>
+
+                  <div className="space-y-2">
+                    {careerSubjects.slice(0, 4).map((subj, idx) => (
+                      <div key={idx} className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono">
+                        <span className="font-bold text-[var(--text-primary)]">{subj.name}</span>
+                        <span className="px-2 py-0.5 rounded bg-[var(--bg-surface)] text-cyan-400 font-bold border border-[var(--border-subtle)]">
+                          Peso: {subj.weight}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
                 </div>
               </div>
 
-              <div>
-                <h2 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)]">
-                  {activeCareer.name}
-                </h2>
-                <p className="text-xs sm:text-sm text-[var(--text-secondary)] mt-1 leading-relaxed">
-                  {activeCareer.description}
-                </p>
-              </div>
-
-              {/* Tags & Attributes */}
-              <div className="flex flex-wrap gap-2 pt-1">
-                {activeCareer.tags.map((tag, idx) => (
-                  <span key={idx} className="px-2.5 py-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-primary)] font-semibold">
-                    🏷️ {tag}
-                  </span>
-                ))}
-              </div>
-
-              {/* Weight Breakdown of Subjects */}
-              <div className="space-y-2 pt-2">
-                <div className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider flex justify-between">
-                  <span>Matérias de Maior Peso no Certame:</span>
-                  <span className="text-[var(--accent-primary)]">Distribuição Oficial</span>
-                </div>
-
-                <div className="space-y-2">
-                  {careerSubjects.slice(0, 4).map((subj, idx) => (
-                    <div key={idx} className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono">
-                      <span className="font-bold text-[var(--text-primary)]">{subj.name}</span>
-                      <span className="px-2 py-0.5 rounded bg-[var(--bg-surface)] text-[var(--accent-primary)] font-bold border border-[var(--border-subtle)]">
-                        Peso: {subj.weight}
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-
-            <div className="pt-4 border-t border-[var(--border-subtle)] flex flex-col sm:flex-row items-center justify-between gap-3">
-              <span className="text-xs font-mono text-[var(--text-muted)]">
-                Ambiente calibrado para os padrões da <strong>{activeCareer.banca}</strong>
-              </span>
-              <Button
-                variant="brand"
-                size="md"
-                onClick={() => {
-                  setAuthTab('register');
-                  setShowAuthModal(true);
-                }}
-                className="w-full sm:w-auto font-mono text-xs font-bold shadow-md"
-              >
-                <span>Acessar Este Concurso</span>
-                <ArrowRight className="w-4 h-4" />
-              </Button>
-            </div>
-          </Card>
-
-          {/* Card B: Laboratório Caça-Pegadinhas da Lei ao Vivo (15s) */}
-          <Card className="lg:col-span-5 p-6 sm:p-8 flex flex-col justify-between space-y-5 bg-[var(--bg-surface)] border-t-4 border-t-amber-500 shadow-xl">
-            <div className="space-y-3">
-              <div className="flex items-center justify-between">
-                <div className="flex items-center gap-2">
-                  <Scale className="w-5 h-5 text-amber-500 animate-pulse" />
-                  <span className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider">
-                    Desafio Caça-Pegadinhas (15s)
-                  </span>
-                </div>
-                <div className={`px-2.5 py-1 rounded-lg font-mono text-xs font-bold flex items-center gap-1.5 ${timerRunning ? 'bg-amber-500 text-white animate-pulse' : 'bg-[var(--bg-elevated)] text-[var(--text-muted)]'}`}>
-                  <Timer className="w-3.5 h-3.5" />
-                  <span>{timerLeft}s</span>
-                </div>
-              </div>
-
-              <div>
-                <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                  Teste seu Reflexo Jurídico de Prova
-                </h3>
-                <p className="text-xs text-[var(--text-secondary)] mt-0.5">
-                  Treine a identificação instantânea de armadilhas literais da lei seca.
-                </p>
-              </div>
-
-              {/* Legal Text Snippet */}
-              <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
-                <div className="flex items-center justify-between font-mono text-[11px] text-[var(--accent-primary)] font-bold">
-                  <span>{DEMO_PEGADINHAS[activeDemoIdx].source}</span>
-                  <span className="text-[var(--text-muted)]">{DEMO_PEGADINHAS[activeDemoIdx].banca}</span>
-                </div>
-                <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-serif italic">
-                  "{DEMO_PEGADINHAS[activeDemoIdx].text}"
-                </p>
-              </div>
-
-              {/* Action Buttons */}
-              {!timerRunning && !demoAnswered ? (
+              <div className="pt-4 border-t border-[var(--border-subtle)] flex flex-col sm:flex-row items-center justify-between gap-3">
+                <span className="text-xs font-mono text-[var(--text-muted)]">
+                  Simulador calibrado para os padrões da <strong>{activeCareer.banca}</strong>
+                </span>
                 <Button
                   variant="brand"
-                  fullWidth={true}
                   size="md"
-                  onClick={() => handleStartPegadinha(activeDemoIdx)}
-                  className="font-mono text-xs font-bold shadow-md mt-2"
+                  onClick={() => {
+                    setAuthTab('register');
+                    setShowAuthModal(true);
+                  }}
+                  className="w-full sm:w-auto font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20"
                 >
-                  <Zap className="w-4 h-4 text-amber-300" />
-                  <span>Iniciar Desafio de 15 Segundos</span>
+                  <span>Iniciar Treinamento Oficial</span>
+                  <ArrowRight className="w-4 h-4" />
                 </Button>
-              ) : timerRunning ? (
-                <div className="grid grid-cols-2 gap-2.5 pt-1">
-                  <Button
-                    variant="danger"
-                    size="md"
-                    onClick={() => handleAnswerPegadinha(true)}
-                    className="font-mono text-xs font-bold"
-                  >
-                    <XCircle className="w-4 h-4" />
-                    <span>TEM PEGADINHA</span>
-                  </Button>
-                  <Button
-                    variant="brand"
-                    size="md"
-                    onClick={() => handleAnswerPegadinha(false)}
-                    className="font-mono text-xs font-bold"
-                  >
-                    <CheckCircle2 className="w-4 h-4" />
-                    <span>TEXTO CORRETO</span>
-                  </Button>
-                </div>
-              ) : null}
+              </div>
+            </Card>
 
-              {/* Feedback Alert */}
-              {demoResult && (
-                <div className={`p-4 rounded-xl border text-xs font-mono space-y-1.5 animate-fade-in ${demoResult.isCorrect ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-500' : 'bg-rose-500/10 border-rose-500/30 text-rose-500'}`}>
-                  <div className="font-bold flex items-center gap-1.5">
-                    {demoResult.isCorrect ? <CheckCircle2 className="w-4 h-4" /> : <XCircle className="w-4 h-4" />}
-                    <span>{demoResult.isCorrect ? "RESPOSTA CORRETA!" : "RESPOSTA INCORRETA!"}</span>
+            {/* Card B: Demonstração de Questão com DNA FGV */}
+            <Card className="lg:col-span-5 p-6 sm:p-8 flex flex-col justify-between space-y-4 bg-[var(--bg-surface)] border-t-4 border-t-purple-500 shadow-2xl">
+              <div className="space-y-3">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <BrainCircuit className="w-5 h-5 text-purple-400" />
+                    <span className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider">
+                      DNA da Banca FGV • Caso Prático
+                    </span>
                   </div>
-                  <p className="text-[11px] text-[var(--text-primary)] leading-relaxed font-sans">
-                    {demoResult.message}
-                  </p>
-                  <button
-                    type="button"
-                    onClick={() => handleStartPegadinha((activeDemoIdx + 1) % DEMO_PEGADINHAS.length)}
-                    className="text-[11px] font-bold underline text-[var(--accent-primary)] hover:opacity-80 pt-1 cursor-pointer"
-                  >
-                    Próxima Questão de Teste →
-                  </button>
+                  <span className="px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 font-mono text-[10px] font-bold">
+                    INÉDITA
+                  </span>
                 </div>
-              )}
-            </div>
 
-            <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono text-[var(--text-muted)]">
-              <span>MÓDULO LEI SECA ATIVA</span>
-              <span className="font-bold text-amber-400">+10 XP por acerto</span>
-            </div>
-          </Card>
+                <p className="text-xs text-[var(--text-secondary)] leading-relaxed font-sans">
+                  {DEMO_FGV_QUESTION.enunciado}
+                </p>
 
-        </div>
+                {/* Options List */}
+                <div className="space-y-1.5 pt-1">
+                  {DEMO_FGV_QUESTION.options.slice(0, 3).map((opt) => {
+                    const isSelected = fgvSelectedOption === opt.letter;
+                    const isCorrect = opt.letter === DEMO_FGV_QUESTION.correct;
+
+                    return (
+                      <button
+                        key={opt.letter}
+                        type="button"
+                        onClick={() => {
+                          setFgvSelectedOption(opt.letter);
+                          setFgvSubmitted(true);
+                        }}
+                        className={`w-full p-2.5 rounded-xl border text-left text-xs transition-all flex items-start gap-2.5 cursor-pointer ${
+                          fgvSubmitted && isCorrect
+                            ? 'bg-emerald-500/15 border-emerald-500 text-emerald-400 font-semibold'
+                            : fgvSubmitted && isSelected && !isCorrect
+                            ? 'bg-rose-500/15 border-rose-500 text-rose-400 font-semibold'
+                            : isSelected
+                            ? 'bg-blue-600/20 border-blue-500 text-[var(--text-primary)]'
+                            : 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] border-[var(--border-subtle)] text-[var(--text-secondary)]'
+                        }`}
+                      >
+                        <span className="font-mono font-bold shrink-0 px-1.5 py-0.5 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[10px]">
+                          {opt.letter}
+                        </span>
+                        <span className="leading-snug">{opt.text}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+
+                {/* Instant Explanation Feedback */}
+                {fgvSubmitted && (
+                  <div className="p-3.5 rounded-xl bg-purple-500/10 border border-purple-500/30 text-xs space-y-1 animate-fade-in font-mono">
+                    <div className="font-bold text-purple-300 flex items-center gap-1.5">
+                      <Sparkles className="w-3.5 h-3.5" />
+                      <span>Análise Semântica da IA:</span>
+                    </div>
+                    <p className="text-[11px] text-[var(--text-secondary)] font-sans leading-relaxed">
+                      {DEMO_FGV_QUESTION.explanation}
+                    </p>
+                  </div>
+                )}
+              </div>
+
+              <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono text-[var(--text-muted)]">
+                <span>SIMULADOR INTELIGENTE</span>
+                <span className="text-purple-400 font-bold">+25 XP por acerto</span>
+              </div>
+            </Card>
+
+          </div>
+        </section>
 
         {/* ============================================================ */}
-        {/* 3. OS 4 PILARES DE ALTA PERFORMANCE DO GABARITO.AI           */}
+        {/* SECTION: 3 LABORATÓRIOS INTERATIVOS DE TESTE AO VIVO        */}
         {/* ============================================================ */}
-        <div className="space-y-6 pt-6">
+        <section id="laboratorios" className="space-y-6 pt-8 scroll-mt-24">
           <div className="text-center space-y-1.5">
-            <h2 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)]">
-              Metodologia de Alta Retenção & Heurística de Banca
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-xs font-mono text-amber-400 font-bold">
+              <Zap className="w-3.5 h-3.5 text-amber-300" />
+              <span>EXPERIÊNCIA PRÁTICA IMEDIATA</span>
+            </div>
+            <h2 className="font-display font-black text-2xl sm:text-4xl text-[var(--text-primary)]">
+              Laboratórios de Treinamento Ativo
             </h2>
             <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-xl mx-auto">
-              Projetado para eliminar ruídos e direcionar 100% do seu esforço para o que realmente pontua na sua prova.
+              Teste os 3 motores exclusivos antes de criar sua conta.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            
+            {/* Lab 1: Caça-Pegadinhas da Lei (15s) */}
+            <Card className="p-6 sm:p-8 flex flex-col justify-between space-y-5 bg-[var(--bg-surface)] border-t-4 border-t-amber-500 shadow-xl glow-amber">
+              <div className="space-y-3">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Scale className="w-5 h-5 text-amber-400 animate-pulse" />
+                    <span className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider">
+                      Laboratório 01 • Caça-Pegadinhas da Lei Seca
+                    </span>
+                  </div>
+                  <div className={`px-2.5 py-1 rounded-lg font-mono text-xs font-bold flex items-center gap-1.5 ${timerRunning ? 'bg-amber-500 text-white animate-pulse' : 'bg-[var(--bg-elevated)] text-[var(--text-muted)]'}`}>
+                    <Timer className="w-3.5 h-3.5" />
+                    <span>{timerLeft}s</span>
+                  </div>
+                </div>
+
+                <div>
+                  <h3 className="font-display font-bold text-xl text-[var(--text-primary)]">
+                    Reflexo Rápido na Letra da Lei
+                  </h3>
+                  <p className="text-xs text-[var(--text-secondary)] mt-0.5">
+                    Identifique em 15s se a banca alterou uma palavra crucial do artigo.
+                  </p>
+                </div>
+
+                {/* Legal Text Snippet */}
+                <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+                  <div className="flex items-center justify-between font-mono text-[11px] text-cyan-400 font-bold">
+                    <span>{DEMO_PEGADINHAS[activeDemoIdx].source}</span>
+                    <span className="text-[var(--text-muted)]">{DEMO_PEGADINHAS[activeDemoIdx].banca}</span>
+                  </div>
+                  <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-serif italic">
+                    "{DEMO_PEGADINHAS[activeDemoIdx].text}"
+                  </p>
+                </div>
+
+                {/* Action Buttons */}
+                {!timerRunning && !demoAnswered ? (
+                  <Button
+                    variant="brand"
+                    fullWidth={true}
+                    size="md"
+                    onClick={() => handleStartPegadinha(activeDemoIdx)}
+                    className="font-mono text-xs font-bold bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-400 hover:to-orange-500 shadow-md shadow-amber-500/20 mt-2"
+                  >
+                    <Zap className="w-4 h-4 text-amber-200" />
+                    <span>Iniciar Desafio de 15 Segundos</span>
+                  </Button>
+                ) : timerRunning ? (
+                  <div className="grid grid-cols-2 gap-2.5 pt-1">
+                    <Button
+                      variant="danger"
+                      size="md"
+                      onClick={() => handleAnswerPegadinha(true)}
+                      className="font-mono text-xs font-bold"
+                    >
+                      <XCircle className="w-4 h-4" />
+                      <span>TEM PEGADINHA</span>
+                    </Button>
+                    <Button
+                      variant="brand"
+                      size="md"
+                      onClick={() => handleAnswerPegadinha(false)}
+                      className="font-mono text-xs font-bold bg-emerald-600 hover:bg-emerald-500"
+                    >
+                      <CheckCircle2 className="w-4 h-4" />
+                      <span>TEXTO CORRETO</span>
+                    </Button>
+                  </div>
+                ) : null}
+
+                {/* Feedback Alert */}
+                {demoResult && (
+                  <div className={`p-4 rounded-xl border text-xs font-mono space-y-1.5 animate-fade-in ${demoResult.isCorrect ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-400' : 'bg-rose-500/10 border-rose-500/30 text-rose-400'}`}>
+                    <div className="font-bold flex items-center gap-1.5">
+                      {demoResult.isCorrect ? <CheckCircle2 className="w-4 h-4" /> : <XCircle className="w-4 h-4" />}
+                      <span>{demoResult.isCorrect ? "RESPOSTA CORRETA!" : "RESPOSTA INCORRETA!"}</span>
+                    </div>
+                    <p className="text-[11px] text-[var(--text-primary)] leading-relaxed font-sans">
+                      {demoResult.message}
+                    </p>
+                    <button
+                      type="button"
+                      onClick={() => handleStartPegadinha((activeDemoIdx + 1) % DEMO_PEGADINHAS.length)}
+                      className="text-[11px] font-bold underline text-cyan-400 hover:opacity-80 pt-1 cursor-pointer"
+                    >
+                      Testar Próximo Artigo →
+                    </button>
+                  </div>
+                )}
+              </div>
+
+              <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono text-[var(--text-muted)]">
+                <span>MÓDULO LEI SECA ATIVA</span>
+                <span className="font-bold text-amber-400">+10 XP por acerto</span>
+              </div>
+            </Card>
+
+            {/* Lab 2: Matriz de Aproveitamento Interativa */}
+            <Card className="p-6 sm:p-8 flex flex-col justify-between space-y-5 bg-[var(--bg-surface)] border-t-4 border-t-emerald-500 shadow-xl glow-emerald">
+              <div className="space-y-4">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <TrendingUp className="w-5 h-5 text-emerald-400" />
+                    <span className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider">
+                      Laboratório 02 • Matriz de Aproveitamento
+                    </span>
+                  </div>
+                  <span className="px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 font-mono text-[10px] font-bold">
+                    TRANSIÇÃO DE EDITAIS
+                  </span>
+                </div>
+
+                <div>
+                  <h3 className="font-display font-bold text-xl text-[var(--text-primary)]">
+                    Simulador de Compatibilidade entre Concursos
+                  </h3>
+                  <p className="text-xs text-[var(--text-secondary)] mt-0.5">
+                    Descubra quanto do seu estudo atual pode ser reaproveitado em outro edital.
+                  </p>
+                </div>
+
+                {/* Dropdowns */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 font-mono text-xs">
+                  <div className="space-y-1">
+                    <label className="text-[10px] text-[var(--text-muted)] uppercase font-bold">Estudei Para:</label>
+                    <select
+                      value={matrixFrom}
+                      onChange={(e) => setMatrixFrom(e.target.value)}
+                      className="w-full p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none"
+                    >
+                      <option value="bb_comercial">Banco do Brasil (Comercial)</option>
+                      <option value="atrfb">Receita Federal (ATRFB)</option>
+                      <option value="transpetro_adm">Transpetro (Administração)</option>
+                    </select>
+                  </div>
+
+                  <div className="space-y-1">
+                    <label className="text-[10px] text-[var(--text-muted)] uppercase font-bold">Quero Migrar Para:</label>
+                    <select
+                      value={matrixTo}
+                      onChange={(e) => setMatrixTo(e.target.value)}
+                      className="w-full p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none"
+                    >
+                      <option value="transpetro_adm">Transpetro (Administração)</option>
+                      <option value="afrfb">Receita Federal (AFRFB)</option>
+                      <option value="bb_comercial">Banco do Brasil (Comercial)</option>
+                    </select>
+                  </div>
+                </div>
+
+                {/* Affinity Gauge Bar */}
+                <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+                  <div className="flex items-center justify-between font-mono text-xs">
+                    <span className="text-[var(--text-muted)]">ÍNDICE DE AFINIDADE CURRICULAR:</span>
+                    <span className="font-bold text-emerald-400 text-sm">{getMatrixPercentage()}% de Base Comum</span>
+                  </div>
+                  <div className="w-full h-3 rounded-full bg-[var(--bg-surface)] border border-[var(--border-subtle)] overflow-hidden">
+                    <div
+                      className="h-full bg-gradient-to-r from-emerald-500 to-cyan-400 transition-all duration-700 rounded-full"
+                      style={{ width: `${getMatrixPercentage()}%` }}
+                    />
+                  </div>
+                  <p className="text-[11px] text-[var(--text-secondary)] font-mono pt-1">
+                    ⚡ {getMatrixPercentage() >= 60 ? 'Transição Acelerada: você já domina mais da metade das matérias do edital destino!' : 'Transição Estratégica: requer foco nas matérias específicas inéditas.'}
+                  </p>
+                </div>
+              </div>
+
+              <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between text-xs font-mono text-[var(--text-muted)]">
+                <span>MAPEAMENTO 80/20</span>
+                <span className="text-emerald-400 font-bold">Trilha Automática</span>
+              </div>
+            </Card>
+
+          </div>
+        </section>
+
+        {/* ============================================================ */}
+        {/* SECTION: OS 4 PILARES DA METODOLOGIA ATIVA                   */}
+        {/* ============================================================ */}
+        <section id="metodologia" className="space-y-6 pt-8 scroll-mt-24">
+          <div className="text-center space-y-1.5">
+            <h2 className="font-display font-black text-2xl sm:text-4xl text-[var(--text-primary)]">
+              Por que a Metodologia Ativa Funciona?
+            </h2>
+            <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-xl mx-auto">
+              Elimine o estudo passivo e direcione 100% da sua energia para a retenção de longo prazo.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             
             {/* Pilar 1 */}
-            <Card className="p-5 space-y-3 bg-[var(--bg-surface)] hover:border-[var(--accent-primary)] transition-all">
-              <div className="w-10 h-10 rounded-xl bg-blue-500/10 border border-blue-500/20 text-blue-500 flex items-center justify-center font-bold">
-                <Target className="w-5 h-5" />
+            <Card className="p-6 space-y-3 bg-[var(--bg-surface)] hover:border-cyan-500 transition-all shadow-md">
+              <div className="w-12 h-12 rounded-2xl bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 flex items-center justify-center font-bold">
+                <Target className="w-6 h-6" />
               </div>
-              <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
-                Simulados com DNA de Banca
+              <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                DNA de Bancas Reais
               </h3>
               <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                A FGV exige casos práticos de 5 linhas; a Cesgranrio exige literalidade. Nossos geradores adaptam a semântica para cada certame.
+                A FGV exige casos práticos densos; a Cesgranrio cobra prazos e literalidade. Nossos simuladores geram questões com a malícia exata da sua banca.
               </p>
             </Card>
 
             {/* Pilar 2 */}
-            <Card className="p-5 space-y-3 bg-[var(--bg-surface)] hover:border-[var(--accent-primary)] transition-all">
-              <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-500 flex items-center justify-center font-bold">
-                <Scale className="w-5 h-5" />
+            <Card className="p-6 space-y-3 bg-[var(--bg-surface)] hover:border-amber-500 transition-all shadow-md">
+              <div className="w-12 h-12 rounded-2xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-bold">
+                <Scale className="w-6 h-6" />
               </div>
-              <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
+              <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
                 Caça-Pegadinhas da Lei
               </h3>
               <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                Treino de reflexo rápido em 15s para memorizar os artigos de ouro e não cair em pegadinhas de prazos, exceções e vedações.
+                Reflexo rápido em 15s para memorizar artigos de ouro e neutralizar armadilhas de prazos, exceções e vedações na hora da prova.
               </p>
             </Card>
 
             {/* Pilar 3 */}
-            <Card className="p-5 space-y-3 bg-[var(--bg-surface)] hover:border-[var(--accent-primary)] transition-all">
-              <div className="w-10 h-10 rounded-xl bg-rose-500/10 border border-rose-500/20 text-rose-500 flex items-center justify-center font-bold">
-                <Layers className="w-5 h-5" />
+            <Card className="p-6 space-y-3 bg-[var(--bg-surface)] hover:border-rose-500 transition-all shadow-md">
+              <div className="w-12 h-12 rounded-2xl bg-rose-500/10 border border-rose-500/20 text-rose-400 flex items-center justify-center font-bold">
+                <Layers className="w-6 h-6" />
               </div>
-              <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
+              <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
                 Caderno de Erros SM-2
               </h3>
               <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                Todas as questões erradas são indexadas por vulnerabilidade e reaparecem em ciclos de repetição espaçada até a superação (+15 XP).
+                Questões erradas voltam em intervalos inteligentes (D+1, D+7, D+30) até a superação definitiva com ganho de +15 XP.
               </p>
             </Card>
 
             {/* Pilar 4 */}
-            <Card className="p-5 space-y-3 bg-[var(--bg-surface)] hover:border-[var(--accent-primary)] transition-all">
-              <div className="w-10 h-10 rounded-xl bg-teal-500/10 border border-teal-500/20 text-teal-500 flex items-center justify-center font-bold">
-                <BookOpen className="w-5 h-5" />
+            <Card className="p-6 space-y-3 bg-[var(--bg-surface)] hover:border-teal-500 transition-all shadow-md">
+              <div className="w-12 h-12 rounded-2xl bg-teal-500/10 border border-teal-500/20 text-teal-400 flex items-center justify-center font-bold">
+                <BookOpen className="w-6 h-6" />
               </div>
-              <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
-                Sala de Estudos & Cadência
+              <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                Cadência 60/30 & Timer
               </h3>
               <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                Leitura guiada em blocos 60/30, doutrina estruturada, marca-páginas inteligente e acompanhamento do ritmo de leitura em págs/hora.
+                Blocos estruturados de 60 min de doutrina + 30 min de questões práticas, com estimativa de tempo e ritmo de leitura medido em páginas/hora.
               </p>
             </Card>
 
           </div>
-        </div>
+        </section>
 
         {/* ============================================================ */}
-        {/* 4. CALL TO ACTION BANNER                                     */}
+        {/* SECTION: COMPARATIVO (MÉTODO TRADICIONAL vs GABARITO.AI)    */}
         {/* ============================================================ */}
-        <Card className="p-8 sm:p-10 bg-gradient-to-r from-blue-900/30 via-[var(--bg-surface)] to-indigo-900/30 border border-[var(--accent-primary)]/40 shadow-2xl flex flex-col md:flex-row items-center justify-between gap-6">
-          <div className="space-y-2 text-center md:text-left">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-xs font-bold">
+        <section id="comparativo" className="space-y-6 pt-8 scroll-mt-24">
+          <div className="text-center space-y-1.5">
+            <h2 className="font-display font-black text-2xl sm:text-4xl text-[var(--text-primary)]">
+              Estudo Tradicional vs Gabarito.AI
+            </h2>
+            <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-xl mx-auto">
+              Compare as abordagens e entenda por que o aprendizado ativo encurta o tempo até a nomeação.
+            </p>
+          </div>
+
+          <Card className="p-6 sm:p-8 bg-[var(--bg-surface)] border border-[var(--border-subtle)] shadow-2xl overflow-x-auto">
+            <table className="w-full text-left font-mono text-xs">
+              <thead>
+                <tr className="border-b border-[var(--border-subtle)] text-[var(--text-muted)]">
+                  <th className="pb-3 font-bold uppercase">Critério de Preparação</th>
+                  <th className="pb-3 font-bold uppercase text-rose-400">Método Tradicional (PDF Passivo)</th>
+                  <th className="pb-3 font-bold uppercase text-cyan-400">Ecossistema Gabarito.AI</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-[var(--border-subtle)]">
+                <tr>
+                  <td className="py-3.5 font-bold text-[var(--text-primary)] font-sans">Leitura da Doutrina</td>
+                  <td className="py-3.5 text-rose-300">PDFs de 1.000 páginas sem foco nas bancas</td>
+                  <td className="py-3.5 text-cyan-400 font-bold">Pareto 80/20 com os tópicos mais cobrados</td>
+                </tr>
+                <tr>
+                  <td className="py-3.5 font-bold text-[var(--text-primary)] font-sans">Treino de Lei Seca</td>
+                  <td className="py-3.5 text-rose-300">Leitura maçante no Vade Mecum sem teste</td>
+                  <td className="py-3.5 text-cyan-400 font-bold">Desafios de 15s no Caça-Pegadinhas da Lei</td>
+                </tr>
+                <tr>
+                  <td className="py-3.5 font-bold text-[var(--text-primary)] font-sans">Gestão de Erros</td>
+                  <td className="py-3.5 text-rose-300">Erros esquecidos em folhas avulsas</td>
+                  <td className="py-3.5 text-cyan-400 font-bold">Algoritmo SM-2 com repetição espaçada automática</td>
+                </tr>
+                <tr>
+                  <td className="py-3.5 font-bold text-[var(--text-primary)] font-sans">Correção de Redação</td>
+                  <td className="py-3.5 text-rose-300">Dias de espera e custo alto por correção</td>
+                  <td className="py-3.5 text-cyan-400 font-bold">Correção instantânea por IA nos 4 eixos oficiais</td>
+                </tr>
+                <tr>
+                  <td className="py-3.5 font-bold text-[var(--text-primary)] font-sans">Simulados</td>
+                  <td className="py-3.5 text-rose-300">Provas genéricas sem ponderação do edital</td>
+                  <td className="py-3.5 text-cyan-400 font-bold">Provas de 4h com pesos reais e Cartão Digital</td>
+                </tr>
+              </tbody>
+            </table>
+          </Card>
+        </section>
+
+        {/* ============================================================ */}
+        {/* SECTION: TRILHA DE PATENTES DOS CONCURSEIROS                 */}
+        {/* ============================================================ */}
+        <section id="patentes" className="space-y-6 pt-8 scroll-mt-24">
+          <div className="text-center space-y-1.5">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-xs font-mono text-cyan-400 font-bold">
               <Trophy className="w-3.5 h-3.5" />
-              <span>ACESSO COMPLETO • CUSTO ZERO</span>
+              <span>SISTEMA DE PROGRESSÃO & XP</span>
             </div>
-            <h3 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)]">
-              Pronto para elevar seu rendimento nos simulados?
+            <h2 className="font-display font-black text-2xl sm:text-4xl text-[var(--text-primary)]">
+              As 10 Patentes do Concurseiro
+            </h2>
+            <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-xl mx-auto">
+              Suba de nível resolvendo questões, zerando o caderno de erros e mantendo sua sequência diária ativa.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 font-mono text-xs">
+            {ranksList.map((rank) => (
+              <div 
+                key={rank.level}
+                className="p-4 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-cyan-500/50 transition-all flex flex-col justify-between space-y-2 shadow-sm"
+              >
+                <div className="flex items-center justify-between">
+                  <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] font-bold text-[10px] text-cyan-400">
+                    NÍVEL {rank.level}
+                  </span>
+                  <Trophy className="w-3.5 h-3.5 text-amber-400" />
+                </div>
+                <div className="font-bold text-[var(--text-primary)] text-xs truncate">
+                  {rank.title}
+                </div>
+                <div className="text-[10px] text-[var(--text-muted)]">
+                  {rank.xp}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* ============================================================ */}
+        {/* SECTION: FAQ (PERGUNTAS FREQUENTES)                          */}
+        {/* ============================================================ */}
+        <section id="faq" className="space-y-6 pt-8 scroll-mt-24">
+          <div className="text-center space-y-1.5">
+            <h2 className="font-display font-black text-2xl sm:text-4xl text-[var(--text-primary)]">
+              Perguntas Frequentes
+            </h2>
+            <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-xl mx-auto">
+              Tudo o que você precisa saber sobre o Gabarito.AI.
+            </p>
+          </div>
+
+          <div className="max-w-3xl mx-auto space-y-3">
+            {[
+              {
+                q: "O Gabarito.AI é gratuito?",
+                a: "Sim! A plataforma opera com custo zero para o estudante, permitindo acesso a simulados, caça-pegadinhas da lei seca, correção de redações e caderno de erros sem assinaturas caras."
+              },
+              {
+                q: "Posso acessar pelo computador e pelo celular?",
+                a: "Sim! O Gabarito.AI é 100% responsivo e sincroniza sua conta e progresso de estudos automaticamente em qualquer dispositivo através do Google 1-Click ou usuário e senha."
+              },
+              {
+                q: "Como funciona a adaptação por banca (FGV, Cesgranrio, etc.)?",
+                a: "Nosso motor heurístico analisa o DNA de cobrança de cada banca examinadora. A FGV tem foco em enunciados situacionais densos e inversões de sentido; a Cesgranrio foca em prazos e literalidade das normas."
+              },
+              {
+                q: "Meus dados de estudo ficam isolados?",
+                a: "Sim! Cada conta possui isolamento hermético com criptografia Scrypt nativa. Seu histórico de simulados, anotações do caderno de erros e XP são estritamente privados."
+              }
+            ].map((faqItem, idx) => {
+              const isOpen = openFaq === idx;
+              return (
+                <Card 
+                  key={idx}
+                  className="p-5 bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-cyan-500/40 transition-all cursor-pointer"
+                  onClick={() => setOpenFaq(isOpen ? null : idx)}
+                >
+                  <div className="flex items-center justify-between gap-3">
+                    <h3 className="font-display font-bold text-sm sm:text-base text-[var(--text-primary)]">
+                      {faqItem.q}
+                    </h3>
+                    <ChevronDown className={`w-4 h-4 text-[var(--text-muted)] transition-transform duration-200 ${isOpen ? 'rotate-180 text-cyan-400' : ''}`} />
+                  </div>
+                  {isOpen && (
+                    <p className="text-xs sm:text-sm text-[var(--text-secondary)] mt-2.5 leading-relaxed font-sans pt-2 border-t border-[var(--border-subtle)]">
+                      {faqItem.a}
+                    </p>
+                  )}
+                </Card>
+              );
+            })}
+          </div>
+        </section>
+
+        {/* ============================================================ */}
+        {/* CALL TO ACTION FINAL                                         */}
+        {/* ============================================================ */}
+        <Card className="p-8 sm:p-12 bg-gradient-to-r from-blue-950 via-[var(--bg-surface)] to-indigo-950 border border-cyan-500/40 shadow-2xl flex flex-col md:flex-row items-center justify-between gap-6 glow-blue">
+          <div className="space-y-2 text-center md:text-left">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-cyan-500/10 text-cyan-400 font-mono text-xs font-bold">
+              <Trophy className="w-3.5 h-3.5" />
+              <span>ACESSO COMPLETO & ILIMITADO</span>
+            </div>
+            <h3 className="font-display font-black text-2xl sm:text-4xl text-[var(--text-primary)]">
+              Pronto para colocar seu nome no Diário Oficial?
             </h3>
             <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-xl">
-              Crie seu perfil em segundos ou entre com sua conta Google para salvar seu histórico, acompanhar o ranking e pontuar nas missões diárias.
+              Crie seu perfil em 1 clique com sua Conta Google e inicie seu simulado oficial hoje mesmo.
             </p>
           </div>
 
@@ -709,39 +1139,40 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
               setAuthTab('register');
               setShowAuthModal(true);
             }}
-            className="shrink-0 font-mono text-sm font-bold shadow-xl px-8"
+            className="shrink-0 font-mono text-sm font-bold bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 shadow-xl shadow-blue-500/30 px-8 py-4"
           >
-            <Sparkles className="w-4 h-4" />
-            <span>Criar Minha Conta Grátis</span>
+            <Sparkles className="w-4 h-4 text-cyan-200" />
+            <span>Criar Conta Gratuita</span>
           </Button>
         </Card>
 
       </main>
 
       {/* ============================================================ */}
-      {/* 5. FOOTER INSTITUCIONAL                                      */}
+      {/* FOOTER INSTITUCIONAL                                         */}
       {/* ============================================================ */}
-      <footer className="w-full border-t border-[var(--border-subtle)] bg-[var(--bg-surface)] px-4 sm:px-8 py-6 mt-12 text-center sm:text-left">
+      <footer className="w-full border-t border-[var(--border-subtle)] bg-[var(--bg-surface)] px-4 sm:px-8 py-8 mt-16 text-center sm:text-left">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 font-mono text-xs text-[var(--text-muted)]">
           <div className="flex items-center gap-2">
+            <div className="w-6 h-6 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold text-xs">G</div>
             <span className="font-bold text-[var(--text-primary)]">Gabarito.AI</span>
             <span>• Plataforma de Alta Performance para Concursos</span>
           </div>
-          <div className="flex items-center gap-4 text-[11px]">
+          <div className="flex flex-wrap items-center justify-center gap-4 text-[11px]">
             <span>Isolamento Zero-Trust</span>
             <span>•</span>
-            <span>Bancas FGV, Cesgranrio & Cebraspe</span>
+            <span>FGV, Cesgranrio & Cebraspe</span>
             <span>•</span>
-            <span>Versão 4.5</span>
+            <span>Versão 4.6</span>
           </div>
         </div>
       </footer>
 
       {/* ============================================================ */}
-      {/* 6. MODAL DE AUTENTICAÇÃO INTEGRADO (Google & Credenciais)    */}
+      {/* MODAL DE AUTENTICAÇÃO INTEGRADO (Google & Credenciais)       */}
       {/* ============================================================ */}
       {showAuthModal && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm animate-fade-in">
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-md animate-fade-in">
           <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-2xl p-6 sm:p-7 shadow-2xl space-y-5 relative">
             
             {/* Close Button */}
@@ -755,7 +1186,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
 
             {/* Header */}
             <div className="text-center space-y-1">
-              <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[10px] font-mono text-[var(--accent-primary)] font-bold">
+              <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[10px] font-mono text-cyan-400 font-bold">
                 <ShieldCheck className="w-3 h-3" />
                 <span>ACESSO SEGURO • GABARITO.AI</span>
               </div>
@@ -832,7 +1263,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                       placeholder="ex: joao_concursos"
                       value={usernameInput}
                       onChange={(e) => setUsernameInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-cyan-400 outline-none font-sans"
                     />
                   </div>
                 </div>
@@ -850,7 +1281,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                       placeholder="••••••••"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-cyan-400 outline-none font-sans"
                     />
                     <button
                       type="button"
@@ -875,7 +1306,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs font-bold shadow-md mt-2"
+                  className="font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 mt-2"
                 >
                   {authLoading ? "Autenticando..." : "Entrar na Plataforma"}
                 </Button>
@@ -896,7 +1327,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                       placeholder="ex: João Soares"
                       value={usernameInput}
                       onChange={(e) => setUsernameInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-cyan-400 outline-none font-sans"
                     />
                   </div>
                 </div>
@@ -914,7 +1345,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                       placeholder="seu_email@exemplo.com"
                       value={emailInput}
                       onChange={(e) => setEmailInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-cyan-400 outline-none font-sans"
                     />
                   </div>
                 </div>
@@ -933,7 +1364,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                       placeholder="Mínimo 8 caracteres"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-cyan-400 outline-none font-sans"
                     />
                     <button
                       type="button"
@@ -958,7 +1389,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs font-bold shadow-md mt-2"
+                  className="font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 mt-2"
                 >
                   {authLoading ? "Criando Perfil..." : "Concluir Cadastro Gratuito"}
                 </Button>

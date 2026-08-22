@@ -95,12 +95,21 @@ html:not(.dark) {
   -webkit-tap-highlight-color: transparent;
 }
 
-html, body, #root {
-  height: 100%;
+html, body {
+  min-height: 100%;
   width: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scroll-behavior: smooth;
   margin: 0;
   padding: 0;
+}
+
+#root {
+  min-height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 body {
@@ -111,6 +120,37 @@ body {
   letter-spacing: -0.01em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Background Grids and Visual Accents */
+.bg-grid-cyber {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(59, 130, 246, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(59, 130, 246, 0.05) 1px, transparent 1px);
+}
+
+html:not(.dark) .bg-grid-cyber {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(29, 78, 216, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(29, 78, 216, 0.04) 1px, transparent 1px);
+}
+
+.glow-blue {
+  box-shadow: 0 0 25px -5px rgba(59, 130, 246, 0.35);
+}
+
+.glow-emerald {
+  box-shadow: 0 0 25px -5px rgba(16, 185, 129, 0.35);
+}
+
+.glow-amber {
+  box-shadow: 0 0 25px -5px rgba(245, 158, 11, 0.35);
+}
+
+.glow-purple {
+  box-shadow: 0 0 25px -5px rgba(168, 85, 247, 0.35);
 }
 
 /* Guaranteed Robust Spacing Utilities (Immune to CSS specificity conflicts) */
