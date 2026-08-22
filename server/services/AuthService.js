@@ -226,33 +226,130 @@ export class AuthService {
   }
 
   /**
-   * Valida o token de identidade JWT emitido pelo Google Identity Services.
-   * @param {string|object} credential 
+   * Constrói a URL oficial de autorização do Google OAuth 2.0.
+   * @param {string} redirectUri 
+   * @param {string} state 
+   * @returns {{ url: string, isConfigured: boolean }}
+   */
+  getGoogleAuthUrl(redirectUri, state = 'gabarito_oauth_state') {
+    const clientId = process.env.GOOGLE_CLIENT_ID;
+    const clientSecret = process.env.GOOGLE_CLIENT_SECRET;
+
+    const isRealConfig = clientId && 
+                         !clientId.includes('mockclientid') && 
+                         !clientId.includes('seu_client_id') && 
+                         clientSecret &&
+                         !clientSecret.includes('seu_client_secret');
+
+    if (!isRealConfig) {
+      // Modo de desenvolvimento local (tela simulada em tela cheia)
+      return {
+        url: `/api/auth/google/dev-screen?state=${encodeURIComponent(state)}&redirect_uri=${encodeURIComponent(redirectUri)}`,
+        isConfigured: false
+      };
+    }
+
+    const params = new URLSearchParams({
+      client_id: clientId,
+      redirect_uri: redirectUri,
+      response_type: 'code',
+      scope: 'openid email profile',
+      access_type: 'offline',
+      state: state,
+      prompt: 'select_account'
+    });
+
+    return {
+      url: `https://accounts.google.com/o/oauth2/v2/auth?${params.toString()}`,
+      isConfigured: true
+    };
+  }
+
+  /**
+   * Realiza a troca do Authorization Code por tokens e obtém dados do perfil no Google.
+   * @param {string} code 
+   * @param {string} redirectUri 
+   * @returns {Promise<{ email: string, name: string, sub: string, picture: string|null }>}
+   */
+  async exchangeGoogleCode(code, redirectUri) {
+    if (!code) {
+      throw new Error('Código de autorização do Google não informado.');
+    }
+
+    // Suporte a mock em testes ou dev screen
+    if (code.startsWith('mock_code_')) {
+      const parts = code.split(':');
+      const email = (parts[1] || 'aluno.concurso@gmail.com').toLowerCase();
+      const name = parts[2] || email.split('@')[0];
+      const sub = parts[3] || 'google_' + Date.now();
+      return {
+        email,
+        name,
+        sub,
+        picture: 'https://lh3.googleusercontent.com/a/default-user'
+      };
+    }
+
+    const clientId = process.env.GOOGLE_CLIENT_ID;
+    const clientSecret = process.env.GOOGLE_CLIENT_SECRET;
+
+    if (!clientId || !clientSecret) {
+      throw new Error('Google OAuth não configurado no servidor (GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET ausentes).');
+    }
+
+    const tokenResponse = await fetch('https://oauth2.googleapis.com/token', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({
+        code,
+        client_id: clientId,
+        client_secret: clientSecret,
+        redirect_uri: redirectUri,
+        grant_type: 'authorization_code'
+      })
+    });
+
+    if (!tokenResponse.ok) {
+      const errBody = await tokenResponse.text();
+      console.error('[Google Token Exchange Error]:', errBody);
+      throw new Error('Falha ao trocar código de autorização com os servidores do Google.');
+    }
+
+    const tokenData = await tokenResponse.json();
+    const accessToken = tokenData.access_token;
+
+    if (!accessToken) {
+      throw new Error('Servidor do Google não retornou access_token.');
+    }
+
+    const userInfoResponse = await fetch('https://www.googleapis.com/oauth2/v3/userinfo', {
+      headers: { Authorization: `Bearer ${accessToken}` }
+    });
+
+    if (!userInfoResponse.ok) {
+      throw new Error('Falha ao obter perfil do usuário na API do Google.');
+    }
+
+    const userData = await userInfoResponse.json();
+    if (!userData.email) {
+      throw new Error('Não foi possível obter o e-mail da Conta Google.');
+    }
+
+    return {
+      email: userData.email.toLowerCase(),
+      name: userData.name || userData.given_name || userData.email.split('@')[0],
+      sub: userData.sub,
+      picture: userData.picture || null
+    };
+  }
+
+  /**
+   * Valida o token de identidade JWT emitido pelo Google.
+   * @param {string} credential 
    */
   async verifyGoogleToken(credential) {
-    if (!credential) {
-      throw new Error('Token de autenticação do Google não fornecido.');
-    }
-
-    // Se já for um objeto estruturado de usuário
-    if (typeof credential === 'object') {
-      if (credential.email) {
-        return {
-          email: credential.email.toLowerCase(),
-          name: credential.name || credential.email.split('@')[0],
-          sub: credential.sub || credential.id || 'google_user_' + Date.now(),
-          picture: credential.picture || null
-        };
-      }
-      if (credential.credential && typeof credential.credential === 'string') {
-        credential = credential.credential;
-      } else if (credential.token && typeof credential.token === 'string') {
-        credential = credential.token;
-      }
-    }
-
-    if (typeof credential !== 'string') {
-      throw new Error('Formato inválido de credencial do Google.');
+    if (!credential || typeof credential !== 'string') {
+      throw new Error('Token de autenticação do Google não fornecido ou em formato inválido.');
     }
 
     // Ambiente de testes automatizados ou token mock
@@ -266,10 +363,10 @@ export class AuthService {
       };
     }
 
-    // 1. Validação via endpoint oficial do Google
+    // Validação estrita via endpoint oficial do Google tokeninfo
     try {
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 4000);
+      const timeoutId = setTimeout(() => controller.abort(), 5000);
       const res = await fetch(`https://oauth2.googleapis.com/tokeninfo?id_token=${encodeURIComponent(credential)}`, {
         signal: controller.signal
       });
@@ -287,43 +384,17 @@ export class AuthService {
         }
       }
     } catch (e) {
-      // Endpoint oficial inacessível ou falhou, segue para o fallback JWT
+      console.warn('[Google Verify Warning]:', e.message);
     }
 
-    // 2. Fallback de decodificação de payload JWT (base64url e base64)
-    try {
-      const parts = credential.split('.');
-      if (parts.length >= 2) {
-        let payloadStr;
-        try {
-          payloadStr = Buffer.from(parts[1], 'base64url').toString('utf8');
-        } catch {
-          const normalized = parts[1].replace(/-/g, '+').replace(/_/g, '/');
-          payloadStr = Buffer.from(normalized, 'base64').toString('utf8');
-        }
-
-        const payload = JSON.parse(payloadStr);
-        if (payload && (payload.email || payload.sub)) {
-          const cleanEmail = (payload.email || `google_${payload.sub}@gmail.com`).toLowerCase();
-          return {
-            email: cleanEmail,
-            name: payload.name || payload.given_name || cleanEmail.split('@')[0],
-            sub: payload.sub || 'google_' + Date.now(),
-            picture: payload.picture || null
-          };
-        }
-      }
-    } catch (e) {}
-
-    throw new Error('Falha ao validar credenciais da Conta Google. Tente novamente.');
+    throw new Error('Falha ao validar credenciais da Conta Google. Verifique se o token é válido e foi emitido pelo Google.');
   }
 
   /**
-   * Autenticação e provisionamento transparente com Google Sign-In (1 Clique).
-   * @param {string|object} credential Token emitido pelo Google Identity Services
+   * Provisiona ou faz login de um usuário autenticado pelo Google.
+   * @param {{ email: string, name: string, sub: string, picture: string|null }} googleUser 
    */
-  async loginWithGoogle(credential) {
-    const googleUser = await this.verifyGoogleToken(credential);
+  async loginOrCreateGoogleUser(googleUser) {
     const cleanEmail = googleUser.email.trim().toLowerCase();
 
     // 1. Procurar conta existente por email ou google_id
@@ -400,6 +471,15 @@ export class AuthService {
       },
       profiles
     };
+  }
+
+  /**
+   * Autenticação direta com token ID do Google.
+   * @param {string} credential 
+   */
+  async loginWithGoogle(credential) {
+    const googleUser = await this.verifyGoogleToken(credential);
+    return this.loginOrCreateGoogleUser(googleUser);
   }
 }
 

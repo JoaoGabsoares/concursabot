@@ -103,12 +103,13 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
   // 2. Carrega histórico de mensagens e conecta ao stream SSE em tempo real
   useEffect(() => {
     if (!selectedChannel) return;
+    const targetChannelId: string = selectedChannel.id;
     let isMounted = true;
 
     async function loadMessages() {
       setLoadingMessages(true);
       try {
-        const res = await api.getCommunityMessages(selectedChannel.id, 60);
+        const res = await api.getCommunityMessages(targetChannelId, 60);
         if (isMounted && res.messages) {
           setMessages(res.messages);
           setTimeout(scrollToBottom, 100);
@@ -127,7 +128,7 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
       eventSourceRef.current.close();
     }
 
-    const sse = new EventSource(`/api/community/stream/${selectedChannel.id}`);
+    const sse = new EventSource(`/api/community/stream/${targetChannelId}`);
     eventSourceRef.current = sse;
 
     sse.onopen = () => {

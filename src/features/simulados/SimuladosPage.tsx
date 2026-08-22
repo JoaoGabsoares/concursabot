@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Card, Button, CarimboStatus, ProgressBar, Badge } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
@@ -19,6 +19,52 @@ import {
 interface SimuladosPageProps {
   careerId: string;
 }
+
+// Componente isolado para o display de timer ao vivo (evita re-renders na página inteira)
+const ExamLiveTimerDisplay: React.FC<{
+  modoProva: 'treino_rapido' | 'dia_d' | 'vulnerabilidades';
+  onTick: (elapsed: number) => void;
+  onTimeExpired: () => void;
+}> = React.memo(({ modoProva, onTick, onTimeExpired }) => {
+  const [seconds, setSeconds] = useState(0);
+  const [remainingDiaD, setRemainingDiaD] = useState(4 * 3600);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setSeconds((prev) => {
+        const next = prev + 1;
+        onTick(next);
+        return next;
+      });
+      if (modoProva === 'dia_d') {
+        setRemainingDiaD((prev) => {
+          if (prev <= 1) {
+            onTimeExpired();
+            return 0;
+          }
+          return prev - 1;
+        });
+      }
+    }, 1000);
+    return () => clearInterval(interval);
+  }, [modoProva, onTick, onTimeExpired]);
+
+  const format = (totalSecs: number) => {
+    const hours = Math.floor(totalSecs / 3600);
+    const mins = Math.floor((totalSecs % 3600) / 60);
+    const secs = totalSecs % 60;
+    if (hours > 0) {
+      return `${String(hours).padStart(2, '0')}:${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+    }
+    return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+  };
+
+  return (
+    <span>
+      {modoProva === 'dia_d' ? `RESTANTE: ${format(remainingDiaD)}` : `TEMPO: ${format(seconds)}`}
+    </span>
+  );
+});
 
 export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const currentCareer = getCareerById(careerId);
@@ -44,9 +90,9 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const [answers, setAnswers] = useState<{ [key: number]: string }>({});
   const [finished, setFinished] = useState(false);
   
-  // Timers
-  const [secondsElapsed, setSecondsElapsed] = useState(0);
-  const [secondsRemainingDiaD, setSecondsRemainingDiaD] = useState(4 * 3600); // 4 horas
+  // Final Time recorded upon exam completion
+  const [finalTimeSeconds, setFinalTimeSeconds] = useState(0);
+  const elapsedSecondsRef = useRef(0);
 
   // Sub-abas durante o Dia D
   const [diaDTab, setDiaDTab] = useState<'questoes' | 'cartao_resposta' | 'redacao'>('questoes');
@@ -58,30 +104,10 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     setCurrentQuestionIndex(0);
     setAnswers({});
     setFinished(false);
-    setSecondsElapsed(0);
-    setSecondsRemainingDiaD(4 * 3600);
+    setFinalTimeSeconds(0);
+    elapsedSecondsRef.current = 0;
     setTextoRedacao('');
   }, [careerId]);
-
-  // Timer do simulado
-  useEffect(() => {
-    let interval: any = null;
-    if (examRunning && !finished) {
-      interval = setInterval(() => {
-        setSecondsElapsed((prev) => prev + 1);
-        if (modoProva === 'dia_d') {
-          setSecondsRemainingDiaD((prev) => {
-            if (prev <= 1) {
-              setFinished(true);
-              return 0;
-            }
-            return prev - 1;
-          });
-        }
-      }, 1000);
-    }
-    return () => clearInterval(interval);
-  }, [examRunning, finished, modoProva]);
 
   const formatTimer = (totalSecs: number) => {
     const hours = Math.floor(totalSecs / 3600);
@@ -101,9 +127,14 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     }));
   };
 
-  const handleFinishExam = () => {
+  const handleFinishExam = useCallback(() => {
+    setFinalTimeSeconds(elapsedSecondsRef.current);
     setFinished(true);
-  };
+  }, []);
+
+  const handleTimerTick = useCallback((elapsed: number) => {
+    elapsedSecondsRef.current = elapsed;
+  }, []);
 
   // Cálculos de desempenho
   const questionsList = careerQuestions.length > 0 ? careerQuestions : [
@@ -156,11 +187,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           <div className="flex items-center gap-4">
             <div className="px-4 py-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-sm font-bold text-[var(--text-primary)] flex items-center gap-2 shadow-sm">
               <span className="text-[var(--accent-danger)] animate-pulse">●</span>
-              {modoProva === 'dia_d' ? (
-                <span>RESTANTE: {formatTimer(secondsRemainingDiaD)}</span>
-              ) : (
-                <span>TEMPO: {formatTimer(secondsElapsed)}</span>
-              )}
+              <ExamLiveTimerDisplay
+                modoProva={modoProva}
+                onTick={handleTimerTick}
+                onTimeExpired={handleFinishExam}
+              />
             </div>
             <Button
               variant="brand"
@@ -212,7 +243,6 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     e.stopPropagation();
                     setModoModo('treino_rapido');
                     setExamRunning(true);
-                    setSecondsElapsed(0);
                   }}
                   className="font-mono text-xs font-bold"
                 >
@@ -256,7 +286,6 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     e.stopPropagation();
                     setModoModo('vulnerabilidades');
                     setExamRunning(true);
-                    setSecondsElapsed(0);
                   }}
                 >
                   Iniciar Treino Crítico
@@ -299,7 +328,6 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     e.stopPropagation();
                     setModoModo('dia_d');
                     setExamRunning(true);
-                    setSecondsRemainingDiaD(4 * 3600);
                   }}
                 >
                   Iniciar Dia D (4h)
@@ -348,12 +376,10 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 </button>
               </div>
 
-              {secondsRemainingDiaD <= 1800 && (
-                <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-amber-500 animate-pulse">
-                  <AlertTriangle className="w-4 h-4" />
-                  <span>ÚLTIMOS 30 MIN: Transfira suas respostas para o Cartão!</span>
-                </div>
-              )}
+              <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-amber-500">
+                <AlertTriangle className="w-4 h-4" />
+                <span>MODO SIMULAÇÃO OFICIAL DIA D</span>
+              </div>
             </div>
           )}
 
@@ -574,7 +600,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             </div>
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-[10px]">Tempo Total</span>
-              <span className="font-bold text-[var(--text-primary)] text-lg">{formatTimer(secondsElapsed)}</span>
+              <span className="font-bold text-[var(--text-primary)] text-lg">{formatTimer(finalTimeSeconds)}</span>
             </div>
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-[10px]">XP Conquistado</span>

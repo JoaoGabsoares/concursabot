@@ -1,28 +1,31 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v4.6)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.0)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-v22%20%7C%20v24%20LTS-green.svg)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D22.5.0%20(node%3Asqlite)-green.svg)](https://nodejs.org)
 [![Architecture](https://img.shields.io/badge/Architecture-POO%20%2B%20Domain%20Services-blueviolet.svg)]()
 [![Database](https://img.shields.io/badge/Database-SQLite%203%20(node%3Asqlite)-blue.svg)](https://nodejs.org/api/sqlite.html)
 [![AI Engine](https://img.shields.io/badge/AI-Google%20Gemini%20Flash-orange.svg)](https://aistudio.google.com)
-[![Security](https://img.shields.io/badge/Security-Scrypt%20%2B%20OWASP%20Top%2010-brightgreen.svg)]()
+[![Security](https://img.shields.io/badge/Security-OAuth%20Redirect%20%2B%20Scrypt-brightgreen.svg)]()
 [![Tests](https://img.shields.io/badge/Tests-100%25%20Passing%20(npm%20test)-success.svg)]()
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Portal Interativo & Dashboard Inicial**, **Autenticação Universal Google 1-Click**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
 
 ---
 
-## 🏛️ Destaques da Arquitetura & Funcionalidades
+## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.0)
 
 1. 🏛️ **Dashboard Inicial & Portal Interativo (Público):**
    - Elimina a barreira de telas de login cruas.
    - Demonstração ao vivo de certames, distribuição de pesos oficiais e **Laboratório Caça-Pegadinhas com timer de 15 segundos**.
-2. 🔑 **Autenticação Universal Google Sign-In 1-Click & Credenciais Seguras:**
-   - Acesso cross-device simplificado (PC, celular e tablet) sem fricção de PINs/convites.
-   - Criptografia Scrypt nativa, validação rigorosa de e-mail e isolamento hermético entre contas.
+2. 🔑 **Google OAuth Oficial Full-Page Redirect & Segurança de Sessão:**
+   - Redirecionamento nativo de tela inteira para `accounts.google.com` (sem popups invasivos, prompts inline ou GIS).
+   - Troca de código de autorização em backend seguro (`/api/auth/google/callback`) com persistência na tabela `auth_sessions`.
+   - Criptografia de senhas via Scrypt nativo com validação rigorosa de e-mail e isolamento hermético entre contas.
+3. ⚡ **Isolamento de Renderização de Timers (Zero Re-renders Globais):**
+   - Cronômetros de simulados e sala de estudos encapsulados em subcomponentes memoizados (`<ExamLiveTimerDisplay />` e `<CadenceTimerWidget />`), evitando re-renders a cada 1s de árvores de 1.600+ linhas de JSX.
 3. 🎯 **Formulação Heurística com DNA de Banca:**
    - Calibração semântica específica para **FGV** (enunciados densos de 3 a 6 linhas com casos hipotéticos, trocas conceituais sutis e jurisprudência STF/STJ) e **Fundação Cesgranrio** (literalidade e competências institucionais).
 4. ⚡ **Hub de Acesso Rápido no Dashboard do Aluno:**

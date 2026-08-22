@@ -16,6 +16,7 @@ interface ToastContextType {
   showToast: (toast: Omit<ToastMessage, 'id'>) => void;
   success: (title: string, message?: string, xp?: number) => void;
   info: (title: string, message?: string) => void;
+  warning: (title: string, message?: string) => void;
   error: (title: string, message?: string) => void;
 }
 
@@ -44,6 +45,10 @@ export const ToastProvider: React.FC<{ children: React.ReactNode }> = ({ childre
     showToast({ type: 'info', title, message });
   }, [showToast]);
 
+  const warning = useCallback((title: string, message?: string) => {
+    showToast({ type: 'warning', title, message });
+  }, [showToast]);
+
   const error = useCallback((title: string, message?: string) => {
     showToast({ type: 'error', title, message });
   }, [showToast]);
@@ -53,7 +58,7 @@ export const ToastProvider: React.FC<{ children: React.ReactNode }> = ({ childre
   };
 
   return (
-    <ToastContext.Provider value={{ showToast, success, info, error }}>
+    <ToastContext.Provider value={{ showToast, success, info, warning, error }}>
       {children}
       {/* Toast Overlay Container */}
       <div 

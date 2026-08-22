@@ -2,13 +2,17 @@ export interface UserProfile {
   id: string;
   name: string;
   careerId: string;
+  active_career_id?: string;
   level: number;
   xp: number;
   dailyGoalMinutes: number;
+  daily_hours?: number;
   dailyGoalQuestions: number;
   todayQuestions: number;
   todayMinutes: number;
   streakDays: number;
+  avatar?: string;
+  avatar_emoji?: string;
   created_at?: string;
 }
 
@@ -30,7 +34,9 @@ export interface DailyMission {
   materialId?: number;
   revisionType?: 'D+1' | 'D+7' | 'D+30' | 'NOVA_AULA';
   estimatedMinutes: number;
+  rewardXp?: number;
   isCompleted?: boolean;
+  status?: string;
 }
 
 export interface Question {
@@ -79,15 +85,22 @@ export interface RedacaoCritique {
   tema: string;
   texto: string;
   nota_total: number;
-  criterios: {
-    tema: { nota: number; feedback: string };
-    estrutura: { nota: number; feedback: string };
-    norma_culta: { nota: number; feedback: string };
-    argumentacao: { nota: number; feedback: string };
+  notaTotal?: number;
+  criterios?: {
+    tema?: { nota: number; feedback: string };
+    estrutura?: { nota: number; feedback: string };
+    norma_culta?: { nota: number; feedback: string };
+    argumentacao?: { nota: number; feedback: string };
   };
-  comentario_geral: string;
-  pontos_fortes: string[];
-  pontos_melhoria: string[];
+  criterio1_tema?: number;
+  criterio2_estrutura?: number;
+  criterio3_gramatica?: number;
+  criterio4_argumentacao?: number;
+  comentario_geral?: string;
+  comentarioGeral?: string;
+  comentario?: string;
+  pontos_fortes?: string[];
+  pontos_melhoria?: string[];
   created_at?: string;
 }
 
@@ -121,14 +134,17 @@ export interface StudyMaterial {
 export type ActiveTab = 
   | 'dashboard' 
   | 'study' 
+  | 'study-room' 
   | 'simulados' 
   | 'erros' 
+  | 'error-notebook' 
   | 'redacao' 
-  | 'leiseca'
-  | 'aproveitamento'
+  | 'leiseca' 
+  | 'aproveitamento' 
   | 'edital' 
   | 'flashcards' 
-  | 'comunidade'
+  | 'comunidade' 
+  | 'community'
   | 'guia'
   | 'sobre'
   | 'settings'
@@ -140,12 +156,18 @@ export interface AccountInfo {
   id: string;
   username: string;
   email?: string | null;
+  name?: string;
+  avatar_url?: string | null;
+  google_id?: string | null;
 }
 
 export interface AuthResponse {
-  authenticated: boolean;
+  success?: boolean;
+  authenticated?: boolean;
   token?: string;
-  account: AccountInfo | null;
-  profiles: UserProfile[];
+  account?: AccountInfo | null;
+  profiles?: UserProfile[];
+  message?: string;
+  error?: string;
 }
 

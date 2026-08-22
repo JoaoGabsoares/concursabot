@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { getCareerById, CAREERS_LIST } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
+import { CarimboStatus } from './UIPrimitives';
 import { 
   Menu, 
   X, 
@@ -61,14 +62,17 @@ export const Header: React.FC<HeaderProps> = ({
   const tabLabels: Record<ActiveTab, { title: string; category: string }> = {
     dashboard: { title: 'Dashboard', category: 'ESTUDO DIÁRIO' },
     study: { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
+    'study-room': { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
     erros: { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
+    'error-notebook': { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
     flashcards: { title: 'Flashcards SM-2', category: 'TREINO & PRÁTICA' },
     leiseca: { title: 'Caça-Pegadinhas da Lei', category: 'TREINO & PRÁTICA' },
     aproveitamento: { title: 'Transição de Editais', category: 'INTELIGÊNCIA' },
     redacao: { title: 'Corretor de Redação', category: 'INTELIGÊNCIA' },
     edital: { title: 'Raio-X do Edital', category: 'INTELIGÊNCIA' },
     comunidade: { title: 'Comunidade & Tutor IA', category: 'COMUNIDADE' },
+    community: { title: 'Comunidade & Tutor IA', category: 'COMUNIDADE' },
     guia: { title: 'Guia de Uso & Método', category: 'METODOLOGIA' },
     sobre: { title: 'Sobre a Plataforma', category: 'SISTEMA' },
     settings: { title: 'Configurações', category: 'SISTEMA' },

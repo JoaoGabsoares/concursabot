@@ -49,37 +49,76 @@ export const App: React.FC = () => {
     }
   }, [isDark]);
 
-  // Check if there is an active saved user in localStorage
+  // Check if there is an active saved user in localStorage or Google OAuth redirect callback
   useEffect(() => {
+    // 1. Processar retorno de redirecionamento do Google OAuth 2.0
+    if (typeof window !== 'undefined' && window.location.search) {
+      const urlParams = new URLSearchParams(window.location.search);
+      const urlAuthToken = urlParams.get('auth_token');
+      const googleAuthSuccess = urlParams.get('google_auth');
+
+      if (urlAuthToken) {
+        localStorage.setItem('GABARITO_AUTH_TOKEN', urlAuthToken);
+        window.history.replaceState({}, document.title, window.location.pathname);
+      }
+    }
+
+    const token = localStorage.getItem('GABARITO_AUTH_TOKEN');
     const savedUserId = localStorage.getItem('CURRENT_USER_ID');
-    if (!savedUserId) {
+
+    if (!token && !savedUserId) {
       setLoadingUser(false);
       return;
     }
 
-    api.getUserProfile(savedUserId)
-      .then((profile) => {
-        if (profile && profile.id) {
-          const userCareer = profile.active_career_id || careerId;
-          setCareerId(userCareer);
-          setUser({
-            id: profile.id,
-            name: profile.name,
-            careerId: userCareer,
-            level: profile.level || 1,
-            xp: profile.xp || 0,
-            dailyGoalMinutes: (profile.daily_hours ? profile.daily_hours * 60 : 120),
-            dailyGoalQuestions: 30,
-            todayQuestions: 0,
-            todayMinutes: 0,
-            streakDays: 0
+    // Validar sessão ativa e carregar perfil
+    api.getAuthMe()
+      .then((authData) => {
+        if (authData && authData.authenticated) {
+          const targetProfile = (authData.profiles || []).find((p: any) => p.id === savedUserId) || authData.profiles?.[0];
+          if (targetProfile) {
+            localStorage.setItem('CURRENT_USER_ID', targetProfile.id);
+            const userCareer = targetProfile.active_career_id || careerId;
+            setCareerId(userCareer);
+            setUser({
+              id: targetProfile.id,
+              name: targetProfile.name,
+              careerId: userCareer,
+              level: targetProfile.level || 1,
+              xp: targetProfile.xp || 0,
+              dailyGoalMinutes: (targetProfile.daily_hours ? targetProfile.daily_hours * 60 : 120),
+              dailyGoalQuestions: 30,
+              todayQuestions: 0,
+              todayMinutes: 0,
+              streakDays: 0
+            });
+            return;
+          }
+        }
+        
+        // Se a conta não tem perfis ou token inválido
+        if (savedUserId) {
+          return api.getUserProfile(savedUserId).then((profile) => {
+            if (profile && profile.id) {
+              const userCareer = profile.active_career_id || careerId;
+              setCareerId(userCareer);
+              setUser({
+                id: profile.id,
+                name: profile.name,
+                careerId: userCareer,
+                level: profile.level || 1,
+                xp: profile.xp || 0,
+                dailyGoalMinutes: (profile.daily_hours ? profile.daily_hours * 60 : 120),
+                dailyGoalQuestions: 30,
+                todayQuestions: 0,
+                todayMinutes: 0,
+                streakDays: 0
+              });
+            }
           });
-        } else {
-          localStorage.removeItem('CURRENT_USER_ID');
         }
       })
       .catch(() => {
-        // If user profile fails to load, prompt selector
         localStorage.removeItem('CURRENT_USER_ID');
       })
       .finally(() => {

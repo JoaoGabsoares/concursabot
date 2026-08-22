@@ -33,7 +33,9 @@ import {
   SlidersHorizontal,
   Flame,
   ArrowRight,
-  Trash2
+  Trash2,
+  Settings,
+  Layers
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -86,6 +88,180 @@ interface ReadingPaceInfo {
 
 type CadencePreset = '60_30' | '45_15' | '50_10' | '90_30' | 'custom';
 
+// Componente isolado para o Cronômetro de Cadência (elimina re-renders na página de 1600 linhas)
+const CadenceTimerWidget: React.FC<{
+  timerMode: 'leitura' | 'questoes' | 'livre';
+  readingMinutes: number;
+  questionsMinutes: number;
+  cadencePreset: CadencePreset;
+  customReadingMin: number;
+  customQuestionsMin: number;
+  onModeChange: (mode: 'leitura' | 'questoes' | 'livre') => void;
+  onTimeExpired: (mode: 'leitura' | 'questoes' | 'livre') => void;
+  onTick: (elapsedMinutes: number) => void;
+  onOpenCadenceModal: () => void;
+}> = React.memo(({
+  timerMode,
+  readingMinutes,
+  questionsMinutes,
+  cadencePreset,
+  customReadingMin,
+  customQuestionsMin,
+  onModeChange,
+  onTimeExpired,
+  onTick,
+  onOpenCadenceModal
+}) => {
+  const getInitialSeconds = () => {
+    if (timerMode === 'leitura') return readingMinutes * 60;
+    if (timerMode === 'questoes') return questionsMinutes * 60;
+    return 20 * 60;
+  };
+
+  const [seconds, setSeconds] = useState<number>(getInitialSeconds);
+  const [isRunning, setIsRunning] = useState<boolean>(false);
+  const initialSecsRef = useRef<number>(getInitialSeconds());
+
+  useEffect(() => {
+    const init = getInitialSeconds();
+    setSeconds(init);
+    initialSecsRef.current = init;
+    setIsRunning(false);
+  }, [timerMode, readingMinutes, questionsMinutes]);
+
+  useEffect(() => {
+    if (!isRunning || seconds <= 0) return;
+    const interval = setInterval(() => {
+      setSeconds((prev) => {
+        if (prev <= 1) {
+          setIsRunning(false);
+          onTimeExpired(timerMode);
+          const elapsedMins = Math.round(initialSecsRef.current / 60);
+          onTick(elapsedMins);
+          return 0;
+        }
+        const next = prev - 1;
+        const elapsedMins = Math.round((initialSecsRef.current - next) / 60);
+        onTick(elapsedMins);
+        return next;
+      });
+    }, 1000);
+    return () => clearInterval(interval);
+  }, [isRunning, seconds, timerMode, onTimeExpired, onTick]);
+
+  const formatTimer = (totalSecs: number) => {
+    const mins = Math.floor(totalSecs / 60);
+    const secs = totalSecs % 60;
+    return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+  };
+
+  const getPresetLabel = () => {
+    if (cadencePreset === '60_30') return '60 / 30 min';
+    if (cadencePreset === '45_15') return '45 / 15 min';
+    if (cadencePreset === '50_10') return '50 / 10 min';
+    if (cadencePreset === '90_30') return '90 / 30 min';
+    return `${customReadingMin}/${customQuestionsMin} min`;
+  };
+
+  return (
+    <Card className="p-4 sm:p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-2">
+          <Clock className="w-4 h-4 text-[var(--accent-primary)]" />
+          <span className="font-mono text-xs font-bold text-[var(--text-primary)] uppercase tracking-wider">
+            Cadência de Estudo
+          </span>
+        </div>
+        <button
+          type="button"
+          onClick={onOpenCadenceModal}
+          className="text-[10px] font-mono font-bold text-[var(--accent-primary)] hover:underline flex items-center gap-1 bg-[var(--accent-primary)]/10 px-2 py-0.5 rounded"
+          title="Ajustar Método de Cadência"
+        >
+          <span>{getPresetLabel()}</span>
+          <Settings className="w-3 h-3" />
+        </button>
+      </div>
+
+      <div className="grid grid-cols-3 gap-1 p-1 bg-[var(--bg-elevated)] rounded-lg text-xs font-mono">
+        <button
+          type="button"
+          onClick={() => onModeChange('leitura')}
+          className={`py-1.5 rounded-md font-bold transition-all ${
+            timerMode === 'leitura'
+              ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+              : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+          }`}
+        >
+          Leitura ({readingMinutes}m)
+        </button>
+        <button
+          type="button"
+          onClick={() => onModeChange('questoes')}
+          className={`py-1.5 rounded-md font-bold transition-all ${
+            timerMode === 'questoes'
+              ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+              : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+          }`}
+        >
+          Questões ({questionsMinutes}m)
+        </button>
+        <button
+          type="button"
+          onClick={() => onModeChange('livre')}
+          className={`py-1.5 rounded-md font-bold transition-all ${
+            timerMode === 'livre'
+              ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+              : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+          }`}
+        >
+          Livre (20m)
+        </button>
+      </div>
+
+      <div className="text-center py-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+        <div className="font-mono font-bold text-4xl sm:text-5xl text-[var(--text-primary)] tracking-widest">
+          {formatTimer(seconds)}
+        </div>
+      </div>
+
+      <div className="flex items-center gap-2">
+        <Button
+          variant={isRunning ? "outline" : "brand"}
+          size="sm"
+          fullWidth={true}
+          onClick={() => setIsRunning(!isRunning)}
+          className="font-mono text-xs font-bold flex items-center justify-center gap-2"
+        >
+          {isRunning ? (
+            <>
+              <Pause className="w-3.5 h-3.5" />
+              <span>Pausar</span>
+            </>
+          ) : (
+            <>
+              <Play className="w-3.5 h-3.5" />
+              <span>{seconds === initialSecsRef.current ? "Iniciar Bloco" : "Continuar"}</span>
+            </>
+          )}
+        </Button>
+
+        <button
+          type="button"
+          onClick={() => {
+            setIsRunning(false);
+            setSeconds(initialSecsRef.current);
+          }}
+          className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+          title="Reiniciar Cronômetro"
+        >
+          <RotateCcw className="w-4 h-4" />
+        </button>
+      </div>
+    </Card>
+  );
+});
+
 export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const { success, error: toastError, info } = useToast();
   const currentCareer = getCareerById(careerId);
@@ -115,9 +291,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
   // Timer State (Leitura vs Questões vs Livre)
   const [timerMode, setTimerMode] = useState<'leitura' | 'questoes' | 'livre'>('leitura');
-  const [timerSeconds, setTimerSeconds] = useState<number>(60 * 60); // 60 min default
-  const [initialTimerSeconds, setInitialTimerSeconds] = useState<number>(60 * 60);
-  const [isTimerRunning, setIsTimerRunning] = useState<boolean>(false);
+  const sessionElapsedMinutesRef = useRef<number>(30);
 
   // Reading Pace & Velocity state
   const [paceInfo, setPaceInfo] = useState<ReadingPaceInfo | null>(null);
@@ -133,31 +307,6 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   // Custom Uploaded Materials
   const [uploadedMaterials, setUploadedMaterials] = useState<CustomMaterial[]>([]);
   const [selectedCustomMaterial, setSelectedCustomMaterial] = useState<CustomMaterial | null>(null);
-
-  // Timer countdown effect
-  useEffect(() => {
-    let interval: NodeJS.Timeout | null = null;
-    if (isTimerRunning && timerSeconds > 0) {
-      interval = setInterval(() => {
-        setTimerSeconds((prev) => {
-          if (prev <= 1) {
-            setIsTimerRunning(false);
-            if (timerMode === 'leitura') {
-              info('⏱️ Bloco de Leitura Concluído!', `Excelente foco! Hora de iniciar o bloco de ${getQuestionsMinutes()} min de questões de fixação.`);
-              handleSwitchToQuestions();
-            } else {
-              info('⏱️ Bloco de Questões Encerrado!', 'Sessão completa de estudos registrada com sucesso!');
-            }
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
-    }
-    return () => {
-      if (interval) clearInterval(interval);
-    };
-  }, [isTimerRunning, timerSeconds, timerMode, info]);
 
   // Helpers to get minutes based on cadence preset
   const getReadingMinutes = () => {
@@ -185,46 +334,24 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
   const applyCadencePreset = (preset: CadencePreset) => {
     setCadencePreset(preset);
-    setIsTimerRunning(false);
     let rMin = 60;
     if (preset === '45_15') rMin = 45;
     else if (preset === '50_10') rMin = 50;
     else if (preset === '90_30') rMin = 90;
     else if (preset === 'custom') rMin = customReadingMin;
 
-    if (timerMode === 'leitura') {
-      setTimerSeconds(rMin * 60);
-      setInitialTimerSeconds(rMin * 60);
-    }
     setIsCadenceModalOpen(false);
     info('Cadência Atualizada', `Definido: ${rMin}m Leitura + ${getQuestionsMinutes()}m Questões.`);
   };
 
   const handleSetTimerMode = (mode: 'leitura' | 'questoes' | 'livre') => {
     setTimerMode(mode);
-    setIsTimerRunning(false);
-    if (mode === 'leitura') {
-      const secs = getReadingMinutes() * 60;
-      setTimerSeconds(secs);
-      setInitialTimerSeconds(secs);
-    } else if (mode === 'questoes') {
-      const secs = getQuestionsMinutes() * 60;
-      setTimerSeconds(secs);
-      setInitialTimerSeconds(secs);
-    } else {
-      setTimerSeconds(20 * 60);
-      setInitialTimerSeconds(20 * 60);
-    }
   };
 
   // Transição rápida: Marcar parada atual e ir direto para bloco de questões
   const handleSwitchToQuestions = async () => {
     await handleRegisterStudy();
     setTimerMode('questoes');
-    const qSecs = getQuestionsMinutes() * 60;
-    setTimerSeconds(qSecs);
-    setInitialTimerSeconds(qSecs);
-    setIsTimerRunning(true);
     info('🎯 Bloco de Prática Iniciado', `Cronômetro ajustado para ${getQuestionsMinutes()} min de questões de fixação.`);
   };
 
@@ -349,6 +476,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     scrollToReaderTop();
   };
 
+  const effectiveTotalPages = selectedCustomMaterial ? (selectedCustomMaterial.total_pages || 1) : totalPages;
+
   const handlePrevPage = () => {
     setCurrentPage((prev) => {
       const next = Math.max(1, prev - 1);
@@ -423,7 +552,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const handleRegisterStudy = async () => {
     setIsSavingProgress(true);
     try {
-      const durationMinutes = Math.round((initialTimerSeconds - timerSeconds) / 60) || 30;
+      const durationMinutes = sessionElapsedMinutesRef.current || 30;
       const res = await api.registerStudy({
         materialId: selectedCustomMaterial?.id,
         subject: selectedCustomMaterial ? selectedCustomMaterial.subject : selectedSubject,
@@ -1180,97 +1309,28 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         {/* ============================================================ */}
         <div className="lg:col-span-5 xl:col-span-4 space-y-5">
           
-          {/* 1. Timer Block (Cadência Configurável) */}
-          <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-2 text-xs font-mono font-bold text-[var(--text-primary)]">
-                <Clock className="w-4 h-4 text-[var(--accent-primary)]" />
-                <span>TIMER DE CADÊNCIA</span>
-              </div>
-              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--accent-primary)] font-bold uppercase">
-                {timerMode === 'leitura' ? `${getReadingMinutes()}m Leitura` : timerMode === 'questoes' ? `${getQuestionsMinutes()}m Questões` : 'Livre'}
-              </span>
-            </div>
-
-            {/* Timer Modes */}
-            <div className="grid grid-cols-3 gap-1.5 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-[11px]">
-              <button
-                type="button"
-                onClick={() => handleSetTimerMode('leitura')}
-                className={`py-1.5 rounded-md font-bold transition-all ${
-                  timerMode === 'leitura'
-                    ? 'bg-[var(--accent-primary)] text-white shadow-sm'
-                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
-                }`}
-              >
-                Leitura ({getReadingMinutes()}m)
-              </button>
-              <button
-                type="button"
-                onClick={() => handleSetTimerMode('questoes')}
-                className={`py-1.5 rounded-md font-bold transition-all ${
-                  timerMode === 'questoes'
-                    ? 'bg-[var(--accent-primary)] text-white shadow-sm'
-                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
-                }`}
-              >
-                Questões ({getQuestionsMinutes()}m)
-              </button>
-              <button
-                type="button"
-                onClick={() => handleSetTimerMode('livre')}
-                className={`py-1.5 rounded-md font-bold transition-all ${
-                  timerMode === 'livre'
-                    ? 'bg-[var(--accent-primary)] text-white shadow-sm'
-                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
-                }`}
-              >
-                Livre (20m)
-              </button>
-            </div>
-
-            {/* Big Countdown Display */}
-            <div className="text-center py-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-              <div className="font-mono font-bold text-4xl sm:text-5xl text-[var(--text-primary)] tracking-widest">
-                {formatTimer(timerSeconds)}
-              </div>
-            </div>
-
-            {/* Controls */}
-            <div className="flex items-center gap-2">
-              <Button
-                variant={isTimerRunning ? "outline" : "brand"}
-                size="sm"
-                fullWidth={true}
-                onClick={() => setIsTimerRunning(!isTimerRunning)}
-                className="font-mono text-xs font-bold flex items-center justify-center gap-2"
-              >
-                {isTimerRunning ? (
-                  <>
-                    <Pause className="w-3.5 h-3.5" />
-                    <span>Pausar</span>
-                  </>
-                ) : (
-                  <>
-                    <Play className="w-3.5 h-3.5" />
-                    <span>{timerSeconds === initialTimerSeconds ? "Iniciar Bloco" : "Continuar"}</span>
-                  </>
-                )}
-              </Button>
-
-              <button
-                type="button"
-                onClick={() => {
-                  setIsTimerRunning(false);
-                  setTimerSeconds(initialTimerSeconds);
-                }}
-                className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
-                title="Reiniciar Cronômetro"
-              >
-                <RotateCcw className="w-4 h-4" />
-              </button>
-            </div>
-          </Card>
+          {/* 1. Timer Block (Cadência Configurável com Isolamento de Render) */}
+          <CadenceTimerWidget
+            timerMode={timerMode}
+            readingMinutes={getReadingMinutes()}
+            questionsMinutes={getQuestionsMinutes()}
+            cadencePreset={cadencePreset}
+            customReadingMin={customReadingMin}
+            customQuestionsMin={customQuestionsMin}
+            onModeChange={(mode) => setTimerMode(mode)}
+            onTimeExpired={(mode) => {
+              if (mode === 'leitura') {
+                info('⏱️ Bloco de Leitura Concluído!', `Excelente foco! Hora de iniciar o bloco de ${getQuestionsMinutes()} min de questões de fixação.`);
+                handleSwitchToQuestions();
+              } else {
+                info('⏱️ Bloco de Questões Encerrado!', 'Sessão completa de estudos registrada com sucesso!');
+              }
+            }}
+            onTick={(elapsed) => {
+              sessionElapsedMinutesRef.current = elapsed;
+            }}
+            onOpenCadenceModal={() => setIsCadenceModalOpen(true)}
+          />
 
           {/* 2. Synced Questions Block */}
           <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">

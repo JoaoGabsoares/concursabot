@@ -59,12 +59,12 @@ export class ApiClient {
         ...options,
         headers
       });
-    } catch (netErr: any) {
-      const msg = netErr?.message || '';
-      if (msg.includes('Failed to fetch') || msg.includes('NetworkError') || msg.includes('ECONNREFUSED')) {
+    } catch (netErr: unknown) {
+      const msg = netErr instanceof Error ? netErr.message : String(netErr);
+      if (msg.includes('Failed to fetch') || msg.includes('NetworkError') || msg.includes('ECONNREFUSED') || msg.includes('fetch failed')) {
         throw new Error('Não foi possível conectar ao servidor backend. Verifique se o servidor está ativo na porta 3000 (execute "npm run dev" ou "npm start").');
       }
-      throw netErr;
+      throw netErr instanceof Error ? netErr : new Error(String(netErr));
     }
 
     if (!response.ok) {
@@ -78,7 +78,7 @@ export class ApiClient {
       throw new Error(errData.error || `HTTP error ${response.status}`);
     }
 
-    return response.json();
+    return response.json() as Promise<T>;
   }
 
   // --- MÓDULO DE AUTENTICAÇÃO ---
@@ -109,6 +109,10 @@ export class ApiClient {
       method: 'POST',
       body: JSON.stringify({ username, password, email })
     });
+  }
+
+  public register(username: string, password: string, email?: string): Promise<AuthResponse> {
+    return this.registerAccount(username, password, email);
   }
 
   public getAuthMe(): Promise<AuthResponse> {
@@ -215,7 +219,20 @@ export class ApiClient {
     });
   }
 
-  public registerStudy(data: { materialId?: number; subject?: string; lessonNumber?: number; minutes?: number; completed?: boolean; notes?: string; careerId?: string }): Promise<any> {
+  public registerStudy(data: {
+    materialId?: number;
+    subject?: string;
+    lessonNumber?: number;
+    title?: string;
+    currentPage?: number;
+    totalPages?: number;
+    isCompleted?: boolean;
+    durationMinutes?: number;
+    minutes?: number;
+    completed?: boolean;
+    notes?: string;
+    careerId?: string;
+  }): Promise<any> {
     return this.request<any>('/study-room/register-study', {
       method: 'POST',
       body: JSON.stringify(data)
@@ -267,9 +284,9 @@ export class ApiClient {
     });
   }
 
-  public getErrorNotebook(careerId?: string): Promise<ErrorItem[]> {
+  public getErrorNotebook(careerId?: string): Promise<any> {
     const qs = careerId ? `?careerId=${careerId}` : '';
-    return this.request<ErrorItem[]>(`/caderno-erros${qs}`);
+    return this.request<any>(`/caderno-erros${qs}`);
   }
 
   // --- MÓDULO DE SIMULADOS ---
@@ -299,13 +316,24 @@ export class ApiClient {
     return this.request<any>(`/leiseca/desafio${qs}`);
   }
 
-  public responderLeiSeca(data: { desafio_id?: string; desafioId?: string; palavra_selecionada?: string; selected_word?: string; tempo_gasto?: number; response_time_sec?: number; career_id?: string; careerId?: string }): Promise<any> {
+  public responderLeiSeca(data: {
+    desafio_id?: string;
+    desafioId?: string;
+    palavra_selecionada?: string;
+    palavraSelecionada?: string;
+    selected_word?: string;
+    tempo_gasto?: number;
+    tempoGastoSegundos?: number;
+    response_time_sec?: number;
+    career_id?: string;
+    careerId?: string;
+  }): Promise<any> {
     return this.request<any>('/leiseca/responder', {
       method: 'POST',
       body: JSON.stringify({
         desafio_id: data.desafio_id || data.desafioId,
-        palavra_selecionada: data.palavra_selecionada || data.selected_word,
-        tempo_gasto: data.tempo_gasto || data.response_time_sec || 0,
+        palavra_selecionada: data.palavra_selecionada || data.palavraSelecionada || data.selected_word,
+        tempo_gasto: data.tempo_gasto || data.tempoGastoSegundos || data.response_time_sec || 0,
         career_id: data.career_id || data.careerId
       })
     });

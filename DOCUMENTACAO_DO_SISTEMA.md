@@ -1,15 +1,17 @@
-# 🎯 Gabarito.AI — Documentação Completa da Arquitetura, Engenharia e Decisões de Projeto (v3.5 Ultra)
+# 🎯 Gabarito.AI — Documentação Completa da Arquitetura, Engenharia e Decisões de Projeto (v5.0)
 
 > 💡 **Guia Rápido de Contexto para IAs**: Veja o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md).
 > 
-> **Visão Geral**: O **Gabarito.AI** é um ecossistema inteligente de alta performance desenvolvido sob medida para preparação de concursos públicos de elite, com suporte nativo a 7 carreiras:
-> 1. **Transpetro (Edital 03)** — Técnico de Administração e Controle Jr • Banca Cesgranrio
-> 2. **Transpetro (Edital 03)** — Técnico de Suprimento e Logística Jr • Banca Cesgranrio
-> 3. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
-> 4. **Banco do Brasil (BB)** — Agente Comercial e Agente de Tecnologia (TI) • Banca Fundação Cesgranrio
-> 5. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
-> 6. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
-> 7. **Carreiras Customizadas / Tribunais** — Adaptável a qualquer certame ou banca examinadora (Cebraspe, FCC, etc.).
+> **Visão Geral**: O **Gabarito.AI** é um ecossistema inteligente de alta performance desenvolvido sob medida para preparação de concursos públicos de elite, com suporte nativo a 9 carreiras e arquitetura em **Node >=22.5.0**, **React 19**, **SQLite 3 nativo via `node:sqlite`** e **OAuth 2.0 Full-Page Redirect Flow**:
+> 1. **Transpetro (Edital 03)** — Técnico de Administração e Controle Jr • Banca Fundação Cesgranrio
+> 2. **Transpetro (Edital 03)** — Técnico de Suprimento e Logística Jr • Banca Fundação Cesgranrio
+> 3. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) • Banca FGV
+> 4. **Receita Federal do Brasil (RFB)** — Auditor-Fiscal (AFRFB) • Banca FGV
+> 5. **Banco do Brasil (BB)** — Agente Comercial • Banca Fundação Cesgranrio
+> 6. **Banco do Brasil (BB)** — Agente de Tecnologia (TI) • Banca Fundação Cesgranrio
+> 7. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem • Banca Instituto IBDO
+> 8. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Português • Banca DEnsM
+> 9. **Tribunais Federais & Estaduais (TJ/TRF)** — Analista e Técnico Judiciário • Adaptável (Cebraspe/FCC/FGV)
 
 ---
 

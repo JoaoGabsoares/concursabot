@@ -116,89 +116,12 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
     }
   };
 
-  // Direct Interactive Google Sign-In Trigger
-  const handleDirectGoogleLogin = async () => {
+  // Direct Full-Page Google Accounts Redirect Login (Opens official Google / Gmail page)
+  const handleGoogleRedirectLogin = () => {
     setAuthLoading(true);
     setAuthError(null);
-    const win = window as any;
-
-    if (win.google?.accounts?.id) {
-      try {
-        win.google.accounts.id.initialize({
-          client_id: googleClientId || '1048291038472-mockclientid.apps.googleusercontent.com',
-          callback: handleGoogleCredentialResponse,
-          auto_select: false
-        });
-        win.google.accounts.id.prompt((notification: any) => {
-          if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
-            fallbackFastGoogleLogin();
-          }
-        });
-        return;
-      } catch (e) {
-        console.warn('Google GIS prompt fallback:', e);
-      }
-    }
-
-    fallbackFastGoogleLogin();
+    window.location.href = '/api/auth/google/redirect';
   };
-
-  // Instant Fallback for Google Sign-In
-  const fallbackFastGoogleLogin = async () => {
-    const userGoogleEmail = prompt('Digite seu e-mail da Conta Google:', emailInput || '');
-    if (!userGoogleEmail || !userGoogleEmail.includes('@')) {
-      setAuthLoading(false);
-      return;
-    }
-
-    try {
-      const fakeSub = 'g_' + Math.abs(userGoogleEmail.split('').reduce((a, b) => ((a << 5) - a) + b.charCodeAt(0), 0));
-      const token = `mock_google_:${userGoogleEmail.trim().toLowerCase()}:${userGoogleEmail.split('@')[0]}:${fakeSub}`;
-      const res = await api.loginWithGoogle(token);
-      if (res.success && res.token && res.account) {
-        setAuthToken(res.token);
-        setAccount(res.account);
-        setProfiles(res.profiles || []);
-        setAuthStatus('authenticated');
-        success('Autenticado com Google!', `Bem-vindo(a), @${res.account.username}`);
-      }
-    } catch (err: any) {
-      setAuthError(err.message || 'Falha ao autenticar com o Google.');
-    } finally {
-      setAuthLoading(false);
-    }
-  };
-
-  // Render Google Button when unauthenticated
-  useEffect(() => {
-    if (authStatus !== 'unauthenticated') return;
-
-    const win = window as any;
-    if (win.google && win.google.accounts && win.google.accounts.id) {
-      try {
-        win.google.accounts.id.initialize({
-          client_id: googleClientId || '1048291038472-mockclientid.apps.googleusercontent.com',
-          callback: handleGoogleCredentialResponse,
-          auto_select: false
-        });
-
-        const btnContainer = document.getElementById('googleSignInBtnContainer');
-        if (btnContainer) {
-          btnContainer.innerHTML = '';
-          win.google.accounts.id.renderButton(btnContainer, {
-            theme: 'filled_black',
-            size: 'large',
-            text: 'continue_with',
-            shape: 'rectangular',
-            width: 280,
-            locale: 'pt-BR'
-          });
-        }
-      } catch (e) {
-        console.warn('Google GSI init notice:', e);
-      }
-    }
-  }, [authStatus, authTab, googleClientId]);
 
   // Handle Login
   const handleLogin = async (e: React.FormEvent) => {
@@ -437,20 +360,17 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               </button>
             </div>
 
-            {/* Google 1-Click Sign-In (Always Visible & Prominent) */}
+            {/* Google Full-Page Redirect Sign-In (Always Visible & Prominent) */}
             <div className="space-y-3 pt-1">
               <button
                 type="button"
-                onClick={handleDirectGoogleLogin}
+                onClick={handleGoogleRedirectLogin}
                 disabled={authLoading}
                 className="w-full h-11 px-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-primary)] hover:border-[var(--accent-primary)]/50 transition-all font-sans font-bold text-xs sm:text-sm flex items-center justify-center gap-3 shadow-sm active:scale-[0.99] cursor-pointer"
               >
                 <GoogleIcon className="w-5 h-5 shrink-0" />
-                <span>{authTab === 'login' ? 'Continuar com o Google' : 'Cadastrar com o Google'}</span>
+                <span>{authTab === 'login' ? 'Entrar com a Conta Google' : 'Cadastrar com a Conta Google'}</span>
               </button>
-
-              {/* Mounted Container for Google Identity Services */}
-              <div id="googleSignInBtnContainer" className="flex justify-center w-full empty:hidden"></div>
 
               <div className="flex items-center gap-3">
                 <div className="flex-1 h-px bg-[var(--border-subtle)]"></div>

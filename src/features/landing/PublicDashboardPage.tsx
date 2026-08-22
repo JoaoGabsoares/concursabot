@@ -191,43 +191,11 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
   }, [timerRunning, timerLeft]);
 
   // 2. Load Google Auth Client ID
-  useEffect(() => {
-    api.getAuthConfig().then((cfg) => {
-      if (cfg && cfg.googleClientId) {
-        setGoogleClientId(cfg.googleClientId);
-      }
-    }).catch(() => {});
-  }, []);
-
-  // 3. Render Google Sign-in button when modal opens
-  useEffect(() => {
-    if (!showAuthModal) return;
-
-    const timer = setTimeout(() => {
-      const btnContainer = document.getElementById('googleModalBtnContainer');
-      const win = window as any;
-      if (btnContainer && win.google?.accounts?.id) {
-        btnContainer.innerHTML = '';
-        win.google.accounts.id.initialize({
-          client_id: googleClientId || '1048291038472-mockclientid.apps.googleusercontent.com',
-          callback: handleGoogleCredentialResponse,
-          auto_select: false,
-          cancel_on_tap_outside: true
-        });
-        win.google.accounts.id.renderButton(btnContainer, {
-          theme: isDark ? 'filled_black' : 'outline',
-          size: 'large',
-          text: authTab === 'login' ? 'signin_with' : 'signup_with',
-          shape: 'rectangular',
-          width: 320,
-          logo_alignment: 'left',
-          locale: 'pt-BR'
-        });
-      }
-    }, 150);
-
-    return () => clearTimeout(timer);
-  }, [showAuthModal, authTab, googleClientId, isDark]);
+  const handleGoogleRedirectLogin = () => {
+    setAuthLoading(true);
+    setAuthError(null);
+    window.location.href = '/api/auth/google/redirect';
+  };
 
   // Start Pegadinha Test
   const handleStartPegadinha = (index: number) => {
@@ -262,94 +230,6 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
     }
   };
 
-  // Auth: Google Login
-  const handleGoogleCredentialResponse = async (response: any) => {
-    if (!response || !response.credential) return;
-    setAuthLoading(true);
-    setAuthError(null);
-    try {
-      const res = await api.loginWithGoogle(response.credential);
-      if (res.success && res.token && res.account) {
-        setAuthToken(res.token);
-        success('Autenticado com Google!', `Bem-vindo(a), ${res.account.username}`);
-        if (res.profiles && res.profiles.length > 0) {
-          handleEnterProfile(res.profiles[0]);
-        } else {
-          const newProf = await api.createUserProfile({
-            name: res.account.name || 'Aluno Gabarito',
-            careerId: selectedCareerId,
-            dailyHours: 4
-          });
-          handleEnterProfile(newProf);
-        }
-      }
-    } catch (err: any) {
-      setAuthError(err.message || 'Falha ao autenticar com Google');
-    } finally {
-      setAuthLoading(false);
-    }
-  };
-
-  // Direct Interactive Google Sign-In Trigger
-  const handleDirectGoogleLogin = async () => {
-    setAuthLoading(true);
-    setAuthError(null);
-    const win = window as any;
-
-    if (win.google?.accounts?.id) {
-      try {
-        win.google.accounts.id.initialize({
-          client_id: googleClientId || '1048291038472-mockclientid.apps.googleusercontent.com',
-          callback: handleGoogleCredentialResponse,
-          auto_select: false,
-          cancel_on_tap_outside: true
-        });
-        win.google.accounts.id.prompt((notification: any) => {
-          if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
-            fallbackFastGoogleLogin();
-          }
-        });
-        return;
-      } catch (e) {
-        console.warn('Google GIS prompt fallback:', e);
-      }
-    }
-
-    fallbackFastGoogleLogin();
-  };
-
-  // Instant Fallback for Google Sign-In (Ensures 100% availability)
-  const fallbackFastGoogleLogin = async () => {
-    const userGoogleEmail = prompt('Digite seu e-mail da Conta Google:', emailInput || '');
-    if (!userGoogleEmail || !userGoogleEmail.includes('@')) {
-      setAuthLoading(false);
-      return;
-    }
-
-    try {
-      const fakeSub = 'g_' + Math.abs(userGoogleEmail.split('').reduce((a, b) => ((a << 5) - a) + b.charCodeAt(0), 0));
-      const token = `mock_google_:${userGoogleEmail.trim().toLowerCase()}:${userGoogleEmail.split('@')[0]}:${fakeSub}`;
-      const res = await api.loginWithGoogle(token);
-      if (res.success && res.token && res.account) {
-        setAuthToken(res.token);
-        success('Autenticado com Google!', `Bem-vindo(a), ${res.account.username}`);
-        if (res.profiles && res.profiles.length > 0) {
-          handleEnterProfile(res.profiles[0]);
-        } else {
-          const newProf = await api.createUserProfile({
-            name: res.account.name || userGoogleEmail.split('@')[0],
-            careerId: selectedCareerId,
-            dailyHours: 4
-          });
-          handleEnterProfile(newProf);
-        }
-      }
-    } catch (err: any) {
-      setAuthError(err.message || 'Falha ao autenticar com o Google.');
-    } finally {
-      setAuthLoading(false);
-    }
-  };
 
   // Auth: Email & Password Login
   const handleLogin = async (e: React.FormEvent) => {
@@ -375,7 +255,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
           const newProf = await api.createUserProfile({
             name: res.account.name || loginIdentifier.split('@')[0],
             careerId: selectedCareerId,
-            dailyHours: 4
+            daily_hours: 4
           });
           handleEnterProfile(newProf);
         }
@@ -415,7 +295,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
         const newProf = await api.createUserProfile({
           name: displayName,
           careerId: selectedCareerId,
-          dailyHours: 4
+          daily_hours: 4
         });
         handleEnterProfile(newProf);
       }
@@ -1316,20 +1196,17 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
               </button>
             </div>
 
-            {/* Google Sign-In (Always Visible & 1-Click Ready) */}
+            {/* Google Full-Page Redirect Sign-In */}
             <div className="space-y-3 pt-1">
               <button
                 type="button"
-                onClick={handleDirectGoogleLogin}
+                onClick={handleGoogleRedirectLogin}
                 disabled={authLoading}
                 className="w-full h-11 px-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-primary)] hover:border-cyan-500/50 transition-all font-sans font-bold text-xs sm:text-sm flex items-center justify-center gap-3 shadow-sm active:scale-[0.99] cursor-pointer"
               >
                 <GoogleIcon className="w-5 h-5 shrink-0" />
-                <span>{authTab === 'login' ? 'Continuar com o Google' : 'Cadastrar com o Google'}</span>
+                <span>{authTab === 'login' ? 'Entrar com a Conta Google' : 'Cadastrar com a Conta Google'}</span>
               </button>
-
-              {/* Mounted Container for Google Identity Services */}
-              <div id="googleModalBtnContainer" className="flex justify-center w-full empty:hidden"></div>
 
               <div className="flex items-center gap-3">
                 <div className="flex-1 h-px bg-[var(--border-subtle)]"></div>

@@ -15,6 +15,11 @@ const PUBLIC_API_ROUTES = new Set([
   '/api/auth/login',
   '/api/auth/register',
   '/api/auth/google',
+  '/api/auth/google/redirect',
+  '/api/auth/google/callback',
+  '/api/auth/google/url',
+  '/api/auth/google/dev-screen',
+  '/api/auth/google/dev-callback',
   '/api/auth/config',
   '/api/auth/status',
   '/api/health'

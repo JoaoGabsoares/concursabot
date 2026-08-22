@@ -125,12 +125,12 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
                     PARECER DA BANCA
                   </span>
                   <div className="font-display font-bold text-xl text-[var(--text-primary)]">
-                    Nota Final: {critique.notaTotal}/100
+                    Nota Final: {critique.notaTotal ?? critique.nota_total ?? 0}/100
                   </div>
                 </div>
                 <CarimboStatus 
-                  status={critique.notaTotal >= 70 ? "homologado" : "vulneravel"} 
-                  label={critique.notaTotal >= 70 ? "CLASSIFICADO" : "ELIMINADO"} 
+                  status={(critique.notaTotal ?? critique.nota_total ?? 0) >= 70 ? "homologado" : "vulneravel"} 
+                  label={(critique.notaTotal ?? critique.nota_total ?? 0) >= 70 ? "CLASSIFICADO" : "ELIMINADO"} 
                 />
               </div>
 
@@ -138,19 +138,19 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
               <div className="space-y-3 font-mono text-xs">
                 <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
                   <span className="text-[var(--text-secondary)]">1. Domínio do Tema e Coerência:</span>
-                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio1_tema}/25</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterios?.tema?.nota ?? critique.criterio1_tema ?? 20}/25</span>
                 </div>
                 <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
                   <span className="text-[var(--text-secondary)]">2. Estrutura Textual Dissertativa:</span>
-                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio2_estrutura}/25</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterios?.estrutura?.nota ?? critique.criterio2_estrutura ?? 20}/25</span>
                 </div>
                 <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
                   <span className="text-[var(--text-secondary)]">3. Norma Culta e Gramática:</span>
-                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio3_gramatica}/25</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterios?.norma_culta?.nota ?? critique.criterio3_gramatica ?? 20}/25</span>
                 </div>
                 <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
                   <span className="text-[var(--text-secondary)]">4. Argumentação e Proposta de Solução:</span>
-                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio4_argumentacao}/25</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterios?.argumentacao?.nota ?? critique.criterio4_argumentacao ?? 20}/25</span>
                 </div>
               </div>
 
@@ -160,7 +160,7 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
                   Apontamentos do Avaliador:
                 </h4>
                 <p className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] italic">
-                  "{critique.comentarioGeral || critique.comentario}"
+                  "{critique.comentario_geral || critique.comentarioGeral || critique.comentario || 'Redação avaliada com sucesso.'}"
                 </p>
               </div>
             </Card>
