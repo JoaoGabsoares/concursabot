@@ -618,10 +618,10 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                     setAuthTab('register');
                     setShowAuthModal(true);
                   }}
-                  className="w-full sm:w-auto font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20"
+                  className="w-full sm:w-auto font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 px-5 py-2.5 whitespace-nowrap shrink-0 flex items-center justify-center gap-2"
                 >
                   <span>Iniciar Treinamento Oficial</span>
-                  <ArrowRight className="w-4 h-4" />
+                  <ArrowRight className="w-4 h-4 shrink-0" />
                 </Button>
               </div>
             </Card>

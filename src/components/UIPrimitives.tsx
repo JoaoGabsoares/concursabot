@@ -41,12 +41,12 @@ export const Button: React.FC<ButtonProps> = ({
   disabled,
   ...props
 }) => {
-  const baseStyles = 'inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-150 cursor-pointer select-none active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none disabled:active:scale-100';
+  const baseStyles = 'inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-150 cursor-pointer select-none active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none disabled:active:scale-100 whitespace-nowrap';
 
   const sizeStyles = {
-    sm: 'h-9 px-3.5 text-xs gap-2',
-    md: 'h-10 px-5 text-xs sm:text-sm gap-2.5',
-    lg: 'h-12 px-6 text-sm sm:text-base gap-3 font-bold',
+    sm: 'min-h-9 px-3.5 text-xs gap-2',
+    md: 'min-h-10 px-5 text-xs sm:text-sm gap-2',
+    lg: 'min-h-12 px-6 text-sm sm:text-base gap-2.5 font-bold',
   };
 
   const variantStyles = {
@@ -65,7 +65,7 @@ export const Button: React.FC<ButtonProps> = ({
       {...props}
     >
       {Icon && <Icon className="w-4 h-4 shrink-0" />}
-      <span>{children}</span>
+      {children}
     </button>
   );
 };
