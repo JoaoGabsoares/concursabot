@@ -372,31 +372,84 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
     }
   },
 
-  "Legislação Tributária e Aduaneira": {
-    subject: "Legislação Tributária e Aduaneira",
-    topic: "Território Aduaneiro, Despacho & Jurisdição Fiscal",
+  "Legislação Tributária": {
+    subject: "Legislação Tributária",
+    topic: "Tributos Federais: IRPJ, CSLL, PIS/PASEP, COFINS e IPI",
     lessonNumber: 1,
     totalLessons: 12,
-    jurisprudenceNote: "FGV: Cobrança dos conceitos de Zona Primária e Zona Secundária no Regulamento Aduaneiro (Decreto 6.759/09).",
-    section1Title: "1. Jurisdição dos Serviços Aduaneiros",
-    section1Body: "O território aduaneiro compreende todo o território nacional. Divide-se em Zona Primária (portos, aeroportos alfandegados e pontos de fronteira alfandegados) e Zona Secundária (a parte restante do território aduaneiro, incluindo águas territoriais e espaço aéreo).",
-    section2Title: "2. Mnemônico Aduaneiro",
+    jurisprudenceNote: "FGV ATRFB: Cobrança das regras de apuração pelo Lucro Real vs Lucro Presumido, não cumulatividade do PIS/COFINS e Simples Nacional (LC 123/2006).",
+    section1Title: "1. Sistema Tributário Federal e Regimes de Apuração",
+    section1Body: "A Legislação Tributária Federal compreende o conjunto de normas que regulamentam a incidência, apuração e fiscalização dos tributos de competência da União. O Imposto sobre a Renda da Pessoa Jurídica (IRPJ) e a Contribuição Social sobre o Lucro Líquido (CSLL) podem ser apurados com base no Lucro Real (obrigatório para instituições financeiras e empresas com faturamento acima de R$ 78 milhões), Lucro Presumido ou Simples Nacional.",
+    deepDiveText: "PIS/PASEP e COFINS: Operam em dois regimes básicos: 1) Regime Cumulativo (regras da Lei 9.718/98), com alíquotas de 0,65% e 3,00%, sem direito ao creditamento de insumos; 2) Regime Não Cumulativo (Leis 10.637/02 e 10.833/03), com alíquotas gerais de 1,65% e 7,60%, permitindo apropriação de créditos sobre insumos, energia elétrica, aluguéis de prédios e depreciação de bens do ativo imobilizado.",
+    practicalCases: [
+      {
+        title: "Caso Prático FGV: Mudança de Regime de PIS/COFINS",
+        scenario: "Empresa tributada pelo Lucro Real pretende deduzir créditos de PIS/COFINS na aquisição de mão de obra paga a pessoa física.",
+        tip: "Pegadinha Clássica FGV: A legislação veda expressamente a apuração de créditos de PIS/COFINS sobre pagamentos efetuados a pessoas físicas (salários de funcionários)."
+      }
+    ],
+    lawArticles: [
+      { article: "Lei 10.833/03, Art. 3º", text: "Do valor apurado na forma do art. 2º a pessoa jurídica poderá descontar créditos calculados em relação a bens adquiridos para revenda e insumos..." },
+      { article: "LC 123/2006, Art. 12", text: "O Simples Nacional estabelece regime diferenciado e favorecido para as Microempresas e Empresas de Pequeno Porte." }
+    ],
+    section2Title: "2. Esquema Mnemônico de Tributos Federais",
     mnemonics: [
-      { code: "ZONA PRIMÁRIA = ENTRADA E SAÍDA", meaning: "Portos, aeroportos e recintos alfandegados onde ocorre o desembarque direto." },
-      { code: "ZONA SECUNDÁRIA = RESTO DO PAÍS", meaning: "Território interno onde a fiscalização aduaneira atua de forma contínua." }
+      { code: "PIS/COFINS NÃO CUMULATIVO", meaning: "Alíquotas 1,65% e 7,60% com direito ao desconto de créditos sobre insumos." },
+      { code: "LUCRO REAL OBRIGATÓRIO", meaning: "Faturamento > R$ 78 milhões/ano, bancos e factorings." }
     ],
     question: {
       id: 106,
-      question: "Segundo o Regulamento Aduaneiro brasileiro, constituem a Zona Primária do território aduaneiro:",
+      question: "No regime de apuração não cumulativa da COFINS (Lei nº 10.833/2003), a pessoa jurídica industrial tem direito ao desconto de créditos sobre:",
       options: {
-        A: "Os galpões industriais das empresas exportadoras.",
-        B: "As áreas terrestres ou aquáticas dos portos e aeroportos alfandegados.",
-        C: "Toda a extensão da faixa de fronteira terrestre de 150 km.",
-        D: "As rodovias federais e estaduais de escoamento de cargas.",
-        E: "Os escritórios centrais das empresas de comércio exterior."
+        A: "A folha de pagamento e os salários pagos aos seus empregados diretos.",
+        B: "Os bens e serviços utilizados como insumo na fabricação de produtos destinados à venda.",
+        C: "As doações financeiras efetuadas a entidades sem fins lucrativos.",
+        D: "Os dividendos distribuídos aos seus acionistas minoritários.",
+        E: "As multas de trânsito pagas por sua frota de transporte."
       },
       answer: "B",
-      explanation: "A Zona Primária compreende as áreas terrestres ou aquáticas dos portos e aeroportos alfandegados e recintos de fronteira onde ocorre o controle direto de mercadorias."
+      explanation: "A Lei 10.833/2003, em seu art. 3º, II, autoriza expressamente o desconto de créditos sobre bens e serviços utilizados como insumo na prestação de serviços e na produção ou fabricação de bens destinados à venda."
+    }
+  },
+
+  "Legislação Aduaneira": {
+    subject: "Legislação Aduaneira",
+    topic: "Regulamento Aduaneiro, Território, Despacho & Jurisdição Fiscal",
+    lessonNumber: 1,
+    totalLessons: 12,
+    jurisprudenceNote: "FGV ATRFB/AFRFB: Cobrança dos conceitos de Zona Primária e Zona Secundária no Regulamento Aduaneiro (Decreto 6.759/09), Portos Secos e Regimes Especiais.",
+    section1Title: "1. Jurisdição dos Serviços Aduaneiros e Território",
+    section1Body: "O território aduaneiro compreende todo o território nacional. Divide-se em Zona Primária (área demarcada de portos, aeroportos alfandegados e pontos de fronteira alfandegados) e Zona Secundária (a parte restante do território aduaneiro, incluindo águas territoriais e espaço aéreo). Os Portos Secos (antigas Estações Aduaneiras de Interior - EADI) são recintos alfandegados de uso público situados em Zona Secundária.",
+    deepDiveText: "Despacho Aduaneiro: É o procedimento fiscal mediante o qual é verificada a exatidão dos dados declarados pelo importador/exportador em relação às mercadorias. Ocorre por meio da Declaração de Importação (DI) ou Declaração Única de Importação (DU-Imp) no SISCOMEX. Canais de Conferência Aduaneira: Verde (desembaraço automático), Amarelo (exame documental), Vermelho (exame documental e conferência física) e Cinza (exame documental, físico e procedimento especial de controle aduaneiro por suspeita de fraude no valor declarado).",
+    practicalCases: [
+      {
+        title: "Caso Prático FGV: Classificação de Recinto Alfandegado",
+        scenario: "Um recinto alfandegado situado a 100 km do porto marítimo realiza armazenagem e despacho de mercadorias importadas sob controle fiscal.",
+        tip: "Porto Seco em Zona Secundária: Embora realize despacho e desembaraço, recintos alfandegados de interior pertencem à ZONA SECUNDÁRIA."
+      }
+    ],
+    lawArticles: [
+      { article: "Decreto 6.759/09, Art. 3º", text: "A jurisdição dos serviços aduaneiros estende-se por todo o território aduaneiro e abrange a zona primária e a zona secundária." },
+      { article: "Decreto 6.759/09, Art. 686", text: "Aplica-se a pena de perdimento da mercadoria estrangeira encontrada ao desamparo de documento comprobatório de sua importação regular." }
+    ],
+    section2Title: "2. Mnemônico Aduaneiro de Canais e Zonas",
+    mnemonics: [
+      { code: "ZONA PRIMÁRIA = ENTRADA E SAÍDA", meaning: "Portos, aeroportos e pontos de fronteira onde ocorre o desembarque direto." },
+      { code: "ZONA SECUNDÁRIA = RESTO DO PAÍS", meaning: "Território interno onde a fiscalização atua, incluindo Portos Secos." },
+      { code: "CANAIS = V-A-V-C", meaning: "Verde (Direto), Amarelo (Documental), Vermelho (Físico + Doc), Cinza (Fraude/Valoração)." }
+    ],
+    question: {
+      id: 107,
+      question: "Segundo o Regulamento Aduaneiro brasileiro (Decreto nº 6.759/2009), constituem a Zona Primária do território aduaneiro:",
+      options: {
+        A: "Os galpões industriais das empresas exportadoras situados no interior dos estados.",
+        B: "As áreas terrestres ou aquáticas dos portos e aeroportos alfandegados e recintos de fronteira.",
+        C: "Toda a extensão da faixa de fronteira terrestre nacional de 150 km de largura.",
+        D: "As rodovias federais e estaduais de escoamento logístico de cargas intermodais.",
+        E: "Os escritórios centrais das empresas trading de comércio exterior."
+      },
+      answer: "B",
+      explanation: "A Zona Primária compreende as áreas terrestres ou aquáticas dos portos e aeroportos alfandegados e recintos de fronteira onde ocorre o controle e desembarque direto de mercadorias procedentes do exterior."
     }
   },
 
@@ -676,21 +729,21 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
     }
   },
 
-  // --- RECEITA FEDERAL: RLM E ESTATÍSTICA ---
-  "Raciocínio Lógico-Matemático e Estatística": {
-    subject: "Raciocínio Lógico-Matemático e Estatística",
-    topic: "Lógica de Proposições, Equivalências Lógicas & Medidas de Tendência Central",
+  // --- RECEITA FEDERAL: RACIOCÍNIO LÓGICO-MATEMÁTICO ---
+  "Raciocínio Lógico-Matemático": {
+    subject: "Raciocínio Lógico-Matemático",
+    topic: "Lógica de Proposições, Equivalências Lógicas & Análise Combinatória",
     lessonNumber: 1,
     totalLessons: 10,
-    jurisprudenceNote: "FGV ATRFB: Negação do condicional (Regra do MANÉ) e equivalências de Se...então (Contrapositiva e Disjunção 'Neymar'). Em estatística, foco em média, mediana e variância.",
+    jurisprudenceNote: "FGV ATRFB: Negação do condicional (Regra do MANÉ), equivalências do Se...então (Contrapositiva e Disjunção 'Neymar') e contagem combinatória (Arranjo vs Combinação).",
     section1Title: "1. Equivalências e Negações do Condicional (P -> Q)",
-    section1Body: "No cálculo proposicional FGV, a condicional 'Se P, então Q' (P -> Q) possui duas equivalências fundamentais: 1) Contrapositiva: ~Q -> ~P; 2) Forma Disjuntiva: ~P v Q (Nega a primeira OU mantém a segunda). A NEGAÇÃO da condicional ~(P -> Q) é a conjunção P ^ ~Q (Mantém a primeira E nega a segunda — Regra do MANÉ). Nas medidas estatísticas, a Mediana é o elemento central do rol ordenado, resistente a outliers, enquanto a Média é sensível a valores extremos.",
-    section2Title: "2. Esquema Mnemônico de Lógica FGV",
+    section1Body: "No cálculo proposicional FGV, a condicional 'Se P, então Q' (P -> Q) possui duas equivalências fundamentais: 1) Contrapositiva: ~Q -> ~P; 2) Forma Disjuntiva: ~P v Q (Nega a primeira OU mantém a segunda). A NEGAÇÃO da condicional ~(P -> Q) é a conjunção P ^ ~Q (Mantém a primeira E nega a segunda — Regra do MANÉ). Em análise combinatória, arranjos importam a ordem dos elementos e combinações tratam de grupos onde a ordem é irrelevante.",
+    section2Title: "2. Esquema Mnemônico de Lógica Proposicional",
     mnemonics: [
       { code: "NEGAÇÃO DO SE...ENTÃO = MANÉ", meaning: "MAntém a primeira E NEga a segunda: ~(P -> Q) = P ^ ~Q." },
       { code: "EQUIVALÊNCIA DO SE...ENTÃO = NEYMAR", meaning: "NEga a primeira OU Mantém a segunda: P -> Q = ~P v Q." },
       { code: "CONTRAPOSITIVA = VOLTA NEGANDO", meaning: "P -> Q equivale a ~Q -> ~P (Inverte e nega ambas)." },
-      { code: "MEDIANA = CENTRO DO ROL", meaning: "Elemento do meio após ordenar a sequência em ordem crescente." }
+      { code: "ARRANJO (HÃN?) vs COMBINAÇÃO (NÃO)", meaning: "A ordem importa? Se sim = Arranjo; se não = Combinação." }
     ],
     question: {
       id: 205,
@@ -704,6 +757,36 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
       },
       answer: "B",
       explanation: "A negação de 'Se P, então Q' é 'P e não Q' (Regra do MANÉ: Mantém a primeira 'Auditor lavra o auto' E Nega a segunda 'contribuinte não é notificado')."
+    }
+  },
+
+  // --- RECEITA FEDERAL: ESTATÍSTICA ---
+  "Estatística": {
+    subject: "Estatística",
+    topic: "Probabilidade, Teorema de Bayes, Medidas de Posição & Dispersão",
+    lessonNumber: 1,
+    totalLessons: 10,
+    jurisprudenceNote: "FGV ATRFB/AFRFB: Mediana como medida resistente a valores extremos, propriedades da variância linear e distribuições Normal e Binomial.",
+    section1Title: "1. Medidas de Tendência Central e Dispersão",
+    section1Body: "A Mediana é o elemento central do rol ordenado, resistente a outliers, enquanto a Média Aritmética é sensível a valores extremos. A Variância mede a dispersão dos dados em torno da média (em unidades quadráticas), e o Desvio-Padrão é a raiz quadrada positiva da variância (na mesma unidade dos dados). Se somarmos uma constante a todos os dados, a média sofre a soma, mas a variância e o desvio-padrão permanecem inalterados. Se multiplicarmos todos os dados por 'k', a variância fica multiplicada por k² e o desvio-padrão por |k|.",
+    section2Title: "2. Esquema Mnemônico de Estatística Descritiva",
+    mnemonics: [
+      { code: "MEDIANA = CENTRO DO ROL", meaning: "Ordene sempre a lista do menor para o maior antes de calcular." },
+      { code: "DESVIO-PADRÃO = RAIZ DA VARIÂNCIA", meaning: "Desvio-Padrão tem a unidade real; variância tem a unidade ao quadrado." },
+      { code: "PROPRIEDADES DA VARIÂNCIA", meaning: "Somar constante não altera a variância; multiplicar por 'k' multiplica por k²." }
+    ],
+    question: {
+      id: 206,
+      question: "Um conjunto de dados com 100 observações possui média 20 e desvio-padrão 4. Se somarmos 6 a cada um dos valores da amostra, a nova média e o novo desvio-padrão serão, respectivamente:",
+      options: {
+        A: "26 e 10",
+        B: "26 e 4",
+        C: "20 e 10",
+        D: "26 e 16",
+        E: "20 e 4"
+      },
+      answer: "B",
+      explanation: "A adição de uma constante 'c' a todos os elementos desloca a média em 'c' (nova média = 20 + 6 = 26), mas NÃO altera as medidas de dispersão como variância e desvio-padrão (o novo desvio-padrão permanece 4)."
     }
   },
 
@@ -952,7 +1035,10 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { subject: "Direito Previdenciário", topic: "Custeio, Seguridade Social na CF/88 & Benefícios RGPS", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "11.4%" },
       { subject: "Fluência em Dados", topic: "Modelagem Relacional, SQL, Governança & Mineração de Dados", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.7%" },
       { subject: "Língua Portuguesa", topic: "Interpretação e Semântica Estilo FGV (Casos Complexos)", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.7%" },
-      { subject: "Legislação Tributária e Aduaneira", topic: "Regulamento Aduaneiro, Território, Portos Secos & Tributos Federais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" }
+      { subject: "Legislação Tributária", topic: "Tributos Federais: IRPJ, CSLL, PIS/COFINS, IPI & Simples", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Legislação Aduaneira", topic: "Regulamento Aduaneiro, Zonas Primária/Secundária & Despacho", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Raciocínio Lógico-Matemático", topic: "Lógica Proposicional, Equivalências & Análise Combinatória", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "7.1%" },
+      { subject: "Estatística", topic: "Medidas de Tendência Central, Dispersão & Probabilidade", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "7.1%" }
     ]
   },
   "afrfb": {
@@ -964,8 +1050,12 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { subject: "Direito Tributário", topic: "Planejamento Tributário, Elisão vs Evasão & Jurisprudência STF/STJ", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
       { subject: "Auditoria Fiscal", topic: "Procedimentos de Auditoria, Amostragem Estatística & Fraudes Fiscais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
       { subject: "Contabilidade Geral e Avançada", topic: "CPC 00, Balanço Patrimonial, DRE & Consolidação", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
-      { subject: "Comércio Internacional e Legislação Aduaneira", topic: "Valoração Aduaneira, Regimes Aduaneiros Especiais & SISCOMEX", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
-      { subject: "Fluência em Dados", topic: "Python, SQL e Análise Preditiva em Malhas Fiscais", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "8.0%" }
+      { subject: "Legislação Tributária", topic: "Tributação Federal Avançada, IRPJ/CSLL & Regimes de Lucro", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "8.0%" },
+      { subject: "Legislação Aduaneira", topic: "Regulamento Aduaneiro, Despacho, Zonas & Pena de Perdimento", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "8.0%" },
+      { subject: "Comércio Internacional", topic: "Valoração Aduaneira, Acordos Comerciais & SISCOMEX", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "7.0%" },
+      { subject: "Fluência em Dados", topic: "Python, SQL e Análise Preditiva em Malhas Fiscais", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "8.0%" },
+      { subject: "Raciocínio Lógico-Matemático", topic: "Lógica Proposicional, Equivalências & Silogismos", status: "homologado", label: "MÉDIA INCIDÊNCIA", weight: "6.0%" },
+      { subject: "Estatística", topic: "Probabilidade Condicional, Teorema de Bayes & Distribuição Normal", status: "homologado", label: "MÉDIA INCIDÊNCIA", weight: "6.0%" }
     ]
   },
   "transpetro_adm": {
@@ -1130,12 +1220,12 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
   ],
 
   // ==========================================
-  // RACIOCÍNIO LÓGICO-MATEMÁTICO E ESTATÍSTICA
+  // RACIOCÍNIO LÓGICO-MATEMÁTICO
   // ==========================================
-  "Raciocínio Lógico-Matemático e Estatística": [
+  "Raciocínio Lógico-Matemático": [
     {
       moduleNumber: 1,
-      totalModules: 6,
+      totalModules: 4,
       title: "Lógica de Proposições, Tabela-Verdade & Conectivos Lógicos",
       bancaTrend: "FGV / Cesgranrio: Cobrança pesada do valor lógico de proposições compostas e identificação de tautologias.",
       totalPages: 5,
@@ -1225,7 +1315,7 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
     },
     {
       moduleNumber: 2,
-      totalModules: 6,
+      totalModules: 4,
       title: "Equivalências Lógicas, Contrapositiva & Regras de Negação",
       bancaTrend: "FGV / Cesgranrio: Negação do Se...Então (Regra do MANÉ), Leis de De Morgan e equivalência disjuntiva (NEYMAR).",
       totalPages: 5,
@@ -1305,7 +1395,7 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
     },
     {
       moduleNumber: 3,
-      totalModules: 6,
+      totalModules: 4,
       title: "Diagramas Lógicos, Silogismos & Quantificadores",
       bancaTrend: "FGV / Cesgranrio: Negação de Todo/Algum/Nenhum (Regra do PEA + NÃO) e inferência com diagramas de Euler-Venn.",
       totalPages: 5,
@@ -1379,7 +1469,7 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
     },
     {
       moduleNumber: 4,
-      totalModules: 6,
+      totalModules: 4,
       title: "Análise Combinatória: Princípio Fundamental, Arranjos & Combinações",
       bancaTrend: "FGV / Cesgranrio: Distinção entre Arranjo (ordem importa) e Combinação (ordem não importa), anagramas com repetição e comissões.",
       totalPages: 5,
@@ -1456,10 +1546,16 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
           }
         }
       ]
-    },
+    }
+  ],
+
+  // ==========================================
+  // ESTATÍSTICA
+  // ==========================================
+  "Estatística": [
     {
-      moduleNumber: 5,
-      totalModules: 6,
+      moduleNumber: 1,
+      totalModules: 2,
       title: "Probabilidade: Eventos Dependentes, Independentes & Condicional",
       bancaTrend: "FGV / Cesgranrio: Probabilidade da união P(A U B), probabilidade condicional P(A|B) e teorema do produto.",
       totalPages: 5,
@@ -1531,8 +1627,8 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
       ]
     },
     {
-      moduleNumber: 6,
-      totalModules: 6,
+      moduleNumber: 2,
+      totalModules: 2,
       title: "Estatística Descritiva: Medidas de Tendência Central & Dispersão",
       bancaTrend: "FGV / Cesgranrio: Média Aritmética, Mediana (resistente a outliers), Moda, Variância e Desvio-Padrão.",
       totalPages: 5,
@@ -1599,6 +1695,184 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
             },
             answer: "A",
             explanation: "1) Ordenando o rol: [12, 14, 15, 18, 25, 30]. Como n = 6 (par), os dois termos centrais são 15 e 18. Mediana = (15 + 18) / 2 = 16,5. 2) Média: (12 + 14 + 15 + 18 + 25 + 30) / 6 = 114 / 6 = 19,0. Alternativa A correta."
+          }
+        }
+      ]
+    }
+  ],
+
+  // ==========================================
+  // LEGISLAÇÃO TRIBUTÁRIA
+  // ==========================================
+  "Legislação Tributária": [
+    {
+      moduleNumber: 1,
+      totalModules: 2,
+      title: "Tributos Federais: IRPJ, CSLL e Regimes de Apuração",
+      bancaTrend: "FGV ATRFB: Lucro Real (hipóteses obrigatórias), Lucro Presumido, adições e exclusões no LALUR.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Imposto sobre a Renda da Pessoa Jurídica (IRPJ) e CSLL",
+          category: "Doutrina & Teoria",
+          leadText: "O IRPJ e a CSLL incidem sobre o resultado econômico das pessoas jurídicas domiciliadas no País.",
+          bodyText: "Regimes de Tributação do IRPJ no Brasil:\n1) Lucro Real: Lucro líquido do período de apuração ajustado pelas adições, exclusões ou compensações prescritas pela legislação fiscal (apurado no LALUR e LACS). Obrigatório para bancos, seguradoras, factorings e empresas com faturamento anual superior a R$ 78 milhões.\n2) Lucro Presumido: Forma simplificada de apuração para empresas com faturamento até R$ 78 milhões/ano que não se enquadrem nas vedações do Lucro Real. Aplica-se uma presunção percentual sobre a receita bruta (ex: 8% para comércio e 32% para serviços).\n3) Simples Nacional (LC 123/2006): Regime unificado de tributação para Microempresas (até R$ 360 mil/ano) e EPPs (até R$ 4,8 milhões/ano).",
+          deepDiveText: "Alíquotas do IRPJ: Alíquota básica de 15% sobre o lucro tributável, mais adicional de 10% sobre a parcela do lucro que exceder R$ 20.000,00 por mês (R$ 60.000,00 no trimestre). A alíquota da CSLL para empresas em geral é de 9% (20% para bancos e 15% para demais instituições financeiras)."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Quadro Comparativo dos Regimes Tributários Federais",
+          category: "Esquemas & Tabelas",
+          leadText: "Compreender os limites e presunções de cada regime é essencial para acertar questões da FGV.",
+          bodyText: "Quadro resumo dos limites e bases de presunção:",
+          tableData: {
+            headers: ["Regime", "Limite de Receita Bruta", "Base de Cálculo", "Adicional IRPJ"],
+            rows: [
+              ["Simples Nacional", "Até R$ 4,8 milhões/ano", "Receita Bruta (Anexos I a V)", "Não se aplica"],
+              ["Lucro Presumido", "Até R$ 78 milhões/ano", "Presunção (8% Comércio / 32% Serviços)", "10% sobre excedente de R$ 60k/trim"],
+              ["Lucro Real", "Obrigatório > R$ 78 mi ou Bancos", "Lucro Contábil Ajustado (LALUR)", "10% sobre excedente de R$ 60k/trim"],
+              ["Lucro Arbitrado", "Hipóteses de recusa de livros", "Presunção com acréscimo de 20%", "10% sobre excedente de R$ 60k/trim"]
+            ]
+          },
+          mnemonics: [
+            { code: "LUCRO REAL OBRIGATÓRIO", meaning: "Bancos, factorings, faturamento > 78 milhões e lucros do exterior." },
+            { code: "PRESUNÇÃO COMÉRCIO vs SERVIÇO", meaning: "Comércio 8% (mais barato); Serviços 32% (4x maior presunção)." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas de LALUR",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A FGV frequentemente questiona se uma despesa contábil é dedutível ou deve ser adicionada no LALUR.",
+          bodyText: "Despesas Não Dedutíveis (Adições obrigatórias na Parte A do LALUR):\n• Multas punitivas por infração a leis fiscais ou de trânsito;\n• Brindes e doações não autorizadas por lei;\n• Alimentação de sócios e despesas pessoais de diretores;\n• Provisões não expressamente autorizadas (exceto férias e 13º salário).",
+          practicalCases: [
+            {
+              title: "Pegadinha FGV: Multas Compensatórias vs Punitivas",
+              scenario: "A empresa pagou R$ 50.000 em multas contratuais de mora por atraso de entrega e R$ 80.000 em multas punitivas lavradas pela Receita Federal.",
+              tip: "As multas contratuais/compensatórias SÃO DEDUTÍVEIS. Apenas as multas punitivas por infração de leis são INDEDUTÍVEIS e exigem adição no LALUR!"
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Dispositivos Literais Obrigatórios (RIR/2018)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Artigos indispensáveis do Regulamento do Imposto de Renda (Decreto 9.580/2018).",
+          bodyText: "• Art. 257: São obrigadas à apuração do lucro real as pessoas jurídicas cuja receita total no ano-calendário anterior seja superior ao limite de R$ 78.000.000,00.\n• Art. 311: São operacionais as despesas não computadas nos custos, necessárias à atividade da empresa e à manutenção da respectiva fonte produtora.",
+          lawArticles: [
+            { article: "RIR/2018, Art. 257, I", text: "Obrigação do Lucro Real por faturamento superior a R$ 78 milhões." },
+            { article: "RIR/2018, Art. 311", text: "Conceito de despesas operacionais dedutíveis: usuais, normais e necessárias." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva a questão sobre apuração de IRPJ no modelo FGV.",
+          bodyText: "Calcule o adicional de IRPJ devido no trimestre.",
+          question: {
+            id: 2021,
+            question: "Uma sociedade empresária apurou lucro real trimestral tributável no valor de R$ 180.000,00. O valor total do IRPJ devido (alíquota básica + adicional) no trimestre é:",
+            options: {
+              A: "R$ 39.000,00",
+              B: "R$ 27.000,00",
+              C: "R$ 36.000,00",
+              D: "R$ 45.000,00",
+              E: "R$ 33.000,00"
+            },
+            answer: "A",
+            explanation: "1) Alíquota básica (15%): 15% de R$ 180.000 = R$ 27.000. 2) Parcela excedente a R$ 60.000 no trimestre: R$ 180.000 - R$ 60.000 = R$ 120.000. 3) Adicional de 10%: 10% de R$ 120.000 = R$ 12.000. 4) Total IRPJ: R$ 27.000 + R$ 12.000 = R$ 39.000,00. Alternativa A correta."
+          }
+        }
+      ]
+    }
+  ],
+
+  // ==========================================
+  // LEGISLAÇÃO ADUANEIRA
+  // ==========================================
+  "Legislação Aduaneira": [
+    {
+      moduleNumber: 1,
+      totalModules: 2,
+      title: "Jurisdição Aduaneira, Território & Recintos Alfandegados",
+      bancaTrend: "FGV ATRFB/AFRFB: Distinção entre Zona Primária e Secundária, Portos Secos e Canais de Conferência Aduaneira.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Território Aduaneiro e Divisão Espacial de Jurisdição",
+          category: "Doutrina & Teoria",
+          leadText: "O território aduaneiro compreende todo o território nacional (Decreto 6.759/2009).",
+          bodyText: "A jurisdição dos serviços aduaneiros estende-se por todo o território nacional e divide-se em:\n1) Zona Primária: Área demarcada pela autoridade aduaneira nos portos alfandegados, aeroportos alfandegados e pontos de fronteira alfandegados onde ocorrem o embarque, desembarque e controle direto de mercadorias ou pessoas procedentes do exterior.\n2) Zona Secundária: Compreende a totalidade restante do território nacional, incluindo as águas territoriais e o espaço aéreo.\n3) Portos Secos (EADI): Recintos alfandegados de uso público situados em Zona Secundária onde são executadas operações de movimentação, armazenagem e despacho aduaneiro de mercadorias.",
+          deepDiveText: "Poder de Polícia Aduaneira: Na Zona Primária, o controle aduaneiro tem precedência sobre os demais serviços públicos. Em Zona Secundária, a fiscalização atua de forma repressiva e contínua."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Canais de Conferência e Parametrização no SISCOMEX",
+          category: "Esquemas & Tabelas",
+          leadText: "A Declaração de Importação é submetida a análise de risco fiscal que direciona a carga para um dos 4 canais.",
+          bodyText: "Canais de conferência e seus procedimentos oficiais:",
+          tableData: {
+            headers: ["Canal", "Cor", "Exame Documental?", "Conferência Física?", "Procedimento Especial?"],
+            rows: [
+              ["Verde", "Verde", "Não (Dispensado)", "Não (Dispensado)", "Desembaraço Automático"],
+              ["Amarelo", "Amarelo", "Sim (Obrigatório)", "Não", "Exame dos Documentos da DI"],
+              ["Vermelho", "Vermelho", "Sim (Obrigatório)", "Sim (Obrigatório)", "Abertura e Contagem da Carga"],
+              ["Cinza", "Cinza", "Sim (Obrigatório)", "Sim (Obrigatório)", "Investigação de Fraude no Valor"]
+            ]
+          },
+          mnemonics: [
+            { code: "VERDE = VAI EMBORA", meaning: "Desembaraço automático sem exame." },
+            { code: "AMARELO = ATENÇÃO DOCUMENTAL", meaning: "Verificação dos documentos e faturas." },
+            { code: "VERMELHO = VEJA COM OS OLHOS", meaning: "Conferência física da carga + documentos." },
+            { code: "CINZA = CRIME / CULPA", meaning: "Suspeita de fraude, subfaturamento e procedimento especial." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas de Zona Secundária",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A FGV tenta confundir o candidato afirmando que Portos Secos pertencem à Zona Primária por realizarem despacho.",
+          bodyText: "Lembre-se: O fato de um recinto realizar despacho e desembaraço NÃO o transforma em Zona Primária. Se estiver fora da orla portuária ou aeroportuária demarcada, é Zona Secundária.",
+          practicalCases: [
+            {
+              title: "Pegadinha de Ouro FGV: Porto Seco e Despacho",
+              scenario: "Mercadoria estrangeira desembarca em Santos e é transportada sob Trânsito Aduaneiro (DTA) para um Porto Seco em Campinas/SP, onde é desembaraçada.",
+              tip: "O Porto Seco em Campinas pertence à ZONA SECUNDÁRIA. O transporte de Santos até Campinas ocorreu com suspensão tributária sob o regime de Trânsito Aduaneiro."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Dispositivos do Regulamento Aduaneiro (Dec. 6.759/09)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Normas fundamentais sobre jurisdição e controle de bagagem e mercadorias.",
+          bodyText: "• Art. 3º: O território aduaneiro compreende todo o território nacional.\n• Art. 4º: A zona primária é constituída pelas áreas terrestres ou aquáticas, contínuas ou descontínuas, nos portos e aeroportos alfandegados e nos pontos de fronteira alfandegados.",
+          lawArticles: [
+            { article: "Dec. 6.759/09, Art. 3º", text: "Abrangência do território aduaneiro nacional." },
+            { article: "Dec. 6.759/09, Art. 4º", text: "Definição formal e limites da Zona Primária." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva o desafio aduaneiro no modelo oficial da Receita Federal.",
+          bodyText: "Identifique o canal de conferência aplicável ao procedimento especial de fraude.",
+          question: {
+            id: 2022,
+            question: "Quando a fiscalização aduaneira da Receita Federal constata indícios justificados de fraude no valor declarado da mercadoria importada (subfaturamento), a Declaração de Importação é parametrizada no Canal:",
+            options: {
+              A: "Cinza",
+              B: "Vermelho",
+              C: "Amarelo",
+              D: "Verde",
+              E: "Laranja"
+            },
+            answer: "A",
+            explanation: "O Canal Cinza é o canal específico de parametrização destinado ao exame documental, verificação física da mercadoria e aplicação de procedimento especial de controle aduaneiro para investigação de suspeita de fraude no valor aduaneiro declarado."
           }
         }
       ]

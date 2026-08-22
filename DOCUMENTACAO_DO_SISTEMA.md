@@ -431,5 +431,24 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 22. Separação Rigorosa e Alinhamento Oficial das Disciplinas do Edital (v6.2.0)
+
+1. **🏛️ Desmembramento de Matérias Agrupadas**:
+   - **Legislação Tributária vs Legislação Aduaneira**:
+     - *Legislação Tributária*: Tributação sobre a renda e o lucro (IRPJ/CSLL), PIS/PASEP, COFINS, IPI, IOF e Simples Nacional (LC 123/2006).
+     - *Legislação Aduaneira*: Regulamento Aduaneiro (Decreto nº 6.759/2009), jurisdição e controle fiscal aduaneiro, zonas primária e secundária, portos secos, despacho aduaneiro (SISCOMEX/DU-Imp), canais de conferência (Verde, Amarelo, Vermelho, Cinza), regimes especiais e pena de perdimento.
+   - **Raciocínio Lógico-Matemático vs Estatística**:
+     - *Raciocínio Lógico-Matemático*: Lógica proposicional, tabelas-verdade, conectivos, equivalências lógicas (Contrapositiva, NEYMAR), negação do condicional (MANÉ), silogismos com diagramas de Euler-Venn, quantificadores (PEA + NÃO) e análise combinatória (PFC, arranjos, permutações e combinações).
+     - *Estatística*: Teoria das probabilidades, probabilidade condicional, Teorema de Bayes, eventos mutuamente exclusivos e independentes, estatística descritiva (média, mediana resistente, moda, variância, desvio-padrão, coeficiente de variação) e distribuições de probabilidade.
+
+2. **🔄 Propagação Unificada em Todo o Gabarito.AI**:
+   - **Registro de Estudo Passado (`PastStudyModal.tsx`)**: O dropdown de matérias agora lista cada disciplina individualmente, permitindo ao aluno registrar horas e questões com precisão cirúrgica.
+   - **Radar de Edital & Dashboard (`gamification.ts`)**: Ementa oficial de 13 matérias para ATRFB e 14 matérias para AFRFB, com pesos e porcentagens de cobrança calculados com exatidão.
+   - **Sala de Estudos & Módulos Didáticos (`studyContent.ts`)**: Adicionados módulos estruturados em 5 páginas completas (Doutrina, Esquemas & Tabelas, Casos Práticos, Lei Seca e Fixação) para cada matéria individual.
+   - **Simulados por Disciplina (`SimuladosPage.tsx`)**: Geração e filtros de questões direcionadas estritamente para a matéria selecionada.
+   - **Motor de Ciclos & Interleaving (`careers.js` & `StudyCycleService.js`)**: Mapeamento cognitivo individualizado (`exatas_dados` para RLM/Estatística e `juridico` para Legislação Tributária/Aduaneira).
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
 

@@ -141,15 +141,17 @@ export function getSubjectsForCareer(careerId: string): SubjectStats[] {
       { name: 'Direito Tributário', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
       { name: 'Auditoria Fiscal', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
       { name: 'Contabilidade Geral e Avançada', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
-      { name: 'Comércio Internacional e Legislação Aduaneira', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Legislação Tributária', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' },
+      { name: 'Legislação Aduaneira', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' },
+      { name: 'Comércio Internacional', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.0%' },
       { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
       { name: 'Fluência em Dados', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' },
       { name: 'Direito Administrativo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' },
       { name: 'Direito Constitucional', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' },
-      { name: 'Legislação Tributária Federal', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' },
-      { name: 'Administração Geral e Pública', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.0%' },
-      { name: 'Raciocínio Lógico-Matemático e Estatística', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.0%' },
-      { name: 'Economia e Finanças Públicas', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.0%' }
+      { name: 'Raciocínio Lógico-Matemático', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.0%' },
+      { name: 'Estatística', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.0%' },
+      { name: 'Economia e Finanças Públicas', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.0%' },
+      { name: 'Administração Geral e Pública', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '5.0%' }
     ];
   }
 
@@ -159,11 +161,13 @@ export function getSubjectsForCareer(careerId: string): SubjectStats[] {
       { name: 'Direito Previdenciário', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '11.4%' },
       { name: 'Fluência em Dados', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.7%' },
       { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.7%' },
-      { name: 'Legislação Tributária e Aduaneira', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Legislação Tributária', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Legislação Aduaneira', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
       { name: 'Direito Constitucional', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
       { name: 'Direito Administrativo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.5%' },
       { name: 'Contabilidade Geral', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.1%' },
-      { name: 'Raciocínio Lógico-Matemático e Estatística', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.1%' },
+      { name: 'Raciocínio Lógico-Matemático', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.1%' },
+      { name: 'Estatística', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.1%' },
       { name: 'Administração Geral e Pública', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.1%' },
       { name: 'Língua Inglesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '7.1%' }
     ];

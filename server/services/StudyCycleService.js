@@ -3,8 +3,12 @@ import { CAREERS_CATALOG } from '../careers.js';
 // Mapeamento Canônico de Grupos Cognitivos para Interleaving Anti-Fadiga
 const COGNITIVE_GROUP_MAP = {
   // 1. Exatas, Lógica, Tecnologia e Dados (Processamento Lógico-Matemático)
+  'raciocínio lógico-matemático': 'exatas_dados',
+  'raciocinio logico-matematico': 'exatas_dados',
   'raciocínio lógico matemático': 'exatas_dados',
   'raciocinio logico matematico': 'exatas_dados',
+  'raciocínio lógico': 'exatas_dados',
+  'raciocinio logico': 'exatas_dados',
   'rlm': 'exatas_dados',
   'estatística': 'exatas_dados',
   'estatistica': 'exatas_dados',
