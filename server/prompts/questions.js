@@ -9,25 +9,28 @@ ${examContext}
 
 DIRETRIZES DE ESTILO POR BANCA:
 
-1. FGV (Fundação Getulio Vargas — Padrão da Receita Federal / ATRFB):
+1. FGV (Fundação Getulio Vargas — Padrão da Receita Federal / ATRFB / AFRFB / Tribunais):
    - Estilo: Múltipla Escolha com 5 alternativas (A, B, C, D, E).
-   - Enunciados: CASOS CONCRETOS e HISTÓRIAS FUNCIONAIS densas (ex: "Tício, Auditor-Fiscal da Receita Federal...", "A sociedade empresária Alfa LTDA foi autuada...", "Determinado contribuinte pretende impugnar...").
-   - Pegadinhas e Distratores: Duas alternativas parecerão plausíveis, mas apenas uma estará 100% correta segundo a jurisprudência dominante do STF/STJ ou texto constitucional estrito. Use trocas conceituais sutis (ex: alíquota vs. base de cálculo, isenção vs. anistia, decadência vs. prescrição).
-   - Explicação: Cite o artigo de lei (CTN, CF/88, Lei 8.112, etc.) e súmulas aplicáveis.
+   - Enunciados: CASOS CONCRETOS DENSOS e HISTÓRIAS FUNCIONAIS SITUACIONAIS (mínimo de 3 a 6 linhas de contextualização fática). Ex: "Tício, Auditor-Fiscal da Receita Federal, no exercício de fiscalização externa da pessoa jurídica Alfa S/A...", "A sociedade empresária Beta LTDA realizou operação de importação de insumos...".
+   - Pegadinhas e Distratores FGV:
+     * Trocas de sentido e inversões semânticas capciosas (uso sutil de termos como 'salvo se', 'exceto', 'vedada', 'facultada', 'independentemente de').
+     * Duas alternativas parecerão altamente verossímeis, mas apenas UMA estará 100% correta segundo a jurisprudência dominante do STF/STJ ou texto legal estrito.
+     * Trocas conceituais finas (ex: alíquota vs. base de cálculo, isenção vs. anistia vs. remissão, decadência vs. prescrição, competência vs. capacidade tributária).
+   - Explicação: Cite obrigatoriamente o artigo exato da lei (CTN, CF/88, Lei 8.112, etc.) e o posicionamento consolidado dos Tribunais Superiores.
 
 2. CEBRASPE / CESPE:
    - Estilo: Itens de julgamento (Certo ou Errado).
-   - Enunciados: Afirmações diretas ou precedidas de situação hipotética sucinta.
+   - Enunciados: Afirmações assertivas ou precedidas de situação hipotética sucinta.
    - Pegadinhas e Distratores: Uso criterioso de termos absolutistas ("sempre", "nunca", "exclusivamente", "em qualquer hipótese", "indelevelmente") que invalidam a regra geral; orações com início 100% verdadeiro e conclusão falsa; inversão de causa e consequência.
    - Explicação: Destaque o ponto exato da incorreção ou a conformidade com a doutrina/jurisprudência pacificada.
 
-3. CESGRANRIO:
+3. CESGRANRIO (Padrão Transpetro / Banco do Brasil / Petrobras):
    - Estilo: Múltipla Escolha com 5 alternativas (A, B, C, D, E).
-   - Enunciados: Objetivos, de tamanho médio, com foco na interpretação da norma e situações funcionais claras sem ambiguidades.
+   - Enunciados: Objetivos, de tamanho médio, com foco na interpretação da norma e situações funcionais claras sem ambiguidades. Textos claros, foco em conceitos normativos aplicados e cálculos objetivos.
 
 4. FCC (Fundação Carlos Chagas):
    - Estilo: Múltipla Escolha com 5 alternativas (A, B, C, D, E).
-   - Enunciados: Foco na literalidade estrita da legislação ("letra de lei") combinada com casos hipotéticos objetivos.
+   - Enunciados: Foco na literalidade estrita da legislação ("letra de lei") combinada com casos hipotéticos objetivos e súmulas vinculantes.
 
 5. DEnsM (Diretoria de Ensino da Marinha — Banca Interna da Marinha do Brasil):
    - Público-alvo: Candidatos ao Serviço Militar Voluntário (SMV/RM2 Praças e Oficiais).
@@ -67,14 +70,22 @@ export const questionsSystemInstruction = getQuestionsSystemInstruction('atrfb')
 export const questionsPromptTemplate = (subject, topic, banca, type, count) => {
   const isIBDO = banca && banca.toUpperCase().includes('IBDO');
   const isCebraspe = banca && (banca.toUpperCase().includes('CEBRASPE') || banca.toUpperCase().includes('CESPE'));
+  const isFGV = banca && banca.toUpperCase().includes('FGV');
   const targetType = type || (isCebraspe ? 'certo_errado' : 'multiple_choice');
 
   return `
 Gere ${count} questões INÉDITAS de alto nível para concurso público sobre:
 - Disciplina: ${subject}
 - Assunto/Tópico: ${topic || 'Tópicos mais cobrados pela banca'}
-- Estilo da Banca: ${banca || 'IBDO'}
+- Estilo da Banca: ${banca || 'FGV'}
 - Formato: ${targetType}
+
+${isFGV ? `
+REQUISITOS OBRIGATÓRIOS DO PADRÃO FGV:
+- Enunciado longo com caso prático / história hipotética contextualizada (3 a 6 linhas).
+- Alternativas com troca de sentido semântico sutil ('salvo', 'exceto', inversão de causa/efeito).
+- Distratores de alta verossimilhança exigindo domínio da jurisprudência do STF/STJ e lei estrita.
+` : ''}
 
 REGRAS DE FORMATAÇÃO:
 1. Se o tipo for 'certo_errado' (ou Cebraspe), o array options DEVE conter exatamente ["Certo", "Errado"].

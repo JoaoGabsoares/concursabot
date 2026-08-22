@@ -10,6 +10,9 @@ export interface LessonContent {
   section1Body: string;
   section2Title: string;
   mnemonics: { code: string; meaning: string }[];
+  deepDiveText?: string;
+  practicalCases?: { title: string; scenario: string; tip: string }[];
+  lawArticles?: { article: string; text: string }[];
   question: {
     id: number;
     question: string;
@@ -43,6 +46,23 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
     jurisprudenceNote: "FGV / CESGRANRIO: Cobrança massiva da classificação de José Afonso da Silva (Plena, Contida e Limitada) e cabimento do Habeas Data vs Mandado de Segurança.",
     section1Title: "1. Aplicabilidade e Eficácia das Normas Constitucionais",
     section1Body: "As normas de eficácia plena produzem todos os seus efeitos imediatamente com a promulgação da Constituição, sem necessidade de regulamentação infraconstitucional. As normas de eficácia contida (ou prospectiva) têm aplicabilidade imediata e integral, mas podem ter seu alcance restringido por lei posterior. As normas de eficácia limitada possuem aplicabilidade mediata e dependem de integração legislativa para produzirem plenos efeitos (ex: direito de greve dos servidores públicos - art. 37, VII).",
+    deepDiveText: "Aprofundamento Doutrinário: A classificação tricotômica de José Afonso da Silva é o padrão hegemônico da FGV e Cesgranrio. As normas de eficácia plena não dependem de qualquer atuação do legislador infraconstitucional e possuem aplicabilidade direta, imediata e integral. As normas de eficácia contida (também chamadas de redutíveis ou restringíveis) já nascem completas e com eficácia plena, porém autorizam expressamente que o legislador ordinário imponha restrições (ex: Art. 5º, XIII - 'é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer'). Enquanto a lei não for editada, o direito é amplo. Já as normas de eficácia limitada subdividem-se em: (a) definidoras de princípios institutivos ou organizativos; e (b) definidoras de princípios programáticos (traçam metas e diretrizes para atuação estatal).",
+    practicalCases: [
+      {
+        title: "Caso Prático FGV: Exercício Profissional sem Regulamentação",
+        scenario: "João pretende exercer atividade técnica inovadora para a qual não existe lei regulamentadora. O Município indefere seu alvará alegando ausência de previsão legal.",
+        tip: "Pegadinha FGV: O Art. 5º, XIII é norma de eficácia CONTIDA. Na ausência de lei restritiva, a liberdade de exercício é PLENA. A negativa estatal é ilegal."
+      },
+      {
+        title: "Caso Prático FGV: Habeas Data vs Mandado de Segurança",
+        scenario: "Servidor público solicita cópia integral de processo administrativo disciplinar a que responde, mas tem o pedido negado administrativamente.",
+        tip: "Pegadinha Clássica: Para obter vista de autos ou certidões de processos administrativos próprios, o remédio correto é o MANDADO DE SEGURANÇA (direito de certidão / vista), e NÃO o Habeas Data (que se restringe a bancos de dados públicos de dados pessoais)."
+      }
+    ],
+    lawArticles: [
+      { article: "CF/88, Art. 5º, XIII", text: "É livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer." },
+      { article: "CF/88, Art. 5º, LXXII", text: "Conceder-se-á habeas data: a) para assegurar o conhecimento de informações relativas à pessoa do impetrante... b) para a retificação de dados..." }
+    ],
     section2Title: "2. Esquema Mnemônico de Eficácia e Remédios",
     mnemonics: [
       { code: "PLENA = NÃO REDUZ", meaning: "Aplicabilidade direta, imediata e integral (não pode ser contida por lei)." },

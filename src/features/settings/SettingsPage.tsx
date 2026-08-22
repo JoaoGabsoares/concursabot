@@ -3,7 +3,7 @@ import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { UserProfile } from '../../types';
 import { api } from '../../api/client';
-import { Settings, BookOpen, Info, ShieldCheck, Download, Trash2, Key, UserCheck, Flame, Target, Trophy, Cpu } from 'lucide-react';
+import { Settings, BookOpen, Info, ShieldCheck, Download, Trash2, UserCheck, Flame, Target, Trophy } from 'lucide-react';
 
 interface SettingsPageProps {
   user: UserProfile | null;
@@ -17,8 +17,6 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
   const { success, error: toastError } = useToast();
   const [activeSubTab, setActiveSubTab] = useState<SettingsSubTab>(initialTab);
   const [userName, setUserName] = useState(user?.name || 'João Soares');
-  const [geminiKey, setGeminiKey] = useState(() => localStorage.getItem('GEMINI_API_KEY') || '');
-  const [savedKey, setSavedKey] = useState(false);
   const [profileSaved, setProfileSaved] = useState(false);
 
   useEffect(() => {
@@ -31,18 +29,6 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
     onUpdateUser(userName);
     setProfileSaved(true);
     setTimeout(() => setProfileSaved(false), 3000);
-  };
-
-  const handleSaveKey = () => {
-    if (!geminiKey.trim()) {
-      localStorage.removeItem('GEMINI_API_KEY');
-      setSavedKey(true);
-      setTimeout(() => setSavedKey(false), 3000);
-      return;
-    }
-    localStorage.setItem('GEMINI_API_KEY', geminiKey.trim());
-    setSavedKey(true);
-    setTimeout(() => setSavedKey(false), 3000);
   };
 
   const handleExportBackup = () => {
@@ -95,7 +81,7 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
             }`}
           >
             <Settings className="w-3.5 h-3.5" />
-            <span>Ajustes & API</span>
+            <span>Preferências</span>
           </button>
 
           <button
@@ -124,7 +110,7 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
         </div>
       </div>
 
-      {/* ABA 1: AJUSTES & API */}
+      {/* ABA 1: PREFERÊNCIAS & DADOS */}
       {activeSubTab === 'ajustes' && (
         <div className="space-y-6 animate-fade-in">
           {/* 1. Profile Settings */}
@@ -157,43 +143,6 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
                   className="font-bold font-mono text-xs px-6 shadow-md"
                 >
                   {profileSaved ? 'Salvo! ✓' : 'Salvar'}
-                </Button>
-              </div>
-            </div>
-          </Card>
-
-          {/* 2. Gemini AI Key */}
-          <Card className="p-6 sm:p-8 space-y-4 bg-[var(--bg-surface)] shadow-md">
-            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-              <div className="flex items-center gap-2">
-                <Key className="w-5 h-5 text-[var(--accent-primary)]" />
-                <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                  Chave de API Gemini (BYOK - Opcional)
-                </h3>
-              </div>
-              <CarimboStatus status="pendente" label="OPCIONAL" />
-            </div>
-
-            <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed">
-              O servidor possui conexão nativa ativa. Se desejar usar sua chave privada do Google Gemini (gratuita no Google AI Studio) para cotas estendidas de geração e correção, insira-a abaixo:
-            </p>
-
-            <div className="space-y-2 font-mono">
-              <div className="flex gap-3">
-                <input
-                  type="password"
-                  value={geminiKey}
-                  onChange={(e) => setGeminiKey(e.target.value)}
-                  placeholder="AIzaSy..."
-                  className="flex-1 p-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none shadow-sm"
-                />
-                <Button
-                  variant="secondary"
-                  size="md"
-                  onClick={handleSaveKey}
-                  className="font-bold text-xs font-mono"
-                >
-                  {savedKey ? "Salvo! ✓" : "Atualizar Chave"}
                 </Button>
               </div>
             </div>

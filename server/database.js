@@ -245,7 +245,7 @@ function initDB() {
         -- Study Room: study sessions with timer
         CREATE TABLE IF NOT EXISTS study_sessions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            material_id INTEGER NOT NULL,
+            material_id INTEGER DEFAULT NULL,
             user_id TEXT DEFAULT 'user_joao',
             career_id TEXT DEFAULT 'atrfb',
             duration_minutes INTEGER NOT NULL,
@@ -807,6 +807,37 @@ function initDB() {
         try {
             db.exec("CREATE INDEX IF NOT EXISTS idx_accounts_google_id ON accounts(google_id);");
         } catch (e) {}
+
+        // Migração para relaxar NOT NULL em study_sessions.material_id
+        try {
+            const tableInfo = db.prepare("PRAGMA table_info(study_sessions)").all();
+            const matCol = tableInfo.find(c => c.name === 'material_id');
+            if (matCol && matCol.notnull === 1) {
+                db.exec(`
+                    CREATE TABLE IF NOT EXISTS study_sessions_new (
+                        id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        material_id INTEGER DEFAULT NULL,
+                        user_id TEXT DEFAULT 'user_joao',
+                        career_id TEXT DEFAULT 'atrfb',
+                        duration_minutes INTEGER NOT NULL,
+                        actual_duration_seconds INTEGER,
+                        status TEXT DEFAULT 'active' CHECK(status IN ('active', 'completed', 'paused')),
+                        scope_note TEXT,
+                        started_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+                        completed_at DATETIME,
+                        FOREIGN KEY (material_id) REFERENCES study_materials(id) ON DELETE CASCADE
+                    );
+                    INSERT INTO study_sessions_new (id, material_id, user_id, career_id, duration_minutes, actual_duration_seconds, status, scope_note, started_at, completed_at)
+                    SELECT id, material_id, user_id, career_id, duration_minutes, actual_duration_seconds, status, scope_note, started_at, completed_at FROM study_sessions;
+                    DROP TABLE study_sessions;
+                    ALTER TABLE study_sessions_new RENAME TO study_sessions;
+                    CREATE INDEX IF NOT EXISTS idx_study_sessions_material ON study_sessions(material_id);
+                    CREATE INDEX IF NOT EXISTS idx_study_sessions_material_started ON study_sessions(material_id, started_at DESC);
+                `);
+            }
+        } catch (e) {
+            console.warn('Migration study_sessions note:', e.message);
+        }
     } catch (e) {
         console.warn('Migration note:', e.message);
     }

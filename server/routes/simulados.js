@@ -1,7 +1,7 @@
 import express from 'express';
 import db, { logActivity } from '../database.js';
 import { generateJSON } from '../gemini.js';
-import { questionsSystemInstruction, questionsPromptTemplate, questionsSchema } from '../prompts/questions.js';
+import { getQuestionsSystemInstruction, questionsPromptTemplate, questionsSchema } from '../prompts/questions.js';
 import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
@@ -30,11 +30,12 @@ router.post('/create', async (req, res) => {
 
         // Generate questions per subject in PARALLEL via Promise.all()
         const questionsPerSubject = Math.max(1, Math.floor(questionCount / subjects.length));
+        const systemInstruction = getQuestionsSystemInstruction(careerId);
         
         const subjectBatches = await Promise.all(
             subjects.map(async (subject) => {
                 const prompt = questionsPromptTemplate(subject, 'Tópicos mais cobrados em prova', banca, questionType, questionsPerSubject);
-                const generatedData = await generateJSON(prompt, questionsSystemInstruction, questionsSchema);
+                const generatedData = await generateJSON(prompt, systemInstruction, questionsSchema);
                 return { subject, data: generatedData };
             })
         );

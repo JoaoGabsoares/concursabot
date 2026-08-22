@@ -387,7 +387,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
             {/* Login Form */}
             {authTab === 'login' ? (
-              <form onSubmit={handleLogin} className="space-y-3.5">
+              <form onSubmit={handleLogin} className="space-y-3.5" autoComplete="off">
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     Nome de Usuário ou Email:
@@ -398,6 +398,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       type="text"
                       required
                       autoFocus
+                      autoComplete="off"
                       placeholder="ex: joao_concursos"
                       value={usernameInput}
                       onChange={(e) => setUsernameInput(e.target.value)}
@@ -415,6 +416,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     <input
                       type={showPassword ? "text" : "password"}
                       required
+                      autoComplete="off"
                       placeholder="••••••••"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
@@ -451,7 +453,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               </form>
             ) : (
               /* Register Form */
-              <form onSubmit={handleRegister} className="space-y-3.5">
+              <form onSubmit={handleRegister} className="space-y-3.5" autoComplete="off">
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
                     Escolha seu Nome de Usuário:
@@ -462,6 +464,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                       type="text"
                       required
                       autoFocus
+                      autoComplete="off"
                       placeholder="ex: João Soares"
                       value={usernameInput}
                       onChange={(e) => setUsernameInput(e.target.value)}
@@ -479,6 +482,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     <input
                       type="email"
                       required
+                      autoComplete="off"
                       placeholder="seu_email@exemplo.com"
                       value={emailInput}
                       onChange={(e) => setEmailInput(e.target.value)}
@@ -496,6 +500,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     <input
                       type={showPassword ? "text" : "password"}
                       required
+                      autoComplete="new-password"
                       minLength={8}
                       placeholder="Mínimo 8 caracteres"
                       value={passwordInput}

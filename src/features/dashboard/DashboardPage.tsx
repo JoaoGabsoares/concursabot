@@ -5,7 +5,7 @@ import { getConcurseiroRank, getSubjectsForCareer, SubjectStats } from '../../ut
 import { getLessonContent } from '../../utils/studyContent';
 import { Card, Button, ProgressBar, CarimboStatus } from '../../components/UIPrimitives';
 import { api } from '../../api/client';
-import { ChevronRight, Flame, Target, Trophy, CheckCircle2, Circle, ArrowRight } from 'lucide-react';
+import { ChevronRight, Flame, Target, Trophy, CheckCircle2, Circle, ArrowRight, BookOpen, Layers, Scale, PenTool, BookMarked, Sparkles } from 'lucide-react';
 
 interface DashboardPageProps {
   user: UserProfile | null;
@@ -87,6 +87,58 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
 
   const weekDays = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
   const activeDayIndex = new Date().getDay() === 0 ? 6 : new Date().getDay() - 1;
+
+  const quickActions = [
+    {
+      title: 'Sala de Estudos',
+      desc: 'Leitura de doutrina, cadência 60/30 e timer',
+      icon: BookOpen,
+      color: 'text-blue-500',
+      bg: 'bg-blue-500/10 border-blue-500/20',
+      action: () => onNavigate('study')
+    },
+    {
+      title: 'Simulados de Prova',
+      desc: `Treino cronometrado com questões da ${currentCareer.banca}`,
+      icon: Target,
+      color: 'text-emerald-500',
+      bg: 'bg-emerald-500/10 border-emerald-500/20',
+      action: () => onNavigate('simulados')
+    },
+    {
+      title: 'Caça-Pegadinhas da Lei',
+      desc: 'Identifique os erros clássicos em 15s (+10 XP)',
+      icon: Scale,
+      color: 'text-amber-500',
+      bg: 'bg-amber-500/10 border-amber-500/20',
+      action: () => onNavigate('leiseca')
+    },
+    {
+      title: 'Caderno de Erros',
+      desc: `${pendingErrorsCount} itens para superar com ciclo SM-2 (+15 XP)`,
+      icon: BookMarked,
+      color: 'text-rose-500',
+      bg: 'bg-rose-500/10 border-rose-500/20',
+      badge: pendingErrorsCount > 0 ? `${pendingErrorsCount} falhas` : undefined,
+      action: () => onNavigate('erros')
+    },
+    {
+      title: 'Flashcards SM-2',
+      desc: 'Fixação de conceitos com repetição espaçada',
+      icon: Layers,
+      color: 'text-purple-500',
+      bg: 'bg-purple-500/10 border-purple-500/20',
+      action: () => onNavigate('flashcards')
+    },
+    {
+      title: 'Redação Discursiva',
+      desc: 'Correção instantânea por IA nos 4 critérios (+50 XP)',
+      icon: PenTool,
+      color: 'text-teal-500',
+      bg: 'bg-teal-500/10 border-teal-500/20',
+      action: () => onNavigate('redacao')
+    }
+  ];
 
   return (
     <div className="space-y-7 pb-20 max-w-6xl mx-auto font-sans animate-fade-in">
@@ -237,7 +289,54 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
 
       </div>
 
-      {/* 2. HERO: MISSÃO OFICIAL DO EDITAL (Entrada Imediata no Estudo) */}
+      {/* 2. HUB DE AÇÕES RÁPIDAS (Acesso Rápido para Redução de Ruído) */}
+      <div className="space-y-3">
+        <div className="flex items-center justify-between px-1">
+          <div className="flex items-center gap-2">
+            <Sparkles className="w-4 h-4 text-[var(--accent-primary)]" />
+            <span className="font-mono text-xs font-bold text-[var(--text-primary)] uppercase tracking-wider">
+              Hub de Acesso Rápido
+            </span>
+          </div>
+          <span className="text-[11px] font-mono text-[var(--text-muted)]">Escolha o que deseja praticar hoje</span>
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
+          {quickActions.map((action, idx) => {
+            const Icon = action.icon;
+            return (
+              <button
+                key={idx}
+                type="button"
+                onClick={action.action}
+                className="p-4 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] hover:shadow-md transition-all text-left flex items-start gap-3.5 group cursor-pointer"
+              >
+                <div className={`w-10 h-10 rounded-xl ${action.bg} flex items-center justify-center shrink-0 group-hover:scale-105 transition-transform`}>
+                  <Icon className={`w-5 h-5 ${action.color}`} />
+                </div>
+                <div className="flex-1 min-w-0 space-y-0.5">
+                  <div className="flex items-center justify-between gap-2">
+                    <span className="text-sm font-bold text-[var(--text-primary)] group-hover:text-[var(--accent-primary)] transition-colors truncate">
+                      {action.title}
+                    </span>
+                    {action.badge && (
+                      <span className="px-1.5 py-0.5 rounded-full bg-rose-500/10 text-rose-500 font-mono text-[10px] font-bold shrink-0">
+                        {action.badge}
+                      </span>
+                    )}
+                  </div>
+                  <p className="text-xs text-[var(--text-muted)] line-clamp-2 leading-relaxed">
+                    {action.desc}
+                  </p>
+                </div>
+                <ChevronRight className="w-4 h-4 text-[var(--text-muted)] group-hover:text-[var(--text-primary)] group-hover:translate-x-0.5 transition-all shrink-0 self-center" />
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* 3. HERO: MISSÃO OFICIAL DO EDITAL (Entrada Imediata no Estudo) */}
       <Card className="p-6 sm:p-8 space-y-5 border-l-4 border-l-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-lg">
         
         {/* Top Meta Line */}

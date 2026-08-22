@@ -36,34 +36,34 @@ export const Sidebar: React.FC<SidebarProps> = ({
     {
       title: 'ESTUDO DIÁRIO',
       items: [
-        { id: 'dashboard' as ActiveTab, label: 'Início & Missão' },
+        { id: 'dashboard' as ActiveTab, label: 'Dashboard' },
         { id: 'study' as ActiveTab, label: 'Sala de Estudos' },
-        { id: 'comunidade' as ActiveTab, label: 'Comunidade & Salas' },
+        { id: 'simulados' as ActiveTab, label: 'Simulados & Treino' },
       ]
     },
     {
       title: 'TREINO & PRÁTICA',
       items: [
-        { id: 'simulados' as ActiveTab, label: 'Simulados & Treino' },
+        { id: 'leiseca' as ActiveTab, label: 'Caça-Pegadinhas da Lei' },
         { id: 'erros' as ActiveTab, label: 'Caderno de Erros', badge: pendingErrorsCount },
         { id: 'flashcards' as ActiveTab, label: 'Flashcards SM-2' },
-        { id: 'leiseca' as ActiveTab, label: 'Caça-Pegadinhas da Lei' },
+        { id: 'redacao' as ActiveTab, label: 'Redação Discursiva' },
       ]
     },
     {
-      title: 'INTELIGÊNCIA & ANÁLISE',
+      title: 'ESTRATÉGIA & ANÁLISE',
       items: [
-        { id: 'redacao' as ActiveTab, label: 'Redação Discursiva' },
-        { id: 'aproveitamento' as ActiveTab, label: 'Transição de Editais' },
         { id: 'edital' as ActiveTab, label: 'Raio-X do Edital' },
+        { id: 'aproveitamento' as ActiveTab, label: 'Transição de Editais' },
+        { id: 'comunidade' as ActiveTab, label: 'Comunidade & Salas' },
       ]
     },
     {
       title: 'SISTEMA & GUIA',
       items: [
-        { id: 'settings_ajustes' as ActiveTab, label: 'Ajustes & API' },
+        { id: 'settings_ajustes' as ActiveTab, label: 'Configurações' },
         { id: 'settings_guia' as ActiveTab, label: 'Guia de Uso & Método' },
-        { id: 'settings_sobre' as ActiveTab, label: 'Sobre o Gabarito.AI' },
+        { id: 'settings_sobre' as ActiveTab, label: 'Sobre a Plataforma' },
       ]
     }
   ];

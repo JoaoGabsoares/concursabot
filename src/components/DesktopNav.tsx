@@ -14,7 +14,7 @@ export const DesktopNav: React.FC<DesktopNavProps> = ({
   pendingErrorsCount = 0
 }) => {
   const navItems = [
-    { id: 'dashboard' as ActiveTab, label: 'Início', icon: LayoutDashboard },
+    { id: 'dashboard' as ActiveTab, label: 'Dashboard', icon: LayoutDashboard },
     { id: 'study' as ActiveTab, label: 'Sala de Estudos', icon: BookOpen },
     { id: 'simulados' as ActiveTab, label: 'Simulados & Treino', icon: Target },
     { id: 'erros' as ActiveTab, label: 'Caderno de Erros', icon: AlertCircle, badge: pendingErrorsCount },

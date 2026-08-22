@@ -684,7 +684,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   </p>
                 </div>
 
-                {/* 2. Structured Section 1 (Doutrina Fundamental) */}
+                {/* 2. Structured Section 1 (Doutrina Fundamental & Aprofundamento) */}
                 <div className="space-y-3 pt-2">
                   <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
                     <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--text-muted)] font-mono text-[10px] font-bold">
@@ -700,6 +700,17 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                       ? selectedCustomMaterial.content_text
                       : lesson.section1Body}
                   </p>
+
+                  {lesson.deepDiveText && !selectedCustomMaterial && (
+                    <div className="p-4 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-2 mt-3">
+                      <div className="font-mono text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider">
+                        📖 Aprofundamento Teórico & Doutrina
+                      </div>
+                      <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line font-sans">
+                        {lesson.deepDiveText}
+                      </p>
+                    </div>
+                  )}
                 </div>
 
                 {/* 3. Caderno Enxuto / Mnemônicos Estruturados */}
@@ -728,6 +739,59 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     </div>
                   )}
                 </div>
+
+                {/* 4. Casos Práticos & Pegadinhas da Banca (Se disponível) */}
+                {lesson.practicalCases && lesson.practicalCases.length > 0 && !selectedCustomMaterial && (
+                  <div className="space-y-3 pt-2">
+                    <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                      <span className="px-2 py-0.5 rounded bg-amber-500/10 text-amber-500 font-mono text-[10px] font-bold">
+                        SEÇÃO 03 • CASOS PRÁTICOS & PEGADINHAS
+                      </span>
+                      <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                        Aplicação em Situações Hipotéticas da {currentCareer.banca}
+                      </h3>
+                    </div>
+
+                    <div className="grid grid-cols-1 gap-3">
+                      {lesson.practicalCases.map((pc, idx) => (
+                        <div key={idx} className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+                          <div className="text-xs font-bold font-mono text-[var(--text-primary)]">
+                            {pc.title}
+                          </div>
+                          <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
+                            {pc.scenario}
+                          </p>
+                          <div className="p-2.5 rounded-lg bg-amber-500/10 border border-amber-500/20 text-xs text-amber-500 font-mono">
+                            ⚡ <strong>Dica da Banca:</strong> {pc.tip}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* 5. Legislação Aplicada & Artigos de Ouro */}
+                {lesson.lawArticles && lesson.lawArticles.length > 0 && !selectedCustomMaterial && (
+                  <div className="space-y-3 pt-2">
+                    <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                      <span className="px-2 py-0.5 rounded bg-blue-500/10 text-blue-500 font-mono text-[10px] font-bold">
+                        SEÇÃO 04 • LETRA DE LEI APLICADA
+                      </span>
+                      <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                        Dispositivos Normativos de Alta Incidência
+                      </h3>
+                    </div>
+
+                    <div className="space-y-2">
+                      {lesson.lawArticles.map((la, idx) => (
+                        <div key={idx} className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs space-y-1">
+                          <div className="font-bold text-[var(--accent-primary)]">{la.article}</div>
+                          <div className="text-[var(--text-secondary)] font-sans text-xs italic">"{la.text}"</div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
 
               </div>
             )}

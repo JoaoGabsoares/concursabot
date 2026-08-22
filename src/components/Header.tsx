@@ -55,7 +55,7 @@ export const Header: React.FC<HeaderProps> = ({
   const currentRank = getConcurseiroRank(user?.xp || 0);
 
   const tabLabels: Record<ActiveTab, { title: string; category: string }> = {
-    dashboard: { title: 'Visão Geral & Missão', category: 'ESTUDO DIÁRIO' },
+    dashboard: { title: 'Dashboard', category: 'ESTUDO DIÁRIO' },
     study: { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
     erros: { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
@@ -66,15 +66,15 @@ export const Header: React.FC<HeaderProps> = ({
     edital: { title: 'Raio-X do Edital', category: 'INTELIGÊNCIA' },
     comunidade: { title: 'Comunidade & Tutor IA', category: 'COMUNIDADE' },
     settings: { title: 'Configurações', category: 'SISTEMA' },
-    settings_ajustes: { title: 'Ajustes & API', category: 'SISTEMA' },
+    settings_ajustes: { title: 'Configurações', category: 'SISTEMA' },
     settings_guia: { title: 'Guia de Uso & Método', category: 'SISTEMA' },
-    settings_sobre: { title: 'Sobre o Gabarito.AI', category: 'SISTEMA' },
+    settings_sobre: { title: 'Sobre a Plataforma', category: 'SISTEMA' },
   };
 
   const currentTabInfo = tabLabels[activeTab] || { title: 'Painel', category: 'GABARITO.AI' };
 
   const navMenuItems: { id: ActiveTab; label: string; icon: React.ReactNode; badge?: number }[] = [
-    { id: 'dashboard', label: 'Início & Metas', icon: <LayoutDashboard className="w-4 h-4" /> },
+    { id: 'dashboard', label: 'Dashboard', icon: <LayoutDashboard className="w-4 h-4" /> },
     { id: 'study', label: 'Sala de Estudos', icon: <BookOpen className="w-4 h-4" /> },
     { id: 'simulados', label: 'Simulados Oficiais', icon: <Target className="w-4 h-4" /> },
     { id: 'erros', label: 'Caderno de Erros', icon: <BookMarked className="w-4 h-4" />, badge: pendingErrorsCount },
