@@ -246,19 +246,21 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
 
     try {
       const res = await api.login(loginIdentifier, passwordInput);
-      if (res.success && res.token && res.account) {
-        setAuthToken(res.token);
+      if (res && res.token) {
+        api.setAuthToken(res.token);
         success('Login Realizado!', `Bem-vindo(a) de volta!`);
         if (res.profiles && res.profiles.length > 0) {
           handleEnterProfile(res.profiles[0]);
         } else {
           const newProf = await api.createUserProfile({
-            name: res.account.name || loginIdentifier.split('@')[0],
+            name: res.account?.name || loginIdentifier.split('@')[0],
             careerId: selectedCareerId,
             daily_hours: 4
           });
           handleEnterProfile(newProf);
         }
+      } else {
+        setAuthError('Credenciais inválidas. Verifique seu e-mail e senha.');
       }
     } catch (err: any) {
       setAuthError(err.message || 'Erro ao realizar login. Verifique seu e-mail e senha.');
@@ -289,8 +291,8 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
 
     try {
       const res = await api.register(displayName, passwordInput, emailInput.trim());
-      if (res.success && res.token && res.account) {
-        setAuthToken(res.token);
+      if (res && res.token) {
+        api.setAuthToken(res.token);
         success('Conta Criada com Sucesso!', `Sua conta foi configurada.`);
         const newProf = await api.createUserProfile({
           name: displayName,
@@ -298,6 +300,8 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
           daily_hours: 4
         });
         handleEnterProfile(newProf);
+      } else {
+        setAuthError('Não foi possível criar a conta. Tente novamente.');
       }
     } catch (err: any) {
       setAuthError(err.message || 'Erro ao criar conta');
@@ -1134,15 +1138,24 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
       {/* ============================================================ */}
       {/* MODAL DE AUTENTICAÇÃO INTEGRADO (Google & Credenciais)       */}
       {/* ============================================================ */}
+      {/* ============================================================ */}
+      {/* MODAL DE AUTENTICAÇÃO INTEGRADO (Google & Credenciais)       */}
+      {/* ============================================================ */}
       {showAuthModal && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-md animate-fade-in">
-          <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-2xl p-6 sm:p-7 shadow-2xl space-y-5 relative">
+        <div 
+          className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/80 backdrop-blur-md overflow-y-auto animate-fade-in"
+          onClick={(e) => {
+            if (e.target === e.currentTarget) setShowAuthModal(false);
+          }}
+        >
+          <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-2xl p-5 sm:p-7 shadow-2xl space-y-4 relative my-auto max-h-[92vh] overflow-y-auto">
             
             {/* Close Button */}
             <button
               type="button"
               onClick={() => setShowAuthModal(false)}
-              className="absolute top-4 right-4 p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] bg-[var(--bg-elevated)] transition-colors cursor-pointer"
+              className="absolute top-4 right-4 p-2 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] bg-[var(--bg-elevated)] transition-colors cursor-pointer z-10"
+              title="Fechar Janela"
             >
               ✕
             </button>
@@ -1169,7 +1182,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   setAuthTab('login');
                   setAuthError(null);
                 }}
-                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 cursor-pointer ${
                   authTab === 'login'
                     ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-sm'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -1185,7 +1198,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   setAuthTab('register');
                   setAuthError(null);
                 }}
-                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 cursor-pointer ${
                   authTab === 'register'
                     ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-sm'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -1222,7 +1235,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
               <form onSubmit={handleLogin} className="space-y-3.5" autoComplete="on">
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    E-mail:
+                    E-mail do Aluno:
                   </label>
                   <div className="relative">
                     <Mail className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
@@ -1242,7 +1255,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
 
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    Senha:
+                    Senha de Acesso:
                   </label>
                   <div className="relative">
                     <Lock className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
@@ -1279,16 +1292,23 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 mt-2"
+                  className="font-mono text-xs sm:text-sm font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 mt-3 py-3 h-11 flex items-center justify-center gap-2 cursor-pointer active:scale-[0.99]"
                 >
-                  {authLoading ? "Autenticando..." : "Entrar na Plataforma"}
+                  {authLoading ? (
+                    <span className="flex items-center gap-2">
+                      <span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></span>
+                      <span>Autenticando...</span>
+                    </span>
+                  ) : (
+                    <span>Entrar na Plataforma</span>
+                  )}
                 </Button>
               </form>
             ) : (
               <form onSubmit={handleRegister} className="space-y-3.5" autoComplete="on">
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    Nome Completo:
+                    Nome Completo / Apelido:
                   </label>
                   <div className="relative">
                     <User className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
@@ -1308,7 +1328,7 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
 
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    E-mail (Obrigatório):
+                    E-mail do Aluno (Obrigatório):
                   </label>
                   <div className="relative">
                     <Mail className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
@@ -1365,9 +1385,16 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 mt-2"
+                  className="font-mono text-xs sm:text-sm font-bold bg-gradient-to-r from-blue-600 to-indigo-600 shadow-md shadow-blue-500/20 mt-3 py-3 h-11 flex items-center justify-center gap-2 cursor-pointer active:scale-[0.99]"
                 >
-                  {authLoading ? "Criando Perfil..." : "Concluir Cadastro Gratuito"}
+                  {authLoading ? (
+                    <span className="flex items-center gap-2">
+                      <span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></span>
+                      <span>Criando Perfil...</span>
+                    </span>
+                  ) : (
+                    <span>Concluir Cadastro Gratuito</span>
+                  )}
                 </Button>
               </form>
             )}

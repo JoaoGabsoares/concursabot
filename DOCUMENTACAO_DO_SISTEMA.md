@@ -189,5 +189,16 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
    - **Exportação para Anki (`.CSV`)**: Estruturação automática de frente e verso compatível com Anki Desktop e AnkiMobile.
    - **Folha Oficial de Revisão (Print / PDF)**: Formatação estilo Diário Oficial com gabarito fundamentado, anotações do aluno e caixas de checagem para ciclos de repetição espaçada (`[ ] D+1`, `[ ] D+7`, `[ ] D+30`).
 
+---
 
+## 12. Acessibilidade Responsiva & Autenticação Segura (v5.1.0)
 
+- **Rolagem & Acessibilidade dos Formulários de Autenticação**:
+  - O modal de autenticação na Landing Page e a tela de login/registro (`AuthAndUserSelector`) possuem contenção responsiva `max-h-[92vh] overflow-y-auto` com backdrop scrollável.
+  - Os botões de envio (*"Entrar na Plataforma"* e *"Concluir Cadastro Gratuito"*) contam com altura mínima de 44px (h-11), feedback tátil `cursor-pointer`, estados de loading com spinner animado e total visibilidade em qualquer viewport (desktop, notebook, tablet e mobile).
+- **Google OAuth 2.0 Full-Page Redirect**:
+  - Fluxo de autenticação oficial sem dependência de popups ou APIs legadas. Redirecionamento direto para a tela do Google Accounts e processamento seguro no backend.
+
+---
+
+*Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

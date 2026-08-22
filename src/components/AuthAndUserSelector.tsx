@@ -137,12 +137,14 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
     setAuthLoading(true);
     try {
       const res = await api.login(loginIdentifier, passwordInput);
-      if (res.success && res.token && res.account) {
+      if (res && res.token) {
         setAuthToken(res.token);
-        setAccount(res.account);
+        setAccount(res.account || { id: 'acc_guest', username: loginIdentifier, email: loginIdentifier });
         setProfiles(res.profiles || []);
         setAuthStatus('authenticated');
         success('Bem-vindo de volta!', `Sessão iniciada com sucesso.`);
+      } else {
+        setAuthError('Credenciais inválidas. Verifique seu e-mail e senha.');
       }
     } catch (err: any) {
       setAuthError(err.message || 'Erro ao realizar login. Verifique seus dados.');
@@ -177,12 +179,14 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
     setAuthLoading(true);
     try {
       const res = await api.registerAccount(displayName, passwordInput, emailInput.trim());
-      if (res.success && res.token && res.account) {
+      if (res && res.token) {
         setAuthToken(res.token);
-        setAccount(res.account);
+        setAccount(res.account || { id: 'acc_guest', username: displayName, email: emailInput.trim() });
         setProfiles([]); // Zero profiles initially
         setAuthStatus('authenticated');
         success('Conta Criada com Sucesso!', `Sua conta foi configurada com isolamento total.`);
+      } else {
+        setAuthError('Não foi possível criar a conta. Tente novamente.');
       }
     } catch (err: any) {
       setAuthError(err.message || 'Erro ao criar conta.');
@@ -306,8 +310,8 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
   // Phase 1: Unauthenticated Screen (Clean Zero-Cost Login / Register)
   if (authStatus === 'unauthenticated') {
     return (
-      <div className="min-h-screen w-screen overflow-y-auto overflow-x-hidden flex flex-col justify-center items-center py-10 px-4 sm:px-6 bg-[var(--bg-base)] animate-fade-in font-sans">
-        <div className="w-full max-w-md space-y-5 my-auto">
+      <div className="min-h-screen w-full overflow-y-auto overflow-x-hidden flex flex-col items-center justify-start sm:justify-center py-6 sm:py-10 px-4 sm:px-6 bg-[var(--bg-base)] animate-fade-in font-sans">
+        <div className="w-full max-w-md space-y-4 my-auto py-2">
           
           {/* Brand Header */}
           <div className="text-center space-y-1.5">
@@ -323,7 +327,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
             </p>
           </div>
 
-          <Card className="p-5 sm:p-7 space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-2xl">
+          <Card className="p-5 sm:p-7 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-2xl">
             
             {/* Auth Mode Switcher Tabs */}
             <div className="grid grid-cols-2 gap-1 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs font-bold">
@@ -333,7 +337,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   setAuthTab('login');
                   setAuthError(null);
                 }}
-                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 cursor-pointer ${
                   authTab === 'login'
                     ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-sm font-bold'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -349,7 +353,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   setAuthTab('register');
                   setAuthError(null);
                 }}
-                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 cursor-pointer ${
                   authTab === 'register'
                     ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-sm font-bold'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -386,7 +390,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               <form onSubmit={handleLogin} className="space-y-3.5" autoComplete="on">
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    E-mail:
+                    E-mail do Aluno:
                   </label>
                   <div className="relative">
                     <Mail className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
@@ -406,7 +410,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    Senha:
+                    Senha de Acesso:
                   </label>
                   <div className="relative">
                     <Lock className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
@@ -444,9 +448,16 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs font-bold shadow-md flex items-center justify-center gap-2 mt-2"
+                  className="font-mono text-xs sm:text-sm font-bold shadow-md flex items-center justify-center gap-2 mt-3 py-3 h-11 cursor-pointer active:scale-[0.99]"
                 >
-                  {authLoading ? "Autenticando..." : "Entrar na Plataforma"}
+                  {authLoading ? (
+                    <span className="flex items-center gap-2">
+                      <span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></span>
+                      <span>Autenticando...</span>
+                    </span>
+                  ) : (
+                    <span>Entrar na Plataforma</span>
+                  )}
                 </Button>
               </form>
             ) : (
@@ -532,9 +543,16 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   fullWidth={true}
                   size="md"
                   disabled={authLoading}
-                  className="font-mono text-xs font-bold shadow-md flex items-center justify-center gap-2 mt-2"
+                  className="font-mono text-xs sm:text-sm font-bold shadow-md flex items-center justify-center gap-2 mt-3 py-3 h-11 cursor-pointer active:scale-[0.99]"
                 >
-                  {authLoading ? "Criando Conta..." : "Concluir Cadastro Gratuito"}
+                  {authLoading ? (
+                    <span className="flex items-center gap-2">
+                      <span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></span>
+                      <span>Criando Conta...</span>
+                    </span>
+                  ) : (
+                    <span>Concluir Cadastro Gratuito</span>
+                  )}
                 </Button>
               </form>
             )}
