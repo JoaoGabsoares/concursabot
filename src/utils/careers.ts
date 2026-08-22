@@ -5,43 +5,43 @@ export const CAREERS_LIST: Career[] = [
     id: 'bb_comercial',
     name: 'Banco do Brasil — Agente Comercial',
     banca: 'Fundação Cesgranrio',
-    description: 'Atendimento bancário, vendas, produtos financeiros, CDC e investimentos.',
-    tags: ['Nível Médio', 'Bancária', 'Carreira de Entrada']
+    description: 'Atendimento bancário, vendas, produtos financeiros, CDC, investimentos, CDC e previdência.',
+    tags: ['Nível Médio', 'Carreira Bancária', 'Concurso Nacional']
   },
   {
     id: 'bb_ti',
     name: 'Banco do Brasil — Agente de TI',
     banca: 'Fundação Cesgranrio',
-    description: 'Engenharia de software, microsserviços, cloud, Python, SQL e arquitetura de dados.',
-    tags: ['Nível Médio/Técnico', 'Tecnologia', 'Alta Demanda']
+    description: 'Engenharia de software, microsserviços, cloud, Python, SQL, Java e arquitetura de dados.',
+    tags: ['Nível Médio/Técnico', 'Tecnologia da Informação', 'Alta Demanda']
   },
   {
     id: 'atrfb',
     name: 'Receita Federal — Analista-Tributário (ATRFB)',
     banca: 'Fundação Getulio Vargas (FGV)',
-    description: 'Direito Tributário, Legislação Tributária e Aduaneira, Contabilidade e Direito Público.',
-    tags: ['Nível Superior', 'Fiscal de Elite', 'Fronteira & Portos']
+    description: 'Direito Tributário, Previdenciário, Legislação Tributária e Aduaneira, Fluência em Dados e Direito Público.',
+    tags: ['Nível Superior', 'Fiscal Federal', 'Receita Federal']
   },
   {
     id: 'afrfb',
     name: 'Receita Federal — Auditor-Fiscal (AFRFB)',
     banca: 'Fundação Getulio Vargas (FGV)',
-    description: 'Auditoria fiscal, Tributário avançado, Contabilidade societária, Comércio Internacional e TI fiscal.',
-    tags: ['Nível Superior', 'Topo de Carreira', 'Maior Remuneração']
+    description: 'Auditoria fiscal, Tributário avançado, Contabilidade societária, Comércio Internacional e Legislação Aduaneira.',
+    tags: ['Nível Superior', 'Auditoria Fiscal', 'Topo de Carreira']
   },
   {
     id: 'ses_rj',
     name: 'Saúde RJ — SES-RJ / IASERJ 2026',
-    banca: 'Instituto IBDO',
-    description: 'Legislação do SUS, Enfermagem Geral, Urgência & Emergência e Administração Pública Estadual.',
-    tags: ['Nível Médio/Superior', 'Saúde Pública', 'Concurso Iminente']
+    banca: 'Instituto IBDO Projetos',
+    description: 'Legislação do SUS (Leis 8.080 e 8.142), Enfermagem e Procedimentos Clínicos e Administração Pública RJ.',
+    tags: ['Nível Médio/Superior', 'Saúde Pública RJ', 'Concurso Iminente']
   },
   {
     id: 'marinha_rm2',
     name: 'Marinha do Brasil — SMV RM2 Praças',
     banca: 'DEnsM / Comando do 1º Distrito Naval',
-    description: 'Tradições Navais, Legislação Militar-Naval, Organização Básica da Marinha e Língua Portuguesa.',
-    tags: ['Nível Médio/Técnico', 'Militar', 'Oficial Temporário']
+    description: 'Tradições Navais, Estatuto dos Militares (Lei 6.880/80), RDM, LESTA e Língua Portuguesa DEnsM.',
+    tags: ['Nível Médio/Técnico', 'Militar Naval', 'Praça Temporária']
   },
   {
     id: 'transpetro_adm',

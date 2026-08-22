@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { CAREERS_LIST, getCareerById } from '../../utils/careers';
-import { getSubjectsForCareer, getConcurseiroRank } from '../../utils/gamification';
+import { getSubjectsForCareer, getConcurseiroRank, CONCURSEIRO_RANKS } from '../../utils/gamification';
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { api, setAuthToken } from '../../api/client';
@@ -51,12 +51,12 @@ interface PublicDashboardPageProps {
 
 // Extra Career Metadata for Rich Showcase
 const CAREER_METRICS: Record<string, { salary: string; vacancies: string; competition: string; badgeColor: string }> = {
-  atrfb: { salary: 'R$ 11.689,15/mês', vacancies: '469 Vagas', competition: '184 cand/vaga', badgeColor: 'from-blue-600 to-cyan-500' },
+  atrfb: { salary: 'R$ 11.684,39/mês', vacancies: '469 Vagas', competition: '184 cand/vaga', badgeColor: 'from-blue-600 to-cyan-500' },
   afrfb: { salary: 'R$ 21.029,09/mês', vacancies: '230 Vagas', competition: '240 cand/vaga', badgeColor: 'from-amber-500 to-yellow-400' },
   bb_comercial: { salary: 'R$ 5.430,00/mês', vacancies: '3.000 Vagas', competition: '380 cand/vaga', badgeColor: 'from-emerald-500 to-teal-400' },
   bb_ti: { salary: 'R$ 5.600,00/mês + PLR', vacancies: '1.500 Vagas', competition: '92 cand/vaga', badgeColor: 'from-cyan-500 to-blue-600' },
-  transpetro_adm: { salary: 'R$ 5.540,00/mês', vacancies: 'Cadastro Reserva', competition: '140 cand/vaga', badgeColor: 'from-purple-500 to-pink-500' },
-  transpetro_log: { salary: 'R$ 5.540,00/mês', vacancies: 'Quadro Terra', competition: '110 cand/vaga', badgeColor: 'from-indigo-500 to-blue-500' },
+  transpetro_adm: { salary: 'R$ 5.540,25/mês', vacancies: 'Cadastro Reserva', competition: '140 cand/vaga', badgeColor: 'from-purple-500 to-pink-500' },
+  transpetro_log: { salary: 'R$ 5.540,25/mês', vacancies: 'Quadro Terra', competition: '110 cand/vaga', badgeColor: 'from-indigo-500 to-blue-500' },
   ses_rj: { salary: 'R$ 4.890,00/mês', vacancies: 'Edital 2026', competition: '160 cand/vaga', badgeColor: 'from-teal-500 to-emerald-500' },
   marinha_rm2: { salary: 'R$ 4.300,00/mês', vacancies: 'Anual (RM2)', competition: '85 cand/vaga', badgeColor: 'from-blue-700 to-indigo-600' }
 };
@@ -366,18 +366,11 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
     return 52;
   };
 
-  const ranksList = [
-    { level: 1, title: 'Recruta do Edital', xp: '0 XP' },
-    { level: 2, title: 'Sentinela da Lei Seca', xp: '500 XP' },
-    { level: 3, title: 'Operador de Questões', xp: '1.200 XP' },
-    { level: 4, title: 'Guardião da Jurisprudência', xp: '2.500 XP' },
-    { level: 5, title: 'Estrategista de Prova', xp: '4.500 XP' },
-    { level: 6, title: 'Mestre da Redação', xp: '7.500 XP' },
-    { level: 7, title: 'Auditor Aspirante', xp: '12.000 XP' },
-    { level: 8, title: 'Inspetor Sênior', xp: '18.000 XP' },
-    { level: 9, title: 'Especialista de Elite', xp: '26.000 XP' },
-    { level: 10, title: 'Titular Homologado', xp: '36.000 XP' }
-  ];
+  const ranksList = CONCURSEIRO_RANKS.map(r => ({
+    level: r.level,
+    title: r.title,
+    xp: `${r.minXp.toLocaleString('pt-BR')} XP`
+  }));
 
   return (
     <div className="min-h-screen w-full overflow-y-auto overflow-x-hidden bg-[var(--bg-base)] text-[var(--text-primary)] font-sans flex flex-col justify-between selection:bg-[var(--accent-primary)] selection:text-white bg-grid-cyber">

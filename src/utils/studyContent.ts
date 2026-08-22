@@ -844,11 +844,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2018, score: "72.5 pontos (Cesgranrio - Geral)" }
     ],
     topTopics: [
-      { subject: "Conhecimentos Bancários", topic: "Sistema Financeiro Nacional, Pix & Mercado de Capitais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "Língua Portuguesa", topic: "Interpretação de Texto, Coesão & Sintaxe de Regência", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
-      { subject: "Atendimento & Vendas", topic: "Técnicas de Negociação, Ética Bancária & Resolução 4.949", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
-      { subject: "Matemática Financeira", topic: "Juros Compostos, Sistemas de Amortização (SAC/Price)", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
-      { subject: "Informática Básica", topic: "Segurança Digital, Pacote Office & Nuvem", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" }
+      { subject: "Vendas e Negociação", topic: "SPIN Selling, Manejo de Objeções, CDC Bancário & Resolução 4.949", status: "homologado", label: "MAIOR PESO EDITAL", weight: "22.5%" },
+      { subject: "Conhecimentos de Informática", topic: "Segurança da Informação, M365, Nuvem & Prevenção a Fraudes", status: "homologado", label: "MAIOR PESO EDITAL", weight: "22.5%" },
+      { subject: "Conhecimentos Bancários", topic: "Sistema Financeiro Nacional (SFN), Pix, Open Finance & Mercado de Câmbio", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15.0%" },
+      { subject: "Língua Portuguesa", topic: "Interpretação de Texto, Coesão & Sintaxe de Regência", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15.0%" },
+      { subject: "Matemática Financeira", topic: "Juros Compostos, Taxas Equivalentes & Sistemas de Amortização (SAC/Price)", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "7.5%" }
     ]
   },
   "bb_ti": {
@@ -857,11 +857,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2021, score: "62.5 pontos (Cesgranrio - TI Geral)" }
     ],
     topTopics: [
-      { subject: "Tecnologia da Informação & Banco de Dados", topic: "Modelagem Relacional, SQL, Python & Arquitetura de Nuvem", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "35%" },
-      { subject: "Conhecimentos Bancários", topic: "Open Finance, Meios de Pagamento & Bacen", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
-      { subject: "Língua Portuguesa", topic: "Compreensão de Texto e Sintaxe Conectiva", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
-      { subject: "Matemática & Probabilidade", topic: "Probabilidade, Análise Combinatória e Lógica", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
-      { subject: "Língua Inglesa", topic: "Vocabulário Técnico de TI e Interpretação", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" }
+      { subject: "Tecnologia da Informação", topic: "Modelagem Relacional, SQL Avançado, Python, Java, Docker & APIs REST", status: "homologado", label: "PESO CRÍTICO (52.5%)", weight: "52.5%" },
+      { subject: "Língua Portuguesa", topic: "Compreensão de Texto e Sintaxe Conectiva Cesgranrio", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15.0%" },
+      { subject: "Probabilidade e Estatística", topic: "Probabilidade Condicional, Teorema de Bayes e Distribuição Normal", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "7.5%" },
+      { subject: "Conhecimentos Bancários", topic: "Open Finance, Drex, Meios de Pagamento & Bacen", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "7.5%" },
+      { subject: "Matemática", topic: "Funções, Matrizes e Análise Combinatória", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "7.5%" }
     ]
   },
   "atrfb": {
@@ -871,11 +871,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2012, score: "74.5 pontos (Esaf - Nacional)" }
     ],
     topTopics: [
-      { subject: "Direito Tributário", topic: "Limitações Constitucionais, CTN, Crédito & Obrigação", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "Legislação Tributária e Aduaneira", topic: "Território Aduaneiro, Despacho & Infrações Fiscais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
-      { subject: "Direito Constitucional", topic: "Controle de Constitucionalidade, Eficácia & Remédios", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15%" },
-      { subject: "Direito Administrativo", topic: "Atos Administrativos (COFIFOMOB) & Abuso de Poder", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15%" },
-      { subject: "Contabilidade Geral", topic: "Estrutura do Balanço Patrimonial, DRE & CPC 00", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" }
+      { subject: "Direito Tributário", topic: "Limitações ao Poder de Tributar, CTN, Crédito & Obrigação", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "11.4%" },
+      { subject: "Direito Previdenciário", topic: "Custeio, Seguridade Social na CF/88 & Benefícios RGPS", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "11.4%" },
+      { subject: "Fluência em Dados", topic: "Modelagem Relacional, SQL, Governança & Mineração de Dados", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.7%" },
+      { subject: "Língua Portuguesa", topic: "Interpretação e Semântica Estilo FGV (Casos Complexos)", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.7%" },
+      { subject: "Legislação Tributária e Aduaneira", topic: "Regulamento Aduaneiro, Território, Portos Secos & Tributos Federais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" }
     ]
   },
   "afrfb": {
@@ -884,11 +884,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2014, score: "81.0 pontos (Esaf - Nacional)" }
     ],
     topTopics: [
-      { subject: "Direito Tributário", topic: "Planejamento Tributário, Elisão vs Evasão & CTN", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
-      { subject: "Auditoria Fiscal e Digital", topic: "SPED, EFD-Reinf & Procedimentos de Fiscalização", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
-      { subject: "Legislação Tributária e Aduaneira", topic: "Valoração Aduaneira e Regimes Especiais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15%" },
-      { subject: "Contabilidade Avançada", topic: "Consolidação de Demonstrações & Pronunciamentos CPC", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
-      { subject: "Fluência em Dados", topic: "Python, SQL e Mineração de Dados Fiscais", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10%" }
+      { subject: "Direito Tributário", topic: "Planejamento Tributário, Elisão vs Evasão & Jurisprudência STF/STJ", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Auditoria Fiscal", topic: "Procedimentos de Auditoria, Amostragem Estatística & Fraudes Fiscais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Contabilidade Geral e Avançada", topic: "CPC 00, Balanço Patrimonial, DRE & Consolidação", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Comércio Internacional e Legislação Aduaneira", topic: "Valoração Aduaneira, Regimes Aduaneiros Especiais & SISCOMEX", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Fluência em Dados", topic: "Python, SQL e Análise Preditiva em Malhas Fiscais", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "8.0%" }
     ]
   },
   "transpetro_adm": {
@@ -897,11 +897,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2018, score: "77.5 pontos (Cesgranrio - Nacional)" }
     ],
     topTopics: [
-      { subject: "Noções de Administração", topic: "Funções Administrativas (PODC) & Estrutura Organizacional", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "28.5%" },
-      { subject: "Legislação e Licitações para Estatais (Lei 13.303/16)", topic: "Regime Jurídico, Governança & Licitações nas Estatais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "21.5%" },
+      { subject: "Noções de Administração", topic: "Funções Administrativas (PODC), Processos & Ferramentas da Qualidade", status: "homologado", label: "MAIOR PESO (28.5%)", weight: "28.5%" },
+      { subject: "Legislação e Licitações para Estatais (Lei 13.303/16)", topic: "Regime Societário, Governança, Dispensa por Valor & Contratos", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "21.5%" },
       { subject: "Língua Portuguesa", topic: "Interpretação Textual, Coesão & Sintaxe Cesgranrio", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "14.3%" },
-      { subject: "Técnicas de Arquivo e Documentação", topic: "Teoria das 3 Idades e Métodos de Arquivamento", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "11.4%" },
-      { subject: "Ética e Conduta no Setor Público", topic: "Prevenção a Conflito de Interesses e Conduta Petrobras", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" }
+      { subject: "Matemática", topic: "Razão, Proporção, Porcentagem e Regra de Três Composta", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "14.3%" },
+      { subject: "Técnicas de Arquivo e Documentação", topic: "Teoria das 3 Idades, Tabela de Temporalidade e Protocolo", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "11.4%" }
     ]
   },
   "transpetro_log": {
@@ -910,11 +910,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2018, score: "75.0 pontos (Cesgranrio - Geral)" }
     ],
     topTopics: [
-      { subject: "Gestão de Estoques e Almoxarifado", topic: "Classificação ABC, Ponto de Pedido & Dimensionamento", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "28.5%" },
-      { subject: "Transporte, Movimentação e Modais Logísticos", topic: "Modal Dutoviário, Cabotagem & Eficiência Energética", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "21.5%" },
+      { subject: "Gestão de Estoques e Almoxarifado", topic: "Curva ABC, Ponto de Pedido, Estoque de Segurança & Inventários", status: "homologado", label: "MAIOR PESO (28.5%)", weight: "28.5%" },
+      { subject: "Transporte, Movimentação e Modais Logísticos", topic: "Modal Dutoviário de Óleo/Gás, Cabotagem & Layout de Armazém", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "21.5%" },
       { subject: "Língua Portuguesa", topic: "Compreensão de Texto, Conectivos e Concordância", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "14.3%" },
-      { subject: "Gestão de Compras e Fornecedores", topic: "Qualificação de Fornecedores e Matriz Kraljic", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "11.4%" },
-      { subject: "Legislação de Contratações em Estatais (Lei 13.303/16)", topic: "Procedimento de Manifestação de Interesse e Contratos", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" }
+      { subject: "Matemática", topic: "Cálculos de Dimensionamento e Médias Ponderadas", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "14.3%" },
+      { subject: "Gestão de Compras e Fornecedores", topic: "Qualificação de Fornecedores, SCM & Indicadores OTIF", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "11.4%" }
     ]
   },
   "marinha_rm2": {
@@ -924,10 +924,8 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2023, score: "78.0 pontos (DEnsM - Geral)" }
     ],
     topTopics: [
-      { subject: "Organização Básica da Marinha", topic: "Estrutura do Comando da Marinha & Missão Constitucional", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "História e Tradições Navais", topic: "Batalha do Riachuelo, Almirante Tamandaré & Tradições", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "Legislação Militar", topic: "Estatuto dos Militares (Lei 6.880/80) & Regulamento Disciplinar (RDM)", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "Língua Portuguesa", topic: "Sintaxe de Regência, Crase e Coesão Textual", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "25%" }
+      { subject: "Língua Portuguesa (Gramática & Sintaxe)", topic: "Sintaxe do Período Composto, Crase & Concordância (Celso Cunha)", status: "homologado", label: "METADE DA PROVA (50%)", weight: "50.0%" },
+      { subject: "Formação Militar-Naval (Estatuto, RDM, LESTA, Tradições)", topic: "Estatuto dos Militares (Lei 6.880/80), RDM, LESTA, Batalha do Riachuelo", status: "homologado", label: "METADE DA PROVA (50%)", weight: "50.0%" }
     ]
   },
   "ses_rj": {
@@ -936,10 +934,11 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { year: 2022, score: "72.0 pontos (CEPUERJ - Geral)" }
     ],
     topTopics: [
-      { subject: "Legislação do SUS (Leis 8.080 e 8.142)", topic: "Princípios Doutrinários, Financiamento e Controle Social", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "30%" },
-      { subject: "Políticas Públicas de Saúde", topic: "Atenção Primária à Saúde e Estratégia Saúde da Família", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "Língua Portuguesa", topic: "Interpretação de Texto, Acentuação e Sintaxe", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "25%" },
-      { subject: "Noções de Administração Pública", topic: "Nova Lei de Licitações (Lei 14.133/21) e Princípios LIMPE", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "20%" }
+      { subject: "Legislação do SUS (Leis 8.080 e 8.142)", topic: "Arts. 196-200 da CF/88, Competências das Esferas & Conselhos de Saúde", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "30.0%" },
+      { subject: "Conhecimentos Específicos (Enfermagem / Saúde Pública)", topic: "Cálculo de Medicamentos/Gotejamento, Vacinação PNI & Manchester", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "30.0%" },
+      { subject: "Língua Portuguesa", topic: "Gramática Normativa IBDO, Acentuação, Ortografia & Crase", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20.0%" },
+      { subject: "Noções de Informática", topic: "Windows, LibreOffice, Redes & Prontuário Eletrônico", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" },
+      { subject: "Legislação Estadual RJ (Dec.-Lei 220/75)", topic: "Regime Jurídico dos Servidores Civis do RJ e Processo Disciplinar", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" }
     ]
   }
 };
