@@ -171,8 +171,8 @@ export function getSubjectsForCareer(careerId: string): SubjectStats[] {
 
   if (careerId.includes('marinha')) {
     return [
-      { name: 'Língua Portuguesa (Gramática & Sintaxe)', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '50.0%' },
-      { name: 'Formação Militar-Naval (Estatuto, RDM, LESTA, Tradições)', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '50.0%' }
+      { name: 'Formação Militar-Naval', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '50.0%' },
+      { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '50.0%' }
     ];
   }
 

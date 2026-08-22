@@ -429,6 +429,54 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
   },
 
   // --- MARINHA DO BRASIL (RM2 / SMV) ---
+  "Formação Militar-Naval": {
+    subject: "Formação Militar-Naval",
+    topic: "Estatuto dos Militares (Lei 6.880/80), RDM, LESTA, Tradições e História Naval",
+    lessonNumber: 1,
+    totalLessons: 12,
+    jurisprudenceNote: "DEnsM: Cobrança rigorosa da literalidade da Lei 6.880/80 (Estatuto dos Militares), RDM (Decreto nº 88.545/83), LESTA (Lei 9.537/97), Cerimonial da Marinha e Batalha Naval do Riachuelo.",
+    section1Title: "1. Hierarquia, Disciplina Militar e Deveres Navais",
+    section1Body: "A hierarquia militar é a ordenação da autoridade, em níveis diferentes, dentro da estrutura das Forças Armadas. A disciplina militar é a rigorosa observância e o acatamento integral das leis, regulamentos e normas. A disciplina e o respeito à hierarquia devem ser mantidos em todas as circunstâncias da vida entre militares da ativa, da reserva remunerada e reformados. O posto é o grau hierárquico do oficial, conferido por ato do Presidente da República e confirmado em Carta Patente; a graduação é o grau hierárquico da praça, conferido pelo Comandante da Marinha ou autoridade delegada. São praças especiais: Guardas-Marinha e Aspirantes.",
+    deepDiveText: "Aprofundamento Doutrinário Militar-Naval:\n1) RDM (Decreto nº 88.545/1983): As penas disciplinares para praças compreendem: repreensão, impedimento disciplinar, serviço extraordinário (até 10 dias de no máximo 2 horas cada), prisão disciplinar (até 30 dias) e exclusão/licenciamento a bem da disciplina.\n2) LESTA (Lei nº 9.537/1997): A Autoridade Marítima no Brasil é exercida pelo Comandante da Marinha, que tem competência para salvaguardar a vida humana no mar, garantir a segurança do tráfego aquaviário e prevenir a poluição hídrica por embarcações.\n3) História e Tradições Navais: A Batalha Naval do Riachuelo ocorreu em 11 de junho de 1865 (Data Magna da Marinha), onde a Fragata Amazonas, comandada pelo Almirante Barroso, usou sua proa como aríete contra as chatas e vapores paraguaios.",
+    practicalCases: [
+      {
+        title: "Pegadinha DEnsM: Praças Especiais e Precedência",
+        scenario: "Um Guarda-Marinha ou Aspirante é considerado Oficial Subalterno ou Praça Especial?",
+        tip: "Praça Especial! Art. 16, § 4º da Lei 6.880/80: Guardas-Marinha e Aspirantes são praças especiais com prerrogativas de oficiais subalternos, mas NÃO são ainda oficiais com Carta Patente definitiva."
+      },
+      {
+        title: "Pegadinha DEnsM: Serviço Extraordinário no RDM",
+        scenario: "O serviço extraordinário pode exceder 2 horas diárias ou 10 dias consecutivos?",
+        tip: "NÃO! O Art. 14 do RDM limita o serviço extraordinário a no máximo 2 horas por dia útil e duração máxima de 10 dias."
+      }
+    ],
+    lawArticles: [
+      { article: "Art. 14, § 1º (Lei 6.880/80)", text: "A hierarquia militar é a ordenação da autoridade, em níveis diferentes, dentro da estrutura das Forças Armadas." },
+      { article: "Art. 16, § 1º (Lei 6.880/80)", text: "Posto é o grau hierárquico do oficial, conferido por ato do Presidente da República e confirmado em Carta Patente." },
+      { article: "Art. 3º (Lei 9.537/97 - LESTA)", text: "Cabe à Autoridade Marítima promover a implementação e a execução desta Lei, com o propósito de assegurar a salvaguarda da vida humana e a segurança da navegação." }
+    ],
+    section2Title: "2. Mnemônicos Fundamentais da DEnsM",
+    mnemonics: [
+      { code: "HD = HIERARQUIA & DISCIPLINA", meaning: "Bases constitucionais inegociáveis (Art. 142 da CF/88 e Art. 14 da Lei 6.880/80)." },
+      { code: "POSTO (Oficial) / GRADUAÇÃO (Praça)", meaning: "Posto tem Carta Patente; Graduação é ato do Comandante de Força." },
+      { code: "11 DE JUNHO = RIACHUELO", meaning: "Data Magna da Marinha do Brasil • Almirante Barroso e Fragata Amazonas." },
+      { code: "LESTA = SALVAGUARDA, SEGURANÇA E AMBIENTE", meaning: "Tríplice missão da Autoridade Marítima no tráfego aquaviário." }
+    ],
+    question: {
+      id: 301,
+      question: "Conforme o Estatuto dos Militares (Lei Federal nº 6.880/1980) e o Regulamento Disciplinar para a Marinha (RDM), assinale a opção que expressa com exatidão a disciplina e hierarquia militar:",
+      options: {
+        A: "A disciplina e o respeito à hierarquia devem ser mantidos em todas as circunstâncias da vida entre militares da ativa, da reserva remunerada e reformados.",
+        B: "A subordinação militar afeta gravemente a dignidade pessoal do indivíduo, cessando nos finais de semana.",
+        C: "O posto militar é conferido às praças por portaria do Ministério da Defesa sem Carta Patente.",
+        D: "A antiguidade militar prevalece sobre a hierarquia nas formaturas cívico-militares.",
+        E: "Militares temporários do SMV não estão submetidos ao Estatuto dos Militares nem ao RDM."
+      },
+      answer: "A",
+      explanation: "Art. 14, § 3º da Lei nº 6.880/80: 'A disciplina e o respeito à hierarquia devem ser mantidos em todas as circunstâncias da vida entre militares da ativa, da reserva remunerada e reformados'."
+    }
+  },
+
   "Organização Básica da Marinha": {
     subject: "Organização Básica da Marinha",
     topic: "Estrutura do Comando da Marinha & Missão Constitucional",
@@ -986,6 +1034,101 @@ export const CAREER_ESSAY_THEMES: Record<string, string> = {
 
 // 4. Catálogo de Módulos Reais Paginados (5 Páginas por Módulo)
 export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
+  // ==========================================
+  // FORMAÇÃO MILITAR-NAVAL (MARINHA DO BRASIL)
+  // ==========================================
+  "Formação Militar-Naval": [
+    {
+      moduleNumber: 1,
+      totalModules: 4,
+      title: "Hierarquia, Disciplina & Estatuto dos Militares (Lei 6.880/80)",
+      bancaTrend: "DEnsM: Cobrança massiva da distinção entre Posto e Graduação, Praças Especiais e manutenção da disciplina na inatividade.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Bases Constitucionais, Hierarquia e Subordinação Militar",
+          category: "Doutrina & Teoria",
+          leadText: "A hierarquia e a disciplina são as bases institucionais das Forças Armadas, estabelecidas no art. 142 da CF/88 e art. 14 da Lei 6.880/80.",
+          bodyText: "A hierarquia militar é a ordenação da autoridade, em níveis diferentes, dentro da estrutura das Forças Armadas. A disciplina é a rigorosa observância e o acatamento integral das leis, regulamentos, normas e disposições que fundamentam o organismo militar e coordenam seu funcionamento regular e harmônico.\n\nA subordinação militar não afeta, de modo algum, a dignidade pessoal do militar e decorre exclusivamente da estrutura hierarquizada da Força. O respeito à hierarquia e à disciplina deve ser mantido em todas as circunstâncias da vida entre militares da ativa, da reserva remunerada e reformados.",
+          deepDiveText: "Graus Hierárquicos na Marinha:\n• Oficiais-Generais: Almirante (em tempo de guerra), Almirante de Esquadra, Vice-Almirante, Contra-Almirante.\n• Oficiais Superiores: Capitão de Mar e Guerra, Capitão de Fragata, Capitão de Corveta.\n• Oficiais Intermediários: Capitão-Tenente.\n• Oficiais Subalternos: Primeiro-Tenente, Segundo-Tenente.\n• Praças Especiais: Guarda-Marinha, Aspirante a Oficial, Alunos de Órgãos de Formação.\n• Praças Graduadas: Suboficial, Primeiro-Sargento, Segundo-Sargento, Terceiro-Sargento, Cabo.\n• Praças: Marinheiro / Soldado Fuzileiro Naval."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Escala Hierárquica, Postos, Graduações e Precedência",
+          category: "Esquemas & Tabelas",
+          leadText: "Posto é o grau hierárquico do oficial conferido por Carta Patente; Graduação é o grau da praça conferido pelo Comandante da Força.",
+          bodyText: "Em igualdade de posto ou graduação, os militares da ativa têm precedência sobre os da inativa.",
+          tableData: {
+            headers: ["Grau Hierárquico", "Denominação", "Ato de Concessão", "Diploma Legal"],
+            rows: [
+              ["Oficiais", "Posto", "Presidente da República", "Carta Patente"],
+              ["Praças Especiais", "Guarda-Marinha / Aspirante", "Comandante da Marinha", "Ato de Declaração"],
+              ["Praças Graduadas", "Graduação (Suboficial a Cabo)", "Autoridade Militar Naval", "Portaria / Ordem de Serviço"],
+              ["Militares Inativos", "Reserva Remunerada / Reformado", "Ato de Transferência", "Título de Inatividade"]
+            ]
+          },
+          mnemonics: [
+            { code: "POSTO = OFICIAL + CARTA PATENTE", meaning: "Conferido privativamente por ato presidencial." },
+            { code: "GRADUAÇÃO = PRAÇA", meaning: "Conferido por autoridade militar competente." },
+            { code: "PRAÇAS ESPECIAIS = GM & ASPIRANTE", meaning: "Prerrogativas de oficial subalterno sem carta patente definitiva." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas Clássicas da DEnsM",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A DEnsM costuma explorar as regras de antiguidade e os limites do serviço extraordinário no RDM.",
+          bodyText: "Atenção estrita aos critérios sucessivos de desempate de antiguidade no mesmo posto ou graduação (Art. 17 da Lei 6.880/80):\n1º Data da promoção/nomeação;\n2º Antiguidade no posto/graduação anterior;\n3º Classificação no curso de formação;\n4º Data de praça;\n5º Maior idade.",
+          practicalCases: [
+            {
+              title: "Pegadinha DEnsM: Militares Inativos e Hierarquia",
+              scenario: "Militares da reserva remunerada ou reformados perdem o dever de respeito à hierarquia perante os militares da ativa?",
+              tip: "NÃO! O Art. 14, § 3º da Lei 6.880/80 exige respeito à hierarquia e à disciplina em todas as circunstâncias entre militares da ativa, da reserva e reformados."
+            },
+            {
+              title: "Pegadinha DEnsM: Competência da Autoridade Marítima (LESTA)",
+              scenario: "A Capitania dos Portos pode aplicar multas e apreender embarcações civis em tráfego aquaviário?",
+              tip: "SIM! A Lei 9.537/1997 confere expressamente à Autoridade Marítima o poder de polícia naval para salvaguarda da vida humana e segurança da navegação."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Dispositivos Literais Obrigatórios (Lei 6.880/80 & LESTA)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Conhecimento literal dos artigos mais recorrentes nos concursos da Marinha do Brasil.",
+          bodyText: "Exame pontual das normas fundamentais da legislação militar-naval.",
+          lawArticles: [
+            { article: "Art. 14 (Lei 6.880/80)", text: "A hierarquia e a disciplina são a base institucional das Forças Armadas. A autoridade e a responsabilidade crescem com o grau hierárquico." },
+            { article: "Art. 16, § 1º (Lei 6.880/80)", text: "Posto é o grau hierárquico do oficial, conferido por ato do Presidente da República ou do Comandante de Força Singular e confirmado em Carta Patente." },
+            { article: "Art. 3º (Lei 9.537/97 - LESTA)", text: "Cabe à Autoridade Marítima promover a implementação e a execução desta Lei, com o propósito de assegurar a salvaguarda da vida humana e a segurança da navegação, no mar aberto e em hidrovias interiores, e a prevenção da poluição ambiental." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Questão de Fixação Homologada DEnsM",
+          category: "Fixação & Questões",
+          leadText: "Teste prático simulando o estilo real de prova da Diretoria de Ensino da Marinha.",
+          bodyText: "Resolva o item abaixo e verifique a fundamentação completa.",
+          question: {
+            id: 881,
+            question: "(DEnsM - Marinha do Brasil - SMV RM2) Em relação à escala hierárquica e aos círculos hierárquicos estabelecidos no Estatuto dos Militares (Lei Federal nº 6.880/1980), assinale a opção correta:",
+            options: {
+              A: "O posto militar é o grau hierárquico privativo das praças graduadas.",
+              B: "Os Guardas-Marinha e Aspirantes a Oficial são praças especiais.",
+              C: "A disciplina e o respeito à hierarquia aplicam-se exclusivamente durante o quarto de serviço a bordo.",
+              D: "A antiguidade militar suprime a necessidade de observância às ordens legais do superior.",
+              E: "Militares da ativa e da reserva remunerada têm precedência idêntica em qualquer hipótese."
+            },
+            answer: "B",
+            explanation: "Conforme o art. 16, § 4º da Lei nº 6.880/80, os Guardas-Marinha e Aspirantes a Oficial pertencem à categoria das Praças Especiais."
+          }
+        }
+      ]
+    }
+  ],
+
   // ==========================================
   // RACIOCÍNIO LÓGICO-MATEMÁTICO E ESTATÍSTICA
   // ==========================================

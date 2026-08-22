@@ -326,4 +326,31 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 18. Extensão Completa para a Marinha do Brasil (SMV RM2 Praças) & Auditoria Geral (v5.8.0)
+
+1. **⚓ Banco Oficial DEnsM & Sincronização em `career_question_bank`**:
+   - **60 Questões Oficiais da Marinha**: Cobertura integral das duas grandes frentes do certame: *Formação Militar-Naval* (30 questões) e *Língua Portuguesa* (30 questões) com 5 alternativas e fundamentação legal estrita.
+   - **Seed Automatizado**: Sincronização simultânea nas tabelas `questions` e `career_question_bank` (`career_id = 'marinha_rm2'`) via `server/seeds/rm2_questions_seed.js`.
+
+2. **📖 Módulos Didáticos & Aulas Dedicadas de Formação Militar-Naval**:
+   - **Doutrina Estruturada**: Inclusão de aula completa e módulo paginado em `src/utils/studyContent.ts` cobrindo o *Estatuto dos Militares (Lei 6.880/80)*, *Regulamento Disciplinar para a Marinha (RDM - Dec. 88.545/83)*, *Segurança do Tráfego Aquaviário (LESTA - Lei 9.537/97)*, *Organização Básica da Marinha (OGSA)* e *História/Tradições Navais (Batalha Naval do Riachuelo, Almirante Barroso e Fragata Amazonas)*.
+   - **Esquemas, Tabelas & Mnemônicos**: Relação de postos e graduações, praças especiais (Guardas-Marinha e Aspirantes), escalas hierárquicas e critérios sucessivos de antiguidade.
+
+3. **🎯 Simulados por Matéria (20 a 50 Questões) para a Marinha**:
+   - Suporte completo ao seletor de matérias da Marinha (*Formação Militar-Naval* e *Língua Portuguesa*) com a banca oficial **DEnsM / Comando do 1º Distrito Naval**.
+   - Integração com o **Filtro Sincronizado**, permitindo ao aluno treinar apenas os tópicos navais que já foram estudados no seu acervo ou o edital completo.
+
+4. **⚖️ Expansão da Lei Seca Militar-Naval (Desafio Caça-Pegadinhas 15s)**:
+   - Adição de novos artigos de ouro em `server/routes/leiseca.js`:
+     - `Art. 14 da Lei 6.880/80` (Hierarquia e Disciplina militar).
+     - `Art. 16 da Lei 6.880/80` (Postos, Graduações, Carta Patente e Praças Especiais).
+     - `Art. 11 do Dec. 88.545/83 (RDM)` (Relação de penas disciplinares navais e vedação a penas patrimoniais).
+     - `Art. 3º da Lei 9.537/97 (LESTA)` (Tríplice missão da Autoridade Marítima: salvaguarda da vida, segurança da navegação e prevenção da poluição hídrica).
+
+5. **🔍 Validação Geral, Otimização e Erradicação de Inconsistências**:
+   - Dinamização de rótulos de banca em todo o frontend (eliminando textos fixos de FGV em outras carreiras).
+   - Suíte de 34 testes automatizados 100% aprovada e build de produção Vite consolidado.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

@@ -192,7 +192,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
         if (selectedScopeMode === 'studied_only' && !isSubjectStudied(selectedSubject) && studiedScope.length > 0) {
           info(
             '💡 Dica de Estudo',
-            `Você ainda não registrou estudo formal de ${selectedSubject}. O simulado usará questões do Edital Completo padrão FGV.`
+            `Você ainda não registrou estudo formal de ${selectedSubject}. O simulado usará questões do Edital Completo padrão ${currentCareer.banca || 'Oficial'}.`
           );
         }
 
@@ -592,7 +592,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                   className="font-sans text-xs font-bold px-6 py-3 shadow-md flex items-center gap-2"
                 >
                   <Zap className="w-4 h-4" />
-                  <span>{loadingSimulado ? 'Gerando Questões FGV...' : `Iniciar Simulado de ${selectedSubject} (${selectedQuestionCount}Q)`}</span>
+                  <span>{loadingSimulado ? 'Preparando Questões Oficiais...' : `Iniciar Simulado de ${selectedSubject} (${selectedQuestionCount}Q)`}</span>
                   <ChevronRight className="w-4 h-4" />
                 </Button>
               </div>
@@ -1024,7 +1024,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           <div className="space-y-4 pt-4">
             <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
               <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                Gabarito Comentado e Diagnóstico Oficial FGV
+                Gabarito Comentado e Fundamentação Oficial ({currentCareer.banca})
               </h3>
               <span className="text-xs font-mono text-[var(--text-muted)]">
                 {correctCount} de {totalQuestions} certas

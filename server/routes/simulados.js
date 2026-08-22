@@ -154,17 +154,36 @@ router.post('/create-by-subject', async (req, res) => {
 
             candidateQuestionIds = errorQuestions.map(r => r.id);
         } else {
+            // 1. Busca nas questões da banca informada ou cadastradas
             const existing = db.prepare(`
                 SELECT id FROM questions 
-                WHERE LOWER(subject) LIKE LOWER(?) AND (banca = ? OR banca = 'FGV' OR ? = 'todas')
-                ORDER BY RANDOM()
+                WHERE LOWER(subject) LIKE LOWER(?) AND (banca = ? OR banca LIKE ? OR ? = 'todas' OR banca = 'FGV' OR banca = 'DEnsM' OR banca = 'Cesgranrio')
+                ORDER BY (CASE WHEN banca = ? THEN 0 ELSE 1 END), RANDOM()
                 LIMIT ?
-            `).all(`%${subject}%`, banca, banca, count);
+            `).all(`%${subject}%`, banca, `%${banca}%`, banca, banca, count);
 
             candidateQuestionIds = existing.map(r => r.id);
+
+            // 2. Se faltar, busca no career_question_bank sincronizado
+            if (candidateQuestionIds.length < count && careerId) {
+                const cqbQuestions = db.prepare(`
+                    SELECT q.id
+                    FROM career_question_bank cqb
+                    JOIN questions q ON cqb.question_text = q.question_text
+                    WHERE cqb.career_id = ? AND LOWER(cqb.subject) LIKE LOWER(?)
+                    ORDER BY RANDOM()
+                    LIMIT ?
+                `).all(careerId, `%${subject}%`, count - candidateQuestionIds.length);
+
+                for (const cq of cqbQuestions) {
+                    if (!candidateQuestionIds.includes(cq.id)) {
+                        candidateQuestionIds.push(cq.id);
+                    }
+                }
+            }
         }
 
-        // Se o banco tiver menos questões que o solicitado, gerar com IA as restantes no padrão FGV
+        // Se o banco tiver menos questões que o solicitado, gerar com IA as restantes no padrão da banca
         if (candidateQuestionIds.length < count && scopeMode !== 'errors_only') {
             const needed = count - candidateQuestionIds.length;
             try {

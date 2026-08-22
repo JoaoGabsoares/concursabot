@@ -133,6 +133,54 @@ const LEI_SECA_DB = [
             correcao: 'hierarquia e a disciplina',
             explicacao: 'O Art. 14 do Estatuto dos Militares define com clareza pétrea que a HIERARQUIA e a DISCIPLINA são a base institucional das Forças Armadas.'
         }
+    },
+    {
+        id: 'lei6880_art16',
+        lei: 'Estatuto dos Militares (Lei nº 6.880/1980)',
+        diploma: 'Lei 6.880/80',
+        artigo: 'Art. 16',
+        carreiras: ['marinha_rm2'],
+        banca: 'DEnsM',
+        tema: 'Legislação Militar-Naval • Postos, Graduações e Praças Especiais',
+        textoOriginal: 'Posto é o grau hierárquico do oficial, conferido por ato do Presidente da República ou do Comandante de Força Singular e confirmado em Carta Patente. Graduação é o grau hierárquico da praça. São praças especiais os Guardas-Marinha e os Aspirantes a Oficial.',
+        pegadinha: {
+            textoComErro: 'Graduação é o grau hierárquico do oficial conferido em Carta Patente, sendo o Posto privativo das praças;',
+            palavraErrada: 'Graduação é o grau hierárquico do oficial',
+            correcao: 'Posto é o grau hierárquico do oficial',
+            explicacao: 'POSTO pertence aos Oficiais (com Carta Patente); GRADUAÇÃO pertence às Praças.'
+        }
+    },
+    {
+        id: 'dec88545_art11',
+        lei: 'Regulamento Disciplinar para a Marinha (Decreto nº 88.545/1983)',
+        diploma: 'RDM',
+        artigo: 'Art. 11',
+        carreiras: ['marinha_rm2'],
+        banca: 'DEnsM',
+        tema: 'Legislação Militar-Naval • Penas Disciplinares',
+        textoOriginal: 'As penas disciplinares a que estão sujeitos os militares da Marinha são: 1) repreensão; 2) impedimento disciplinar; 3) serviço extraordinário; 4) prisão disciplinar; 5) licenciamento e exclusão a bem da disciplina.',
+        pegadinha: {
+            textoComErro: 'As penas disciplinares na Marinha compreendem a multa pecuniária, o confisco de bens e a perda da patente militar;',
+            palavraErrada: 'multa pecuniária',
+            correcao: 'repreensão, impedimento e prisão disciplinar',
+            explicacao: 'No RDM NÃO existe pena de multa pecuniária nem confisco de bens. As penas disciplinares são repreensão, impedimento, serviço extraordinário, prisão disciplinar e exclusão.'
+        }
+    },
+    {
+        id: 'lei9537_art3',
+        lei: 'Segurança do Tráfego Aquaviário - LESTA (Lei nº 9.537/1997)',
+        diploma: 'LESTA',
+        artigo: 'Art. 3º',
+        carreiras: ['marinha_rm2'],
+        banca: 'DEnsM',
+        tema: 'Legislação Militar-Naval • Autoridade Marítima',
+        textoOriginal: 'Cabe à Autoridade Marítima promover a implementação e a execução desta Lei, com o propósito de assegurar a salvaguarda da vida humana e a segurança da navegação, no mar aberto e em hidrovias interiores, e a prevenção da poluição ambiental por parte de embarcações.',
+        pegadinha: {
+            textoComErro: 'Cabe privativamente à Polícia Federal a autoridade marítima e a fiscalização do tráfego aquaviário civil e militar;',
+            palavraErrada: 'Polícia Federal',
+            correcao: 'Autoridade Marítima (Comandante da Marinha)',
+            explicacao: 'A Autoridade Marítima brasileira é exercida pelo COMANDANTE DA MARINHA (DPC e Capitanias dos Portos), e não pela Polícia Federal.'
+        }
     }
 ];
 
