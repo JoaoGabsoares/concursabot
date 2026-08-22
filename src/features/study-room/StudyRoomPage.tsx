@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { createPortal } from 'react-dom';
 import { Card, Button, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
@@ -69,6 +69,10 @@ interface CustomMaterial {
   notes?: string;
   created_at?: string;
   caderno_enxuto?: string;
+  career_id?: string;
+  original_filename?: string;
+  stored_filename?: string;
+  page_count?: number;
 }
 
 interface ReadingPaceInfo {
@@ -82,13 +86,24 @@ interface ReadingPaceInfo {
   progressPct: number;
   cadence: { readingMin: number; questionsMin: number; mode: string };
   estimatedMinutesRemaining: number;
+  totalReadingMinutes: number;
+  totalTheoryPages: number;
+  pagesRead: number;
+  averageMinutesPerPage: number;
+  estimatedRemainingMinutes: number;
+  estimatedRemainingHours: number;
   estimatedSessionsRemaining: number;
   resumeRecommendation: string;
 }
 
 type CadencePreset = '60_30' | '45_15' | '50_10' | '90_30' | 'custom';
 
-// Componente isolado para o Cronômetro de Cadência (elimina re-renders na página de 1600 linhas)
+const CADENCE_STORAGE_KEY = 'GABARITO_CADENCE_TIMER_STATE';
+const CADENCE_PRESET_KEY = 'GABARITO_CADENCE_PRESET';
+const CADENCE_CUSTOM_READING_KEY = 'GABARITO_CUSTOM_READING_MIN';
+const CADENCE_CUSTOM_QUESTIONS_KEY = 'GABARITO_CUSTOM_QUESTIONS_MIN';
+
+// Componente isolado para o Cronômetro de Cadência com Persistência em LocalStorage (Imune a F5 / Reload)
 const CadenceTimerWidget: React.FC<{
   timerMode: 'leitura' | 'questoes' | 'livre';
   readingMinutes: number;
@@ -112,23 +127,103 @@ const CadenceTimerWidget: React.FC<{
   onTick,
   onOpenCadenceModal
 }) => {
-  const getInitialSeconds = () => {
-    if (timerMode === 'leitura') return readingMinutes * 60;
-    if (timerMode === 'questoes') return questionsMinutes * 60;
+  const getInitialSeconds = useCallback((mode: 'leitura' | 'questoes' | 'livre') => {
+    if (mode === 'leitura') return readingMinutes * 60;
+    if (mode === 'questoes') return questionsMinutes * 60;
     return 20 * 60;
-  };
+  }, [readingMinutes, questionsMinutes]);
 
-  const [seconds, setSeconds] = useState<number>(getInitialSeconds);
-  const [isRunning, setIsRunning] = useState<boolean>(false);
-  const initialSecsRef = useRef<number>(getInitialSeconds());
+  // Helper para carregar estado persistente do localStorage
+  const loadSavedTimer = useCallback(() => {
+    try {
+      const raw = localStorage.getItem(CADENCE_STORAGE_KEY);
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (parsed && typeof parsed.seconds === 'number') {
+          if (parsed.isRunning && parsed.targetEndTime) {
+            const now = Date.now();
+            const remaining = Math.max(0, Math.round((parsed.targetEndTime - now) / 1000));
+            return {
+              seconds: remaining,
+              isRunning: remaining > 0,
+              initialSeconds: parsed.initialSeconds || getInitialSeconds(timerMode),
+              savedMode: parsed.timerMode as 'leitura' | 'questoes' | 'livre'
+            };
+          }
+          return {
+            seconds: parsed.seconds,
+            isRunning: false,
+            initialSeconds: parsed.initialSeconds || getInitialSeconds(timerMode),
+            savedMode: parsed.timerMode as 'leitura' | 'questoes' | 'livre'
+          };
+        }
+      }
+    } catch (e) {
+      console.warn('Erro ao carregar timer persistente:', e);
+    }
+    return null;
+  }, [getInitialSeconds, timerMode]);
 
+  const initialLoadRef = useRef(loadSavedTimer());
+
+  const [seconds, setSeconds] = useState<number>(() => {
+    const saved = initialLoadRef.current;
+    if (saved && saved.savedMode === timerMode && saved.seconds > 0) {
+      return saved.seconds;
+    }
+    return getInitialSeconds(timerMode);
+  });
+
+  const [isRunning, setIsRunning] = useState<boolean>(() => {
+    const saved = initialLoadRef.current;
+    if (saved && saved.savedMode === timerMode) {
+      return saved.isRunning;
+    }
+    return false;
+  });
+
+  const initialSecsRef = useRef<number>(
+    initialLoadRef.current?.initialSeconds || getInitialSeconds(timerMode)
+  );
+
+  // Função para persistir estado atual no localStorage
+  const persistState = useCallback((sec: number, running: boolean, mode: 'leitura' | 'questoes' | 'livre', initSec: number) => {
+    try {
+      const state = {
+        timerMode: mode,
+        seconds: sec,
+        isRunning: running,
+        targetEndTime: running ? Date.now() + sec * 1000 : null,
+        initialSeconds: initSec,
+        lastUpdated: Date.now()
+      };
+      localStorage.setItem(CADENCE_STORAGE_KEY, JSON.stringify(state));
+    } catch (e) {
+      // ignore storage quotas
+    }
+  }, []);
+
+  // Ao alterar timerMode ou minutos do preset
+  const prevModeRef = useRef(timerMode);
   useEffect(() => {
-    const init = getInitialSeconds();
-    setSeconds(init);
-    initialSecsRef.current = init;
-    setIsRunning(false);
-  }, [timerMode, readingMinutes, questionsMinutes]);
+    if (prevModeRef.current !== timerMode) {
+      prevModeRef.current = timerMode;
+      const saved = loadSavedTimer();
+      if (saved && saved.savedMode === timerMode && saved.seconds > 0) {
+        setSeconds(saved.seconds);
+        setIsRunning(saved.isRunning);
+        initialSecsRef.current = saved.initialSeconds;
+      } else {
+        const init = getInitialSeconds(timerMode);
+        setSeconds(init);
+        initialSecsRef.current = init;
+        setIsRunning(false);
+        persistState(init, false, timerMode, init);
+      }
+    }
+  }, [timerMode, getInitialSeconds, loadSavedTimer, persistState]);
 
+  // Intervalo de contagem regressiva
   useEffect(() => {
     if (!isRunning || seconds <= 0) return;
     const interval = setInterval(() => {
@@ -138,16 +233,18 @@ const CadenceTimerWidget: React.FC<{
           onTimeExpired(timerMode);
           const elapsedMins = Math.round(initialSecsRef.current / 60);
           onTick(elapsedMins);
+          persistState(0, false, timerMode, initialSecsRef.current);
           return 0;
         }
         const next = prev - 1;
         const elapsedMins = Math.round((initialSecsRef.current - next) / 60);
         onTick(elapsedMins);
+        persistState(next, true, timerMode, initialSecsRef.current);
         return next;
       });
     }, 1000);
     return () => clearInterval(interval);
-  }, [isRunning, seconds, timerMode, onTimeExpired, onTick]);
+  }, [isRunning, seconds, timerMode, onTimeExpired, onTick, persistState]);
 
   const formatTimer = (totalSecs: number) => {
     const mins = Math.floor(totalSecs / 60);
@@ -163,6 +260,28 @@ const CadenceTimerWidget: React.FC<{
     return `${customReadingMin}/${customQuestionsMin} min`;
   };
 
+  const handleTogglePlay = () => {
+    const nextRunning = !isRunning;
+    setIsRunning(nextRunning);
+    persistState(seconds, nextRunning, timerMode, initialSecsRef.current);
+  };
+
+  const handleReset = () => {
+    setIsRunning(false);
+    const init = initialSecsRef.current || getInitialSeconds(timerMode);
+    setSeconds(init);
+    persistState(init, false, timerMode, init);
+  };
+
+  const handleModeClick = (mode: 'leitura' | 'questoes' | 'livre') => {
+    onModeChange(mode);
+    const newInit = getInitialSeconds(mode);
+    setSeconds(newInit);
+    setIsRunning(false);
+    initialSecsRef.current = newInit;
+    persistState(newInit, false, mode, newInit);
+  };
+
   return (
     <Card className="p-4 sm:p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
       <div className="flex items-center justify-between">
@@ -175,7 +294,7 @@ const CadenceTimerWidget: React.FC<{
         <button
           type="button"
           onClick={onOpenCadenceModal}
-          className="text-xs font-sans font-bold text-[var(--accent-primary)] hover:underline flex items-center gap-1 bg-[var(--accent-primary-glow)] px-2 py-0.5 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+          className="text-xs font-sans font-bold text-[var(--accent-primary)] hover:underline flex items-center gap-1 bg-[var(--accent-primary-glow)] px-2 py-0.5 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
           title="Ajustar Método de Cadência"
         >
           <span>{getPresetLabel()}</span>
@@ -186,8 +305,8 @@ const CadenceTimerWidget: React.FC<{
       <div className="grid grid-cols-3 gap-1 p-1 bg-[var(--bg-elevated)] rounded-lg text-xs font-sans">
         <button
           type="button"
-          onClick={() => onModeChange('leitura')}
-          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
+          onClick={() => handleModeClick('leitura')}
+          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer ${
             timerMode === 'leitura'
               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -197,8 +316,8 @@ const CadenceTimerWidget: React.FC<{
         </button>
         <button
           type="button"
-          onClick={() => onModeChange('questoes')}
-          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
+          onClick={() => handleModeClick('questoes')}
+          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer ${
             timerMode === 'questoes'
               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -208,8 +327,8 @@ const CadenceTimerWidget: React.FC<{
         </button>
         <button
           type="button"
-          onClick={() => onModeChange('livre')}
-          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
+          onClick={() => handleModeClick('livre')}
+          className={`py-1.5 rounded-md font-bold transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer ${
             timerMode === 'livre'
               ? 'bg-[var(--accent-primary)] text-white shadow-sm'
               : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
@@ -230,8 +349,8 @@ const CadenceTimerWidget: React.FC<{
           variant={isRunning ? "outline" : "brand"}
           size="sm"
           fullWidth={true}
-          onClick={() => setIsRunning(!isRunning)}
-          className="font-sans text-xs font-bold flex items-center justify-center gap-2"
+          onClick={handleTogglePlay}
+          className="font-sans text-xs font-bold flex items-center justify-center gap-2 cursor-pointer"
         >
           {isRunning ? (
             <>
@@ -248,11 +367,8 @@ const CadenceTimerWidget: React.FC<{
 
         <button
           type="button"
-          onClick={() => {
-            setIsRunning(false);
-            setSeconds(initialSecsRef.current);
-          }}
-          className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+          onClick={handleReset}
+          className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
           title="Reiniciar Cronômetro"
         >
           <RotateCcw className="w-4 h-4" />
@@ -291,14 +407,31 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     }
   };
 
-  // Cadence State (Configurável: 60/30, 45/15, 50/10, 90/30 ou Custom)
-  const [cadencePreset, setCadencePreset] = useState<CadencePreset>('60_30');
-  const [customReadingMin, setCustomReadingMin] = useState<number>(60);
-  const [customQuestionsMin, setCustomQuestionsMin] = useState<number>(30);
+  // Cadence State Persistente (Configurável: 60/30, 45/15, 50/10, 90/30 ou Custom)
+  const [cadencePreset, setCadencePreset] = useState<CadencePreset>(() => {
+    return (localStorage.getItem(CADENCE_PRESET_KEY) as CadencePreset) || '60_30';
+  });
+  const [customReadingMin, setCustomReadingMin] = useState<number>(() => {
+    const v = localStorage.getItem(CADENCE_CUSTOM_READING_KEY);
+    return v ? parseInt(v, 10) : 60;
+  });
+  const [customQuestionsMin, setCustomQuestionsMin] = useState<number>(() => {
+    const v = localStorage.getItem(CADENCE_CUSTOM_QUESTIONS_KEY);
+    return v ? parseInt(v, 10) : 30;
+  });
   const [isCadenceModalOpen, setIsCadenceModalOpen] = useState<boolean>(false);
 
-  // Timer State (Leitura vs Questões vs Livre)
-  const [timerMode, setTimerMode] = useState<'leitura' | 'questoes' | 'livre'>('leitura');
+  // Timer State Persistente (Leitura vs Questões vs Livre)
+  const [timerMode, setTimerMode] = useState<'leitura' | 'questoes' | 'livre'>(() => {
+    try {
+      const raw = localStorage.getItem(CADENCE_STORAGE_KEY);
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (parsed?.timerMode) return parsed.timerMode;
+      }
+    } catch {}
+    return 'leitura';
+  });
   const sessionElapsedMinutesRef = useRef<number>(30);
 
   // Reading Pace & Velocity state
@@ -343,13 +476,20 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const applyCadencePreset = (preset: CadencePreset) => {
     setCadencePreset(preset);
     let rMin = 60;
-    if (preset === '45_15') rMin = 45;
-    else if (preset === '50_10') rMin = 50;
-    else if (preset === '90_30') rMin = 90;
-    else if (preset === 'custom') rMin = customReadingMin;
+    let qMin = 30;
+    if (preset === '45_15') { rMin = 45; qMin = 15; }
+    else if (preset === '50_10') { rMin = 50; qMin = 10; }
+    else if (preset === '90_30') { rMin = 90; qMin = 30; }
+    else if (preset === 'custom') { rMin = customReadingMin; qMin = customQuestionsMin; }
+
+    try {
+      localStorage.setItem(CADENCE_PRESET_KEY, preset);
+      localStorage.setItem(CADENCE_CUSTOM_READING_KEY, String(rMin));
+      localStorage.setItem(CADENCE_CUSTOM_QUESTIONS_KEY, String(qMin));
+    } catch {}
 
     setIsCadenceModalOpen(false);
-    info('Cadência Atualizada', `Definido: ${rMin}m Leitura + ${getQuestionsMinutes()}m Questões.`);
+    info('Cadência Atualizada', `Definido: ${rMin}m Leitura + ${qMin}m Questões.`);
   };
 
   const handleSetTimerMode = (mode: 'leitura' | 'questoes' | 'livre') => {

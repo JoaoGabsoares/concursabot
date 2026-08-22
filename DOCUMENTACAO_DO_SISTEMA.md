@@ -290,6 +290,11 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 4. **⚡ Portal de Ciclos de Estudo com Abertura Frontal**:
    - Renderização do Wizard de Ciclos via `createPortal` diretamente em `document.body` com `z-[9999]`, eliminando rolagem para baixo e garantindo reset de scroll a cada etapa.
 
+5. **⏱️ Persistência Resiliente do Cronômetro de Cadência (Imune a F5 / Reloads)**:
+   - **Timestamp Target End-Time**: Quando o timer de cadência (Leitura / Questões / Livre) está em execução, o tempo alvo de término (`Date.now() + seconds * 1000`) é persistido no `localStorage`.
+   - **Recálculo Preciso no F5**: Ao recarregar a página ou navegar de volta à Sala de Estudos, o tempo restante exato é recalculado instantaneamente sem reiniciar a contagem do zero.
+   - **Preservação de Modo e Presets**: Mantém o modo ativo (`leitura`, `questoes`, `livre`) e as configurações personalizadas de tempo mesmo após fechar a aba ou reiniciar o navegador.
+
 ---
 
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
