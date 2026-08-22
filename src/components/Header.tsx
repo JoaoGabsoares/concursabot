@@ -103,14 +103,14 @@ export const Header: React.FC<HeaderProps> = ({
 
   return (
     <>
-      {/* Top Header Bar */}
-      <header className="w-full h-14 sm:h-16 bg-[var(--bg-surface)] border-b border-[var(--border-subtle)] px-3 sm:px-6 lg:px-8 flex items-center justify-between select-none z-20 shrink-0 font-sans shadow-sm">
+      {/* Top Header Bar (Glassmorphism & Executive Depth) */}
+      <header className="sticky top-0 w-full h-14 sm:h-16 bg-[var(--bg-glass)] backdrop-blur-md border-b border-[var(--border-subtle)] px-3 sm:px-6 lg:px-8 flex items-center justify-between select-none z-30 shrink-0 font-sans shadow-xs transition-all">
         
         {/* Left: Mobile Toggle & Branding / Desktop Breadcrumbs */}
         <div className="flex items-center gap-2.5 sm:gap-4 min-w-0">
           <button
             onClick={() => setMobileDrawerOpen(true)}
-            className="lg:hidden min-w-[44px] min-h-[44px] rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors shrink-0 focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+            className="lg:hidden min-w-[44px] min-h-[44px] rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors shrink-0 focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             aria-label="Abrir Menu Lateral"
           >
             <Menu className="w-4 h-4" />
@@ -119,22 +119,22 @@ export const Header: React.FC<HeaderProps> = ({
           {/* Mobile Brand Mark */}
           <div 
             onClick={() => onNavigate('dashboard')}
-            className="lg:hidden flex items-center gap-1.5 cursor-pointer truncate"
+            className="lg:hidden flex items-center gap-2 cursor-pointer truncate"
           >
             <span className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)] tracking-tight">
               Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
             </span>
-            <span className="hidden xs:inline-block px-1.5 py-0.5 rounded text-xs font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30 truncate max-w-[110px]">
+            <span className="hidden xs:inline-block px-2 py-0.5 rounded-full text-xs font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20 truncate max-w-[110px]">
               {currentCareer.banca}
             </span>
           </div>
 
           {/* Desktop Institutional Breadcrumbs */}
           <div className="hidden lg:flex items-center gap-2 text-xs">
-            <span className="font-mono text-[var(--text-muted)] uppercase tracking-wider text-xs font-bold">
+            <span className="font-mono text-[var(--text-muted)] uppercase tracking-wider text-xs font-bold px-2 py-0.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
               {currentTabInfo.category}
             </span>
-            <ChevronRight className="w-3.5 h-3.5 text-[var(--border-focus)]" />
+            <ChevronRight className="w-3.5 h-3.5 text-[var(--text-muted)]" />
             <span className="font-display font-bold text-[var(--text-primary)] text-sm tracking-tight">
               {currentTabInfo.title}
             </span>
@@ -145,21 +145,21 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
           
           {/* Rank Badge (Desktop/Tablet) */}
-          <div className="hidden md:flex items-center gap-1.5 px-3 py-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-primary)]">
+          <div className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-primary)] shadow-xs">
             <ShieldCheck className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
             <span className="text-[var(--text-muted)]">RANK:</span>
             <span className="font-bold text-[var(--accent-primary)]">{currentRank.title}</span>
           </div>
 
           {/* Streak Metric (Compact on mobile) */}
-          <div className="flex items-center gap-1 sm:gap-1.5 px-2 sm:px-3 py-1 rounded-lg bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 text-xs font-mono text-[var(--accent-warning)] font-bold">
+          <div className="flex items-center gap-1 sm:gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl bg-[var(--accent-amber-bg)] border border-[var(--accent-warning)]/30 text-xs font-mono text-[var(--accent-warning)] font-bold shadow-xs">
             <Flame className="w-3.5 h-3.5 fill-[var(--accent-warning)] text-[var(--accent-warning)]" />
             <span className="hidden sm:inline">{user?.streakDays || 0} DIAS</span>
             <span className="sm:hidden">{user?.streakDays || 0}d</span>
           </div>
 
           {/* Edital Official Badge */}
-          <div className="hidden xl:flex items-center gap-1.5 px-3 py-1 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20 text-xs font-mono text-[var(--accent-primary)] font-bold">
+          <div className="hidden xl:flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20 text-xs font-mono text-[var(--accent-primary)] font-bold shadow-xs">
             <span>{currentCareer.shortName || currentCareer.banca}</span>
           </div>
 
@@ -167,7 +167,7 @@ export const Header: React.FC<HeaderProps> = ({
           <button
             onClick={onToggleTheme}
             aria-label="Alternar tema"
-            className="min-w-[44px] min-h-[44px] rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+            className="min-w-[40px] min-h-[40px] sm:min-w-[44px] sm:min-h-[44px] rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
             title={isDark ? "Mudar para Modo Claro" : "Mudar para Modo Escuro"}
           >
             {isDark ? <Sun className="w-4 h-4 text-[var(--accent-warning)]" /> : <Moon className="w-4 h-4 text-[var(--accent-primary)]" />}
@@ -177,7 +177,7 @@ export const Header: React.FC<HeaderProps> = ({
           <button
             onClick={() => onNavigate('settings')}
             aria-label="Configurações"
-            className="lg:hidden min-w-[44px] min-h-[44px] rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+            className="lg:hidden min-w-[40px] min-h-[40px] sm:min-w-[44px] sm:min-h-[44px] rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
             title="Configurações da Plataforma"
           >
             <Settings className="w-4 h-4" />

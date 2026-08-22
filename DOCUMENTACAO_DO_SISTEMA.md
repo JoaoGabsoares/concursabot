@@ -271,4 +271,25 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 16. Redesign Estrutural em Bento Grid & Paleta Executiva (v5.5.0)
+
+1. **🏛️ Nova Arquitetura de Layout em Bento Grid (Dashboard Principal)**:
+   - **Fim dos Blocos Empilhados**: Substituição do modelo vertical pesado por uma grade assimétrica de 12 colunas inspirada nos melhores padrões do Figma Community, Linear e plataformas de alta performance.
+   - **Hero Bento (8 colunas)**: Destaque visual da disciplina prioritária do ciclo ativo, tempo de leitura previsto, recompensa de XP e botões de ação imediata com brilho sutil em camadas.
+   - **Widget de Consistência & Ofensiva (4 colunas)**: Contador de dias seguidos com chama dourada, mini-heatmap semanal dos 7 dias e multiplicador de XP ativo.
+   - **Barra de 4 Tiles de Acesso Rápido**: Acesso instantâneo a *Sala de Estudos*, *Simulados Oficiais*, *Caça-Pegadinhas 15s* e *Caderno de Erros* (com contador de falhas pendentes em tempo real).
+   - **Radar do Edital com Abas de Categoria**: Filtro temático de matérias (*Todas*, *Jurídico*, *Exatas & Dados*, *Gerais*) com barras de acerto progressivo e pesos oficiais da banca.
+
+2. **🎨 Nova Paleta Executiva (*Executive Obsidian & Royal Indigo*)**:
+   - **Modo Escuro (*Executive Obsidian*)**: Fundo grafite profundo (`#0B0F17`), superfícies translúcidas em camadas (`#111827`), bordas ultra-finas de 1px com transparência suave (`rgba(255, 255, 255, 0.08)`) e acento nobre em Índigo Real (`#4F46E5` / `#6366F1`).
+   - **Modo Claro (*Editorial Paper*)**: Base off-white inspirada em papel de livro institucional (`#F8FAFC`), cartões brancos puros (`#FFFFFF`) e alto contraste nanquim (`#0F172A`).
+
+3. **✨ Header Flutuante com Efeito Vidro (*Glassmorphism*)**:
+   - Barra superior fixada com `backdrop-blur-md`, pills refinadas de status e design de interface limpo.
+
+4. **⚡ Portal de Ciclos de Estudo com Abertura Frontal**:
+   - Renderização do Wizard de Ciclos via `createPortal` diretamente em `document.body` com `z-[9999]`, eliminando rolagem para baixo e garantindo reset de scroll a cada etapa.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*

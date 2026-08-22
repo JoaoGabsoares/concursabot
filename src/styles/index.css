@@ -6,30 +6,30 @@
   --font-mono: 'IBM Plex Mono', Menlo, Monaco, Consolas, monospace;
   --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
-  /* Dark Theme (Official Obsidian / Edital Solene - High Contrast & Depth) */
-  --bg-base: #0A0D14;
-  --bg-surface: #111622;
-  --bg-elevated: #182030;
-  --bg-active: #222C42;
-  --bg-glass: rgba(17, 22, 34, 0.94);
-  --bg-input: #111622;
+  /* Dark Theme (Executive Obsidian / Figma-Grade Depth & Contrast) */
+  --bg-base: #0B0F17;
+  --bg-surface: #111827;
+  --bg-elevated: #1E293B;
+  --bg-active: #283548;
+  --bg-glass: rgba(17, 24, 39, 0.85);
+  --bg-input: #0F172A;
 
   --text-primary: #F8FAFC;
   --text-secondary: #94A3B8;
   --text-muted: #64748B;
   --text-placeholder: #475569;
 
-  --border-subtle: #26334D;
-  --border-strong: #334155;
-  --border-focus: #3B82F6;
-  --border-highlight: #60A5FA;
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.18);
+  --border-focus: #6366F1;
+  --border-highlight: #818CF8;
 
-  /* Single Primary Color */
-  --accent-primary: #3B82F6;
-  --accent-primary-hover: #2563EB;
-  --accent-primary-glow: rgba(59, 130, 246, 0.16);
+  /* Royal Indigo Accent (High-End SaaS & EdTech Aesthetic) */
+  --accent-primary: #4F46E5;
+  --accent-primary-hover: #4338CA;
+  --accent-primary-glow: rgba(79, 70, 229, 0.18);
 
-  /* Status Colors for Official Stamps */
+  /* Status Colors for Official Stamps & Live Counters */
   --color-status-success: #10B981;
   --color-status-success-bg: rgba(16, 185, 129, 0.12);
   --color-status-warning: #F59E0B;
@@ -46,41 +46,41 @@
   --accent-amber: #F59E0B;
   --accent-amber-bg: rgba(245, 158, 11, 0.12);
   --accent-danger: #EF4444;
-  --accent-purple: #A855F7;
-  --accent-purple-bg: rgba(168, 85, 247, 0.12);
-  --accent-cyan: #06B6D4;
-  --accent-cyan-bg: rgba(6, 182, 212, 0.12);
+  --accent-purple: #8B5CF6;
+  --accent-purple-bg: rgba(139, 92, 246, 0.12);
+  --accent-cyan: #0EA5E9;
+  --accent-cyan-bg: rgba(14, 165, 233, 0.12);
 
-  --btn-primary-bg: #2563EB;
+  --btn-primary-bg: #4F46E5;
   --btn-primary-text: #FFFFFF;
-  --btn-primary-hover: #1D4ED8;
+  --btn-primary-hover: #4338CA;
   
-  --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.55);
-  --shadow-elevated: 0 8px 30px -4px rgba(0, 0, 0, 0.70);
+  --shadow-card: 0 4px 24px -2px rgba(0, 0, 0, 0.45);
+  --shadow-elevated: 0 10px 32px -4px rgba(0, 0, 0, 0.60);
 }
 
 html:not(.dark) {
-  /* Light Theme (Papel Institucional / Diário Oficial) */
-  --bg-base: #F1F5F9;
+  /* Light Theme (Editorial Paper / Diário Oficial de Elite) */
+  --bg-base: #F8FAFC;
   --bg-surface: #FFFFFF;
-  --bg-elevated: #E2E8F0;
-  --bg-active: #CBD5E1;
-  --bg-glass: rgba(255, 255, 255, 0.96);
-  --bg-input: #F8FAFC;
+  --bg-elevated: #F1F5F9;
+  --bg-active: #E2E8F0;
+  --bg-glass: rgba(255, 255, 255, 0.88);
+  --bg-input: #FFFFFF;
 
   --text-primary: #0F172A;
   --text-secondary: #334155;
   --text-muted: #64748B;
   --text-placeholder: #94A3B8;
 
-  --border-subtle: #CBD5E1;
-  --border-strong: #94A3B8;
-  --border-focus: #1D4ED8;
-  --border-highlight: #2563EB;
+  --border-subtle: #E2E8F0;
+  --border-strong: #CBD5E1;
+  --border-focus: #4F46E5;
+  --border-highlight: #6366F1;
 
-  --accent-primary: #1D4ED8;
-  --accent-primary-hover: #1E40AF;
-  --accent-primary-glow: rgba(29, 78, 216, 0.12);
+  --accent-primary: #4F46E5;
+  --accent-primary-hover: #4338CA;
+  --accent-primary-glow: rgba(79, 70, 229, 0.10);
 
   --color-status-success: #059669;
   --color-status-success-bg: rgba(5, 150, 105, 0.10);
@@ -103,12 +103,12 @@ html:not(.dark) {
   --accent-cyan: #0284C7;
   --accent-cyan-bg: rgba(2, 132, 199, 0.10);
 
-  --btn-primary-bg: #1D4ED8;
+  --btn-primary-bg: #4F46E5;
   --btn-primary-text: #FFFFFF;
-  --btn-primary-hover: #1E40AF;
+  --btn-primary-hover: #4338CA;
 
-  --shadow-card: 0 4px 16px -2px rgba(15, 23, 42, 0.08);
-  --shadow-elevated: 0 8px 24px -4px rgba(15, 23, 42, 0.12);
+  --shadow-card: 0 4px 16px -2px rgba(15, 23, 42, 0.06);
+  --shadow-elevated: 0 8px 24px -4px rgba(15, 23, 42, 0.10);
 }
 
 /* Safe Box Sizing without destructive universal reset */

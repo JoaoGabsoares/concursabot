@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.4)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v5.5)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
@@ -11,13 +11,18 @@
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Design System 100% Semântico (Zero Cores Hardcoded e Zero Slop de IA)**, **Code-Splitting e Otimização de Performance (-52% Bundle Payload)**, **Hardening de Segurança de Backend (Zero-Trust OAuth & Anti-IDOR)**, **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Interface Despoluída e sem Menus Duplicados**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis**, **Isolamento de Renderização de Timers (Zero Thrashing)**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Arquitetura de Layout em Bento Grid Moderno (Figma-Grade)**, **Paleta Executiva Obsidian & Royal Indigo**, **Design System 100% Semântico**, **Code-Splitting e Otimização de Performance (-52% Bundle Payload)**, **Hardening de Segurança de Backend (Zero-Trust OAuth & Anti-IDOR)**, **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, **Portal Interativo & Dashboard Inicial**, **Autenticação Google Oficial via Redirecionamento Full-Page (accounts.google.com)**, **Acessibilidade Responsiva com Modais Roláveis via React Portal**, **Inteligência Heurística por Banca (FGV, Cesgranrio, Cebraspe)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital**, **Caderno de Erros com superação (+15 XP)** e **Design System Modular**.
 
 ---
 
-## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.4)
+## 🏛️ Destaques da Arquitetura & Funcionalidades (v5.5)
 
-1. 🎨 **Design System 100% Semântico & Despoluição Visual Total:**
+1. 🏛️ **Arquitetura de Layout em Bento Grid & Paleta Executive Obsidian:**
+   - **Dashboard em Grade Assimétrica de 12 Colunas**: Hero Bento com Missão Prioritária e Ação Imediata (8 cols), Card de Chama de Consistência e Heatmap semanal (4 cols), 4 Quick Tiles de Acesso Rápido e Radar de Domínio do Edital com Abas Temáticas (Jurídico, Exatas & Dados, Gerais).
+   - **Paleta Executive Obsidian & Royal Indigo**: Fundo em grafite profundo (`#0B0F17`), cartões translúcidos com bordas finas de 1px (`rgba(255, 255, 255, 0.08)`) e acentos em Índigo Nobre (`#4F46E5` / `#6366F1`) e Âmbar Ouro (`#F59E0B`).
+   - **Header Flutuante Glassmorphic**: Barra superior fixada com `backdrop-blur-md` e micro pills de status.
+
+2. 🎨 **Design System 100% Semântico & Despoluição Visual Total:**
    - **Zero Cores Hardcoded**: Todas as 188 cores literais do Tailwind foram substituídas por tokens semânticos CSS (`--accent-primary`, `--accent-success`, `--accent-warning`, `--accent-danger`, `--accent-purple`, `--btn-primary-bg`, etc.).
    - **Eliminação de Slop de IA**: Remoção completa de efeitos `.glow-*` desnecessários, background grid cibernético e animações decorativas não-funcionais.
    - **Tipografia Racionalizada (Regra 60-30-10)**: `font-mono` reservada estritamente para dados numéricos, timers e XP; textos e botões padronizados em `font-sans`.
