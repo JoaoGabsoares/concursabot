@@ -1,0 +1,855 @@
+                                                     Aula 04
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Estatística
+
+
+
+
+                                                          Autor:
+                                          Allan Maux Santana
+
+
+
+
+                                              19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Allan Maux Santana
+      Aula 04
+
+
+
+
+                                                                                     Índice
+1) Intervalos de Confiança - Testes de Hipóteses
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                                                    2
+                www.estrategiaconcursos.com.br                                                                                                                                           19
+
+                                                             https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 04
+
+
+
+
+               INTERVALOS DE CONFIANÇA E TESTE DE HIPÓTESES
+Sumário
+
+Análise Estatística ............................................................................... Erro! Indicador não definido.
+
+Roteiro de revisão e pontos do assunto que merecem destaque ................................................... 2
+
+   Intervalos de Confiança ................................................................................................................ 2
+
+   Teste de Hipóteses ....................................................................................................................... 2
+
+   Tipos de Erros ............................................................................................................................... 4
+
+Pegadinhas Estratégicas................................................................................................................... 4
+
+Questões estratégicas ...................................................................................................................... 5
+
+Lista de Questões Estratégicas ...................................................................................................... 13
+
+   Gabarito ...................................................................................................................................... 16
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                 3
+           www.estrategiaconcursos.com.br                                                                                                        19
+
+                                               https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 04
+
+
+
+
+   ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE MERECEM
+                                                  DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto
+e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+ Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a
+ seguir:
+
+
+ Intervalos de Confiança
+
+ Quando temos uma estimativa por intervalo de confiança será possível determinar dois limites para
+ a amostragem populacional, como consequência teremos uma margem de erro conhecida.
+
+ Margem de Erro Baixa: Nível de Confiança da pesquisa ou amostra é alto.
+
+ Margem de Erro Alta: Nível de confiança baixo
+
+ Os intervalos de confiança são expressos da seguinte forma:
+
+                                                        (1 – a)
+
+ a: grau de desconfiança.
+
+ α: grau de desconfiança.
+
+ 1 – α: coeficiente de confiança ou nível de confiabilidade;
+
+
+
+
+ Teste de Hipóteses
+
+ Através dos métodos utilizados no Teste de Hipóteses podemos realizar inferências, podendo,
+ assim, efetivar a tomada de decisões. Para isso, são formadas duas hipóteses:
+
+ H0: Hipótese Nula
+
+ H1 ou HA: Hipótese Alternativa
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 4
+         www.estrategiaconcursos.com.br                                                        19
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+Por conseguinte, deveremos examinar as duas possibilidades possíveis aceitando ou rejeitando
+uma alegação acerca de uma população de acordo com as evidências obtidas por uma Amostra
+de Dados.
+
+A hipótese nula contradiz a hipótese alternativa. Se num pacote de café vem escrito que há 200g,
+a Hipótese Nula será 200g, já a hipótese Alternativa seria um valor diferente dos 200g, ok?
+
+Mas, será que para qualquer valor diferente de 200g, por exemplo 199,09g, teríamos uma falha
+do fabricante quanto ao conteúdo da embalagem?
+
+Obviamente que não, para isso precisaremos estabelecer para decidirmos se a hipótese nula será
+aceitada ou rejeitada.
+
+   •   Região de Não Rejeição – RNR – hipótese nula aceita
+   •   Região Crítica – RC – hipótese nula rejeitada
+
+Esse é o principal objetivo do Teste de Hipótese, saber de determinada média amostral cairá na
+RNR ou na RC.
+
+No entanto, para determinar a RNR e a RC, teremos que encontrar um nível de significância 𝛼.
+
+
+                         Área da RC = Nível de Significância 𝜶
+
+
+Teremos os seguintes testes:
+
+01 – Teste Bilateral ou Bicaudal
+
+                                                   𝑯𝟎 : 𝜽 = 𝜽𝟎
+                                               #
+                                                   𝑯𝟏 : 𝜽 ≠ 𝜽𝟎
+
+2 – Testes unilaterais ou Monocaudal:
+
+                 𝑯𝟎 : 𝜽 = 𝜽𝟎                                                   𝑯𝟎 : 𝜽 = 𝜽𝟎
+             #                                                             #
+                 𝑯𝟏 : 𝜽 > 𝜽𝟎                                                   𝑯𝟏 : 𝜽 < 𝜽𝟎
+
+  TESTE UNILATERAL À DIREITA                                   TESTE UNILATERAL À ESQUERDA
+
+SEMPRE devemos montar a hipótese nula e a hipótese alternativa.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 5
+        www.estrategiaconcursos.com.br                                                         19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+
+Tipos de Erros
+
+                                                 ERROS
+                   TIPO 1                                                TIPO 2
+    Rejeitar H0 quando ela é verdadeira                       Aceitar H0 quando ela é falsa
+ A Probabilidade de cometermos esse erro                A probabilidade de cometermos esse erro
+  é simbolizada por 𝜶 sendo justamente o                          é representada por 𝜷
+       nível de significância do teste.
+ O complementar do nível de significância                O valor de 1 – 𝜷 é chamado de poder do
+  1 – 𝜶 é chamado de nível de confiança.                       teste (ou potência do teste)
+
+
+
+
+                               PEGADINHAS ESTRATÉGICAS
+
+Querido aluno, cada assertiva abaixo contém uma "casca de banana" – será que você vai
+escorregar em alguma? (rs)
+
+A ideia aqui é induzi-lo levemente a cometer erros, não com o intuito de desanimá-lo, mas para
+que você aumente a retenção do conteúdo estudado!
+
+Vamos lá?
+
+1. A respeito do intervalo de confiança para a média pode-se dizer que tem menos valor do que
+uma estimativa pontual única, pois uma estimativa pontual fornece informação sobre o grau de
+precisão da estimativa. Tem-se também que ele poderá ser aumentado se o nível de confiança for
+menor e o valor da variância populacional for maior. Além disso, no seu cálculo deve-se utilizar a
+distribuição t no lugar da distribuição normal quando a variância for ou não desconhecida e o
+número de observações é superior a 30.
+Pessoal, essa é uma adaptação de uma questão CEBRASPE 2020. Os erros estão destacados em
+azul.
+   •   A respeito do intervalo de confiança para a média pode-se dizer que tem mais valor do que
+       uma estimativa pontual única, pois uma estimativa pontual não fornece nenhuma informação
+       sobre o grau de precisão da estimativa.
+   •   Um intervalo de confiança poderá ser aumentado se o nível de confiança for menor e o valor
+       da variância populacional for maior.
+   •   No seu cálculo deve-se utilizar a distribuição t no lugar da distribuição normal quando a
+       variância é desconhecida e o número de observações é inferior a 30.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    6
+        www.estrategiaconcursos.com.br                                                            19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+2. O teste de hipótese surge de uma desconfiança e tem como objetivo definir se determinada
+afirmação será aceita ou rejeitada. Para tanto, ele pode ser dividido em três tipos diferentes, a
+depender do sinal que aparecerá na hipótese alternativa (teste unilateral direito, unilateral
+esquerdo e bilateral). Dependendo dos dados na questão, pode-se ter teste de hipótese para
+média e para proporção e no cálculo de ambos deve-se utilizar a distribuição t no lugar da
+distribuição normal quando a variância é desconhecida e o número de observações é inferior a 30.
+Aqui o erro está no final, pois no teste de hipótese para a proporção não utilizamos a distribuição
+t.
+
+
+3. A hipótese nula e a hipótese alternativa não são mutuamente excludentes. E quando a hipótese
+alternativa é direcional tem-se um teste bicaudal. Além disso, o poder de um teste estatístico varia
+conforme o tamanho amostral.
+
+
+Na verdade, a hipótese nula e a hipótese alternativa são mutuamente excludentes e quando temos
+um teste direcional, ele será unicaudal.
+4. Um determinado teste de hipótese apresentou um valor qualquer de p-valor. De posse desse
+valor, deseja-se saber se a hipótese nula será aceita ou rejeitada considerando um nível de
+significância α qualquer. Nesse caso, se o nível de significância α for maior do que o valor do p-
+valor a hipótese nula será aceita.
+Pessoal, nesse caso a hipótese nula será rejeitada. Temos o seguinte:
+   •   Se α < p-valo = a hipótese nula será aceita, pois ele estará fora da área de rejeição;
+   •   Se α > p-valor = a hipótese nula será rejeitada, pois ele estará dentro da área de rejeição.
+
+
+                                  QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    7
+        www.estrategiaconcursos.com.br                                                            19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+Q.01 (CESPE / (TCE-PA) / Fiscalização / Estatística /2016)
+Em estudo acerca da situação do CNPJ das empresas de determinado município, as empresas
+que estavam com o CNPJ regular foram representadas por 1, ao passo que as com CNPJ
+irregular foram representadas por 0.
+
+                {0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1}
+Considerando que a amostra foi extraída para realizar um teste de hipóteses, julgue o item
+subsequente. O poder do teste pode ser facilmente calculado pelo complementar do erro do
+tipo II (β).
+CC - Certo
+EE - Errado
+
+Comentários:
+Essa questão é tranquila, se o candidato se lembrar da nossa tabela, vejam:
+
+                                                 ERROS
+                   TIPO 1                                                TIPO 2
+    Rejeitar H0 quando ela é verdadeira                       Aceitar H0 quando ela é falsa
+ A Probabilidade de cometermos esse erro                A probabilidade de cometermos esse erro
+  é simbolizada por 𝜶 sendo justamente o                          é representada por 𝜷
+       nível de significância do teste.
+ O complementar do nível de significância                O valor de 1 – 𝜷 é chamado de poder do
+  1 – 𝜶 é chamado de nível de confiança.                       teste (ou potência do teste)
+
+O poder do teste é sempre dado por 1 − β, sendo que β é a probabilidade de erro do tipo II.
+Erro de tipo II: aceitar H0, sendo que é falsa;
+Poder do teste: rejeitar H0, sendo que é falsa
+Gabarito: Correto
+
+Q.02 (CESPE / EBSERH / 2018)
+
+Em um teste de hipóteses, comete-se o erro do tipo II caso a hipótese H0 seja rejeitada,
+quando, na verdade, H0 não deveria ser rejeitada.
+
+CC - Certo
+EE - Errado
+
+Comentários:
+
+O erro do tipo II ocorre quando aceitamos H0 quando, na verdade, não deveria ser rejeitada.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    8
+        www.estrategiaconcursos.com.br                                                            19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+Gabarito: Errado
+
+Q.03 (IBFC / EBSERH / 2017)
+
+Probabilidade de rejeitar, corretamente, a hipótese nula quando a mesma é falsa, ou seja, de
+encontrar, corretamente, um suposto relacionamento quando ele existe. Essa definição se
+refere ao conceito de:
+
+   a) Poder
+   b) Significância
+   c) Confiança
+   d) Efeito
+   e) Intervalo
+
+Comentários:
+
+Sendo 𝛽 a probabilidade de ocorrer um erro tipo 2, ou seja, a probabilidade de aceitarmos H0
+dado que H0 é falso. O poder do teste 1 – 𝛽 é a probabilidade complementar, portanto é a
+probabilidade de não aceitarmos H0 dado que ela é falsa.
+
+Gabarito: A
+
+Q.04 (CEBRASPE / TCE-PA / 2016)
+
+A potência de um teste de hipóteses corresponde à probabilidade de se rejeitar a hipótese
+nula, dado que a hipótese nula é correta.
+
+CC - Certo
+EE - Errado
+
+Comentários:
+
+O enunciado cita exatamente a probabilidade de ocorrer um erro do tipo 1.
+
+Gabarito: Errado
+
+Q.05 (CEBRASPE/ Polícia Federal / 2018)
+
+O tempo gasto (em dias) na preparação para determinada operação policial é uma variável
+aleatória X que segue distribuição normal com média M, desconhecida, e desvio padrão igual a 3
+dias. A observação de uma amostra aleatória de 100 outras operações policiais semelhantes a essa
+produziu uma média amostral igual a 10 dias.
+Com referência a essas informações, julgue o item que se segue, sabendo que P (Z > 2) = 0,025,
+em que Z denota uma variável aleatória normal padrão.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                9
+        www.estrategiaconcursos.com.br                                                       19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+A expressão 10 dias ± 6 dias corresponde a um intervalo de 95% de confiança para a média
+populacional M.
+CC - Certo
+EE - Errado
+
+Comentários:
+A fórmula do intervalo de confiança é a seguinte:
+
+
+                                                                            𝝈
+                                                   𝑿 ± 𝒁𝟎 ∙
+                                                                            √𝒏
+𝑿 : média amostral = 10
+𝒁𝟎 : escore normal padrão associado ao nível de confiança = 2
+                                                         ==219a34==
+
+
+
+
+n: tamanho da amostra = 100
+σ: é o desvio padrão da população = 3
+
+                                           Substituindo os valores, teremos:
+
+                                                                      𝟑
+                                              = 10 ± 2 ∙                    =
+                                                                      𝟏𝟎𝟎
+
+                                             =10 ± 2 ∙ 0,3 =
+                                              = 10 ± 0,6 =
+Gabarito: Errado
+
+
+Q.06 (CEBRASPE / TCE-PE / 2017)
+
+Para avaliar se a proporção p de itens defeituosos enviados por um fornecedor estava acima do
+valor pactuado de 0,025, um analista, a partir de uma amostra aleatória de itens enviada por
+esse fornecedor, testou a hipótese nula H0: p ≤ 0,025 contra a hipótese alternativa H1: p > 0,025,
+utilizando nível de significância α = 1%.
+A respeito dessa situação hipotética, julgue o seguinte item.
+O nível de significância representa a probabilidade de se aceitar a hipótese H0: p ≤ 0,025
+quando, na verdade, a proporção p for superior a 0,025.
+CC - Certo
+EE - Errado
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                       10
+        www.estrategiaconcursos.com.br                                                               19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+
+                                                 ERROS
+                   TIPO 1                                                TIPO 2
+    Rejeitar H0 quando ela é verdadeira                       Aceitar H0 quando ela é falsa
+ A Probabilidade de cometermos esse erro                A probabilidade de cometermos esse erro
+  é simbolizada por 𝜶 sendo justamente o                          é representada por 𝜷
+       nível de significância do teste.
+ O complementar do nível de significância                O valor de 1 – 𝜷 é chamado de poder do
+  1 – 𝜶 é chamado de nível de confiança.                       teste (ou potência do teste)
+
+Nossa questão trata do erro do tipo I.
+
+Portanto:
+
+Rejeitamos H0
+
+H0 é verdadeira (a proporção era menor ou igual a 2,5%)
+
+Enunciado: O nível de significância representa a probabilidade de se aceitar a hipótese H0: p ≤
+0,025 quando a proporção p for superior a 0,025.
+
+Gabarito: Errado
+
+Q.07 (FGV/Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Uma amostra aleatória simples de tamanho 25 de uma distribuição normal com média µ e variância
+σ2 desconhecidas, apresentou os seguintes dados suficientes:
+
+Média amostral = 40,0
+
+Desvio-padrão amostral = 2,5
+
+Um intervalo de 95% de confiança para µ será dado, aproximadamente, por
+
+a) (39,0; 41,0).
+
+b) (38,6; 41,4).
+
+c) (38,0; 42,0).
+
+d) (37,6; 42,4).
+
+e) (37,0; 43,0).
+
+Comentários:
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    11
+        www.estrategiaconcursos.com.br                                                            19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+Pessoal, nessa questão a banca pede o intervalo de confiança e dar as seguintes informações:
+
+Média amostral = 40,0
+
+Desvio-padrão amostral = 2,5
+
+Confiança de 95%.
+
+                                             𝛼 = 100% − 95% = 5%
+
+                                                  >       @%
+Cada lateral da distribuição normal terá              =        = 2,5%
+                                                  ?       ?
+
+
+
+
+                                          Z=-2,0 μ=40,0                Z=2,0
+
+Nessa prova, o candidato tinha que saber que o valor de Z para a confiança de 95% era
+aproximadamente 2,0.
+
+A fórmula da margem de erro é a seguinte:
+
+                                                                  𝑆
+                                                      𝜀=𝑍.
+                                                                   𝑛
+
+                                                2,5            2,5
+                                       𝜀 =2.          =2.          = 2 . 0,5 = 1,0
+                                                 25             5
+
+Portanto, o intervalo de confiança será (39,0; 41,0).
+
+
+
+
+                                39,0                      40,0                   41,0
+
+
+Gabarito: A
+
+Q.08 (FGV/Engenheiro (IMBEL)/Controle de Qualidade/2021)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 12
+        www.estrategiaconcursos.com.br                                                         19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+O planejamento e controle de qualidade de uma operação envolvem amostragens de
+desempenho, que devem ser analisadas. Nessas análises, podem ocorrer erros de julgamento, que
+se classificam em tipos X e Z. Assim, o quadro a seguir apresenta as possíveis decisões a se tomar
+para cada resultado de análise.
+
+Sobre esse quadro, analise as afirmativas a seguir.
+
+                                  O lote de sacos de arroz está, na realidade...
+                         Decisão       Adequado               Inadequado
+                         Rejeitar          (a)              Decisão correta
+                         Aceitar     Decisão correta               (b)
+
+I. O erro de análise indicado por (a) corresponde a um erro do tipo X.
+
+II. O erro de análise indicado por (b) também corresponde a um erro do tipo X.
+
+III. Os erros (a) e (b) podem também ser referidos como riscos para o consumidor e para o produtor,
+respectivamente.
+
+Está correto o que se afirma em
+
+a) I, somente.
+
+b) II, somente.
+
+c) I e II, somente.
+
+d) I e III, somente.
+
+e) II e III, somente.
+
+Comentários:
+
+Nessa questão de teste de hipóteses tínhamos que saber os tipos de erros. Levem essa tabela para
+a prova.
+
+
+
+
+                               TIPOS DE ERROS NO TESTE DE HIPÓTESES
+                                            H0 é verdadeira. Mas foi rejeitada.
+                             Erro do Tipo I
+                                            Probabilidade do erro Tipo I = 𝛼
+                             Erro do Tipo H0 é falsa. Mas foi aceita.
+                                   II       Probabilidade do erro Tipo II = 𝛽
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  13
+        www.estrategiaconcursos.com.br                                                          19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+Sendo, a potência (ou poder) do teste dado por: (1 − 𝛽)
+
+Feita essa revisão, vamos para a tabela dada pela banca. Para a questão o erro do tipo X é o nosso
+erro do tipo I. Já o erro do tipo Z é o nosso erro do tipo II. Sabendo disso, basta substituir (a) e (b)
+na tabela.
+
+                                  O lote de sacos de arroz está, na realidade...
+                         Decisão        Adequado              Inadequado
+                         Rejeitar     Erro do tipo X        Decisão correta
+                         Aceitar     Decisão correta         Erro do Tipo Z
+
+Vamos aos itens agora.
+
+Item I) O erro de análise indicado por (a) corresponde a um erro do tipo X.
+
+Correto. Pois, o “(a)” indica o erro do tipo X. Vejam a tabela acima.
+
+Item II) O erro de análise indicado por (b) também corresponde a um erro do tipo X.
+
+Errado. Pois, o “(b)” indica o erro do tipo Z. Vejam a tabela acima.
+
+Item III) Os erros (a) e (b) podem também ser referidos como riscos para o consumidor e para o
+produtor, respectivamente.
+
+Errado. Os ricos estão ligados a tomada de decisão. Logo, o erro do tipo I e do tipo II não está
+ligado ao consumidor ou ao produtor, respectivamente, como diz o item.
+
+A Probabilidade do Erro (risco) do Tipo I à Constitui-se em se rejeitar a hipótese Ho quando ela é
+verdadeira.
+
+A Probabilidade do Erro (risco) do Tipo II à Constitui-se em se aceitar a hipótese Ho quando ela
+é falsa.
+
+Veja o exemplo do julgamento em um tribunal, em que uma pessoa é inocente até se provar o
+contrário.
+
+H0: A pessoa é inocente
+
+H1: A pessoa é culpada
+
+Erro Tipo I: A pessoa é condenada, mas está inocente.
+
+Erro Tipo II: A pessoa é absolvida, mas é culpada.
+
+O sistema judicial considera que é mais grave culpar um inocente do que absolver um culpado.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                       14
+        www.estrategiaconcursos.com.br                                                               19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+Portanto, o risco está ligado a tomada de decisão.
+
+Gabarito: A
+
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+Q.01 (CESPE / (TCE-PA) / Fiscalização / Estatística /2016)
+Em estudo acerca da situação do CNPJ das empresas de determinado município, as empresas
+que estavam com o CNPJ regular foram representadas por 1, ao passo que as com CNPJ
+irregular foram representadas por 0.
+
+                {0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1}
+Considerando que a amostra foi extraída para realizar um teste de hipóteses, julgue o item
+subsequente. O poder do teste pode ser facilmente calculado pelo complementar do erro do
+tipo II (β).
+CC - Certo
+EE - Errado
+Q.02 (CESPE / EBSERH / 2018)
+
+Em um teste de hipóteses, comete-se o erro do tipo II caso a hipótese H0 seja rejeitada,
+quando, na verdade, H0 não deveria ser rejeitada.
+
+CC - Certo
+EE - Errado
+
+Q.03 (IBFC / EBSERH / 2017)
+
+Probabilidade de rejeitar, corretamente, a hipótese nula quando a mesma é falsa, ou seja, de
+encontrar, corretamente, um suposto relacionamento quando ele existe. Essa definição se
+refere ao conceito de:
+
+   a) Poder
+   b) Significância
+   c) Confiança
+   d) Efeito
+   e) Intervalo
+
+Q.04 (CEBRASPE / TCE-PA / 2016)
+
+A potência de um teste de hipóteses corresponde à probabilidade de se rejeitar a hipótese
+nula, dado que a hipótese nula é correta.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística               15
+        www.estrategiaconcursos.com.br                                                       19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+CC - Certo
+EE - Errado
+
+Q.05 (CEBRASPE/ Polícia Federal / 2018)
+
+O tempo gasto (em dias) na preparação para determinada operação policial é uma variável
+aleatória X que segue distribuição normal com média M, desconhecida, e desvio padrão igual a 3
+dias. A observação de uma amostra aleatória de 100 outras operações policiais semelhantes a essa
+produziu uma média amostral igual a 10 dias.
+Com referência a essas informações, julgue o item que se segue, sabendo que P (Z > 2) = 0,025,
+em que Z denota uma variável aleatória normal padrão.
+A expressão 10 dias ± 6 dias corresponde a um intervalo de 95% de confiança para a média
+populacional M.
+CC - Certo
+EE - Errado
+
+Q.06 (CEBRASPE / TCE-PE / 2017)
+
+Para avaliar se a proporção p de itens defeituosos enviados por um fornecedor estava acima do
+valor pactuado de 0,025, um analista, a partir de uma amostra aleatória de itens enviada por
+esse fornecedor, testou a hipótese nula H0: p ≤ 0,025 contra a hipótese alternativa H1: p > 0,025,
+utilizando nível de significância α = 1%.
+A respeito dessa situação hipotética, julgue o seguinte item.
+O nível de significância representa a probabilidade de se aceitar a hipótese H0: p ≤ 0,025
+quando, na verdade, a proporção p for superior a 0,025.
+CC - Certo
+EE – Errado
+
+Q.07 (FGV/Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Uma amostra aleatória simples de tamanho 25 de uma distribuição normal com média µ e variância
+σ2 desconhecidas, apresentou os seguintes dados suficientes:
+
+Média amostral = 40,0
+
+Desvio-padrão amostral = 2,5
+
+Um intervalo de 95% de confiança para µ será dado, aproximadamente, por
+
+a) (39,0; 41,0).
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                       16
+        www.estrategiaconcursos.com.br                                                               19
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 04
+
+
+
+b) (38,6; 41,4).
+
+c) (38,0; 42,0).
+
+d) (37,6; 42,4).
+
+e) (37,0; 43,0).
+
+Q.08 (FGV/Engenheiro (IMBEL)/Controle de Qualidade/2021)
+
+O planejamento e controle de qualidade de uma operação envolvem amostragens de
+desempenho, que devem ser analisadas. Nessas análises, podem ocorrer erros de julgamento, que
+se classificam em tipos X e Z. Assim, o quadro a seguir apresenta as possíveis decisões a se tomar
+para cada resultado de análise.
+
+Sobre esse quadro, analise as afirmativas a seguir.
+
+                                  O lote de sacos de arroz está, na realidade...
+                         Decisão       Adequado               Inadequado
+                         Rejeitar          (a)              Decisão correta
+                         Aceitar     Decisão correta               (b)
+
+I. O erro de análise indicado por (a) corresponde a um erro do tipo X.
+
+II. O erro de análise indicado por (b) também corresponde a um erro do tipo X.
+
+III. Os erros (a) e (b) podem também ser referidos como riscos para o consumidor e para o produtor,
+respectivamente.
+
+Está correto o que se afirma em
+
+a) I, somente.
+
+b) II, somente.
+
+c) I e II, somente.
+
+d) I e III, somente.
+
+e) II e III, somente.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  17
+        www.estrategiaconcursos.com.br                                                          19
+
+                                     https://t.me/KakashiAssinaturasBot
+ Allan Maux Santana
+ Aula 04
+
+
+
+
+Gabarito
+
+
+
+
+   1           2           3            4           5            6              7   8   9   10
+  CC          EE           A           EE          EE           EE              A   A   *    *
+
+CC – CERTO
+
+EE – ERRADO
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    18
+       www.estrategiaconcursos.com.br                                                            19
+
+                                    https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,3687 @@
+Sumário
+
+ANÁLISE DE BALANÇOS - CONCEITOS BÁSICOS ...................................................................................... 3
+
+   1 - Resumo das principais rubricas contábeis ............................................................................................ 3
+
+       1.1 – O Balanço Patrimonial (BP) ........................................................................................................... 3
+
+       1.2 – Demonstração de resultados - DRE .............................................................................................. 6
+
+       1.3 – Outros itens das demonstrações financeiras ................................................................................. 8
+
+       1.4 – Resumo esquemático das principais contas, relevantes para a análise de balanços e administração
+       financeira. ............................................................................................................................................. 9
+
+   2 - Análise de balanços e indicadores ...................................................................................................... 12
+
+       2.1 – Análise horizontal e vertical ........................................................................................................ 12
+
+       2.2 – Análise de demonstrações financeiras por índices ...................................................................... 14
+
+       2.2.1. – Índices de Estrutura de Capital................................................................................................ 15
+
+       2.2.2. – Índices de Liquidez ................................................................................................................. 16
+
+       2.2.3. – Índices de Rentabilidade ......................................................................................................... 19
+
+       2.2.4. – Graus de Alavancagem ........................................................................................................... 25
+
+       2.2.5. –Capital de giro operacional e financeiro e Efeito Tesoura ........................................................ 30
+
+   3 - Avaliação de projetos de investimento por múltiplos e índices .......................................................... 36
+
+       3.1 – Múltiplos e índices utilizados para avaliar projetos de investimento/empresas ........................... 36
+
+   4 - EVA - Economic Value Added - Valor Econômico Adicionado............................................................ 41
+
+Fórmulas .................................................................................................................................................... 44
+
+Lista de Questões ....................................................................................................................................... 46
+
+Questões comentadas com gabarito .......................................................................................................... 61
+
+
+
+
+                                                                                                                                                                1
+                                         INTRODUÇÃO
+É bastante comum que nas matérias de Finanças e Administração financeira, as bancas peçam também
+noções de contabilidade ou de análise de balanços. Isso porque as demonstrações financeiras são a base
+para a análise financeira e valuation, e por que a gestão de caixa, estoques, recebíveis, necessidade de
+capital de giro, alavancagem etc., dependem de um bom conhecimento das rubricas contábeis.
+
+Nem sempre a banca pede explicitamente para tratarmos de análise de balanços. Para tratar das principais
+rubricas contábeis, já há revisão em outros materiais, nesta aula, vamos um pouco adiante, porém,
+começaremos reproduzindo o material básico, e ilustrando os principais indicadores de análise de balanços,
+que também são bastante utilizados em administração financeira e finanças.
+
+
+
+
+        O que o aluno verá a seguir não é uma aula introdutória de contabilidade. Não haverá
+        qualquer aprofundamento nos CPCs, não falaremos de partidas dobradas e nem das
+        regras de contabilização. É uma abordagem adotada na Administração Financeira, com
+        foco mais gerencial e de apoio à gestão de caixa, orçamentação, cálculo de alavancagem
+        etc.
+
+        Aos alunos que já dominam a contabilidade, a aula servirá principalmente como um guia
+        sobre como esse assunto é tratado em provas de Administração Financeira, e quais os
+        índices de análise de balanço são mais comuns e mais importantes para a Administração
+        Financeira.
+
+        Aos alunos sem experiência em contabilidade, os conceitos serão fundamentais para fazer
+        uma prova que requer análise de indicadores contábeis e financeiros, relacionada com
+        Administração Geral.
+
+
+
+
+                                                                                                        2
+               ANÁLISE DE BALANÇOS - CONCEITOS BÁSICOS
+
+1 - Resumo das principais rubricas contábeis
+
+1.1 – O Balanço Patrimonial (BP)
+
+O Balanço Patrimonial é uma demonstração financeira obrigatória por lei que evidencia, resumidamente, a
+situação patrimonial e financeira de uma entidade em um determinado período do tempo.
+
+É importante tratar dessa questão temporal, quando focamos na questão de análise de investimentos, pois
+as contas que estão no balanço patrimonial representam posições em determinado período do tempo
+e não em determinado intervalo no tempo, como será visto no caso das receitas, despesas e resultados.
+
+O balanço tem esse nome porque representa o equilíbrio entre os ativos da empresa (geradores de receitas,
+caixa etc.) e suas fontes de financiamento (de onde vem o dinheiro para bancar essas operações).
+
+                                        BALANÇO PATRIMONIAL
+                           ATIVO                                          PASSIVO
+        CIRCULANTE                                       CIRCULANTE
+        . Caixa e equivalentes                           . Contas a Pagar
+        . Contas a receber                               . Aluguéis a Pagar
+        . Despesas antecipadas                           . Empréstimos a Pagar
+                                                         . Impostos a Recolher
+        NÃO CIRCULANTE                                   NÃO CIRCULANTE
+        . Realizável a longo prazo                       . Exigível a longo prazo
+        . Investimentos
+        . Imobilizados                                   PATRIMÔNIO LÍQUIDO
+        . Intangível                                      . Capital Social
+                                                          . Reservas de Capital
+                                                          . Reservas de Lucros
+                                                          . Ajuste de Aval. Patrimonial
+                                                          . (-) Ações de Tesouraria
+                                                          . (-) Prejuízos Acumulados
+
+Essas contas e suas definições são exigências legais (Lei 6404/76 e alterações) e normativas (CVM, CPC etc.).
+
+As definições apresentadas a seguir estarão sempre de acordo com os Pronunciamentos do Comitê de
+Pronunciamentos Contábeis (CPC) e com as definições legais, pois são as mais abrangentes e mais atuais
+disponíveis ao mercado em geral.
+
+
+
+
+                                                                                                           3
+Ativos, passivos e patrimônio líquido
+
+São os elementos diretamente relacionados com a mensuração da posição patrimonial e financeira das
+Companhias e são definidos como segue:
+
+   a) ativo é um recurso controlado pela entidade como resultado de eventos passados e do qual se espera
+      que fluam futuros benefícios econômicos para a entidade;
+   b) passivo é uma obrigação presente da entidade, derivada de eventos passados, cuja liquidação se
+      espera que resulte na saída de recursos da entidade capazes de gerar benefícios econômicos;
+   c) patrimônio líquido é o interesse residual nos ativos da entidade depois de deduzidos todos os seus
+      passivos.
+
+Perceba que, do lado esquerdo do BP, há recursos controlados pela entidade e sobre o qual se espera
+benefícios econômicos e do lado direito temos o interesse dos credores e acionistas da companhia.
+
+Os credores têm interesses imediatos, são contratos de dívida com prazos, taxas de juros, regras específicas
+etc., já os acionistas (patrimônio líquido) ficam com o interesse residual, ou seja, o que sobra após o
+pagamento dos direitos de credores.
+
+Quem dá as definições legais dos grupos de contas é a Lei das Sociedades Anônimas (LSA – 6404/76).
+
+Os grupos de contas previstos pela LSA são (artigo 178):
+
+       § 1º No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos elementos nelas
+       registrados, nos seguintes grupos:
+
+           I - ativo circulante; e
+
+           II - ativo não-circulante, composto por ativo realizável a longo prazo, investimentos, imobilizado e
+       intangível.
+
+Grau de liquidez significa o quão próxima de se tornar dinheiro (caixa ou equivalentes de caixa) está a conta.
+A mais líquida de todas é a conta caixa, depois vêm os itens que costumam girar rápido como estoques,
+contas a receber etc., e assim por diante.
+
+As menos líquidas são aquelas que, em tese, não deveriam virar dinheiro (não existem com propósitos
+comerciais), como o ativo imobilizado, prédios, terrenos etc.
+
+       § 2º No passivo, as contas serão classificadas nos seguintes grupos:
+
+           I - passivo circulante;
+
+
+
+                                                                                                             4
+           II - passivo não-circulante; e
+
+           III - patrimônio líquido, dividido em capital social, reservas de capital, ajustes de avaliação
+       patrimonial, reservas de lucros, ações em tesouraria e prejuízos acumulados.
+
+O artigo 179 detalha as condições para que os haveres ou as obrigações possam fazer parte das diferentes
+contas.
+
+       No ativo, as contas serão subdivididas do seguinte modo:
+
+           I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social
+       subseqüente e as aplicações de recursos em despesas do exercício seguinte;
+
+           II - no ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte,
+       assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou
+       controladas, diretores, acionistas ou participantes no lucro da companhia, que não constituírem
+       negócios usuais na exploração do objeto da companhia;
+
+          III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer
+       natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da
+       companhia ou da empresa;
+
+          IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à
+       manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os
+       decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens;
+
+           VI – no intangível: os direitos que tenham por objeto bens incorpóreos destinados à manutenção da
+       companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido. (Pula diretamente
+       do item IV para o item VI, na versão disponível no site WWW.planalto.gov.br).
+
+Se a companhia, entretanto, tiver um ciclo operacional de duração maior que o exercício social, a
+classificação no circulante ou longo prazo terá por base o prazo desse ciclo.
+
+No Passivo Exigível as contas serão subdivididas do seguinte modo:
+
+       As obrigações da companhia, inclusive financiamentos para aquisição de direitos do ativo não
+       circulante, serão classificadas no passivo circulante, quando vencerem dentro do exercício seguinte,
+       e no passivo não circulante, se tiverem vencimento em prazo maior, observado a questão de seu
+       ciclo operacional, como no caso do Ativo.
+
+No Patrimônio Líquido as contas serão subdivididas do seguinte modo:
+
+
+                                                                                                              5
+       A conta do capital social discriminará o montante subscrito e, por dedução, a parcela ainda não
+       realizada do capital. Essa parte é o que é integralizado pelos sócios da Companhia.
+
+       Já as reservas de capital referem-se: à contribuição do subscritor de ações que ultrapassar o valor
+       nominal e a parte do preço de emissão das ações sem valor nominal que ultrapassar a importância
+       destinada à formação do capital social, inclusive nos casos de conversão em ações de debêntures ou
+       partes beneficiárias; o produto da alienação de partes beneficiárias e bônus de subscrição; o prêmio
+       recebido na emissão de debêntures; as doações e as subvenções para investimento.
+
+       Serão classificadas como reservas de lucros as contas constituídas pela apropriação de lucros da
+       companhia.
+
+       As ações em tesouraria deverão ser destacadas no balanço como dedução da conta do patrimônio
+       líquido que registrar a origem dos recursos aplicados na sua aquisição.
+
+Há alguns anos a contabilidade nacional permitia a manutenção da conta de “Lucros Acumulados”, hoje em
+dia não há mais essa conta, sendo obrigatório destinar o lucro (ao fim do exercício), na forma da lei, para
+acionistas, compensação de prejuízos, reservas de lucros, reservas de capital etc.
+
+Há, entretanto, a conta prejuízos acumulados, uma vez que não há o que destinar quando a empresa tem
+prejuízo.
+
+1.2 – Demonstração de resultados - DRE
+
+Ao contrário do Balanço Patrimonial, a DRE não é um “retrato” patrimonial da Companhia, mas sim um
+acumulado, para determinado período, das variações no patrimônio líquido da empresa.
+
+Isso quer dizer que, a cada movimentação financeira (receita, despesa, custo etc.) vai-se acumulando o
+resultado do exercício que, ao final, impactará todo o balanço (caixa, contas a pagar etc.), ficando seu saldo
+final à disposição no Patrimônio líquido.
+
+O que isso significa?
+
+Que todas as operações que, ao final, calculam o lucro ou prejuízo do exercício impactam diretamente os
+saldos das contas de passivo e de ativo, mas o efeito líquido final ocorre no patrimônio líquido e é conhecido
+como lucro/prejuízo do exercício.
+
+As Companhias Abertas publicam seus resultados trimestralmente.
+
+Pela legislação (artigo 187), a demonstração do resultado do exercício discriminará:
+
+       I - a receita bruta das vendas e serviços, as deduções das vendas, os abatimentos e os impostos;
+
+
+                                                                                                            6
+       II - a receita líquida das vendas e serviços, o custo das mercadorias e serviços vendidos e o lucro bruto;
+
+       III - as despesas com as vendas, as despesas financeiras, deduzidas das receitas, as despesas gerais e
+       administrativas, e outras despesas operacionais;
+
+       IV – o lucro ou prejuízo operacional, as outras receitas e as outras despesas;
+
+       V - o resultado do exercício antes do Imposto sobre a Renda e a provisão para o imposto;
+
+       VI – as participações de debêntures, empregados, administradores e partes beneficiárias, mesmo na
+       forma de instrumentos financeiros, e de instituições ou fundos de assistência ou previdência de
+       empregados, que não se caracterizem como despesa;
+
+       VII - o lucro ou prejuízo líquido do exercício e o seu montante por ação do capital social.
+
+       § 1º do artigo 187: Na determinação do resultado do exercício serão computados:
+
+       a) as receitas e os rendimentos ganhos no período, independentemente da sua realização em moeda; e
+
+       b) os custos, despesas, encargos e perdas, pagos ou incorridos, correspondentes a essas receitas e
+       rendimentos.
+
+Esse último parágrafo é muito importante, pois é ele que indica o regime de apuração das receitas e
+despesas. A apuração não se dá pelo regime de caixa (quando o dinheiro entra ou sai), mas sim pelo regime
+de competência. Se algo foi vendido, mas ainda não recebido, a Receita deve ser contabilizada naquele
+período.
+
+                             Demonstração do Resultado do Exercício (DRE)
+                                           Itens                                        R$
+               Receita Bruta das Vendas e Serviços
+               (-) Deduções, abatimentos e impostos da Receita Bruta
+               (=) Receita Líquida das Vendas e Serviços
+               (-) Custo das mercadorias e serviços vendidos (CMV)
+               (=) Lucro Bruto
+               (-) Despesas Operacionais:
+                                     Administrativas
+                                     Comerciais
+                                     Financeiras
+               (=) Lucro Operacional (LAJIR)
+               (+) Resultado Financeiro (não operacional)
+               (=) Lucro Líquido antes dos impostos (LAIR)
+               (-) Provisão para IR e CSLL
+               (=) Lucro Líquido do Exercício (LL)
+
+
+                                                                                                                    7
+Perceba que há distinção entre custos e despesas. Custo é todo aquele desembolso ou obrigação futura que
+estiver envolvida diretamente com a produção dos bens e serviços da Companhia. Despesa não está
+diretamente envolvida com a produção.
+
+Essa distinção permite o entendimento de que o lucro bruto traz a margem de ganho apenas com base no
+custo da mercadoria.
+
+Se vendeu por 100 e seu custo total para produzir foi 50, o lucro bruto é de 50 (100% de margem
+considerando a base de 50 para o custo).
+
+Já as despesas operacionais têm relação com o negócio, mas não diretamente com a produção dos bens e
+serviços. São aluguéis de escritórios, pessoal da limpeza (fora da fábrica) etc..
+
+As despesas financeiras operacionais (que devem ser descontadas das receitas financeiras operacionais) são
+aquelas relacionadas à operação do negócio, como, por exemplo, juros por compra a prazo de materiais
+para o escritório.
+
+Boa parte dos autores considera que as receitas financeiras provenientes da aplicação de fluxos de caixa
+excedentes SÃO OPERACIONAIS, pois esse descasamento do fluxo de caixa faz parte do negócio.
+
+
+
+
+1.3 – Outros itens das demonstrações financeiras
+
+Notas Explicativas
+
+As demonstrações financeiras devem vir complementadas por notas explicativas e outros quadros analíticos
+necessários ao esclarecimento da situação patrimonial e dos resultados do exercício. São informações
+complementares às demonstrações financeiras, tendo por objetivo melhorar a sua qualidade e ajudar o
+usuário a tomar decisões. (Artigo 176, parágrafo quarto da LSA).
+
+EBITDA ou Lajida
+
+Antes de prosseguirmos com os indicadores e as análises propriamente ditas, há um indicador que é
+bastante usado em finanças e que não está previsto na LSA (apenas na instrução 527 da CVM), é o EBITDA,
+em inglês “Earnings Before Interests, Taxas, Depreciation and Amortization”, ou em português, LAJIDA
+“Lucro antes dos Juros, Imposto de Renda (incluindo Contribuição Social), Depreciação e Amortização”.
+
+Antes de explicar esse importante indicador, vale explicar a natureza das despesas (ou custos) de
+amortização e depreciação.
+
+
+
+
+                                                                                                        8
+Os investimentos das Companhias em ativo imobilizado (máquinas, prédios etc.) e em ativo intangível
+(softwares, sites etc.) sofrem perdas naturais de valor ao longo do tempo, seja por desgaste dos bens físicos
+ou obsolescência dos bens imateriais.
+
+A legislação permite à contabilidade das Companhias “estimar” essa perda de valor. Para bens materiais as
+companhias podem aplicar uma depreciação anual (despesa ou custo estimado de perda de valor) e para
+bens imateriais podem aplicar uma amortização anual.
+
+Esses itens são considerados despesas ou custos, a depender de sua aplicação, se são utilizados
+DIRETAMENTE na produção ou de forma indireta.
+
+Ocorre que, apesar de reduzirem o lucro (e em consequência o imposto a pagar), não são desembolsos de
+caixa.
+
+O LAJIDA procura captar o fluxo de caixa total da Companhia ANTES da destinação aos grupos de credores
+e acionistas. A partir do lucro líquido devemos “devolver” os gastos com juros (credores), impostos
+(governo) e depreciação e amortização (que não são desembolsos de caixa, de forma que estarão
+disponíveis à Companhia.
+
+A retirada dos impostos é óbvia, apesar de o governo não ser propriamente um credor, não “financiar” a
+empresa, o imposto pago é irretratável, portanto não estaria disponível para nenhuma destinação, nem
+para pagar credores, nem para dividendos aos acionistas.
+
+O que “sobra” após essas devoluções é exatamente o quanto seria possível destinar a todos os grupos que
+têm interesses na estrutura da companhia.
+
+
+
+
+        O aluno pode ter visto em outras aulas, inclusive minhas, essa questão do EBITDA ou
+        outras questões contábeis. Isso é necessário, pois há muita interseção entre Finanças
+        Corporativas, Administração Financeira e Contabilidade. É normal que os conteúdos
+        sejam retomados, ou para apresentar outra abordagem, ou para relembrar conceitos.
+
+
+
+
+1.4 – Resumo esquemático das principais contas, relevantes para a análise de balanços e
+administração financeira.
+
+DRE - Demonstrativo de resultados
+
+
+                                                                                                           9
+Receita Líquida - Primeira linha relevante para a montagem do orçamento, seja ele de longo ou de curto
+prazo. É, essencialmente, o resultado das vendas (menos as devoluções, os descontos incondicionais e as
+bonificações).
+
+Custos fixos são aqueles não relacionados diretamente com as vendas, ou seja, se aumentarmos ou
+diminuirmos as vendas em uma unidade, não mudam. PORÉM ainda são custos, pois estão diretamente
+relacionados com a produção.
+O lucro remanescente após retiramos os custos fixos da margem de contribuição é o lucro Bruto.
+As despesas operacionais são aquelas que não estão ligadas diretamente à produção, mas fazem parte da
+operação. São despesas administrativas, comerciais e demais despesas.
+O lucro após as despesas operacionais é chamado de Lucro Operacional. Para algumas aplicações pode ser
+chamado de LAJIR – Lucro antes dos juros e imposto de renda.
+O lucro operacional traz a ideia de retorno do negócio próprio, sem elementos não operacionais. Após o
+lucro operacional podemos colocar despesas (ou receitas) não operacionais. São decorrentes de
+transações não incluídas nas atividades principais ou acessórias que constituam objeto da empresa.
+Podem ser resultaos financeiros ou de venda de ativo imobilizado, por exemplo. Normalmente aparecem
+como resultado final da subtração das despesas das receitas não operacionais.
+O lucro após a dedução dos elementos não operacionais é o LAIR – Lucro antes o Imposto de Renda.
+Perceba que saiu o “J”, indicando que normalmente tratamos os resultados não operacionais como
+resultados financeiros (isso em finanças).
+Ao final, tendo por base o LAIR, calculamos a provisão para imposto de renda.
+O lucro disponível ao final da DRE é o Lucro Líquido. Com alguns ajustes será esse lucro que estará
+disponível para distribuição aos acionistas.
+
+Balanço patrimonial
+
+ATIVO
+
+Ativo circulante - representa as disponibilidades, os direitos realizáveis no curso do exercício social
+subsequente.
+
+Ativo não circulante ou realizável a longo prazo - os direitos realizáveis após o término do exercício
+seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou
+controladas, diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios
+usuais na exploração do objeto da companhia.
+
+Investimentos - as participações permanentes em outras sociedades e os direitos de qualquer natureza,
+não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou
+da empresa.
+
+
+                                                                                                      10
+Imobilizado - os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades
+da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que
+transfiram à companhia os benefícios, riscos e controle desses bens.
+
+Intangível - os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia
+ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido.
+
+PASSIVO
+
+Passivo circulante - obrigações da companhia, inclusive financiamentos para aquisição de direitos do ativo
+não circulante, exigíveis no curso do exercício social subsequente.
+
+Passivo não circulante exigível a longo prazo - obrigações da companhia exigíveis após o exercício social
+subsequente.
+
+PATRIMÔNIO LÍQUIDO
+
+Capital Social - discrimina o montante subscrito e, por dedução, a parcela ainda não realizada do capital.
+Essa parte é o que é integralizado pelos sócios da Companhia.
+
+As outras contas não são muito relevantes para os cursos de análise de balanços, finanças corporativas e
+administração financeira.
+
+Vale apenas comentar que as movimentações de receitas e lucros, ocorridas ao longo do ano, costumam
+fazer efeito nos resultados acumulados dentro do patrimônio líquido. Quando vendemos algo, ele sai do
+custo do estoque e vira caixa, e existe uma diferença que é a margem. Essas diferenças, em todos os
+produtos, vão se acumulando no Patrimônio Líquido. No passado, ficavam numa conta de lucros
+acumulados, porém a lei mudou e agora todo resultado precisa ser distribuído.
+
+
+
+
+                                                                                                       11
+2 - Análise de balanços e indicadores
+
+A análise de balanços é, em essência, a manipulação dos dados das demonstrações financeiras, suas
+comparações com os dados do mesmo ano, de anos anteriores, da própria empresa ou de empresas do
+mesmo setor ou representativas.
+
+Em resumo, pegamos os dados publicados pelas Companhias, criamos um indicador ou índice e o utilizamos
+para descrever a situação financeira, operacional ou econômica da empresa, seja em relação a ela mesma,
+ao seu passado, ou em relação a concorrentes ou a benchmarks do setor.
+
+2.1 – Análise horizontal e vertical
+
+Análise vertical
+
+A análise vertical, como o nome sugere, se dá no mesmo ano. São comparações entre as contas ou rubricas
+calculadas no mesmo período.
+
+Por exemplo, se dividirmos o valor total do Passivo Exigível (R$ 10 milhões) pelo Ativo Total (R$ 20 milhões),
+teremos um índice de endividamento PARA AQUELE PERÍODO (ano ou trimestre) de 50%.
+
+Se a receita total líquida foi de R$ 100 milhões e o custo das mercadorias vendidos foi de R$ 80 milhões,
+sabemos que o lucro bruto foi de R$ 20 milhões, a margem bruta (que é a divisão do lucro bruto pela receita
+total líquida), naquele período foi de 20%.
+
+No primeiro exemplo fizemos análise vertical do Balanço Patrimonial, no segundo fizemos análise vertical
+das demonstrações de resultado. Por que é "vertical"? Porque se movimenta sempre em um mesmo
+exercício, comparando contas do mesmo ano, ou seja, na mesma coluna (portanto, vertical).
+
+Análise horizontal
+
+Já a análise horizontal sugere comparações entre diferentes períodos (diferentes exercícios, diferentes
+colunas, mas as mesmas linhas), o que nos permitiria ver como se deu a evolução dos principais indicadores
+para aquela empresa.
+
+Se, nos exemplos anteriores, soubéssemos que o endividamento no ano imediatamente anterior era de
+44%, sabemos que a empresa se endividou mais (pois foi a 50%, conforme exemplo anterior). Se, por
+hipótese, a margem bruta no ano anterior era de 25%, sabemos que a empresa aumentou seus custos e
+diminuiu a sua margem para 20%.
+
+Alguns autores fazem divisão entre Análise Financeira e Análise Econômica.
+
+
+
+                                                                                                           12
+Finanças são, essencialmente, decisões sobre modelos de financiamento dos negócios da Companhia.
+Envolverá decisões sobre emissão de ações, tomada de dívida, renegociações etc., de forma a buscar a
+forma MAIS BARATA ou mais inteligente de financiar os negócios atuais e futuros das Companhias.
+
+         Dessa forma, a análise financeira iria se ocupar da estrutura de capital da empresa.
+
+         Já a análise econômica diria respeito aos resultados propriamente ditos, o quanto a
+         Companhia consegue extrair de lucro de suas atividades.
+
+         Outra abordagem comum em Administração financeira é que a análise econômica se dá
+         por regime de competência (conforme a regra contábil), e a análise financeira se dá em
+         regime de caixa.
+
+
+
+
+Vejamos alguns exemplos de análise vertical e horizontal.
+
+ ATIVO ANO 20XX                     %       PASSIVO ANO 20XX                      %
+ ATIVO CIRCULANTE                           PASSIVO CIRCULANTE
+ Caixa            e       4.000   11,94%    Contas a pagar             7.000   20,90%
+ Equivalentes
+ Contas a receber         6.500   19,40%    Salários a pagar           1.500    4,48%
+ Antecipação       de     2.500   7,46%
+ despesas
+ TOTAL                  13.000    38,81%    TOTAL                      8.500   25,37%
+ ATIVO NÃO CIRCULANTE                       PASSIVO           NÃO
+                                            CIRCULANTE
+ Realizável a longo       4.000   11,94%    Financiamento BNDES       18.000   53,73%
+ prazo
+ Investimentos            8.000   23,88%    TOTAL PNC                18.000    53,73%
+ Imobilizado              7.000   20,90%    PATRIMÔNIO
+                                            LÍQUIDO
+ Intangível               1.000   2,99%     Capital social             6.400   19,10%
+ Diferido                   500   1,49%     Reservas de lucro            600    1,79%
+ TOTAL                  20.500    61,19%    TOTAL                      7.000   20,90%
+ TOTAL ATIVO            33.500    100%      TOTAL PASSIVO            33.500     100%
+
+
+Conseguimos ver que a maior parte dos recursos captados para financiar os ativos da empresa vem de
+terceiros. 25,37% de passivo circulante e 53,73% de financiamentos de longo prazo do BNDES. Pouco menos
+de 21% (20,90%) dos ativos foram financiados por capital próprio.
+
+                                                                                                    13
+Isso é o que chamamos de alavancagem financeira.
+
+Vejamos agora um modelo de análise horizontal, aplicada a um demonstrativo de resultados (DRE):
+
+                     ITENS (EM .000 REAIS)                    20X1            20X0             %
+       RECEITA OPERACIONAL LÍQUIDA                              42.000           35.000     20,00%
+       (-) CMV                                                  22.000           16.000     37,50%
+       (=) Lucro bruto                                          20.000           19.000      5,26%
+       (-) Despesas operacionais
+        Administrativas                                        4.000             6.500   -38,46%
+        Comerciais                                               500             1.200   -58,33%
+        Financeiras                                            4.400             2.200   100,00%
+       (=) Lucro Operacional (LAJIR)                            11.100             9.100   21,98%
+       (+) RECEITAS FINANCEIRAS E + GANHOS                       3.000           - 1.000      ND
+       (=) Lucro antes do Ir (LAIR)                             14.100             8.100   74,07%
+       (-) Provisão para o IR (34%)                              4.794             2.754    74,07%
+       (=) LUCRO LÍQUIDO DO EXERCÍCIO                            9.306             5.346   74,07%
+
+A receita subiu 20% em um ano, porém o custo das mercadorias vendidas subiu mais, 37,5%. Isso fez com
+que, mesmo com a alta na receita, o lucro bruto tenha crescido apenas 5,26%.
+
+Houve alta de 21,98% nas despesas, mas a empresa conseguiu reverter uma despesa líquida financeira (-
+1.000) para uma receita líquida financeira de 3.000, o que fez o LAIR subir de 8.100 no ano 20X0 para 14.100
+no ano 20X1.
+
+As rubricas de despesas/receitas financeiras funcionam de forma diferente das outras contas, pois elas
+podem ser negativas ou positivas, a depender do balanço final de todas as movimentações financeiras
+(sejam operacionais ou não).
+
+A alta do lucro líquido foi de 74,07%.
+
+2.2 – Análise de demonstrações financeiras por índices
+
+Um índice de análise de balanços é a relação entre contas isoladas ou grupos de contas nas demonstrações
+financeiras que visa evidenciar determinado aspecto da situação econômica ou financeira da Companhia.
+
+Índices financeiros são aqueles que tratam da estrutura de capital (financiamento, capital próprio, capital
+de terceiros etc.) e da estrutura de liquidez (capacidade de honrar os compromissos) da Companhia.
+
+Índices econômicos são aqueles que medem o sucesso da operação em relação ao capital investido, são
+índices de rentabilidade, margens etc.
+
+
+
+
+                                                                                                         14
+Os índices podem ser analisados de forma individual ou isolada, em comparação com indicadores-padrão
+(para a indústria ou setor) ou de forma comparativa.
+
+Em tese, não há indicador que, apenas por si, traga as informações relevantes para uma boa análise
+econômica ou financeira. Normalmente será necessária a comparação.
+
+2.2.1. – Índices de Estrutura de Capital
+
+Os dados serão calculados com base nas informações a seguir:
+
+          ATIVO CIRCULANTE                           PASSIVO CIRCULANTE
+          Caixa e Equivalentes        4.000          Contas a pagar             7.000
+          Contas a receber            6.500          Salários a pagar           1.500
+          Estoques                    2.500
+          TOTAL                      13.000          TOTAL                     8.500
+          ATIVO NÃO                                  PASSIVO NÃO
+          CIRCULANTE                                 CIRCULANTE
+          Realizável a longo prazo    4.000          Financiamento BNDES      18.000
+          Investimentos               8.000          TOTAL PNC               18.000
+          Imobilizado                 7.000          PATRIMÔNIO LÍQUIDO
+          Intangível                  1.000          Capital social             6.400
+          Diferido                      500          Reservas de lucro           600
+          TOTAL                      20.500          TOTAL                     7.000
+          TOTAL ATIVO                33.500          TOTAL PASSIVO           33.500
+
+Índice de Endividamento Geral
+
+Mede o quanto a estrutura de capital da Companhia é financiado por capital de terceiros. Em tese, quanto
+menor esse índice, menos endividada é a empresa e menor o seu risco.
+
+Sua fórmula é:
+
+                                  𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                          𝐼𝐸𝐺 =
+                                                  𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+
+No exemplo temos:
+
+                                              8.500 + 18.000
+                                      𝐼𝐸𝐺 =                  = 79,1%
+                                                  33.500
+
+A empresa se financia com 79,1% de capital de terceiros, por consequência, tem 20,9% de capital próprio
+em sua estrutura de financiamento.
+
+
+
+
+                                                                                                     15
+Composição do endividamento
+
+Busca medir como está distribuído o endividamento da Companhia em termos de prazo de pagamento.
+Normalmente é melhor que as dívidas tenham prazo mais longo.
+
+Sua fórmula é:
+
+                                            𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                         𝐶𝐸 =
+                                𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+No exemplo temos:
+
+                                                  8.500
+                                           𝐶𝐸 =          = 32%
+                                                  26.500
+
+32% de todo o passivo exigível da Companhia vence no prazo de 1 ano (dentro do próximo período fiscal).
+
+Imobilização do Patrimônio Líquido
+
+Indica o quanto do Ativo Permanente ou Fixo é financiado pelo seu Patrimônio Líquido, indicando o grau de
+dependência de recursos de terceiros para os investimentos em ativos permanentes da Companhia.
+
+Para calcularmos esse ativo fixo, será necessário subtrair do ativo não circulante, todos aqueles itens que
+não dizem respeito a investimentos em capital (essencialmente retirar o Ativo Realizável a Longo Prazo).
+
+Sua fórmula é:
+
+                           𝐴𝑡𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝐴𝑡𝑖𝑣𝑜 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜
+                   𝐼𝑃𝐿 =
+                                            𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+
+No exemplo temos:
+
+                                             20.500 − 4.000
+                                     𝐼𝑃𝐿 =                  = 235%
+                                                 7.000
+
+Significa que o financiamento dos ativos fixos se deu muito mais por capital de terceiros do que por capital
+próprio, uma vez que o valor desses ativos é quase 2,5 vezes o valor do Patrimônio Líquido.
+
+2.2.2. – Índices de Liquidez
+
+São índices que procuram medir a capacidade financeira da entidade.
+
+
+
+
+                                                                                                         16
+Capital de Giro Líquido / Capital Circulante Líquido
+
+Mede o quanto o ativo circulante é maior do que o passivo circulante.
+
+Sua fórmula é:
+
+                        𝐶𝐺𝐿 𝑜𝑢 𝐶𝐶𝐿 = 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+No exemplo temos:
+
+                                     𝐶𝐺𝐿 = 13.000 − 8.500 = 4.500
+
+
+
+
+        Tente montar uma planilha com os dados dos balanços e das demonstrações financeiras
+        que estamos usando como exemplo, e refazer todos os cálculos que estamos fazendo.
+        Matemática só se aprende exercitando.
+
+
+Índice de Liquidez Imediata
+
+É o índice que mede quanto do passivo circulante da Companhia estaria coberto pelo dinheiro que ela tem
+“em caixa”. Esse índice costuma ser pequeno, pois não é razoável esperar que uma empresa mantenha
+grandes valores em caixa, normalmente estão investidores em outras rubricas operacionais.
+
+Sua fórmula é:
+
+                                        𝐶𝑎𝑖𝑥𝑎 𝑜𝑢 𝐸𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒𝑠 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+                                𝐼𝐿𝐼 =
+                                              𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+No exemplo temos:
+
+                                                   4.000
+                                           𝐼𝐿𝐼 =         = 47%
+                                                   8.500
+
+Significa o dinheiro de disponibilidade imediata cobriria 47% das obrigações que vencem em até um ano.
+
+Índice de Liquidez Corrente
+
+
+
+
+                                                                                                     17
+É o índice que mede quanto do passivo circulante da Companhia estaria coberto pelo seu ativo circulante.
+Um índice igual ou maior que 100% indicaria um certo equilíbrio nas obrigações correntes da Companhia
+(que vencem em menos de 1 ano).
+
+Sua fórmula é:
+
+                                                𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                                       𝐼𝐿𝐶 =
+                                               𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+No exemplo temos:
+
+                                                  13.000
+                                          𝐼𝐿𝐶 =          = 153%
+                                                  8.500
+
+Significa que 153% das obrigações vincendas em até 1 ano estariam cobertas pelos direitos vincendos em
+até 1 ano.
+
+Índice de Liquidez Seca
+
+É o índice que mede quanto do passivo circulante da Companhia estaria coberto pelo seu ativo circulante
+“já vendido”, ou seja, sem os estoques. Um índice igual ou maior que 100% indicaria um equilíbrio
+confortável nas obrigações correntes da Companhia (que vencem em menos de 1 ano), uma vez que
+estariam cobertas MESMO sem novas vendas de estoques.
+
+Sua fórmula é:
+
+                                          𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝐸𝑠𝑡𝑜𝑞𝑢𝑒𝑠
+                                  𝐼𝐿𝑆 =
+                                              𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+No exemplo temos:
+
+                                             13.000 − 2.500
+                                     𝐼𝐿𝑆 =                  = 123%
+                                                 8.500
+
+Significa que 123% das obrigações vincendas em até 1 ano estariam cobertas pelos direitos vincendos em
+até 1 ano, apenas com base vendas já realizadas.
+
+Índice de Liquidez Geral
+
+É o índice que mede quanto do passivo exigível total da Companhia estaria coberto pelo seu ativo total. Não
+é um índice muito utilizado, pois os prazos de recebimento e pagamento de obrigações e direitos de longo
+prazo varia muito.
+
+
+
+                                                                                                        18
+Sempre vale lembrar que os itens permanentes do ativo não circulante NÃO entram em índices de liquidez,
+por um motivo bem simples, não se supõe que estejam no balanço para serem “realizados”, ou seja, não
+viram recursos financeiros (comumente).
+
+Sua fórmula é:
+
+                              𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝐴𝑡𝑖𝑣𝑜 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜
+                      𝐼𝐿𝐺 =
+                                            𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+
+No exemplo temos:
+
+                                             13.000 + 4.000
+                                     𝐼𝐿𝐺 =                  = 64%
+                                             8.500 + 18.000
+
+Significa que 64% das obrigações totais da Companhia estariam cobertas pelos direitos totais realizáveis.
+
+2.2.3. – Índices de Rentabilidade
+
+São índices que procuram medir a capacidade econômica da entidade. Esses índices podem misturar contas
+do Balanço Patrimonial com contas do Demonstrativo de resultados.
+
+Tomemos os exemplos a seguir, para calcular os índices.
+
+                                   ITENS (EM .000 REAIS)                    20X1
+                     RECEITA OPERACIONAL LÍQUIDA                              42.000
+                     (-) CMV                                                  22.000
+                     (=) Lucro bruto                                          20.000
+                     (-) Despesas operacionais
+                      Administrativas                                         4.000
+                      Comerciais                                                500
+                     (=) Lucro Operacional (LAJIR)                            15.500
+                     (+) RECEITAS FINANCEIRAS E + GANHOS                      (3.000)
+                     (=) Lucro antes do Ir (LAIR)                             12.500
+                     (-) Provisão para o IR (34%)                               4.250
+                     (=) LUCRO LÍQUIDO DO EXERCÍCIO                             8.250
+
+
+
+
+                                                                                                        19
+          ATIVO CIRCULANTE           20X1      20X0     PASSIVO CIRCULANTE     20X1      20X0
+          Caixa e Equivalentes        4.000     3.000   Contas a pagar          7.000     5.000
+          Contas a receber            6.500     5.500   Salários a pagar        1.500     1.400
+          Estoques                    2.500     3.500
+          TOTAL                      13.000   12.000    TOTAL                  8.500      6.400
+          ATIVO NÃO                                     PASSIVO NÃO
+          CIRCULANTE                                    CIRCULANTE
+          Realizável  a      longo
+                                      4.000     4.000   Financiamento BNDES    18.000    18.500
+          prazo
+          Investimentos               8.000     8.000   TOTAL PNC             18.000     18.500
+          Imobilizado                 7.000     6.500   PATRIMÔNIO LÍQUIDO
+          Intangível                  1.000      800    Capital social          6.400     6.000
+          Diferido                      500        0    Reservas de lucro         600       400
+          TOTAL                      20.500   19.300    TOTAL                  7.000      6.400
+          TOTAL ATIVO                33.500   31.300    TOTAL PASSIVO         33.500     31.300
+
+
+
+
+        O conhecimento desses índices é fundamental para a Administração Financeira de curto e
+        longo prazos, pois é com base neles que se calcula tudo, desde o ciclo de caixa e a
+        necessidade de capital de giro, até os graus de alavancagem da estrutura de capital.
+
+
+Rentabilidade sobre o Patrimônio Líquido.
+
+Quando misturamos contas do Balanço Patrimonial (retrato de momento) com contas da Demonstração de
+Resultados (acumulado por período), temos que definir se a conta do balanço será baseada no início do
+período, no final do período ou a média dos dois.
+
+Vamos adotar as médias.
+
+No caso, o Patrimônio Líquido Médio seria de 6.700, Ativo Total médio seria de 32.400.
+
+Costuma-se chamar esse índice de ROE, return on equity (em inglês).
+
+Sua fórmula é:
+
+                                                    𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                     𝑅𝑂𝐸 =
+                                              𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝑀é𝑑𝑖𝑜
+
+No exemplo temos:
+
+
+
+                                                                                                  20
+                                                    8.250
+                                         𝑅𝑂𝐸 =            = 123%
+                                                    6.700
+
+Esse é um dos efeitos da alavancagem, quando a empresa tem pouco capital próprio investido. Como o
+Patrimônio Líquido é pequeno, ou seja, o investimento a partir de capital próprio é pequeno, o retorno é
+muito alto, 123%.
+
+Retorno sobre o Ativo.
+
+Indica qual o retorno sobre o TODO o investimento da Companhia, uma vez que os ativos representam
+todos recursos utilizados para gerar aquele lucro.
+
+Sua fórmula é:
+
+                                                 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                       𝑅𝑂𝐴 =
+                                               𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 𝑀é𝑑𝑖𝑜
+
+No exemplo temos:
+
+                                                    8.250
+                                         𝑅𝑂𝐴 =             = 25%
+                                                    32.400
+
+Os ativos geram retorno de 25% ao ano. Perceba que é bem menor do que o retorno sobre o patrimônio
+líquido.
+
+Giro do Ativo.
+
+Esse é um indicador operacional. Normalmente deve ser comparado com a de outras empresas do mesmo
+setor. Quanto maior o giro do ativo, mais efetiva é a operação da Companhia.
+
+Sua fórmula é:
+
+                                              𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+                            𝐺𝑖𝑟𝑜 𝑑𝑜 𝑎𝑡𝑖𝑣𝑜 =
+                                                   𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 𝑀é𝑑𝑖𝑜
+
+No exemplo temos:
+
+                                                    42.000
+                                         𝐺𝑖𝑟𝑜 =            = 130%
+                                                    32.400
+
+A empresa “gira” seu ativo 1,3 vez durante o ano.
+
+Giro do Contas a Receber e Prazo Médio de Recebimento
+
+
+                                                                                                     21
+Indica quantas vezes que o contas a receber transitou pelo caixa durante o ano, isto é, quantas vezes a
+empresa gira seu contas a receber em função das vendas. Dependerá do cálculo do contas a receber médio.
+
+Sua fórmula é:
+
+                                                         𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+                   𝐺𝑖𝑟𝑜 𝑑𝑜 𝐶𝑅 (𝑡𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠) =
+                                                           𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟 𝑀é𝑑𝑖𝑜
+
+No exemplo temos:
+
+                                                    42.000
+                                     𝐺𝑖𝑟𝑜 𝑑𝑜 𝐶𝑅 =          = 700%
+                                                    6.000
+
+A empresa “gira” seu contas a receber 7 vezes durante o ano.
+
+Para calcular o prazo médio de recebimento, basta dividir 360 dias do ano pelo giro do CR.
+
+                                        𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+     𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑅𝑒𝑐𝑒𝑏𝑖𝑚𝑒𝑛𝑡𝑜 =                                            = 𝐴𝑝𝑟𝑜𝑥 52 𝑑𝑖𝑎𝑠
+                                             𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑅𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠 (7)
+
+Giro do Contas a Pagar (fornecedores) e Prazo Médio de Pagamento
+
+Mede quantas vezes o contas a pagar (fornecedores) girou no período.
+
+                                                               𝐶𝑢𝑠𝑡𝑜𝑠 𝑑𝑎 𝑀𝑒𝑟𝑐 𝑉𝑒𝑛𝑑𝑖𝑑𝑎 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+      𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟(𝑔𝑖𝑟𝑜 𝑑𝑎𝑠 𝑜𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠) =
+                                                                𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑝𝑎𝑔𝑎𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                                       22.000
+                 𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟(𝑔𝑖𝑟𝑜 𝑑𝑎𝑠 𝑜𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠) =               = 3,7 𝑣𝑒𝑧𝑒𝑠
+                                                                       6.000
+
+
+
+Supondo que estejamos tratando do período de 1 ano, o período médio em que se paga por uma compra é
+o seguinte:
+
+                                        𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+      𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑃𝑎𝑔𝑎𝑚𝑒𝑛𝑡𝑜 =                                             = 𝐴𝑝𝑟𝑜𝑥 98 𝑑𝑖𝑎𝑠
+                                            𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑂𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠 (3,7)
+
+Giro dos Estoques e Período Médio no Estoque
+
+Indica quantas vezes que o contas a receber transitou pelo caixa durante o ano, isto é, quantas vezes a
+empresa gira seu contas a receber em função das vendas. Dependerá do cálculo do contas a receber médio.
+
+
+
+
+                                                                                                    22
+                                                𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                 𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =
+                                                       𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                           22.000
+                           𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =           = 7,3 𝑣𝑒𝑧𝑒𝑠
+                                                           3.000
+
+Supondo que estejamos tratando do período de 1 ano, o período médio em que um produto fica no estoque
+(em todas as etapas) é o seguinte:
+
+                                      𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+      𝑃𝑒𝑟í𝑜𝑑𝑜 𝑀é𝑑𝑖𝑜 𝑛𝑜 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 =                                           = 𝐴𝑝𝑟𝑜𝑥 49,3 𝑑𝑖𝑎𝑠
+                                                𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (7,3)
+
+Margem Bruta.
+
+Indica qual o percentual de ganho sobre os custos diretos das mercadorias e serviços vendidos.
+
+Sua fórmula é:
+
+                                                 𝐿𝑢𝑐𝑟𝑜 𝐵𝑟𝑢𝑡𝑜
+                                  𝑀𝐵 =
+                                         𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+
+No exemplo temos:
+
+                                                20.000
+                                         𝑀𝐵 =          = 48%
+                                                42.000
+
+Significa que, a cada R$ 1,00 vendido, sobram R$ 0,48 a título de margem bruta.
+
+Margem de Contribuição.
+
+Margem de Contribuição está mais associada com o cálculo do ponto de equilíbrio e normalmente é medida
+em valores unitários. Está associada exclusivamente a elementos variáveis da receita e do custo.
+
+Sua fórmula é:
+
+                       𝑀𝐶 = 𝑃𝑟𝑒ç𝑜 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜 𝑑𝑒 𝑉𝑒𝑛𝑑𝑎 − 𝐶𝑢𝑠𝑡𝑜 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙 𝑢𝑛𝑖𝑡á𝑟𝑖𝑜
+
+Margem Operacional.
+
+Indica qual o percentual de ganho sobre os custos diretos das mercadorias e serviços vendidos, somados às
+despesas operacionais.
+
+Sua fórmula é:
+
+
+
+                                                                                                      23
+                                             𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+                                  𝑀𝑂 =
+                                         𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+
+No exemplo temos:
+
+                                                 15.500
+                                          𝑀𝑂 =          = 37%
+                                                 42.000
+
+Significa que, a cada R$ 1,00 vendido, sobram R$ 0,37 a título de margem operacional.
+
+Até esse ponto, temos uma ideia da saúde econômica da Companhia, pois não há impacto do financiamento
+de longo prazo. Se, por hipótese, a empresa consegue boa margem bruta e boa margem operacional, mas
+quando paga juros vira para o prejuízo, significa que o negócio é bom, mas a estrutura de capital não se
+paga.
+
+Margem Líquida.
+
+Indica qual o percentual de ganho sobre os custos diretos das mercadorias e serviços vendidos, somados à
+todas as outras despesas da Companhia.
+
+Sua fórmula é:
+
+                                                𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                  𝑀𝐿 =
+                                         𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+
+No exemplo temos:
+
+                                                 8.250
+                                          𝑀𝑂 =          = 20%
+                                                 42.000
+
+Significa que, a cada R$ 1,00 vendido, sobram R$ 0,20 a título de margem líquida.
+
+Índice de cobertura de juros.
+
+Para calcularmos o índice de cobertura de juros precisamos saber o resultado da Companhia, ANTES do
+pagamento dos juros dos empréstimos (normalmente de longo prazo). Podemos usar o LAJIR ou EBIT, ou
+o LAJIDA ou EBITDA.
+
+O LAJIR já temos, é R$ 15.500. Supondo, por exemplo, que as despesas no ano com depreciação e
+amortização tenham sido de R$ 500, o LAJIDA seria de R$ 16.000, uma vez que a depreciação e a
+amortização não são desembolsos de caixa, portanto ficaria à disposição para pagar os juros da dívida.
+
+Sua fórmula é:
+
+
+                                                                                                     24
+                                                       𝐸𝐵𝐼𝑇 𝑜𝑢 𝐸𝐵𝐼𝑇𝐷𝐴
+                               𝐶𝑜𝑏𝑒𝑟𝑡𝑢𝑟𝑎 𝑑𝑒 𝐽𝑢𝑟𝑜𝑠 =
+                                                      𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝐽𝑢𝑟𝑜𝑠
+
+No exemplo temos:
+
+                                                            16.000
+                                   𝐶𝑜𝑏𝑒𝑟𝑡𝑢𝑟𝑎 𝑑𝑒 𝐽𝑢𝑟𝑜𝑠 =            = 5,3
+                                                            3.000
+
+Significa que a geração de caixa anual (medida pelo EBITDA) seria suficiente para pagar até 5,3 vezes o
+serviço anual da dívida.
+
+2.2.4. – Graus de Alavancagem
+
+        IMPORTANTE!!! Graus de alavancagem dizem respeito mais à gestão de caixa e/ou
+        gestão de estrutura patrimonial. É raro cair em provas exclusivas de análise balanços,
+        EXCETO se isso estiver incluído no conteúdo de Administração GERAL ou FINANCEIRA.
+
+        Caso você esteja em um concurso em que se cobre tanto análise de balanços quanto
+        administração financeira, provavelmente verá o conteúdo de alavancagem em ambas as
+        matérias, pois são superpostas mesmo. Normalmente o conteúdo é mais aprofundado em
+        Administração Financeira, de forma que estudar apenas pelo material dessa matéria é
+        suficiente.
+
+
+Alavancagem Operacional
+
+Em essência a alavancagem operacional quer avaliar qual o ganho adicional no lucro operacional (LAJIR,
+lucro antes dos juros e IR) para cada nova unidade de receita adicionada.
+
+É importante esse cálculo, pois se descobrirmos que a receita adicional gera lucros decrescentes (ou a uma
+taxa decrescente) pode ser melhor não aumentar a produção e o esforço de venda.
+
+
+
+
+                            Atual         10%        20%       -10%    -20%
+Receitas Líquidas              1.000    1.100      1.200        900     800
+CMV - custos variáveis          (400)    (440)      (480)      (360)   (320)
+Margem de contribuição            600     660        720        540     480
+Custos fixos                    (400)    (400)      (400)      (400)   (400)
+Lucro antes do IR e Juros         200     260        320        140      80
+
+Este é um orçamento de resultados, considerando vários cenários possíveis para as receitas, de um cenário
+base de R$ 1.000, para uma redução ou alta de até 20%.
+
+                                                                                                       25
+Perceba que, a partir da receita atual, um aumento de R$ 100 (10%) na receita faz com que o lucro cresça R$
+60 (aumenta 30%, indo de 200 para 260), assim como uma queda de 10% faz com que o lucro caia 30% (indo
+de 200 para 140).
+
+Dizemos que o grau de alavancagem dessa empresa é de 3 vezes, ou seja, PARA AQUELE PATAMAR
+INICIAL DE RECEITA, um incremento de 1% nas vendas gerará um incremento de 3% no lucro operacional.
+
+
+
+
+        É importante colocar que esse cálculo sempre depende do patamar inicial, da receita
+        esperada ou atual.
+
+Agora podemos calcular os graus de alavancagem. É fundamental termos as fórmulas bem decoradas!
+
+
+
+
+                                                          𝑉𝑎𝑟𝑖𝑎çã𝑜 % 𝑑𝑜 𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+           𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐺𝐴𝑂 =
+                                                               𝑉𝑎𝑟𝑖𝑎çã𝑜 % 𝑑𝑎 𝑅𝑒𝑐𝑒𝑖𝑡𝑎
+
+                                                     𝑀𝑎𝑟𝑔𝑒𝑚 𝑑𝑒 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜 (𝑝𝑎𝑡𝑎𝑚𝑎𝑟 𝑖𝑛𝑖𝑐𝑖𝑎𝑙)
+     𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐺𝐴𝑂 =
+                                                    𝐿𝑎𝑗𝑖𝑟 𝑜𝑢 𝑙𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 (𝑝𝑎𝑡𝑎𝑚𝑎𝑟 𝑖𝑛𝑖𝑐𝑖𝑎𝑙)
+
+                                                     260 − 200
+                                                        200       0,3
+             𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐺𝐴𝑂 =              =     = 3 𝑣𝑒𝑧𝑒𝑠
+                                                   1.100 − 1.000 0,1
+                                                       1.000
+
+                                                                     600
+                      𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐺𝐴𝑂 =              = 3 𝑣𝑒𝑧𝑒𝑠
+                                                                     200
+
+Há ainda outra forma de escrever essa fórmula:
+
+                                                           𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠        400
+      𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐺𝐴𝑂 = 1 +                            =1+     = 3 𝑣𝑒𝑧𝑒𝑠
+                                                         𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙     200
+
+Alavancagem Financeira
+
+No caso da alavancagem operacional, tratávamos de contas da demonstração de resultados, que são
+essencialmente contas operacionais, da aplicação de ativos circulantes (estoques, salários, vendas etc.).
+
+
+
+                                                                                                        26
+Quando se fala de alavancagem financeira estamos tratando de questões de estrutura patrimonial, de
+ativos, passivos e patrimônio líquido.
+
+
+
+
+Considere as seguintes variações de contas patrimoniais.
+
+                           Atual     Nova
+Ativos totais                 1.000     1.000
+Patrimônio Líquido               600      400
+Passivo Exigível                 400      600
+Juros pagos                       60       90
+
+A empresa tem duas estruturas de capital, a atual e a desejada. Na atual, seu grau de endividamento é de
+40% (400/1.000), na desejada será de 60% (600 de passivo, para 1.000 de ativos totais).
+
+                                                      𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙    400
+                     𝐺𝑟𝑎𝑢 𝑑𝑒 𝐸𝑛𝑑𝑖𝑣𝑖𝑑𝑎𝑚𝑒𝑛𝑡𝑜 𝑎𝑡𝑢𝑎𝑙 =                  =       = 40%
+                                                       𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙    1.000
+
+                                                           𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙    600
+                 𝐺𝑟𝑎𝑢 𝑑𝑒 𝐸𝑛𝑑𝑖𝑣𝑖𝑑𝑎𝑚𝑒𝑛𝑡𝑜 𝑑𝑒𝑠𝑒𝑗𝑎𝑑𝑜 =                        =       = 60%
+                                                            𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙    1.000
+
+O aluno pode se questionar porque motivo a empresa gostaria de aumentar seu grau de endividamento. É
+exatamente esse o ponto da alavancagem financeira. Caso a dívida custe MENOS do que o retorno
+proporcionado, vale a pena se endividar.
+
+Ainda sobre as estruturas de capital apresentados, consideremos que a empresa tenha um lucro operacional
+(LAJIR - Lucro antes dos juros e do Imposto de Renda) de R$ 200 (que não muda com a alteração da estrutura
+de capital), e que paga juros de 15% ao ano. Qual o resultado esperado para ambas as estruturas?
+
+                           Atual        Nova
+LAJIR                            200        200
+Juros                            (60)       (90)
+LAIR                             140        110
+IR (não há)                      -          -
+Lucro Líquido                    140        110
+Retorno sobre Ativo ROA       14,00%     11,00%
+Retorno sobre Ativo PL        23,33%     27,50%
+
+O LAIR - Lucro Antes do Imposto de Renda - cai de 140 para 110, pois há um endividamento maior (de 400
+para 600), significando um pagamento de juros indo de 60 (15% x 400) para 90 (15% x 600).
+
+
+                                                                                                       27
+O retorno sobre os ativos ROA (return on assets) e sobre o patrimônio líquido ROE (return on equity), no caso
+atual (considerando que não há imposto de renda, ou seja LAIR = Lucro Líquido), seriam:
+
+                                         𝐿𝐴𝐼𝑅 = 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜    140
+                          𝑅𝑂𝐴 𝑎𝑡𝑢𝑎𝑙 =                         =       = 14%
+                                             𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙        1.000
+
+                                         𝐿𝐴𝐼𝑅 = 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 140
+                          𝑅𝑂𝐸 𝑎𝑡𝑢𝑎𝑙 =                        =     = 23,3%
+                                          𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜   600
+
+O ROE e ROA para a nova situação de estrutura patrimonial, seria:
+
+                                        𝐿𝐴𝐼𝑅 = 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜    110
+                          𝑅𝑂𝐴 𝑛𝑜𝑣𝑎 =                         =       = 11%
+                                            𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙        1.000
+
+                                        𝐿𝐴𝐼𝑅 = 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 110
+                          𝑅𝑂𝐸 𝑛𝑜𝑣𝑎 =                        =     = 27,5%
+                                         𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜   400
+
+Perceba que, mesmo com uma QUEDA no lucro, há um aumento nos ganhos sobre o patrimônio líquido (de
+23,3% para 27,5%).
+
+        Já deu para entender que aumentar o endividamento, pode aumentar a lucratividade
+        (retorno) do acionista. E como se calcula a alavancagem?
+
+Uma das fórmulas mais comuns, envolvendo contas patrimoniais, para cálculo do GRAU de alavancagem
+financeira é:
+
+                                                                           𝑅𝑂𝐸
+                              𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐹𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 𝐺𝐴𝐹 =
+                                                                           𝑅𝑂𝐴
+
+Nos dois cenários teríamos:
+
+
+
+
+                                                                                                          28
+A interpretação do GAF é que, se for igual a 1, a alavancagem será nula (o que significa que o ROE é igual ao
+ROA, o que só é possível se A=PL, ou seja, não há dívida). Se for menor que 1 significa que a alavancagem é
+desfavorável (esse caso é raríssimo, pois significaria passivo negativo, sem que seja chamado de ativo), se
+for acima de 1, é favorável.
+
+As fórmulas são as seguintes:
+
+                                                           𝑉𝑎𝑟𝑖𝑎çã𝑜 𝑛𝑜 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐹𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =
+                                                         𝑉𝑎𝑟𝑖𝑎çã𝑜 𝑛𝑜 𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+                                                              𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+           𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑓𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =
+                                                    𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠
+
+Alavancagem Combinada
+
+Temos, portanto, duas fórmulas que relacionam a variação do lucro líquido com a variação do lucro
+operacional e com a variação da Receita:
+
+                                                           𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 + 𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠
+           𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐺𝐴𝑂 =
+                                                                  𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+                                                                 𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+         𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑓𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 𝐺𝐴𝐹 =
+                                                       𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠
+
+A alavancagem combinada significa a multiplicação de ambas, como o lucro operacional no numerador e
+no denominador serão cancelados (multiplicação por 1), a fórmula da alavancagem combinada fica:
+
+                                                      𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 + 𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠
+           𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐶𝑜𝑚𝑏𝑖𝑛𝑎𝑑𝑎 =
+                                                    𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠
+
+
+
+
+Vejamos um novo exemplo, envolvendo ambos os graus de alavancagem.
+
+
+
+
+                                                                                                          29
+                             Atual
+Receitas Líquidas               1.000
+CMV - custos variáveis            (400)
+Margem de contribuição             600
+Custos fixos                      (400)
+Lucro antes do IR e Juros          200
+Despesa de juros                    90
+Margem líquida (LL)                110
+
+GAO                               3,00
+GAF                               1,82
+GAC                               5,45
+
+Mostrando os cálculos:
+
+                             𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 + 𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠 200 + 400
+                    𝐺𝐴𝑂 =                                    =          = 3,00
+                                    𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙            200
+
+                                      𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙             200
+                  𝐺𝐴𝐹 =                                          =         = 1,82
+                            𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠 200 − 90
+
+O GAC é a multiplicação dos dois, mas há outra forma de ver, que nos indica o significado do grau de
+alavancagem combinado.
+
+                      𝑀𝑎𝑟𝑔𝑒𝑚 𝑑𝑒 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜 600
+             𝐺𝐴𝐶 =                          =     = 5,45 = 𝐺𝐴𝐹 × 𝐺𝐴𝑂 = 1,82 × 3,00
+                         𝑀𝑎𝑟𝑔𝑒𝑚 𝐿í𝑞𝑢𝑖𝑑𝑎       110
+
+Isso dá uma ideia do significado do GAC, indica que, para cada 1% de variação na margem de contribuição
+haverá 5,45% de variação na margem líquida. Perceba que ele realmente incorpora os resultados das
+alavancagens operacional e financeira.
+
+2.2.5. –Capital de giro operacional e financeiro e Efeito Tesoura
+
+
+
+
+         Mais uma questão comum a Administração Financeira (Gestão de Caixa) e Análise de
+         Balanços. O conteúdo em Administração Financeira é mais robusto, se o aluno já tiver
+         estudado isso nessas aulas (se o concurso pedir ambos os temas em Administração Geral),
+         pode ir diretamente para os exercícios.
+
+
+
+                                                                                                    30
+Neste ponto, vamos analisar os conceitos de ativo circulante operacional, ativo circulante financeiro,
+passivo circulante operacional, passivo circulante financeiro, passivo permanente e ativo permanente.
+
+Ativo circulante operacional ou ativo cíclico é aquele que guarda relação direta com a operação da
+Companhia, é diretamente influenciado pelo volume de vendas ou produção, sendo composto por
+estoques, contas a receber e outros ativos circulantes que tenham natureza relacionada à operação.
+
+O ativo circulante financeiro é aquele relacionado com itens de liquidez de curtíssimo prazo do ativo
+circulante, que não têm ligação com as operações da empresa, ainda que tenham vindo da própria
+operação, como caixa, bancos e aplicações financeiras.
+
+O passivo circulante operacional está representado pelos itens do passivo circulante relacionados ao ciclo
+operacional da companhia, tais como fornecedores, salários, encargos, impostos, taxas etc..
+
+O passivo circulante financeiro corresponde aos itens que não têm vinculação direta com a parte
+operacional da companhia e são, entre outros, os empréstimos, financiamentos que não estão relacionados
+diretamente com o core business da empresa.
+
+O passivo permanente seria formado pelas contas do passivo exigível a longo prazo e patrimônio líquido e
+representa as fontes fixas de recursos, ou seja, aquelas das quais não se espera GIRO.
+
+Ativo permanente (ou fixo) é formado pelos recebíveis a longo prazo e pelo ativo fixo (imobilizado,
+intangível, aquele do qual não se espera giro).
+
+Necessidade de capital de giro
+
+Alguns autores costumam definir a NECESSIDADE DE CAPITAL DE GIRO como aquela que surge quando a
+atividade operacional da empresa gera um fluxo de saídas de caixa maior e mais rápido que o das entradas
+de caixa.
+
+Também chamada de necessidade de investimento em capital de giro – NIG, a NCG (necessidade de capital
+de giro, ou capital de giro operacional) é calculada SEM os ativos e passivos circulantes financeiros, da
+seguinte forma:
+
+                          𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+Para empresas que não têm problemas com capital de giro de curto prazo, aquelas que recebem mais, e
+mais rápido do que pagam, a questão relevante é o equilíbrio entre ativos e passivos permanentes ou fixos,
+de forma que sua equação fica como se segue:
+
+                           𝐶𝐺 = 𝐴𝑡𝑖𝑣𝑜 𝑝𝑒𝑟𝑚𝑎𝑛𝑒𝑛𝑡𝑒 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑝𝑒𝑟𝑚𝑎𝑛𝑒𝑛𝑡𝑒
+
+
+                                                                                                       31
+         Vamos usar um exemplo real que caiu em provas anteriores, para mostrar como é possível
+         elaborar essas questões relacionadas a necessidade de capital de giro.
+
+
+FGV - Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015
+
+Uma empresa possui necessidade de capital de giro negativa quando:
+
+   a) o saldo em valores monetários de fornecedores é menor que o de clientes;
+   b) os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente
+      caixa;
+   c) o fluxo de caixa operacional é inferior ao financeiro;
+   d) o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de
+      fornecedores;
+   e) as aplicações de recursos são superiores às origens de recursos.
+
+
+Solução.
+
+                            𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+O item a está errado, pois faz inferência a apenas 2 itens da NCG; o item b está errado pois trata de itens não
+operacionais; o item c está errado pelo mesmo motivo; o item e está errado, pois origens e aplicações deveriam
+ser iguais.
+
+Uma outra forma de ver a necessidade de capital de giro é:
+
+
+
+
+Perceba que quando recebo ANTES de pagar ao fornecedor, a necessidade de capital de giro fica NEGATIVA.
+Item d.
+
+
+
+
+                                                                                                            32
+        O quadro a seguir trata de todas as equações possíveis com os saldos, financeiro e
+        operacional, dos ativos e passivos circulantes. Fique atento ao saldo de tesouraria, que é a
+        diferença entre os ativos circulantes financeiros e os passivos circulantes financeiros.
+
+
+
+
+Efeito Tesoura
+
+Na gestão de fluxo de caixa queremos evitar o Efeito Tesoura, que é o decréscimo ao longo do tempo do
+Saldo em Tesouraria. O gráfico anterior mostra com clareza o que pode ocorrer para que o Saldo em
+Tesouraria seja decrescente ou fique negativo.
+
+A figura abaixo mostra razoavelmente o que ocorre quando, ao longo do tempo, as necessidades de capital
+de giro (diferença entre o Ativo Circulante Operacional e o Passivo Circulante Operacional) crescem mais
+do que que o Capital Circulante Líquido (diferença entre Ativo Circulante e Passivo Circulante). Isso faz com
+que, eventualmente no futuro, o Saldo de Tesouraria fique negativo.
+
+
+
+
+E por que isso acontece?
+
+                                                                                                          33
+Os principais motivos para o aparecimento do efeito tesoura são:
+
+      Aumento de vendas acima do esperado: se passamos a vender mais de forma inesperada, tendemos
+       a precisar de mais capital de giro, e isso pode aumentar a necessidade de uso de caixa, diminuindo o
+       saldo em tesouraria.
+      Flexibilização e aumento de prazos para clientes: isso também aumenta a necessidade de capital de
+       giro, pois precisamos investir mais e recebemos com defasagem maior.
+      Ampliação de estoques mal planejado: se os estoques aumentam muito, por exemplo, sem a
+       correspondência nas vendas, isso aumenta nossa necessidade de capital de giro para bancar o que
+       não vendemos.
+      Redução de prazo junto aos fornecedores: significa que precisamos pagar antes, o que vai pressionar
+       também o capital de giro.
+
+Naturalmente, para evitar o efeito tesoura, entre outros pontos, deve-se evitar as causas acima. Deve-se
+fazer o correto planejamento do crescimento de vendas, para evitar ter que lançar mão de capital de curto
+prazo em bancos, deve-se buscar reduzir os prazos de recebimento sem causar prejuízo na antecipação de
+recebíveis, deve-se evitar manter estoques acima do necessário para evitar custos de carregamento e de
+escassez, e deve-se buscar mais prazo junto aos fornecedores.
+
+A questão fundamental da má gestão de caixa é que, sempre que precisamos de caixa imediato, precisamos
+recorrer a bancos em empréstimos de curto prazo. E esses empréstimos costumam ser muito mais caros do
+que os de longo prazo. Por isso é importante que qualquer descasamento da necessidade de caixa seja
+planejado para, no futuro, passar a ser pago por financiamento de longo prazo, que é mais barato e é pago
+com mais prazo e espaçamento no tempo.
+
+
+
+
+2022 /Banca: CESPE / CEBRASPE / DPE-RO - Analista da Defensoria Pública - Contabilidade
+
+O efeito tesoura necessariamente está presente quando:
+
+   A. o saldo em tesouraria cresce, mas é negativo.
+   B. existe crescente disponibilidade de capital de giro.
+   C. o saldo em tesouraria se apresenta crescentemente positivo ou, pelo menos, estável.
+   D. os ativos circulantes são sempre maiores que os passivos circulantes.
+   E. a necessidade de capital de giro supera a disponibilidade e cresce.
+
+A opção A está errada, pois o efeito tesoura não se refere a algo estático no tempo. Podemos ter um saldo
+em tesouraria momentâneo negativo e não necessariamente termos o efeito tesoura que é essa tendência
+ao longo do tempo de redução do saldo em tesouraria (ST). No caso, a opção está errada, pois fala em
+CRESCER o ST e no efeito ele REDUZ.
+
+A opção B está errada, pois a disponibilidade de capital de giro diminui com o efeito tesoura (ET)
+
+C está errada, pois o ST cai e não cresce no ET.
+
+                                                                                                        34
+D está errada, pois leva em consideração apenas os ativos circulantes e os passivos circulantes, porém
+precisamos também levar em consideração a variação dos ativos e passivos circulantes OPERACIONAIS,
+para calcular o saldo em Tesouraria.
+
+E está certa, como vimos no Gráfico, a NCG (necessidade de capital de giro) cresce, supera a disponibilidade
+e continua a crescer.
+
+
+
+
+                                                                                                         35
+3 - Avaliação de projetos de investimento por múltiplos e índices
+
+IMPORTANTE!!! Avaliação por múltiplos e índices costuma estar associada a Finanças Corporativas, mais
+do que à Análise de Balanços. Caso o edital do concurso não esteja pedindo explicitamente cálculo do valor
+do projeto por múltiplos, a chance de cair é pequena, portanto essa parte poderá ser preterida em favor de
+outras matérias mais comuns ou pedidas explicitamente no edital.
+
+3.1 – Múltiplos e índices utilizados para avaliar projetos de investimento/empresas
+
+Preço/valor patrimonial (P/VPA)
+
+É um múltiplo que se obtém dividindo o valor de mercado pelo patrimônio líquido (médio, inicial ou final do
+período).
+
+Em vez de utilizarmos o valor de mercado de toda a empresa, podemos fazer pela cotação de uma ação,
+nesse caso, utilizaremos o VPA (valor patrimonial da ação).
+
+Esse indicador não é muito utilizado em finanças, apenas de forma comparativa. Isso porque o Patrimônio
+Líquido contábil NÃO É considerado mais a expressão plena da riqueza do acionista. Uma empresa pode
+ter patrimônio líquido elevadíssimo, mas sua expectativa de resultados ser ruim, de forma que relação entre
+seu preço de mercado e seu patrimônio ficaria bem baixa.
+
+         A lógica do indicador é, quanto menor o índice melhor, mais atraente e barata estaria a
+         empresa. Uma empresa com P/VP igual a 1, por exemplo, teria um valor de mercado
+         IGUAL ao valor do patrimônio líquido.
+
+Uma empresa com P/VP igual a 0,4 teria um preço de mercado que valeria apenas 40% do patrimônio
+líquido. Se o patrimônio líquido for realmente realizável (der para vender os ativos, quitar as dívidas e sobrar
+o que está no balanço), seria melhor comprar a empresa e vender seus ativos.
+
+Se a relação é alta, tipo 4,0, significa que o valor de mercado é quatro vezes maior do que o patrimônio
+líquido. Pode indicar que a empresa está cara.
+
+P/VPA também é um indicador de estresse. Quando o mercado desaba, às vezes empresas sólidas ficam
+com preço de mercado muito abaixo de seu patrimônio.
+
+Preço/Lucro (P/L ou P/LPA)
+
+P/L é a sigla para Índice Preço-lucro, que mede quantas vezes o preço da ação (cotação) é maior do que seu
+lucro por ação OU quantas vezes o preço de mercado da empresa é maior do que seu lucro anual.
+
+Veja alguns exemplos com dados passados:
+
+
+                                                                                                             36
+EMPRESA                                    CVRD    Lj. Americanas   Copel     Gerdau     Sadia    Light     2007*
+Valor de Mercado (28/12/2006) R$ milhões   147.466          8.659    6.334     22.434     4.890    3.081    84.864
+Lucro líquido 2006 R$ milhões               13.431            123    1.242      2.880       376     (150)    5.054
+P/L                                           11,0           70,4       5,1        7,8     13,0    ND         16,8
+
+
+A lógica é a seguinte: Para “comprar” um lucro de 13,4 bilhões de reais da CVRD (atualmente VALE), eu teria
+que desembolsar 147 bilhões, ou seja, 11 vezes o lucro. É claro que a comparação entre a cotação (valor de
+1 ação) e do lucro por ação (também referente a 1 ação) tem o mesmo resultado e a mesma lógica.
+
+Em resumo, o P/L indicaria em quantos anos eu retornaria o meu investimento, caso o lucro da empresa não
+subisse.
+
+O que influencia o P/L?
+
+Podemos entender o P/L como uma medida do “apetite” do investidor por comprar as ações. Se este vem
+se elevando, é porque os investidores estão pagando mais “caro” pelas ações do que anteriormente, seja
+por que suas opções fora da renda variável estão menos atraentes, seja por que ele acredita que o lucro da
+empresa crescerá fortemente nos próximos anos.
+
+Pensando de forma simples, responda: Qual é a opção de investimento que se tem em relação à renda
+variável? Fácil: Renda fixa, ou seja, CDB, fundos DI, poupança, previdência privada sem renda variável entre
+outros.
+
+Se a opção mais rentável em renda fixa for, por hipótese, um fundo DI com taxa de administração de 0,5%,
+qual seria o ganho previsto, já descontando o IR? Daria pouco mais de 10%, para arredondar 10% (para
+2022).
+
+Com 10% ao ano, em quantos anos você retornaria o capital, se retirasse o lucro ano a ano?
+
+Simples: 100% / 10% = 10 anos. Esse, para fins de comparação, pode ser considerado o P/L da renda fixa. O
+P/L da renda fixa não é um indicador utilizado nos meios profissionais, mas será útil para o investidor
+comparar opções de investimento em renda fixa e em renda variável.
+
+Um parêntese. Quase todos consideram que é bom para a bolsa quando os juros caem. Um dos motivos
+para essa percepção é que a opção “sem risco” dos investidores fica menos atraente, ou seja, seu P/L da
+renda fixa aumenta (leva mais tempo para retornar), permitindo que se pague um pouco mais pela opção
+em renda variável, ou seja, pelas ações em bolsa.
+
+Pense: Se os juros estivessem em 25% ao ano, com inflação de 3%, você acha que tantas pessoas estariam
+buscando a bolsa como alternativa de investimento? Bom, parece que o passado responde por si.
+
+Se o P/L da renda fixa está em 10 por que há tanta variação nos múltiplos das empresas?
+
+
+                                                                                                                     37
+Primeiro, o “P/L da renda fixa” é um indicador proposto para sabermos o que seria um retorno “razoável”,
+tomando por base os investimentos alternativos à bolsa. Não significa que ele deva ser seguido, apesar da
+evidência óbvia de que juros altos desestimulam o investimento em bolsa. Segundo, há muitos fatores que
+influenciam o P/L de uma empresa e, alguns deles, serão tratados a seguir.
+
+P/L próximo do da renda fixa
+
+       Quando se encontra uma empresa com P/L próximo dos 10 (oscilando entre 8 e 12, por hipótese), é
+       provável que seu desempenho seja bem regular, seus lucros futuros possam ser previstos pelos
+       analistas com pouca margem de erro e entende-se que o crescimento no longo prazo desses lucros
+       não será exageradamente alto.
+
+P/L muito mais baixo do que o da renda fixa
+
+       Normalmente indica que o lucro deverá cair ou que a empresa representa um risco alto. Se os
+       investidores não estão dispostos a comprar ações, mesmo com P/L baixo, é porque não acreditam
+       que o lucro permanecerá alto. Pode ser que a empresa tenha dado um lucro extraordinariamente
+       alto, por conta de algum evento não recorrente como a venda de um ativo ou algum benefício fiscal
+       extraordinário. Quando isso ocorre, o lucro sobe muito, mas o preço não acompanha, pois o evento
+       não faz parte do dia-a-dia do negócio. Outra hipótese é não confiar no gestor ou no controlador,
+       fazendo com que o investidor só entre na empresa se seu preço estiver muito descontado, pois o
+       risco é alto.
+
+P/L muito mais alto do que o da renda fixa.
+
+       Comumente indica que a perspectiva dos investidores é de que o lucro cresça a taxas muito acima
+       das do mercado. Para se ter uma idéia do impacto de uma expectativa positiva sobre o lucro de uma
+       empresa veja: se os analistas supõem que o lucro da empresa crescerá 60% ao ano pelos próximos 5
+       anos, isso indica que o lucro crescerá 10 vezes. Nessa hipótese, já antecipando o crescimento, o
+       analista sugere um preço muito alto para a empresa. Ocorre que esse preço já inclui o crescimento
+       futuro, por isso é tão alto o P/L, pois é comparado com o lucro de hoje. E se não ocorrer o crescimento
+       esperado? Os preços se ajustam durante o caminho. Pode acontecer também, de a empresa
+       apresentar um resultado extraordinariamente ruim, mas por algum problema não-recorrente. As
+       empresas do ramo de alimentos enfrentaram a gripe aviária e embargos de exportação de carne em
+       2006 e viram seus lucros caírem bastante. Como os eventos não eram recorrentes, as cotações não
+       se depreciaram tanto, porém, como o lucro era muito mais baixo, o índice P/L ficou alto, fora do
+       padrão histórico das empresas, da média do mercado e da própria renda fixa.
+
+P/L de ações com prejuízo
+
+
+
+
+                                                                                                           38
+       Nesse caso não se aplica o conceito P/L. Se a empresa vinha de lucros crescentes e, por algum
+       motivo, começou a dar prejuízo, devem-se estudar esses motivos para avaliar se ainda se pode
+       confiar no fluxo futuro de lucros, pois se não voltarem, a cotação será penalizada no futuro. Os riscos
+       de investir em empresas com prejuízos recorrentes são maiores. É melhor deixar para o campo da
+       especulação.).
+
+Avaliando empresas pelo P/L
+
+       Imagine uma empresa varejista que não tem ações na bolsa. Não sabemos, portanto, qual o seu
+       preço de mercado. Porém, se soubermos que a média dos índices Preço/Lucro dos varejistas com
+       perfil semelhante listados na bolsa de valores é de 15,4, basta pegarmos o lucro dessa empresa que
+       estamos avaliando e multiplicar por 15,4.
+
+       Se a empresa teve R$ 1 bilhão de lucro no exercício social mais recente (12 meses), significa que, em
+       tese, seu preço justo com base no múltiplo P/L seria de R$ 15,4 bilhões.
+
+EV/EBITDA (FV/EBITDA) – Enterprise (or firm) Value / EBITDA
+
+Também é um índice comparativo, que pode ser usado inclusive para diferentes países.
+
+O EBITDA, no Brasil conhecido como LAJIDA é o Lucro antes dos impostos, juros, depreciação e
+amortização. Ele tem um significado interessante, seria o fluxo de caixa gerado pela empresa que estaria
+disponível tanto para credores quanto para acionistas. É entendido com a geração de caixa da empresa.
+
+        O EV ou FV seria a soma do Valor de Mercado com a Dívida Líquida (dívida bruta – caixa).
+
+Perceba que a razão faz sentido, no numerador da fração temos o valor total do interesse de terceiros na
+Companhia (valor de mercado do equity e da dívida), no denominador temos o fluxo de caixa que suportaria
+esses interesses.
+
+Esse múltiplo é uma relação usada para determinar o valor de uma empresa. Os investidores usam
+principalmente o múltiplo de uma empresa para determinar se uma empresa está subvalorizada ou
+sobrevalorizada. Uma proporção baixa indica que uma empresa pode estar subvalorizada, e uma alta índice
+indica que a empresa pode estar sobrevalorizada.
+
+Esse múltiplo é também útil para comparações transnacionais porque ignora os efeitos de distorção das
+políticas tributárias de cada país, que afetam bastante os lucros. Também é usado para encontrar
+candidatos para fusões e aquisições. Uma empresa com um múltiplo baixo pode ser vista como um bom
+candidato a aquisição.
+
+Os múltiplos variam de acordo com a indústria e os setores da economia. Deve-se comparar o múltiplo com
+os de outras empresas da mesma indústria ou com a média em geral.
+                                                                                                           39
+Para calcular o valor de uma empresa pelo EV/EBITDA, segue-se a mesma lógica do P/L. Procura-se o
+múltiplo médio de empresas semelhantes à que queremos analisar e o multiplicamos pelo EBITDA.
+
+PAYOUT E DIVIDEND YIELD
+
+São expressões em inglês associadas, em essência, à distribuição de dividendos, que é a parte do lucro
+destinada aos sócios após a apuração do resultado.
+
+Índice de payout nada mais é do que o percentual do lucro líquido que é distribuído a título de dividendos.
+
+                                      𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑜 𝐷𝑖𝑠𝑡𝑟𝑖𝑏𝑢í𝑑𝑜 𝑜𝑢 𝐷𝑒𝑐𝑙𝑎𝑟𝑎𝑑𝑜 𝑛𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜
+                Í𝑛𝑑𝑖𝑐𝑒 𝑑𝑒 𝑃𝑎𝑦𝑜𝑢𝑡 =
+                                            𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝐴𝑗𝑢𝑠𝑡𝑎𝑑𝑜 𝑑𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜
+
+Dividend Yield, em português "retorno com dividendos", é simplesmente quanto de retorno percentual o
+investidor obteve a partir dos dividendos distribuídos. Vai depender de quanto ele pagou pela ação da
+empresa.
+
+                                𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑜 𝐷𝑖𝑠𝑡𝑟𝑖𝑏𝑢í𝑑𝑜 𝑜𝑢 𝐷𝑒𝑐𝑙𝑎𝑟𝑎𝑑𝑜 𝑛𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑝𝑜𝑟 𝐴çã𝑜
+            𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑 𝑌𝑖𝑒𝑙𝑑 =
+                                          𝑉𝑎𝑙𝑜𝑟 𝑃𝑎𝑔𝑜 𝑝𝑒𝑙𝑎 𝐴çã𝑜 𝑑𝑎 𝐸𝑚𝑝𝑟𝑒𝑠𝑎
+
+
+
+
+Considere que a Companhia Siderúrgica Nacional tenha apurado um lucro líquido de R$ 13,6 bilhões em
+2021 e tenha distribuído R$ 6,8 bilhões a título de dividendos. Qual o índice de payout?
+
+                                        𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑜 𝑛𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜     6,8
+                 Í𝑛𝑑𝑖𝑐𝑒 𝑑𝑒 𝑃𝑎𝑦𝑜𝑢𝑡 =                            =     = 0,5 = 50%
+                                       𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝑛𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜 13,6
+
+Considere ainda que um investidor comprou 2.000 ações a R$ 7,50 cada, e após isso recebeu no período o
+equivalente a R$ 2,25 por ação a título de dividendos. Qual o Dividend Yield?
+
+                                        𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑜 𝑝𝑜𝑟 𝐴çã𝑜        2,25
+              𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑 𝑌𝑖𝑒𝑙𝑑 =                                  =      = 0,3 = 30%
+                                 𝑉𝑎𝑙𝑜𝑟 𝑃𝑎𝑔𝑜 𝑝𝑒𝑙𝑎 𝐴çã𝑜 𝑑𝑎 𝐸𝑚𝑝𝑟𝑒𝑠𝑎 7,50
+
+Observações: Lucro ajustado é nomenclatura técnica (artigo 202 Lei 6404), na prova provavelmente basta
+colocar o Lucro Líquido. Dividendo declarado e distribuído tem o mesmo efeito para os cálculos, pois se foi
+declarado e não foi pago, já saiu do Patrimônio Líquido e virou passivo exigível.
+
+
+
+
+                                                                                                          40
+4 - EVA - Economic Value Added - Valor Econômico Adicionado
+
+EVA – Economic Value Added – Valor Econômico Adicionado - Custo de Oportunidade
+
+
+
+
+        EVA é algo comum a três matérias: Finanças, Administração Financeira e Contabilidade. É
+        mais comum em provas de finanças, mas, como veremos nos exercícios, também cai em
+        análise de demonstrações financeiras, gestão de estrutura patrimonial e retorno sobre
+        investimentos.
+
+        Devo estudar? Se seu concurso for só de Análise de Demonstrações Financeiras (dentro de
+        Administração financeira e não de Contabilidade), só é provável que caia se estiver
+        explícito no edital. Se for um concurso envolvendo também administração financeira de
+        longo prazo, é possível que caia, mesmo sem explicitar (ainda que seja raro). Porém os
+        conteúdos são parecidos, se já estudou isso em Administração Financeira, pode ir direto
+        para os exercícios em Análise de Balanços, e vice-versa.
+
+O modelo de EVA tem caído bastante em provas de finanças nos últimos anos. A teoria é extremamente
+complexa (reservo apenas para concursos do BACEN, CVM, STN etc.), mas os princípios são simples. Vamos
+tratar aqui essencialmente do necessário para compreender os modelos de questões envolvendo EVA que
+vimos nas provas de Administração Financeira e de Análise de Demonstrações Financeiras de nível
+básico/intermediário.
+
+Economic Value Added ou Valor Econômico Adicionado é um indicador que busca estimar o quanto de
+VALOR foi adicionado durante a produção de bens e serviços, ALÉM do retorno econômico básico.
+
+Ele é bastante usado, pois os cálculos contábeis de Lucro Líquido não levam em consideração os custos de
+capital e custo de oportunidade.
+
+
+
+
+Se investimos R$ 1 milhão em uma fábrica, e após 1 ano de uso, ela deu um lucro líquido de R$ 100 mil.
+
+Do ponto de vista contábil tivemos lucro e adicionamos valor ao acionista, pois ele tinha um patrimônio de
+R$ 1 milhão e adicionou a este patrimônio R$ 100 mil (que pode ser distribuído como dividendo OU
+acumulado em reservas de lucro no Patrimônio Líquido).
+
+                                                                                                         41
+Mas e se o uso alternativo desse R$ 1 milhão fosse, por exemplo, ser aplicado em um fundo de renda
+fixa com retorno de R$ 120 mil por ano?
+
+O acionista PERDERIA dinheiro, destruiria valor, pois a opção por comprar a fábrica não cobriu o custo de
+oportunidade do seu investimento.
+
+A fórmula básica do Valor Econômico Agregado é:
+
+                   𝐸𝑉𝐴 = 𝑁𝑂𝑃𝐴𝑇 − (𝐶𝑢𝑠𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 × 𝐼𝑛𝑣𝑒𝑠𝑡𝑖𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙)
+
+        NOPAT – Net Operational Profit After Taxes ou Lucro Operacional Líquido Após impostos.
+
+A lógica é simples, para haver valor adicionado para o ACIONISTA, é preciso que o lucro operacional após o
+IR seja maior do que o retorno que obteria se aplicasse o capital em outro investimento alternativo
+(remunerado ao custo de oportunidade).
+
+Na “vida real” de finanças não é tão simples assim deduzir o custo de capital e o investimento de capital. O
+NOPAT é mais simples, pois bastaria pegar o Lucro Operacional e retirar o IR pago.
+
+Quanto ao custo de capital, veremos adiante, costuma ser usado o WACC, custo médio ponderado de
+capital, por ser considerado o RETORNO MÍNIMO exigido por aquela estrutura de capital (parte de
+acionistas, parte de credores).
+
+
+
+
+        Não se assuste com a nomenclatura lançada. As pessoas sem base em Finanças não estão
+        acostumadas com WACC, ROI, Taxa mínima etc, porém nosso foco aqui é na mecânica dos
+        exercícios, que é simples, apenas uso de fórmula e compreensão básica dos conceitos.
+
+Já o investimento de capital pode ser o ativo operacional (total ou médio), nesse caso será necessário retirar
+os itens não operacionais do Ativo (normalmente caixa e aplicações, que são financeiros).
+
+Uma outra forma de ver o EVA é utilizando o ROI (Return on Investments), que pode ser definido de várias
+formas, mas para o EVA o mais comum é que seja definido como o Lucro Operacional Após IR (não é o lucro
+líquido, pois não deve levar em consideração o resultado financeiro) dividido pelo investimento operacional
+total (normalmente ativo ou ativo médio).
+
+Para saber o EVA, quando temos ou calculamos o WACC e o ROI, basta a seguinte fórmula:
+
+                                                                                                           42
+                          𝐸𝑉𝐴 = (𝑅𝑂𝐼% − 𝑊𝐴𝐶𝐶%) × 𝐴𝑡𝑖𝑣𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+Que, basicamente, quer dizer que a operação gerou MAIS retorno sobre os investimentos do que o custo de
+capital exigiria, por isso houve valor adicionado.
+
+
+
+
+As informações abaixo foram extraídas das demonstrações financeiras de uma empresa.
+
+                   Caixa = R$ 5.000,00
+                   Contas a receber = R$ 20.000,00
+                   Contas a pagar = R$ 12.000,00
+                   Custo do capital investido = R$ 40.000,00
+                   Depreciação = R$ 10.000,00 por período
+                   Estoques = R$ 5.000,00
+                   Lucro operacional líquido = R$ 200.000,00
+                   Lucro bruto = R$ 240.000,00
+
+Considerando-se os valores acima, qual foi o Valor Econômico Agregado (EVA), em reais.
+
+Como o enunciado já nos dá NOPAT (lucro operacional líquido – R$ 200.000) e o custo em R$ do capital
+investido (R$ 40.000), é simples calcular o EVA:
+
+              𝐸𝑉𝐴 = 𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐴𝑃Ó𝑆 𝑜 𝐼𝑅 − (𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐼𝑛𝑣.× 𝐶𝑢𝑠𝑡𝑜 𝑑𝑒 𝑂𝑝𝑜𝑟𝑡. )
+
+                                 𝐸𝑉𝐴 = 200.000 − 40.000 = 160.000
+
+
+
+
+                                                                                                    43
+                                           FÓRMULAS
+Índice de endividamento                    𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                                   𝐼𝐸𝐺 =
+          geral                                              𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+     Composição do                                       𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                                     𝐶𝐸 =
+     Endividamento                         𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+     Imobilização do                  𝐴𝑡𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝐴𝑡𝑖𝑣𝑜 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜
+                               𝐼𝑃𝐿 =
+   Patrimônio Líquido                                    𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+ Capital de Giro Líquido                𝐶𝐺𝐿 = 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+   Índice de Liquidez                             𝐶𝑎𝑖𝑥𝑎 𝑜𝑢 𝐸𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒𝑠 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+                                            𝐼𝐿𝐼 =
+        Imediata                                         𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+   Índice de Liquidez                                     𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                                                  𝐼𝐿𝐶 =
+        Corrente                                         𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+Índice de Liquidez Seca                             𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝐸𝑠𝑡𝑜𝑞𝑢𝑒𝑠
+                                              𝐼𝐿𝑆 =
+                                                         𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+Índice de Liquidez Geral                𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝐴𝑡𝑖𝑣𝑜 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜
+                                  𝐼𝐿𝐺 =
+                                                       𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+    Retorno sobre o                                         𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                               𝑅𝑂𝐸 =
+   Patrimônio Líquido                                𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝑀é𝑑𝑖𝑜
+  Retorno sobre o ativo                                     𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                                  𝑅𝑂𝐴 =
+                                                          𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 𝑀é𝑑𝑖𝑜
+      Giro do Ativo                                      𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+                                        𝐺𝑖𝑟𝑜 𝑑𝑜 𝑎𝑡𝑖𝑣𝑜 =
+                                                              𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 𝑀é𝑑𝑖𝑜
+Giro do Contas a Receber                                𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+                                         𝐺𝑖𝑟𝑜 𝑑𝑜 𝐶𝑅 =
+                                                          𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟 𝑀é𝑑𝑖𝑜
+     Margem Bruta                                           𝐿𝑢𝑐𝑟𝑜 𝐵𝑟𝑢𝑡𝑜
+                                             𝑀𝐵 =
+                                                    𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+  Margem Operacional                                     𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+                                             𝑀𝑂 =
+                                                    𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+    Margem Líquida                                         𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                              𝑀𝐿 =
+                                                    𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+ Índice de Cobertura de                                           𝐸𝐵𝐼𝑇 𝑜𝑢 𝐸𝐵𝐼𝑇𝐷𝐴
+                                          𝐶𝑜𝑏𝑒𝑟𝑡𝑢𝑟𝑎 𝑑𝑒 𝐽𝑢𝑟𝑜𝑠 =
+          Juros                                                  𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝐽𝑢𝑟𝑜𝑠
+     Prazo Médio de                                         𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+                           𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑅𝑒𝑐𝑒𝑏𝑖𝑚𝑒𝑛𝑡𝑜 =
+      Recebimento                                                    𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑅𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠
+  Giro das Obrigações /                                   𝐶𝑢𝑠𝑡𝑜𝑠 𝑑𝑎 𝑀𝑒𝑟𝑐 𝑉𝑒𝑛𝑑𝑖𝑑𝑎 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                                (𝑔𝑖𝑟𝑜 𝑑𝑎𝑠 𝑜𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠) =
+ turnover fornecedores                                     𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑝𝑎𝑔𝑎𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+     Prazo Médio de                                        𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+                           𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑃𝑎𝑔𝑎𝑚𝑒𝑛𝑡𝑜 =
+       Pagamento                                                    𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑂𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠
+
+
+                                                                                                   44
+    Giro do Estoque                                 𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                                (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =
+                                                           𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+Prazo Médio no Estoque                                    𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+                             𝑃𝑒𝑟í𝑜𝑑𝑜 𝑀é𝑑𝑖𝑜 𝑛𝑜 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 =
+                                                                        𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟
+  Grau de Alavancagem                            𝑉𝑎𝑟𝑖𝑎çã𝑜 % 𝑑𝑜 𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+                                         𝐺𝐴𝑂 =
+     Operacional GAO                                  𝑉𝑎𝑟𝑖𝑎çã𝑜 % 𝑑𝑎 𝑅𝑒𝑐𝑒𝑖𝑡𝑎
+  Grau de Alavancagem                       𝑀𝑎𝑟𝑔𝑒𝑚 𝑑𝑒 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜 (𝑝𝑎𝑡𝑎𝑚𝑎𝑟 𝑖𝑛𝑖𝑐𝑖𝑎𝑙)
+                                    𝐺𝐴𝑂 =
+     Operacional GAO                       𝐿𝑎𝑗𝑖𝑟 𝑜𝑢 𝑙𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 (𝑝𝑎𝑡𝑎𝑚𝑎𝑟 𝑖𝑛𝑖𝑐𝑖𝑎𝑙)
+  Grau de Alavancagem                                        𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠
+                                               𝐺𝐴𝑂 = 1 +
+     Operacional GAO                                      𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+  Grau de Alavancagem                                                         𝑅𝑂𝐸
+                                         𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐹𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =
+      Financeira GAF                                                          𝑅𝑂𝐴
+  Grau de Alavancagem                                𝑉𝑎𝑟𝑖𝑎çã𝑜 𝑛𝑜 𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                          𝐺𝐴𝐹 =
+      Financeira GAF                              𝑉𝑎𝑟𝑖𝑎çã𝑜 𝑛𝑜 𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+  Grau de Alavancagem                                   𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+                                      𝐺𝐴𝐹 =
+      Financeira GAF                         𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠
+  Grau de Alavancagem                                𝐺𝐴𝐶 = 𝐺𝐴𝐹 × 𝐺𝐴𝐶
+     Combinada GAC
+  Grau de Alavancagem                            𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 + 𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠
+                                      𝐺𝐴𝐶 =
+     Combinada GAC                             𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠
+  Grau de Alavancagem                                  𝑀𝑎𝑟𝑔𝑒𝑚 𝑑𝑒 𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜
+                                               𝐺𝐴𝐶 =
+     Combinada GAC                                           𝑀𝑎𝑟𝑔𝑒𝑚 𝐿í𝑞𝑢𝑖𝑑𝑎
+Índice de Payout ou % de                         𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑜 𝐷𝑖𝑠𝑡𝑟𝑖𝑏𝑢í𝑑𝑜 𝑜𝑢 𝐷𝑒𝑐𝑙𝑎𝑟𝑎𝑑𝑜 𝑛𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜
+                             Í𝑛𝑑𝑖𝑐𝑒 𝑑𝑒 𝑃𝑎𝑦𝑜𝑢𝑡 =
+distribuição de dividendos                              𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝐴𝑗𝑢𝑠𝑡𝑎𝑑𝑜 𝑑𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜
+Dividend Yield ou Retorno            𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑜 𝐷𝑖𝑠𝑡𝑟𝑖𝑏𝑢í𝑑𝑜 𝑜𝑢 𝐷𝑒𝑐𝑙𝑎𝑟𝑎𝑑𝑜 𝑛𝑜 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑝𝑜𝑟 𝐴çã𝑜
+                               𝐷𝑌 =
+      com Dividendos                             𝑉𝑎𝑙𝑜𝑟 𝑃𝑎𝑔𝑜 𝑝𝑒𝑙𝑎 𝐴çã𝑜 𝑑𝑎 𝐸𝑚𝑝𝑟𝑒𝑠𝑎
+            EVA                         𝐸𝑉𝐴 = (𝑅𝑂𝐼% − 𝑊𝐴𝐶𝐶%) × 𝐴𝑡𝑖𝑣𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+            EVA                𝐸𝑉𝐴 = 𝑁𝑂𝑃𝐴𝑇 − (𝐶𝑢𝑠𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 × 𝐼𝑛𝑣𝑒𝑠𝑡𝑖𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙)
+          NOPAT                          Lucro Operacional Líquido RETIRANDO os impostos
+ Margem de Contribuição           𝑀𝐶 = 𝑃𝑟𝑒ç𝑜 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜 𝑑𝑒 𝑉𝑒𝑛𝑑𝑎 − 𝐶𝑢𝑠𝑡𝑜 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙 𝑢𝑛𝑖𝑡á𝑟𝑖𝑜
+
+
+
+
+                                                                                                 45
+                                     LISTA DE QUESTÕES
+
+
+
+
+        Alguns alunos podem preferir ir diretamente para a aula de questões apenas da banca do
+        concurso (em casos de pós-edital ou quando disponível). Se não houver tempo para
+        estudar, é uma boa estratégia, porém é ALTAMENTE recomendável tentar fazer essas
+        questões, pois procurei abranger todas as formas de cobrar a matéria.
+
+        Infelizmente, para matérias da área financeira, algumas bancas ainda têm poucos
+        exercícios, ou muito repetitivos.
+
+As questões aqui colocadas não estão associadas diretamente à banca do concurso, foram escolhidas para
+cobrirem os principais modelos e as principais formas de trabalhar os temas.
+
+Normalmente fazemos aulas extras específicas sobre as questões de determinada banca, se necessário.
+
+Seguem os enunciados sem resolução. No capítulo seguinte os resultados com os comentários.
+
+
+
+1) 2022 / Banca: CESPE / SECONT-ES
+
+Os dados a seguir foram extraídos da contabilidade de determinada entidade.
+
+
+
+
+                                                                                                      46
+A partir dessas informações, e considerando que X0 seja o ano mais antigo e X1, o mais recente, julgue o
+item seguinte.
+
+O indicador de endividamento geral da entidade cresceu mais de 7% no período em análise.
+
+Alternativas
+
+        Certo
+        Errado
+
+
+
+
+2) 2022 / Banca: Avança SP / Câmara Municipal de Sorocaba - Analista Orçamentário e Financeiro
+
+O giro do ativo indica:
+
+A.       o retorno da empresa com o nível de investimentos.
+B.       a o retorno obtido sobre o Capital Próprio.
+C.       a comparação do lucro obtido com o volume de vendas do período.
+D.       a valorização do lucro do acionista sobre o investimento.
+E.       quanto a empresa vendeu para cada $1,00 de investimento total.
+
+
+
+
+3) 2022 / Banca: FGV / CGU - Auditor Federal de Finanças e Controle
+
+
+
+
+                                                                                                     47
+Duas sociedades empresárias Y e Z divulgaram seus relatórios contábeis de 31/12/2021 e neles podem ser
+calculados os respectivos índices de liquidez corrente (ILC). A sociedade empresária Y apresentou ILC igual
+ao da sociedade empresária Z.
+
+Dessa maneira, é correto afirmar que ambas possuem o(a) mesmo(a):
+
+A.     índice de liquidez seca;
+B.     índice de liquidez imediata;
+C.     índice de liquidez geral;
+D.     proporção entre ativo circulante e passivo circulante;
+E.     necessidade de capital de giro operacional líquido.
+
+
+
+
+4) 2021 / Banca: FUNDATEC / FUNDATEC - 2021 - Prefeitura de Ivoti - RS – Contador
+
+Os índices de rentabilidade apresentam a relação dos resultados alcançados pela empresa, com valores que
+expressam a dimensão relativa do mesmo, ou seja, o valor das vendas, o ativo total, o patrimônio líquido ou
+o ativo operacional. Nesse sentido, assinale a alternativa que completa a citação a seguir: “O índice
+____________________________ é a representação da percentagem de cada unidade monetária que
+restou, depois da empresa ter pago seus produtos, as demais despesas e os impostos” (BRUNI, 2014).
+
+Assinale a alternativa que preenche corretamente a lacuna do trecho acima.
+
+A.     margem líquida
+B.     índice de rentabilidade do patrimônio líquido
+C.     margem de contribuição
+D.     margem bruta
+E.     giro do ativo
+
+
+
+
+5) 2022 / Banca: CESPE / CEBRASPE / Telebras - Especialista em Gestão de Telecomunicações – Contador
+
+
+
+
+ACC – Ativo Circulante Cíclico / ACF – Ativo Circulante Financeiro / ANC – Ativo Não Circulante / PCC –
+Passivo Circulante Cíclico / PCF – Passivo Circulante Financeiro / PNC – Passivo Não Circulante / PL –
+Patrimônio Líquido
+
+OBS: O ANC é todo representado por direitos a receber a longo prazo.
+
+
+                                                                                                        48
+Considerando as informações apresentadas, julgue o item subsequente.
+
+No período, verificou-se ligeira queda na utilização de fontes onerosas de recursos para financiamento dos
+ativos.
+
+        Certo
+        Errado
+
+
+
+
+6) 2021 / Banca: CESPE / CEBRASPE / AL-CE - Analista Legislativo - Ciências Contábeis
+
+O evento que provoca o aumento do giro dos estoques de uma empresa comercial é:
+
+A.       o aumento da participação de itens obsoletos no estoque.
+B.       a redução dos prazos médios de recebimento das vendas efetuadas a prazo.
+C.       a elevação dos níveis de estoques mantidos pela empresa.
+D.       a redução da participação das vendas a prazo nas vendas totais da empresa.
+E.       o aumento da quantidade de mercadorias vendidas.
+
+
+
+
+7) 2021 / Banca: CESPE / CEBRASPE / AL-CE - Analista Legislativo - Publicidade e Propaganda
+
+O fato de uma empresa apresentar um índice de endividamento de 70% indica que:
+
+A.       o grau de endividamento da empresa é baixo.
+B.       a empresa possui boa rentabilidade.
+C.       a empresa está excessivamente imobilizada.
+D.       a participação dos recursos próprios nos investimentos da empresa é de 70%.
+E.       a participação do capital próprio nos investimentos da empresa é de 30%.
+
+
+
+
+8) 2022 / Banca: FUNDATEC / IPE Saúde - Analista de Gestão em Saúde - Contabilidade
+
+Uma das formas dos usuários das demonstrações contábeis obterem informações sobre os demonstrativos
+contábeis corresponde à análise das demonstrações financeiras e econômicas por meio de índices. Dentre
+os índices, existem os grupos básicos assim denominados: liquidez, endividamento, e, rentabilidade. Em
+relação aos índices de liquidez, analise as assertivas a seguir e assinale a alternativa correta.
+
+         I. O índice de liquidez imediata avalia o resultado da divisão do disponível (caixa e equivalentes) pelo
+         passivo circulante.
+
+         II. O índice de liquidez geral considera apenas ativos e passivos de curto prazo na fórmula para
+         obtenção do índice.
+
+
+                                                                                                              49
+        III. O índice de liquidez seca analisa a capacidade de pagamento das dívidas de curto prazo
+        considerando os ativos circulantes menos os estoques.
+
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas I e II estão corretas.
+D. Apenas I e III estão corretas.
+E. Apenas II e III estão corretas.
+
+
+
+
+9) 2022 / Banca: Quadrix / CRF-GO - Contador
+
+As seguintes informações foram extraídas das demonstrações financeiras da Cia Hassium, em 31/12/2020
+(em R$).
+
+
+
+
+Sabendo que, nesse caso hipotético, a empresa apresentou um lucro líquido de R$ 1.250,00 no mesmo
+exercício, julgue o item.
+
+O índice de endividamento geral da empresa ao final de 2020 era de 0,60, o que evidencia que seu
+patrimônio líquido era positivo nessa data.
+
+       Certo
+       Errado
+
+
+
+
+10) 2022 / Banca: Quadrix / CRF-GO - Contador
+
+As seguintes informações foram extraídas das demonstrações financeiras da Cia Hassium, em 31/12/2020
+(em R$).
+
+
+
+
+                                                                                                 50
+Sabendo que, nesse caso hipotético, a empresa apresentou um lucro líquido de R$ 1.250,00 no mesmo
+exercício, julgue o item.
+
+O retorno sobre o capital próprio no exercício ficou abaixo de 20%.
+
+      Certo
+      Errado
+
+
+
+11) 2022 / Banca: Quadrix / CRF-GO - Contador
+
+As seguintes informações foram extraídas das demonstrações financeiras da Cia Hassium, em 31/12/2020
+(em R$).
+
+
+
+
+Sabendo que, nesse caso hipotético, a empresa apresentou um lucro líquido de R$ 1.250,00 no mesmo
+exercício, julgue o item.
+
+Ao final do exercício de 2020, o índice de liquidez corrente da empresa era de 1,59, o que significa que ela
+dispunha de recursos correntes em quantidade suficiente para liquidar todas as suas obrigações vencíveis
+no exercício seguinte e ainda dispor de uma sobra.
+
+      Certo
+      Errado
+
+
+
+
+12) 2021 / Banca: FUNDATEC / PGE-RS - Analista Contador
+
+                                                                                                         51
+Comparando-se as demonstrações contábeis de dois exercícios e os respectivos índices de rentabilidade dos
+capitais próprios, chegou-se à conclusão de que o índice do segundo ano foi menor que o do primeiro. Entre
+os eventos relacionados a seguir, qual deles pode ter contribuído para tal redução?
+
+A.     A aquisição, à vista, de ações de outra companhia.
+B.     A compra, a prazo, de bens para o ativo imobilizado.
+C.     A quitação de empréstimo de curto prazo.
+D.     A realização (integralização) de capital em dinheiro.
+E.     A reclassificação de dívida de longo para curto prazo.
+
+
+
+
+13) 2021 / Banca: Instituto Consulplan / TJM-MG - Analista Judiciário - Contador
+
+Considere hipoteticamente que certa entidade contábil possui conta vinculada a uma instituição financeira,
+que estipulou como seu limite de crédito o valor de 300% do Capital de Giro Líquido. E os dados contábeis
+disponíveis estão no demonstrativo a seguir.
+
+
+
+
+Com base nos dados apresentados, a referida organização pode contar com um limite de crédito no valor
+igual a
+
+A.     R$ 1.500.
+B.     R$ 1.800.
+C.     R$ 3.500.
+D.     R$ 4.500.
+E.     R$ 5.000.
+
+
+
+                                                                                                       52
+14) 2021 / Banca: IADES / CAU - MS - Contador
+
+O Return on Equity (ROE) é um indicador de avaliação de desempenho dos mais observados pelos analistas
+internos ou externos da organização, pois ele mede o grau de eficiência da gestão, evidenciando o
+rendimento do empresário para determinado período e, portanto, serve de parâmetro para qualificação da
+rentabilidade como boa ou ruim. Se uma empresa projeta um lucro de R$ 5 milhões, com um índice
+dívida/PL de 0,65 e um Return on Assets (ROA) de 12,0%, então significa que seus proprietários podem
+esperar por uma taxa de retorno sobre o patrimônio líquido (TRPL) igual a
+
+A.     7,8%.
+B.     12,0%.
+C.     15,0%.
+D.     19,8%.
+E.     24,0%.
+
+
+
+
+        Questões gerais mais antigas e de bancas variadas (tipos diferentes de questões)
+
+
+
+
+15) ESAF - Analista Técnico da SUSEP/Controle e Fiscalização - Atuária/2006
+
+A empresa Orizonina Metais S/A elaborou seu balanço com os seguintes dados contábeis, referentes ao
+exercício de 2005, cujos valores são aqui apresentados ao lado dos saldos anteriores:
+
+
+
+
+Finalizada sua elaboração, as demonstrações financeiras foram submetidas ao processo de análise contábil
+possibilitando de sua leitura a conclusão de que:
+
+
+                                                                                                     53
+a) a liquidez geral da empresa demonstra capacidade de pagamento de 71% das dívidas já assumidas.
+b) a liquidez corrente não alcança a cobertura de metade das dívidas de curto prazo.
+c) a rentabilidade líquida alcançada no período foi, exatamente, um terço da rentabilidade bruta.
+d) o capital de giro líquido, em 31 de dezembro, é positivo em 29% das obrigações a pagar, no exercício
+seguinte ao balanço.
+e) o grau de imobilização do capital alcança 70% do patrimônio bruto.
+
+
+
+16) CESPE - Perito Criminal Federal/Área 1/1997
+
+A análise de balanços pode ser vista como a arte de saber extrair relações úteis, para o objetivo econômico
+que se pretenda, dos relatórios contábeis tradicionais e de suas extensões e detalhamentos, se for o caso.
+Há autores que consideram a análise de balanços uma arte, pois, embora existam alguns cálculos
+razoavelmente formalizados, não existe forma científica ou metodologicamente comprovada de relacionar
+os índices de maneira a obter um diagnóstico preciso. Ou, melhor dizendo, cada analista poderia, com o
+mesmo conjunto de informações e de quocientes, chegar a conclusões ligeira ou completamente
+diferenciadas. É provável, todavia que dois analistas experimentados, conhecendo igualmente bem o ramo
+de atividade da empresa, cheguem a conclusões bastante parecidas (mas nunca idênticas) sobre a situação
+atual da empresa, embora quase sempre apontem tendências diferentes, pelo menos em grau, para o
+empreendimento. Os problemas começam a surgir da sintetização das várias informações dispersas, pois,
+em pontos ou em quocientes isolados, é mais fácil haver certeza de conclusão ou opinião técnica. Acerca de
+tal assunto, julgue o item que se segue.
+
+A elevada rentabilidade de uma empresa combinada com o aumento da sua situação líquida circulante,
+pode explicar uma boa situação econômica e uma situação financeira ruim.
+
+      Certo
+      Errado
+
+
+
+
+17) CESPE - Analista Judiciário (TRE RJ) /Administrativa/ Contabilidade/2012
+
+A elaboração de indicadores tem por finalidade avaliar o desempenho de determinada entidade a partir de
+diferentes critérios. Em relação a essa matéria, julgue o item subsequente.
+
+Se determinada empresa realizou um empréstimo para a construção de uma nova sede corporativa, seu
+indicador de giro operacional não será diretamente influenciado pela referida operação.
+
+      Certo
+      Errado
+
+
+
+                                                                                                        54
+18) CEPERJ - Analista de Controle Interno (SEFAZ RJ)/2012/
+
+Foram obtidas as seguintes informações de uma determinada empresa:
+
+                             Grupos de Contas 01.01.2011 31.12.2011
+                             Ativo Circulante   R$ 7.000 R$ 15.850
+                             Passivo Circulante R$ 3.800 R$ 8.200
+
+
+
+
+Com esses dados, pode-se afirmar que o Capital Circulante Líquido apresentou a seguinte variação:
+
+a) negativa no montante de R$ 4.450.
+b) positiva no montante de R$ 3.200
+c) positiva no montante de R$ 4.450
+d) negativa no montante de R$ 7.650
+e) negativa no montante de R$ 8.850
+
+
+
+
+19) FCC - Analista Judiciário (TRT 6ª Região)/Administrativa/Contabilidade/2012/
+
+A partir da análise das demonstrações financeiras da empresa AGA, obteve-se os seguintes indicadores:
+Grau de Endividamento (participação de capitais de terceiros em relação ao capital próprio) 200%;
+Composição do Endividamento 40%, Liquidez Corrente 1,6 e Liquidez Geral 1,0. Sabendo que o Ativo Total
+era R$ 375.000,00, o seu Ativo Circulante era, em reais,
+
+a) 240.000.
+b) 160.000.
+c) 150.000.
+d) 125.000.
+e) 100.000.
+
+
+
+
+20) FCC - Técnico Judiciário (TRF 4ª Região)/Apoio Especializado/Contabilidade/2014/
+
+Com base no Balanço Patrimonial de 31/12/2013 de uma empresa, foram obtidas as seguintes informações:
+
+− Índice de liquidez corrente = 2,0.
+
+− Grau de concentração da dívida no curto prazo = 60%.
+
+                                                                                                    55
+− Passivo Não Circulante = R$ 120.000,00.
+
+− Ativo Não Circulante = R$ 174.000,00.
+
+Sabendo-se que o Patrimônio Líquido da empresa, em 31/12/2012, era R$ 200.000,00, que não houve
+aumento de Capital nem distribuição de dividendos durante o ano de 2013, e que ainda não foi realizada a
+distribuição do resultado obtido em 2013, o Resultado Líquido obtido pela empresa em 2013, foi, em reais,
+
+a) 34.000,00 (Lucro).
+b) 32.300,00 (Lucro).
+c) 24.225,00 (Lucro).
+d) 46.000,00 (Prejuízo).
+e) 46.000,00 (Lucro).
+
+
+
+
+21) CESGRANRIO - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2011
+
+Uma empresa vende produtos sob encomenda, com prazo médio de recebimento de 60 dias após a entrega
+na fábrica do comprador. A empresa paga a seus fornecedores com prazo médio de 30 dias após receber a
+matéria prima. Em consequência, sua necessidade de capital de giro é elevada.
+
+Para reduzi-la, a empresa poderia adotar várias providências, entre as quais NÃO se inclui a diminuição do(s)
+
+a) endividamento de longo prazo na sua estrutura de capital
+b) prazo médio de estocagem de matérias-primas
+c) prazo médio de processamento das matérias-primas na fabricação dos produtos
+d) tempo médio de transporte dos produtos até o comprador
+e) adiantamentos pagos a alguns de seus fornecedores
+
+
+
+
+22) VUNESP - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2001
+
+Dados extraídos do Balanço Patrimonial da Cia. Transamérica em 31.12.X0:
+
+                                  ATIVO CIRCULANTE      R$
+                                 Disponível          30.000,00
+                                 Clientes           250.000,00
+                                 Estoques           180.000,00
+                                 PASSIVO CIRCULANTE     R$
+                                 Fornecedores       150.000,00
+                                 Impostos a Pagar    40.000,00
+
+
+                                                                                                          56
+                                  Salários a Pagar                   60.000,00
+                                  Empréstimos Bancários              90.000,00
+
+Com base nessas informações, o Investimento Operacional em Giro (IOG) da companhia é, em R$
+
+a) nulo.
+b) 90.000,00.
+c) 180.000,00.
+d) 210.000,00.
+e) 250.000,00.
+
+
+
+
+23) FCC - Analista Judiciário (TRT 4ª Região)/Apoio Especializado/Economia/2006/
+
+Considere os seguintes dados extraídos do Balanço Patrimonial da Cia. ABC (em R$):
+
+                                      Ativo Circulante
+                                                                                        12.000,00
+                   Disponível ........................................................
+                                                                                        27.000,00
+                   Aplicações Financeiras ....................................
+                                                                                       125.000,00
+                   Duplicatas a Receber .......................................
+                                                                                        87.000,00
+                   Estoques ........................................................
+                                                                                        38.000,00
+                   Impostos a Recuperar ......................................
+                                     Passivo Circulante
+                                                                                     97.000,00
+                    Fornecedores ...................................................
+                                                                                     36.000,00
+                    Salários a Pagar...............................................
+                                                                                      4.000,00
+                    Dividendos a Pagar ..........................................
+                                                                                     68.000,00
+                    Empréstimos bancários....................................
+                                                                                     55.000,00
+                    Impostos a Recolher ........................................
+
+A Necessidade Líquida de Capital de Giro (ou Necessidade de Investimento em Giro) da companhia monta
+(em R$) a
+
+a) 74.000,00
+b) 62.000,00
+c) 56.000,00
+d) 38.000,00
+e) 30.000,00 negativos
+
+
+
+
+24) FUNRIO - Analista Técnico-Administrativo (MJ)/2009/
+
+
+
+                                                                                                    57
+Uma empresa apresenta, em seu balanço patrimonial, ativo circulante de $ 32.000, dos quais $ 17.000 são
+ativos operacionais. Seu passivo circulante é de $ 30.000, dos quais $ 14.000 são passivos financeiros. Em
+relação a essa empresa, pode-se afirmar que
+
+a) seu capital circulante líquido é de $ 5.000.
+b) sua necessidade de capital de giro é de $ 1.000.
+c) sua necessidade de capital de giro é de $ 3.000.
+d) seu capital de giro próprio é de $ 15.000.
+e) seu capital circulante líquido e necessidade de capital de giro são de $ 2.000.
+
+
+
+
+25) FUNDATEC - Auditor do Estado (CAGE RS)/2014/
+
+Dentro da Teoria de Análise Dinâmica de Capital de Giro, podemos definir a Necessidade de Capital de Giro
+(NCG) a partir da seguinte fórmula:
+
+a) Clientes + Estoques – Adiantamento a Fornecedores
+b) Clientes + Adiantamentos de Clientes – Fornecedores
+c) Clientes + Estoques – Fornecedores
+d) Clientes + Adiantamentos de Fornecedores + Fornecedores
+e) Clientes – Estoques + Fornecedores
+
+
+
+
+26) FGV - Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015/
+
+Uma empresa possui necessidade de capital de giro negativa quando:
+
+a) o saldo em valores monetários de fornecedores é menor que o de clientes;
+b) os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente caixa;
+c) o fluxo de caixa operacional é inferior ao financeiro;
+d) o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de fornecedores;
+e) as aplicações de recursos são superiores às origens de recursos.
+
+É fácil perceber que se recebermos no tempo de estocagem (que vai até a venda) somado ao tempo até receber
+(após a venda) e isso for MENOR que o prazo de pagamento a fornecedores, nós teremos CAIXA ANTES de ter
+que pagar o fornecedor, portanto teríamos necessidade de capital de giro negativa. Item D.
+
+
+
+
+27) 2021 / Banca: CESPE / CEBRASPE / TC-DF - Auditor Conselheiro Substituto
+
+Com relação aos indicadores de mercado utilizados por investidores para avaliação de empresas nas quais
+pretendem investir os seus recursos, julgue o item a seguir.
+
+                                                                                                       58
+Quanto maior for o índice preço/lucro de uma empresa, menor será o período de tempo despendido por um
+investidor para recuperar o capital nela investido.
+
+        Certo
+        Errado
+
+
+
+
+28) 2022 / Banca: FGV / CGU - Auditor Federal de Finanças e Controle
+
+Uma sociedade empresária apresentou, a partir dos dados financeiros divulgados referentes ao ano de 2021,
+um Economic Value Added (EVA) negativo.
+
+Sendo assim, é correto afirmar que neste mesmo ano ela apresentou:
+
+A.       despesas superiores a receitas na DRE;
+B.       EBIT negativo;
+C.       EBIT positivo;
+D.       EBITDA negativo;
+E.       custo do capital superior ao NOPAT.
+
+
+
+
+29) 2021 / Banca: CESPE / CEBRASPE / TC-DF - Auditor Conselheiro Substituto
+
+Determinada empresa pretende vender uma unidade de negócio responsável pela área de fretes, que foi
+avaliada em R$ 15 milhões pela contabilidade. O lucro operacional anual da unidade é de R$ 2 milhões. O
+retorno sobre o investimento (ROI) corporativo está fixado em um padrão mínimo de 11%, e o custo de
+capital (oportunidade) identificado com a unidade de negócio responsável pela área de fretes atinge 17%.
+
+Considerando essa situação hipotética e aspectos relacionados à análise das demonstrações contábeis,
+julgue o item a seguir.
+
+Caso utilize o valor econômico agregado (EVA) como medida de análise para a tomada de decisão, a
+empresa deverá optar por não vender a unidade de fretes.
+
+        Certo
+        Errado
+
+
+
+
+30) 2021 / Banca: CESPE / CEBRASPE / TC-DF - Auditor Conselheiro Substituto
+
+Determinada empresa pretende vender uma unidade de negócio responsável pela área de fretes, que foi
+avaliada em R$ 15 milhões pela contabilidade. O lucro operacional anual da unidade é de R$ 2 milhões. O
+retorno sobre o investimento (ROI) corporativo está fixado em um padrão mínimo de 11%, e o custo de
+capital (oportunidade) identificado com a unidade de negócio responsável pela área de fretes atinge 17%.
+
+                                                                                                      59
+Considerando essa situação hipotética e aspectos relacionados à análise das demonstrações contábeis,
+julgue o item a seguir.
+
+Se a unidade de fretes tiver sido financiada com recursos de terceiros, então, atualmente, ela não gera um
+resultado operacional de caixa para cobertura de juros dos credores.
+
+      Certo
+      Errado
+
+
+
+
+                                                                                                       60
+                       QUESTÕES COMENTADAS COM GABARITO
+
+
+
+
+As respostas estão associadas ao número das questões do capítulo anterior, com comentários logo a seguir.
+Optamos por não negritar a resposta certa, pois há alunos que vem direto ao gabarito para estudar.
+
+
+
+
+1) 2022 / Banca: CESPE / SECONT-ES
+
+Os dados a seguir foram extraídos da contabilidade de determinada entidade.
+
+
+
+
+A partir dessas informações, e considerando que X0 seja o ano mais antigo e X1, o mais recente, julgue o
+item seguinte.
+
+O indicador de endividamento geral da entidade cresceu mais de 7% no período em análise.
+
+Alternativas
+
+      Certo
+      Errado
+                                                                                                      61
+Via de regra o mais importante a fazer quando estiver resolvendo questões de análise de balanços,
+alavancagem, gestão de caixa etc., é saber exatamente qual fórmula usar.
+
+Essa questão tem um erro no ano X1, pois o Passivo Circulante deveria ser 690 e não 590 (somatório de 310 com
+380). Vamos usar o 590, pois é o que fecha a conta com o passivo total (590 + 1.000 + 1.207)
+
+                                  𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                          𝐼𝐸𝐺 =
+                                                  𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+
+Ativo total Xo = Passivo Total X0 = 1.676
+
+Passivo exigível total Xo = 370 + 510 = 880
+
+                                                        800
+                                              𝐼𝐸𝐺0 =         = 52,5%
+                                                       1.676
+
+Ativo total X1 = Passivo Total X1 = 2.797
+
+Passivo exigível total X1 = 590 + 1.000 = 1.590
+
+                                                       1.590
+                                              𝐼𝐸𝐺0 =         = 56,8%
+                                                       2.797
+
+Diferença percentual
+
+                                                   56,8% − 52,5%
+                                   𝐷𝑖𝑓𝑒𝑟ê𝑛𝑐𝑖𝑎 =                  = 8,2%
+                                                       52,5%
+
+Resposta CERTA.
+
+
+
+
+2) 2022 / Banca: Avança SP / Câmara Municipal de Sorocaba - Analista Orçamentário e Financeiro
+
+O giro do ativo indica:
+
+A.     o retorno da empresa com o nível de investimentos.
+B.     a o retorno obtido sobre o Capital Próprio.
+C.     a comparação do lucro obtido com o volume de vendas do período.
+D.     a valorização do lucro do acionista sobre o investimento.
+E.     quanto a empresa vendeu para cada $1,00 de investimento total.
+
+                                                  𝑅𝑒𝑐𝑒𝑖𝑡𝑎 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐿í𝑞𝑢𝑖𝑑𝑎
+                              𝐺𝑖𝑟𝑜 𝑑𝑜 𝑎𝑡𝑖𝑣𝑜 =
+                                                       𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 𝑀é𝑑𝑖𝑜
+
+
+                                                                                                          62
+A) e B) errados, pois o GA não mede retorno.
+
+C) errado, pois não compara lucro
+
+D) errado, pois não compara retorno com o investimento do acionista (patrimônio líquido)
+
+E) correto, pois pega a receita (o quanto vendeu) e divide pelo ativo total (investimento total), se vendeu 10.000
+para um ativo de 5.000, o GA vai ser 2, ou seja, 2 reais vendidos para cada 1 real de ativo total. Resposta E.
+
+
+
+
+3) 2022 / Banca: FGV / CGU - Auditor Federal de Finanças e Controle
+
+Duas sociedades empresárias Y e Z divulgaram seus relatórios contábeis de 31/12/2021 e neles podem ser
+calculados os respectivos índices de liquidez corrente (ILC). A sociedade empresária Y apresentou ILC igual
+ao da sociedade empresária Z.
+
+Dessa maneira, é correto afirmar que ambas possuem o(a) mesmo(a):
+
+A.     índice de liquidez seca;
+B.     índice de liquidez imediata;
+C.     índice de liquidez geral;
+D.     proporção entre ativo circulante e passivo circulante;
+E.     necessidade de capital de giro operacional líquido.
+
+Neste item não vou avaliar uma a uma as opções, pois esse não é o método correto de ensinar a resolver uma
+questão desse tipo. Se está dizendo que o ILC é igual, a coisa mais importante a fazer é colocar a fórmula do ILC
+na nossa frente.
+
+                                                   𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                                          𝐼𝐿𝐶 =
+                                                  𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+Se as empresas têm ILC idêntico, evidentemente têm a mesma proporção entre ativo circulante e passivo
+circulante, pois essa é a definição do ILC. Resposta D
+
+
+
+
+4) 2021 / Banca: FUNDATEC / FUNDATEC - 2021 - Prefeitura de Ivoti - RS – Contador
+
+Os índices de rentabilidade apresentam a relação dos resultados alcançados pela empresa, com valores que
+expressam a dimensão relativa do mesmo, ou seja, o valor das vendas, o ativo total, o patrimônio líquido ou
+o ativo operacional. Nesse sentido, assinale a alternativa que completa a citação a seguir: “O índice
+____________________________ é a representação da percentagem de cada unidade monetária que
+restou, depois da empresa ter pago seus produtos, as demais despesas e os impostos” (BRUNI, 2014).
+
+Assinale a alternativa que preenche corretamente a lacuna do trecho acima.
+
+A.     margem líquida
+
+                                                                                                               63
+B.       índice de rentabilidade do patrimônio líquido
+C.       margem de contribuição
+D.       margem bruta
+E.       giro do ativo
+
+Aqui o importante é primeiro entender que estamos falando de índice de rentabilidade, o que já exclui o item E.
+
+Se estamos falando de unidade monetária que restou, estamos falando de comparações com a Receita Líquida,
+ou seja, de MARGEM. Logo item B está fora, pois compara lucro com patrimônio líquido.
+
+Das três margens que sobraram, a margem de contribuição é calculada após retirar os custos variáveis apenas,
+a margem bruta refere-se ao lucro bruto, retirando custos totais da mercadoria, inclusive fixos, mas AMBAS não
+tiram impostos e demais despesas.
+
+A única margem que trabalha com o lucro líquido, que retira todas as despesas e impostos, é a margem líquida.
+Resposta A
+
+
+
+
+5) 2022 / Banca: CESPE / CEBRASPE / Telebras - Especialista em Gestão de Telecomunicações – Contador
+
+
+
+
+ACC – Ativo Circulante Cíclico / ACF – Ativo Circulante Financeiro / ANC – Ativo Não Circulante / PCC –
+Passivo Circulante Cíclico / PCF – Passivo Circulante Financeiro / PNC – Passivo Não Circulante / PL –
+Patrimônio Líquido
+
+OBS: O ANC é todo representado por direitos a receber a longo prazo.
+
+Considerando as informações apresentadas, julgue o item subsequente.
+
+No período, verificou-se ligeira queda na utilização de fontes onerosas de recursos para financiamento dos
+ativos.
+
+        Certo
+        Errado
+
+Essa questão é importante para fazer uma distinção entre passivo cíclico/operacional e passivo oneroso. São
+coisas diferentes. O patrimônio líquido é também uma fonte de financiamento dos ativos, mas não é oneroso,
+a empresa só remunera o sócio se tiver lucro.
+
+
+
+
+                                                                                                            64
+As fontes onerosas são o PCF e o PNC. O PNC, pois normalmente financiamento de longo prazo não trata de
+questões operacionais, mas de investimento.
+
+É o tipo da questão que o aluno precisa ficar atento apenas ao fato de que o período mais recente está à
+ESQUERDA.
+
+Obviamente a soma do PCF + PNC do ÚLTIMO período será maior do que do penúltimo período (ambos são
+maiores). Resposta ERRADA.
+
+
+
+
+6) 2021 / Banca: CESPE / CEBRASPE / AL-CE - Analista Legislativo - Ciências Contábeis
+
+O evento que provoca o aumento do giro dos estoques de uma empresa comercial é:
+
+A.     o aumento da participação de itens obsoletos no estoque.
+B.     a redução dos prazos médios de recebimento das vendas efetuadas a prazo.
+C.     a elevação dos níveis de estoques mantidos pela empresa.
+D.     a redução da participação das vendas a prazo nas vendas totais da empresa.
+E.     o aumento da quantidade de mercadorias vendidas.
+
+                                             𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                     (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =
+                                                    𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+Para aumentar o giro de estoques temos 2 caminhos, aumentar o custo da mercadoria vendida total (que está
+relacionado a QUANTO vendemos), ou à redução do estoque médio.
+
+O item A não aumenta as vendas e tende a aumentar o prazo médio do estoque, pois item obsoleto não vende
+bem.
+
+B trata de recebimento, nada a ver com giro de estoques.
+
+C está errada, pois fala de aumentar os estoques, o que reduziria o giro.
+
+D está errada, pois fala de venda a prazo e isso só é relevante para o cálculo do contas a receber, para o CMV
+tanto faz se foi a prazo ou à vista.
+
+E está certa, pois se aumentarmos as vendas, aumentaremos os custos totais e o giro seria maior. Resposta E.
+
+
+
+
+7) 2021 / Banca: CESPE / CEBRASPE / AL-CE - Analista Legislativo - Publicidade e Propaganda
+
+O fato de uma empresa apresentar um índice de endividamento de 70% indica que:
+
+A.     o grau de endividamento da empresa é baixo.
+B.     a empresa possui boa rentabilidade.
+C.     a empresa está excessivamente imobilizada.
+                                                                                                           65
+D.     a participação dos recursos próprios nos investimentos da empresa é de 70%.
+E.     a participação do capital próprio nos investimentos da empresa é de 30%.
+
+Primeira coisa SEMPRE! Identificar a fórmula.
+
+                              𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                      𝐼𝐸𝐺 =                                               = 70%
+                                              𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+
+Isso significa que a participação de capital de terceiros é de 70%, portanto a de capital próprio é 30%. Item E
+correto.
+
+A está errada, pois não dá para afirmar que o endividamento é baixo com 70% de dívida.
+
+B está errada, pois não dá para afirmar nada sobre a rentabilidade.
+
+C está errada, pois nada sabemos sobre ativos imobilizados.
+
+D está errada, pois confunde capital próprio com de terceiros na fórmula.
+
+
+
+
+8) 2022 / Banca: FUNDATEC / IPE Saúde - Analista de Gestão em Saúde - Contabilidade
+
+Uma das formas dos usuários das demonstrações contábeis obterem informações sobre os demonstrativos
+contábeis corresponde à análise das demonstrações financeiras e econômicas por meio de índices. Dentre
+os índices, existem os grupos básicos assim denominados: liquidez, endividamento, e, rentabilidade. Em
+relação aos índices de liquidez, analise as assertivas a seguir e assinale a alternativa correta.
+
+       I. O índice de liquidez imediata avalia o resultado da divisão do disponível (caixa e equivalentes) pelo
+       passivo circulante.
+
+       II. O índice de liquidez geral considera apenas ativos e passivos de curto prazo na fórmula para
+       obtenção do índice.
+
+       III. O índice de liquidez seca analisa a capacidade de pagamento das dívidas de curto prazo
+       considerando os ativos circulantes menos os estoques.
+
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas I e II estão corretas.
+D. Apenas I e III estão corretas.
+E. Apenas II e III estão corretas.
+
+Deve-se iniciar colocando as fórmulas à vista.
+
+                                             𝐶𝑎𝑖𝑥𝑎 𝑜𝑢 𝐸𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒𝑠 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+                                     𝐼𝐿𝐼 =
+                                                   𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+
+                                                                                                            66
+                                              𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝐸𝑠𝑡𝑜𝑞𝑢𝑒𝑠
+                                      𝐼𝐿𝑆 =
+                                                  𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+                                𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝐴𝑡𝑖𝑣𝑜 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜
+                        𝐼𝐿𝐺 =
+                                              𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+
+Item I está correto, pois é a leitura da fórmula do ILI.
+
+Item II está errado, pois o ILG considera também itens de longo prazo.
+
+Item III está certo, pois o ILG tira os estoques do ativo circulante. Resposta D
+
+
+
+
+9) 2022 / Banca: Quadrix / CRF-GO - Contador
+
+As seguintes informações foram extraídas das demonstrações financeiras da Cia Hassium, em 31/12/2020
+(em R$).
+
+
+
+
+Sabendo que, nesse caso hipotético, a empresa apresentou um lucro líquido de R$ 1.250,00 no mesmo
+exercício, julgue o item.
+
+O índice de endividamento geral da empresa ao final de 2020 era de 0,60, o que evidencia que seu
+patrimônio líquido era positivo nessa data.
+
+       Certo
+       Errado
+
+                                   𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 + 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑁ã𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                           𝐼𝐸𝐺 =
+                                                   𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+
+Aqui o caso é saber o tamanho do ativo total e do passivo exigível.
+
+Ativo total é tudo o que representa aplicação dos recursos da empresa: circulante, investimentos, imobilizado e
+intangível.
+
+No caso, o ativo total seria 5.500 + 2.500 + 3.000 + 1.500 = 12.500
+
+
+                                                                                                            67
+Já o passivo exigível seria o circulante mais o não circulante = 3.450 +4.050 = 7.500
+
+                                                     7.500
+                                             𝐼𝐸𝐺 =          = 0,6
+                                                     12.500
+
+Resposta certa.
+
+
+
+
+10) 2022 / Banca: Quadrix / CRF-GO - Contador
+
+As seguintes informações foram extraídas das demonstrações financeiras da Cia Hassium, em 31/12/2020
+(em R$).
+
+
+
+
+Sabendo que, nesse caso hipotético, a empresa apresentou um lucro líquido de R$ 1.250,00 no mesmo
+exercício, julgue o item.
+
+O retorno sobre o capital próprio no exercício ficou abaixo de 20%.
+
+      Certo
+      Errado
+
+                                                   𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                     𝑅𝑂𝐸 =
+                                             𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝑀é𝑑𝑖𝑜
+
+Aqui falta calcular o patrimônio líquido, que será o Ativo Total (12.500) menos o Passivo exigível total (7.500) =
+5.000
+
+                                                     1.250
+                                             𝑅𝑂𝐸 =         = 25%
+                                                     5.000
+
+Resposta ERRADA.
+
+
+
+11) 2022 / Banca: Quadrix / CRF-GO - Contador
+
+
+
+
+                                                                                                               68
+As seguintes informações foram extraídas das demonstrações financeiras da Cia Hassium, em 31/12/2020
+(em R$).
+
+
+
+
+Sabendo que, nesse caso hipotético, a empresa apresentou um lucro líquido de R$ 1.250,00 no mesmo
+exercício, julgue o item.
+
+Ao final do exercício de 2020, o índice de liquidez corrente da empresa era de 1,59, o que significa que ela
+dispunha de recursos correntes em quantidade suficiente para liquidar todas as suas obrigações vencíveis
+no exercício seguinte e ainda dispor de uma sobra.
+
+        Certo
+        Errado
+
+                                                  𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                                         𝐼𝐿𝐶 =
+                                                 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+Aqui nem é necessário fazer a conta, apenas interpretar o ILC. Se o AC é maior que o PC, significa que as
+disponibilidades de curto prazo (recebíveis até o exercício seguinte) é maior do que os exigíveis de curto prazo
+(vencíveis até o exercício seguinte).
+
+
+
+
+12) 2021 / Banca: FUNDATEC / PGE-RS - Analista Contador
+
+Comparando-se as demonstrações contábeis de dois exercícios e os respectivos índices de rentabilidade dos
+capitais próprios, chegou-se à conclusão de que o índice do segundo ano foi menor que o do primeiro. Entre
+os eventos relacionados a seguir, qual deles pode ter contribuído para tal redução?
+
+A.       A aquisição, à vista, de ações de outra companhia.
+B.       A compra, a prazo, de bens para o ativo imobilizado.
+C.       A quitação de empréstimo de curto prazo.
+D.       A realização (integralização) de capital em dinheiro.
+E.       A reclassificação de dívida de longo para curto prazo.
+
+Vejamos a fórmula
+
+                                                   𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+                                     𝑅𝑂𝐸 =
+                                             𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝑀é𝑑𝑖𝑜
+
+                                                                                                             69
+O que pode fazer o índice ficar menor?
+
+A) a aquisição de ações de outra companhia altera apenas a composição do ativo.
+
+B) A compra a prazo de bens aumenta o passivo e o imobilizado.
+
+C) quitar empréstimo de curto prazo altera o caixa e o passivo circulante.
+
+D) a integralização de capital PODE reduzir o ROE, pois aumenta o patrimônio líquido. Resposta D.
+
+E, a reclassificação de dívida não muda nem o lucro e nem o patrimônio.
+
+
+
+
+13) 2021 / Banca: Instituto Consulplan / TJM-MG - Analista Judiciário - Contador
+
+Considere hipoteticamente que certa entidade contábil possui conta vinculada a uma instituição financeira,
+que estipulou como seu limite de crédito o valor de 300% do Capital de Giro Líquido. E os dados contábeis
+disponíveis estão no demonstrativo a seguir.
+
+
+
+
+Com base nos dados apresentados, a referida organização pode contar com um limite de crédito no valor
+igual a
+
+A.     R$ 1.500.
+B.     R$ 1.800.
+C.     R$ 3.500.
+D.     R$ 4.500.
+E.     R$ 5.000.
+
+                                                                                                       70
+Pela fórmula
+
+                𝐶𝐺𝐿 = 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 5.000 − 3.500 = 1.500
+
+Se pode ter 300% do CGL, será 4.500. Resposta D.
+
+
+
+14) 2021 / Banca: IADES / CAU - MS - Contador
+
+O Return on Equity (ROE) é um indicador de avaliação de desempenho dos mais observados pelos analistas
+internos ou externos da organização, pois ele mede o grau de eficiência da gestão, evidenciando o
+rendimento do empresário para determinado período e, portanto, serve de parâmetro para qualificação da
+rentabilidade como boa ou ruim. Se uma empresa projeta um lucro de R$ 5 milhões, com um índice
+dívida/PL de 0,65 e um Return on Assets (ROA) de 12,0%, então significa que seus proprietários podem
+esperar por uma taxa de retorno sobre o patrimônio líquido (TRPL) igual a
+
+A.     7,8%.
+B.     12,0%.
+C.     15,0%.
+D.     19,8%.
+E.     24,0%.
+
+Nesse caso, temos que achar o patrimônio líquido para calcular o ROE (o mesmo que taxa de retorno sobre o
+PL).
+
+Sabemos que o retorno sobre o ativo é de 12%, e sabemos o lucro projetado de 5 MM.
+
+                                          𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜           5𝑀𝑀
+                                𝑅𝑂𝐴 =                     = 12% =
+                                        𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 𝑀é𝑑𝑖𝑜         𝐴𝑡𝑖𝑣𝑜
+
+O ativo vai ser 5MM / 0,12 = 41,6MM
+
+A dívida é igual a 0,65 do PL, portanto o ativo TOTAL é igual ao PL + a dívida (0,65PL) = 1,65 PL
+
+Se o ativo é 41,6 MM e é igual a 1,65 do PL, o PL é 25,25 MM
+
+                                      𝐿𝑢𝑐𝑟𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜        5𝑀𝑀
+                        𝑅𝑂𝐸 =                           =        = 19,8%
+                                𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜 𝑀é𝑑𝑖𝑜 25,25𝑀𝑀
+
+
+
+
+         Questões gerais mais antigas e de bancas variadas (tipos diferentes de questões)
+
+
+
+
+15) ESAF - Analista Técnico da SUSEP/Controle e Fiscalização - Atuária/2006
+
+
+                                                                                                      71
+A empresa Orizonina Metais S/A elaborou seu balanço com os seguintes dados contábeis, referentes ao
+exercício de 2005, cujos valores são aqui apresentados ao lado dos saldos anteriores:
+
+
+
+
+Finalizada sua elaboração, as demonstrações financeiras foram submetidas ao processo de análise contábil
+possibilitando de sua leitura a conclusão de que:
+
+a) a liquidez geral da empresa demonstra capacidade de pagamento de 71% das dívidas já assumidas.
+b) a liquidez corrente não alcança a cobertura de metade das dívidas de curto prazo.
+c) a rentabilidade líquida alcançada no período foi, exatamente, um terço da rentabilidade bruta.
+d) o capital de giro líquido, em 31 de dezembro, é positivo em 29% das obrigações a pagar, no exercício
+seguinte ao balanço.
+e) o grau de imobilização do capital alcança 70% do patrimônio bruto.
+
+
+
+
+ Demonstração do Resultado do Exercício
+                  – DRE (R$)
+ Receita de Vendas               9.000
+ Custo das Mercadorias Vendidas  -6.000
+ lucro bruto                     3.000
+ Desp ADM                        -1.300
+ Depreciação no período            -200
+ Desp Financeiras                  -500
+ Lucro Líquido                   1.000
+
+
+
+
+                                          Balanço
+
+                                                                                                     72
+ Ativo Circulante                               2.260 Passivo Circulante                       3.200
+ Caixa                                             260 Fornecedores                               700
+ Títulos a Receber                                 500 Empréstimos Bancários                    2.500
+ Mercadorias                                     1.500
+                                                       Passivo Exigível a LP                    400
+                                                       Títulos a Pagar a LP                     400
+ Ativo Não Circulante                           5.040
+ Realizável a LP                                  600 Patrimônio Líquido                       3.700
+ Títulos a Receber a LP                            600 Capital Social                           3.000
+                                                       Reservas de Lucro                          500
+ Imobilizado                                    4.440 Lucros Acumulados                          200
+ Móveis e Utensílios                             4.800
+ (-) Depreciação Acumulada                        -360
+
+ Total do Ativo                                 7.300 Total do Passivo + PL                    7.300
+
+a) A liquidez geral divide o Ativo circulante + Realizável a LP pelo Passivo Exigível total.
+
+                                                  2.260 + 600
+                                          𝐼𝐿𝐺 =               = 79%
+                                                  3200 + 400
+
+b) Alcança mais da metade.
+
+                                                      2.260
+                                              𝐼𝐿𝐶 =         = 70%
+                                                      3200
+
+c) É exatamente 1/3.
+
+                                                                 3.000
+                                     𝑅𝑒𝑛𝑡𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒 𝑏𝑟𝑢𝑡𝑎 =             = 1/3
+                                                                 9.000
+
+                                                                 1.000
+                                    𝑅𝑒𝑛𝑡𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒 𝑙í𝑞𝑢𝑖𝑑𝑎 =            = 1/9
+                                                                 9.000
+
+d) O CGL é negativo.
+
+                              𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑑𝑒 𝑔𝑖𝑟𝑜 𝑙í𝑞𝑢𝑖𝑑𝑜 = 2.260 − 3.200 = −940
+
+e) Não existe patrimônio bruto nos conceitos contábeis, se estiver se referindo ao Ativo Total (patrimônio
+integral), seria o seguinte:
+
+                                                                      4.440
+                              𝐺𝑟𝑎𝑢 𝑑𝑒 𝐼𝑚𝑜𝑏𝑖𝑙𝑖𝑧𝑎çã𝑜 𝑑𝑜 𝐴𝑡𝑖𝑣𝑜 =               = 60%
+                                                                      7.300
+
+Resposta C
+
+                                                                                                        73
+16) CESPE - Perito Criminal Federal/Área 1/1997
+
+A análise de balanços pode ser vista como a arte de saber extrair relações úteis, para o objetivo econômico
+que se pretenda, dos relatórios contábeis tradicionais e de suas extensões e detalhamentos, se for o caso.
+Há autores que consideram a análise de balanços uma arte, pois, embora existam alguns cálculos
+razoavelmente formalizados, não existe forma científica ou metodologicamente comprovada de relacionar
+os índices de maneira a obter um diagnóstico preciso. Ou, melhor dizendo, cada analista poderia, com o
+mesmo conjunto de informações e de quocientes, chegar a conclusões ligeira ou completamente
+diferenciadas. É provável, todavia que dois analistas experimentados, conhecendo igualmente bem o ramo
+de atividade da empresa, cheguem a conclusões bastante parecidas (mas nunca idênticas) sobre a situação
+atual da empresa, embora quase sempre apontem tendências diferentes, pelo menos em grau, para o
+empreendimento. Os problemas começam a surgir da sintetização das várias informações dispersas, pois,
+em pontos ou em quocientes isolados, é mais fácil haver certeza de conclusão ou opinião técnica. Acerca de
+tal assunto, julgue o item que se segue.
+
+A elevada rentabilidade de uma empresa combinada com o aumento da sua situação líquida circulante,
+pode explicar uma boa situação econômica e uma situação financeira ruim.
+
+      Certo
+      Errado
+
+Tanto a situação econômica (rentabilidade alta) quanto a financeira (alta liquidez) são boas. Situação líquida
+circulante é um termo que não existe, mas é óbvio que se refere à liquidez, não importa se CGL, ILC etc. Errado.
+
+
+
+
+17) CESPE - Analista Judiciário (TRE RJ) /Administrativa/ Contabilidade/2012
+
+A elaboração de indicadores tem por finalidade avaliar o desempenho de determinada entidade a partir de
+diferentes critérios. Em relação a essa matéria, julgue o item subsequente.
+
+Se determinada empresa realizou um empréstimo para a construção de uma nova sede corporativa, seu
+indicador de giro operacional não será diretamente influenciado pela referida operação.
+
+      Certo
+      Errado
+
+O empréstimo para a sede não tem influência operacional direta, pois estamos falando de investimento em
+áreas não ligadas à produção (sede). Certo.
+
+
+
+                                                                                                             74
+18) CEPERJ - Analista de Controle Interno (SEFAZ RJ)/2012/
+
+Foram obtidas as seguintes informações de uma determinada empresa:
+
+                             Grupos de Contas 01.01.2011 31.12.2011
+                             Ativo Circulante   R$ 7.000 R$ 15.850
+                             Passivo Circulante R$ 3.800 R$ 8.200
+
+
+
+
+Com esses dados, pode-se afirmar que o Capital Circulante Líquido apresentou a seguinte variação:
+
+a) negativa no montante de R$ 4.450.
+b) positiva no montante de R$ 3.200
+c) positiva no montante de R$ 4.450
+d) negativa no montante de R$ 7.650
+e) negativa no montante de R$ 8.850
+
+                        𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑑𝑒 𝑔𝑖𝑟𝑜 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑖𝑛𝑖𝑐𝑖𝑎𝑙 = 7.000 − 3.800 = 3.200
+
+                        𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑑𝑒 𝑔𝑖𝑟𝑜 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑓𝑖𝑛𝑎𝑙 = 15.850 − 8.200 = 7.650
+
+Variou positivamente (cresceu) R$ 4.450 no período.
+
+
+
+
+19) FCC - Analista Judiciário (TRT 6ª Região)/Administrativa/Contabilidade/2012/
+
+A partir da análise das demonstrações financeiras da empresa AGA, obteve-se os seguintes indicadores:
+Grau de Endividamento (participação de capitais de terceiros em relação ao capital próprio) 200%;
+Composição do Endividamento 40%, Liquidez Corrente 1,6 e Liquidez Geral 1,0. Sabendo que o Ativo Total
+era R$ 375.000,00, o seu Ativo Circulante era, em reais,
+
+a) 240.000.
+b) 160.000.
+c) 150.000.
+d) 125.000.
+e) 100.000.
+
+O índice de endividamento padrão, definido pela CVM na RCVM 80/22, não é o que o enunciado trata, ele divide
+o passivo exigível pelo ativo total, no caso, o enunciado trata da divisão entre capital de terceiros e capital
+próprio.
+
+                                                                                                            75
+Porém, como o enunciado já deu a fórmula podemos seguir sem problemas.
+
+                                                      𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                             𝐿𝑖𝑞𝑢𝑖𝑑𝑒𝑧 𝐶𝑜𝑟𝑟𝑒𝑛𝑡𝑒 =                        = 1,6
+                                                     𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+                                𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 1,6𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+                                                          𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                    𝐶𝑜𝑚𝑝𝑜𝑠𝑖çã𝑜 𝑑𝑜 𝑒𝑛𝑑𝑖𝑣𝑖𝑑𝑎𝑚𝑒𝑛𝑡𝑜 =                               = 0,4
+                                                         𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+
+                                            𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑃
+                      𝐿𝑖𝑞𝑢𝑖𝑑𝑒𝑧 𝐺𝑒𝑟𝑎𝑙 =                                         = 1,0
+                                                  𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+
+                                                           𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+                             𝐺𝑟𝑎𝑢 𝑑𝑒 𝐸𝑛𝑑𝑖𝑣𝑖𝑑𝑎𝑚𝑒𝑛𝑡𝑜 =                      =2
+                                                          𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜
+
+                                       𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 = 2𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜
+
+                     𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 = 2𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜 + 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜 = 375.000
+
+                                          𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜 = 125.000
+
+                                           𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 = 250.000
+
+                              𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 250.000𝑥0,4 = 100.000
+
+                               𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 100.000𝑥1,6 = 160.000
+
+
+
+
+20) FCC - Técnico Judiciário (TRF 4ª Região)/Apoio Especializado/Contabilidade/2014/
+
+Com base no Balanço Patrimonial de 31/12/2013 de uma empresa, foram obtidas as seguintes informações:
+
+− Índice de liquidez corrente = 2,0.
+
+− Grau de concentração da dívida no curto prazo = 60%.
+
+− Passivo Não Circulante = R$ 120.000,00.
+
+− Ativo Não Circulante = R$ 174.000,00.
+
+
+
+                                                                                                  76
+Sabendo-se que o Patrimônio Líquido da empresa, em 31/12/2012, era R$ 200.000,00, que não houve
+aumento de Capital nem distribuição de dividendos durante o ano de 2013, e que ainda não foi realizada a
+distribuição do resultado obtido em 2013, o Resultado Líquido obtido pela empresa em 2013, foi, em reais,
+
+a) 34.000,00 (Lucro).
+b) 32.300,00 (Lucro).
+c) 24.225,00 (Lucro).
+d) 46.000,00 (Prejuízo).
+e) 46.000,00 (Lucro).
+
+Temos que o Ativo Circulante = 2 Passivo Circulante
+
+Passivo Total = 120.000 + Passivo Circulante
+
+60% do Passivo Total é Circulante, logo 0,4 é Passivo não circulante.
+
+0,4PT = 120.000, logo PT = 300.000
+
+O Passivo circulante, portanto, será 180.000.
+
+O ativo circulante será, portanto, 360.000 (2xPC)
+
+O Ativo Não Circulante é 174.000, logo o Ativo Total = 534.000.
+
+O Patrimônio do ANO ANTERIOR era de 200.000 e não houve aumento de capital.
+
+Logo, ao final de 2013 teríamos um PL + Passivo de 200.000 + 300.000 + Lucro do exercício.
+
+Como PL + Passivo tem que ser igual ao Ativo Total, temos que o lucro é:
+
+534.000 – 500.000 = 34.000.
+
+
+
+
+21) CESGRANRIO - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2011
+
+Uma empresa vende produtos sob encomenda, com prazo médio de recebimento de 60 dias após a entrega
+na fábrica do comprador. A empresa paga a seus fornecedores com prazo médio de 30 dias após receber a
+matéria prima. Em consequência, sua necessidade de capital de giro é elevada.
+
+Para reduzi-la, a empresa poderia adotar várias providências, entre as quais NÃO se inclui a diminuição do(s)
+
+a) endividamento de longo prazo na sua estrutura de capital
+b) prazo médio de estocagem de matérias-primas
+
+                                                                                                          77
+c) prazo médio de processamento das matérias-primas na fabricação dos produtos
+d) tempo médio de transporte dos produtos até o comprador
+e) adiantamentos pagos a alguns de seus fornecedores
+
+A diminuição do endividamento de longo prazo reduz caixa. A diminuição dos prazos médios de estocagem e de
+processamento (reduz o ciclo do estoque) reduz o ciclo de caixa, pois ele poderá vender MAIS rápido. A
+diminuição do tempo de transportes reduz o tempo para receber, melhorando a situação de caixa e a diminuição
+de adiantamentos pagos a fornecedores mantém MAIS caixa. Resposta A.
+
+
+
+
+22) VUNESP - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2001
+
+Dados extraídos do Balanço Patrimonial da Cia. Transamérica em 31.12.X0:
+
+                                  ATIVO CIRCULANTE         R$
+                                 Disponível             30.000,00
+                                 Clientes              250.000,00
+                                 Estoques              180.000,00
+                                 PASSIVO CIRCULANTE        R$
+                                 Fornecedores          150.000,00
+                                 Impostos a Pagar       40.000,00
+                                 Salários a Pagar       60.000,00
+                                 Empréstimos Bancários  90.000,00
+
+Com base nessas informações, o Investimento Operacional em Giro (IOG) da companhia é, em R$
+
+a) nulo.
+b) 90.000,00.
+c) 180.000,00.
+d) 210.000,00.
+e) 250.000,00.
+
+É uma questão que trata da NECESSIDADE LÍQUIDA de Capital de Giro Operacional (investimento
+operacional em giro). Essa conta, muito comum em finanças, exclui do Ativo Circulante e do Passivo
+Circulante o caixa (que já é líquido, portanto não estará mais relacionado à parte operacional da empresa) e
+recebíveis que não estão relacionados com a operação e do Passivo circulante os itens que não tem a ver
+com o financiamento direto das operações.
+
+Dessa forma temos:
+
+                     𝑁𝐶𝐺 = 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐. 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐. 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+             𝑁𝐶𝐺 = (250.000 + 180.000) − (150.000 + 40.000 + 60.000) = 𝑅$ 180.000
+
+                                                                                                         78
+23) FCC - Analista Judiciário (TRT 4ª Região)/Apoio Especializado/Economia/2006/
+
+Considere os seguintes dados extraídos do Balanço Patrimonial da Cia. ABC (em R$):
+
+                                        Ativo Circulante
+                                                                                          12.000,00
+                     Disponível ........................................................
+                                                                                          27.000,00
+                     Aplicações Financeiras ....................................
+                                                                                         125.000,00
+                     Duplicatas a Receber .......................................
+                                                                                          87.000,00
+                     Estoques ........................................................
+                                                                                          38.000,00
+                     Impostos a Recuperar ......................................
+                                       Passivo Circulante
+                                                                                      97.000,00
+                     Fornecedores ...................................................
+                                                                                      36.000,00
+                     Salários a Pagar...............................................
+                                                                                       4.000,00
+                     Dividendos a Pagar ..........................................
+                                                                                      68.000,00
+                     Empréstimos bancários....................................
+                                                                                      55.000,00
+                     Impostos a Recolher ........................................
+
+A Necessidade Líquida de Capital de Giro (ou Necessidade de Investimento em Giro) da companhia monta
+(em R$) a
+
+a) 74.000,00
+b) 62.000,00
+c) 56.000,00
+d) 38.000,00
+e) 30.000,00 negativos
+
+Idêntica à anterior, atentando para:
+
+Impostos a recuperar FAZ parte da operação, pois os impostos vieram de algum valor excessivo pago a partir
+das vendas.
+
+Disponível e aplicação financeira é CAIXA.
+
+Dividendos a pagar NÃO é despesa operacional, é distribuição de lucro. Resposta B.
+
+
+
+
+24) FUNRIO - Analista Técnico-Administrativo (MJ)/2009/
+
+
+
+
+                                                                                                       79
+Uma empresa apresenta, em seu balanço patrimonial, ativo circulante de $ 32.000, dos quais $ 17.000 são
+ativos operacionais. Seu passivo circulante é de $ 30.000, dos quais $ 14.000 são passivos financeiros. Em
+relação a essa empresa, pode-se afirmar que
+
+a) seu capital circulante líquido é de $ 5.000.
+b) sua necessidade de capital de giro é de $ 1.000.
+c) sua necessidade de capital de giro é de $ 3.000.
+d) seu capital de giro próprio é de $ 15.000.
+e) seu capital circulante líquido e necessidade de capital de giro são de $ 2.000.
+
+Mais uma vez é necessário diferenciar a parte financeira da parte operacional. A parte financeira, o capital
+circulante líquido, é AC – PC = 32.000 – 30.000 = 2.000, o que já diz que a letra A está errada.
+
+Na Letra B, temos que a parte operacional dos ativos circulantes é 17.000 e a parte operacional dos passivos
+circulantes é (R$ 30.000 – R$ 14.000) R$ 16.000, de forma que a necessidade de capital de giro líquido
+operacional é (R$ 17.000 – R$ 16.000) R$ 1.000. Resposta B.
+
+
+
+
+25) FUNDATEC - Auditor do Estado (CAGE RS)/2014/
+
+Dentro da Teoria de Análise Dinâmica de Capital de Giro, podemos definir a Necessidade de Capital de Giro
+(NCG) a partir da seguinte fórmula:
+
+a) Clientes + Estoques – Adiantamento a Fornecedores
+b) Clientes + Adiantamentos de Clientes – Fornecedores
+c) Clientes + Estoques – Fornecedores
+d) Clientes + Adiantamentos de Fornecedores + Fornecedores
+e) Clientes – Estoques + Fornecedores
+
+Ativo circulante operacional – passivo circulante operacional.
+
+Na letra A, adiantamento a fornecedores não é passivo, mas ativo (eles devem a você).
+
+Na letra B, adiantamento de clientes é PASSIVO, pois você deve a eles.
+
+Letra C correta.
+
+Na letra D está somando fornecedores, errado.
+
+Na letra E está diminuindo estoques, errado.
+
+
+
+
+                                                                                                         80
+26) FGV - Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015/
+
+Uma empresa possui necessidade de capital de giro negativa quando:
+
+a) o saldo em valores monetários de fornecedores é menor que o de clientes;
+b) os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente caixa;
+c) o fluxo de caixa operacional é inferior ao financeiro;
+d) o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de fornecedores;
+e) as aplicações de recursos são superiores às origens de recursos.
+
+É fácil perceber que se recebermos no tempo de estocagem (que vai até a venda) somado ao tempo até receber
+(após a venda) e isso for MENOR que o prazo de pagamento a fornecedores, nós teremos CAIXA ANTES de ter
+que pagar o fornecedor, portanto teríamos necessidade de capital de giro negativa. Item D.
+
+
+
+
+27) 2021 / Banca: CESPE / CEBRASPE / TC-DF - Auditor Conselheiro Substituto
+
+Com relação aos indicadores de mercado utilizados por investidores para avaliação de empresas nas quais
+pretendem investir os seus recursos, julgue o item a seguir.
+
+Quanto maior for o índice preço/lucro de uma empresa, menor será o período de tempo despendido por um
+investidor para recuperar o capital nela investido.
+
+      Certo
+      Errado
+
+Do nosso material: Podemos entender o P/L como uma medida do “apetite” do investidor por comprar as ações.
+Se este vem se elevando, é porque os investidores estão pagando mais “caro” pelas ações do que anteriormente,
+seja por que suas opções fora da renda variável estão menos atraentes, seja por que ele acredita que o lucro da
+empresa crescerá fortemente nos próximos anos. Em resumo, o P/L indicaria em quantos anos eu retornaria o
+meu investimento, caso o lucro da empresa não subisse.
+
+Se o P/L mede quanto tempo leva para retornar o investimento, quanto maior, mais tempo. Portanto, questão
+errada.
+
+
+
+
+28) 2022 / Banca: FGV / CGU - Auditor Federal de Finanças e Controle
+
+Uma sociedade empresária apresentou, a partir dos dados financeiros divulgados referentes ao ano de 2021,
+um Economic Value Added (EVA) negativo.
+
+Sendo assim, é correto afirmar que neste mesmo ano ela apresentou:
+
+
+                                                                                                            81
+A.     despesas superiores a receitas na DRE;
+B.     EBIT negativo;
+C.     EBIT positivo;
+D.     EBITDA negativo;
+E.     custo do capital superior ao NOPAT.
+
+Aqui precisamos colocar ambas as fórmulas.
+
+                            𝐸𝑉𝐴 = (𝑅𝑂𝐼% − 𝑊𝐴𝐶𝐶%) × 𝐴𝑡𝑖𝑣𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+                   𝐸𝑉𝐴 = 𝑁𝑂𝑃𝐴𝑇 − (𝐶𝑢𝑠𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 × 𝐼𝑛𝑣𝑒𝑠𝑡𝑖𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙)
+
+O EVA negativo significa que a empresa pode até ter tido lucro contábil, mas esse lucro NÃO pagou o custo e
+oportunidade (WACC) do ativo investido.
+
+No caso, o item A está errado, pois ter despesas superiores a receitas na DRE pode não gerar nem prejuízo, uma
+vez que pode haver lucro contábil proveniente de outras áreas.
+
+Mas fica uma dica. Ainda que o aluno fique em dúvida, como estamos falando de EVA, provavelmente a
+resposta vai envolver algo explícito na teoria.
+
+Todos os outros itens, EBIT e EBITDA negativos ou positivos não estão ligados diretamente ao EVA, e ter
+qualquer um desses NEGATIVO, também não significa que teremos lucro contábil negativo (apesar de ser muito
+provável).
+
+Outro ponto. O NOPAT é o lucro operacional APÓS os impostos, o EBIT e o EBTIDA são ANTES dos impostos.
+
+O item E está correto, conceitualmente, se o custo de capital medido em $$$ for maior que o NOPAT, teremos
+um EVA negativo, pela fórmula.
+
+Dei essa longa explicação, mas o aluno, por praticidade, deveria ter avaliado primeiramente o item E, pois é o
+único que traz algo sobre NOPAT e EVA. Resposta E.
+
+
+
+
+29) 2021 / Banca: CESPE / CEBRASPE / TC-DF - Auditor Conselheiro Substituto
+
+Determinada empresa pretende vender uma unidade de negócio responsável pela área de fretes, que foi
+avaliada em R$ 15 milhões pela contabilidade. O lucro operacional anual da unidade é de R$ 2 milhões. O
+retorno sobre o investimento (ROI) corporativo está fixado em um padrão mínimo de 11%, e o custo de
+capital (oportunidade) identificado com a unidade de negócio responsável pela área de fretes atinge 17%.
+
+Considerando essa situação hipotética e aspectos relacionados à análise das demonstrações contábeis,
+julgue o item a seguir.
+
+Caso utilize o valor econômico agregado (EVA) como medida de análise para a tomada de decisão, a
+empresa deverá optar por não vender a unidade de fretes.
+
+
+                                                                                                           82
+      Certo
+      Errado
+
+                   𝐸𝑉𝐴 = 𝑁𝑂𝑃𝐴𝑇 − (𝐶𝑢𝑠𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 × 𝐼𝑛𝑣𝑒𝑠𝑡𝑖𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝐶𝑎𝑝𝑖𝑡𝑎𝑙)
+
+O NOPAT é o lucro operacional, após impostos. Como não há qualquer menção a impostos, vamos considerar
+os 2 milhões como sendo o NOPAT.
+
+Já o investimento de capital, em termos de MERCADO, é a avaliação feita pela contabilidade, 15 milhões. E o
+custo de capital é 17%. Basta substituir na fórmula.
+
+                          𝐸𝑉𝐴 = 2 𝑚𝑖𝑙ℎõ𝑒𝑠 − (17% × 15 𝑚𝑖𝑙ℎõ𝑒𝑠) = −550 𝑚𝑖𝑙
+
+Isso significa que, apesar de a empresa ter lucro operacional, ele NÃO PAGA o custo de capital, portanto não
+temos ganho econômico.
+
+Deve VENDER a unidade, pois é melhor 15 milhões investidos ao custo de capital do que tocar o negócio.
+Resposta errada.
+
+
+
+
+30) 2021 / Banca: CESPE / CEBRASPE / TC-DF - Auditor Conselheiro Substituto
+
+Determinada empresa pretende vender uma unidade de negócio responsável pela área de fretes, que foi
+avaliada em R$ 15 milhões pela contabilidade. O lucro operacional anual da unidade é de R$ 2 milhões. O
+retorno sobre o investimento (ROI) corporativo está fixado em um padrão mínimo de 11%, e o custo de
+capital (oportunidade) identificado com a unidade de negócio responsável pela área de fretes atinge 17%.
+
+Considerando essa situação hipotética e aspectos relacionados à análise das demonstrações contábeis,
+julgue o item a seguir.
+
+Se a unidade de fretes tiver sido financiada com recursos de terceiros, então, atualmente, ela não gera um
+resultado operacional de caixa para cobertura de juros dos credores.
+
+      Certo
+      Errado
+
+Essa questão é teórica e bem interessante. Sabemos que o custo de capital é de 17%, mas até o presente não
+sabíamos como a empresa se financiava (se esses 17% eram um mix entre custo de capital próprio e de terceiros).
+Agora ele AFIRMA que é tudo capital de terceiros. Nesse caso, o custo dos juros seria de 17% x 15.000.000 =
+2.550.000.
+
+A empresa gera apenas 2.000.000, portanto seu lucro não paga o custo dos juros. Resposta certa.
+
+
+
+
+                                                                                                            83
+

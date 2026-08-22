@@ -1,0 +1,1361 @@
+                                                    Aula 01
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                          19 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 01
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Ativo Circulante e Não Circulante - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - Ativo Circulante e Não Circulante
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - Ativo Circulante e Não Circulante - FGV
+..............................................................................................................................................................................................9
+
+4) Questões Comentadas - Ativo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            10
+
+5) Questionário de Revisão - Ativo Circulante e Não Circulante
+..............................................................................................................................................................................................
+                                                                                                                                                                                            20
+
+6) Lista de Questões - Ativo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            24
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           29
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 01
+
+
+
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise estatística refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV,
+exclusivamente para o nível superior.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                    Grau de incidência:
+                                Assunto
+                                                                                             FGV
+Ativo Circulante                                                                             20%
+Contas a receber e PECLD                                                                     17%
+Despesas Antecipadas                                                                         12%
+ANC - Realizável a Longo Prazo                                                               12%
+Disponibilidades                                                                             10%
+Balanço Patrimonial: definições e estrutura                                                   8%
+Ativo Não Circulante                                                                          7%
+Ativo Diferido                                                                                3%
+Demonstrações Contábeis Obrigatórias (Lei 6.404/76 e CPC 26)                                  3%
+Ativos Biológicos                                                                             2%
+ANC - Investimentos                                                                           2%
+ANC - Ativo Intangível                                                                        1%
+Total do Ativo                                                                                1%
+Total                                                                                       100%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    3
+        www.estrategiaconcursos.com.br                                                                    29
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 01
+
+
+
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                       MERECEM DESTAQUE
+
+Demonstrações Contábeis Obrigatórias Pela Lei Das Sociedades Por Ações
+
+As demonstrações contábeis são diferentes conforme estejamos frente a um ou outro tipo societário.
+
+                                                                                    COMPANHIA
+                             DEMONSTRAÇÃO CONTÁBIL                             ABERTA       FECHADA
+                                    Balanço Patrimonial                            X             X
+                      Demonstração do Resultado do Exercício                       X             X
+                 Demonstração de Lucros ou Prejuízos Acumulados                    X             X
+                         Demonstração dos Fluxos de Caixa                          X        PL > 2 MI
+                         Demonstração do Valor Adicionado                          X
+
+Conjunto completo de Demonstrações Contábeis segundo O Cpc 26 –
+Apresentação Das Demonstrações Contábeis
+
+O conjunto completo de demonstrações contábeis inclui:
+
+- Balanço patrimonial
+- Demonstração do resultado do exercício
+- Demonstração do resultado abrangente
+- DMPL
+- Demonstração dos fluxos de caixa
+- Notas explicativas (Parte integrante)
+- Balanço patrimonial antigo em caso de ajuste
+- DVA
+
+Regras Sobre A Elaboração E Publicação Das Demonstrações Contábeis
+
+- O exercício social terá duração de 1 (um) ano e a data do término será fixada no estatuto (LSA, art. 175).
+
+- Na constituição da companhia e nos casos de alteração estatutária o exercício social poderá ter duração
+diversa (LSA, art. 175, parágrafo único).
+
+- As demonstrações de cada exercício serão publicadas com a indicação dos valores correspondentes das
+demonstrações do exercício anterior. (LSA, art. 176, parágrafo primeiro).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   4
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+   Filipe Magalhães, Júlio Cardozo
+Aula 00 01
+   Aula
+
+
+
+
+- Nas demonstrações, as contas semelhantes poderão ser agrupadas; os pequenos saldos poderão ser
+agregados, desde que indicada a sua natureza e não ultrapassem 0,1 (um décimo) do valor do respectivo
+grupo de contas; mas é vedada a utilização de designações genéricas, como "diversas contas" ou "contas-
+correntes".(LSA, art. 176, parágrafo segundo).
+
+As demonstrações financeiras serão assinadas pelos administradores e por contabilistas legalmente
+habilitados (LSA, art. 177, §4º).
+
+Balanço Patrimonial
+
+Balanço Patrimonial é a principal demonstração contábil e se destina a evidenciar, seja de forma qualitativa,
+seja de forma quantitativa, a posição patrimonial e financeira da entidade. Trata-se de uma demonstração
+estática, visto que evidencia uma "fotografia" da entidade em um determinado momento.
+
+Estrutura Do Balanço Patrimonial
+
+Antes de começarmos a falar efetivamente sobre cada um dos grupos patrimoniais, é interessante que vocês
+saibam que assim se divide o balanço patrimonial:
+
+                                       ATIVO                             PASSIVO
+                                     Circulante                     Passivo Circulante
+                                                                  Passivo Não Circulante
+                                  Não Circulante
+                                                                   Patrimônio Líquido
+
+Ativo
+
+No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos elementos nelas
+registrados, nos seguintes grupos:
+
+       I – ativo circulante; e
+
+       II – ativo não circulante, composto por ativo realizável a longo prazo, investimentos, imobilizado
+       e intangível.
+
+Ativo Circulante
+
+O ativo circulante está subdividido em disponibilidades, direitos realizáveis no curso do exercício social
+subsequente e Aplicações de recursos em despesas do exercício seguinte
+
+Despesas Antecipadas
+
+Atenção! Quantos aos seguros, você tem que se habituar aos seguintes termos:
+
+- Prêmio de seguros: despesa na DRE. Valor pago para que você possa utilizar o seguro durante o ano.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     5
+          www.estrategiaconcursos.com.br                                                                     29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+   Filipe Magalhães, Júlio Cardozo
+Aula 00 01
+   Aula
+
+
+
+
+ - Prêmio de seguros a apropriar ou seguros a vencer: fica no ativo circulante ou no ativo não circulante
+realizável a longo prazo, dependendo do prazo. É o valor que será transferido para o resultado,
+gradativamente, conforma vamos utilizando o serviço.
+
+Disponibilidade
+
+São disponibilidades:
+
+    •    Caixa.
+    •    Contas bancárias de livre movimentação
+    •    Contas especiais para pagamentos específicos, como dividendos, folha de pagamento, filiais
+    •    Numerários em trânsito, como por exemplo, remessas para filiais, depósitos, ordem de pagamento
+    •    Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em
+         montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor
+    •    Compra agora um título do governo ou do tesouro (pode entender como sinônimos) que vence em
+         90 dias, entra como equivalente de caixa
+
+Não são Disponibilidades:
+
+    •    Contas bancárias da empresa quando o banco está em liquidação.
+    •    Depósitos vinculados a operações de curto prazo
+    •    Contas Bancárias negativas
+    •    Um título do tesouro comprado três meses antes do vencimento normalmente é considerado
+         equivalente de caixa. Mas, se for comprado, digamos, 2 anos antes do vencimento, não entra como
+         equivalente de caixa. Passa o tempo, o título fica próximo do vencimento (90 dias), mas não é
+         reclassificado para equivalente, pois não houve movimentação efetiva de caixa. Continua sendo
+         considerado com "não equivalente de caixa", ainda que esteja próximo ao vencimento
+
+Perdas estimadas com créditos de liquidação duvidosa (PCLD)
+
+A conta PCLD é retificadora da conta clientes/duplicatas a receber. Quando a PCLD é constituída, nós
+lançamos:
+
+D – Despesa com PCLD
+C – PCLD (redutora ativo)
+
+Caso ainda tenha saldo ao final do exercício, a entidade tem duas opções: Complementar o valor que faltar
+no próximo exercício ou reverter o valor que sobrou e constituindo nova PCLD no exercício subsequente.
+
+Se a perda for reconhecida como efetiva, quando o cliente é considerado incobrável, nós fazemos o seguinte:
+
+D – PCLD
+C – Duplicatas a receber
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   6
+          www.estrategiaconcursos.com.br                                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+   Filipe Magalhães, Júlio Cardozo
+Aula 00 01
+   Aula
+
+
+
+
+Ativo Não Circulante
+
+O ativo não circulante é composto por: realizável a longo prazo, Investimentos, Imobilizado e Intangível
+
+Ativo Não Circulante – Realizável A Longo Prazo
+
+No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os
+derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243),
+diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na
+exploração do objeto da companhia; (LSA, art. 179, Inciso II).
+
+Ativo Não Circulante – Investimentos.
+
+Em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza,
+                                                        ==219a34==
+
+
+
+
+não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da
+empresa; (LSA, art. 179, Inciso III).
+
+Indo Além - Propriedade Para Investimento: Dentro do subgrupo investimentos, temos as propriedades para
+investimento. O CPC a define como aquela que é mantida para auferir aluguel ou para valorização (ou
+ambas), contanto que não sejam utilizadas para finalidades administrativas e nem sejam vendidas como
+curso ordinário do negócio.
+
+Ativo Não Circulante Imobilizado
+
+No ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das
+atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de
+operações que transfiram à companhia os benefícios, riscos e controle desses bens (LSA, art. 179, Inciso IV).
+
+O ativo intangível é matéria que tem seu regulamento no CPC 27. O conceito de ativo imobilizado veio trazido
+pela norma, como se segue:
+
+Ativo imobilizado é o item tangível que:
+(a) é mantido para uso na produção ou fornecimento de mercadorias ou serviços, para aluguel a outros, ou
+para fins administrativos; e
+(b) se espera utilizar por mais de um período.
+
+Ativo Não Circulante - Intangível
+
+Podemos dizer, de maneira resumida, que os intangíveis são aqueles ativos que não têm existência física.
+
+Tenha em mente os conceitos da lei 6.404/76 e do CPC 04:
+
+Lei 6.404/76: classificam-se no intangível os direitos que tenham por objeto bens incorpóreos destinados à
+manutenção da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido.
+
+CPC 04: Ativo intangível é um ativo não monetário identificável sem substância física
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    7
+          www.estrategiaconcursos.com.br                                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+   Filipe Magalhães, Júlio Cardozo
+Aula 00 01
+   Aula
+
+
+
+
+Ativos Biológicos
+
+O tema ativo biológico está previsto no CPC 29. Definição: Ativo biológico é um animal e/ou uma planta,
+vivos. Os ativos biológicos são classificados no ativo não circulante imobilizado. São exemplos de ativos
+biológicos: carneiros, plantação de árvores para madeira, gado de leite, porcos, plantação de algodão,
+arbusto de chá, videira, cana-de-açúcar.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   8
+          www.estrategiaconcursos.com.br                                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 01
+
+
+
+
+                                      APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o
+histórico de questões da banca em provas de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “Demonstrações Contábeis, Balanço Patrimonial e Ativo," os tópicos “Ativo Circulante” e
+"Ativo Não Circulante" são os pontos que acreditamos ser o que possuem mais chances de serem cobrados
+pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+Portanto, é muito importante memorizar isto:
+
+
+
+                                                        Ativo
+                                                         ==219a34==
+
+
+
+
+   • Circulante
+     • Disponibilidades
+     • Direitos realizáveis no curso do exercício social subsequente
+     • Aplicações de recursos em despesas do exercício seguinte
+   • Não Circulante
+     • Ativo realizável a longo prazo: Os direitos realizáveis após o término do exercício seguinte, assim
+       como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou
+       controladas, diretores, acionistas ou participantes no lucro da companhia, que não constituírem
+       negócios usuais na exploração do objeto da companhia;
+     • Investimentos: As participações permanentes em outras sociedades e os direitos de qualquer
+       natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade
+       da companhia ou da empresa
+     • Imobilizado: Os direitos que tenham por objeto bens corpóreos destinados à manutenção das
+       atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes
+       de operações que transfiram à companhia os benefícios, riscos e controle desses bens;
+     • intangível: Os direitos que tenham por objeto bens incorpóreos destinados à manutenção da
+       companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                9
+         www.estrategiaconcursos.com.br                                                                                29
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 01
+
+
+
+
+                                QUESTÕES ESTRATÉGICAS
+1. (FGV/PC AM/Investigador/4ª Classe/2022) Uma sociedade empresária apresentava os seguintes saldos
+     em 31/12/X0:
+Caixa e equivalente de caixa: R$ 50.000.
+Empréstimo a diretor com recebimento em 60 dias: R$ 25.000.
+Receita de vendas recebida antecipadamente com prazo de realização de 70 dias: 55.000.
+Estoques previstos para serem vendidos em 120 dias: 40.000,00.
+Clientes, com recebimento em 180 dias: 60.000,00.
+Aluguel pago antecipadamente, com apropriação linear e mensal por 24 meses: R$ 48.000.
+Terreno destinado à valorização: R$ 100.000.
+Perdas estimadas com teste de recuperabilidade do terreno: R$ 10.000.
+Perdas estimadas com desvalorização de estoques: R$ 4.000.
+Perdas estimadas com crédito de liquidação duvidosa: R$ 3.000.
+Com base nos saldos acima, assinale a opção que indica o ativo circulante da empresa em 31/12/X0.
+a) R$ 143.000.
+b) R$ 167.000.
+c) R$ 174.000.
+d) R$ 192.000.
+e) R$ 223.000.
+
+Comentários:
+
+De acordo com a Lei 6404/76, o ativo circulante está subdividido em disponibilidades, direitos realizáveis
+no curso do exercício social subsequente:
+
+                      Ativo circulante
+                      Disponibilidades
+                      Direitos realizáveis no curso do exercício social subsequente
+                      Aplicações de recursos em despesas do exercício seguinte
+
+
+Agora, vamos efetuar as classificações corretas:
+Caixa e equivalente de caixa: R$ 50.000: Ativo Circulante
+Empréstimo a diretor com recebimento em 60 dias: R$ 25.000. Ativo Não Circulante - Realizável em Longo
+Prazo
+Receita de vendas recebida antecipadamente com prazo de realização de 70 dias: 55.000: Passivo Circulante
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis       10
+        www.estrategiaconcursos.com.br                                                                       29
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+Estoques previstos para serem vendidos em 120 dias: 40.000,00. Ativo Circulante
+Clientes, com recebimento em 180 dias: 60.000,00. Ativo Circulante
+Aluguel pago antecipadamente, com apropriação linear e mensal por 24 meses: R$ 48.000: a metade, 24.000,
+ficará no Ativo Circulante e a outra metade no ativo não circulante.
+Terreno destinado à valorização: R$ 100.000. Ativo Não Circulante - Investimentos - Propriedade para
+Investimento.
+Perdas estimadas com teste de recuperabilidade do terreno: R$ 10.000. Retificadora do Ativo Não
+Circulante
+Perdas estimadas com desvalorização de estoques: R$ 4.000. Retificadora do Ativo Circulante
+Perdas estimadas com crédito de liquidação duvidosa: R$ 3.000. Retificadora do Ativo Circulante
+Total do Ativo Circulante = 50.000 + 40.000 + 60.000 + 24.000 - 4.000 - 3.000 = 167.000
+
+Gabarito: B
+
+2. (FGV/Assistente Administrativo/SEFAZ AM/2022 Uma sociedade empresária apresentava os seguintes
+     saldos em seu balanço patrimonial, em 31/12/X0.
+Caixa: R$20.000;
+Estoque previsto para ser vendido em 390 dias: R$50.000;
+Despesa de seguros dos veículos paga antecipadamente em 31/12/X0 e que será apropriada mensalmente
+de forma linear por dois anos: R$12.000;
+Contas a receber em 120 dias: R$60.000;
+Empréstimo a acionista com prazo de recebimento de 180 dias: R$15.000;
+Veículos utilizados no transporte de funcionários com vida útil estimada em 5 anos: R$80.000;
+Depreciação acumulada dos veículos: R$54.000;
+Perdas estimadas nos estoques: R$5.000; e
+Perdas estimadas com crédito de liquidação duvidosa: R$3.000.
+Assinale a opção que indica o ativo realizável a longo prazo da sociedade empresária, em 31/12/X0:
+a) R$51.000.
+b) R$66.000.
+c) R$72.000.
+d) R$77.000.
+e) R$92.000.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   11
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+Comentários:
+
+Segundo a Lei das Sociedades por Ações (6.404/76), o ativo não circulante realizável a longo prazo é
+composto por:
+
+         Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do
+         exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos
+         a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes
+         no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da
+         companhia;
+
+Esquematizemos:
+
+                                 Ativo não circulante - Realizável a Longo Prazo
+            Direito realizáveis após o término do exercício social subsequente
+                                       Venda       Coligadas/Controladas
+            Direito derivado de Adiantamento Diretores, administradores, sócios     Não usual
+                                    Empréstimo Acionistas ou participantes do lucro
+
+Agora, vamos efetuar as classificações:
+
+Caixa: R$20.000: Ativo Circulante
+
+Estoque previsto para ser vendido em 390 dias: R$50.000: Ativo Circulante Realizável em Longo Prazo
+
+Despesa de seguros dos veículos paga antecipadamente em 31/12/X0 e que será apropriada mensalmente
+de forma linear por dois anos: R$12.000: a metade, 6.000, ficará no Ativo Circulante e a outra metade no
+ativo não circulante realizável em longo prazo.
+
+Contas a receber em 120 dias: R$60.000: Ativo Circulante
+
+ Empréstimo a acionista com prazo de recebimento de 180 dias: R$15.000: Ativo Circulante Realizável em
+Longo Prazo
+
+ Veículos utilizados no transporte de funcionários com vida útil estimada em 5 anos: R$80.000: Ativo
+Imobilizado
+
+Depreciação acumulada dos veículos: R$54.000: retificadora do ativo imobilizado.
+
+Perdas estimadas nos estoques: R$5.000 (retificadora do ativo não circulante realizável em longo prazo).
+
+Perdas estimadas com crédito de liquidação duvidosa: R$3.000: (retificadora do ativo)
+
+Total do Realizável em Longo Prazo = 50.000 + 6.000 + 15.000 - 5.000 = 66.000.
+
+Gabarito: B
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   12
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+
+3. (FGV/SEFAZ-ES/Auditor/2021) Uma entidade que presta serviços de consultoria apresentava os
+     seguintes saldos em seu ativo, em 31/12/X0.
+• Disponibilidades: R$ 50.000;
+• Empréstimo concedido a sócio da entidade para pagamento em 3 meses: R$ 20.000;
+• Crédito Fiscal: R$ 15.000;
+• Automóveis utilizados no negócio: R$ 30.000;
+• Depreciação Acumulada dos automóveis: R$ 10.000;
+• Seguro antecipado dos automóveis, com vigência de dois anos: R$ 24.000.
+Assinale a opção que indica o valor do ativo realizável a longo prazo, em 31/12/X0.
+(A) R$ 27.000
+(B) R$ 32.000
+(C) R$ 47.000
+(D) R$ 59.000
+(E) R$ 79.000
+
+Comentários:
+
+Vamos fazer a classificação das contas mencionadas:
+
+• Disponibilidades: R$ 50.000; (Ativo Circulante)
+
+• Empréstimo concedido a sócio da entidade para pagamento em 3 meses: R$ 20.000; (Ativo Não Circulante
+- Realizável em Longo Prazo)
+
+• Crédito Fiscal: R$ 15.000; (a banca considerou como ativo não circulante realizável em longo prazo, mas
+também poderia ser um ativo circulante);
+
+• Automóveis utilizados no negócio: R$ 30.000; (Ativo Não Circulante - Imobilizado)
+
+• Depreciação Acumulada dos automóveis: R$ 10.000; (retificadora do ativo não circulante - Imobilizado)
+
+• Seguro antecipado dos automóveis, com vigência de dois anos: R$ 24.000. (pegadinha recorrente em
+provas da FGV: a parcela dos seguros proporcional a 1 ano - 12.000 - ficará no ativo circulante e o restante -
+12.000 - ficará no ativo não circulante - realizável em longo prazo.
+
+Portanto, o total do ativo não circulante - realizável em longo prazo será de:
+
+   •   Empréstimo concedido a sócio da entidade para pagamento em 3 meses: R$ 20.000
+   •   Crédito Fiscal: R$ 15.000
+   •   Seguro antecipado dos automóveis: R$ 12.000
+       Total = R$ 47.000,00
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    13
+         www.estrategiaconcursos.com.br                                                                    29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+Gabarito: C
+
+4. (FGV/TCE-PI/Assistente/2021) No Balanço Patrimonial, as contas do Ativo são organizadas em dois
+    grandes grupos, de acordo com o prazo de realização destas no ciclo operacional da entidade.
+Em geral, itens adquiridos para estoque com o objetivo de comercialização devem ser classificados como:
+(A) ativo circulante;
+(B) ativo realizável a longo prazo;
+(C) custo das mercadorias vendidas;
+(D) despesas antecipadas;
+(E) investimentos.
+
+Comentários:
+
+Em regra, o estoque faz parte do ativo circulante visto que atende os seguintes critérios:
+
+a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no decurso normal do ciclo
+operacional da entidade;
+
+(b) está mantido essencialmente com o propósito de ser negociado;
+
+(c) espera-se que seja realizado até doze meses após a data do balanço; ou
+
+Indo mais fundo! Caso a FGV insira um prazo para serem vendidos (Estoque + prazo), devemos leva-lo em
+consideração. Por exemplo:
+
+Estoque -> ativo circulante
+
+Estoques com previsão de venda de 90 dias-> ativo circulante
+
+Estoques previstos para serem vendidos em 540 dias->ativo não circulante.
+
+Estoques são previstos para serem vendidos em 720 dias -> ativo não circulante.
+
+Gabarito: A
+
+5. (FGV/Prefeitura de Salvador – BA/Técnico de Nível Superior/2017) Em 31/12/2016, a Cia. Delta
+     apresentava os seguintes saldos de seus ativos em seu balancete:
+▪ Caixa: R$ 200.000;
+▪ Aplicação financeira considerada equivalente a caixa: R$ 100.000;
+▪ Estoques previstos para serem vendidos em 720 dias: R$ 300.000;
+▪ Provisão para Perdas nos Estoques: R$ 65.000;
+▪ Aluguel pago antecipadamente, apropriado mensalmente de forma linear por dois anos: R$ 120.000;
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   14
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+▪ Carro: R$ 70.000;
+▪ Depreciação acumulada do carro: R$ 30.000;
+▪ Seguro do carro pago antecipadamente, apropriado mensalmente de forma linear por três anos: R$ 36.000;
+▪ Empréstimo a sócio que deverá ser recebido em 90 dias: R$ 45.000;
+▪ Contas a receber por venda de ativo imobilizado com prazo de 60 dias: R$ 80.000;
+▪ Perdas estimadas com créditos de liquidação duvidosa: R$ 25.000.
+Assinale a opção que indica o valor do ativo circulante da Cia. Delta, em 31/12/2016.
+a) R$ 372.000.
+b) R$ 415.000.
+c) R$ 427.000.
+d) R$ 472.000.                                         ==219a34==
+
+
+
+
+e) R$ 662.000.
+
+Comentários:
+
+O ativo se divide em:
+
+1) Ativo circulante; e
+
+2) Ativo não circulante.
+
+Segundo a Lei 6.404:
+
+         Art. 179. As contas serão classificadas do seguinte modo:
+
+         I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social
+         subsequente e as aplicações de recursos em despesas do exercício seguinte;
+
+Agora, vamos verificar quais contas ficam classificadas no Ativo Não Circulante:
+
+▪ Caixa: R$ 200.000 → Ativo Circulante (disponibilidades)
+▪ Aplicação financeira considerada equivalente a caixa: R$ 100.000 → Ativo Circulante (disponibilidades)
+▪ Estoques previstos para serem vendidos em 720 dias: R$ 300.000→ Ativo Não Circulante – Realizável em
+Longo Prazo.
+▪ Provisão para Perdas nos Estoques: R$ 65.000; (retificadora do Ativo Não Circulante visto que os estoques
+são para realização no longo prazo);
+▪ Aluguel pago antecipadamente, apropriado mensalmente de forma linear por dois anos: R$ 120.000→
+60.000 fica no Ativo Circulante e 60.000 no Ativo Não Circulante.
+▪ Carro: R$ 70.000→ Ativo Imobilizado;
+▪ Depreciação acumulada do carro: R$ 30.000; (retificadora do Ativo Imobilizado);
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis       15
+         www.estrategiaconcursos.com.br                                                                       29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+▪ Seguro do carro pago antecipadamente, apropriado mensalmente de forma linear por três anos: R$
+36.000→ 12.000 fica no Ativo Circulante e o restante, 24.000, fica no Ativo Não Circulante.
+▪ Empréstimo a sócio que deverá ser recebido em 90 dias: R$ 45.000→ Cuidado!
+
+Vejamos o que nos ensina a Lei 6404/76:
+
+         Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do
+         exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a
+         sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes
+         no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da
+         companhia;
+
+Portanto, mesmo que seja recebível em 90 dias, o empréstimo feito a sócio deve ser classificado no Ativo
+Não Circulante – Realizável a Longo Prazo.
+
+▪ Contas a receber por venda de ativo imobilizado com prazo de 60 dias: R$ 80.000→ Ativo Circulante.
+▪ Perdas estimadas com créditos de liquidação duvidosa→ R$ 25.000 (retificadora do Ativo Circulante).
+
+Diante do exposto, temos as seguintes contas no Ativo Circulante:
+
+▪ Caixa: R$ 200.000 → Ativo Circulante (disponibilidades)
+▪ Aplicação financeira considerada equivalente a caixa: R$ 100.000 → Ativo Circulante (disponibilidades)
+▪ Aluguel pago antecipadamente, apropriado mensalmente de forma linear por dois anos→ 60.000
+▪ Seguro do carro pago antecipadamente, apropriado mensalmente de forma linear por três anos → 12.000
+fica no Ativo Circulante
+▪ Contas a receber por venda de ativo imobilizado com prazo de 60 dias: R$ 80.000→ Ativo Circulante.
+▪ Perdas estimadas com créditos de liquidação duvidosa→ (R$ 25.000)
+Total = R$ 427.000,00
+
+Gabarito: C
+
+6. (FGV/CODEBA/Analista Portuário/2016) Em 31/12/15, uma sociedade empresária possuía contas
+    bancárias em três instituições financeiras diferentes. Os saldos na data de fechamento do balanço
+    patrimonial eram os seguintes:
+                                        Banco      Saldo em 31/12/15
+                                        Banco Alfa      100.000
+                                        Banco Beta       50.000
+                                        Banco Gama       -20.000
+Assinale a opção que indica como as contas deverão ser evidenciadas no balanço patrimonial da sociedade
+empresária, em 31/12/15:
+a) R$ 130.000 no Ativo Circulante.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    16
+         www.estrategiaconcursos.com.br                                                                    29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+b) R$ 130.000 no Ativo Realizável a Longo Prazo.
+c) R$ 150.000 no Ativo Circulante e R$ 20.000 no Ativo Realizável a Longo Prazo.
+d) R$ 150.000 no Ativo Circulante e R$ 20.000 no Passivo Circulante.
+e) R$ 150.000 no Ativo Realizável a Longo Prazo e R$ 20.000 no Passivo não Circulante.
+
+Comentários:
+
+As disponibilidades são elementos que representam dinheiro ou nele possam ser convertidos de forma
+imediata, como a conta caixa, bancos conta movimento. Quais são as contas que compõem as
+disponibilidades? Bem, basicamente a conta caixa e equivalentes de caixa.
+
+Exemplos de disponibilidades:
+
+- Caixa.
+- Contas bancárias
+- Numerários em trânsito, enquanto estiverem em trânsito.
+- Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante
+conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor.
+
+Além disso, segundo o FIPECAFI, Contas bancárias negativas (credoras) ou saldos a favor de bancos não
+devem ser demonstrados como redução dos demais saldos bancários, mas, separadamente, como um item
+do Passivo Circulante.
+
+Exceção é feita aos casos em que tais saldos devedores e credores estejam no mesmo banco e desde que a
+empresa tenha o direito de compensá‑los.
+
+Portanto, os saldos positivos das contas dos Bancos Alfa e Beta, devem ficar no Ativo Circulante,
+apresentando o saldo de 150.000. Por sua vez, o saldo negativo do banco Gama deve ser classificado no
+Passivo Circulante, pois não cabe aqui fazer a compensação.
+
+Gabarito: D
+
+7. (FGV/CODEBA/Analista Portuário/2016) Em 31/12/2015, uma sociedade empresária apresentava os
+    seguintes saldos em suas contas:
+                  Disponibilidades:                                                     R$ 80.000;
+                  Veículos utilizados na empresa:                                       R$ 100.000;
+                  Depreciação acumulada:                                                R$ 60.000;
+                  Seguro pago antecipadamente, apropriado mensalmente
+                                                                                         R$ 7.200;
+                  de modo linear por dois anos:
+                  Fornecedores com prazo de 90 dias;                                    R$ 70.000;
+                  Empréstimo a sócio para recebimento em 60 dias:                       R$ 18.000;
+                  Estoques previstos para serem vendidos em 540 dias:                   R$ 120.000;
+                  Provisão para perdas nos estoques:                                    R$ 10.000.
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   17
+           www.estrategiaconcursos.com.br                                                                   29
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 01
+
+
+
+Assinale a opção que indica o Ativo Circulante da sociedade empresária apresentado no Balanço Patrimonial
+de 31/12/2015:
+a) R$ 83.600.
+b) R$ 98.000.
+c) R$ 101.600.
+d) R$ 171.600.
+e) R$ 197.200.
+
+Comentários:
+
+Vamos separar apenas as contas de Ativo Circulante, conforme determinação da banca:
+
+Disponibilidades...........................................................................80.000
+Seguro pago antecipadamente (apenas a parte referente aos
+12 primeiros meses ficará no Ativo Circulante) ..............................3.600
+Total....................................................................................R$ 83.600
+
+            Observações: Empréstimos a sócios são classificados no Ativo Não Circulante, bem como
+            os Estoques para venda em 540 dias.
+
+Gabarito: A
+
+8. (FGV/Auditor/CGE/MA/2014) Em 31/12/2013, o balancete da Cia. Rosa apresentava os seguintes
+     saldos (em reais):
+   Estoques com previsão de venda de 90 dias:                                                               40.000
+   Aluguel pago antecipadamente com apropriação mensal e linear por 18 meses:                               36.000
+   Caixa e Equivalente de Caixa:                                                                            12.000
+   Clientes com vencimento em 180 dias:                                                                     60.000
+   Contas de Ajuste a valor presente a apropriar sobre clientes:                                            3.000
+   Provisão para Crédito de Liquidação Duvidosa sobre clientes:                                             9.000
+   Contas a receber em 270 dias por venda de ativo imobilizado:                                             55.000
+   Empréstimo a sócio para recebimento em 30 dias:                                                          8.000
+   Adiantamento de salários de janeiro a empregados:                                                        13.000
+   Provisão para 13º salário:                                                                               80.000
+   Receita de vendas recebida antecipadamente:                                                              36.000
+Com base somente nos dados acima, o Ativo Circulante apresentado no Balanço Patrimonial da Cia. Rosa
+em 31/12/2013 era de
+(A) R$ 179.000,00.
+(B) R$ 192.000,00.
+(C) R$ 200.000,00.
+(D) R$ 204.000,00.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis            18
+           www.estrategiaconcursos.com.br                                                                            29
+
+                                               https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+(E) R$ 228.000,00.
+
+Comentários:
+
+São contas do ativo circulante:
+
+Estoques com previsão de vendas de 90 dias                        40.000
+Aluguel pago antecipadamente (12 meses, 2.000/mês)                24.000
+Caixa e equivalente caixa                                         12.000
+Clientes com vencimento em 180 dias                              60.000
+(-) Ajuste a valor presente a apropriar sobre clientes*          (3.000)
+(-) PCLD                                                          (9.000)
+Conta a receber por venda de imobilizado                         55.000
+Adiantamento a empregados                                        13.000
+Total                                                          192.000
+
+*A conta de Ajuste a Valor Presente a apropriar de clientes é retificadora da conta clientes.
+
+Gabarito: B
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   19
+           www.estrategiaconcursos.com.br                                                                   29
+
+                                       https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 01
+
+
+
+
+          QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas que exigem
+respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a memorização da matéria, e,
+consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+                                                     Perguntas
+
+1. Quais são as demonstrações contábeis obrigatórias de acordo com a Lei 6404/76?
+2. Quais demonstrações contábeis integram o conjunto completo de Demonstrações Contábeis do CPC
+26?
+3. Qual é a principal demonstrações contábil e o que ela evidencia?
+4. Quanto tempo dura o exercício social?
+5. Em quais situações as contas semelhantes podem ser agrupadas, de acordo com a LSA?
+6. Como está dividido o balanço patrimonial?
+7. Como estão dispostas as contas de ativo?
+8. De acordo com a Lei 6404/76, como está dividido o ativo circulante?
+9. Como são classificados os adiantamentos concedidos a sociedades controladas e não ligados à
+exploração do objeto social da empresa controladora ?
+10. Quais contas são classificadas no Ativo Não Circulante - Investimentos?
+11. Como podem ser avaliados esses investimentos?
+12. Qual a definição de Propriedade para Investimentos?
+13. Qual a definição de Ativo Imobilizado prevista na Lei 6404/76? Qual a definição prevista no CPC 27?
+14. Quando um imóvel alugado será classificado no Ativo Imobilizado e quando será classificado como
+Propriedade para Investimentos?
+15. O que é Ativo Biológico?
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                20
+         www.estrategiaconcursos.com.br                                                                                29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+     Aula 01
+
+
+
+
+                                          Perguntas com respostas
+
+1. Quais são as demonstrações contábeis obrigatórias de acordo com a Lei 6404/76?
+
+As demonstrações contábeis obrigatórias de acordo com a Lei 6404/76 são:
+
+I - balanço patrimonial;
+II - demonstração dos lucros ou prejuízos acumulados;
+III - demonstração do resultado do exercício; e
+IV – demonstração dos fluxos de caixa; e (Redação dada pela Lei nº 11.638,de 2007)
+V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei nº 11.638, de 2007)
+
+2. Quais demonstrações contábeis integram o conjunto completo de Demonstrações Contábeis do CPC
+26?
+
+Conjunto completo de demonstrações contábeis (CPC 26):
+
+ •    Balanço Patrimonial
+ •    Demonstração do Resultado do Exercício
+ •    Demonstração do Resultado Abrangente
+ •    Demonstração das Mutações do Patrimônio Líquido
+ •    Demonstração dos Fluxos de Caixa
+ •    Demonstração do Valor Adicionado
+ •    Notas Explicativas
+
+3. Qual é a principal demonstrações contábil e o que ela evidencia?
+
+O Balanço Patrimonial é a principal demonstração contábil e se destina a evidenciar, seja de forma
+qualitativa, seja de forma quantitativa, a posição patrimonial e financeira da entidade.
+
+4. Quanto tempo dura o exercício social?
+
+O exercício social terá duração de 1 (um) ano e a data do término será fixada no estatuto (LSA, art. 175).
+Na constituição da companhia e nos casos de alteração estatutária o exercício social poderá ter duração
+diversa (LSA, art. 175, parágrafo único).
+
+5. Em quais situações as contas semelhantes podem ser agrupadas, de acordo com a LSA?
+
+Nas demonstrações, as contas semelhantes poderão ser agrupadas; os pequenos saldos poderão ser
+agregados, desde que indicada a sua natureza e não ultrapassem 0,1 (um décimo) do valor do respectivo
+grupo de contas; mas é vedada a utilização de designações genéricas, como "diversas contas" ou "contas-
+correntes".
+
+6. Como está dividido o balanço patrimonial?
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   21
+           www.estrategiaconcursos.com.br                                                                   29
+
+                                       https://t.me/KakashiAssinaturasBot
+ . Túlio Lages
+ Aula  00 Magalhães, Júlio Cardozo
+     Filipe
+   Aula 01
+
+
+
+ O balanço patrimonial está dividido em ativo e passivo. Por sua vez, o Ativo está dividido em ativo circulante
+ e ativo não circulante. O Passivo está dividido em Passivo Circulante, Passivo Não Circulante e Patrimônio
+ Líquido.
+
+ 7. Como estão dispostas as contas de ativo?
+
+ No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos elementos nelas
+ registrados, nos seguintes grupos:
+
+ I – ativo circulante; e
+
+ II – ativo não circulante, composto por ativo realizável a longo prazo, investimentos, imobilizado e
+ intangível.
+                                                        ==219a34==
+
+
+
+
+ 8. De acordo com a Lei 6404/76, como está dividido o ativo circulante?
+
+ O ativo circulante é representado por: Disponibilidades, Direitos realizáveis no curso do exercício social
+ subsequente e Aplicações de recursos em despesas do exercício seguinte.
+
+ 9. Como são classificados os adiantamentos concedidos a sociedades controladas e não ligados à
+ exploração do objeto social da empresa controladora ?
+
+ Segundo a Lei das Sociedades por Ações (6.404/76), o ativo não circulante realizável a longo prazo é
+ composto por:
+
+ a) direitos realizáveis após o término do exercício seguinte;
+
+ b) direitos realizáveis derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou
+ controladas, diretores (administradores em geral), acionistas (ou sócios), ou participantes no lucro da
+ companhia, que não constituírem negócios usuais na exploração do objeto (atividade) da companhia.
+
+ No caso apresentado, o adiantamente deve ser classificado como ativo não circulante realizável em longo
+ prazo.
+
+ 10. Quais contas são classificadas no Ativo Não Circulante - Investimentos?
+
+ De acordo com o Art. 179, da Lei 6404/76, as contas serão classificadas do em investimentos as participações
+ permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo
+ circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa.
+
+ 11. Como podem ser avaliados esses investimentos?
+
+ Esses investimentos podem ser avaliados de três formas: o método do valor justo, o método de custo e o
+ método da equivalência patrimonial (MEP).
+
+12. Qual a definição de Propriedade para Investimentos?
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    22
+          www.estrategiaconcursos.com.br                                                                    29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+O CPC define como Propriedade para Investimentos aquela que é mantida para auferir aluguel ou para
+valorização (ou ambas), contanto que não sejam utilizadas para finalidades administrativas e nem sejam
+vendidas como curso ordinário do negócio.
+
+13.    Qual a definição de Ativo Imobilizado prevista na Lei 6404/76? Qual a definição prevista no CPC 27?
+
+De acordo com a Lei 6404/76 são classificadas no Ativo Não Circulante - Imobilizado:
+
+Art. 179. As contas serão classificadas do seguinte modo:
+
+IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção
+das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os
+decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens;
+(Redação dada pela Lei nº 11.638,de 2007)
+
+Definição de ativo imobilizado prevista no CPC 27:
+
+Ativo imobilizado é o item tangível que:
+
+(a) é mantido para uso na produção ou fornecimento de mercadorias ou serviços, para aluguel a
+outros, ou para fins administrativos; e
+
+(b) se espera utilizar por mais de um período.
+
+14. Quando um imóvel alugado será classificado no Ativo Imobilizado e quando será classificado como
+Propriedade para Investimentos?
+
+Se o aluguel estiver vinculado à atividade da empresa (residência na floresta para mineradores, casas na
+fazenda para os trabalhadores rurais, etc.) é imobilizado.
+
+Se o aluguel não estiver vinculado à atividade da empresa, e se destina apenas a gerar renda, então será
+classificado como propriedade para investimento.
+
+15. O que é Ativo Biológico?
+
+Ativo biológico é um animal e/ou uma planta, vivos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   23
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                     https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 01
+
+
+
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/PC AM/Investigador/4ª Classe/2022) Uma sociedade empresária apresentava os seguintes saldos
+   em 31/12/X0:
+Caixa e equivalente de caixa: R$ 50.000.
+Empréstimo a diretor com recebimento em 60 dias: R$ 25.000.
+Receita de vendas recebida antecipadamente com prazo de realização de 70 dias: 55.000.
+Estoques previstos para serem vendidos em 120 dias: 40.000,00.
+Clientes, com recebimento em 180 dias: 60.000,00.
+Aluguel pago antecipadamente, com apropriação linear e mensal por 24 meses: R$ 48.000.
+Terreno destinado à valorização: R$ 100.000.
+Perdas estimadas com teste de recuperabilidade do terreno: R$ 10.000.
+Perdas estimadas com desvalorização de estoques: R$ 4.000.
+Perdas estimadas com crédito de liquidação duvidosa: R$ 3.000.
+ Com base nos saldos acima, assinale a opção que indica o ativo circulante da empresa em 31/12/X0.
+ a) R$ 143.000.
+ b) R$ 167.000.
+ c) R$ 174.000.
+ d) R$ 192.000.
+ e) R$ 223.000.
+
+ 2. (FGV/Assistente Administrativo/SEFAZ AM/2022 Uma sociedade empresária apresentava os seguintes
+      saldos em seu balanço patrimonial, em 31/12/X0.
+ Caixa: R$20.000;
+ Estoque previsto para ser vendido em 390 dias: R$50.000;
+Despesa de seguros dos veículos paga antecipadamente em 31/12/X0 e que será apropriada mensalmente
+de forma linear por dois anos: R$12.000;
+ Contas a receber em 120 dias: R$60.000;
+ Empréstimo a acionista com prazo de recebimento de 180 dias: R$15.000;
+ Veículos utilizados no transporte de funcionários com vida útil estimada em 5 anos: R$80.000;
+ Depreciação acumulada dos veículos: R$54.000;
+ Perdas estimadas nos estoques: R$5.000; e
+ Perdas estimadas com crédito de liquidação duvidosa: R$3.000.
+Assinale a opção que indica o ativo realizável a longo prazo da sociedade empresária, em 31/12/X0:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   24
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+a) R$51.000.
+b) R$66.000.
+c) R$72.000.
+d) R$77.000.
+e) R$92.000.
+
+3. (FGV/SEFAZ-ES/Auditor/2021) Uma entidade que presta serviços de consultoria apresentava os
+     seguintes saldos em seu ativo, em 31/12/X0.
+• Disponibilidades: R$ 50.000;
+• Empréstimo concedido a sócio da entidade para pagamento em 3 meses: R$ 20.000;
+• Crédito Fiscal: R$ 15.000;
+• Automóveis utilizados no negócio: R$ 30.000;
+• Depreciação Acumulada dos automóveis: R$ 10.000;
+• Seguro antecipado dos automóveis, com vigência de dois anos: R$ 24.000.
+Assinale a opção que indica o valor do ativo realizável a longo prazo, em 31/12/X0.
+(A) R$ 27.000
+(B) R$ 32.000
+(C) R$ 47.000
+(D) R$ 59.000
+(E) R$ 79.000
+
+4. (FGV/TCE-PI/Assistente/2021) No Balanço Patrimonial, as contas do Ativo são organizadas em dois
+    grandes grupos, de acordo com o prazo de realização destas no ciclo operacional da entidade.
+Em geral, itens adquiridos para estoque com o objetivo de comercialização devem ser classificados como:
+(A) ativo circulante;
+(B) ativo realizável a longo prazo;
+(C) custo das mercadorias vendidas;
+(D) despesas antecipadas;
+(E) investimentos.
+
+5. (FGV/Prefeitura de Salvador – BA/Técnico de Nível Superior/2017) Em 31/12/2016, a Cia. Delta
+     apresentava os seguintes saldos de seus ativos em seu balancete:
+▪ Caixa: R$ 200.000;
+▪ Aplicação financeira considerada equivalente a caixa: R$ 100.000;
+▪ Estoques previstos para serem vendidos em 720 dias: R$ 300.000;
+▪ Provisão para Perdas nos Estoques: R$ 65.000;
+▪ Aluguel pago antecipadamente, apropriado mensalmente de forma linear por dois anos: R$ 120.000;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   25
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+▪ Carro: R$ 70.000;
+▪ Depreciação acumulada do carro: R$ 30.000;
+▪ Seguro do carro pago antecipadamente, apropriado mensalmente de forma linear por três anos: R$ 36.000;
+▪ Empréstimo a sócio que deverá ser recebido em 90 dias: R$ 45.000;
+▪ Contas a receber por venda de ativo imobilizado com prazo de 60 dias: R$ 80.000;
+▪ Perdas estimadas com créditos de liquidação duvidosa: R$ 25.000.
+Assinale a opção que indica o valor do ativo circulante da Cia. Delta, em 31/12/2016.
+a) R$ 372.000.
+b) R$ 415.000.
+c) R$ 427.000.
+d) R$ 472.000.                                         ==219a34==
+
+
+
+
+e) R$ 662.000.
+
+6. (FGV/CODEBA/Analista Portuário/2016) Em 31/12/15, uma sociedade empresária possuía contas
+     bancárias em três instituições financeiras diferentes. Os saldos na data de fechamento do balanço
+     patrimonial eram os seguintes:
+                                        Banco      Saldo em 31/12/15
+                                        Banco Alfa      100.000
+                                        Banco Beta       50.000
+                                        Banco Gama       -20.000
+Assinale a opção que indica como as contas deverão ser evidenciadas no balanço patrimonial da sociedade
+empresária, em 31/12/15:
+a) R$ 130.000 no Ativo Circulante.
+b) R$ 130.000 no Ativo Realizável a Longo Prazo.
+c) R$ 150.000 no Ativo Circulante e R$ 20.000 no Ativo Realizável a Longo Prazo.
+d) R$ 150.000 no Ativo Circulante e R$ 20.000 no Passivo Circulante.
+e) R$ 150.000 no Ativo Realizável a Longo Prazo e R$ 20.000 no Passivo não Circulante.
+
+7. (FGV/CODEBA/Analista Portuário/2016) Em 31/12/2015, uma sociedade empresária apresentava os
+    seguintes saldos em suas contas:
+                 Disponibilidades:                                                    R$ 80.000;
+                 Veículos utilizados na empresa:                                      R$ 100.000;
+                 Depreciação acumulada:                                               R$ 60.000;
+                 Seguro pago antecipadamente, apropriado mensalmente
+                                                                                       R$ 7.200;
+                 de modo linear por dois anos:
+                 Fornecedores com prazo de 90 dias;                                   R$ 70.000;
+                 Empréstimo a sócio para recebimento em 60 dias:                      R$ 18.000;
+                 Estoques previstos para serem vendidos em 540 dias:                  R$ 120.000;
+                 Provisão para perdas nos estoques:                                   R$ 10.000.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   26
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+Assinale a opção que indica o Ativo Circulante da sociedade empresária apresentado no Balanço Patrimonial
+de 31/12/2015:
+a) R$ 83.600.
+b) R$ 98.000.
+c) R$ 101.600.
+d) R$ 171.600.
+e) R$ 197.200.
+
+8. (FGV/Auditor/CGE/MA/2014) Em 31/12/2013, o balancete da Cia. Rosa apresentava os seguintes
+     saldos (em reais):
+  Estoques com previsão de venda de 90 dias:                                                              40.000
+  Aluguel pago antecipadamente com apropriação mensal e linear por 18 meses:                              36.000
+  Caixa e Equivalente de Caixa:                                                                           12.000
+  Clientes com vencimento em 180 dias:                                                                    60.000
+  Contas de Ajuste a valor presente a apropriar sobre clientes:                                           3.000
+  Provisão para Crédito de Liquidação Duvidosa sobre clientes:                                            9.000
+  Contas a receber em 270 dias por venda de ativo imobilizado:                                            55.000
+  Empréstimo a sócio para recebimento em 30 dias:                                                         8.000
+  Adiantamento de salários de janeiro a empregados:                                                       13.000
+  Provisão para 13º salário:                                                                              80.000
+  Receita de vendas recebida antecipadamente:                                                             36.000
+Com base somente nos dados acima, o Ativo Circulante apresentado no Balanço Patrimonial da Cia. Rosa
+em 31/12/2013 era de
+(A) R$ 179.000,00.
+(B) R$ 192.000,00.
+(C) R$ 200.000,00.
+(D) R$ 204.000,00.
+(E) R$ 228.000,00.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis            27
+         www.estrategiaconcursos.com.br                                                                            29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 01
+
+
+
+
+                                                GABARITO
+                                              QUESTÃO      GABARITO
+                                                 1            B
+                                                 2            B
+                                                 3            C
+                                                 4            A
+                                                 5            C
+                                                 6            D
+                                                 7            A
+                                                 8            B
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   28
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                     https://t.me/KakashiAssinaturasBot
+

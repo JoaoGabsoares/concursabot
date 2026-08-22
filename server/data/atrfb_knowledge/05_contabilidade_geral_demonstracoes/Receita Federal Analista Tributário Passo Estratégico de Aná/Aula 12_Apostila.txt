@@ -1,0 +1,1217 @@
+                                               Aula Extra
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                             19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+                                    ANÁLISE ESTATÍSTICA
+Olá, pessoal, na aula de hoje falaremos sobre os tópicos relativos ao item “Administração Financeira.
+Indicadores de Desempenho. Tipo. Variáveis. Planejamento financeiro de curto e longo prazo” do edital,
+tópicos que, a princípio, não seriam tratados neste curso. Contudo, conseguimos colher material e trazer, de
+modo sucinto, uma alternativa rápida para que vocês possam estudar este assunto. Obviamente, doutrinas
+específicas sobre administração financeira irão além do que falaremos aqui. Porém, trouxemos aqui uma
+síntese, com aquilo que acreditamos ter potencial para ser cobrado.
+
+
+ O que é mais cobrado dentro do assunto?
+
+Vamos ver como a banca FGV tem cobrado esse assunto:
+
+                  Tema                                                      % de Cobrança
+                  Índices de liquidez                                          35,56%
+                  Estrutura de capital e Índices de endividamento              21,11%
+                  Índices de Rentabilidade e Lucratividade                     17,78%
+                  Análise vertical e horizontal das demonstrações contábeis    13,33%
+                  Índices de atividade (rotação)                                8,89%
+                  Alavancagem financeira                                        1,11%
+                  Alavancagem operacional                                       1,11%
+                  EBIT (LAJIR) e EBITDA (LAJIDA)                                1,11%
+                  Total                                                         100%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+Contabilidade Financeira x Contabilidade Gerencial
+
+Contabilidade Financeira: segue as normas e os princípios de contabilidade. Tem auditoria externa, para
+verificar se os demonstrativos foram elaborados de conformidade com as regras contábeis.
+
+Contabilidade Gerencial: Não se prende a convenção ou princípio. Destina-se a fornecer informação para a
+administração da empresa, formatadas de acordo com as suas necessidades específicas. Para isso, usam
+conceitos e técnicas oriundos de diversas disciplinas, como a contabilidade, custos, análise de balanço,
+economia, estatística, administração de empresas etc.
+
+Orçamento
+
+Um dos instrumentos usados pela Contabilidade Gerencial é o Orçamento.
+
+O Orçamento é um instrumento de planejamento e de controle dos resultados da empresa. Está
+relacionado, normalmente, ao controle de curto prazo, principalmente do capital de giro e do caixa. Mas
+também deve ser usado para planejamento de longo prazo.
+
+O orçamento está mais relacionado com a administração financeira do que com a Contabilidade. Vejamos
+algumas noções iniciais de administração financeira:
+
+Administração Financeira: Uma Introdução
+
+O objetivo da administração financeira é maximizar o retorno para os acionistas da entidade, ao mesmo
+tempo em que propicie a liquidez necessária para atender aos compromissos financeiros. Assim, o objetivo
+básico é obter a maior rentabilidade possível, desde que não comprometa a liquidez da empresa.
+
+As principais áreas de atuação da administração financeira são as seguintes:
+
+--- Investimento:
+
+   •   Avaliação, Escolha das alternativas e também à estrutura ideal dos ativos da empresa
+   •   Mais importante das três decisões
+
+--- Financiamento:
+
+   •   Definir a estrutura ideal para as fontes de recursos, considerando a estrutura dos ativos da empresa.
+   •   A decisão envolve as seguintes variáveis: Valor do investimento; Disponibilidade de capital, próprio
+       ou de terceiros; Risco do investimento e Custo de capital das fontes de financiamento
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+--- Utilização (retenção) do lucro líquido:
+
+   •   Política de dividendos
+   •   Determina a parte dos lucros que será distribuída aos acionistas e a parte que será reinvestida na
+       empresa
+
+Planejamento Financeiro de Curto e Longo Prazo
+
+Um conceito de administração financeira: para evitar desequilíbrios financeiros, os ativos devem ser
+financiados com recursos que tenham prazo de exigibilidade compatível com o retorno esperado.
+
+Planejamento Financeiro de Curto Prazo → Capital de Giro ou Capital Circulante → Caixa, contas a receber,
+estoque
+
+Planejamento Financeiro de Longo prazo → Orçamento de Capital → Ativo não circulante, expansão futura
+
+Divisão do Planejamento
+
+O planejamento divide-se
+
+Estratégico → Longo prazo (5 anos ou mais)
+
+Tático→ Médio prazo (por volta de 3 anos)
+
+Operacional → Curto prazo
+
+Tipos de Orçamento
+
+As empresas, normalmente, elaboram diversos orçamentos interligados ou integrados. Os principais são:
+
+--- Orçamentos de Vendas:
+--- Orçamentos de Produção
+--- Orçamento das Despesas
+--- Orçamento de Capital (Investimentos permanentes, Imobilizado e Intangível)
+
+Os orçamentos podem ser:
+
+Orçamentos Tradicionais: partem da situação atual e projetam um aumento em função da inflação. Não há
+preocupação com metas ou com a otimização da utilização dos recursos financeiros.
+
+Por esse método, as atividades atuais já estão justificadas. Os gestores precisam apenas justificar os
+aumentos de gastos. Mas isso deixa de considerar importantes possibilidades de melhoria, como por
+exemplo a diminuição (ou a eliminação) de um determinado gasto para implementar uma alternativa mais
+rentável.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+Orçamento Base Zero: todos os gastos são examinados e precisam ser justificados. Ou seja, ao invés de partir
+de um determinado nível de gastos e justificar apenas os aumentos, no Orçamento Base Zero, todos os gastos
+devem ser analisados e justificados.
+
+Orçamento Flexível: Orçamento que se ajusta a qualquer nível de produção. Baseia-se na identificação e
+separação dos custos variáveis e custos fixos.
+
+Custos variáveis são aqueles que variam conforme a variação da quantidade produzida. Exemplo: matéria
+prima.
+
+Custos Fixos são aqueles que não sofrem variação em função da quantidade produzida. Exemplo: aluguel da
+fábrica.
+
+No orçamento variável, a empresa estima os custos fixos e os custos variáveis em função das vendas. Depois,
+fica fácil para ajustar o orçamento para diferentes níveis de quantidades vendidas.
+
+Exemplo: uma empresa estima que os seus custos variáveis sejam 40% do valor das vendas e o custo fixo e
+despesas fixas sejam de R$200.000.
+
+Podemos estimar o resultado para diferentes níveis de venda:
+
+                             Item            Estimativa 1 Estimativa 2 Estimativa 3
+                    Vendas                     300.000.00 400.000.00     500.000.00
+                    Custos variáveis (40%) - 120.000.00 - 160.000.00 - 200.000.00
+                    Custos fixos           - 200.000.00 - 200.000.00 - 200.000.00
+                    Lucro                  -    20.000.00    40.000.00   100.000.00
+
+Custo de Oportunidade
+
+Segundo Eliseu Martins, “o quanto a empresa sacrificou em termos de remuneração por ter aplicado seus
+recursos em uma alternativa ao invés de outra”.
+
+O custo de oportunidade representa, em verdade, um conceito econômico, não-contábil, daí a sua pequena
+utilização na contabilidade, seja ela geral, seja ela de custos.
+
+A análise, todavia, com base tão-somente nos retornos apresentados é algo temerário, posto que não
+estamos levando em consideração algo essencial: O RISCO. Assim, para resolver esse problema (de riscos
+distintos como regra) Eliseu Martins aponta duas soluções como viável:
+
+1) Tomar como comparações investimento de mesmo risco; ou
+
+2) Tomar sempre como parâmetro investimentos de risco zero (títulos do Governo Federal ou Caderneta de
+Poupança).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+Economic Value Aded. EVA (Lucro Residual)
+
+O conceito do Economic Value Added – EVA ( Valor Econômico Agregado) refere-se ao reconhecimento do
+custo de oportunidade do Capital Próprio para a apuração do resultado da empresa.
+
+Se o retorno de um determinado investimento é menor que o Custo de Oportunidade, é melhor desistir do
+investimento e aplica na melhor alternativa disponível.
+
+O cálculo pode ser realizado da seguinte forma:
+
+                                            EVA = NOPAT – (C% * TC)
+
+Onde:
+
+   ▪    NOPAT = Resultado Operacional Líquido depois dos Impostos (Net Operating Profit After Taxes);
+   ▪    C% = Custo percentual do capital total (próprio e de terceiros);
+   ▪    TC = Capital total investido
+
+Esta fórmula foi desenvolvida para os padrões Americanos. Como as Demonstrações Contábeis Brasileiras já
+consideram as despesas financeiras, o cálculo ficaria assim:
+
+                                            EVA = LOLAI – (CCP% * PL)
+
+Onde:
+
+   ▪    LOLAI = Lucro Operacional líquido após os impostos;
+   ▪    CCP% = custo do capital próprio (em percentagem): e
+   ▪    PL = Patrimônio Líquido.
+
+         Observação: Podemos substituir a expressão LOLAI pelo Lucro Líquido.
+
+                                              EVA = LL – (CCP% x PL)
+
+Avaliação de Projetos de Investimentos
+
+Um ponto crítico no sucesso de uma empresa envolve a avaliação de investimentos de capital, que são
+investimentos realizados para gerar retorno à longo prazo (mais de um ano, podendo chegar a 5, 10 ou mais
+anos). As decisões de investimentos são, em linhas gerais, as seguintes:
+
+--- Substituir (equipamentos, linha de produção etc.)
+--- Expandir (aumentar a capacidade de produção)
+--- Diversificar (incluir novos produtos, novas linhas de produção)
+--- Eliminar (máquinas, produtos, linhas de produção, etc)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+Métodos de Análise de Investimentos
+
+Payback – Período de Recuperação do Investimento.
+
+É o período necessário para que o desembolso do investimento inicial seja recuperado.
+
+Exemplo: A Empresa KLS está analisando o seguinte projeto de investimento:
+
+Desembolso inicial:            ($100.000)
+
+Entradas de caixa futuras:
+
+Ano 1          $25.000
+Ano 2          $45.000
+Ano 3          $60.000
+Ano 4          $60.000
+Ano 5          $60.000
+
+Nesse exemplo, o período de Payback é de 2,5 anos (dois anos e seis meses).
+
+O Payback é considerado uma medida de risco do investimento. Quanto maior o prazo do Payback, maior o
+risco.
+
+Pode ser também considerado uma medida de liquidez. Nesse caso, quanto menor o prazo, maior a liquidez.
+
+Mas apresenta dois sérios problemas:
+
+1) Não leva em conta o valor do dinheiro no tempo.
+
+2) Não leva em consideração os fluxos de caixa que ocorrem após o período de payback.
+
+Payback descontado.
+
+Uma crítica ao método consiste no uso de valores nominais. Mas o Payback pode ser calculado usando o
+fluxo de caixa descontado.
+
+O valor presente corresponde ao valor nominal dividido pela taxa de desconto.
+
+Veremos, a seguir, outros métodos de análise, considerando o valor do dinheiro no tempo.
+
+TIR – Taxa Interna de Retorno
+
+A Taxa Interna de Retorno – TIR – é a taxa que iguala as saídas e as entradas de caixa do investimento. Ou
+seja, é a taxa que o investimento rende para a empresa.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+A TIR também deve ser comparada com o custo de oportunidade, para verificar a viabilidade do projeto de
+investimento. Assim, se a empresa tem custo de oportunidade de 15% ao ano, só irá considerar aceitáveis
+os projetos que tiverem TIR maior que 15%.
+
+        ATENÇÂO: a TIR tem que ser calculada usando calculadora financeira ou Excel. Não se
+        preocupe com o cálculo, não dá para fazer “na mão”. A questão vai informar a TIR e você
+        deve apenas saber interpretá-la.
+
+VPL – Valor Presente Líquido
+
+O Valor Presente Líquido é a diferença entre as entradas de caixas, trazidas a valor presente pela taxa de
+desconto (taxa do custo de capital ou taxa de atratividade ou taxa do custo de oportunidade) adotada e o
+investimento (saída de caixa) inicial
+
+                Valor Presente Líquido = Valor presente líquido das entradas - investimento
+
+Os projetos de investimentos podem ser independentes (pode escolher qualquer um, a única limitação é o
+valor a ser investido) ou podem ser mutuamente excludentes (pode escolher ou um ou outro, mas não os
+dois ao mesmo tempo).
+
+Os projetos podem também ser dependentes um do outro (só pode investir em X se antes investir em Y).
+
+Análise de Sensibilidade
+
+No cálculo do VPL, a empresa trabalha com algumas estimativas, que formam o cenário mais provável para
+a quantidade vendida, o preço de venda, o custo da produção. Mas o que ocorreria se as vendas diminuíssem
+10%? Se o preço de venda diminuísse 15%? Ou se o custo do produto aumentasse 8%?
+
+A Análise de Sensibilidade consiste em alterar uma variável, mantendo as outras, e verificar o efeito sobre o
+resultado. É uma técnica importante para verificar a viabilidade e o risco do investimento.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+                                    APOSTA ESTRATÉGICA
+Estes conceitos iniciais já apareceram em provas:
+
+Planejamento Financeiro de Curto Prazo → Capital de Giro ou Capital Circulante → Caixa, contas a receber,
+estoque
+
+Planejamento Financeiro de Longo prazo → Orçamento de Capital → Ativo não circulante, expansão futura
+
+
+                                 QUESTÕES ESTRATÉGICAS
+    (FGV/FunSaúde CE/Médico/Auditor/2021) A respeito do orçamento, utilizado como instrumento de
+   controle de uma sociedade empresária, analise as afirmativas a seguir e assinale (V) para
+   a verdadeira e (F) para a falsa:
+( ) O orçamento é a expressão quantitativa e formal dos planos da sociedade empresária e seu
+planejamento cuidadoso é viral para a saúde de qualquer organização.
+( ) O orçamento define se as decisões da sociedade empresária são compatíveis com a capacidade de
+geração de caixa, com a estrutura de capital de giro ou com as metas de remuneração pretendidas.
+( ) O orçamento de uma sociedade empresarial é um plano administrativo abrangendo todas as fases das
+operações para um período futuro definido.
+As afirmativas são, na ordem apresentada, respectivamente,
+A F – V – V.
+B V – F – V.
+C V – V – V.
+D F – V – F.
+E V – V – F.
+
+Comentários:
+
+O Orçamento é um instrumento de planejamento e de controle dos resultados da empresa. Está
+relacionado, normalmente, ao controle de curto prazo, principalmente do capital de giro e do caixa. Mas
+também deve ser usado para planejamento de longo prazo.
+
+Orçamento pode ser definido como um conjunto de planos e políticas expressos em valores, que retratam o
+planejamento da empresa e possibilitam o seu controle.
+
+Mesmo as menores empresas possuem um Orçamento, uma Demonstração dos Resultados do Exercício
+(DRE) projetada, detalhando as vendas, CMV, outras receitas e outras despesas. Isto é fundamental para o
+planejamento e controle do lucro.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+Diante do exposto, podemos marcar os itens como verdadeiros:
+
+(V) O orçamento é a expressão quantitativa e formal dos planos da sociedade empresária e seu
+planejamento cuidadoso é viral para a saúde de qualquer organização.
+(V) O orçamento define se as decisões da sociedade empresária são compatíveis com a capacidade de
+geração de caixa, com a estrutura de capital de giro ou com as metas de remuneração pretendidas.
+(V) O orçamento de uma sociedade empresarial é um plano administrativo abrangendo todas as fases das
+operações para um período futuro definido.
+
+Gabarito: C
+
+    (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um profissional de mercado realizou
+   a análise econômico financeira de uma empresa do setor siderúrgico e, para tanto, fez uso das
+   informações contábeis divulgadas em sua Demonstração de Resultado de Exercício – DRE de 2014, que
+   apresentou lucro líquido de R$ 1 milhão. Ao calcular o EVA® (Economic Value Added ou Valor
+   Econômico Adicionado) da empresa para o mesmo período, o profissional:
+A considerou um custo que não afeta seu lucro líquido;
+B considerou a receita financeira da empresa;
+C encontrou o valor operacional da empresa;
+D encontrou um resultado negativo;
+E encontrou um resultado positivo.
+
+Comentários:
+
+O conceito do Economic Value Added – EVA (Valor Econômico Agregado) refere-se ao reconhecimento do
+custo de oportunidade do Capital Próprio para a apuração do resultado da empresa.
+
+A fórmula é a seguinte:
+
+                                            EVA = LOLAI – (CCP% * PL)
+
+Onde:
+
+   ▪    LOLAI = Lucro Operacional líquido após os impostos;
+   ▪    CCP% = custo do capital próprio (em percentagem): e
+   ▪    PL = Patrimônio Líquido.
+
+         Observação: Podemos substituir a expressão LOLAI pelo Lucro Líquido.
+
+                                              EVA = LL – (CCP% x PL)
+
+Quando apuramos contabilmente o lucro, o Capital de Terceiros (empréstimos, financiamentos) é
+remunerado, através dos juros e encargos financeiros. Mas o Capital dos Acionistas, não. Portanto, o “lucro
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+contábil” apurado pode não estar cobrindo a remuneração que os acionistas poderiam obter em outra
+aplicação.
+
+Vejamos um exemplo: Vamos supor que alguém invista 100.000 na criação de uma empresa. Se investisse
+no mercado financeiro, a taxa de retorno seria de 15% ao ano. Se o lucro anual da empresa for de 5.000 (5%
+sobre o investimento), do ponto de vista do investidor, não haveria lucro Haveria um prejuízo de 10.000, que
+é a diferença entre o que ele poderia ganhar numa aplicação alternativa e o que ele efetivamente ganhou.
+
+Assim, aplicando conceitualmente o EVA, só haveria lucro após a cobertura de todos os custos, inclusive o
+custo do Capital Próprio.
+
+O EVA é o lucro residual após a apropriação do custo do capital próprio. (A remuneração do capital de
+terceiros já aparece na DRE, na forma de despesas financeiras e juros).
+
+Diante do exposto, ao calcular o EVA da empresa para o mesmo período, o profissional considerou um custo
+que não afeta seu lucro líquido (custo do Capital Próprio)
+
+Gabarito: A
+
+   (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um profissional de mercado realizou
+   a análise econômico-financeira de uma empresa e, para tanto, fez uso das informações contábeis
+   divulgadas em sua Demonstração de Resultado de Exercício – DRE de 2014, que apresentou lucro
+   líquido de R$ 5 milhões. Ao calcular o EVA® (Economic Value Added ou Valor Econômico Adicionado)
+   da empresa para o mesmo período, o profissional:
+A considerou o custo de capital próprio da empresa;
+B considerou todos os ganhos de capital da empresa;
+C encontrou o valor da empresa para seus donos;
+D encontrou um valor negativo;
+
+E encontrou um valor positivo   .
+Comentários:
+
+O EVA é o lucro residual após a apropriação do custo do capital próprio. (A remuneração do capital de
+terceiros já aparece na DRE, na forma de despesas financeiras e juros).
+
+Assim, ao calcular o EVA da empresa para o mesmo período, o profissional considerou o custo de capital
+próprio da empresa.
+
+Gabarito: A
+
+   (FGV/ISS Cuiabá/Auditor Fiscal Tributário da Receita Municipal/2014) No âmbito da administração
+   financeira empresarial, existem funções típicas do administrador financeiro. Uma dessas funções é a
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+   de tratar dos processos de tomada de decisão que definem a melhor estrutura dos ativos de uma
+   organização, considerando a relação entre risco e retorno.
+A função descrita refere à
+A tomada de decisões de investimento.
+B tomada de decisões de financiamento.
+C tomada de decisões de análise.
+D análise, ao planejamento e ao controle financeiro.
+E tomada de decisões de controle financeiro.
+
+Comentários:
+
+O objetivo da administração financeira é maximizar o retorno para os acionistas da entidade, ao mesmo
+                                                      ==219a34==
+
+
+
+
+tempo em que propicie a liquidez necessária para atender aos compromissos financeiros. Assim, o objetivo
+básico é obter a maior rentabilidade possível, desde que não comprometa a liquidez da empresa.
+
+As principais áreas de atuação da administração financeira são as seguintes:
+
+--- Investimento: refere-se à avaliação e escolha das alternativas de investimentos dos recursos da
+empresa, e também à estrutura ideal dos ativos da empresa (ativos correntes x ativos não correntes). É
+considerada a mais importante das três decisões, pois relaciona-se com a própria razão de ser da empresa –
+investimento para produzir e conseguir resultados.
+
+--- Financiamento: definir a estrutura ideal para as fontes de recursos, considerando a estrutura dos ativos
+da empresa. É necessário definir a melhor combinação entre capital de terceiros e capital próprio. A decisão
+envolve as seguintes variáveis:
+
+--- Utilização (retenção) do lucro líquido: é a política de dividendos, que determina a parte dos lucros que
+será distribuída aos acionistas e a parte que será reinvestida na empresa. É a “política de dividendos”.
+
+Com base no exposto, a tomada de decisões de investimento é a função descrita.
+
+Gabarito: A
+
+
+
+No que se refere à gestão de projetos, gestão de processos e administração financeira, julgue o item
+seguinte.
+
+   (CEBRASPE/TCE-SC/Auditor Fiscal de Controle Externo/Administração/2022) Suponha-se que dois
+   adolescentes recebam mesadas mensais: um deles, com 14 anos de idade, pretende guardar os
+   recursos para iniciar sua faculdade aos 18 anos; o outro, com 17 anos de idade, pretende guardar os
+   recursos para realizar uma viagem ao exterior logo que completar 18 anos, o que ocorrerá daqui a 11
+   meses. Nessa situação, são relatados, respectivamente, um planejamento financeiro de longo prazo e
+   outro de curto prazo.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+Comentários:
+
+O planejamento financeiro de curto prazo envolve a administração do capital de giro (caixa, disponibilidades,
+estoques, contas a receber de curto prazo). E o planejamento financeiro de longo prazo envolve o
+financiamento dos ativos não circulantes (imobilizado, intangível, etc), incluindo eventual expansão das
+atividades da empresa.
+
+Suponha-se que dois adolescentes recebam mesadas mensais:
+
+um deles, com 14 anos de idade, pretende guardar os recursos para iniciar sua faculdade aos 18 anos;
+
+No caso do primeiro adolescente, temos um planejamento de 4 Anos, ou melhor, de longo prazo.
+
+O planejamento financeiro de longo prazo envolve o financiamento dos ativos não circulantes (imobilizado,
+intangível, etc), incluindo eventual expansão das atividades da empresa.
+
+o outro, com 17 anos de idade, pretende guardar os recursos para realizar uma viagem ao exterior logo
+que completar 18 anos, o que ocorrerá daqui a 11 meses.
+
+O planejamento financeiro de custo prazo consiste na administração do Capital de Giro ou Capital Circulante,
+que é o Ativo circulante
+
+Assim é correto afirmar que nessa situação, são relatados, respectivamente, um planejamento financeiro de
+longo prazo e outro de curto prazo.
+
+Gabarito: Certo
+
+   (CETREDE/Pref. Icapuí/Auditor Interno Engenharia/2021) Na análise e planejamento financeiro, deve-
+   se levar em consideração para a tomada de decisões de investimento os
+A recursos de longo prazo.
+B ativos circulantes e permanentes.
+C passivos circulantes.
+D ativos circulantes, somente.
+E ativos permanentes, somente.
+
+Comentários:
+
+Vimos que temos o planejamento financeiro de curto e de longo prazo. O primeiro envolve o ativo circulante
+e o segundo, ativo não circulante (permanentes).
+
+Gabarito: B
+
+
+
+No que se refere às normas básicas da contabilidade, julgue o item.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+   (QUADRIX/CRN 9/Auxiliar de Contabilidade/2019) O orçamento é um instrumento de planejamento
+   usado por entidades com ou sem fins lucrativos.
+
+Comentários:
+
+Orçamento pode ser definido como um conjunto de planos e políticas expressos em valores, que retratam o
+planejamento da empresa e possibilitam o seu controle.
+
+Mesmo as menores empresas possuem um Orçamento, uma Demonstração dos Resultados do Exercício
+(DRE) projetada, detalhando as vendas, CMV, outras receitas e outras despesas. Isto é fundamental para o
+planejamento e controle do lucro. Assim é correto que ele é um instrumento de planejamento usado por
+entidades com ou sem fins lucrativos.
+
+Gabarito: Certo
+
+   (IF SUL/2019) Uma universidade privada pretende ofertar um novo curso e, para isso, está avaliando a
+   viabilidade econômica de três cursos diferentes (mutuamente exclusivos). A tabela abaixo fornece as
+   informações necessárias para a tomada de decisão econômica, considerando os primeiros cinco anos
+   de matrículas.
+                                                 Curso A Curso B Curso C
+                              Investimento inicial (R$) -80.000 -90.000 -110.000
+                              Lucro ano 1 (R$)           20.000 22.500 27.500
+                              Lucro ano 2 (R$)           34.400 40.500 51.700
+                              Lucro ano 3 (R$)           29.600 35.000 48.500
+                              Lucro ano 4 (R$)           26.400 32.400 44.000
+                              Lucro ano 5 (R$)           24.000 29.000 41.800
+                              Taxa interna de retorno 20,03% 22,14% 25,68%
+Com base na análise da taxa interna de retorno e em uma taxa mínima de atratividade de 23% ao ano, a
+universidade deve
+A) descartar a oferta do curso “C”, pois apresenta o maior investimento inicial.
+B) escolher ofertar o curso “A”, pois a taxa mínima de atratividade de 23% ao ano é maior do que a taxa
+interna de retorno de 20,03% ao ano.
+C) escolher ofertar o curso “C”, pois é o único curso viável economicamente dentre as propostas
+apresentadas.
+D) fazer uma análise incremental entre os fluxos de caixa dos cursos “A” e “B”, pois ambos são viáveis
+economicamente.
+
+Comentário:
+
+A questão menciona a taxa interna de retorno de cada projeto e informa que a taxa mínima de atratividade
+é de 23%. Assim, os projetos com TIR acima de 23% podem ser aceitos; os que tem TIR menor que 23 devem
+ser rejeitados. O único projeto com TIR acima de 23% é o Curso C. Portanto, é o que deve ser escolhido.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+Gabarito: C
+
+   (UFG/2019) Uma universidade decidiu reduzir os custos no restaurante universitário (RU) a partir da
+   compra de novas máquinas no valor de R$ 20.000,00. Segundo estimativas do setor, as novas
+   instalações reduzirão o custo da refeição em 20%. No RU, são servidas 5.000 refeições por mês ao custo
+   unitário de R$ 2,50. Assim sendo, o tempo necessário para recuperar o investimento será de
+A) 8 meses.
+B) 10 meses.
+C) 12 meses.
+D) 14 meses.
+
+Comentário:
+
+O custo mensal é de 5.000 refeições x R$ 2,50 = $ 12.500.
+
+Economia de 20% = $ 12.500 x 20% = $ 2.500.
+
+Investimento (valor das máquinas) = $ 20.000
+
+Playback = $ 20.000 / $ 2.500 = 8 meses
+
+Gabarito: B
+
+   (IBFC/PREF. CRUZEIRO DO SUL/2019) A firma C precisa decidir se vai introduzir novo produto no
+   mercado consumidor, mas para isso ela deve investir um valor de R$ 100.000,00 no ano 0. O fluxo de
+   caixa esperado no ano 1 é de x reais, com fluxo de caixa crescendo a cada ano em 20% com relação ao
+   ano anterior. Seja a taxa de juros efetiva de referência de 10% a.a e que a venda do produto acontecerá
+   somente até o ano 3, assinale a alternativa correta que apresenta o valor de x para que o Valor
+   Presente Líquido seja nulo.
+A) R$ 10.000,00
+B) R$ 42.000,00
+C) R$ 33.333,33
+D) R$ 33.526,45
+
+Comentário:
+
+Vamos estruturar o problema:
+
+Valor inicial = $100.000
+Valor inicial = X, com crescimento de 20% ao ano
+Taxa de desconto anual = 10%
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+                                            Início   Ano 1 Ano 2 Ano 3
+                                    Saída   -100.000
+                                    Entrada          X     1,2 X 1,44 X
+
+Agora, vamos descontar o valor do Ano 3 (dividir por 1,1), somar com o valor do ano 2 e descontar (dividir
+por 1,1), assim por diante, até encontrar a quantidade de X a valor presente.
+
+Ano 3 = 1,44 / 1,1 = 1,31
+Ano 2 = (1,2 X + 1,31 X) / 1,1 = 1,28
+Ano 1 = (X + 2,28) / 1,1 = 2,9818
+
+Agora vamos calcular o valor de X:
+
+X = 100.000 / 2,9818 = 33.536,78
+
+A diferença para alternativa D é arredondamento.
+
+Gabarito: D
+
+   (INSTITUTO AOCP/UFPB/Economista/2019) Considerando as técnicas de orçamentação de capital para
+   a escolha de alternativas de investimento, a partir das seguintes informações, assinale a alternativa
+   correta.
+                 Projetos                              Alfa    Beta Teta         Zeta
+                 Taxa Mínima de Atratividade (TMA) 14%          14%     14%      14%
+                 VPL                                - $ 3.850 $ 6.450 $ 8.150 - $ 3.350
+                 TIR                                   13%      44%     37%      13%
+A) O Projeto Zeta é o mais rentável.
+B) O Projeto Alfa é o menos rentável.
+C) O Projeto Teta é o menos rentável.
+D) O Projeto Beta não é aceitável economicamente.
+E) Os projetos Beta e Teta são aceitáveis economicamente.
+
+Comentário:
+
+A rentabilidade de cada projeto é a TIR – taxa interna de retorno. Vamos analisar as assertivas:
+
+A) O Projeto Zeta é o mais rentável. ERRADO, o mais rentável é Beta, que tem TIR de 44%.
+
+B) O Projeto Alfa é o menos rentável. ERRADO, Alfa e Zeta tem TIR de 13% e, portanto, são os menos
+rentáveis.
+
+C) O Projeto Teta é o menos rentável. ERRADO. Alfa e Zeta são os menos rentáveis.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+D) O Projeto Beta não é aceitável economicamente. ERRADO. A taxa mínima de atratividade é de 14% e Beta
+tem TIR de 44%.
+
+E) Os projetos Beta e Teta são aceitáveis economicamente. CERTO. Beta e TETA tem TIR maior que a taxa
+mínima de atratividade.
+
+Gabarito: E
+
+   (CEBRASPE/TJ-CE/Engenharia de Produção/2014) Como método que trata da análise do retorno de
+   investimento, o payback
+A) é uma medida de liquidez do projeto em que, quanto menor o período de payback, maior será a liquidez.
+B) desconsidera o risco do projeto.
+C) possui como vantagem a consideração do dinheiro no tempo.
+D)considera os fluxos de caixa que ocorrem após decurso do tempo de payback.
+E) é de difícil aplicação e interpretação, pois é um método de cunho subjetivo.
+
+Comentário:
+
+A) é uma medida de liquidez do projeto em que, quanto menor o período de payback, maior será a liquidez.
+
+CERTO. O playback pode ser considerado medida de liquidez e também medida de risco. Quanto menor o
+período, maior a liquidez e menor o risco.
+
+B) desconsidera o risco do projeto.
+
+ERRADO. Como mencionamos acima, o payback também é considerado uma medida do risco do projeto.
+
+C) possui como vantagem a consideração do dinheiro no tempo.
+
+ERRADO. Essa é uma das desvantagens no payback, não considerar o dinheiro no tempo. As entradas são
+somadas pelo valor nominal.
+
+D)considera os fluxos de caixa que ocorrem após decurso do tempo de payback.
+
+ERRADO. Uma desvantagem do método é não considerar os fluxos de caixa que ocorrem após o payback.
+
+E) é de difícil aplicação e interpretação, pois é um método de cunho subjetivo.
+
+ERRADO. O payback é de fácil aplicação e entendimento.
+
+Gabarito: A
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+Filipe Magalhães, Júlio Cardozo
+Aula Extra
+
+
+
+
+       QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+Perguntas
+
+ 1.   O que é Orçamento?
+ 2.   Qual é o objetivo da administração financeira?
+ 3.   Quais são as principais áreas de atuação da administração financeira?
+ 4.   Quais são os tipos de planejamento financeiro?
+ 5.   Como se divide o planejamento?
+ 6.   Os orçamentos podem ser?
+ 7.   O que é Custo de Oportunidade?
+ 8.   O que é Economic Value Aded. (EVA)?
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+       www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+ Perguntas com respostas
+   1. O que é Orçamento?
+
+É um instrumento de planejamento e de controle dos resultados da empresa. Está relacionado,
+normalmente, ao controle de curto prazo, principalmente do capital de giro e do caixa. Mas também deve
+ser usado para planejamento de longo prazo.
+
+   2. Qual é o objetivo da administração financeira?
+
+É maximizar o retorno para os acionistas da entidade, ao mesmo tempo em que propicie a liquidez necessária
+para atender aos compromissos financeiros. Assim, o objetivo básico é obter a maior rentabilidade possível,
+desde que não comprometa a liquidez da empresa.
+
+   3. Quais são as principais áreas de atuação da administração financeira?
+
+As principais áreas de atuação da administração financeira são as seguintes:
+
+--- Investimento: refere-se à avaliação e escolha das alternativas de investimentos dos recursos da empresa,
+e também à estrutura ideal dos ativos da empresa (ativos correntes x ativos não correntes). É considerada a
+mais importante das três decisões, pois relaciona-se com a própria razão de ser da empresa – investimento
+para produzir e conseguir resultados.
+
+--- Financiamento: definir a estrutura ideal para as fontes de recursos, considerando a estrutura dos ativos
+da empresa. É necessário definir a melhor combinação entre capital de terceiros e capital próprio. A decisão
+envolve as seguintes variáveis: Valor do investimento, Disponibilidade de capital, próprio ou de terceiros,
+Risco do investimento e Custo de capital das fontes de financiamento
+
+--- Utilização (retenção) do lucro líquido: é a política de dividendos, que determina a parte dos lucros que
+será distribuída aos acionistas e a parte que será reinvestida na empresa. É a “política de dividendos”.
+
+   4. Quais são os tipos de planejamento financeiro?
+
+O planejamento financeiro de curto prazo envolve a administração do capital de giro (caixa, disponibilidades,
+estoques, contas a receber de curto prazo). E o planejamento financeiro de longo prazo envolve o
+financiamento dos ativos não circulantes (imobilizado, intangível, etc), incluindo eventual expansão das
+atividades da empresa.
+
+   5. Como se divide o planejamento?
+
+O planejamento divide-se em Estratégico, Tático e Operacional.
+
+Planejamento Estratégico refere-se ao longo prazo (5 anos ou mais).
+
+Planejamento tático refere-se ao médio prazo (por volta de 3 anos).
+
+Planejamento operacional está relacionado com o curto prazo.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+   6. Os orçamentos podem ser?
+
+Orçamentos Tradicionais: partem da situação atual e projetam um aumento em função da inflação. Não há
+preocupação com metas ou com a otimização da utilização dos recursos financeiros. Por esse método, as
+atividades atuais já estão justificadas. Os gestores precisam apenas justificar os aumentos de gastos. Mas
+isso deixa de considerar importantes possibilidades de melhoria, como por exemplo a diminuição (ou a
+eliminação) de um determinado gasto para implementar uma alternativa mais rentável.
+
+Orçamento Base Zero: todos os gastos são examinados e precisam ser justificados. Ou seja, ao invés de partir
+de um determinado nível de gastos e justificar apenas os aumentos, no Orçamento Base Zero, todos os gastos
+devem ser analisados e justificados.
+
+Orçamento Flexível: Orçamento que se ajusta a qualquer nível de produção. Baseia-se na identificação e
+separação dos custos variáveis e custos fixos.
+
+   7. O que é Custo de Oportunidade?
+
+CONCEITO: O custo de oportunidade é, sinteticamente, aquilo que a empresa sacrificou por ter preferido
+uma alternativa em substituição a outra.
+
+É, repita-se, segundo Eliseu Martins, “o quanto a empresa sacrificou em termos de remuneração por ter
+aplicado seus recursos em uma alternativa ao invés de outra”.
+
+   8. O que é Economic Value Aded. (EVA)?
+
+O conceito do Economic Value Added – EVA (Valor Econômico Agregado) refere-se ao reconhecimento do
+custo de oportunidade do Capital Próprio para a apuração do resultado da empresa.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+    (FGV/FunSaúde CE/Médico/Auditor/2021) A respeito do orçamento, utilizado como instrumento de
+   controle de uma sociedade empresária, analise as afirmativas a seguir e assinale (V) para
+   a verdadeira e (F) para a falsa:
+( ) O orçamento é a expressão quantitativa e formal dos planos da sociedade empresária e seu
+planejamento cuidadoso é viral para a saúde de qualquer organização.
+( ) O orçamento define se as decisões da sociedade empresária são compatíveis com a capacidade de
+geração de caixa, com a estrutura de capital de giro ou com as metas de remuneração pretendidas.
+( ) O orçamento de uma sociedade empresarial é um plano administrativo abrangendo todas as fases das
+operações para um período futuro definido.
+As afirmativas são, na ordem apresentada, respectivamente,
+A F – V – V.
+B V – F – V.
+C V – V – V.
+D F – V – F.
+E V – V – F.
+
+     (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um profissional de mercado realizou
+   a análise econômico financeira de uma empresa do setor siderúrgico e, para tanto, fez uso das
+   informações contábeis divulgadas em sua Demonstração de Resultado de Exercício – DRE de 2014, que
+   apresentou lucro líquido de R$ 1 milhão. Ao calcular o EVA® (Economic Value Added ou Valor
+   Econômico Adicionado) da empresa para o mesmo período, o profissional:
+A considerou um custo que não afeta seu lucro líquido;
+B considerou a receita financeira da empresa;
+C encontrou o valor operacional da empresa;
+D encontrou um resultado negativo;
+E encontrou um resultado positivo.
+
+   (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um profissional de mercado realizou
+   a análise econômico-financeira de uma empresa e, para tanto, fez uso das informações contábeis
+   divulgadas em sua Demonstração de Resultado de Exercício – DRE de 2014, que apresentou lucro
+   líquido de R$ 5 milhões. Ao calcular o EVA® (Economic Value Added ou Valor Econômico Adicionado)
+   da empresa para o mesmo período, o profissional:
+A considerou o custo de capital próprio da empresa;
+B considerou todos os ganhos de capital da empresa;
+C encontrou o valor da empresa para seus donos;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+D encontrou um valor negativo;
+E encontrou um valor positivo.
+
+   (FGV/ISS Cuiabá/Auditor Fiscal Tributário da Receita Municipal/2014) No âmbito da administração
+   financeira empresarial, existem funções típicas do administrador financeiro. Uma dessas funções é a
+   de tratar dos processos de tomada de decisão que definem a melhor estrutura dos ativos de uma
+   organização, considerando a relação entre risco e retorno.
+A função descrita refere à
+A tomada de decisões de investimento.
+B tomada de decisões de financiamento.
+C tomada de decisões de análise.
+D análise, ao planejamento e ao controle financeiro.
+E tomada de decisões de controle financeiro.
+
+
+No que se refere à gestão de projetos, gestão de processos e administração financeira, julgue o item
+seguinte.
+
+   (CEBRASPE/TCE-SC/Auditor Fiscal de Controle Externo/Administração/2022) Suponha-se que dois
+   adolescentes recebam mesadas mensais: um deles, com 14 anos de idade, pretende guardar os
+   recursos para iniciar sua faculdade aos 18 anos; o outro, com 17 anos de idade, pretende guardar os
+   recursos para realizar uma viagem ao exterior logo que completar 18 anos, o que ocorrerá daqui a 11
+   meses. Nessa situação, são relatados, respectivamente, um planejamento financeiro de longo prazo e
+   outro de curto prazo.
+   (CETREDE/Pref. Icapuí/Auditor Interno Engenharia/2021) Na análise e planejamento financeiro, deve-
+   se levar em consideração para a tomada de decisões de investimento os
+A recursos de longo prazo.
+B ativos circulantes e permanentes.
+C passivos circulantes.
+D ativos circulantes, somente.
+E ativos permanentes, somente.
+
+
+No que se refere às normas básicas da contabilidade, julgue o item.
+
+   (QUADRIX/CRN 9/Auxiliar de Contabilidade/2019) O orçamento é um instrumento de planejamento
+   usado por entidades com ou sem fins lucrativos.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+
+   (IF SUL/2019) Uma universidade privada pretende ofertar um novo curso e, para isso, está avaliando a
+   viabilidade econômica de três cursos diferentes (mutuamente exclusivos). A tabela abaixo fornece as
+   informações necessárias para a tomada de decisão econômica, considerando os primeiros cinco anos
+   de matrículas.
+                                                   Curso A Curso B Curso C
+                              Investimento inicial (R$) -80.000 -90.000 -110.000
+                              Lucro ano 1 (R$)           20.000 22.500 27.500
+                              Lucro ano 2 (R$)           34.400 40.500 51.700
+                              Lucro ano 3 (R$)           29.600 35.000 48.500
+                              Lucro ano 4 (R$)           26.400 32.400 44.000
+                              Lucro ano 5 (R$)           24.000 29.000 41.800
+                              Taxa interna de retorno 20,03% 22,14% 25,68%
+Com base na análise da taxa interna de retorno e em uma taxa mínima de atratividade de 23% ao ano, a
+universidade deve
+A) descartar a oferta do curso “C”, pois apresenta o maior investimento inicial.
+B) escolher ofertar o curso “A”, pois a taxa mínima de atratividade de 23% ao ano é maior do que a taxa
+interna de retorno de 20,03% ao ano.
+C) escolher ofertar o curso “C”, pois é o único curso viável economicamente dentre as propostas
+apresentadas.
+D) fazer uma análise incremental entre os fluxos de caixa dos cursos “A” e “B”, pois ambos são viáveis
+economicamente.
+
+   (UFG/2019) Uma universidade decidiu reduzir os custos no restaurante universitário (RU) a partir da
+   compra de novas máquinas no valor de R$ 20.000,00. Segundo estimativas do setor, as novas
+   instalações reduzirão o custo da refeição em 20%. No RU, são servidas 5.000 refeições por mês ao custo
+   unitário de R$ 2,50. Assim sendo, o tempo necessário para recuperar o investimento será de
+A) 8 meses.
+B) 10 meses.
+C) 12 meses.
+D) 14 meses.
+
+   (IBFC/PREF. CRUZEIRO DO SUL/2019) A firma C precisa decidir se vai introduzir novo produto no
+   mercado consumidor, mas para isso ela deve investir um valor de R$ 100.000,00 no ano 0. O fluxo de
+   caixa esperado no ano 1 é de x reais, com fluxo de caixa crescendo a cada ano em 20% com relação ao
+   ano anterior. Seja a taxa de juros efetiva de referência de 10% a.a e que a venda do produto acontecerá
+   somente até o ano 3, assinale a alternativa correta que apresenta o valor de x para que o Valor
+   Presente Líquido seja nulo.
+A) R$ 10.000,00
+B) R$ 42.000,00
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula Extra
+
+
+
+C) R$ 33.333,33
+D) R$ 33.526,45
+
+   (INSTITUTO AOCP/UFPB/Economista/2019) Considerando as técnicas de orçamentação de capital para
+   a escolha de alternativas de investimento, a partir das seguintes informações, assinale a alternativa
+   correta.
+                 Projetos                              Alfa    Beta Teta         Zeta
+                 Taxa Mínima de Atratividade (TMA) 14%          14%     14%      14%
+                 VPL                                - $ 3.850 $ 6.450 $ 8.150 - $ 3.350
+                 TIR                                   13%      44%     37%      13%
+A) O Projeto Zeta é o mais rentável.
+B) O Projeto Alfa é o menos rentável.
+C) O Projeto Teta é o menos rentável.
+D) O Projeto Beta não é aceitável economicamente.
+E) Os projetos Beta e Teta são aceitáveis economicamente.
+
+   (CEBRASPE/TJ-CE/Engenharia de Produção/2014) Como método que trata da análise do retorno de
+   investimento, o payback
+A) é uma medida de liquidez do projeto em que, quanto menor o período de payback, maior será a liquidez.
+B) desconsidera o risco do projeto.
+C) possui como vantagem a consideração do dinheiro no tempo.
+D)considera os fluxos de caixa que ocorrem após decurso do tempo de payback.
+E) é de difícil aplicação e interpretação, pois é um método de cunho subjetivo.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+Filipe Magalhães, Júlio Cardozo
+Aula Extra
+
+
+
+
+                                          GABARITO
+                                                  1 C
+                                                  2 A
+                                                  3 A
+                                                  4 A
+                                                  5 CERTO
+                                                  6 B
+                                                  7 CERTO
+                                                  8 C
+                                                  9 B
+                                                 10 D
+                                                 11 E
+                                                 12 A
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+      www.estrategiaconcursos.com.br
+
+                                  https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,2545 @@
+                                                    Aula 07
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+
+
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+
+
+
+                                              14 de Maio de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    IMPOSTOS DE COMPETÊNCIA DOS ESTADOS
+
+
+
+
+    1. Palavras do Professor .........................................................................2
+    2. Importância do Assunto .....................................................................3
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?................................................ 4
+    3. Roteiro de Revisão e Pontos que merecem Destaque .......................5
+    4. Aposta Estratégica ..........................................................................28
+    5. Questões Estratégicas .....................................................................29
+          QUESTÕES FGV.............................................................................................. 29
+    6. Questionário de Revisão e Aperfeiçoamento ..................................43
+    7. Lista de Questões Estratégicas ........................................................49
+          QUESTÕES FGV.............................................................................................. 49
+          GABARITO ...................................................................................................... 53
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           principais pontos sobre os Impostos de Competência dos
+                           Estados.
+
+                           Vamos ver as Características, especificidades e jurisprudência
+                           do ICMS, do ITCMD (também chamado de ITCD ou ITD) e do
+    IPVA, sempre mirando o que tem sido cobrado em prova.
+
+
+
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+
+
+
+              “Sem o esforço da busca, é impossível a alegria do
+                                 encontro”
+
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          2
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    2. IMPORTÂNCIA DO ASSUNTO
+
+    Com base na análise estatística das questões de Concursos dos últimos anos,
+    temos o seguinte resultado para o(s) assunto(s) que serão tratados neste
+    relatório:
+
+
+
+                            Assunto do Edital                                         FGV
+
+                             Impostos Estaduais                                       6,27%
+
+
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos, que o assunto “Impostos Estaduais” possui importância Alta,
+    tendo aparecido em pouco mais de 6,2% das questões da Banca.
+
+
+
+                    % de Cobrança                                  Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           3
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+
+
+                                       Tópico                                         FGV
+                                         ICMS                                         80%
+
+                                        ITCMD                                         12%
+
+                                          IPVA                                        8%
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         4
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.
+
+
+
+    ICMS:
+
+    1. O ICMS é um imposto com finalidade Fiscal; Plurifásico (incide sobre várias
+    etapas da circulação da mercadoria); Proporcional (alíquota fixa); Indireto
+    (quem sofre o ônus tributário não é a mesma pessoa que efetua o recolhimento
+    do imposto) e Não Cumulativo (pode-se compensar o ICMS cobrado na etapa
+    anterior com o ICMS devido nas etapas seguintes).
+
+
+
+    2. Salvo disposição em Contrário, a isenção ou não incidência não implicará
+    crédito para compensação com o montante devido nas operações ou
+    prestações seguintes (inciso II, do § 2º, do Art. 155, da CF/88).
+
+               ▪ Em outras palavras, o Adquirente da mercadoria com Isenção ou
+                   com Não Incidência não poderá se creditar do ICMS referente a
+                   entrada da mercadoria no seu estabelecimento. (1º Efeito)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   5
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    3. Salvo disposição em Contrário, a isenção ou não incidência acarretará a
+    anulação do crédito relativo às operações anteriores.
+
+               ▪ Em outras palavras, o Vendedor da mercadoria que conta com
+                   Isenção ou com Não Incidência deverá anular o crédito de ICMS
+                   referente à entrada dessa mercadoria em seu estabelecimento. (2º
+                   Efeito)
+
+
+
+
+    Onde: D = Débito (imposto a recolher)
+
+               C = Crédito (imposto a recuperar / compensar)
+
+    4. ICMS poderá ser Seletivo
+
+          IPI será Seletivo
+
+    5. ICMS incide sobre:
+
+          ▪ Circulação de Mercadoria;
+          ▪ Prestação de Serviço de Transporte Interestadual e intermunicipal;
+          ▪ Prestação de Serviço de Comunicação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   6
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    6. Para que haja incidência do ICMS sobre a circulação de mercadorias deve
+    haver habitualidade ou volume que caracterize intuito comercial.
+
+    7. A incidência do ICMS ocorre em relação aos transportes interestaduais e
+    intermunicipais, não havendo incidência de ICMS sobre serviços de
+    transportes intramunicipais (neste caso incide ISS).
+
+    8. Só há incidência do ICMS sobre os serviços de comunicação e
+    telecomunicação, se eles forem prestados a título oneroso (em que haja
+    cobrança).
+
+          ▪ “Não Incide ICMS nas prestações de serviço de comunicação nas
+             modalidades de radiodifusão sonora e de sons e imagens de recepção
+             livre e gratuita” - (Art. 155, § 2º, X, “d” da CF/88);
+
+    9. Não constitui fato gerador do imposto de circulação de mercadorias a saída
+    física de máquinas, utensílios e implementos a título de comodato (Súmula STF
+    573).
+
+    10. Não constitui fato gerador do ICMS o simples deslocamento de
+    mercadoria de um para outro estabelecimento do mesmo contribuinte
+    (Súmula STJ 166).
+
+    11. Na importação, o Fato Gerador do ICMS considera-se ocorrido no
+    momento do desembaraço aduaneiro.
+
+          ▪ Na entrada de mercadoria importada do exterior, é legítima a cobrança
+             do ICMS por ocasião do desembaraço aduaneiro (Súmula Vinculante
+             48).
+
+    12. O ICMS é um imposto por dentro, ou seja, a Base de Cálculo do ICMS
+    integra o montante do próprio imposto.
+
+          ▪ “Cabe à lei complementar fixar a Base de Cálculo, de modo que o
+             montante do imposto a integre, também na importação do exterior de
+             bem, mercadoria ou serviço” (Art. 155, § 2º, XII, “i” da CF/88).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   7
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    13. Quando a operação realizada por uma indústria for destinada a revenda
+    ou nova industrialização, o valor do IPI não fará parte da Base de Cálculo do
+    ICMS.
+
+    Já quando a operação for para um consumidor final, independente se é ou
+    não contribuinte do ICMS, o valor do IPI deverá ser somado à Base de cálculo
+    do ICMS, para então se calcular o valor do imposto Estadual.
+
+           Em outras palavras:
+
+               • Operação com destino a alguém que vai industrializar/revender a
+                   mercadoria: IPI NÃO entra na BC do ICMS.
+
+               • Operação com destino a consumidor final: IPI entra na BC do ICMS;
+
+    14. Nas Operações / Prestações que ocorrem dentro do Estado, aplica-se a
+    Alíquota interna do ICMS, definida, individualmente em cada Estado,
+    mediante lei.
+
+    15. Nas operações e prestações interestaduais, aplica-se a Alíquota
+    interestadual, definida pelo Senado Federal.
+
+          ▪ “Resolução do Senado Federal, de iniciativa do Presidente da República
+             ou de um terço dos Senadores, aprovada pela maioria absoluta de seus
+             membros, estabelecerá as alíquotas aplicáveis às operações e
+             prestações, interestaduais e de exportação” (Art. 155, § 2”, IV, da
+             CF/88);
+
+    16. É facultado ao Senado Federal:
+
+          ▪ estabelecer alíquotas mínimas nas operações internas, mediante
+             resolução de iniciativa de um terço e aprovada pela maioria absoluta de
+             seus membros;
+          ▪ fixar alíquotas máximas nas mesmas operações (internas) para resolver
+             conflito específico que envolva interesse de Estados, mediante
+             resolução de iniciativa da maioria absoluta e aprovada por dois terços
+             de seus membros;
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    8
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Resumindo:
+
+
+
+
+                                                                                      QUÓRUM
+           RESOLUÇÃO
+                                               INICIATIVA                              PARA
+           DO SENADO
+                                                                               APROVAÇAO
+                ALÍQUOTAS
+          INTERESTADUAIS E DE             PRESIDENTE OU 1/3                           MAIORIA
+               EXPORTAÇÃO                   DOS SENADORES                             ABSOLUTA
+              (OBRIGATÓRIO)
+
+           ALÍQUOTAS MÍNIMAS                        1/3 DOS                           MAIORIA
+          INTERNAS (FACULTADO)                  SENADORES                             ABSOLUTA
+
+          ALÍQUOTAS MÁXIMAS                        MAIORIA                             2/3 DOS
+          INTERNAS (FACULTADO)                   ABSOLUTA                         SENADORES
+
+
+
+    17. Salvo deliberação em contrário dos Estados e do Distrito Federal, no
+    CONFAZ (Conselho Nacional de Política Fazendária), as alíquotas internas do
+    ICMS não poderão ser inferiores às previstas para as operações interestaduais.
+
+    18. O fornecimento de mercadorias com simultânea prestação de serviços em
+    bares, restaurantes e estabelecimentos similares constitui fato gerador do
+    ICMS a incidir sobre o valor total da operação (Súmula STJ 163).
+
+    19. Não incidirá ICMS (Imunidade):
+
+          ▪ sobre operações que destinem mercadorias para o exterior, nem sobre
+             serviços prestados a destinatários no exterior, assegurada a manutenção
+             e o aproveitamento do montante do imposto cobrado nas operações e
+             prestações anteriores;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário              9
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    A exportação tem 2 benefícios em relação ao ICMS, a saber:
+
+    1º) A exportação é imune (não há imposto a recolher);
+
+    2º) Permite-se o creditamento do crédito do ICMS da entrada da mercadoria
+    (princípio Constitucional da Não Cumulatividade).
+
+    20. Não incidirá ICMS (Imunidade):
+
+          ▪ sobre operações que destinem a outros Estados petróleo, inclusive
+             lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia
+             elétrica;
+
+    A saída Interestadual dos combustíveis e lubrificantes líquidos e gasosos
+    derivados do petróleo é imune.
+
+    Não são todos os derivados de petróleo que estão imunes, mas apenas os
+    combustíveis líquidos e gasosos e os lubrificantes (STF - AI 199.516-AgR).
+
+    21. Não incidirá ICMS (Imunidade):
+
+          ▪ sobre o ouro, quando definido como Ativo Financeiro ou Instrumento
+             Cambial.
+
+    Ouro mercadoria (aliança, colar, etc.) tem incidência normal do ICMS.
+
+    22. Não incidirá ICMS (Imunidade):
+
+          ▪ nas prestações de serviço de comunicação nas modalidades de
+             radiodifusão sonora e de sons e imagens de recepção livre e gratuita;
+
+    23. Não incidirá ICMS (nem outros impostos) sobre:
+
+          ▪ fonogramas e videofonogramas musicais produzidos no Brasil contendo
+             obras musicais ou literomusicais de autores brasileiros e/ou obras em
+             geral interpretadas por artistas brasileiros bem como os suportes
+             materiais ou arquivos digitais que os contenham, salvo na etapa de
+             replicação industrial de mídias ópticas de leitura a laser.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     10
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    24. Regra Geral sobre o ICMS dos Combustíveis e Lubrificantes Líquidos e
+    Gasosos derivados do petróleo:
+
+          ▪ O ICMS sobre os combustíveis e Lubrificantes Líquidos e Gasosos
+             derivados do petróleo caberá ao Estado do CONSUMO.
+
+    25. Sobre o ICMS-Monofásico:
+
+    Cabe à lei complementar definir os combustíveis e lubrificantes sobre os quais
+    o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese
+    em que não se aplicará o disposto no inciso X, b (imunidade sobre as
+    operações que destinem a outros estados combustíveis e lubrificantes);
+
+    26. Cabe a Lei Complementar tratar sobre: (Aqui é decoreba, mesmo)
+
+          ▪ Contribuintes do imposto;
+          ▪ Substituição Tributária;
+          ▪ Regime de compensação do imposto (créditos e débitos);
+          ▪ Manutenção de crédito;
+          ▪ Definição do estabelecimento responsável, o local das operações
+             relativas à circulação de mercadorias e das prestações de serviços.
+          ▪ Regular a forma como as isenções, incentivos e benefícios fiscais serão
+             concedidos e revogados (convênios entre os Estados);
+          ▪ Definição        dos     combustíveis         e    lubrificantes          sujeitos   ao   ICMS-
+             Combustíveis;
+          ▪ Exclusão da incidência do ICMS sobre operações de exportação
+
+
+
+    Um pouco de Jurisprudência sobre o ICMS:
+
+    27.     O ICMS não incide sobre a alienação de salvados de sinistro pelas
+    seguradoras (Súmula Vinculante 32).
+
+    28. É legítima a incidência do ICMS na comercialização de exemplares de
+    obras cinematográficas, gravados em fitas de videocassete (Súmula STF 662).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                           11
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    29. O ICMS incide sobre o valor da tarifa de energia elétrica correspondente
+    à demanda de potência efetivamente utilizada (Súmula STJ 391).
+
+    30. Os descontos incondicionais nas operações mercantis não se incluem na
+    base de cálculo do ICMS (Súmula STJ 457).
+
+    31. As empresas de construção civil não estão obrigadas a pagar ICMS sobre
+    mercadorias adquiridas como insumos em operações interestaduais (Súmula
+    STJ 432).
+
+    32. Nas operações com cartão de crédito, os encargos relativos ao
+    financiamento não são considerados no cálculo do ICMS (Súmula STJ 237).
+
+    33. É ilegal a cobrança de ICMS com base no valor da mercadoria submetido
+    ao regime de pauta fiscal (Súmula STJ 431).
+
+    34. O ICMS não incide no serviço dos provedores de acesso à internet (Súmula
+    STJ 334).
+
+    35. O ICMS não incide sobre o serviço de habilitação de telefone celular
+    (Súmula STJ 350).
+
+    36. É lícito ao comerciante de boa-fé aproveitar os créditos de ICMS
+    decorrentes de nota fiscal posteriormente declarada inidônea, quando
+    demonstrada a veracidade da compra e venda (Súmula STJ 509).
+
+          ▪ “porquanto o ato declaratório da inidoneidade (dos documentos fiscais)
+             somente        produz       efeitos      a    partir    de     sua       publicação”   (REsp
+             1.148.444/MG)
+
+    37. Sobre o Leasing:
+
+          ▪ Leasing realizado dentro do país (sem importação): Não incide ICMS, a
+             não ser quando da venda do bem ao arrendatário.
+          ▪ Leasing internacional: Não incide ICMS, salvo se houver antecipação da
+             opção de compra.
+          ▪ Leasing internacional de aeronaves: Não incide ICMS, pois não há a
+             transferência do bem.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                         12
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    ITCMD (também conhecido como ITCD ou ITD):
+    38. O Imposto sobre Transmissão Causa Mortis e Doação – ITCMD, incide
+    sobre a transmissão de bens por causa mortis e doação, de quaisquer bens e
+    direitos (transmissões não onerosas).
+
+    39. Para qual Estado Caberá o ITCMD?
+
+    Se bens IMÓVEIS: O ITCMD cabe ao Estado da situação do Bem (tanto na
+    doação como na transmissão causa mortis).
+
+    Se bens MÓVEIS:
+
+          ▪ Se transmissão Causa Mortis: O ITCMD cabe ao Estado onde era
+             domiciliado o de cujus (EC 132/2023).
+
+          ▪ Se Doação: O ITCMD cabe ao Estado onde tiver domicílio o doador.
+
+    40. O ITCMD terá competência para sua instituição regulada por lei
+    complementar (a qual ainda não foi instituída):
+
+          ▪ se o doador tiver domicílio ou residência no exterior;
+          ▪ se o de cujus (falecido) possuía bens, era residente ou domiciliado ou
+             teve o seu inventário processado no exterior;
+
+
+    Enquanto não for editada a Lei Complementar dispondo sobre estas situações
+    envolvendo o exterior, a EC 132/2023 (Reforma Tributária) trouxe a seguinte
+    previsão:
+
+    Situações envolvendo exterior:
+          ▪ Se bem imóvel, ITCD devido ao Estado do Imóvel (tanto doação, quanto
+             transmissão causa mortis);
+
+          ▪ Se doação de bem móvel:
+
+                 •   Estado do donatário
+                 •   Se donatário no exterior, aí ITCD devido ao Estado do bem;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   13
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+          ▪ Se transmissão causa mortis de bem móvel:
+
+                  •    Estado onde era domiciliado o de cujus;
+                  •    Se de cujus era domiciliado no exterior, aí ITCD devido ao Estado
+                       do sucessor ou legatário;
+
+
+
+    41. O ITCMD terá suas alíquotas máximas fixadas pelo Senado Federal.
+    (Atualmente a alíquota máxima é de 8%).
+
+    42. O ITCMD será progressivo em razão do valor do quinhão, do legado ou da
+    doação.
+
+    43. O Contribuinte do ITCMD qualquer das partes na operação tributada,
+    como dispuser a lei (Art. 42 do CTN)
+
+    44. O lançamento do ITCMD é realizado por Declaração.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        14
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Um pouco de Jurisprudência sobre o ITCMD:
+
+    45. O imposto de transmissão "causa mortis" é devido pela alíquota vigente
+    ao tempo da abertura da sucessão (Súmula STF 112).
+
+    46. O imposto de transmissão "causa mortis" não é exigível antes da
+    homologação do cálculo (Súmula STF 114).
+
+    47. Sobre os honorários do advogado contratado pelo inventariante, com a
+    homologação do juiz, não incide o imposto de transmissão "causa mortis"
+    (Súmula STF 115).
+
+    48. É legítima a incidência do imposto de transmissão causa mortis no
+    inventário por morte presumida (Súmula STF 331).
+
+    49. O ITCMD não incide sobre o Usucapião
+
+    50. É constitucional a fixação de alíquotas progressivas para o ITCMD (RE
+    562.045/RS).
+
+
+
+
+    IPVA:
+    51. O IPVA tem finalidade Fiscal.
+
+    52. Alterações na Base de Cálculo do IPVA estão excepcionadas do Princípio
+    da Noventena.
+
+    53. A majoração de alíquotas do IPVA sujeita-se ao Princípio da Noventena e
+    Anterioridade.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   15
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    54. O IPVA incidirá sobre a propriedade de veículos automotores terrestres,
+    aquáticos e aéreos, excetuados:                  (Incluído pela EC 132/2023)
+
+          ▪ aeronaves agrícolas e de operador certificado para prestar serviços
+             aéreos a terceiros;
+
+          ▪ embarcações de pessoa jurídica que detenha outorga para prestar
+             serviços de transporte aquaviário ou de pessoa física ou jurídica que
+             pratique pesca industrial, artesanal, científica ou de subsistência;
+
+          ▪ plataformas suscetíveis de se locomoverem na água por meios próprios,
+             inclusive aquelas cuja finalidade principal seja a exploração de atividades
+             econômicas em águas territoriais e na zona econômica exclusiva e
+             embarcações que tenham essa mesma finalidade principal;
+
+          ▪ tratores e máquinas agrícolas.
+
+
+
+    55. O IPVA terá alíquotas mínimas fixadas pelo Senado Federal.
+
+    56. O IPVA poderá ter alíquotas diferenciadas em função do tipo, do valor, da
+    utilização e do impacto ambiental.
+
+    57. É proibida a aplicação de alíquotas diferenciadas para veículos nacionais e
+    importados. (princípio da não discriminação com base na procedência ou
+    destino, conforme Artigo 152 da CF/88).
+
+    58. O contribuinte do IPVA é o proprietário do veículo automotor.
+
+    59. O lançamento do IPVA é realizado de Ofício.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        16
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+
+
+
+                                          Constituição Federal de 1988:
+
+
+                        Artigo 155:
+
+                        Art. 155. Compete aos Estados e ao Distrito Federal instituir
+                        impostos sobre:
+
+                        I - transmissão causa mortis e doação, de quaisquer bens ou
+                        direitos;
+
+                        II - operações relativas à circulação de mercadorias e sobre
+                        prestações         de     serviços      de     transporte     interestadual   e
+                        intermunicipal e de comunicação, ainda que as operações e as
+                        prestações se iniciem no exterior;
+
+                        III - propriedade de veículos automotores.
+
+                        § 1º O imposto previsto no inciso I (ITCMD)
+
+                        I - relativamente a bens imóveis e respectivos direitos, compete
+                        ao Estado da situação do bem, ou ao Distrito Federal;
+
+                        II - relativamente a bens móveis, títulos e créditos, compete ao
+                        Estado onde era domiciliado ode cujus, ou tiver domicílio o
+                        doador, ou ao Distrito Federal;                       (Redação dada pela EC
+                        132/2023)
+
+                        III - terá competência para sua instituição regulada por lei
+                        complementar:
+
+                        a) se o doador tiver domicílio ou residência no exterior;
+
+                        b) se o de cujus possuía bens, era residente ou domiciliado ou
+                        teve o seu inventário processado no exterior;
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       17
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        IV - terá suas alíquotas máximas fixadas pelo Senado Federal;
+
+                        V - não incidirá sobre as doações destinadas, no âmbito do
+                        Poder Executivo da União, a projetos socioambientais ou
+                        destinados a mitigar os efeitos das mudanças climáticas e às
+                        instituições federais de ensino. (Incluído pela EC 126/2022)
+
+                        VI - será progressivo em razão do valor do quinhão, do legado
+                        ou da doação;             (Incluído pela EC 132/2023)
+
+                        VII - não incidirá sobre as transmissões e as doações para as
+                        instituições sem fins lucrativos com finalidade de relevância
+                        pública e social, inclusive as organizações assistenciais e
+                        beneficentes de entidades religiosas e institutos científicos e
+                        tecnológicos, e por elas realizadas na consecução dos seus
+                        objetivos sociais, observadas as condições estabelecidas em lei
+                        complementar.              (Incluído pela EC 132/2023)
+
+
+
+                        § 2º O imposto previsto no inciso II atenderá ao seguinte:
+                        (ICMS)
+
+                        I - será não-cumulativo, compensando-se o que for devido em
+                        cada operação relativa à circulação de mercadorias ou
+                        prestação de serviços com o montante cobrado nas anteriores
+                        pelo mesmo ou outro Estado ou pelo Distrito Federal;
+
+                        II - a isenção ou não-incidência, salvo determinação em
+                        contrário da legislação:
+
+                        a) não implicará crédito para compensação com o montante
+                        devido nas operações ou prestações seguintes;
+
+                        b) acarretará a anulação do crédito relativo às operações
+                        anteriores;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       18
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        III - poderá ser seletivo, em função da essencialidade das
+                        mercadorias e dos serviços;
+
+                        IV - resolução do Senado Federal, de iniciativa do Presidente da
+                        República ou de um terço dos Senadores, aprovada pela
+                        maioria absoluta de seus membros, estabelecerá as alíquotas
+                        aplicáveis às operações e prestações, interestaduais e de
+                        exportação;
+
+                        V - é facultado ao Senado Federal:
+
+                        a) estabelecer alíquotas mínimas nas operações internas,
+                        mediante resolução de iniciativa de um terço e aprovada pela
+                        maioria absoluta de seus membros;
+
+                        b) fixar alíquotas máximas nas mesmas operações para resolver
+                        conflito específico que envolva interesse de Estados, mediante
+                        resolução de iniciativa da maioria absoluta e aprovada por dois
+                        terços de seus membros;
+
+                        VI - salvo deliberação em contrário dos Estados e do Distrito
+                        Federal, nos termos do disposto no inciso XII, "g", as alíquotas
+                        internas, nas operações relativas à circulação de mercadorias e
+                        nas prestações de serviços, não poderão ser inferiores às
+                        previstas para as operações interestaduais;
+
+                        VII - nas operações e prestações que destinem bens e serviços
+                        a consumidor final, contribuinte ou não do imposto, localizado
+                        em outro Estado, adotar-se-á a alíquota interestadual e caberá
+                        ao     Estado       de     localização       do     destinatário   o   imposto
+                        correspondente à diferença entre a alíquota interna do Estado
+                        destinatário e a alíquota interestadual;
+
+                        VIII - a responsabilidade pelo recolhimento do imposto
+                        correspondente à diferença entre a alíquota interna e a
+                        interestadual de que trata o inciso VII será atribuída:
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      19
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        a) ao destinatário, quando este for contribuinte do imposto;
+
+                        b) ao remetente, quando o destinatário não for contribuinte do
+                        imposto;
+
+                        IX - incidirá também:
+
+                        a) sobre a entrada de bem ou mercadoria importados do
+                        exterior por pessoa física ou jurídica, ainda que não seja
+                        contribuinte habitual do imposto, qualquer que seja a sua
+                        finalidade, assim como sobre o serviço prestado no exterior,
+                        cabendo o imposto ao Estado onde estiver situado o domicílio
+                        ou o estabelecimento do destinatário da mercadoria, bem ou
+                        serviço;
+
+                        b) sobre o valor total da operação, quando mercadorias forem
+                        fornecidas com serviços não compreendidos na competência
+                        tributária dos Municípios;
+
+                        X - não incidirá:
+
+                        a) sobre operações que destinem mercadorias para o exterior,
+                        nem sobre serviços prestados a destinatários no exterior,
+                        assegurada a manutenção e o aproveitamento do montante do
+                        imposto cobrado nas operações e prestações anteriores;
+
+                        b) sobre operações que destinem a outros Estados petróleo,
+                        inclusive lubrificantes, combustíveis líquidos e gasosos dele
+                        derivados, e energia elétrica;
+
+                        c) sobre o ouro, nas hipóteses definidas no art. 153, § 5º;
+
+                        d) nas prestações de serviço de comunicação nas modalidades
+                        de radiodifusão sonora e de sons e imagens de recepção livre e
+                        gratuita;
+
+                        XI - não compreenderá, em sua base de cálculo, o montante do
+                        imposto sobre produtos industrializados, quando a operação,
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      20
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        realizada entre contribuintes e relativa a produto destinado à
+                        industrialização ou à comercialização, configure fato gerador
+                        dos dois impostos;
+
+                        XII - cabe à lei complementar:
+
+                        a) definir seus contribuintes;
+
+                        b) dispor sobre substituição tributária;
+
+                        c) disciplinar o regime de compensação do imposto;
+
+                        d) fixar, para efeito de sua cobrança e definição do
+                        estabelecimento responsável, o local das operações relativas à
+                        circulação de mercadorias e das prestações de serviços;
+
+                        e) excluir da incidência do imposto, nas exportações para o
+                        exterior, serviços e outros produtos além dos mencionados no
+                        inciso X, "a"
+
+                        f) prever casos de manutenção de crédito, relativamente à
+                        remessa para outro Estado e exportação para o exterior, de
+                        serviços e de mercadorias;
+
+                        g) regular a forma como, mediante deliberação dos Estados e
+                        do Distrito Federal, isenções, incentivos e benefícios fiscais
+                        serão concedidos e revogados.
+
+                        h) definir os combustíveis e lubrificantes sobre os quais o
+                        imposto incidirá uma única vez, qualquer que seja a sua
+                        finalidade, hipótese em que não se aplicará o disposto no inciso
+                        X, b;
+
+                        i) fixar a base de cálculo, de modo que o montante do imposto
+                        a integre, também na importação do exterior de bem,
+                        mercadoria ou serviço.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        21
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        § 3º À exceção dos impostos de que tratam o inciso II do caput
+                        deste artigo e os arts. 153, I e II, e 156-A (ICMS, II, IE e IBS),
+                        nenhum outro imposto poderá incidir sobre operações relativas
+                        a energia elétrica e serviços de telecomunicações e, à exceção
+                        destes e do previsto no art. 153, VIII (ICMS, II, IE, IBS e IS),
+                        nenhum outro imposto poderá incidir sobre operações relativas
+                        a derivados de petróleo, combustíveis e minerais do País.
+                        (Redação dada pela EC 132/2023)
+
+                        § 4º Na hipótese do inciso XII, h, observar-se-á o seguinte:
+
+                        I - nas operações com os lubrificantes e combustíveis derivados
+                        de petróleo, o imposto caberá ao Estado onde ocorrer o
+                        consumo;
+
+                        II - nas operações interestaduais, entre contribuintes, com gás
+                        natural e seus derivados, e lubrificantes e combustíveis não
+                        incluídos no inciso I deste parágrafo, o imposto será repartido
+                        entre os Estados de origem e de destino, mantendo-se a mesma
+                        proporcionalidade que ocorre nas operações com as demais
+                        mercadorias
+
+                        III - nas operações interestaduais com gás natural e seus
+                        derivados, e lubrificantes e combustíveis não incluídos no inciso
+                        I deste parágrafo, destinadas a não contribuinte, o imposto
+                        caberá ao Estado de origem;
+
+                        IV - as alíquotas do imposto serão definidas mediante
+                        deliberação dos Estados e Distrito Federal, nos termos do § 2º,
+                        XII, g, observando-se o seguinte:
+
+                        a) serão uniformes em todo o território nacional, podendo ser
+                        diferenciadas por produto
+
+                        b) poderão ser específicas, por unidade de medida adotada, ou
+                        ad valorem, incidindo sobre o valor da operação ou sobre o
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          22
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        preço que o produto ou seu similar alcançaria em uma venda
+                        em condições de livre concorrência;
+
+                        c) poderão ser reduzidas e restabelecidas, não se lhes aplicando
+                        o disposto no art. 150, III, b
+
+                        § 6º O imposto previsto no inciso III: (IPVA)
+
+                        I - terá alíquotas mínimas fixadas pelo Senado Federal;
+
+                        II - poderá ter alíquotas diferenciadas em função do tipo, do
+                        valor, da utilização e do impacto ambiental;                  (Redação dada
+                        EC 132/2023)
+
+                        III - incidirá sobre a propriedade de veículos automotores
+                        terrestres, aquáticos e aéreos, excetuados: (Incluído pela EC
+                        132/2023)
+
+                        a) aeronaves agrícolas e de operador certificado para prestar
+                        serviços aéreos a terceiros;               (Incluído pela EC 132/2023)
+
+                        b) embarcações de pessoa jurídica que detenha outorga para
+                        prestar serviços de transporte aquaviário ou de pessoa física ou
+                        jurídica que pratique pesca industrial, artesanal, científica ou de
+                        subsistência; (Incluído pela EC 132/2023)
+
+                        c) plataformas suscetíveis de se locomoverem na água por
+                        meios próprios, inclusive aquelas cuja finalidade principal seja a
+                        exploração de atividades econômicas em águas territoriais e na
+                        zona econômica exclusiva e embarcações que tenham essa
+                        mesma finalidade principal;                (Incluído pela EC 132/2023)
+
+                        d) tratores e máquinas agrícolas. (Incluído pela EC 132/2023)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                   23
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                                                      Súmulas STJ:
+
+
+
+                        ICMS:
+                        Súmula 166:
+
+                        Não constitui fato gerador do ICMS o simples deslocamento de
+                        mercadoria de um para outro estabelecimento do mesmo
+                        contribuinte.
+
+
+
+                        Súmula 391:
+
+                        O ICMS incide sobre o valor da tarifa de energia elétrica
+                        correspondente à demanda de potência efetivamente utilizada.
+
+
+
+                        Súmula 431:
+
+                        É ilegal a cobrança de ICMS com base no valor da mercadoria
+                        submetido ao regime de pauta fiscal.
+
+
+
+                        Súmula 457:
+
+                        Os descontos incondicionais nas operações mercantis não se
+                        incluem na base de cálculo do ICMS.
+
+
+
+                        Súmula 573:
+
+                        Não constitui fato gerador do ICM a saída física de máquinas,
+                        utensílios e implementos a título de comodato
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     24
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        IPVA:
+                        Súmula 585:
+
+                        A responsabilidade solidária do ex-proprietário, prevista no art.
+                        134 do Código de Trânsito Brasileiro — CTB, não abrange o
+                        IPVA incidente sobre o veículo automotor, no que se refere ao
+                        período posterior à sua alienação.
+
+
+
+
+                                                      Súmulas STF:
+
+
+
+                        ICMS:
+                        Súmula 573:
+
+                        Não constitui fato gerador do imposto de circulação de
+                        mercadorias          a   saída      física    de     máquinas,   utensílios   e
+                        implementos a título de comodato.
+
+
+
+                        Súmula 659:
+
+                        É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre
+                        as operações relativas a energia elétrica, serviços de
+                        telecomunicações, derivados de petróleo, combustíveis e
+                        minerais do País.
+
+
+
+                        Súmula 662:
+
+                        É legítima a incidência do ICMS na comercialização de
+                        exemplares de obras cinematográficas, gravados em fitas de
+                        videocassete.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       25
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        ADC 49/RN
+
+                        Não configura fato gerador de ICMS o mero deslocamento de
+                        mercadorias          entre     estabelecimentos               do    mesmo       titular,
+                        independentemente de estarem localizados na mesma unidade
+                        federativa ou em estados-membros diferentes.
+
+
+
+
+                        ITCMD:
+                        Súmula 112:
+
+                        O imposto de transmissão causa mortis é devido pela alíquota
+                        vigente ao tempo da abertura da sucessão.
+
+
+
+                        Súmula 114:
+
+                        O imposto de transmissão causa mortis não é exigível antes da
+                        homologação do cálculo.
+
+
+
+                        Súmula 115:
+
+                        Sobre       os     honorários         do     advogado              contratado     pelo
+                        inventariante, com a homologação do juiz, não incide o imposto
+                        de transmissão causa mortis.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                26
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        Súmula 331:
+
+                        É legítima a incidência do imposto de transmissão causa mortis
+                        no inventário por morte presumida.
+
+
+
+
+                        Súmula 590:
+
+                        Calcula-se o imposto de transmissão causa mortis sobre o saldo
+                        credor da promessa de compra e venda de imóvel, no momento
+                        da abertura da sucessão do promitente vendedor.
+
+
+
+
+                                              Súmulas Vinculantes STF:
+
+
+                        Súmula Vinculante 32:
+
+                        O ICMS não incide sobre alienação de salvados de sinistro pelas
+                        seguradoras.
+
+
+
+                        Súmula Vinculante 48:
+
+                        Na entrada de mercadoria importada do exterior, é legítima a
+                        cobrança do ICMS por ocasião do desembaraço aduaneiro.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       27
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    4. APOSTA ESTRATÉGICA
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+
+    Vamos ao conteúdo da nossa aposta?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   28
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    Nesta seção, apresentamos e comentamos uma amostra de questões objetivas
+    selecionadas estrategicamente: são questões com nível de dificuldade
+    semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+    abordam os principais pontos do assunto.
+
+    A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa
+    de questões, mas que você faça uma boa revisão global do assunto a partir
+    de, relativamente, poucas questões.
+
+
+
+
+    QUESTÕES FGV
+
+
+
+    1-) (FGV - Técnico Tributário – SEFIN-RO/2018) Na entrega de mercadoria
+    importada do exterior, considera-se ocorrido o fato gerador do Imposto Sobre
+    Circulação de Mercadorias e Prestação de Serviços (ICMS), o momento em
+    que se dá
+
+
+
+    (A) o desembaraço aduaneiro.
+
+    (B) a entrada da mercadoria no estabelecimento do destinatário.
+
+    (C) a saída da mercadoria do exterior.
+
+    (D) a aquisição da mercadoria, ainda que a mercadoria não seja entregue
+    corretamente.
+
+    (E) a entrega da declaração de importação pelo estabelecimento adquirente.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   29
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Comentário: No caso da Importação, considera ocorrido o Fato Gerador do
+    ICMS no momento do Desembaraço Aduaneiro.
+
+
+
+                        Súmula Vinculante 48: Na entrada de mercadoria importada do
+                        exterior, é legítima a cobrança do ICMS por ocasião do
+                        desembaraço aduaneiro.
+
+
+
+    Gabarito: A
+
+
+
+
+    2-) (FGV - Auditor Fiscal da Receita Estadual – SEFAZ-RJ/2010) Com relação
+    ao ICMS, assinale a alternativa correta.
+
+    (A) Os serviços de comunicação não estão sujeitos ao ICMS.
+
+    (B) Não pode haver uma mesma operação comercial, ainda que de natureza
+    mista (com fornecimento de mercadoria e prestação de serviços), que seja
+    tributada tanto pelo ICMS (valor da mercadoria) como pelo ISS (valor do
+    serviço).
+
+    (C) Incide no caso de transferência de titularidade de bens do ativo fixo ou
+    imobilizado.
+
+    (D) Não incide quando se tratar de bem ou mercadoria importado por pessoa
+    que não seja contribuinte habitual do imposto, nos termos das Constituição
+    Federal.
+
+    (E) Será garantida a manutenção e o aproveitamento do montante do imposto
+    cobrado nas operações e prestações anteriores no caso de exportação de
+    mercadorias, mesmo que a Constituição Federal expressamente determine a
+    não incidência do ICMS sobre mercadorias e serviços destinados ao exterior.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   30
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Comentário: Temos aqui uma questão que aborda diversos assuntos sobre o
+    ICMS. Vamos analisar cada uma das alternativas:
+
+
+
+    Alternativa A (Incorreta): Conforme dispõe a CF/88, o ICMS incide sobre a
+    circulação de mercadorias, sobre a prestação de serviço de transporte
+    intermunicipal e interestadual e sobre os serviços de comunicação onerosos.
+
+
+
+    Alternativa B (Incorreta): Como sabemos, o ICMS incide sobre circulação de
+    mercadorias, e o ISS – Imposto Sobre Serviços, incide sobre a prestação de
+    serviços.
+
+    A dúvida paira quando temos uma prestação de Serviços acompanhada de
+    uma circulação de mercadorias. Em alguns casos pode incidir ICMS sobre todo
+    o valor (mercadoria + serviço). Em outros casos pode incidir ISS sobre todo o
+    valor (mercadoria + serviço). E por último podem existir casos em que incide
+    ISS sobre o serviço e ICMS sobre a circulação da mercadoria.
+
+    E para sabermos em qual destes três casos uma determinada situação irá se
+    enquadrar, precisamos conhecer a estrutura do ISS.
+
+    Primeiramente é fundamental sabermos que é uma Lei Complementar Federal
+    (a LC 116/2003, conhecida como a lei do ISS) quem define a lista com todos
+    os Serviços em que Incide o ISS.
+
+    Se um determinado tipo de Serviço não estiver previsto na lista da Lei
+    Complementar 116/2003, então significa que não incide o ISS sobre ele. E
+    claro, se o serviço estiver previsto nesta lista, sobre ele incidirá o ISS.
+
+    Mas a nossa questão principal é quando o serviço é prestado juntamente com
+    o fornecimento de mercadorias. Neste caso, se o serviço não estiver previsto
+    na Lei do ISS, teremos incidência do ICMS sobre todo o valor (mercadoria +
+    serviço), já que não poderia incidir o ISS neste caso.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   31
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Já se o Serviço estiver previsto na lista da LC 116/2003, e na própria Lei do ISS
+    existir uma ressalva que permita cobrar ICMS, aí irá incidir ISS apenas sobre a
+    prestação do Serviço, e ICMS sobre o valor da mercadoria.
+
+    Só para você entender o que é esta tal de ressalva, veja por exemplo a
+    descrição do item 14.01 da LC 116/2003, que apresenta sobre quais serviços
+    incide o ISS:
+
+               14.01 – Lubrificação, limpeza, lustração, revisão, carga e recarga,
+               conserto, restauração, blindagem, manutenção e conservação de
+               máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou
+               de qualquer objeto (exceto peças e partes empregadas, que ficam
+               sujeitas ao ICMS).
+
+
+
+    Então no caso de uma manutenção de um equipamento ou máquina, por
+    exemplo, a empresa de assistência técnica irá recolher ISS sobre o valor da
+    mão-de-obra (serviço) e como existe uma ressalva na lista de Serviços,
+    recolherá ICMS sobre as partes e peças eventualmente empregadas nesta
+    manutenção.
+
+    E por último, caso o Serviço esteja presente na Lista da Lei do ISS (LC
+    116/2003), mas não apresente nenhuma ressalva que permita a cobrança do
+    ICMS, aí incidirá ISS sobre todo o valor (mercadoria +serviço), como é o caso
+    de fornecimento de medicamentos em hospitais, durante um atendimento
+    médico, por exemplo.
+
+    Vamos colocar abaixo um esqueminha para ajudar na memorização:
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     32
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Logo a Alternativa B está incorreta.
+
+
+
+    Alternativa C (Incorreta): Não incide ICMS sobre a circulação de bens do Ativo
+    fixo ou imobilizado, apenas sobre a Circulação de mercadorias (Ativo
+    Circulante).
+
+
+    Alternativa D (Incorreta): Incide ICMS sobre a importação, independente de
+    quem esteja importando. Veja o que diz a CF/88:
+
+                        Art. 155. § 2º O ICMS atenderá ao seguinte:
+
+                        IX - incidirá também:
+
+                        a) sobre a entrada de bem ou mercadoria importados do
+                        exterior por pessoa física ou jurídica, ainda que não seja
+                        contribuinte habitual do imposto, qualquer que seja a sua
+                        finalidade, assim como sobre o serviço prestado no exterior,
+                        cabendo o imposto ao Estado onde estiver situado o domicílio
+                        ou o estabelecimento do destinatário da mercadoria, bem ou
+                        serviço;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    33
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Alternativa E (Correta): Perfeito! Apesar de na exportação não incidir ICMS, é
+    permitido, Salvo Disposição em Contrário, a Manutenção do Crédito da
+    entrada das mercadorias (Princípio Constitucional da Não Cumulatividade).
+
+                        Art. 155. § 2º O ICMS atenderá ao seguinte:
+
+                        X - não incidirá:
+
+                        a) sobre operações que destinem mercadorias para o exterior,
+                        nem sobre serviços prestados a destinatários no exterior,
+                        assegurada a manutenção e o aproveitamento do montante do
+                        imposto cobrado nas operações e prestações anteriores;
+
+    Gabarito: E
+
+
+
+    3-) (FGV – AFTM -Cuiabá/2016) Em relação à incidência do Imposto sobre
+    Circulação de Mercadorias e Serviços (ICMS) sobre operações interestaduais
+    de exportação e importação, analise as afirmativas a seguir.
+
+    I. Cabe ao Senado Federal, por meio de Resolução, estabelecer as alíquotas
+    do ICMS aplicáveis às operações e prestações, interestaduais e de exportação.
+
+    II. Nas operações interestaduais que destinam bens a consumidor final, será
+    aplicada a alíquota interna do Estado, quando o destinatário for contribuinte
+    do ICMS.
+
+    III. Incide ICMS sobre a entrada de bens importados por pessoa física, qualquer
+    que seja sua finalidade.
+
+    Assinale:
+
+    (A) se somente a afirmativa II estiver correta.
+
+    (B) se somente as afirmativas I e III estiverem corretas.
+
+    (C) se somente as afirmativas I e II estiverem corretas.
+
+    (D) se somente as afirmativas II e III estiverem corretas.
+
+    (E) se todas as afirmativas estiverem corretas.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    34
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Comentário: Mais uma questão sobre o ICMS, de acordo com a Constituição
+    Federal. Vamos às assertivas:
+
+
+
+    Assertiva I (Correta): Perfeito! É o que afirma o Art. 155, § 2º, IV da CF/88.
+
+
+
+                        Art. 155. § 2º O ICMS atenderá ao seguinte:
+
+                        IV - resolução do Senado Federal, de iniciativa do Presidente da
+                        República ou de um terço dos Senadores, aprovada pela
+                        maioria absoluta de seus membros, estabelecerá as alíquotas
+                        aplicáveis às operações e prestações, interestaduais e de
+                        exportação;
+
+
+
+    Assertiva II (Incorreta): A partir da entrada em vigor da EC 87/2015, toda
+    operação interestadual, independente se para contribuinte ou não do
+    imposto, será tributada pela alíquota interestadual.
+
+
+    Apenas para fins de complementação, na hipótese de a operação
+    interestadual ter como destinatário um consumidor final, haverá ainda o Fato
+    Gerador do Diferencial de Alíquotas (DIFAL), a favor do Estado do
+    destinatário.
+
+
+    Este DIFAL nada mais é do que a diferença entre a alíquota interna do Estado
+    do Destinatário e a alíquota interestadual, aplicada sobre o valor da operação.
+
+
+
+    Assertiva III (Correta): É isso mesmo! Importou, incide ICMS “e ponto”! É o
+    que afirma o Art. 155, § 2º, IX “a” da CF/88.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        35
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                        Art. 155. § 2º O ICMS atenderá ao seguinte:
+
+                        IX - incidirá também:
+
+                        a) sobre a entrada de bem ou mercadoria importados do
+                        exterior por pessoa física ou jurídica, ainda que não seja
+                        contribuinte habitual do imposto, qualquer que seja a sua
+                        finalidade, assim como sobre o serviço prestado no exterior,
+                        cabendo o imposto ao Estado onde estiver situado o domicílio
+                        ou o estabelecimento do destinatário da mercadoria, bem ou
+                        serviço;
+
+
+
+    Gabarito: B
+
+
+
+
+    4-) (FGV - Auditor Fiscal de Tributos Estaduais – SEFIN-RO/2018) Argeu,
+    residente e domiciliado no Estado de Rondônia, doou ao filho César, residente
+    no Estado de Goiás, um rebanho com 2 mil cabeças de gado, o qual se
+    encontra na Fazenda Riacho Doce, localizada no Estado de Mato Grosso.
+
+
+    Nesse caso, o Imposto incidente sobre a doação
+
+    (A) é devido no Estado de Mato Grosso, onde está o rebanho.
+
+    (B) é devido no Estado de Goiás, onde reside o donatário.
+
+    (C) não é devido, por não haver incidência sobre transmissão de animais.
+
+    (D) é devido no Estado de Rondônia, onde o doador tem domicílio.
+
+    (E) é devido no Estado em que a escritura pública de doação for lavrada.
+
+
+    Comentário: No caso do ITCMD, para saber para qual estado caberá o
+    imposto, primeiramente deve-se identificar se o bem transmitido é Móvel ou
+    Imóvel.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    36
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Se for Imóvel, o ITCMD caberá para o Estado da localização do bem.
+
+    Se for bem Móvel, aí dependerá se o estamos diante de uma doação ou
+    transmissão causa mortis.
+
+          ▪ Se transmissão Causa Mortis: O ITCMD caberá ao Estado onde era
+             domiciliado o de cujus (EC 132/2023).
+
+
+          ▪ Se Doação: O ITCMD caberá ao Estado onde tiver domicílio o doador.
+
+
+    Como no enunciado o examinador afirma tratar-se de DOAÇÃO de cabeças
+    de gado (Bens Móveis), o ITCMD caberá para o Estado do domicílio do
+    Doador.
+
+    Como o Doador (Argeu) tem domicílio no estado de Rondônia, o ITCMD
+    caberá para este Estado.
+
+
+
+    Gabarito: D
+
+
+
+
+    5-) (FGV - Auditor Fiscal de Tributos Estaduais – SEFIN-RO/2018) O Estado X
+    editou uma lei na qual fixou alíquotas progressivas, que variam de 1% a 8% do
+    Imposto sobre a Transmissão Causa Mortis e Doação (ITCD), em razão do valor
+    do bem a ser transmitido e sua localidade.
+
+
+
+    Sobre o caso descrito, assinale a afirmativa correta.
+
+    (A) A fixação de alíquotas do ITCD não cabe aos Estados-membros e sim ao
+    Senado Federal.
+
+    (B) A fixação de alíquotas progressivas do ITCD é inconstitucional, uma vez
+    que a progressividade, no caso dos impostos reais, só pode ser adotada se
+    houver expressa previsão constitucional.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   37
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    (C) A progressividade estabelecida é válida, porém a alíquota máxima de 8%
+    viola o confisco, uma vez que restringe desmedidamente o patrimônio do
+    contribuinte.
+
+    (D) A fixação de alíquotas progressivas do ITCD não ofende a Constituição
+    Federal, pois é um imposto que revela efetiva capacidade contributiva de
+    quem percebe a transferência patrimonial.
+
+    (E) A fixação de alíquotas progressivas do ITCD é inconstitucional, uma vez
+    que a Constituição Federal veda a progressividade de impostos de natureza
+    real.
+
+
+
+    Comentário: Temos aqui uma questão sobre o Imposto sobre Transmissão
+    Causa Mortis e Doação, de competência estadual. Vamos analisar cada uma
+    das alternativas:
+
+
+
+    Alternativa A (Incorreta): O ITCD tem suas alíquotas definidas por lei do
+    próprio Estado. O que o Senado faz, é a definição do teto desta alíquota.
+
+
+
+
+    Alternativa        B    (Incorreta):       O     STF     já    declarou           entendimento   pela
+    constitucionalidade da fixação de alíquotas progressivas para o ITCD (RE
+    562.045/RS).
+
+
+
+                  Transcrição parcial do voto da Min. Ellen Gracie: “Por revelar efetiva
+                  e atual capacidade contributiva inerente ao acréscimo patrimonial, o
+                  Imposto sobre transmissão causa mortis, também conhecido como
+                  imposto sobre heranças ou sucessão, é um imposto que bem se
+                  vocaciona à tributação progressiva”.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                         38
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Alternativa C (Incorreta): Não é possível afirmar, isoladamente, que o ITCD,
+    mediante aplicação da alíquota máxima de 8%, viola o princípio da vedação
+    ao efeito confiscatório.
+
+
+
+    Alternativa D (Correta): Perfeito! Este é o entendimento do STF atualmente!
+
+
+
+    Alternativa E (Incorreta): Não é esse entendimento do STF, o qual considera
+    constitucional a progressividade das alíquotas do ITCD.
+
+
+
+    Gabarito: D
+
+
+
+    6-) FGV - Auditor Fiscal da Receita Estadual (SEFAZ ES)/2021
+
+    Em junho de 2021, Paulo, domiciliado em Vila Velha (ES), adquiriu, pela
+    Internet, uma bicicleta para seu uso pessoal de uma sociedade empresária,
+    sediada em Osasco (SP).
+
+    Acerca do ICMS devido nesta operação, adotar-se-á a alíquota interestadual e
+    caberá
+
+
+
+    (A) ao Estado de São Paulo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado de São Paulo e a alíquota interestadual.
+
+    (B) ao Estado do Espírito Santo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado do Espírito Santo e a alíquota interestadual.
+
+    (C) ao Estado de São Paulo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado do Espírito Santo e a alíquota interestadual.
+
+    (D) ao Estado do Espírito Santo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado de São Paulo e a alíquota interestadual.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   39
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    (E) aos Estados do Espírito Santo e de São Paulo a partilha, em partes iguais,
+    do ICMS correspondente à diferença entre a alíquota interna do Estado de
+    São Paulo e a alíquota interestadual.
+
+
+
+    Comentários: Vejam que Paulo é um consumidor final e faz uma aquisição
+    interestadual. Haverá DIFAL? Claro que sim! Só um detalhe: Paulo não é
+    contribuinte do ICMS, logo a responsabilidade pelo recolhimento do DIFAL
+    será do remetente. Vamos aproveitar e ver como a CF/88 nos traz tudo isso:
+
+                        155. § 2º O imposto previsto no inciso II [ICMS] atenderá ao
+                        seguinte:
+
+                        VII - nas operações e prestações que destinem bens e serviços
+                        a consumidor final, contribuinte ou não do imposto, localizado
+                        em outro Estado, adotar-se-á a alíquota interestadual e caberá
+                        ao     Estado       de     localização       do     destinatário   o   imposto
+                        correspondente à diferença entre a alíquota interna do Estado
+                        destinatário e a alíquota interestadual;
+
+                        VIII - a responsabilidade pelo recolhimento do imposto
+                        correspondente à diferença entre a alíquota interna e a
+                        interestadual de que trata o inciso VII será atribuída:
+
+                        a) ao destinatário, quando este for contribuinte do imposto;
+
+                        b) ao remetente, quando o destinatário não for contribuinte do
+                        imposto;
+
+
+
+    Voltemos à questão:
+
+    Nesta operação da compra da bicicleta de Paulo, adotar-se-á a alíquota
+    interestadual e caberá:
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      40
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Alternativa A (Incorreta): ao Estado de São Paulo o ICMS correspondente à
+    diferença entre a alíquota interna do Estado de São Paulo e a alíquota
+    interestadual.
+
+    Pessoal. O Difal vai para o Estado de destino. Nesse caso, vai para o ES.
+
+
+
+    Alternativa B (Correta): ao Estado do Espírito Santo o ICMS correspondente à
+    diferença entre a alíquota interna do Estado do Espírito Santo e a alíquota
+    interestadual.
+
+    Perfeito! Nas operações e prestações que destinem bens e serviços a
+    consumidor final, contribuinte ou não do imposto, localizado em outro Estado,
+    adotar-se-á a alíquota interestadual e caberá ao Estado de localização do
+    destinatário o imposto correspondente à diferença entre a alíquota interna do
+    Estado destinatário e a alíquota interestadual.
+
+
+    Alternativa C (Incorreta): ao Estado de São Paulo o ICMS correspondente à
+    diferença entre a alíquota interna do Estado do Espírito Santo e a alíquota
+    interestadual.
+
+    O Difal vai para o Estado de destino.
+
+
+    Alternativa D (Incorreta): ao Estado do Espírito Santo o ICMS correspondente
+    à diferença entre a alíquota interna do Estado de São Paulo e a alíquota
+    interestadual.
+
+    A diferença de alíquotas (DIFAL) é entre o Estado de Destino e a alíquota
+    interestadual.
+
+
+    Alternativa E (Incorreta): aos Estados do Espírito Santo e de São Paulo a
+    partilha, em partes iguais, do ICMS correspondente à diferença entre a
+    alíquota interna do Estado de São Paulo e a alíquota interestadual.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   41
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    Nada disso. Nada de partilha. Nas operações e prestações que destinem bens
+    e serviços a consumidor final, contribuinte ou não do imposto, localizado em
+    outro Estado, adotar-se-á a alíquota interestadual e caberá ao Estado de
+    localização do destinatário o imposto correspondente à diferença entre a
+    alíquota interna do Estado destinatário e a alíquota interestadual.
+
+
+
+    Gabarito: B
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   42
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    6. QUESTIONÁRIO DE REVISÃO E
+    APERFEIÇOAMENTO
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+
+
+
+                                  Questionário – Somente perguntas
+
+
+
+
+    1) Quais os dois efeitos em relação ao crédito do ICMS, ocasionados pela
+    isenção ou não incidência?
+
+
+
+    2-) O ICMS será ou poderá ser Não Cumulativo? E em relação à Seletividade?
+
+
+
+    3-) Incide ICMS sobre toda e qualquer prestação de serviço de comunicação?
+
+
+
+    4-) Quando o IPI integra a Base de Cálculo do ICMS? E quando ele não
+    integra?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   43
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    5-) Quem define as alíquotas internas do ICMS nos Estados? E as alíquotas
+    interestaduais?
+
+
+
+    6-) Em alguma hipótese a alíquota interna poderá ser inferior à alíquota
+    interestadual?
+
+
+
+    7-) Quais os dois benefícios concedidos pela CF/88 em relação à exportação,
+    no que diz respeito ao ICMS?
+
+
+
+    8-) Incide ICMS sobe os provedores de acesso à internet?
+
+
+
+    9-) Incide ICMS sobre o serviço de habilitação de telefone celular?
+
+
+
+    10-) Para qual Estado Cabe o ITCMD no caso de transmissão causa mortis de
+    bem Imóvel? E no caso de doação?
+
+
+
+    11-) Para qual Estado Cabe o ITCMD no caso de transmissão causa mortis de
+    bem Móvel? E no caso de doação?
+
+
+
+    12-) Segundo o STF, o ITCMD, apesar de ser um tributo real, pode ter suas
+    alíquotas progressivas?
+
+
+
+    13-) O IPVA poderá ter alíquotas diferenciadas em função do tipo e da
+    utilização do veículo? E em relação à origem do veículo (nacional / importado)?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   44
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                                Questionário – Perguntas e Respostas
+
+
+
+
+    1) Quais os dois efeitos em relação ao crédito do ICMS, ocasionados pela
+    isenção ou não incidência?
+
+    Resposta: Conforme o Inciso II, do § 2º, do Art. 155, da CF/88, Salvo
+    Disposição em Contrário, a isenção ou não incidência:
+
+          ▪ não implicará crédito para compensação com o montante devido nas
+             operações ou prestações seguintes (1º Efeito);
+
+
+          ▪ acarretará a anulação do crédito relativo às operações anteriores (2º
+             Efeito).
+
+
+
+
+    Onde: D = Débito (imposto a recolher)
+
+              C = Crédito (imposto a recuperar / compensar)
+
+
+
+    2-) O ICMS será ou poderá ser Não Cumulativo? E em relação à Seletividade?
+
+    Resposta: O ICMS SERÁ Não Cumulativo, e PODERÁ ser Seletivo.
+
+
+
+    Aproveitando a explicação, o IPI SERÁ Não Cumulativo, e SERÁ Seletivo.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   45
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    3-) Incide ICMS sobre toda e qualquer prestação de serviço de comunicação?
+
+    Resposta: Não. Conforme dispõe a CF/88 e a Lei Kandir (LC 87/96), somente
+    incidirá ICMS sobre os serviços de Comunicação Onerosos.
+
+
+
+                        Art. 155, § 2º, X - não incidirá (ICMS):
+
+                        d) nas prestações de serviço de comunicação nas modalidades
+                        de radiodifusão sonora e de sons e imagens de recepção livre e
+                        gratuita;
+
+
+
+    4-) Quando o IPI integra a Base de Cálculo do ICMS? E quando ele não
+    integra?
+
+    Resposta: O IPI integra a Base de Cálculo do ICMS quando a operação do
+    fabricante tem como destino um consumidor final.
+
+
+
+    Já quando a operação do fabricante é destinada a revendedor ou a outro
+    fabricante (ainda haverá nova saída tributada), o IPI NÃO integra a Base de
+    Cálculo do ICMS.
+
+
+
+    5-) Quem define as alíquotas internas do ICMS nos Estados? E as alíquotas
+    interestaduais?
+
+    Resposta: As Alíquotas internas do ICMS, utilizadas nas Operações /
+    Prestações que ocorrem dentro do Estado, são definidas individualmente em
+    cada Estado, mediante lei.
+
+
+
+    Já as alíquotas interestaduais são definidas pelo Senado federal, mediante
+    resolução do Senado.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      46
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    6-) Em alguma hipótese a alíquota interna poderá ser inferior à alíquota
+    interestadual?
+
+    Resposta: Via de regra, as alíquotas internas não serão inferiores às
+    interestaduais. Porém, caso autorizado em convênio pelos Estados, através do
+    CONFAZ – Conselho Nacional de Política Fazendária, as alíquotas internas
+    poderão ser inferiores à interestadual.
+
+                        Art. 155, § 2º, VI Salvo deliberação em contrário dos Estados e
+                        do Distrito Federal, no CONFAZ (Conselho Nacional de Política
+                        Fazendária), as alíquotas internas do ICMS não poderão ser
+                        inferiores às previstas para as operações interestaduais.
+
+
+
+    7-) Quais os dois benefícios concedidos pela CF/88 em relação à exportação,
+    no que diz respeito ao ICMS?
+
+    Resposta: A exportação tem 2 benefícios em relação ao ICMS, a saber:
+
+    1º) A exportação é imune (não há imposto a recolher);
+
+    2º) Permite-se o creditamento do crédito do ICMS da entrada da mercadoria
+    (princípio Constitucional da Não Cumulatividade).
+
+
+
+    8-) Incide ICMS sobe os provedores de acesso à internet?
+
+    Resposta: Conforme a Súmula STJ 334, o ICMS não incide no serviço dos
+    provedores de acesso à internet.
+
+
+
+    9-) Incide ICMS sobre o serviço de habilitação de telefone celular?
+
+    Resposta: Conforme a Súmula STJ 350, o ICMS não incide sobre o serviço de
+    habilitação de telefone celular.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       47
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    10-) Para qual Estado Cabe o ITCMD no caso de transmissão causa mortis de
+    bem Imóvel? E no caso de doação?
+
+    Resposta: Tanto no caso de Transmissão causa mortis, como no caso de
+    doação de bens IMÓVEIS, o ITCMD caberá ao Estado de localização do Bem.
+
+
+
+    11-) Para qual Estado Cabe o ITCMD no caso de transmissão causa mortis de
+    bem Móvel? E no caso de doação?
+
+    Resposta: No caso de Transmissão causa mortis de bens MÓVEIS, o ITCMD
+    caberá ao Estado onde era domiciliado o de cujus (EC 132/2023).
+
+    Já no caso de Doação de bens MÓVEIS, o ITCMD caberá ao Estado onde tiver
+    domicílio o doador.
+
+
+
+    12-) Segundo o STF, o ITCMD, apesar de ser um tributo real, pode ter suas
+    alíquotas progressivas?
+
+    Resposta: Sim! Conforme julgamento do RE 562.045/RS ficou assentado que
+    é plenamente constitucional a fixação de alíquotas progressivas para o ITCMD.
+
+    Inclusive a EC 132/2023 incluiu no texto Constitucional que o ITCMD será
+    progressivo em razão do valor do quinhão, do legado ou da doação.
+
+
+
+    13-) O IPVA poderá ter alíquotas diferenciadas em função do tipo e da
+    utilização do veículo? E em relação à origem do veículo (nacional / importado)?
+
+    Resposta: Conforme definição Constitucional, o IPVA poderá ter alíquotas
+    diferenciadas em função do tipo, do valor, da utilização e do impacto
+    ambiental.
+
+    Porém é proibida a aplicação de alíquotas diferenciadas para veículos
+    nacionais e importados. (princípio da não discriminação com base na
+    procedência ou destino, conforme Artigo 152 da CF/88).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   48
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    7. LISTA DE QUESTÕES ESTRATÉGICAS
+
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Questões Estratégicas”:
+
+
+
+
+    QUESTÕES FGV
+
+
+
+    1-) (FGV - Técnico Tributário – SEFIN-RO/2018) Na entrega de mercadoria
+    importada do exterior, considera-se ocorrido o fato gerador do Imposto Sobre
+    Circulação de Mercadorias e Prestação de Serviços (ICMS), o momento em
+    que se dá
+
+    (A) o desembaraço aduaneiro.
+
+    (B) a entrada da mercadoria no estabelecimento do destinatário.
+
+    (C) a saída da mercadoria do exterior.
+
+    (D) a aquisição da mercadoria, ainda que a mercadoria não seja entregue
+    corretamente.
+
+    (E) a entrega da declaração de importação pelo estabelecimento adquirente.
+
+
+
+
+    2-) (FGV - Auditor Fiscal da Receita Estadual – SEFAZ-RJ/2010) Com relação
+    ao ICMS, assinale a alternativa correta.
+
+    (A) Os serviços de comunicação não estão sujeitos ao ICMS.
+
+    (B) Não pode haver uma mesma operação comercial, ainda que de natureza
+    mista (com fornecimento de mercadoria e prestação de serviços), que seja
+    tributada tanto pelo ICMS (valor da mercadoria) como pelo ISS (valor do
+    serviço).
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   49
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    (C) Incide no caso de transferência de titularidade de bens do ativo fixo ou
+    imobilizado.
+
+    (D) Não incide quando se tratar de bem ou mercadoria importado por pessoa
+    que não seja contribuinte habitual do imposto, nos termos das Constituição
+    Federal.
+
+    (E) Será garantida a manutenção e o aproveitamento do montante do imposto
+    cobrado nas operações e prestações anteriores no caso de exportação de
+    mercadorias, mesmo que a Constituição Federal expressamente determine a
+    não incidência do ICMS sobre mercadorias e serviços destinados ao exterior.
+
+
+
+
+    3-) (FGV – AFTM -Cuiabá/2016) Em relação à incidência do Imposto sobre
+    Circulação de Mercadorias e Serviços (ICMS) sobre operações interestaduais
+    de exportação e importação, analise as afirmativas a seguir.
+
+
+
+    I. Cabe ao Senado Federal, por meio de Resolução, estabelecer as alíquotas
+    do ICMS aplicáveis às operações e prestações, interestaduais e de exportação.
+
+    II. Nas operações interestaduais que destinam bens a consumidor final, será
+    aplicada a alíquota interna do Estado, quando o destinatário for contribuinte
+    do ICMS.
+
+    III. Incide ICMS sobre a entrada de bens importados por pessoa física, qualquer
+    que seja sua finalidade.
+
+    Assinale:
+
+    (A) se somente a afirmativa II estiver correta.
+
+    (B) se somente as afirmativas I e III estiverem corretas.
+
+    (C) se somente as afirmativas I e II estiverem corretas.
+
+    (D) se somente as afirmativas II e III estiverem corretas.
+
+    (E) se todas as afirmativas estiverem corretas.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   50
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    4-) (FGV - Auditor Fiscal de Tributos Estaduais – SEFIN-RO/2018) Argeu,
+    residente e domiciliado no Estado de Rondônia, doou ao filho César, residente
+    no Estado de Goiás, um rebanho com 2 mil cabeças de gado, o qual se
+    encontra na Fazenda Riacho Doce, localizada no Estado de Mato Grosso.
+
+
+
+    Nesse caso, o Imposto incidente sobre a doação
+
+    (A) é devido no Estado de Mato Grosso, onde está o rebanho.
+
+    (B) é devido no Estado de Goiás, onde reside o donatário.
+                                                       ==219a34==
+
+
+
+
+    (C) não é devido, por não haver incidência sobre transmissão de animais.
+
+    (D) é devido no Estado de Rondônia, onde o doador tem domicílio.
+
+    (E) é devido no Estado em que a escritura pública de doação for lavrada.
+
+
+
+
+    5-) (FGV - Auditor Fiscal de Tributos Estaduais – SEFIN-RO/2018) O Estado X
+    editou uma lei na qual fixou alíquotas progressivas, que variam de 1% a 8% do
+    Imposto sobre a Transmissão Causa Mortis e Doação (ITCD), em razão do valor
+    do bem a ser transmitido e sua localidade.
+
+
+
+    Sobre o caso descrito, assinale a afirmativa correta.
+
+    (A) A fixação de alíquotas do ITCD não cabe aos Estados-membros e sim ao
+    Senado Federal.
+
+    (B) A fixação de alíquotas progressivas do ITCD é inconstitucional, uma vez
+    que a progressividade, no caso dos impostos reais, só pode ser adotada se
+    houver expressa previsão constitucional.
+
+    (C) A progressividade estabelecida é válida, porém a alíquota máxima de 8%
+    viola o confisco, uma vez que restringe desmedidamente o patrimônio do
+    contribuinte.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   51
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    (D) A fixação de alíquotas progressivas do ITCD não ofende a Constituição
+    Federal, pois é um imposto que revela efetiva capacidade contributiva de
+    quem percebe a transferência patrimonial.
+
+    (E) A fixação de alíquotas progressivas do ITCD é inconstitucional, uma vez
+    que a Constituição Federal veda a progressividade de impostos de natureza
+    real.
+
+
+
+    6-) FGV - Auditor Fiscal da Receita Estadual (SEFAZ ES)/2021
+
+    Em junho de 2021, Paulo, domiciliado em Vila Velha (ES), adquiriu, pela
+    Internet, uma bicicleta para seu uso pessoal de uma sociedade empresária,
+    sediada em Osasco (SP).
+
+    Acerca do ICMS devido nesta operação, adotar-se-á a alíquota interestadual e
+    caberá
+
+
+
+    (A) ao Estado de São Paulo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado de São Paulo e a alíquota interestadual.
+
+    (B) ao Estado do Espírito Santo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado do Espírito Santo e a alíquota interestadual.
+
+    (C) ao Estado de São Paulo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado do Espírito Santo e a alíquota interestadual.
+
+    (D) ao Estado do Espírito Santo o ICMS correspondente à diferença entre a
+    alíquota interna do Estado de São Paulo e a alíquota interestadual.
+
+    (E) aos Estados do Espírito Santo e de São Paulo a partilha, em partes iguais,
+    do ICMS correspondente à diferença entre a alíquota interna do Estado de
+    São Paulo e a alíquota interestadual.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   52
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+    GABARITO
+
+
+
+
+          1-A                  2-E                  3-B                  4-D          5-D
+          6-B
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         53
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 07
+
+
+
+
+                              Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+
+                                No estudo de hoje vimos os principais pontos sobre os
+    Impostos de Competência dos Estados.
+
+
+
+
+                     Um grande abraço e que Deus os abençoe.
+                                        Até a próxima aula!!!
+
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          54
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+

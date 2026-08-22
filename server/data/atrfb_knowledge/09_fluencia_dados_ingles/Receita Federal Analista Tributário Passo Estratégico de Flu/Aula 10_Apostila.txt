@@ -1,0 +1,52 @@
+                                                 Aula extra
+                      Receita Federal (Analista Tributário)
+                Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                          Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                          10 de Fevereiro de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Pedrosa Lopes
+Aula extra
+
+
+
+                                       Análise Estatística
+
+   A análise estatística refere-se a uma amostra abrangendo provas realizadas pela
+   banca FGV para nível superior no período de 2024 a 2026 para um total de 3574
+   questões. Inicialmente, convém destacar os percentuais de incidência de todos os
+   assuntos previstos no nosso curso — quanto maior o percentual de cobrança de um
+   dado assunto, maior sua importância:
+
+                                                                                       Grau de Incidência
+                                   Assunto                                           em Concursos Similares
+                                                                                             FGV
+
+   Python                                                                                   47.10%
+
+   Computação em Nuvem                                                                      32.42%
+
+   Data Mining                                                                               11.61%
+
+   Big Data e NoSQL                                                                          8.87%
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+      www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+

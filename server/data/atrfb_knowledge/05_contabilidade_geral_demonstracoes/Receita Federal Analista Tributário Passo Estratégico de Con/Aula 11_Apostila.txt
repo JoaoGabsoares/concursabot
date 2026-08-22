@@ -1,0 +1,2060 @@
+                                                    Aula 10
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                          16 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 10
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - CPC 00 - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - CPC 00
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - CPC 00
+..............................................................................................................................................................................................
+                                                                                                                                                                                            20
+
+4) Questões Comentadas - CPC 00 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            21
+
+5) Questionário de Revisão - CPC 00
+..............................................................................................................................................................................................
+                                                                                                                                                                                            31
+
+6) Lista de Questões - CPC 00 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            35
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           40
+
+                                                             https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 10
+
+
+
+
+                                           APRESENTAÇÃO
+ Olá! No relatório de hoje iremos analisar o Pronunciamento Contábil que é mais exigido em provas: a
+ Estrutura Conceitual: CPC 00 (R2). Assunto importantíssimo que simplesmente cai em praticamente
+ todos as provas e é fundamental para o seu estudo.
+
+ Aproveitem e bons estudos.
+
+
+                          Faça contato comigo pelas redes
+                                      sociais!
+
+                          @profjuliocardozo @filipemagalhaes30
+
+                                      ANÁLISE ESTATÍSTICA
+
+ O que é mais cobrado dentro do assunto?
+
+ Pessoal, a maioria das questões que as bancas cobram sobre esse assunto acabam envolvendo, de certa
+ forma a literalidade dos itens do CPC 00 (R2). Por isso, separamos nesse relatório os itens mais
+ importantes, e as definições dos elementos das demonstrações contábeis.
+
+ Vamos ver como a banca FGV tem cobrado esse assunto:
+
+Assunto                                                                                   % Cobrança
+CAPÍTULO 1 – OBJETIVO DO RELATÓRIO FINANCEIRO PARA FINS GERAIS                              37,1%
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES FINANCEIRAS ÚTEIS                  31,4%
+CAPÍTULO 4 – ELEMENTOS DAS DEMONSTRAÇÕES CONTÁBEIS                                          25,7%
+CAPÍTULO 6 – MENSURAÇÃO                                                                      2,9%
+CAPÍTULO 3 – DEMONSTRAÇÕES CONTÁBEIS E A ENTIDADE QUE REPORTA                                2,9%
+SITUAÇÃO E FINALIDADE DA ESTRUTURA CONCEITUAL                                                0,0%
+CAPÍTULO 5 – RECONHECIMENTO E DESRECONHECIMENTO                                              0,0%
+CAPÍTULO 8 – CONCEITOS DE CAPITAL E MANUTENÇÃO DE CAPITAL                                    0,0%
+CAPÍTULO 7 – APRESENTAÇÃO E DIVULGAÇÃO                                                       0,0%
+Total                                                                                       100,0%
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           3
+         www.estrategiaconcursos.com.br                                                          40
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 10
+
+
+
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                       MERECEM DESTAQUE
+
+CAPÍTULO 1 – OBJETIVO DO RELATÓRIO FINANCEIRO PARA FINS GERAIS
+
+Finalidade da Estrutura Conceitual:
+
+
+                                                    Desenvolvimento
+                                                     das normas de
+                                                     contabilidade
+                                                                                    Nenhum
+                                                                               pronunciamento se
+                                                                                     aplica
+                                                   Responsáveis a
+ Finalidade do                                       desenvolver
+                            Auxiliar
+    CPC 00                                        políticas contábeis
+                                                     consistentes
+                                                                                Pronunciamento
+                                                                               permite escolha de
+                                                                                política contábil
+                                                      Entender e
+                                                      interpretar
+                                                   Pronunciamentos
+
+
+Esta Estrutura Conceitual não é um pronunciamento propriamente dito. Nada contido nesta Estrutura
+Conceitual se sobrepõe a qualquer pronunciamento ou qualquer requisito em pronunciamento.
+
+Objetivo, utilidade e limitações do relatório financeiro para fins gerais:
+
+                                              Fornecer informações
+                                              úteis para tomada de
+                                                     decisões
+
+
+                                                                               Comprar, vender ou
+       Objetivo do Relatório                  Investidores, credores
+                                                                              manter instrumento de
+    Financeiro para Fins Gerais                  por empréstimos
+                                                                              patrimônio e de dívida
+
+
+
+                                                                               Conceder ou liquidar
+                                                    Decisões
+                                                                                  empréstimo
+
+
+
+                                                                                Exercer direitos ou
+                                                                                    influenciar
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 4
+        www.estrategiaconcursos.com.br                                                                 40
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Muitos investidores, credores por empréstimos e outros credores, existentes e potenciais, não podem exigir
+que as entidades que reportam forneçam informações diretamente a eles, devendo se basear em relatórios
+financeiros para fins gerais para muitas das informações financeiras de que necessitam. Consequentemente,
+eles são os principais usuários aos quais se destinam relatórios financeiros para fins gerais.
+
+Os funcionários de uma empresa são considerados usuários internos ou externos?
+
+         Depende. Se o funcionário fizer parte da administração da empresa e puder solititar as
+         informações que necessita, é usuário interno. Se o funcionário não pode solicitar
+         determinadas informações, é considerado usuário externo. Exemplo: o Gerente de
+         Recursos Humanos é usuário interno, pode solicitar informações sobre os salário de
+         qualquer pessoa da empresa. Já o analista ou auxiliar contábil não tem acesso aos salários
+         de outros funcionários. Assim, é considerado usuário externo.
+
+Relatórios financeiros para fins gerais não fornecem nem podem fornecer todas as informações de que
+necessitam seus usuários.
+Importante destacar que esses relatórios financeiros não se destinam a apresentar o valor da entidade que
+reporta.
+Além disso, fornecem informações sobre a posição financeira da entidade que reporta, as quais consistem
+em informações sobre os recursos econômicos da entidade (ativos) e as reivindicações (passivo) contra a
+entidade que reporta.
+Desempenho financeiro refletido pela contabilização pelo regime de competência
+O regime de competência reflete os efeitos de transações e outros eventos e circunstâncias sobre
+reivindicações e recursos econômicos da entidade que reporta nos períodos em que esses efeitos ocorrem,
+mesmo que os pagamentos e recebimentos à vista resultantes ocorram em período diferente. Trata-se de
+uma base melhor para a avaliação do desempenho passado e futuro da entidade do que informações
+exclusivamente sobre recebimentos e pagamentos à vista durante esse período.
+Apenas destacamos que as informações sobre fluxos de caixa também são relevantes para a entidade, pois
+auxiliam os usuários a avaliar a capacidade da entidade de gerar futuros fluxos de entrada de caixa líquidos
+e avaliar a gestão de recursos da administração sobre os recursos econômicos da entidade. Como estamos
+gastando o nosso caixa? Quanto pagamos para amortizar empréstimos? Quanto recebemos para pagar
+nossos clientes.
+
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES
+FINANCEIRAS ÚTEIS
+
+As características qualitativas foram divididas em duas categorias: Características qualitativas fundamentais
+(relevância e representação fidedigna) e Características qualitativas de melhoria (comparabilidade,
+capacidade de verificação, tempestividade e compreensibilidade)
+
+Esquematizemos:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                    5
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+                                                                                    Relevância
+
+                                             Fundamentais
+
+                                                                                 Representação
+                                                                                   fidedigna
+
+
+
+            Características
+                                                                                Comparabilidade
+             qualitativas
+
+
+
+                                                                                  Capacidade de
+                                                         ==219a34==
+
+
+
+
+                                                                                   verificação
+
+                                              De melhoria
+
+                                                                                 Tempestividade
+
+
+
+
+                                                                               Compreensibilidade
+
+
+
+Resumo:
+
+
+                                                                                                      Pode predizer
+                                                                        Valor preditivo
+                                                                                                    futuros resultados
+
+
+
+                                    Diferença nas
+     Relevância                                                       Valor confirmatório           Serve de feedback
+                                       decisões
+
+
+
+                                                                            Ambos
+
+
+
+A informação é material se a sua omissão, distorção ou obscuridade puder influenciar, razoavelmente, as
+decisões que os principais usuários de relatórios financeiros para fins gerais
+A representação fidedigna refere-se a três atributos, precisando ser completa, neutra e livre de erro.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                              6
+         www.estrategiaconcursos.com.br                                                                              40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+                                                                                 Todas as informações
+                                                                                   necessarias para
+                                                                                    compreensão
+                                                        Completa
+                                                                                  Ativos: descrição da
+                                                                                natureza, representação
+                                                                                       numérica.
+
+
+                                                                               Não tendenciosa na
+                                                                                     seleção
+                    Representação
+                                                         Neutra
+                      Fidedigna
+                                                                                  Apoiada pela
+                                                                                   prudência
+
+
+                                                                                 Não há erros ou
+                                                                                  omissões no
+                                                                                    processo
+                                                  Isenta de Erros
+                                                                                Não é perfeita em
+                                                                                todos os aspectos
+
+
+Importante destacar o papel da Prudência ou Conservadorismo no CPC 00 (R2) o a qual afirma que a
+neutralidade é apoiada pelo exercício da prudência.
+
+                                Prudência: use com moderação! Evite excessos!
+
+Aplicação das características qualitativas fundamentais
+
+
+                                                                   Informações estão
+                                Identificar o tipo de
+                                                                      disponíveis e                SIM: encerrado
+    Identificar o                informação que é
+                                                                        possuem
+     fenômeno                      mais relevante                                                  Não: repetido
+                                                                     representação
+                                     sobre ele
+                                                                       fidedigna?
+
+
+
+
+Comparabilidade, capacidade de verificação, tempestividade e compreensibilidade são características
+qualitativas que melhoram a utilidade de informações que sejam tanto relevantes como forneçam
+representação fidedigna do que pretendem representar.
+Comparabilidade é a característica qualitativa que permite aos usuários identificar e compreender
+similaridades e diferenças entre itens. Não significa uniformidade.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                             7
+         www.estrategiaconcursos.com.br                                                                             40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Diferentemente de outras características qualitativas, a comparabilidade não está se refere a um único item.
+A comparação requer no mínimo dois itens.
+Consistência, embora relacionada à comparabilidade, não é a mesma coisa. Consistência refere-se ao uso
+dos mesmos métodos para os mesmos itens, seja de período a período na entidade que reporta ou em um
+único período para diferentes entidades.
+A capacidade de verificação ajuda a garantir aos usuários que as informações representem de forma
+fidedigna os fenômenos econômicos que pretendem representar. Diferentes observadores bem
+informados e independentes podem chegar ao consenso
+
+
+                                                                                  Observação Direta
+
+                                                     Direta
+
+                                                                                    Contar direta
+
+                   Verificação
+                                                                              Verificar dados de entrada
+                                                                               e recalcular os dados de
+                                                                                 saída com a mesma
+                                                                                     metodologia
+                                                     Indireta
+                                                                               Estoques: verifico valor
+                                                                                contábil do estoque
+                                                                              (quantidades e custos) e
+                                                                                recalculo com PEPS.
+
+Tempestividade significa disponibilizar informações aos tomadores de decisões a tempo para que sejam
+capazes de influenciar suas decisões
+
+COMPREENSIBILIDADE
+
+Classificar, caracterizar e apresentar informações de modo claro e conciso as torna compreensíveis.
+
+                                       Características qualitativas de melhoria
+                                      Comparação de informações com entidades similares e outros períodos da
+                                      mesma entidade
+                                      Consistência: uso dos mesmos métodos para os mesmos itens
+        Comparabilidade
+                                      Comparabilidade não significa uniformidade
+   Capacidade de Verificação          Diferentes observadores podem chegar a um consenso.
+         Tempestividade               Ter informação disponível a tempo de poder influenciar nas decisões
+       Compreensibilidade             Classificar, caracterizar e apresentar a informação com clareza e concisão
+                                      torna-a compreensível.
+
+
+As características qualitativas de melhoria devem ser maximizadas tanto quanto possível.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                      8
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Algumas vezes, a característica qualitativa de melhoria pode ter de ser diminuída para maximizar outra
+característica qualitativa de melhoria. Por exemplo, a redução temporária na comparabilidade como
+resultado da aplicação prospectiva de novo pronunciamento pode ser vantajosa para aumentar a relevância
+ou a representação fidedigna em longo prazo.
+Resumo:
+
+                                                                                                         Valor preditivo
+
+
+
+
+                                                                                                       Valor confirmatório
+
+
+                                                                                  Capaz de fazer
+                                                          Relevância
+                                                                                    diferença
+                                                                                                             Ambos
+
+
+                              Fundamentais                                          Completa
+                                                                                                          Materialidade:
+                                                                                                      aspecto da relevância
+                                                                                                      (omissão ou distorção
+                                                                                                        podem influenciar)
+                                                        Representação
+                                                                                     Neutra
+                                                          fidedigna
+
+
+
+
+                                                                                  Livre de erro
+   Características
+    Qualitativas
+
+                                                                                                          Consistência:
+                                                                              Requer no mínimo dois
+                                                       Comparabilidade                                mesmos métodos para
+                                                                                      itens
+                                                                                                         mesmos itens
+
+
+                                                                                    Diferentes
+                                                        Capacidade de
+                                                                               observadores podem
+                                                          verificação
+                                                                                chegar a consenso
+                               De melhoria
+
+                                                                                Ter a informação a
+                                                       Tempestividade
+                                                                                       tempo
+
+
+
+                                                                                Informação clara e
+                                                      Compreensibilidade
+                                                                                  compreensível
+
+
+
+
+Restrição de Custo na Elaboração e Divulgação de Relatório Contábil-Financeiro Útil
+
+O custo para gerar a informação é uma restrição, que impede a geração de toda a informação considerada
+relevante para o usuário. Se divulgar uma informação é mais caro do que a informação propriamente dita,
+pode ser que seja necessário avaliar se essa decisão é mesmo necessária para a divulgação das
+demonstrações contábeis.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                    9
+           www.estrategiaconcursos.com.br                                                                                  40
+
+                                         https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+CAPÍTULO 3: DEMONSTRAÇÕES CONTÁBEIS E A ENTIDADE QUE
+REPORTA.
+
+                                                                               Ativos, Passivos e
+                                                                              Patrimônio Líquido
+                                                                             (Balanço Patrimonial)
+
+                                                                             Receitas e Despesas
+                                                                                (DRE e DRA)
+                Objetivo das
+                                                Informações
+               Demonstrações
+                                             Financeiras sobre
+                 Contábeis
+                                                                            Futuros Fluxos de
+                                                                                  Caixa
+
+
+                                                                               Avaliação da
+                                                                                 Gestão
+
+
+Estamos acostumados a pensar que a contabilidade só registra fatos ocorridos: uma compra ou uma venda
+já realizada. Mas é possível incluir nas demonstrações informações sobre eventos futuros?
+
+Resposta: sim, se os eventos futuros referirem-se a ativos ou passivos da entidade e se tais informações
+forem úteis aos usuários.
+
+Premissa de continuidade operacional
+
+
+
+                                             Empresa vai continuar em
+                                                                                   Se houver previsão de fim,
+       Premissa da continuidade                operação (preços de
+                                                                                   utilizamos bases diferentes
+                                                    entrada)
+
+
+
+A “entidade que reporta” é a entidade que é elabora as demonstrações contábeis, podendo ser uma única
+ou pode compreender mais de uma. Destacamos que uma entidade que reporta não é necessariamente uma
+entidade legal, como por exemplo, uma pessoa física, que pode ter bens, direitos e obrigações, não é uma
+entidade legal, mas pode reportar suas demonstrações contábeis.
+
+As demonstrações contábeis consolidadas fornecem informações sobre os ativos, passivos, patrimônio
+líquido, receitas e despesas tanto da controladora como de suas controladas como uma única entidade que
+reporta.
+
+Demonstrações contábeis consolidadas não se destinam a fornecer informações separadas sobre ativos,
+passivos, patrimônio líquido, receitas e despesas de qualquer controlada específica. As demonstrações
+contábeis próprias da controlada destinam-se a fornecer essas informações.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                          10
+         www.estrategiaconcursos.com.br                                                                          40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+As informações fornecidas nas demonstrações contábeis não consolidadas normalmente não são suficientes
+para atender às necessidades de informações de investidores, mutuante e outros credores, existentes e
+potenciais, da controladora. Consequentemente, quando demonstrações contábeis consolidadas são
+requeridas, demonstrações contábeis não consolidadas não podem substituir demonstrações contábeis
+consolidadas. Não obstante, a controladora pode ser obrigada a, ou escolher, elaborar demonstrações
+contábeis não consolidadas adicionalmente às demonstrações contábeis consolidadas.
+
+CAPÍTULO 4 – ELEMENTOS DAS DEMONSTRAÇÕES CONTÁBEIS
+
+                                                                                 Ativo
+
+
+                                                         Patrimonial            Passivo
+
+                                                                              Patrimônio
+                Elementos                                                       Líquido
+                                    Mensuração
+               relacionados
+                                                                                Receitas
+                                                         Desempenho
+                                                                               Despesas
+
+
+As definições que se apresentam a seguir são, indubitavelmente, as mais importantes (desta aula) para a
+prova. Portanto, tratem de entendê-las e decorá-las.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             11
+         www.estrategiaconcursos.com.br                                                             40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Importantíssimo:
+
+
+                                                                                         Direito
+
+ @profjuliocardozo                                 Recurso econômico
+                                                        presente
+                                                                                    Potencial de
+                                                                                     Benefícios
+                                                     Controlado pela
+                             Ativo
+                                                        entidade
+
+
+                                                      Resultado de
+                                                    eventos passados
+
+
+
+                 @profjuliocardozo
+                                                                  Obrigação Presente
+
+
+
+                                                                 Transferir um recurso
+                                         Passivo
+                                                                      econômico
+
+
+
+                                                                 Resultado de eventos
+                                                                       passados
+
+
+
+Patrimônio Líquido é o Participação residual nos ativos da entidade após a dedução de todos os seus
+passivos.” Ou seja, é o que sobra após deduzir todos os passivos dos ativos.
+
+Conceito de receita – CPC 00:
+
+
+                                                                     Aumento nos
+                                                                 benefícios econômicos
+
+
+
+                                                                  Resulta em aumento
+                                        Receita
+                                                                          do PL
+
+
+
+                                                                  Não está relacionado
+                                                                   com subscrição de
+                                                                         capital
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            12
+         www.estrategiaconcursos.com.br                                                            40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Conceito de despesa – CPC 00:
+
+
+                                                                 Redução nos ativos ou
+                                                                 aumentos nos pasivos
+
+
+
+                                                                 Resulta em diminuição
+                                        Despesas
+                                                                 do Patrimônio Líquido
+
+
+
+                                                                 Não relacionados com
+                                                                     proprietários
+
+
+
+CAPÍTULO 5 – RECONHECIMENTO E DESRECONHECIMENTO
+
+Reconhecimento é o processo de captação para inclusão no balanço patrimonial ou na demonstração do
+resultado e na demonstração do resultado abrangente de item que atenda à definição de um dos
+elementos das demonstrações contábeis.
+Somente itens que atendem à definição de ativo, passivo ou patrimônio líquido devem ser reconhecidos no
+balanço patrimonial. Similarmente, somente itens que atendem à definição de receitas ou despesas devem
+ser reconhecidos na demonstração do resultado e na demonstração do resultado abrangente.
+Contudo, nem todos os itens que atendem à definição de um desses elementos devem ser reconhecidos,
+visto que podem não ser relevantes ou não apresentam representação fidedigna ou custo para gerar a
+informação acaba sendo uma restrição.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             13
+         www.estrategiaconcursos.com.br                                                             40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+O reconhecimento inicial de ativos ou passivos decorrentes de transações ou outros eventos pode resultar
+no reconhecimento simultâneo tanto de receitas como das respectivas despesas. Por exemplo, a venda de
+produtos à vista resulta no reconhecimento de receita (do reconhecimento do ativo – caixa) e da despesa
+(do desreconhecimento de outro ativo – produtos vendidos). O reconhecimento simultâneo das receitas e
+das respectivas despesas, às vezes, é referido como a confrontação entre custos e receitas
+Será que é possível reconhecer elementos das demonstrações contábeis sendo que há incerteza quanto à
+sua existência?
+Sim, em tese, é possível. O ativo ou passivo pode existir mesmo se a probabilidade de entrada ou saída de
+benefícios econômicos for baixa, se esse reconhecimento puder fornecer informações relevantes, poderia
+ser reconhecido.
+Um exemplo prático é o reconhecimento de Provisões que são passivos de prazo ou valores incertos.
+Desreconhecimento
+Desreconhecimento é a retirada de parte ou da totalidade de ativo ou passivo reconhecido do balanço
+patrimonial da entidade e normalmente ocorre quando esse item não atende mais à definição de ativo ou
+passivo:
+(a) para o ativo, o desreconhecimento normalmente ocorre quando a entidade perde o controle da
+totalidade ou de parte do ativo reconhecido; e
+Exemplo: um incêndio consumiu metade do estoque da entidade.
+(b) para o passivo, o desreconhecimento normalmente ocorre quando a entidade não possui mais uma
+obrigação presente pela totalidade ou parte do passivo reconhecido.
+Exemplo: o perdão de uma dívida
+
+CAPÍTULO 6: MENSURAÇÃO
+
+Os elementos reconhecidos nas demonstrações contábeis são quantificados em termos monetários. Isso
+exige a seleção de uma base de mensuração. A base de mensuração é uma característica identificada – por
+exemplo, custo histórico, valor justo ou valor de cumprimento – de item sendo mensurado.
+Bases de Mensuração:
+A mensuração ao custo histórico fornece informações monetárias sobre ativos, passivos e respectivas
+receitas e despesas, utilizando informações derivadas, pelo menos em parte, do preço da transação ou outro
+evento que deu origem a eles. Exemplo: se um equipamento foi adquirido há 5 anos por R$ 10.000 e está
+registrado pelo custo histórico, R$ 10.000 representa o valor da transação que deu origem a essa aquisição.
+Diferentemente do valor atual, o custo histórico não reflete as mudanças nos valores, exceto na medida
+em que essas mudanças se referirem à redução ao valor recuperável de ativo ou passivo que se torna
+onerosa.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 14
+         www.estrategiaconcursos.com.br                                                                 40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+         Custo histórico. O custo histórico de ativo quando é adquirido ou criado é o valor dos
+         custos incorridos na aquisição ou criação do ativo, compreendendo a contraprestação paga
+         para adquirir ou criar o ativo mais custos de transação. O custo histórico de passivo quando
+         é incorrido ou assumido é o valor da contraprestação recebida para incorrer ou assumir o
+         passivo menos custos de transação
+
+                                              Custo histórico
+                                                    Valores pagos
+                                 Ativo
+                                               Valores a serem pagos
+                                        Recursos receb. em troca da obrigação
+                                Passivo
+                                                  Valor para liquidar
+Valor Atual
+As mensurações ao valor atual fornecem informações monetárias sobre ativos, passivos e respectivas
+receitas e despesas, utilizando informações atualizadas para refletir condições na data de mensuração
+
+As bases de mensuração do valor atual incluem:
+
+(a) valor justo;
+
+(b) valor em uso de ativos e valor de cumprimento de passivos; e
+
+(c) custo corrente.
+
+Definições:
+
+         Valor justo é o preço que seria recebido pela venda de ativo ou que seria pago pela
+         transferência de passivo em transação ordenada entre participantes do mercado na data
+         de mensuração.
+
+         Valor em Uso: o Valor em uso é o valor presente dos fluxos de caixa, ou outros benefícios
+         econômicos, que a entidade espera obter do uso de ativo e de sua alienação final.
+
+         Valor de Cumprimento: o Valor de cumprimento é o valor presente do caixa, ou de outros
+         recursos econômicos, que a entidade espera ser obrigada a transferir para cumprir a
+         obrigação.
+
+         Custo corrente de ativo é o custo de ativo equivalente na data de mensuração,
+         compreendendo a contraprestação que seria paga na data de mensuração mais os custos
+         de transação que seriam incorridos nessa data. O custo corrente de passivo é a
+         contraprestação que seria recebida pelo passivo equivalente na data de mensuração
+         menos os custos de transação que seriam incorridos nessa data.
+
+Esquematizando:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 15
+         www.estrategiaconcursos.com.br                                                                 40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+                                                             Valor Justo
+
+
+                                                           Valor em uso de
+                                                           ativos e valor de
+                          Valor Atual
+                                                           cumprimento de
+                                                               passivos
+
+
+                                                           Custo Corrente
+
+
+
+Destacamos que o valor em uso e o valor de cumprimento baseiam-se em fluxos de caixa futuros, por isso
+eles não incluem custos de transação incorridos ao adquirir o ativo ou assumir o passivo. Entretanto, o valor
+em uso e o valor de cumprimento incluem o valor presente de quaisquer custos de transação que a entidade
+espera incorrer na alienação final do ativo ou no cumprimento do passivo.
+Gravem isso: custo de transação INICIAL não entra no cálculo do valor inicial, mas custo de transação FINAL
+entra.
+
+
+                                                                             Data das
+                                                                           Demonstrações
+                                               Ativo
+                                                                       Contraprestação +
+                                                                      Custos de Transação
+                                                                         NESSA DATA
+         Custo Corrente
+                                                                             Data das
+                                                                           Demonstrações
+                                              Passivo
+                                                                         Contraprestação
+                                                                       recebida - custos de
+                                                                         transação nessa
+                                                                               data
+
+                                                        Valor Justo
+                    Ativo: Preço recebido pela venda do ativo na data das demonstrações
+                    Passivo: Preço para liquidar a obrigação na data das demonstrações
+                                    Valor em Uso / Valor de Cumprimento
+                    Ativo: Valor presente dos fluxos de caixa obtidos com uso do ativo
+                    Passivo: Valor presente para cumprir a obrigação.
+                                                   Custo corrente
+                    Ativo: Valor a ser pago na data das demonstrações
+                    Passivo: Valor para liquidar a obrigação na data das demonstrações
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   16
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Mensuração do patrimônio líquido
+O valor contábil total do patrimônio líquido (total do patrimônio líquido) não é mensurado diretamente, pois
+Equivale ao total dos valores contábeis de todos os ativos reconhecidos menos o total dos valores contábeis
+de todos os passivos reconhecidos.
+
+
+                                                                    Valor de Mercados
+                                                                   sobre direitos sobre o
+                                                                        patrimônio
+
+
+                                                                     Valor levantado na
+                            Patrimônio Líquido NÃO
+                                                                     venda da entidade
+                                  EQUIVALE
+                                                                       como um todo
+
+
+                                                                    Valor levantado na
+                                                                     venda de todos os
+                                                                   ativos e liquidando os
+                                                                          passivos
+
+Embora o patrimônio líquido total não seja mensurado diretamente, pode ser apropriado mensurar
+diretamente o valor contábil de algumas classes individuais do patrimônio líquido e alguns componentes do
+patrimônio líquido. Por exemplo: a conta de Ajuste de Avaliação Patrimonial, que pertence ao Patrimônio
+Líquido, recebe a contrapartida de ativos e passivos que são avaliados a valor justo.
+
+CAPÍTULO 7 – APRESENTAÇÃO E DIVULGAÇÃO
+
+A entidade que reporta comunica informações sobre seus ativos, passivos, patrimônio líquido, receitas e
+despesas apresentando e divulgando informações em suas demonstrações contábeis.
+
+A comunicação efetiva de informações nas demonstrações contábeis torna essas informações mais
+relevantes e contribui para uma representação fidedigna de ativos, passivos, patrimônio líquido, receitas e
+despesas da entidade. Também aprimora a compreensibilidade e comparabilidade das informações nas
+demonstrações contábeis.
+Classificação
+
+Classificação é a organização de ativos, passivos, patrimônio líquido, receitas ou despesas com base em
+características compartilhadas para fins de divulgação e apresentação. Essas características incluem, entre
+outras, a natureza do item, seu papel (ou função) dentro das atividades de negócio conduzidas pela entidade
+e como é mensurado.
+
+Por exemplo: a classificação de ativos em ativos circulante e não circulantes, de acordo com critérios
+definidos, como natureza, liquidez, contribuem para a comparabilidade e a compreensibilidade das
+demonstrações contábeis.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  17
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Compensação ocorre quando a entidade reconhece e mensura tanto ativo como passivo como unidades de
+conta separadas, mas as agrupa em um único valor líquido no balanço patrimonial.
+
+Por exemplo: a entidade possui R$ 15.000 de ICMS a recolher, um ativo, e possui saldo de R$ 12.000 de ICMS
+a recolher um passivo. Nesse caso, há permissão para que esses saldos sejam compensados e a entidade
+apresente apenas o valor líquido de 15.000 - 12.000 = R$ 3.000 de ICMS a recuperar no ativo.
+
+Compensação classifica diferentes itens em conjunto e, portanto, geralmente não é adequada, por isso, é
+usada em casos pontuais.
+
+Demonstração do resultado e demonstração do resultado abrangente
+As receitas e despesas são classificadas e incluídas:
+(a) na demonstração do resultado;
+(b) fora da demonstração do resultado, na demonstração do resultado abrangente.
+
+Como a demonstração do resultado é a fonte principal de informações sobre o desempenho financeiro da
+entidade para o período, todas as receitas e despesas são, a princípio, incluídas nessa demonstração.
+
+Contudo, ao desenvolver os pronunciamentos, pode-se decidir, em circunstâncias excepcionais, que
+receitas ou despesas resultantes de mudança no valor corrente de ativo ou passivo devem ser incluídas na
+demonstração do resultado abrangente se isso resultar na demonstração do resultado fornecer
+informações mais relevantes, ou fornecer representação mais fidedigna do desempenho financeiro da
+entidade para esse período.
+
+Imaginem, por exemplo, que um Instrumento Financeiro seja avaliado a valor justo, mas por suas
+características, a contrapartida dessa variação não seja lançada imediatamente no resultado do exercício.
+Inicialmente é lançado diretamente no Patrimônio Líquido da entidade, como Outros Resultados
+Abrangentes.
+
+Em momento posterior, quando por exemplo, esse instrumento financeiro foi vendido ou baixado, esse saldo
+pode ser reclassificado para o resultado do exercício.
+
+A agregação é a soma de ativos, passivos, patrimônio líquido, receitas ou despesas que possuem
+características compartilhadas e são incluídas na mesma classificação. Isso torna as informações mais úteis
+ao resumir grande quantidade de detalhes. Porém, a agregação oculta algumas informações, por isso deve-
+se observar um equilíbrio de modo que as informações relevantes não sejam obscurecidas por grande
+quantidade de detalhes insignificantes ou por agregação excessiva.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 18
+         www.estrategiaconcursos.com.br                                                                 40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+CAPÍTULO 8: CONCEITOS DE CAPITAL E MANUTENÇÃO DE CAPITAL
+
+O conceito financeiro de capital é adotado pela maioria das entidades na preparação de suas demonstrações
+contábeis. De acordo com o conceito financeiro de capital, tal como o dinheiro investido ou o seu poder de
+compra investido, o capital é sinônimo de ativo líquido ou patrimônio líquido da entidade. Por outro lado,
+segundo o conceito físico de capital, o capital é considerado como a capacidade produtiva da entidade
+baseada, por exemplo, nas unidades de produção diária. Em síntese:
+
+
+                          Manutenção do capital financeiro
+
+                         • Manutenção do capital (dinheiro investido)
+
+                          Manutenção do capital físico
+
+                         • Capacidade física produtiva, operacional
+
+O conceito de manutenção de capital está relacionado com a forma pela qual a entidade define o capital
+que ela procura manter. Ele representa um elo entre os conceitos de capital e os conceitos de lucro, pois
+fornece um ponto de referência para medição do lucro; é uma condição essencial para distinção entre o
+retorno sobre o capital da entidade e a recuperação do capital.
+
+Dessa forma, somente os ingressos de ativos que excedam os montantes necessários para manutenção do
+capital podem ser considerados como lucro e, portanto, como retorno sobre o capital.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                19
+         www.estrategiaconcursos.com.br                                                                40
+
+                                      https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 10
+
+
+
+
+                                                             APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o
+histórico de questões da banca em provas de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “CPC 00 - Estrutura Conceitual para Relatório Financeiro”, o tópico “Capítulo 2 –
+Características Qualitativas de Informações Financeiras Úteis” é o ponto que acreditamos ser o que possui
+mais chances de ser cobrado pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro
+do assunto?”. Portanto, é muito importante memorizar isto:
+
+
+
+                                                                                                                       Valor preditivo
+                                                                                 ==219a34==
+
+
+
+
+                                                                                                                     Valor confirmatório
+
+                                                                                                 Capaz de fazer
+                                                                       Relevância
+                                                                                                   diferença               Ambos
+
+                                        Fundamentais                                                Completa            Materialidade:
+                                                                                                                    aspecto da relevância
+                                                                                                                    (omissão ou distorção
+                                                                    Representação                                     podem influenciar)
+                                                                                                     Neutra
+                                                                      fidedigna
+  Características Qualitativas
+
+
+
+
+                                                                                                   Livre de erro
+
+
+                                                                                                                        Consistência:
+                                                                                               Requer no mínimo
+                                                                   Comparabilidade                                    mesmos métodos
+                                                                                                   dois itens
+                                                                                                                     para mesmos itens
+
+                                                                                                   Diferentes
+                                                                     Capacidade de
+                                                                                              observadores podem
+                                                                      verificação
+                                                                                               chegar a consenso
+                                         De melhoria
+
+                                                                                               Ter a informação a
+                                                                    Tempestividade
+                                                                                                      tempo
+
+                                                                                               Informação clara e
+                                                                  Compreensibilidade
+                                                                                                 compreensível
+
+
+
+
+                                 Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                          20
+                                 www.estrategiaconcursos.com.br                                                                          40
+
+                                                              https://t.me/KakashiAssinaturasBot
+     Filipe Magalhães, Júlio Cardozo
+     Aula 10
+
+
+
+
+                                   QUESTÕES ESTRATÉGICAS
+CAPÍTULO 1 – OBJETIVO DO RELATÓRIO FINANCEIRO PARA FINS GERAIS
+
+1. (FGV/Auditor Fiscal de Tributos Municipais/SJC/2024) As demonstrações contábeis elaboradas dentro
+do que prescreve a Estrutura Conceitual para Elaboração e Divulgação de Relatório Contábil- Financeiro,
+de acordo com o Pronunciamento Conceitual Básico (R1), satisfazem as necessidades comuns da maioria
+dos seus usuários, uma vez que quase todos utilizam essas demonstrações contábeis para a tomada de
+decisões econômicas. Tais tomadas de decisões incluem as a seguir listadas, à exceção de uma. Assinale-
+a.
+      a) Determinar políticas tributárias e a distribuição de lucros e dividendos.
+      b) Verificar como são calculadas as estimativas utilizadas e se estas correspondem à realidade
+         observada.
+      c) Decidir quando comprar, manter ou vender instrumentos patrimoniais.
+      d) Avaliar a segurança quanto à recuperação dos recursos financeiros emprestados à entidade.
+      e) Avaliar a capacidade de a entidade pagar seus empregados e proporcionar-lhes outros benefícios.
+
+Comentários:
+
+O item 1.2 do CPC 00 (R2) afirma que O objetivo do relatório financeiro para fins gerais é fornecer
+informações financeiras sobre a entidade que reporta que sejam úteis para investidores, credores por
+empréstimos e outros credores, existentes e potenciais, na tomada de decisões referente à oferta de
+recursos à entidade.
+
+Essas decisões envolvem decisões sobre:
+
+(a) comprar, vender ou manter instrumento de patrimônio e de dívida;
+
+(b) conceder ou liquidar empréstimos ou outras formas de crédito; ou
+
+(c) exercer direitos de votar ou de outro modo influenciar os atos da administração que afetam o uso dos
+recursos econômicos da entidade
+
+Nesse sentido, de acordo com a natureza do usuário envolvido (governo, credores, investidores)
+determinadas informações serão mais ou menos úteis, analisando também os seus objetivos.
+
+Vamos analisar cada alternativa:
+
+(A) Determinar políticas tributárias e a distribuição de lucros e dividendos.
+
+Correto, governos podem utilizar as informações contábeis divulgadas pelas entidades para implementarem
+políticas tributárias. Por sua vez, os acionistas irão deliberar pela distribuição de lucros e dividendos com
+base nos resultados apresentados nos relatórios financeiros.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 21
+           www.estrategiaconcursos.com.br                                                                 40
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+(B) Verificar como são calculadas as estimativas utilizadas e se estas correspondem à realidade observada.
+
+Errado, o item 1.11 do CPC 00 (R2) afirma que em grande medida, relatórios financeiros baseiam-se em
+estimativas, julgamentos e modelos e, não, em representações exatas. É papel da Estrutura Conceitual
+apresentar o caminho, os conceitos, as metas que devem ser perseguidas.
+
+(C) Decidir quando comprar, manter ou vender instrumentos patrimoniais.
+
+Correto, conforme apontamos acima, no item 1.2, c.
+
+(D) Avaliar a segurança quanto à recuperação dos recursos financeiros emprestados à entidade.
+
+Correto, conforme apontamos acima, no item 1.2, b.
+
+(E) Avaliar a capacidade de a entidade pagar seus empregados e proporcionar-lhes outros benefícios.
+
+Correto, conforme apontamos acima, no item 1.2, b.
+
+Gabarito: B
+
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES FINANCEIRAS ÚTEIS
+
+2. (FGV/Prefeitura de Caraguatatuba/Contador/2024) O custo é uma restrição generalizada sobre as
+informações que podem ser fornecidas pelo relatório financeiro. De acordo com a NBC TG Estrutura
+Conceitual – Estrutura Conceitual para Relatório Financeiro, o relatório de informações financeiras impõe
+custos, e é importante que esses custos sejam justificados pelo(s)
+(A) resultados financeiros deste período.
+(B) resultados operacionais deste período.
+(C) número de horas trabalhadas para elabora-lo.
+(D) número de profissionais envolvidos no processo.
+(E) benefícios de apresentar essas informações.
+
+Comentários:
+
+O item 2.39 da Estrutura Conceitual Básica – CPC 00 (R2) afirma que o custo é uma restrição generalizada sobre
+as informações que podem ser fornecidas pelo relatório financeiro. O relatório de informações financeiras
+impõe custos, e é importante que esses custos sejam justificados pelos benefícios de apresentar essas
+informações.
+
+Há vários tipos de custos e benefícios a serem considerados, portanto, nosso gabarito é a alternativa E.
+
+Gabarito: E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                    22
+         www.estrategiaconcursos.com.br                                                                    40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+CAPÍTULO 1 – OBJETIVO DO RELATÓRIO FINANCEIRO PARA FINS GERAIS
+
+3. (FGV/Prefeitura de Caraguatatuba/Tec Contabilidade/2024) De acordo com o Pronunciamento Técnico
+CPC 00 (R2) Estrutura Conceitual para Relatório Financeiro, os investidores, credores por empréstimos e
+outros credores, existentes e potenciais, são os principais usuários aos quais se destinam relatórios
+financeiros para fins gerais.
+Isso acontece porque muitos deles
+(A) recebem a maior parte do resultado gerado pela entidade que reporta.
+(B) representam os principais financiadores das entidades que reportam.
+(C) assumem os maiores riscos operacionais ao se relacionarem com a entidade que reporta.
+(D) contratam e remuneram a empresa de auditoria independente responsável pelos relatórios.
+(E) não podem exigir que as entidades que reportam forneçam informações diretamente a eles.
+
+Comentários:
+
+A finalidade principal da ciência contábil, que algumas vezes pode também ser chamada de objetivo, é
+fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.
+Essas informações são essenciais a investidores, credores, fornecedores, governo e até mesmo aos próprios
+administradores da entidade, que precisam acompanhar como anda a “saúde” da empresa gerenciada.
+
+ No CPC 00 – Estrutura Conceitual Básica é afirmado no item 1.5 que muitos investidores, credores por
+empréstimos e outros credores, existentes e potenciais, não podem exigir que as entidades que reportam
+forneçam informações diretamente a eles, devendo se basear em relatórios financeiros para fins gerais para
+muitas das informações financeiras de que necessitam. Consequentemente, eles são os principais usuários
+aos quais se destinam relatórios financeiros para fins gerais.
+
+Gabarito: E
+
+CAPÍTULO 3 – DEMONSTRAÇÕES CONTÁBEIS E A ENTIDADE QUE REPORTA
+
+4. (FGV/PC AM/Perito Criminal/Contabilidade/2022) De acordo com o Pronunciamento Técnico CPC 00
+(R2) – Estrutura Conceitual para Relatório Financeiro, as demonstrações contábeis fornecem informações
+sobre transações e outros eventos observados do ponto de vista
+a) dos investidores.
+b) dos credores existentes.
+c) dos credores potenciais.
+d) da entidade que reporta.
+e) das autoridades governamentais.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                23
+         www.estrategiaconcursos.com.br                                                                40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Comentários:
+
+De acordo com o item 3.8 As demonstrações contábeis fornecem informações sobre transações e outros
+eventos observados do ponto de vista da entidade que reporta como um todo e, não, do ponto de vista de
+qualquer grupo específico de investidores, credores por empréstimos e outros credores, existentes ou
+potenciais, da entidade.
+
+Gabarito: D
+
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES FINANCEIRAS ÚTEIS
+
+5. (FGV/PC AM/Perito Criminal/Contabilidade/2022) Entre as características qualitativas de informações
+financeiras úteis está a representação fidedigna, que deve ser completa, neutra e isenta de erros.
+Assinale a opção correta em relação a esses atributos, de acordo com o Pronunciamento Técnico CPC 00 (R2)
+– Estrutura Conceitual para Relatório Financeiro.
+a) O exercício da neutralidade não permite a superavaliação de ativos ou receitas ou a subavaliação de
+passivos ou despesas.
+b) O exercício da representação isenta de erros implica em classificar, caracterizar e apresentar informações
+de modo claro e conciso.
+c) A representação neutra implica em informações que não exercem influência sobre o comportamento e
+as decisões dos usuários.
+ d) A representação isenta de erros deve ser precisa, de modo que os valores monetários que não podem
+ser observados diretamente devem ser estimados apenas quando há certeza na mensuração.
+ e) A representação completa inclui todas as informações necessárias para que o usuário compreenda os
+fenômenos que estão sendo representados, inclusive todas as descrições e explicações necessárias.
+
+Comentários:
+
+a) O exercício da neutralidade não permite a superavaliação de ativos ou receitas ou a subavaliação de
+passivos ou despesas.
+
+Errado, na verdade seria o conceito de prudência e não a neutralidade que não permitiria tal avaliação. De
+acordo com o item 2.16 do CPC 00 (R2), a neutralidade é apoiada pelo exercício da prudência.
+
+Prudência é o exercício de cautela ao fazer julgamentos sob condições de incerteza. Mas esses conceitos não
+se confundem. O exercício de prudência significa que ativos e receitas não estão superavaliados e passivos
+e despesas não estão subavaliados.
+
+b) O exercício da representação isenta de erros implica em classificar, caracterizar e apresentar informações
+de modo claro e conciso.
+
+Errado, conforme previsão do item 2.34 do CPC 00 (R2), Classificar, caracterizar e apresentar informações
+de modo claro e conciso as torna compreensíveis. Ou seja, estamos verificando o exercício da
+compreensibilidade e não da representação isenta de erros.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   24
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+c) A representação neutra implica em informações que não exercem influência sobre o comportamento e
+as decisões dos usuários.
+
+ Errado, de acordo com o item 2.15 do CPC 00 (R2), a representação neutra não é tendenciosa na seleção
+ou na apresentação de informações financeiras. A representação neutra não possui inclinações, não é
+parcial, não é enfatizada ou deixa de ser enfatizada, nem é, de outro modo, manipulada para aumentar a
+probabilidade de que as informações financeiras serão recebidas de forma favorável ou desfavorável pelos
+usuários. Informações neutras não significam informações sem nenhum propósito ou sem nenhuma
+influência sobre o comportamento. Portanto, item errado, pois ainda que seja neutra, a informação contábil
+pode, sim, exercer influência sobre os usuários.
+
+ d) A representação isenta de erros deve ser precisa, de modo que os valores monetários que não podem
+ser observados diretamente devem ser estimados apenas quando há certeza na mensuração.
+
+Errado, o uso de estimativas é muito comum na Contabilidade. O item 2.19 do CPC 00 (R2) reza que quando
+valores monetários em relatórios financeiros não puderem ser observados diretamente e, em vez disso,
+devem ser estimados, surge incerteza na mensuração. O uso de estimativas razoáveis é parte essencial da
+elaboração de informações financeiras e não prejudica a utilidade das informações se as estimativas são
+descritas e explicadas de forma clara e precisa. Mesmo um elevado nível de incerteza na mensuração não
+impede necessariamente essa estimativa de fornecer informações úteis. Item errado.
+
+ e) A representação completa inclui todas as informações necessárias para que o usuário compreenda os
+fenômenos que estão sendo representados, inclusive todas as descrições e explicações necessárias.
+
+Correto, item 2.14 do CPC 00 (R2). A representação completa inclui todas as informações necessárias para
+que o usuário compreenda os fenômenos que estão sendo representados, inclusive todas as descrições e
+explicações necessárias. Por exemplo, a representação completa de grupo de ativos inclui, no mínimo, a
+descrição da natureza dos ativos do grupo, a representação numérica de todos os ativos do grupo e a
+descrição daquilo que a representação numérica retrata (por exemplo, custo histórico ou valor justo).
+
+Gabarito: E
+
+CAPÍTULO 3 – DEMONSTRAÇÕES CONTÁBEIS E A ENTIDADE QUE REPORTA
+
+6. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) A administração de uma entidade
+determinou em 20/01/X2 que irá deixar de operar, por conta da deterioração de sua situação financeira.
+Nesse caso, o pressuposto de continuidade
+a) deve continuar sendo seguido até a confirmação da situação.
+b) deve continuar sendo seguido até a divulgação da opinião do auditor independente.
+c) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/X1.
+d) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/01/X2.
+e) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/X2.
+
+Comentários:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                25
+         www.estrategiaconcursos.com.br                                                                40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+A Estrutura Conceitual Básica (CPC 00) nos apresenta o conceito de continuidade operacional.
+
+         Premissa de continuidade operacional
+
+         3.9 As demonstrações contábeis são normalmente elaboradas com base na suposição de
+         que a entidade que reporta está em continuidade operacional e continuará em operação
+         no futuro previsível. Assim, presume-se que a entidade não tem a intenção nem a
+         necessidade de entrar em liquidação ou deixar de negociar. Se existe essa intenção ou
+         necessidade, as demonstrações contábeis podem ter que ser elaboradas em base
+         diferente. Em caso afirmativo, as demonstrações contábeis descrevem a base utilizada.
+
+Precisamos entender que a continuidade afeta diretamente a avaliação de elementos das demonstrações
+contábeis. Se a entidade pretende continuar suas atividades, geralmente seus ativos, passivos e patrimônio
+líquido são avaliados a valor de entrada.                ==219a34==
+
+
+
+
+Todavia, se há uma expectativa ou necessidade de liquidação da entidade, seus elementos das
+demonstrações contábeis podem ser avaliados em outras bases, como por exemplo, valores de saída.
+
+Voltando para a nossa questão, a administração de uma entidade determinou em 20/01/X2 que irá deixar
+de operar, por conta da deterioração de sua situação financeira. Assim sendo, as demonstrações contábeis
+de períodos já encerrados, como por exemplo, X1, não devem ser afetadas por essa mudança de critério de
+avaliação. Portanto, o nosso gabarito é C.
+
+Gabarito: C
+
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES FINANCEIRAS ÚTEIS
+
+7. (FGV/SEFAZ-ES/Auditor/2021) Relacione as características qualitativas de melhoria de informações
+financeiras úteis às suas respectivas explicações.
+1. Comparabilidade
+2. Capacidade de verificação
+3. Tempestividade
+4. Compreensibilidade
+( ) permite aos usuários identificar e compreender similaridades e diferenças entre itens.
+( ) implica em classificar, caracterizar e apresentar informações de modo claro e conciso.
+( ) significa disponibilizar informações aos tomadores de decisões a tempo para que sejam capazes de
+influenciar suas decisões.
+( ) ajuda a garantir aos usuários que as informações representem de forma fidedigna os fenômenos
+econômicos que pretendem representar
+Assinale a opção que apresenta, segundo a ordem apresentada, a relação correta.
+(A) 4 – 2 – 3 – 1.
+(B) 4 – 3 – 2 – 1.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                26
+         www.estrategiaconcursos.com.br                                                                40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+(C) 1 – 2 – 3 – 4.
+(D) 1 – 4 – 3 – 2.
+(E) 2 – 4 – 1 – 3
+
+Comentários:
+
+Comparabilidade é a característica qualitativa que permite que os usuários identifiquem e compreendam
+similaridades dos itens e diferenças entre eles.
+
+A capacidade de verificação ajuda a assegurar aos usuários que a informação representa fidedignamente o
+fenômeno econômico que se propõe representar
+
+Tempestividade significa ter informação disponível para tomadores de decisão a tempo de poder influenciá-
+los em suas decisões.
+
+Compreensibilidade significa que a classificação, a caracterização e a apresentação da informação são feitas
+com clareza e concisão, tornando-a compreensível. Mas não é admissível a exclusão de informação complexa
+e não facilmente compreensível se isso tornar o relatório incompleto e distorcido.
+
+Efetuando as devidas correlações, temos:
+
+(1) permite aos usuários identificar e compreender similaridades e diferenças entre itens. Comparabilidade
+
+(4) implica em classificar, caracterizar e apresentar informações de modo claro e conciso.
+Compreensibilidade
+
+(3) significa disponibilizar informações aos tomadores de decisões a tempo para que sejam capazes de
+influenciar suas decisões. Tempestividade
+
+(2) ajuda a garantir aos usuários que as informações representem de forma fidedigna os fenômenos
+econômicos que pretendem representar. Capacidade de verificação
+
+Gabarito: D
+
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES FINANCEIRAS ÚTEIS
+
+8. (FGV/IMBEL/Analista Contábil/2021) De acordo com o Pronunciamento Técnico CPC 00 – Estrutura
+Conceitual para Relatório Financeiro, a compreensibilidade é uma das características qualitativas de
+melhoria de informações financeiras úteis. Em relação às implicações da característica qualitativa da
+compreensibilidade, assinale a afirmativa correta.
+(A) Os usuários devem poder identificar e compreender similaridades e diferenças entre itens.
+(B) Os fenômenos complexos e de difícil compreensão devem ser excluídos dos relatórios financeiros.
+(C) As informações devem ser disponibilizadas aos tomadores de decisões a tempo para que sejam capazes
+de influenciar suas decisões.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  27
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+(D) As informações devem ser evidenciadas de modo que os usuários não precisem buscar o auxílio de
+consultores para compreender os relatórios financeiros.
+(E) Os relatórios financeiros devem ser elaborados para usuários que têm conhecimento razoável das
+atividades comerciais e econômicas e que revisam e analisam as informações de modo diligente.
+
+Comentários:
+
+(A) Os usuários devem poder identificar e compreender similaridades e diferenças entre itens. Errado, pois
+estamos tratando aqui de comparabilidade e não compreensibilidade.
+
+De acordo com o CPC 00 (R2), item 2.25, Comparabilidade é a característica qualitativa que permite aos
+usuários identificar e compreender similaridades e diferenças entre itens. Diferentemente das outras
+características qualitativas, a comparabilidade não se refere a um único item. A comparação exige, no
+mínimo, dois itens.
+
+(B) Os fenômenos complexos e de difícil compreensão devem ser excluídos dos relatórios financeiros.
+
+Errado, o item 2.34 do CPC 00 (R2) afirma que alguns fenômenos são inerentemente complexos e pode não
+ser possível tornar a sua compreensão fácil. Excluir informações sobre esses fenômenos dos relatórios
+financeiros pode tornar mais fácil a compreensão das informações contidas nesses relatórios financeiros.
+Contudo, esses relatórios seriam incompletos e, portanto, possivelmente distorcidos. Portanto, não
+devemos excluir fenômenos complexos dos relatórios financeiros para que eles se tornem de
+compreensão mais fácil.
+
+(C) As informações devem ser disponibilizadas aos tomadores de decisões a tempo para que sejam capazes
+de influenciar suas decisões.
+
+Esse item está correto, mas ele tem relação com a tempestividade e não com a compreensibilidade. Não é
+o nosso gabarito.
+
+(D) As informações devem ser evidenciadas de modo que os usuários não precisem buscar o auxílio de
+consultores para compreender os relatórios financeiros.
+
+Errado, Relatórios financeiros são elaborados para usuários que têm conhecimento razoável das atividades
+comerciais e econômicas e que revisam e analisam as informações de modo diligente. Algumas vezes,
+mesmo usuários bem informados e diligentes podem precisar buscar o auxílio de consultor para
+compreender informações sobre fenômenos econômicos complexos.
+
+(E) Os relatórios financeiros devem ser elaborados para usuários que têm conhecimento razoável das
+atividades comerciais e econômicas e que revisam e analisam as informações de modo diligente.
+
+Questão correta e está de acordo com o item 2.36 do CPC 00 (R2) e é uma das implicações da característica
+qualitativa da compreensibilidade
+
+Gabarito: E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                28
+         www.estrategiaconcursos.com.br                                                                40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+CAPÍTULO 2 – CARACTERÍSTICAS QUALITATIVAS DE INFORMAÇÕES FINANCEIRAS ÚTEIS
+
+9. (FGV/IMBEL/Supervisor Contábil/2021) De acordo com o Pronunciamento Técnico CPC 00 – Estrutura
+Conceitual para Relatório Financeiro, as informações financeiras relevantes são capazes de fazer diferença
+nas decisões tomadas pelos usuários e podem ter valor preditivo.
+Em relação às informações financeiras relevantes com valor preditivo, assinale a afirmativa correta.
+(A) Confirmam ou alteram avaliações anteriores.
+(B) Devem servir como prognóstico aos usuários.
+(C) São empregadas pelos usuários para fazer suas próprias previsões.
+(D) São utilizadas em processos empregados pelos usuários para analisar resultados passados
+(E) Representam uma novidade aos usuários, sendo que eles não teriam conhecimento delas a partir de
+outras fontes.
+
+Comentários:
+
+Informações financeiras são capazes de fazer diferença em decisões se tiverem valor preditivo ou valor
+confirmatório, ou ambos.
+
+Informações financeiras têm valor preditivo se podem ser utilizadas como informações em processos
+empregados pelos usuários para prever resultados futuros. Informações financeiras não precisam ser
+previsões ou prognósticos para ter valor preditivo. Informações financeiras com valor preditivo são
+empregadas por usuários ao fazer suas próprias previsões.
+
+Gabarito: C
+
+CAPÍTULO 6 – MENSURAÇÃO
+
+10. (FGV/IMBEL/Supervisor Contábil/2021) O valor contábil do patrimônio líquido de uma entidade
+equivale ao
+(A) valor disponibilizado pelos sócios da entidade.
+(B) valor de mercado total de direitos sobre o patrimônio na entidade.
+(C) valor contábil de todos os ativos reconhecidos menos o valor contábil de todos os passivos reconhecidos.
+(D) valor que poderia ser levantado, vendendo todos os ativos da entidade e liquidando todos os seus
+passivos.
+(E) valor que poderia ser levantado, vendendo a entidade como um todo em regime de continuidade
+operacional.
+
+Comentários:
+
+De acordo com o CPC 00 (R2), Patrimônio líquido é a participação residual nos ativos da entidade após a
+dedução de todos os seus passivos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  29
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Além disso, direitos sobre o patrimônio líquido são direitos sobre a participação residual nos ativos da
+entidade após a dedução de todos os seus passivos.
+
+Em outras palavras, são reivindicações contra a entidade que não atendem à definição de passivo.
+
+Essas reivindicações podem ser estabelecidas por contrato, legislação ou meios similares, e incluem, na
+medida em que não atendem à definição de passivo:
+
+(a) ações de diversos tipos emitidas pela entidade; e
+
+(b) algumas obrigações da entidade de emitir outro direito sobre o patrimônio líquido.
+
+Gabarito: C
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              30
+         www.estrategiaconcursos.com.br                                                              40
+
+                                      https://t.me/KakashiAssinaturasBot
+ Filipe Magalhães, Júlio Cardozo
+ Aula 10
+
+
+
+
+        QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+  A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas que exigem
+  respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a memorização da matéria, e,
+  consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+                                                       Perguntas
+1. Qual o objetivo do Relatório Financeiro para fins gerais
+2. Quem são os destinatários principais dos Qual o objetivo do Relatório Financeiro para fins gerais?
+3. O que vem a ser e qual a importância do regime de competência, de acordo com o CPC 00 (R2)?
+4. Como estão divididas e quais as características qualitativas das informações financeiras?
+5. Quando a informação financeira é relevante?
+6. Quando a informação financeira possui representação fidedigna?
+7. Defina o que é comparabilidade, capacidade de verificação, tempestividade e compreensibilidade.
+8. O que é a premissa da continuidade operacional?
+9. Defina o que é Ativo, Passivo e Patrimônio Líquido.
+10. Defina o que são ativos e passivos?
+11. Defina o que é Valor Justo, Valor em Uso, Valor de Cumprimento e Valor Atual?
+12. Apresente os conceitos de lucro pelo critério de manutenção do capital financeiro e capital físico.
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                    31
+       www.estrategiaconcursos.com.br                                                                                    40
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+                                         Perguntas com respostas
+1. Qual o objetivo do Relatório Financeiro para fins gerais
+
+O objetivo do relatório financeiro para fins gerais é fornecer informações financeiras sobre a entidade que
+reporta que sejam úteis para investidores, credores por empréstimos e outros credores, existentes e
+potenciais, na tomada de decisões referente à oferta de recursos à entidade.
+
+2. Quem são os destinatários principais dos Qual o objetivo do Relatório Financeiro para fins gerais?
+
+O Pronunciamento enfatiza que as informações se destinam principalmente ao público externo, com foco
+nos investidores, credores por empréstimos e a outros credores, quando da tomada decisão ligada ao
+fornecimento de recursos para a entidade.
+                                                         ==219a34==
+
+
+
+
+3. O que vem a ser e qual a importância do regime de competência, de acordo com o CPC 00 (R2)?
+
+O regime de competência reflete os efeitos de transações e outros eventos e circunstâncias sobre
+reivindicações e recursos econômicos da entidade que reporta nos períodos em que esses efeitos ocorrem,
+mesmo que os pagamentos e recebimentos à vista resultantes ocorram em período diferente. A utilização
+do Regime de Competência fornece melhor base de avaliação da performance passada e futura da entidade
+do que a informação puramente baseada em recebimentos e pagamentos em caixa ao longo desse mesmo
+período
+
+4. Como estão divididas e quais as características qualitativas das informações financeiras?
+As características qualitativas foram divididas em duas categorias: Características qualitativas fundamentais
+(relevância e representação fidedigna) e Características qualitativas de melhoria (comparabilidade,
+capacidade de verificação, tempestividade e compreensibilidade)
+5. Quando a informação financeira é relevante?
+
+Informação financeira relevante é aquela capaz de fazer diferença nas decisões que possam ser tomadas
+pelos usuários.
+
+6. Quando a informação financeira possui representação fidedigna?
+
+A representação fidedigna refere-se a três atributos, precisando ser completa, neutra e livre de erro.
+
+7. Defina o que é comparabilidade, capacidade de verificação, tempestividade e compreensibilidade.
+
+Comparabilidade é a característica qualitativa que permite que os usuários identifiquem e compreendam
+similaridades dos itens e diferenças entre eles.
+
+A capacidade de verificação ajuda a assegurar aos usuários que a informação representa fidedignamente o
+fenômeno econômico que se propõe representar
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   32
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Tempestividade significa ter informação disponível para tomadores de decisão a tempo de poder influenciá-
+los em suas decisões.
+
+Compreensibilidade significa que a classificação, a caracterização e a apresentação da informação são feitas
+com clareza e concisão, tornando-a compreensível.
+
+8. O que é a premissa da continuidade operacional?
+
+As demonstrações contábeis são normalmente elaboradas com base na suposição de que a entidade que
+reporta está em continuidade operacional e continuará em operação no futuro previsível. Assim, presume-
+se que a entidade não tem a intenção nem a necessidade de entrar em liquidação ou deixar de negociar. Se
+existe essa intenção ou necessidade, as demonstrações contábeis podem ter que ser elaboradas em base
+diferente. Em caso afirmativo, as demonstrações contábeis descrevem a base utilizada.
+
+9. Defina o que é Ativo, Passivo e Patrimônio Líquido.
+
+- Ativo é um recurso econômico presente controlado pela entidade como resultado de eventos passados.
+
+Passivo é uma obrigação presente da entidade de transferir um recurso econômico como resultado de
+eventos passados.
+
+Patrimônio líquido é a participação residual nos ativos da entidade após a dedução de todos os seus
+passivos.
+
+10. Defina o que são ativos e passivos?
+
+Receitas são aumentos nos ativos, ou reduções nos passivos, que resultam em aumentos no patrimônio
+líquido, exceto aqueles referentes a contribuições de detentores de direitos sobre o patrimônio.
+
+Despesas são reduções nos ativos, ou aumentos nos passivos, que resultam em reduções no patrimônio
+líquido, exceto aqueles referentes a distribuições aos detentores de direitos sobre o patrimônio
+
+11. Defina o que é Valor Justo, Valor em Uso, Valor de Cumprimento e Valor Atual?
+
+Valor justo é o preço que seria recebido pela venda de ativo ou que seria pago pela transferência de passivo
+em transação ordenada entre participantes do mercado na data de mensuração.
+
+Valor em Uso: o Valor em uso é o valor presente dos fluxos de caixa, ou outros benefícios econômicos, que
+a entidade espera obter do uso de ativo e de sua alienação final.
+
+Valor de Cumprimento: o Valor de cumprimento é o valor presente do caixa, ou de outros recursos
+econômicos, que a entidade espera ser obrigada a transferir para cumprir a obrigação.
+
+Custo corrente de ativo é o custo de ativo equivalente na data de mensuração, compreendendo a
+contraprestação que seria paga na data de mensuração mais os custos de transação que seriam incorridos
+nessa data. O custo corrente de passivo é a contraprestação que seria recebida pelo passivo equivalente na
+data de mensuração menos os custos de transação que seriam incorridos nessa data
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  33
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+12. Apresente os conceitos de lucro pelo critério de manutenção do capital financeiro e capital físico.
+
+De acordo com esse conceito de Manutenção do capital financeiro, o lucro é considerado auferido somente
+se o montante financeiro (ou dinheiro) dos ativos líquidos no fim do período exceder o seu montante
+financeiro (ou dinheiro) no começo do período, depois de excluídas quaisquer distribuições aos proprietários
+e seus aportes de capital durante o período.
+
+De acordo com o conceito de Manutenção do capital físico, o lucro é considerado auferido somente se a
+capacidade física produtiva (ou capacidade operacional) da entidade (ou os recursos ou fundos necessários
+para atingir essa capacidade) no fim do período exceder a capacidade física produtiva no início do período,
+depois de excluídas quaisquer distribuições aos proprietários e seus aportes de capital durante o período.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   34
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 10
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/Auditor Fiscal de Tributos Municipais/SJC/2024) As demonstrações contábeis elaboradas dentro
+do que prescreve a Estrutura Conceitual para Elaboração e Divulgação de Relatório Contábil- Financeiro,
+de acordo com o Pronunciamento Conceitual Básico (R1), satisfazem as necessidades comuns da maioria
+dos seus usuários, uma vez que quase todos utilizam essas demonstrações contábeis para a tomada de
+decisões econômicas. Tais tomadas de decisões incluem as a seguir listadas, à exceção de uma. Assinale-
+a.
+   a) Determinar políticas tributárias e a distribuição de lucros e dividendos.
+   b) Verificar como são calculadas as estimativas utilizadas e se estas correspondem à realidade
+      observada.
+   c) Decidir quando comprar, manter ou vender instrumentos patrimoniais.
+   d) Avaliar a segurança quanto à recuperação dos recursos financeiros emprestados à entidade.
+   e) Avaliar a capacidade de a entidade pagar seus empregados e proporcionar-lhes outros benefícios.
+
+2. (FGV/Prefeitura de Caraguatatuba/Contador/2024) O custo é uma restrição generalizada sobre as
+informações que podem ser fornecidas pelo relatório financeiro. De acordo com a NBC TG Estrutura
+Conceitual – Estrutura Conceitual para Relatório Financeiro, o relatório de informações financeiras impõe
+custos, e é importante que esses custos sejam justificados pelo(s)
+(A) resultados financeiros deste período.
+(B) resultados operacionais deste período.
+(C) número de horas trabalhadas para elabora-lo.
+(D) número de profissionais envolvidos no processo.
+(E) benefícios de apresentar essas informações.
+
+3. (FGV/Prefeitura de Caraguatatuba/Tec Contabilidade/2024) De acordo com o Pronunciamento Técnico
+CPC 00 (R2) Estrutura Conceitual para Relatório Financeiro, os investidores, credores por empréstimos e
+outros credores, existentes e potenciais, são os principais usuários aos quais se destinam relatórios
+financeiros para fins gerais.
+Isso acontece porque muitos deles
+(A) recebem a maior parte do resultado gerado pela entidade que reporta.
+(B) representam os principais financiadores das entidades que reportam.
+(C) assumem os maiores riscos operacionais ao se relacionarem com a entidade que reporta.
+(D) contratam e remuneram a empresa de auditoria independente responsável pelos relatórios.
+(E) não podem exigir que as entidades que reportam forneçam informações diretamente a eles.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                35
+        www.estrategiaconcursos.com.br                                                                40
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+4. (FGV/PC AM/Perito Criminal/Contabilidade/2022) De acordo com o Pronunciamento Técnico CPC 00
+(R2) – Estrutura Conceitual para Relatório Financeiro, as demonstrações contábeis fornecem informações
+sobre transações e outros eventos observados do ponto de vista
+a) dos investidores.
+b) dos credores existentes.
+c) dos credores potenciais.
+d) da entidade que reporta.
+e) das autoridades governamentais.
+
+5. (FGV/PC AM/Perito Criminal/Contabilidade/2022) Entre as características qualitativas de informações
+financeiras úteis está a representação fidedigna, que deve ser completa, neutra e isenta de erros.
+Assinale a opção correta em relação a esses atributos, de acordo com o Pronunciamento Técnico CPC 00 (R2)
+                                                         ==219a34==
+
+
+
+
+– Estrutura Conceitual para Relatório Financeiro.
+a) O exercício da neutralidade não permite a superavaliação de ativos ou receitas ou a subavaliação de
+passivos ou despesas.
+b) O exercício da representação isenta de erros implica em classificar, caracterizar e apresentar informações
+de modo claro e conciso.
+c) A representação neutra implica em informações que não exercem influência sobre o comportamento e
+as decisões dos usuários.
+ d) A representação isenta de erros deve ser precisa, de modo que os valores monetários que não podem
+ser observados diretamente devem ser estimados apenas quando há certeza na mensuração.
+ e) A representação completa inclui todas as informações necessárias para que o usuário compreenda os
+fenômenos que estão sendo representados, inclusive todas as descrições e explicações necessárias.
+
+6. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) A administração de uma entidade
+determinou em 20/01/X2 que irá deixar de operar, por conta da deterioração de sua situação financeira.
+Nesse caso, o pressuposto de continuidade
+a) deve continuar sendo seguido até a confirmação da situação.
+b) deve continuar sendo seguido até a divulgação da opinião do auditor independente.
+c) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/X1.
+d) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/01/X2.
+e) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/X2.
+
+7. financeiras úteis às suas respectivas explicações.
+1. Comparabilidade
+2. Capacidade de verificação
+3. Tempestividade
+4. Compreensibilidade
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   36
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+( ) permite aos usuários identificar e compreender similaridades e diferenças entre itens.
+( ) implica em classificar, caracterizar e apresentar informações de modo claro e conciso.
+( ) significa disponibilizar informações aos tomadores de decisões a tempo para que sejam capazes de
+influenciar suas decisões.
+( ) ajuda a garantir aos usuários que as informações representem de forma fidedigna os fenômenos
+econômicos que pretendem representar
+Assinale a opção que apresenta, segundo a ordem apresentada, a relação correta.
+(A) 4 – 2 – 3 – 1.
+(B) 4 – 3 – 2 – 1.
+(C) 1 – 2 – 3 – 4.
+(D) 1 – 4 – 3 – 2.
+(E) 2 – 4 – 1 – 3
+
+8. (FGV/IMBEL/Analista Contábil/2021) De acordo com o Pronunciamento Técnico CPC 00 – Estrutura
+Conceitual para Relatório Financeiro, a compreensibilidade é uma das características qualitativas de
+melhoria de informações financeiras úteis. Em relação às implicações da característica qualitativa da
+compreensibilidade, assinale a afirmativa correta.
+(A) Os usuários devem poder identificar e compreender similaridades e diferenças entre itens.
+(B) Os fenômenos complexos e de difícil compreensão devem ser excluídos dos relatórios financeiros.
+(C) As informações devem ser disponibilizadas aos tomadores de decisões a tempo para que sejam capazes
+de influenciar suas decisões.
+(D) As informações devem ser evidenciadas de modo que os usuários não precisem buscar o auxílio de
+consultores para compreender os relatórios financeiros.
+(E) Os relatórios financeiros devem ser elaborados para usuários que têm conhecimento razoável das
+atividades comerciais e econômicas e que revisam e analisam as informações de modo diligente.
+
+9. (FGV/IMBEL/Supervisor Contábil/2021) De acordo com o Pronunciamento Técnico CPC 00 – Estrutura
+Conceitual para Relatório Financeiro, as informações financeiras relevantes são capazes de fazer diferença
+nas decisões tomadas pelos usuários e podem ter valor preditivo.
+Em relação às informações financeiras relevantes com valor preditivo, assinale a afirmativa correta.
+(A) Confirmam ou alteram avaliações anteriores.
+(B) Devem servir como prognóstico aos usuários.
+(C) São empregadas pelos usuários para fazer suas próprias previsões.
+(D) São utilizadas em processos empregados pelos usuários para analisar resultados passados
+(E) Representam uma novidade aos usuários, sendo que eles não teriam conhecimento delas a partir de
+outras fontes.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                37
+         www.estrategiaconcursos.com.br                                                                40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+10. (FGV/IMBEL/Supervisor Contábil/2021) O valor contábil do patrimônio líquido de uma entidade
+equivale ao
+(A) valor disponibilizado pelos sócios da entidade.
+(B) valor de mercado total de direitos sobre o patrimônio na entidade.
+(C) valor contábil de todos os ativos reconhecidos menos o valor contábil de todos os passivos reconhecidos.
+(D) valor que poderia ser levantado, vendendo todos os ativos da entidade e liquidando todos os seus
+passivos.
+(E) valor que poderia ser levantado, vendendo a entidade como um todo em regime de continuidade
+operacional.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  38
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+                                                 GABARITO
+                                                  1          B
+                                                  2          E
+                                                  3          E
+                                                  4          D
+                                                  5          E
+                                                  6          C
+                                                  7          D
+                                                  8          E
+                                                  9          C
+                                                  10         C
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral   39
+         www.estrategiaconcursos.com.br                                                   40
+
+                                      https://t.me/KakashiAssinaturasBot
+

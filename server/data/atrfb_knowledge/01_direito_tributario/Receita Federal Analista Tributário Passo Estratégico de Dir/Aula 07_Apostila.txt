@@ -1,0 +1,2384 @@
+                                                    Aula 06
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+
+
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+
+
+
+                                              14 de Maio de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    COMPETÊNCIA TRIBUTÁRIA
+    E IMPOSTOS DE COMPETÊNCIA DA UNIÃO
+
+
+
+    1. Palavras do Professor ............................................................................... 2
+    2. Importância do Assunto ........................................................................... 3
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?................................................ 4
+    3. Roteiro de Revisão e Pontos que merecem Destaque .............................. 5
+    4. Aposta Estratégica ................................................................................. 23
+    5. Questões Estratégicas ............................................................................ 26
+          QUESTÕES FGV.............................................................................................. 26
+    5. Questionário de Revisão e Aperfeiçoamento .......................................... 41
+    6. Lista de Questões Estratégicas ............................................................... 46
+          QUESTÕES FGV.............................................................................................. 46
+          GABARITO ...................................................................................................... 51
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           assuntos       de     Competência           Tributária     e   Impostos   de
+                           Competência da União.
+
+                           Vamos ver a Competência Tributária e suas características,
+                           entre outros pontos, além dos principais pontos sobre os
+    Impostos Federais (II, IE, IR, IPI, IOF, ITR, IGF e IS), sempre mirando o que tem
+    sido cobrado em prova.
+
+
+
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+
+
+             “Sem o esforço da busca, é impossível a alegria do
+                                encontro”
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       2
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    2. IMPORTÂNCIA DO ASSUNTO
+
+    Com base na análise estatística das questões de Concursos dos últimos anos,
+    temos o seguinte resultado para o(s) assunto(s) que serão tratados neste
+    relatório:
+
+
+                           Assunto do Edital                                          FGV
+
+                        Competência Tributária                                        5,10%
+
+
+                           Assunto do Edital                                          FGV
+
+                            Impostos Federais                                         2,55%
+
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos, que o assunto “Competência Tributária” possui importância
+    Intermediária a Alta, tendo aparecido em pouco mais de 5% das questões da
+    Banca.
+
+    Já o assunto “Impostos Federais” possui importância Intermediária, tendo
+    aparecido em pouco mais de 2,5% das questões da Banca.
+
+
+                   % de Cobrança                                   Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           3
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+
+
+                                      Tópico                                          FGV
+          Divisão da Competência Tributária                                           41,46%
+
+          Impostos da Federais - ITR                                                  7,32%
+
+          Competência Tributária - Características                                    2,44%
+
+          Impostos da Federais - IPI                                                  12,2%
+
+          Competência Tributária - Classificações                                     14,63%
+
+          Impostos Federais - IR                                                      7,32%
+
+          Impostos Federais - II                                                      4,88%
+
+          Impostos Federais - IE                                                      2,44%
+
+          Impostos Federais - IOF                                                     2,44%
+
+          Impostos Federais - IGF                                                     4,87%
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            4
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.
+
+
+
+    COMPETÊNCIA TRIBUTÁRIA:
+
+
+
+    1. A CF não cria tributo, apenas estabelece a competência tributária dos entes
+    políticos.
+
+    2. A Competência tributária é o poder conferido à União, aos Estados, ao
+    Distrito Federal e aos Municípios para instituir tributos.
+
+    3. A competência para legislar sobre direito tributário não se confunde com a
+    competência tributária em si.
+
+    4. Compete à União, aos Estados e ao Distrito Federal legislar
+    concorrentemente sobre direito tributário.
+
+    5. No âmbito da legislação concorrente, a competência da União limitar-se-á
+    a estabelecer normas gerais.
+
+    6. A competência da União para legislar sobre normas gerais não exclui a
+    competência suplementar dos Estados.
+
+    7. Inexistindo lei federal sobre normas gerais, os Estados exercerão a
+    competência legislativa plena, para atender a suas peculiaridades.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   5
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    8. A superveniência de lei federal sobre normas gerais suspende (não é caso
+    de revogação) a eficácia da lei estadual, no que lhe for contrário.
+
+    9. Compete aos Municípios suplementar a legislação federal e a estadual no
+    que couber.
+
+    10. A competência tributária é indelegável, não sendo possível que um ente
+    delegue a sua competência para instituir determinado tributo, a outro.
+
+    11. A função de arrecadar ou fiscalizar tributos, ou de executar leis, serviços,
+    atos ou decisões administrativas em matéria tributária, conferida por uma
+    pessoa jurídica de direito público a outra, denomina-se Capacidade Tributária
+    Ativa, e esta pode ser delegada!
+
+    12. Assim, a Competência Tributária (instituição do tributo) é política, sendo
+    instituída por intermédio de lei e indelegável. Já a Capacidade Tributária Ativa
+    (arrecadação, fiscalização e execução) pode ser delegada a outra pessoa
+    jurídica de direito público.
+
+    13. A pessoa que detiver a Capacidade Ativa terá as mesmas garantias e
+    privilégios processuais conferidos ao titular da competência tributária.
+
+    14. A Capacidade Ativa pode ser revogada a qualquer tempo por ato unilateral
+    do ente tributante.
+
+    15. A Competência Tributária é imprescritível, ou seja, o seu não exercício não
+    defere a pessoa jurídica de direito público diversa daquela a que a
+    Constituição a tenha atribuído.
+
+    16. A Competência Tributária é inalterável.
+
+    17. A Competência Tributária é irrenunciável.
+
+    18. A Competência Tributária é facultativa, ou seja, os entes decidem, por
+    critérios de conveniência política, se será ou não instituído o tributo (melhor
+    exemplo é o IGF, que até hoje a União não instituiu).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    6
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    19. Competência Tributária Privativa diz respeito àqueles tributos cuja
+    instituição somente pode ser feita por determinado ente político.
+
+    20. Competência Comum diz respeito aos tributos vinculados (que são aqueles
+    cujo Fato Gerador depende de uma atividade estatal relativa ao contribuinte,
+    como é o caso das taxas e das Contribuições de Melhorias), que podem ser
+    instituídos por qualquer um dos entes federados.
+
+    21. Competência Cumulativa é aquela prevista no Art. 147 da CF/88, em que
+    “Competem à União, em Território Federal, os impostos estaduais e, se o
+    Território não for dividido em Municípios, cumulativamente, os impostos
+    municipais; ao Distrito Federal cabem os impostos municipais.”
+
+    22. Competência Residual diz respeito à criação de novos tributos, além
+    daqueles já existentes.
+
+    23. Os Impostos Residuais devem obedecer aos seguintes requisitos:
+
+          ▪ Devem ser instituídos por lei complementar;
+          ▪ Devem obedecer ao critério da não cumulatividade;
+          ▪ Devem possuir fato gerador ou base de cálculo diversos dos demais
+             impostos já discriminados na CF.
+
+    24. Competência Extraordinária diz respeito à possibilidade da União (e
+    somente ela) de instituir o Imposto Extraordinário de Guerra - IEG.
+
+    25. BIS IN IDEN é quando ocorrem diversas incidências sobre o mesmo Fato
+    Gerador decorrentes de tributos de competência da mesma pessoa Jurídica
+    de Direito Público.
+
+    26. BITRIBUTAÇÃO, por outro lado, ocorre quando mais de um ente federado
+    tributa o mesmo fato gerador.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   7
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    IMPOSTOS FEDERAIS:
+
+    27. Imposto de Importação (II):
+
+
+
+             Finalidade: Extrafiscal.
+
+             Fato Gerador: Entrada de produtos estrangeiros em território Nacional.
+
+             Momento do Fato Gerador: Data de Registro da Declaração de
+             importação.
+
+             Base de Cálculo:
+
+                    ▪ quando a alíquota é específica, a unidade de medida adotada
+                        pela lei tributária;
+                    ▪    quando a alíquota seja ad valorem, o preço normal que o
+                        produto, ou seu similar, alcançaria, ao tempo da importação,
+                        em uma venda em condições de livre concorrência, para
+                        entrega no porto ou lugar de entrada do produto no País;
+                    ▪ quando se trate de produto apreendido ou abandonado,
+                        levado a leilão, o preço da arrematação.
+
+             Alíquota:
+
+                    ▪ Pode ser reduzida ou majorada por ato do Poder Executivo (sob
+                        condições e limites legais);
+                    ▪ Constitui exceção aos Princípios da Anterioridade e da
+                        Noventena.
+
+             Contribuinte:
+
+                    ▪ o importador ou quem a lei a ele equiparar;
+                    ▪ o arrematante de produtos apreendidos ou abandonados.
+
+             Lançamento: por Homologação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    8
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    28. Imposto de Exportação (IE):
+
+
+
+             Finalidade: Extrafiscal.
+
+             Fato Gerador: Saída de produtos Nacionais ou Nacionalizados do
+             território Nacional.
+
+             Momento do Fato Gerador: Data de Registro do registro de exportação
+             no Sistema Integrado de Comércio Exterior (SISCOMEX).
+
+             Base de Cálculo:
+
+                    ▪ quando a alíquota é específica, a unidade de medida adotada
+                        pela lei tributária;
+                    ▪    quando a alíquota seja ad valorem, o preço normal que o
+                        produto, ou seu similar, alcançaria, ao tempo da exportação,
+                        em uma venda em condições de livre concorrência.
+
+             Alíquota:
+
+                    ▪ Pode ser reduzida ou majorada por ato do Poder Executivo (sob
+                        condições e limites legais);
+                    ▪ Constitui exceção aos Princípios da Anterioridade e da
+                        Noventena.
+
+             Contribuinte:
+
+                    ▪ o exportador ou quem a lei a ele equiparar;
+
+             Lançamento: por Homologação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    9
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    29. Imposto sobre Renda e Proventos de Qualquer Natureza (IR):
+
+
+
+             Será informado pelos critérios da generalidade, da universalidade e da
+             progressividade, na forma da lei.
+
+             Finalidade: Fiscal.
+
+             Fato Gerador: Aquisição da disponibilidade econômica ou jurídica de
+             Renda (produto do capital, trabalho ou ambos) ou de Proventos de
+             qualquer Natureza (demais acréscimos patrimoniais).
+
+             A incidência do imposto independe da denominação da receita ou do
+             rendimento, da localização, condição jurídica ou nacionalidade da fonte,
+             da origem e da forma de percepção.
+
+             Base de Cálculo: Montante real, arbitrado ou presumido, da renda ou
+             proventos tributáveis.
+
+             Alíquota:
+
+                    ▪ Pode ser reduzida ou majorada por lei.
+                    ▪ Constitui exceção ao Princípio da Noventena.
+
+             Contribuinte: Titular da Renda ou dos Proventos ou seu Instituidor.
+
+             Lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis
+             a condição de responsável pelo imposto cuja retenção e recolhimento
+             lhe caibam.
+
+             Lançamento: por Homologação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     10
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    30. Imposto sobre Produtos Industrializados (IPI):
+
+
+
+             Será Seletivo;
+
+             Não Cumulativo;
+
+             Não Incidirá sobre produtos industrializados destinados ao exterior;
+
+             Terá reduzido seu impacto sobre a aquisição de bens de capital pelo
+             contribuinte do imposto, na forma da lei.
+
+             Súmula STJ 495 - A aquisição de bens integrantes do ativo permanente
+             da empresa não gera direito a creditamento de IPI.
+
+             Finalidade: Extrafiscal.
+
+             Fato Gerador:
+
+                    ▪ 1 - Desembaraço Aduaneiro;
+                    ▪ 2 - Saída de produto industrializado de estabelecimento
+                        contribuinte do imposto;
+                    ▪ 3- Arrematação em Leilão.
+
+             Base de Cálculo:
+
+                    ▪ No caso 1 acima, o preço normal + II + taxas + encargos
+                        cambiais;
+                    ▪ No caso 2, o Valor da Operação (na falta desse valor, a Base de
+                        Cálculo será o preço corrente da mercadoria, ou sua similar, no
+                        mercado atacadista da praça do remetente);
+                    ▪ No caso 3, o Preço da Arrematação.
+
+             Alíquota:
+
+                    ▪ Pode ser reduzida ou majorada por ato do Poder Executivo (sob
+                        condições e limites legais);
+                    ▪ Constitui exceção ao Princípio da Anterioridade.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       11
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+             Contribuinte:
+
+                    ▪ Importador ou a ele equiparado,
+                    ▪ Industrial ou a ele equiparado;
+                    ▪ Comerciante de produtos sujeitos ao IPI, destinados aos
+                        industriais.
+
+             Lançamento: por Homologação.
+
+
+
+    31. Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a
+    Títulos ou Valores Mobiliários (IOF):
+
+             Finalidade: Extrafiscal.
+
+             Fato Gerador:
+
+                    ▪ Crédito e Câmbio: Valor entregue ou posto à disposição;
+                    ▪ Seguro: Emissão de apólice ou recebimento do prêmio;
+                    ▪ Títulos ou Valores: Emissão, transmissão, pagamento ou resgate
+
+             Base de Cálculo:
+
+                    ▪ Crédito: Montante (Principal + Juros);
+                    ▪ Câmbio: Valor recebido ou posto à disposição;
+                    ▪ Seguro: Montante do Prêmio;
+                    ▪ Títulos ou Valores:
+                                  ▪ Emissão: Valor Nominal + ágil (se houver)
+                                  ▪ Transmissão: O Preço, Valor Nominal, Bolsa;
+                                  ▪ Pagamento ou Resgate: O Preço
+
+             Alíquota:
+
+                    ▪ Pode ser reduzida ou majorada por ato do Poder Executivo (sob
+                        condições e limites legais);
+                    ▪ Constitui exceção aos Princípios da Anterioridade e da
+                        Noventena.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    12
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+             Contribuinte: Qualquer das partes na operação tributada.
+
+             Lançamento: por Homologação.
+
+
+
+    32. Imposto sobre Propriedade Territorial Rural (ITR):
+
+             Caso os Municípios optem por fiscalizar e arrecadar o ITR, receberão a
+             totalidade do que foi arrecadado.
+
+             Caso não optem por assumir a sujeição ativa, recebem apenas 50% do
+             montante arrecadado, relativamente aos imóveis neles situados.
+
+             Finalidade: Extrafiscal (possui objetivo de desestimular a manutenção de
+             propriedades improdutivas).
+
+             Fato Gerador: Propriedade, domínio útil ou posse de imóvel por
+             natureza.
+
+             Base de Cálculo: Valor Fundiário (terra nua). As benfeitorias realizadas,
+             como as construções, não compõem a base de cálculo do ITR.
+
+             Alíquota: Pode ser reduzida ou majorada por lei.
+
+             Contribuinte: Proprietário do imóvel, titular do seu domínio útil ou o seu
+             possuidor.
+
+             Lançamento: por Homologação.
+
+
+
+    33. Imposto sobre Grandes Fortunas (IGF):
+
+             Necessita de Lei Complementar para sua Instituição.
+
+             Terá arrecadação destinada ao Fundo de Combate e Erradicação da
+             Pobreza. (Art. 80, III da ADCT)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       13
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    34. Imposto Seletivo (IS):
+
+             Incide sobre produção, extração, comercialização ou importação de
+             bens e serviços prejudiciais à saúde ou ao meio ambiente.
+
+             Necessita de Lei Complementar para sua Instituição.
+
+             Não incidirá sobre as exportações nem sobre as operações com energia
+             elétrica e com telecomunicações.
+
+             Incidirá uma única vez sobre o bem ou serviço.
+
+             Não integrará sua própria base de cálculo.
+
+             Integrará a base de cálculo do ICMS, ISS, IBS e CBS.
+
+             Poderá ter o mesmo fato gerador e base de cálculo de outros tributos.
+
+             Apesar de ser instituído por meio de Lei Complementar, terá suas
+             alíquotas fixadas em lei ordinária, podendo ser específicas (por unidade
+             de medida adotada) ou ad valorem.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     14
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+
+
+
+                                          Constituição Federal de 1988:
+
+
+
+
+                        Artigo 147:
+
+                        Art. 147. Competem à União, em Território Federal, os
+                        impostos estaduais e, se o Território não for dividido em
+                        Municípios, cumulativamente, os impostos municipais; ao
+                        Distrito Federal cabem os impostos municipais.
+
+
+
+                        Artigo 149:
+
+                        Art.     149.      Compete          exclusivamente            à   União   instituir
+                        contribuições sociais, de intervenção no domínio econômico e
+                        de interesse das categorias profissionais ou econômicas, como
+                        instrumento de sua atuação nas respectivas áreas, observado o
+                        disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do
+                        previsto no art. 195, § 6º, relativamente às contribuições a que
+                        alude o dispositivo.
+
+                        § 1º A União, os Estados, o Distrito Federal e os Municípios
+                        instituirão, por meio de lei, contribuições para custeio de
+                        regime próprio de previdência social, cobradas dos servidores
+                        ativos, dos aposentados e dos pensionistas, que poderão ter
+                        alíquotas progressivas de acordo com o valor da base de
+                        contribuição ou dos proventos de aposentadoria e de pensões.
+                        (Redação dada pela Emenda Constitucional nº 103, de 2019)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                           15
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                        § 1º-A. Quando houver deficit atuarial, a contribuição ordinária
+                        dos aposentados e pensionistas poderá incidir sobre o valor dos
+                        proventos de aposentadoria e de pensões que supere o salário-
+                        mínimo.            (Incluído pela Emenda Constitucional nº 103, de
+                        2019)
+
+                        § 1º-B. Demonstrada a insuficiência da medida prevista no § 1º-
+                        A para equacionar o deficit atuarial, é facultada a instituição de
+                        contribuição extraordinária, no âmbito da União, dos servidores
+                        públicos ativos, dos aposentados e dos pensionistas.                  (Incluído
+                        pela Emenda Constitucional nº 103, de 2019)
+
+                        § 1º-C. A contribuição extraordinária de que trata o § 1º-B
+                        deverá ser instituída simultaneamente com outras medidas para
+                        equacionamento              do     deficit      e    vigorará   por   período
+                        determinado, contado da data de sua instituição.                      (Incluído
+                        pela Emenda Constitucional nº 103, de 2019)
+
+
+
+                        Artigo 149-A:
+
+                        Art. 149-A Os Municípios e o Distrito Federal poderão instituir
+                        contribuição, na forma das respectivas leis, para o custeio do
+                        serviço de iluminação pública, observado o disposto no art. 150,
+                        I e III.
+
+
+
+                        Artigo 153:
+
+                        Art. 153. Compete à União instituir impostos sobre:
+
+                        I - importação de produtos estrangeiros (II);
+
+                        II - exportação, para o exterior, de produtos nacionais ou
+                        nacionalizados (IE);
+
+                        III - renda e proventos de qualquer natureza (IR);
+
+                        IV - produtos industrializados (IPI);
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       16
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                        V - operações de crédito, câmbio e seguro, ou relativas a títulos
+                        ou valores mobiliários (IOF);
+
+                        VI - propriedade territorial rural (ITR);
+
+                        VII - grandes fortunas, nos termos de lei complementar (IGF).
+
+                        VIII - produção, extração, comercialização ou importação de
+                        bens e serviços prejudiciais à saúde ou ao meio ambiente, nos
+                        termos de lei complementar (IS).
+
+
+
+                        § 1º É facultado ao Poder Executivo, atendidas as condições e
+                        os limites estabelecidos em lei, alterar as alíquotas dos impostos
+                        enumerados nos incisos I, II, IV e V (II, IE, IPI e IOF)
+
+                        § 2º O imposto previsto no inciso III (IR):
+
+                        I - será informado pelos critérios da generalidade, da
+                        universalidade e da progressividade, na forma da lei;
+
+                        § 3º O imposto previsto no inciso IV (IPI):
+
+                        I - será seletivo, em função da essencialidade do produto;
+
+                        II - será não-cumulativo, compensando-se o que for devido em
+                        cada operação com o montante cobrado nas anteriores;
+
+                        III - não incidirá sobre produtos industrializados destinados ao
+                        exterior.
+
+                        IV - terá reduzido seu impacto sobre a aquisição de bens de
+                        capital pelo contribuinte do imposto, na forma da lei.
+
+                        § 4º O imposto previsto no inciso VI do caput (ITR):
+
+                        I - será progressivo e terá suas alíquotas fixadas de forma a
+                        desestimular a manutenção de propriedades improdutivas;
+
+                        II - não incidirá sobre pequenas glebas rurais, definidas em lei,
+                        quando as explore o proprietário que não possua outro imóvel;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          17
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                        III - será fiscalizado e cobrado pelos Municípios que assim
+                        optarem, na forma da lei, desde que não implique redução do
+                        imposto ou qualquer outra forma de renúncia fiscal.
+
+
+
+                        § 5º O ouro, quando definido em lei como ativo financeiro ou
+                        instrumento cambial, sujeita-se exclusivamente à incidência do
+                        imposto de que trata o inciso V do "caput" deste artigo (IOF),
+                        devido na operação de origem; a alíquota mínima será de um
+                        por cento, assegurada a transferência do montante da
+                        arrecadação nos seguintes termos:
+
+                        I - trinta por cento para o Estado, o Distrito Federal ou o
+                        Território, conforme a origem;
+
+                        II - setenta por cento para o Município de origem.
+
+
+
+                        § 6º O imposto previsto no inciso VIII (IS) do caput deste artigo:
+
+                        I - não incidirá sobre as exportações nem sobre as operações
+                        com energia elétrica e com telecomunicações;
+
+                        II - incidirá uma única vez sobre o bem ou serviço;
+
+                        III - não integrará sua própria base de cálculo;
+
+                        IV - integrará a base de cálculo dos tributos previstos nos arts.
+                        155, II, 156, III, 156-A e 195, V;
+
+                        V - poderá ter o mesmo fato gerador e base de cálculo de
+                        outros tributos;
+
+                        VI - terá suas alíquotas fixadas em lei ordinária, podendo ser
+                        específicas, por unidade de medida adotada, ou ad valorem;
+
+                        VII - na extração, o imposto será cobrado independentemente
+                        da destinação, caso em que a alíquota máxima corresponderá a
+                        1% (um por cento) do valor de mercado do produto.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          18
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                        Artigo 154:
+
+                        Art. 154. A União poderá instituir:
+
+                        I - mediante lei complementar, impostos não previstos no artigo
+                        anterior, desde que sejam não-cumulativos e não tenham fato
+                        gerador ou base de cálculo próprios dos discriminados nesta
+                        Constituição;
+
+                        II - na iminência ou no caso de guerra externa, impostos
+                        extraordinários, compreendidos ou não em sua competência
+                        tributária, os quais serão suprimidos, gradativamente, cessadas
+                        as causas de sua criação.
+
+
+
+                        Artigo 155:
+
+                        Art. 155. Compete aos Estados e ao Distrito Federal instituir
+                        impostos sobre:
+
+                        I - transmissão causa mortis e doação, de quaisquer bens ou
+                        direitos (ITCMD);
+
+                        II - operações relativas à circulação de mercadorias e sobre
+                        prestações         de     serviços      de     transporte     interestadual   e
+                        intermunicipal e de comunicação, ainda que as operações e as
+                        prestações se iniciem no exterior (ICMS);
+
+                        III - propriedade de veículos automotores (IPVA).
+
+
+
+                        Artigo 156:
+
+                        Art. 156. Compete aos Municípios instituir impostos sobre:
+
+                        I - propriedade predial e territorial urbana (IPTU);
+
+                        II - transmissão "inter vivos", a qualquer título, por ato oneroso,
+                        de bens imóveis, por natureza ou acessão física, e de direitos
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       19
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                        reais sobre imóveis, exceto os de garantia, bem como cessão
+                        de direitos a sua aquisição (ITBI);
+
+                        III - serviços de qualquer natureza, não compreendidos no art.
+                        155, II, definidos em lei complementar (ISS).
+
+
+
+                        ADCT.
+
+                        Art. 80. Compõem o Fundo de Combate e Erradicação da
+                        Pobreza:
+
+                        III - o produto da arrecadação do imposto de que trata o art.
+                        153, inciso VII, da Constituição (IGF);
+
+
+
+
+                                                            CTN
+
+
+
+
+                        Artigo 7º:
+
+                        Art. 7º A competência tributária é indelegável, salvo atribuição
+                        das funções de arrecadar ou fiscalizar tributos, ou de executar
+                        leis, serviços, atos ou decisões administrativas em matéria
+                        tributária, conferida por uma pessoa jurídica de direito público
+                        a outra, nos termos do § 3º do artigo 18 da Constituição.
+
+                        § 1º A atribuição compreende as garantias e os privilégios
+                        processuais que competem à pessoa jurídica de direito público
+                        que a conferir.
+
+                        § 2º A atribuição pode ser revogada, a qualquer tempo, por ato
+                        unilateral da pessoa jurídica de direito público que a tenha
+                        conferido.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        20
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                        § 3º Não constitui delegação de competência o cometimento,
+                        a pessoas de direito privado, do encargo ou da função de
+                        arrecadar tributos.
+
+
+
+                        Artigo 8º:
+
+                        Art. 8º O não-exercício da competência tributária não a defere
+                        a pessoa jurídica de direito público diversa daquela a que a
+                        Constituição a tenha atribuído.
+
+
+
+
+                                                      Súmulas STJ:
+
+
+                        Súmula 396:
+
+                        A Confederação Nacional da Agricultura tem legitimidade ativa
+                        para a cobrança da contribuição sindical rural.
+
+
+
+                        Súmula 495:
+
+                        A aquisição de bens integrantes do ativo permanente da
+                        empresa não gera direito a creditamento de IPI.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      21
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                                                      Súmulas STF:
+
+
+                        Súmula 664:
+
+                        É inconstitucional o inciso V do art. 1º da Lei 8.033/90, que
+                        instituiu a incidência do imposto nas operações de crédito,
+                        câmbio e seguros - IOF sobre saques efetuados em caderneta
+                        de poupança
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     22
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    4. APOSTA ESTRATÉGICA
+
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+
+    Vale deixar claro que nem sempre será possível realizar uma aposta estratégica
+    para um determinado assunto, considerando que às vezes não é viável
+    identificar os pontos mais prováveis de serem cobrados a partir de critérios
+    objetivos, ok?
+
+    Vamos ao conteúdo da nossa aposta?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   23
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   24
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   25
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    Nesta seção, apresentamos e comentamos uma amostra de questões objetivas
+    selecionadas estrategicamente: são questões com nível de dificuldade
+    semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+    abordam os principais pontos do assunto.
+    A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa
+    de questões, mas que você faça uma boa revisão global do assunto a partir
+    de, relativamente, poucas questões.
+
+
+
+    QUESTÕES FGV
+
+
+
+    1-) (FGV - Auditor do Tesouro Municipal (Recife)/2014) Com relação à
+    competência tributária, assinale a afirmativa correta.
+
+
+
+    (A) Permite que uma pessoa jurídica de direito público delegue a outra a
+    atribuição de executar leis em matéria tributária, conforme a legislação.
+
+    (B) Significa que todos os entes políticos que compõem a Federação estão
+    dotados de competência legislativa plena.
+
+    (C) Representa o poder que é outorgado pela Constituição Federal para a
+    criação de tributos a todos os entes administrativos de direito público.
+
+    (D) Admite a delegação da administração dos tributos, porém não confere ao
+    delegatário as garantias e privilégios do poder delegante.
+
+    (E) Autoriza que pessoa jurídica de direito público possa exercer, em caráter
+    residual, a competência conferida a outrem que, entretanto, não a exerce.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   26
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Comentários: Temos aqui, pessoal, uma questão em que o examinador trata
+    da Competência Tributária.
+
+    Como sabemos, de forma geral, a Competência Tributária é o poder conferido
+    à União, aos Estados, ao Distrito Federal e aos Municípios para instituir
+    tributos.
+
+    Assim, vejamos cada uma das alternativas:
+
+
+
+    Alternativa A (Correta): Perfeito! É o que diz o Artigo 7º do CTN, senão
+    vejamos:
+
+                        Art. 7º A competência tributária é indelegável, salvo atribuição
+                        das funções de arrecadar ou fiscalizar tributos, ou de executar
+                        leis, serviços, atos ou decisões administrativas em matéria
+                        tributária, conferida por uma pessoa jurídica de direito público
+                        a outra.
+
+
+
+    Alternativa B (Incorreta): De acordo com o art. 6º, do CTN, a competência
+    tributária compreende a competência legislativa plena. Assim sendo, a
+    princípio, todos os entes possuem a competência legislativa plena. Entretanto,
+    a FGV associou competência legislativa plena ao fato de o ente poder
+    disciplinar normas gerais em matéria tributária, conforme estabelece o art. 24,
+    § 3º, da CF/88, bem como dispor sobre os tributos de sua competência. Logo,
+    apenas a União detém a competência legislativa plena.
+
+                        Art. 24 § 1º No âmbito da legislação concorrente, a
+                        competência da União limitar-se-á a estabelecer normas gerais.
+
+                        § 3º Inexistindo lei federal sobre normas gerais, os Estados
+                        exercerão a competência legislativa plena, para atender a suas
+                        peculiaridades.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        27
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Alternativa C (Incorreta): Não são “todos os entes administrativos de direito
+    público”, mas somente os entes políticos!
+
+
+
+    Alternativa D (Incorreta): A delegação da Capacidade Tributária Ativa
+    compreende as garantias e privilégios do ente delegante.
+
+
+
+    Alternativa E (Incorreta): O não exercício da competência tributária não a
+    defere a pessoa jurídica de direito público diversa daquela a que a
+    Constituição a tenha atribuído. Por isso chamamos a competência tributária
+    de imprescritível.
+
+
+
+    Gabarito: A
+
+
+
+
+    2-) (FGV - Auditor Fiscal Tributário da Receita Municipal (Cuiabá)/2016) A atual
+    Constituição Federal instituiu competências tributárias comuns, privativas e
+    residuais.
+
+    Sobre a atribuição de competência definida pela Constituição Federal de
+    1988, assinale a afirmativa correta.
+
+    (A) Os Municípios são competentes para instituir o imposto sobre transmissão
+    “causa mortis” e doação, de quaisquer bens ou direitos.
+
+    (B) A União, os Estados, o Distrito Federal e os Municípios têm competência
+    comum para instituir contribuição de intervenção no domínio econômico.
+
+    (C) Apenas os Estados e o Distrito Federal têm competência para a instituição
+    de contribuição de melhoria, decorrente de obra pública.
+
+    (D) Os Estados têm competência para instituir imposto incidente sobre a
+    prestação de transporte interestadual e intermunicipal.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    28
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    (E) Os Estados e o Distrito Federal podem instituir impostos não previstos na
+    Constituição Federal de 1988, desde que sejam não cumulativos e não tenham
+    fato gerador ou base de cálculo próprios dos discriminados na Constituição.
+
+
+
+    Comentários: Temos aqui uma questão sobre as competências tributárias
+    comuns, privativas e residuais. Como sabemos, alguns tributos são de
+    competência privativa, como é o caso dos impostos, em que cada ente
+    federativo tem a competência para suas respectivas instituições. Outros
+    tributos são de competência comum, como é o caso das Taxas e das
+    Contribuições de Melhoria. E outros são de competência residuais, como é o
+    caso dos impostos residuais, por exemplo.
+
+    Vamos às Alternativas:
+
+
+
+    Alternativa A (Incorreta): O ITCMD é de competência dos Estados e do Distrito
+    Federal, e não dos Municípios. Aproveitando a oportunidade, vamos ver
+    abaixo qual imposto é de competência de cada ente federativo:
+
+    União: II, IE, IPI, IOF, IR, ITR, IGF e IS.
+
+    Estados: ICMS, IPVA, ITCMD
+
+    Municípios: ISS, IPTU e ITBI
+
+
+
+    Alternativa B (Incorreta): Somente a União tem competência para Instituir as
+    CIDEs, conforme o Art. 149 da CF/88.
+
+                        Art.     149.      Compete          exclusivamente            à   União   instituir
+                        contribuições sociais, de intervenção no domínio econômico e
+                        de interesse das categorias profissionais ou econômicas, como
+                        instrumento de sua atuação nas respectivas áreas, observado o
+                        disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do
+                        previsto no art. 195, § 6º, relativamente às contribuições a que
+                        alude o dispositivo.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                           29
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Alternativa C (Incorreta): Todos os entes federativos (União, Estados, Distrito
+    Federal e Municípios) tem competência para instituir Taxas e Contribuição de
+    Melhoria (é uma Competência Comum).
+
+
+
+                        Art. 145. A União, os Estados, o Distrito Federal e os Municípios
+                        poderão instituir os seguintes tributos:
+
+                        I - impostos;
+
+                        II - taxas, em razão do exercício do poder de polícia ou pela
+                        utilização, efetiva ou potencial, de serviços públicos específicos
+                        e divisíveis, prestados ao contribuinte ou postos a sua
+                        disposição;
+
+                        III - contribuição de melhoria, decorrente de obras públicas.
+
+
+    Alternativa D (Correta): Perfeito! O ICMS é um imposto de competência
+    Estadual, sendo seu campo de incidência tanto a circulação de mercadorias,
+    como a prestação de transporte interestadual e intermunicipal e de
+    comunicação.
+
+
+    Alternativa E (Incorreta): A instituição de impostos não previstos na
+    Constituição Federal (competência Residual) é conferida exclusivamente à
+    União. Vejamos o que afirma o Art. 154 I da CF/88:
+
+
+
+                        Art. 154. A União poderá instituir:
+
+                        I - mediante lei complementar, impostos não previstos no artigo
+                        anterior, desde que sejam não-cumulativos e não tenham fato
+                        gerador ou base de cálculo próprios dos discriminados nesta
+                        Constituição;
+
+
+    Gabarito: D
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          30
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    3-) (FGV - Agente Fazendário (Niterói)/2015) Os municípios têm competência
+    tributária para instituir contribuição:
+
+    (A) de intervenção no domínio econômico;
+
+    (B) a ser cobrada de seus servidores, para o custeio do regime previdenciário
+    próprio;
+
+    (C) provisória sobre movimentação financeira de ativos dentro do município;
+
+    (D) de interesse das categorias profissionais ou econômicas;
+
+    (E) para o financiamento da assistência social.
+
+
+
+    Comentários: Questão interessante sobre as contribuições que os municípios
+    (além dos Estados e do DF) podem instituir referente à contribuição
+    previdenciária exigida de seus servidores, para custeio dos regimes próprios
+    de previdência. Vejamos o que diz o Parágrafo 1º do Art. 149 da CF/88:
+
+
+
+                        Art. 149, § 1º, CF/88 - A União, os Estados, o Distrito Federal e
+                        os Municípios instituirão, por meio de lei, contribuições para
+                        custeio de regime próprio de previdência social, cobradas dos
+                        servidores ativos, dos aposentados e dos pensionistas, que
+                        poderão ter alíquotas progressivas de acordo com o valor da
+                        base de contribuição ou dos proventos de aposentadoria e de
+                        pensões.         (Redação dada pela Emenda Constitucional nº 103,
+                        de 2019)
+
+
+
+    Assim, chegamos à alternativa B.
+
+
+
+    Vejamos os erros das demais alternativas:
+
+
+
+    Alternativa A (Incorreta): As CIDEs são de competência exclusiva da União.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         31
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Alternativa C (Incorreta): Não há qualquer competência tributária atribuída aos
+    Municípios nesse sentido.
+
+
+
+    Alternativa D (Incorreta): As contribuições de interesse das categorias
+    profissionais ou econômicas são de competência exclusiva da União, nos
+    termos do art. 149, da CF/88.
+
+
+
+    Alternativa E (Incorreta): As contribuições para o financiamento da assistência
+    social, que está incluída no âmbito da seguridade social (CF/88, art. 195) são
+    de competência exclusiva da União, nos termos do art. 149, da CF/88.
+
+
+
+    Gabarito: B
+
+
+
+
+    4-) (FGV - Analista de Controle Interno – SEFAZ-RJ/2011) Considere os
+    impostos abaixo:
+
+    I. Imposto sobre a Renda da Pessoa Jurídica;
+
+    II. Imposto sobre Produtos Industrializados;
+
+    III. Imposto sobre Operações de Crédito, Câmbio e Seguros;
+
+    IV. Imposto sobre a Transmissão Causa Mortis e Doação de quaisquer Bens ou
+    Direitos;
+
+    V. Imposto sobre a Prestação de Serviços de Comunicação.
+
+
+
+    Dentre eles, quais podem ter a alíquota modificada pelo Presidente da
+    República, desde que atendidas as condições e os limites estabelecidos em
+    lei?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   32
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    (A) I e II.
+
+    (B) III e V.
+
+    (C) II e III.
+
+    (D) III e IV.
+
+    (E) I e IV.
+
+
+
+    Comentários: Temos aqui, pessoal, uma questão que trata do Parágrafo 1º do
+    Art. 153 da CF/88. Conforme vimos, os impostos que podem ter alíquota
+    modificada por Ato do Poder Executivo são os seguintes: II, IE, IPI e IOF.
+
+                        Art. 153. Compete à União instituir impostos sobre:
+
+                        I - importação de produtos estrangeiros (II);
+
+                        II - exportação, para o exterior, de produtos nacionais ou
+                        nacionalizados (IE);
+                        ...
+                        IV - produtos industrializados (IPI);
+
+                        V - operações de crédito, câmbio e seguro, ou relativas a títulos
+                        ou valores mobiliários (IOF);
+                        ...
+                        § 1º - É facultado ao Poder Executivo, atendidas as condições e
+                        os limites estabelecidos em lei, alterar as alíquotas dos impostos
+                        enumerados nos incisos I, II, IV e V."
+
+
+
+    Assim, a alternativa que contempla impostos que podem ser modificados por
+    Ato do Poder Executivo é a “C” (Assertivas II e III).
+
+
+
+    Gabarito: C
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          33
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    5-) (FGV - Auditor Fiscal Tributário da Receita Municipal (Cuiabá)/2014) Com
+    relação ao Imposto sobre Grandes Fortunas (IGF), assinale a afirmativa correta.
+
+    (A) Pode ser instituído pela União, pelos Estados e pelos Municípios, no
+    exercício de competência concorrente.
+
+    (B) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão
+    instituí-lo os Estados, no exercício de competência supletiva.
+
+    (C) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão
+    instituí-lo os Municípios, no exercício de competência supletiva.
+
+    (D) Pode ser instituído apenas pela União, por meio de lei complementar,
+    inexistindo competência concorrente ou supletiva de qualquer outro ente
+    público.
+
+    (E) Pode ser instituído apenas pela União, por meio de lei ordinária, inexistindo
+    competência concorrente ou supletiva de qualquer outro ente público.
+
+
+
+    Comentários: O Imposto sobre Grandes Fortunas (IGF) é de competência
+    exclusiva da União, e será instituído por meio de lei complementar.
+
+
+                        Art. 153. Compete à União instituir impostos sobre:
+
+                        .....
+
+                        VII - grandes fortunas, nos termos de lei complementar.
+
+
+    Vamos às Alternativas:
+
+
+
+    Alternativa A (Incorreta): O IGF é de competência exclusiva da União.
+
+
+
+    Alternativa B (Incorreta): Trata-se de legislação privativa e não concorrente.
+    Não há impostos que possam ser instituídos por legislação concorrente.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     34
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Alternativa C (Incorreta): Não é permitida a instituição de impostos por outro
+    ente que não aquele determinado na Constituição Federal.
+
+
+    Alternativa D (Correta): Perfeito! O IGF só pode ser instituído pela União,
+    através de lei complementar, inexistindo competência concorrente ou
+    supletiva de qualquer outro ente público.
+
+
+    Alternativa E (Incorreta): A instituição do IGF só poderá ser feita através de lei
+    complementar, e não lei ordinária (e nem Medida Provisória).
+
+
+
+    Gabarito: D
+
+
+
+
+    6-) (FGV - Fiscal Tributário - Osasco/2014) No que se refere à competência e
+    capacidade tributárias, é correto afirmar que:
+
+    (A) a capacidade tributária pode ser conceituada como a repartição do poder
+    de tributar, conferido pela Constituição Federal aos diversos entes públicos,
+    atribuindo, assim, o poder de instituir os tributos de sua exclusiva
+    responsabilidade;
+
+    (B) a competência tributária e a capacidade tributária ativa são indelegáveis,
+    ainda que por meio de lei;
+
+    (C)     são     atributos       da     capacidade         tributária      a       exclusividade   e   a
+    intransferibilidade pelo não exercício;
+
+    (D) no Brasil, cada nível de governo possui competência para instituir os
+    impostos que lhe são atribuídos, conforme a estrita atribuição dada pela
+    Constituição Federal, não havendo possibilidade de sobreposição de
+    competências em relação aos impostos e grande parte das contribuições;
+
+    (E) a União Federal poderá instituir impostos não previstos na Constituição
+    Federal, desde que sejam não cumulativos e não tenham fato gerador ou base
+    de cálculo próprios dos nela discriminados, mediante emenda constitucional.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                           35
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Comentários: Apesar de indelegável, o art. 7º do CTN permite que o ente
+    competente atribua a outra pessoa jurídica de direito público (ente político ou
+    autarquia) as funções de arrecadar ou fiscalizar tributos, ou de executar leis,
+    serviços, atos ou decisões administrativas em matéria tributária. Vejamos o
+    texto legal do dispositivo:
+
+
+
+                        Art. 7º A competência tributária é indelegável, salvo atribuição
+                        das funções de arrecadar ou fiscalizar tributos, ou de executar
+                        leis, serviços, atos ou decisões administrativas em matéria
+                        tributária, conferida por uma pessoa jurídica de direito público
+                        a outra, nos termos do § 3º do artigo 18 da Constituição.
+
+
+
+    Desse modo, a “Capacidade Tributária Ativa”, que é a capacidade que o
+    sujeito ativo tem para exigir o tributo, isto é, de fiscalizar, arrecadar ou
+    executar, não se confunde com a “Competência Tributária”, que é o poder
+    atribuído pela Constituição Federal aos entes políticos para legislar de forma
+    plena sobre tributos. Enquanto a Competência Tributária é INDELEGÁVEL, a
+    Capacidade Tributária Ativa é DELEGÁVEL a outra pessoa jurídica de direito
+    público.
+
+    Vamos às alternativas:
+
+
+
+    Alternativa A (Incorreta): A alternativa na verdade conceitua a competência
+    tributária, e não a capacidade tributária.
+
+
+
+    Alternativa B (Incorreta): Como vimos, enquanto a Competência Tributária é
+    INDELEGÁVEL, a Capacidade Tributária Ativa é DELEGÁVEL a outra pessoa
+    jurídica de direito público.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        36
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Alternativa C (Incorreta): Exclusividade e a intransferibilidade são atributos da
+    competência tributária, e não da capacidade tributária.
+
+
+
+    Alternativa        D      (Correta):       A     competência           tributária   é   o   poder
+    constitucionalmente atribuído de editar leis que instituam tributos,
+    compreendendo a competência legislativa, nos termos do art. 6º do CTN, de
+    maneira que apenas os entes políticos (que podem legislar) são titulares dessa
+    prerrogativa. Assim, é a Constituição Federal que estabelece a repartição de
+    competências tributárias, desenhando os contornos do Sistema Tributário
+    Nacional de maneira a definir quais tributos podem ser instituídos pela União,
+    Estados, DF e Municípios.
+
+
+
+    Alternativa E (Incorreta): Nos termos do Art. 154, I da CF/88 a competência
+    residual somente pode ser exercida por LEI COMPLEMENTAR (e não de
+    emenda constitucional):
+
+
+
+                        Art. 154. A União poderá instituir:
+
+                        I - mediante lei complementar, impostos não previstos no artigo
+                        anterior, desde que sejam não-cumulativos e não tenham fato
+                        gerador ou base de cálculo próprios dos discriminados nesta
+                        Constituição;
+
+
+
+    Gabarito: D
+
+
+
+    7-) FGV - Auditor Fiscal da Receita Estadual (SEFAZ ES)/2021
+
+    No Estado X, uma lei estadual conferiu poderes à autarquia estadual gestora
+    do regime próprio de previdência dos servidores estaduais para fiscalizar,
+    arrecadar e inclusive cobrar judicialmente a contribuição previdenciária dos
+    servidores.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                     37
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    Diante desse cenário, assinale a afirmativa correta.
+
+    (A) A lei estadual pode delegar a chamada capacidade tributária ativa à
+    autarquia.
+
+    (B) A autarquia estadual, por ser integrante da Administração Indireta, não
+    pode arrecadar tributos.
+
+    (C) A lei estadual viola a competência tributária do Estado X, conforme
+    estabelecida na Constituição.
+
+    (D) A lei estadual viola a competência tributária do Estado X, conforme
+    estabelecida no Código Tributário Nacional.
+
+    (E) A fiscalização e a arrecadação podem ser feitas pela autarquia, mas a
+    cobrança judicial de tributos é ato privativo da Administração Direta do ente
+    federado.
+
+
+
+    Comentários: Primeiramente devemos ter em mente as definições de
+    competência tributária e capacidade tributária ativa. Vamos recordar. A
+    competência tributária refere-se ao poder que tem os entes federativos de
+    instituir tributos. O instrumento de atribuição dessa competência é a
+    Constituição Federal.
+
+    A competência tributária possui algumas características a ela inerentes, quais
+    sejam: indelegável, imprescritível, inalterável, irrenunciável e facultativa.
+    Passemos rapidamente sobre cada uma dessas características:
+
+          • Indelegável – Significa que o ente competente para instituir
+             determinado tributo não pode transferir a outrem o poder que lhe foi
+             conferido pela Constituição.
+          • Imprescritível – Significa que o não exercício da competência tributária
+             não a transfere a outrem, ou seja, a competência tributária pode ser
+             exercida a qualquer momento.
+          • Inalterável – Significa que a própria pessoa política que detém a
+             competência não pode alterá-la (ampliando/diminuindo). Apenas a
+             CF/88 detém esse poder.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    38
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+          • Irrenunciável – O ente federado não pode renunciar à competência
+             atribuída a ele pela CF/88.
+          • Facultativa - Os próprios entes políticos decidem se será ou não
+             instituído o tributo, mas uma vez instituído, sua cobrança é vinculada.
+
+    Muito bem. Passemos para a capacidade tributária ativa. É o poder de
+    fiscalizar, cobrar e exigir o tributo. É a titularidade para empreender sobre o
+    sujeito passivo todos os meios permitidos pela lei para obter o pagamento. A
+    pessoa detentora da competência para instituir, também deterá a capacidade
+    para cobrar o tributo. No entanto, o Poder de Administrar o tributo
+    (capacidade tributária ativa), ao contrário do Poder de Instituir (competência
+    tributária), é delegável. Vejamos como o CTN nos trouxe o assunto:
+
+                        CTN, Art. 7º A competência tributária é indelegável, salvo
+                        atribuição das funções de arrecadar ou fiscalizar tributos, ou de
+                        executar leis, serviços, atos ou decisões administrativas em
+                        matéria tributária, conferida por uma pessoa jurídica de direito
+                        público a outra, nos termos do § 3º do artigo 18 da
+                        Constituição.
+
+                        § 1º A atribuição compreende as garantias e os privilégios
+                        processuais que competem à pessoa jurídica de direito público
+                        que a conferir.
+
+                        § 2º A atribuição pode ser revogada, a qualquer tempo, por ato
+                        unilateral da pessoa jurídica de direito público que a tenha
+                        conferido.
+
+                        § 3º Não constitui delegação de competência o cometimento,
+                        a pessoas de direito privado, do encargo ou da função de
+                        arrecadar tributos.
+
+    Passando rapidamente pelos parágrafos do artigo 7, o primeiro diz que a
+    delegação da capacidade tributária ativa, também compreende as garantias e
+    privilégios processuais que competem ao ente titular da competência (aquele
+    que delegou o poder de administrar o tributo). O Segundo diz que a
+    delegação pode ser revogada a qualquer tempo. E o terceiro, bastante
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         39
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    cobrado em provas, diz que o cometimento do encargo ou da função de
+    arrecadar tributos a pessoas jurídicas de direito privado (imagine uma agência
+    bancária recebendo o pagamento do IPTU), não constitui delegação de
+    competência.
+
+    Dessa forma, podemos marcar a Alternativa A como (Correta), pois, conforme
+    vimos, a lei estadual pode delegar a chamada capacidade tributária ativa à
+    autarquia.
+
+
+
+    Gabarito: A                                        ==219a34==
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   40
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    5. QUESTIONÁRIO DE REVISÃO E
+    APERFEIÇOAMENTO
+
+
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+
+
+
+                                  Questionário – Somente perguntas
+
+
+
+
+    1) O que é Competência Tributária? E Capacidade Tributária? Qual pode ser
+    delegada?
+
+
+
+    2-) Quais são as principais características da Competência Tributária?
+
+
+
+    3-) O que é Competência Privativa? E Comum?
+
+
+
+    4-) O que é Competência Cumulativa? E Residual?
+
+
+
+    5-) Quais requisitos devem possuir os Impostos Residuais?
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   41
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    6-) Qual a diferença de “Bis in Iden” e Bitributação?
+
+
+
+    7-) Quais impostos federais poderão ter suas alíquotas alteradas por Ato do
+    Poder Executivo?
+
+
+
+    8-) Qual é o meio legítimo para a instituição do Imposto sobre Grande
+    Fortunas, e quem poderá instituí-lo?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   42
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                                Questionário – Perguntas e Respostas
+
+
+
+
+    1) O que é Competência Tributária? E Capacidade Tributária? Qual pode ser
+    delegada?
+
+    Resposta: A Competência Tributária é o poder conferido à União, aos Estados,
+    ao Distrito Federal e aos Municípios para instituir tributos, sendo esta
+    indelegável.
+
+    Já Capacidade Tributária Ativa refere-se à função de arrecadar ou fiscalizar
+    tributos, ou de executar leis, serviços, atos ou decisões administrativas em
+    matéria tributária, conferida por uma pessoa jurídica de direito público a outra,
+    sendo esta delegável.
+
+
+
+    2-) Quais são as principais características da Competência Tributária?
+
+    Resposta: A Competência Tributária é:
+
+          ▪ indelegável (não pode ser transferida para ninguém);
+          ▪ imprescritível (O não exercício da competência tributária, nos termos do
+             art. 8º do CTN, não a defere a pessoa jurídica de direito público diversa
+             daquela a que a Constituição a tenha atribuído);
+          ▪ inalterável (a competência tributária não pode ser ampliada ou
+             reduzida);
+          ▪ irrenunciável (o ente federado não pode recusar o que foi previsto na
+             CF/88), e
+          ▪ facultativa (os entes federados decidem, por critérios de conveniência
+             política, se será ou não instituído o tributo).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      43
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    3-) O que é Competência Privativa? E Comum?
+
+    Resposta: Competência Tributária Privativa diz respeito àqueles tributos cuja
+    instituição somente pode ser feita por determinado ente político. Por
+    exemplo, somente a União pode Instituir o II, o IE, o IPI, o IR, o IOF, o ITR, o
+    IGF e o IS. Já o Estados, possuem competências Privativa para instituição do
+    ICMS, IPVA e ITCMD, enquanto que os Municípios a possuem para instituir o
+    ISS, IPTU e ITBI.
+
+    Já a Competência Comum diz respeito aos tributos vinculados (que são
+    aqueles cujo Fato Gerador depende de uma atividade estatal relativa ao
+    contribuinte, como é o caso das taxas e das Contribuições de Melhorias), que
+    podem ser instituídos por qualquer um dos entes federados.
+
+
+
+
+    4-) O que é Competência Cumulativa? E Residual?
+
+    Resposta: Competência Cumulativa é aquela prevista no Art. 147 da CF/88:
+
+                        Art. 147 Competem à União, em Território Federal, os impostos
+                        estaduais e, se o Território não for dividido em Municípios,
+                        cumulativamente, os impostos municipais; ao Distrito Federal
+                        cabem os impostos municipais.
+
+
+
+    Já a Competência Residual diz respeito à criação pela União (e somente por
+    ela) de novos tributos, além daqueles já existentes.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     44
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    5-) Quais requisitos devem possuir os Impostos Residuais?
+
+    Resposta: Os Impostos Residuais devem obedecer aos seguintes requisitos:
+
+          ▪ Devem ser instituídos por lei complementar;
+          ▪ Devem obedecer ao critério da não cumulatividade;
+          ▪ Devem possuir fato gerador ou base de cálculo diversos dos demais
+             impostos já discriminados na CF.
+
+
+
+    6-) Qual a diferença de “Bis in Iden” e Bitributação?
+
+    Resposta: BIS IN IDEN é quando ocorrem diversas incidências sobre o mesmo
+    Fato Gerador decorrentes de tributos de competência da mesma pessoa
+    Jurídica de Direito Público.
+
+    Já BITRIBUTAÇÃO, ocorre quando mais de um ente federado tributa o mesmo
+    fato gerador.
+
+
+
+    7-) Quais impostos federais poderão ter suas alíquotas alteradas por Ato do
+    Poder Executivo?
+
+    Resposta: Conforme o § 1º do Artigo 153 da CF/88, somente as alíquotas do
+    II, IE, IPI e IOF, podem ser alteradas por ato do Poder Executivo.
+
+                        Art. 153 § 1º É facultado ao Poder Executivo, atendidas as
+                        condições e os limites estabelecidos em lei, alterar as alíquotas
+                        dos impostos enumerados nos incisos I, II, IV e V (II, IE, IPI e IOF)
+
+
+
+    8-) Qual é o meio legítimo para a instituição do Imposto sobre Grande
+    Fortunas, e quem poderá instituí-lo?
+
+    Resposta:        Cabe somente à União a instituição do IGF – Imposto sobre
+    Grandes Fortunas, mediante Lei Complementar (Não cabe Medida Provisória
+    para a instituição do IGF).
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário             45
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    6. LISTA DE QUESTÕES ESTRATÉGICAS
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Análise de Questões”:
+
+
+
+    QUESTÕES FGV
+
+
+
+    1-) (FGV - Auditor do Tesouro Municipal (Recife)/2014) Com relação à
+    competência tributária, assinale a afirmativa correta.
+
+    (A) Permite que uma pessoa jurídica de direito público delegue a outra a
+    atribuição de executar leis em matéria tributária, conforme a legislação.
+
+    (B) Significa que todos os entes políticos que compõem a Federação estão
+    dotados de competência legislativa plena.
+
+    (C) Representa o poder que é outorgado pela Constituição Federal para a
+    criação de tributos a todos os entes administrativos de direito público.
+
+    (D) Admite a delegação da administração dos tributos, porém não confere ao
+    delegatário as garantias e privilégios do poder delegante.
+
+    (E) Autoriza que pessoa jurídica de direito público possa exercer, em caráter
+    residual, a competência conferida a outrem que, entretanto, não a exerce.
+
+
+
+
+    2-) (FGV - Auditor Fiscal Tributário da Receita Municipal (Cuiabá)/2016) A atual
+    Constituição Federal instituiu competências tributárias comuns, privativas e
+    residuais.
+
+    Sobre a atribuição de competência definida pela Constituição Federal de
+    1988, assinale a afirmativa correta.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    46
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    (A) Os Municípios são competentes para instituir o imposto sobre transmissão
+    “causa mortis” e doação, de quaisquer bens ou direitos.
+
+    (B) A União, os Estados, o Distrito Federal e os Municípios têm competência
+    comum para instituir contribuição de intervenção no domínio econômico.
+
+    (C) Apenas os Estados e o Distrito Federal têm competência para a instituição
+    de contribuição de melhoria, decorrente de obra pública.
+
+    (D) Os Estados têm competência para instituir imposto incidente sobre a
+    prestação de transporte interestadual e intermunicipal.
+
+    (E) Os Estados e o Distrito Federal podem instituir impostos não previstos na
+    Constituição Federal de 1988, desde que sejam não cumulativos e não tenham
+    fato gerador ou base de cálculo próprios dos discriminados na Constituição.
+
+
+
+
+    3-) (FGV - Agente Fazendário (Niterói)/2015) Os municípios têm competência
+    tributária para instituir contribuição:
+
+    (A) de intervenção no domínio econômico;
+
+    (B) a ser cobrada de seus servidores, para o custeio do regime previdenciário
+    próprio;
+
+    (C) provisória sobre movimentação financeira de ativos dentro do município;
+
+    (D) de interesse das categorias profissionais ou econômicas;
+
+    (E) para o financiamento da assistência social.
+
+
+
+
+    4-) (FGV - Analista de Controle Interno – SEFAZ-RJ/2011) Considere os
+    impostos abaixo:
+
+    I. Imposto sobre a Renda da Pessoa Jurídica;
+
+    II. Imposto sobre Produtos Industrializados;
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   47
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    III. Imposto sobre Operações de Crédito, Câmbio e Seguros;
+
+    IV. Imposto sobre a Transmissão Causa Mortis e Doação de quaisquer Bens ou
+    Direitos;
+
+    V. Imposto sobre a Prestação de Serviços de Comunicação.
+
+    Dentre eles, quais podem ter a alíquota modificada pelo Presidente da
+    República, desde que atendidas as condições e os limites estabelecidos em
+    lei?
+
+
+
+    (A) I e II.
+
+    (B) III e V.
+
+    (C) II e III.
+
+    (D) III e IV.
+
+    (E) I e IV.
+
+
+
+
+    5-) (FGV - Auditor Fiscal Tributário da Receita Municipal (Cuiabá)/2014) Com
+    relação ao Imposto sobre Grandes Fortunas (IGF), assinale a afirmativa correta.
+
+    (A) Pode ser instituído pela União, pelos Estados e pelos Municípios, no
+    exercício de competência concorrente.
+
+    (B) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão
+    instituí-lo os Estados, no exercício de competência supletiva.
+
+    (C) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão
+    instituí-lo os Municípios, no exercício de competência supletiva.
+
+    (D) Pode ser instituído apenas pela União, por meio de lei complementar,
+    inexistindo competência concorrente ou supletiva de qualquer outro ente
+    público.
+
+    (E) Pode ser instituído apenas pela União, por meio de lei ordinária, inexistindo
+    competência concorrente ou supletiva de qualquer outro ente público.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     48
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    6-) (FGV - Fiscal Tributário - Osasco/2014) No que se refere à competência e
+    capacidade tributárias, é correto afirmar que:
+
+    (A) a capacidade tributária pode ser conceituada como a repartição do poder
+    de tributar, conferido pela Constituição Federal aos diversos entes públicos,
+    atribuindo, assim, o poder de instituir os tributos de sua exclusiva
+    responsabilidade;
+
+    (B) a competência tributária e a capacidade tributária ativa são indelegáveis,
+    ainda que por meio de lei;
+
+    (C)     são     atributos       da     capacidade         tributária      a       exclusividade   e   a
+    intransferibilidade pelo não exercício;
+
+    (D) no Brasil, cada nível de governo possui competência para instituir os
+    impostos que lhe são atribuídos, conforme a estrita atribuição dada pela
+    Constituição Federal, não havendo possibilidade de sobreposição de
+    competências em relação aos impostos e grande parte das contribuições;
+
+    (E) a União Federal poderá instituir impostos não previstos na Constituição
+    Federal, desde que sejam não cumulativos e não tenham fato gerador ou base
+    de cálculo próprios dos nela discriminados, mediante emenda constitucional.
+
+
+
+    1-) FGV - Auditor Fiscal da Receita Estadual (SEFAZ ES)/2021
+
+    No Estado X, uma lei estadual conferiu poderes à autarquia estadual gestora
+    do regime próprio de previdência dos servidores estaduais para fiscalizar,
+    arrecadar e inclusive cobrar judicialmente a contribuição previdenciária dos
+    servidores.
+
+    Diante desse cenário, assinale a afirmativa correta.
+
+    (A) A lei estadual pode delegar a chamada capacidade tributária ativa à
+    autarquia.
+
+    (B) A autarquia estadual, por ser integrante da Administração Indireta, não
+    pode arrecadar tributos.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                           49
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    (C) A lei estadual viola a competência tributária do Estado X, conforme
+    estabelecida na Constituição.
+
+    (D) A lei estadual viola a competência tributária do Estado X, conforme
+    estabelecida no Código Tributário Nacional.
+
+    (E) A fiscalização e a arrecadação podem ser feitas pela autarquia, mas a
+    cobrança judicial de tributos é ato privativo da Administração Direta do ente
+    federado.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   50
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+    GABARITO
+
+
+
+
+          1-A                  2-D                  3-B                   4-C         5-D
+          6-D                  7-A
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         51
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 06
+
+
+
+
+                              Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+
+                                No estudo de hoje vimos os principais pontos sobre
+    Competência Tributária e sobre os Impostos de Competência da União.
+
+
+
+             Na próxima aula veremos o que mais costuma ser cobrado em provas
+    sobre os Impostos Estaduais. Espero por Você!!!
+
+
+
+
+                     Um grande abraço e que Deus os abençoe.
+                                        Até a próxima aula!!!
+
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          52
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+

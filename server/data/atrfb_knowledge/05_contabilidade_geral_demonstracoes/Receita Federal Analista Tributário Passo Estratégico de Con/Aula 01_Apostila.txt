@@ -1,0 +1,1695 @@
+                                                    Aula 00
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                          10 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 00
+
+
+
+
+                                                                                     Índice
+1) Apresentação - Julio Cardozo e Filipe Magalhães
+..............................................................................................................................................................................................3
+
+2) Análise Estatística - Contabilidade - FGV
+..............................................................................................................................................................................................5
+
+3) O que é mais cobrado no assunto - Conceitos Introdutórios - FGV
+..............................................................................................................................................................................................7
+
+4) Roteiro de Revisão - Conceitos Introdutórios
+..............................................................................................................................................................................................8
+
+5) Apostas Estratégicas - Conceitos Introdutórios - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            16
+
+6) Questões Comentadas - Conceitos Introdutórios - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            17
+
+7) Questionário de Revisão - Conceitos Introdutórios
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+8) Lista de Questões - Conceitos Introdutórios - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            30
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           34
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 00
+
+
+
+
+                                          APRESENTAÇÃO
+Olá! Meu nome é Julio Cardozo, e serei seu analista do Passo Estratégico! Atualmente sou Auditor Fiscal
+do estado do Espírito Santo e trabalho diretamente na fiscalização de ICMS. Fui sargento da Força Aérea
+Brasileira, controlador de tráfego aéreo, por 14 anos, tendo ingressado no serviço público com 17 anos
+de idade.
+
+Para que você conheça um pouco sobre mim, segue um resumo da minha experiência profissional,
+acadêmica e como concurseiro:
+
+     Professor das disciplinas de Contabilidade Geral, Avançada, de Custos e Perícia Contábil.
+
+     Analista do Passo Estratégico - disciplinas: Contabilidade Geral, Avançada, de Custos e Perícia
+     Contábil;                                          ==219a34==
+
+
+
+
+     Auditor Fiscal do estado do Espírito Santo e trabalho diretamente na fiscalização de ICMS.
+
+      Fui sargento da Força Aérea Brasileira, controlador de tráfego aéreo, por 14 anos, tendo
+     ingressado no serviço público com 17 anos de idade.
+
+     Bacharel em Ciências Contábeis pela Universidade Federal do Paraná;
+
+     Pós-graduando em Direito Tributário.
+
+Fiquei muito feliz com o convite para ter a oportunidade de trabalhar na equipe do “Passo”, porque
+tenho convicção de que nossos relatórios e simulados proporcionarão uma preparação diferenciada aos
+nossos alunos!
+
+Quero trazer a minha experiência como professor e concurseiro para vocês, pois sei da grande
+importância que a Contabilidade tem para sua prova e, em um ambiente de altíssima concorrência, como
+temos visto atualmente nos concursos, um material como o Passo Estratégico é um grande diferencial
+para vocês.
+
+Meu nome é Filipe Magalhães, sou graduado em Ciências Contábeis pela Universidade Federal de
+Alagoas (UFAL) e sou professor de Contabilidade aqui no Passo Estratégico do Estratégia Concursos. A
+seguir, um resumo da minha experiência profissional e acadêmica:
+
+        Professor do Fórum de dúvidas
+
+        Monitor do Estratégia CFC
+
+        Aprovado no Exame de Suficiência 2017.1 com 46 de 50 pontos.
+
+        Fui monitor das disciplinas de Contabilidade Comercial I e II na UFAL.
+
+        Fui bolsista de Iniciação Tecnológica e Industrial do CNPq – Nível A
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 3
+        www.estrategiaconcursos.com.br                                                                 34
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 00
+
+
+
+
+                         Faça contato conosco pelas redes
+                                     sociais!
+
+                          @profjuliocardozo @filipemagalhaes30
+
+                          O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+
+a) orientar revisões eficientes;
+
+b) destacar os pontos mais importantes e prováveis de serem cobrados em prova.
+
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+
+Isso porque nossa didática é direcionada ao aluno que já possui uma base do conteúdo.
+
+Assim, se você vai utilizar o Passo Estratégico:
+
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras indicadas
+no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente em nossos
+relatórios;
+
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram eventualmente
+expostos utilizando uma didática mais avançada que a sua capacidade de compreensão, em razão do
+seu nível de conhecimento do assunto.
+
+
+                         Seu cantinho de estudos famoso!
+                    Poste uma foto do seu cantinho de estudos nos stories do Instagram
+                                              e nos marque:
+
+
+
+                                            @passoestrategico
+                     Vamos repostar sua foto no nosso perfil para que ele fique famoso
+                                     entre milhares de concurseiros!
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          4
+         www.estrategiaconcursos.com.br                                                         34
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 00
+
+
+
+
+                                     ANÁLISE ESTATÍSTICA
+A análise estatística refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV,
+exclusivamente para o nível superior.
+
+Inicialmente, convém destacar os percentuais de incidência de todos os assuntos previstos no nosso curso
+– quanto maior o percentual de cobrança de um dado assunto, maior sua importância.
+
+                                                                                         Grau de incidência
+                                           Assunto
+                                                                                                FGV
+Estoques                                                                                       6,45%
+CPC 00: Estrutura Conceitual Básica da Contabilidade                                           6,22%
+Demonstração de Fluxo de Caixa                                                                 5,82%
+CPC 25: Provisões, Passivos e Ativos Contingentes                                              5,04%
+Demonstração do Resultado do Exercício                                                         4,80%
+Patrimônio Líquido                                                                             4,64%
+Depreciação, Amortização e Exaustão                                                            3,86%
+Ativo Imobilizado                                                                              3,78%
+Demonstração do Valor Adicionado                                                               3,46%
+Investimentos                                                                                  2,83%
+Elaboração e Apresentação das Demonstrações Contábeis                                          2,75%
+CPC 28: Propriedades para Investimento                                                         2,68%
+CPC 47: Receita de Contrato com Cliente                                                        2,60%
+CPC 04: Ativos Intangíveis                                                                     2,36%
+Regimes Contábeis                                                                              2,28%
+CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão                                    2,28%
+CPC 36: Demonstração Contábil Consolidada                                                      2,20%
+CPC 01: Redução ao Valor Recuperável de Ativos                                                 2,12%
+CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro                      1,81%
+Balanço Patrimonial                                                                            1,57%
+CPC 02: Efeitos das mudanças nas taxas de câmbio e conversão de demonstrações
+contábeis                                                                                      1,57%
+CPC 12: Ajuste a Valor Presente                                                                1,57%
+Escrituração                                                                                   1,49%
+CPC 46: Mensuração a Valor Justo                                                               1,42%
+Instrumentos Financeiros                                                                       1,34%
+CPC 06: Arrendamentos                                                                          1,34%
+Contas a receber e PCLD                                                                        1,26%
+Tributos sobre Lucro                                                                           1,18%
+CPC 31: Ativo Não Circulante Mantido para Venda e Operação Descontinuada                       1,10%
+Folha de Pagamento e Benefícios a Empregados                                                   1,10%
+Debêntures e Títulos de Dívida                                                                 1,10%
+CPC 07: Subvenção e Assistência Governamentais                                                 1,02%
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   5
+        www.estrategiaconcursos.com.br                                                                   34
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+
+                                                                                          Grau de incidência
+                                            Assunto
+                                                                                                 FGV
+CPC 24: Eventos Subsequentes                                                                    1,02%
+Despesas Antecipadas                                                                            0,87%
+Empréstimos e Financiamentos                                                                    0,87%
+Demonstração das Mutações do Patrimônio Líquido                                                 0,87%
+Notas Explicativas                                                                              0,87%
+Goodwill                                                                                        0,79%
+Ativo Circulante                                                                                0,79%
+Ativo Não Circulante                                                                            0,79%
+Dividendos                                                                                      0,79%
+Passivo: Circulante e Não Circulante                                                            0,71%
+Disponibilidades                                         ==219a34==
+                                                                                                0,63%
+Conceito, Objeto, Finalidade, Técnicas Contábeis, Equação Patrimonial                           0,55%
+Apuração do Resultado                                                                           0,47%
+CPC 05: Divulgação sobre Partes Relacionadas                                                    0,47%
+Duplicatas Descontadas                                                                          0,39%
+Classificação das contas                                                                        0,39%
+CPC 22: Informações por Segmento                                                                0,39%
+Atos e Fatos Contábeis                                                                          0,31%
+Teoria das Contas                                                                               0,24%
+Realizável a Longo Prazo                                                                        0,24%
+Ativo Diferido                                                                                  0,24%
+Receitas Antecipadas                                                                            0,24%
+Demonstração de Lucros ou Prejuízos Acumulados                                                  0,24%
+Processo de convergência das normas contábeis                                                   0,24%
+CPC 29: Ativos Biológicos e Produtos Agrícolas                                                  0,16%
+Demonstração de Resultados Abrangentes                                                          0,16%
+CPC 10: Pagamento Baseado em Ações                                                              0,16%
+CPC 42: Correção Monetária Integral                                                             0,16%
+Resolução CFC N.º 1.328/11: Estrutura das Normas Brasileiras de Contabilidade                   0,16%
+Fornecedores                                                                                    0,08%
+Resultado de Exercícios Futuros                                                                 0,08%
+ICPC 01: Concessões                                                                             0,08%
+Juros sobre Capital Próprio                                                                     0,08%
+Resolução CFC nº 1.055/05: Comitê de Pronunciamentos Contábeis                                  0,08%
+Relato Integrado                                                                                0,08%
+CPC 41: Resultado por Ação                                                                      0,08%
+Risco Sacado                                                                                    0,08%
+Custos de Transação                                                                             0,08%
+CPC 20: Custos de Empréstimos                                                                   0,08%
+Total                                                                                         100,00%
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   6
+         www.estrategiaconcursos.com.br                                                                   34
+
+                                      https://t.me/KakashiAssinaturasBot
+     Filipe Magalhães, Júlio Cardozo
+     Aula 00
+
+
+
+
+               O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise estatística refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV,
+exclusivamente para o nível superior.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            Grau de incidência
+                                           Assunto
+                                                                                                   FGV
+    Classificação das Contas                                                                      54%
+    Equação Patrimonial                                                                           23%
+    Objetivo, finalidade e Função                                                                   8%
+    Componentes Patrimoniais (Bens, direitos e obrigações)                                          8%
+    Objeto                                                                                          8%
+    Total                                                                                         100%
+
+.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                    7
+           www.estrategiaconcursos.com.br                                                                   34
+
+                                        https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 00
+
+
+
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao
+mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem-preparado no assunto, você precisa, basicamente, seguir os passos a seguir:
+
+Definições Iniciais
+
+Contabilidade é a ciência que estuda a pratica as funções de orientação, de controle e de registro dos atos
+e fatos de uma administração econômica (1º Congresso Brasileiro de Contabilidade/1924).
+
+A Contabilidade é, objetivamente, um sistema de informação e avaliação destinado a prover seus usuários
+com demonstrações e análises de natureza econômica, financeira, física e de produtividade, com relação
+à entidade objeto de contabilização'' – (Ipecafi).
+
+Finalidade: Fornecer informações úteis para seus usuários com o objetivo de auxiliar à tomada de decisões;
+
+O objeto de estudo da contabilidade é o patrimônio. Por patrimônio, entenda o conjunto de bens, direitos
+e obrigações da entidade.
+
+Campo de aplicação da contabilidade: aziendas = patrimônio + gestão
+
+
+
+                                                    Econômica                       Empresas
+
+
+                      Azienda                         Sociais                        Governo
+
+
+                                                   Econômico-
+                                                                                  Associações
+                                                     sociais
+
+
+Os usuários das demonstrações contábeis podem ser externos ou internos, conforme tenham ou não
+ligação e acesso às informações da a entidade que as reporta. Assim sendo, um empregado de hierarquia
+inferior ou um sócio minoritário, mesmo sendo “de dentro” da empresa, não tem livre acesso às
+informações contábeis da empresa. Deve aguardar que sejam externadas. Nesse caso, são considerados
+usuários EXTERNOS.
+
+focado no estudo da Contabilidade como ciência, estudando seus princípios, teorias, axiomas
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   8
+        www.estrategiaconcursos.com.br                                                                  34
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+Usuários internos:
+
+- Alta e Média Gerência da empresa;
+- Conselho de Administração;
+- Acionistas Controladores;
+
+Usuários externos:
+
+- Empregados.
+- Investidores.
+- Credores por empréstimos.
+- Fornecedores.
+- Clientes.
+- Governo e suas agências.
+- Público.
+- Sócios Minoritário.
+
+A Contabilidade possui basicamente duas funções:
+
+
+                          Função administrativa                    Função econômica
+
+
+                                                                   Apuração do lucro ou
+                           Controle do patrimônio
+                                                                         prejuízo
+
+Divisões Didáticas da Contabilidade:
+
+
+                      Contabilidade Teórica                           Contabilidade Prática
+
+
+                                                                  Preocupada com o registro dos
+                  Focado no estudo da Contabilidade
+                                                                     fatos contábeis nos livros
+                            como ciência
+                                                                           competentes
+
+
+                  Estudando seus principios, teorias,
+                              axiomas.
+
+
+Além disso, a Contabilidade pode ser aplicada em ramos específicos, como a Contabilidade Aplicado ao Setor
+Público, Contabilidade Gerencial, Contabilidade de Custos, Contabilidade Bancária, assim por diante
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 9
+         www.estrategiaconcursos.com.br                                                                34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+Principais normas de contabilidade para concursos:
+
+         - Lei 6.404/76 → Lei das sociedades por ações. Artigo 175 a 204. Essa lei apresenta uma
+         forte influência da escola americana na Contabilidade brasileira.
+
+         - Resolução 750/93 → Contém os princípios da contabilidade. Apesar de revogada, ainda
+         possui valor doutrinário e tem sido cobrada em provas.
+
+         - Lei 11.638/07 e 11.941/09 → Marcam o processo de adequação da Contabilidade
+         Brasileira às normas internacionais de Contabilidade. As principais alterações promovidas
+         por essas leis foram na Lei 6.404/76.
+
+         - Pronunciamentos Contábeis
+
+Princípio da Entidade → Figura dos sócios é diferente da figura da sociedade. Autonomia Patrimonial
+
+Contas: A estrutura básica de uma rubrica contábil ou conta contempla o nome da conta, o período a que
+ela se refere, seu saldo em valor monetário e seu movimento em determinado período.
+
+Capital social ou Capital Subscrito: valor que os sócios se comprometem a entregar para o início das
+atividades da empresa. Pode ser dividido em ações ou quotas.
+
+A principal demonstração contábil é o balanço patrimonial que é presenta a posição patrimonial e
+financeira da entidade (estática patrimonial). Está dividido em ativo (parte positiva do patrimônio), passivo
+e patrimônio líquido (parte negativa do patrimônio)
+
+                                     At ivo                             Passivo
+
+                                                                        O rigem
+
+                                 Aplicação                                   PL
+
+                                                                        O rigem
+
+
+O capital aplicado em bens e direitos pode vir de duas fontes básicas: capital próprio (quando vem dos
+sócios) e capital de terceiros (quando vem do passivo, das obrigações, como por exemplo, fornecedores,
+empréstimos).
+
+O Patrimônio Líquido é a riqueza própria da entidade e suas fontes são, basicamente, o recurso dos sócios
+e os lucros acumulados pela entidade ao longo de suas operações. Também pode ser considerado, via de
+rega, como sinônimo de Situação Líquida (embora o patrimônio líquido seja uma das espécies do gênero
+situação líquida).
+
+                     Equação fundamental da contabilidade → Ativo = Passivo + PL
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   10
+         www.estrategiaconcursos.com.br                                                                   34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+Fique esperto! Podemos escrevê-la nas seguintes formas:
+
+   •   Isolando o Ativo
+
+                                                Ativo = Passivo + PL
+
+   •   Isolando o PL
+
+                                                 Ativo - Passivo = PL
+
+   •   Isolando o Passivo
+
+                                                Ativo – PL = Passivo
+
+   •   Isolando os três:                                 ==219a34==
+
+
+
+
+                                     Ativo - Passivo - Patrimônio Líquido = 0.
+
+Indo Além! Saibam, de antemão, que o ativo é dividido em circulante (que é curto prazo) e não circulante
+(que é longo prazo). As mesmas observações valem para o passivo, que é dividido em circulante (curto prazo)
+e não circulante (longo prazo). Substituindo Ativo e Passivo pelos subgrupos que o compõe:
+
+                                            (AC + ANC) = (PC + PNC) + PL
+
+Técnicas contábeis → escrituração, elaboração das demonstrações contábeis, auditoria e análise das
+demonstrações contábeis.
+
+Esquematizemos:
+
+                                    Elaboração das
+                                                                                          Análise de
+         Escrituração               demonstrações                     Auditoria
+                                                                                           balanços
+                                       contábeis
+
+       TERMOS IMPORTANTES PARA SUA PROVA
+ ATIVO                 Bens e direitos
+ PASSIVO               Obrigações
+ PATRIMÔNIO LÍQUIDO    Capital próprio (dos sócios)
+ PATRIMÔNIO            bens + Direitos + Obrigações
+ PATRIMÔNIO BRUTO      Total do ativo.
+ PATRIMÔNIO TOTAL      Total do ativo.
+ APLICAÇÃO DE RECURSOS Ativo
+ ORIGEM DE RECURSOS    Passivo e Patrimônio Líquido
+ CAPITAL PRÓPRIO       Patrimônio Líquido
+ CAPITAL DE TERCEIROS  Passivo
+ CAPITAL APLICADO      Ativo
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 11
+         www.estrategiaconcursos.com.br                                                                 34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+Tipos de situações líquidas existentes:
+
+   •   Ativo maior do que passivo → Situação Líquida Favorável, Ativa, Positiva ou Superavitária
+   •   Ativo menor do que passivo (passivo a descoberto) → Situação líquida Desfavorável, Negativa ou
+       Deficitária:
+   •   Ativo igual ao passivo → Situação Líquida Nula ou Inexistente
+   •   Ativo igual à situação líquida → Este é o caso típico da constituição da sociedade
+
+Consequências:
+
+   •   Ativo pode ser maior ou igual a zero.
+   •   Passivo pode ser maior ou igual a zero.
+   •   PL pode ser maior, menor ou igual a zero.
+
+Razonetes: é uma figura usada para auxiliar na contabilização e é a representação gráfica de uma conta,
+também chamada de rubrica contábil.
+
+                                                       CONTA X
+                               Lado do débito              Lado do crédito
+
+
+
+
+Método das Partidas Dobradas: Ao analisarmos todas as rubricas de uma entidade, o total dos débitos
+sempre terá que ser igual ao total dos créditos. Essa regra, em uma contabilidade regular, não comporta
+exceções e é consequência da aplicação do Método das Partidas Dobradas.;
+
+As palavras débito e crédito, para a Contabilidade, representam APLICAÇÕES e ORIGENS de recursos,
+respectivamente e não representam algo negativo ou positivo. Como as contas aumentam e diminuem:
+
+ CONTA                              AUMENTA            DIMINUI
+ ATIVO                               Débito            Crédito
+ PASSIVO                             Crédito            Débito
+ PATRIMÔNIO LÍQUIDO                  Crédito            Débito
+ RECEITAS                            Crédito            Débito
+ DESPESAS                            Débito            Crédito
+
+Contas e Classificações
+
+As contas patrimoniais são as que representam os bens, direitos, obrigações e o patrimônio líquido da
+empresa, ou seja, Ativo, Passivo e Patrimônio Líquido. São contas chamadas permanentes, pois o seu saldo
+é transferido de um exercício para outro.
+
+ As contas de resultado são as receitas e despesas. São contas chamadas de temporárias, pois seus saldos
+começam e terminam o exercício zeradas.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              12
+         www.estrategiaconcursos.com.br                                                              34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+
+    Professor Julio Cardozo                                          Dinheiro
+      @profjuliocardozo
+
+                                       Aumentos no
+                                                                      Direitos                  Vendas
+                                         Ativos
+
+
+                                                                    Em virtude                  Serviços
+
+               Receitas
+                                      Diminuições do               Sem entregar               Aplicações
+                                         Passivo                      ativos                  Financeiras
+
+                                      Geram aumento                   Não são
+                                       no Patrimônio              transações com
+                                          Líquido                      sócios
+Exemplos de Receitas:
+
+   •   Receita de Vendas
+   •   Receitas Financeiras
+   •   Receitas de serviços.
+
+
+                                               Diminuição no
+                                                  Ativos                             Professor Julio Cardozo
+                                                                                       @profjuliocardozo
+
+                                                Aumento do
+                                                  Passivo
+                     Despesas
+                                             Esforço para obter            Consumo de Bens ou
+                                                  receitas                      Serviços
+
+                                              Geram diminuição                   Não são
+                                               no Patrimônio                 transações com
+                                                  Líquido                         sócios
+
+
+Exemplos de Despesas:
+
+   •   Despesas Administrativas
+   •   Salários e ordenados
+   •   Depreciação
+   •   Despesas de Frete
+   •   Despesas de Aluguel.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                        13
+         www.estrategiaconcursos.com.br                                                                        34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+Contas Devedoras e Credoras
+
+Quanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS.
+
+   •   Devedoras:
+
+Aumentam pelo débito e diminuem pelo crédito
+Ativo, Retificadoras do Passivo, Retificadoras do PL, Despesas
+
+   •   Credoras:
+
+Aumentam pelo crédito e diminuem pelo débito.
+Passivo, Patrimônio Líquido, Retificadoras do Ativo e Receitas
+
+Contas Estáveis e Instáveis
+
+No geral, cada conta possui uma única natureza e, por esse motivo, as contas são chamadas de estáveis, pois
+são devedoras ou são credoras.
+
+Agora, existem na doutrina contas de DUPLA NATUREZA, ora sendo devedora, ora sendo credora! Essas
+contas são chamadas de INSTÁVEIS, podendo apresentar saldo devedor ou credor. Uma conta que possui
+essa característica é a conta de Ajuste de Avaliação Patrimonial, uma conta do grupo Patrimônio Líquido.
+Não se preocupe com ela agora, ok?
+
+                                                                                 Única
+                                                       Estáveis
+                                                                                Natureza
+                            Variação de
+                             Natureza
+                                                                                 Dupla
+                                                       Instáveis
+                                                                                Natureza
+
+Contas Unilaterais e Bilaterais
+
+As contas bilaterais são aquelas que o seu FUNCIONAMENTO NORMAL é de aumentos e diminuições de
+saldos. Quer um exemplo: a conta Banco com Movimento. O funcionamento normal dessa conta é ter
+aumentos e diminuições de valores, entradas e saídas de caixa. Essa rubrica é debitada e creditada de
+maneira corriqueira pela empresa.
+
+Agora, as contas chamadas unilaterais são aquelas que somente recebem lançamentos a débito ou crédito,
+de acordo com a sua natureza. A maioria das contas funciona dessa forma, ok?
+
+
+                                                                         No geral, lançamentos de
+                                                 Unilateral
+                                                                          acordo com a natureza
+                  Movimentação
+                                                                         Aumentos e Diminuições
+                                                  Bilateral
+                                                                               de Saldos
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 14
+         www.estrategiaconcursos.com.br                                                                 34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+Contas Analíticas e Sintéticas
+
+Quanto à possibilidade de agregarmos saldos de outras rubricas, podemos classificar as contas em analíticas
+e sintéticas.
+
+
+                                                 Sintética                     Mais resumida
+
+                 Desdobramento
+
+                                                 Analítica                     Mais detalhada
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 15
+         www.estrategiaconcursos.com.br                                                                 34
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 00
+
+
+
+
+                                    APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em
+prova, considerando o histórico de questões da banca em provas de nível semelhante à nossa, bem como
+as inovações no conteúdo, na legislação e nos entendimentos doutrinários e jurisprudenciais.
+
+
+
+
+A FGV tem dado atenção a assuntos da aula 02 para frente. Todavia, estes conceitos iniciais já
+apareceram em provas.
+
+1) Contabilidade é a ciência que estuda a pratica as funções de orientação, de controle e de registro dos
+atos e fatos de uma administração econômica (1º Congresso Brasileiro de Contabilidade/1924).
+
+2) Finalidade → Fornecer informações
+
+3) Escrituração → Técnica contábil que lança os fatos contábeis nos livros contábeis.
+
+4) O objeto de estudo da contabilidade é o patrimônio. Por patrimônio, entenda o conjunto de bens,
+direitos e obrigações da entidade.
+
+6) Princípio da entidade → Figura dos sócios é diferente da figura da sociedade.
+
+7) O mais correto é utilizar a expressão entidade, pois é mais abrangente.
+
+8) Conta capital social: valor que os sócios entregam para o início da atividade.
+
+9) Razontes: utilizados para fazer os lançamentos contábeis:
+
+10) A principal demonstração contábil é o balanço patrimonial! O balanço patrimonial é dividido em
+ativo, passivo e patrimônio líquido!
+
+               Ativo                                         Passivo + Patrimônio Líquido
+       Aplicação de Recursos                                     Origem de Recursos
+11) Equação fundamental da contabilidade -> Ativo = Passivo + PL
+
+12) Tipos de situações líquidas existentes: Ativo maior do que passivo; Ativo menor do que passivo
+(Passivo a descoberto, também conhecido como Patrimônio Líquido negativo); Ativo igual ao passivo e
+Ativo igual à situação líquida.
+
+13) Contabilidade possui basicamente duas funções: Administrativa (controle do patrimônio) e
+Econômica (apuração do lucro ou prejuízo)
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                16
+        www.estrategiaconcursos.com.br                                                                34
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 00
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar para a sua
+prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas que você
+faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+Se você olhar com atenção, verá que temas mais básicos, como conceitos, objeto, funções, equação
+patrimonial, situações liquidas, estão sendo menos cobrados pela FGV, por isso as questões são mais
+antigas. Mas são imprescindíveis para o perfeito entendimento da disciplina.
+
+1. (FGV/Prefeitura de Caraguatatuba/Contador/2024) No balanço patrimonial de uma sociedade
+   empresária, o patrimônio líquido representa
+(A) as obrigações com terceiros.
+(B) o valor contábil pertencente aos acionistas ou sócios.
+(C) os ativos que foram integralizados pelos proprietários.
+(D) os bens e os direitos com expectativa de retorno futuro.
+(E) a diferença entre as aplicações e as origens de recursos.
+
+Comentários:
+
+Vamos analisar cada alternativa:
+
+(A) as obrigações com terceiros. Errado, obrigações com terceiros representam o passivo das entidades.
+
+(B) o valor contábil pertencente aos acionistas ou sócios. Correto, por definição, o patrimônio líquido é o
+valor residual dos ativos após excluídos os passivos. Pela equação fundamental da Contabilidade, Patrimônio
+Líquido = Ativos – Passivos. É o “resíduo”, o que “sobra” para os acionistas ou sócios dos ativos da empresa
+depois de quitar todos os seus passivos.
+
+(C) os ativos que foram integralizados pelos proprietários. Errado, como a questão apresentou, esses são os
+ativos da empresa. Patrimônio Líquido é a diferença entre ativos e passivos.
+
+(D) os bens e os direitos com expectativa de retorno futuro. Errado, bens e direitos integram o ativo da
+entidade.
+
+(E) a diferença entre as aplicações e as origens de recursos. Errado, patrimônio líquido é a diferença entre
+ativos e passivos. Na Contabilidade, usamos o Método das Partidas Dobradas, o qual prevê a igualdade entre
+origens e aplicações de recursos.
+
+Gabarito: B
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   17
+        www.estrategiaconcursos.com.br                                                                   34
+                                                                                                          1
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+
+2. (FGV/ALEP/Técnico em Contabilidade/2024) De acordo com a NBC TG Estrutura Conceitual- Estrutura
+   Conceitual para Relatório Financeiro, o patrimônio líquido de uma entidade representa a participação
+   residual
+A nos ativos após a dedução de todos os seus passivos.
+B nos ativos após a dedução de todas as suas despesas.
+C nas receitas após a dedução de todos os seus ativos.
+D nos passivos após a dedução de todas as suas despesas.
+E nas receitas após a dedução de todas as suas despesas.
+
+Comentários:
+
+O quesito exige conhecimento sobre os componentes patrimoniais:
+
+    •   Ativo: bens e direitos
+    •   Passivo: obrigações
+    •   Patrimônio líquido: Ativo – Passivo.
+
+Observem que o PL é a participação residual, isto é, o que “sobra” dos ativos, após pagar as dívidas, os passivos.
+
+Funciona assim: se determinada entidade vender todos os seus bens e direitos, ou seja, seus ativos, e quitar
+todas as suas obrigações, seus passivos, o que irá sobrar é o patrimônio líquido, também conhecido como
+riqueza líquida dos sócios.
+
+Gabarito: A
+
+3. (FGV/DATAPREV/Analista de Tecnologia da Informação/Gestão Econômico-Financeira/2024) As noções
+   básicas de contabilidade envolvem o registro, a classificação e a análise das transações financeiras de
+   uma organização, fornecendo informações essenciais para a tomada de decisões econômicas e
+   garantindo a transparência e a conformidade com normas contábeis. A principal função da
+   contabilidade é
+A auxiliar na tomada de decisões e atender exclusivamente às exigências do governo.
+B registrar apenas transações financeiras de pequeno porte.
+C fornecer informações úteis para a tomada de decisões e registrar movimentações mensuráveis em
+relatórios.
+D ajudar as empresas a evitarem o pagamento de impostos.
+E gerar relatórios financeiros apenas para análise dos acionistas.
+
+Comentários:
+
+Falamos que a Contabilidade tem em sua essência, basicamente, duas funções:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                     18
+         www.estrategiaconcursos.com.br                                                                     34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+
+                         Função administrativa                     Função econômica
+
+
+                                                                   Apuração do lucro ou
+                           Controle do patrimônio
+                                                                         prejuízo
+
+Ocorre que a banca quer, na verdade, a “finalidade” da contabilidade. Recordamos que a finalidade principal
+da ciência contábil, que algumas vezes pode também ser chamada de objetivo, é fornecer a seus usuários
+informações sobre a situação patrimonial e financeira da entidade.
+
+Essas informações são essenciais a investidores, credores, fornecedores, governo e até mesmo aos próprios
+administradores da entidade, que precisam acompanhar como anda a “saúde” da empresa gerenciada. “
+
+Esquematizemos:
+
+
+               Finalidade da Contabilidade                                      Fornecer Informações
+
+
+Neste momento, podemos marcar a letra c como gabarito: fornecer informações úteis para a tomada de
+decisões e registrar movimentações mensuráveis em relatórios.
+
+Para fins didáticos, observemos o restante:
+
+A auxiliar na tomada de decisões e atender exclusivamente às exigências do governo.
+
+Os governos e suas agências estão interessados na destinação de recursos e, portanto, nas atividades das
+entidades. Necessitam também de informações a fim de regulamentar as atividades das entidades,
+estabelecer políticas fiscais e servir de base para determinar a renda nacional e estatísticas semelhantes.
+
+O quesito mente no “exclusivamente”, visto que a contabilidade possui outros usuários (internos e externos).
+Alternativa errada
+
+B registrar apenas transações financeiras de pequeno porte.
+
+Conforme apresentado em sua definição oficial, Contabilidade é considerada atualmente uma ciência que
+estuda e pratica as funções de orientação, de controle e de registro dos atos e fatos de uma administração
+econômica. No tocante ao registro, ressaltamos que não existe essa limitação. Alternativa errada.
+
+D ajudar as empresas a evitarem o pagamento de impostos.
+
+Sabemos que o objetivo da contabilidade é fornecer informações úteis para a tomada de decisões por parte
+de seus usuários. Embora o quanto a entidade irá pagar de tributos esteja dentro da função administrativa
+da contabilidade e seja uma informação importante para seus usuários, evitar os tributos NÃO É UMA
+FINALIDADE PRINCIPAL da contabilidade. Alternativa errada.
+
+E gerar relatórios financeiros apenas para análise dos acionistas.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  19
+         www.estrategiaconcursos.com.br                                                                  34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+A Contabilidade possui usuários internos e externos, produzindo informações que serão úteis para todos e
+não apenas aos acionistas... A Contabilidade está preocupada em produzir informações para os usuários de
+forma geral e não a um grupo específico. Alternativa errada.
+
+Gabarito: C
+
+4. (FGV/Pref. Vitória/Contador/2024) Uma sociedade empresária apresentava os seguintes saldos em seu
+   Balanço Patrimonial:
+• Ativo Circulante: R$300.000;
+• Passivo Circulante: R$150.000;
+• Patrimônio Líquido: R$500.000.
+Os possíveis saldos para o Ativo não Circulante e o Passivo não Circulante são, respectivamente,
+A R$20.000 e R$30.000.
+B R$100.000 e R$750.000.
+C R$200.000 e R$50.000.
+D R$400.000 e R$250.000.
+E R$700.000 e R$350.000.
+
+Comentários:
+
+Saibam, de antemão, que o ativo é dividido em circulante (que é curto prazo) e não circulante (que é longo
+prazo). As mesmas observações valem para o passivo, que é dividido em circulante (curto prazo) e não
+circulante (longo prazo).
+
+Segundo a equação básica da contabilidade:
+
+                                                      A = P + PL
+
+Substituindo Ativo e Passivo pelos subgrupos que o compõe:
+
+                                             AC + ANC = PC + PNC + PL
+
+Substituindo:
+
+                               R$ 300.000 + ANC = R$ 150.000 + PNC + R$ 500.000
+
+                                      R$ 300.000 + ANC = PNC + R$ 650.000
+
+                                       ANC - PNC = R$ 650.000 - R$ 300.000
+
+                                       ANC - PNC = R$ 650.000 - R$ 300.000
+
+                                              ANC - PNC = R$350.000
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                20
+         www.estrategiaconcursos.com.br                                                                34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+Para finalizar, vamos testar a alternativa que respeita essa diferença:
+
+A R$20.000 e R$30.000.
+
+DIFERENÇA = 20.000 - R$30.000 = -10.000
+
+B R$100.000 e R$750.000.
+
+DIFERENÇA =100.000 - R$750.000 = -650.000
+
+C R$200.000 e R$50.000.
+
+DIFERENÇA =200.000 - R$50.000 = 150.000
+
+D R$400.000 e R$250.000.                                 ==219a34==
+
+
+
+
+DIFERENÇA = 400.000 - R$250.000 = 150.000
+
+E R$700.000 e R$350.000.
+
+DIFERENÇA = 700.000 - R$350.000 = 350.000
+
+Gabarito: E
+
+5. (FGV/PC-AM/Investigador de Polícia/2022) O objeto da Contabilidade é o patrimônio, que é formado
+   pelos ativos e pelos passivos.
+Assinale a afirmativa correta sobre os ativos e os passivos de uma entidade.
+ a) Os ativos representam os bens, e os passivos, as obrigações e os direitos.
+ b) Os ativos se referem à posição financeira, e os passivos, ao desempenho financeiro.
+ c) Os ativos são evidenciados em ordem de liquidez, e os passivos, em ordem de solvência.
+ d) Os ativos são mensurados de acordo com o valor justo, e os passivos, de acordo com o custo histórico.
+ e) Os ativos mostram como são aplicados os recursos da entidade, e os passivos, quais as origens dos
+recursos.
+
+Comentários:
+
+Por ser uma ciência, a Contabilidade possui objeto de estudo próprio que é o patrimônio das entidades. Por
+patrimônio, entenda o conjunto de bens, direitos e obrigações da entidade. Vejamos nosso esquema:
+
+
+                                                     Patrimônio
+
+
+                                      Bens             Direitos        Obrigações
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 21
+         www.estrategiaconcursos.com.br                                                                 34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+O conjunto de bens e direitos chamamos de ativo, parte positiva do patrimônio. Por seu turno, as obrigações
+serão chamadas de passivo, parte negativa do patrimônio.
+
+Assim, gravemos:
+
+Ativo: bens e direitos
+
+Passivo: obrigações
+
+Agora, vamos analisar as alternativas:
+
+a) Os ativos representam os bens, e os passivos, as obrigações e os direitos.
+
+ Errado, os ativos representam os bens e direitos de determinada entidade. Por seu turno, os passivos
+representam as obrigações; a assertiva erra por adicionar os direitos aos passivos da entidade.
+
+b) Os ativos se referem à posição financeira, e os passivos, ao desempenho financeiro.
+
+ Errado, os componentes patrimoniais, a saber, ativos, passivos e patrimônio líquido, apresentam a posição
+patrimonial e financeira da entidade em determinado momento. Por sua vez, as receitas e despesas, contas
+de resultado, representam o desempenho da entidade no período analisado. As contas de passivo
+representam as obrigações da entidade e não o seu desempenho.
+
+c) Os ativos são evidenciados em ordem de liquidez, e os passivos, em ordem de solvência.
+
+Errado, existem alguns critérios para a evidenciação de ativos e passivos das entidades nas demonstrações
+contábeis. É verdade que um desses critérios para evidenciação de ativos é a ordem de liquidez; esse trecho
+da alternativa está correto. Mas, quando falamos em passivos, a ordem seria de exigibilidade e não solvência.
+
+d) Os ativos são mensurados de acordo com o valor justo, e os passivos, de acordo com o custo histórico.
+
+Errado, nem todos os ativos são avaliados a valor justo. Não existe um critério de avaliação aplicável a todos
+os ativos, assim como não existe que se aplica a todos os passivos. Item errado.
+
+ e) Os ativos mostram como são aplicados os recursos da entidade, e os passivos, quais as origens dos
+recursos.
+
+ Correto, esse é o nosso gabarito. O lado esquerdo do balanço patrimonial, POR UMA CONVENÇÃO, é
+chamado de lado positivo do balanço patrimonial, apresenta as aplicações de recursos e elenca os bens e
+direitos que estão sob o controle dessa entidade. Por seu turno, o lado direito do balanço patrimonial, POR
+UMA CONVENÇÃO, é chamado de lado negativo do balanço patrimonial, apresenta as origens de recursos e
+elenca as obrigações da empresa com seus sócios (Patrimônio Líquido) ou com terceiros (Passivo).
+
+Gabarito: E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                    22
+         www.estrategiaconcursos.com.br                                                                    34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+
+6. (FGV/TCE-PI/Assistente de Administração/2021) Os registros de operações realizadas em uma empresa
+   têm o objetivo de gerar informações úteis para a gestão organizacional. Embora seja fornecida uma
+   diversidade de informações nos relatórios contábeis, o objeto da contabilidade é o:
+(A) controle de receitas e despesas;
+(B) fluxo de caixa das entidades;
+(C) lucro das entidades;
+(D) patrimônio das entidades;
+(E) valor de mercado das entidades.
+
+Comentários:
+
+A Contabilidade é uma Ciência Social, cujo objeto da contabilidade é o patrimônio, que pode ser entendido
+como o conjunto de bens, direitos e obrigações de uma entidade
+
+Gabarito: D
+
+7. (FGV/PC-RN/Agente/2021) A elaboração de um plano de contas para uma entidade requer a definição
+   de elementos considerados essenciais para a definição da conta, tais como nome, função,
+   funcionamento e natureza. Quanto à natureza, um exemplo de conta devedora é:
+(A) fornecedores;
+(B) estoque;
+(C) capital social;
+(D) impostos a pagar;
+(E) financiamentos.
+
+Comentários:
+
+Algumas contas aumentam por meio de débito (contas de natureza devedora), outras por meio de crédito
+(contas de natureza credora). Assim, gravemos:
+
+- Contas de natureza devedora: contas de ativo (bens e direitos), contas de despesa,
+
+- Contas de natureza credora: contas do passivo (obrigações), contas do patrimônio líquido, contas de
+receita.
+
+Classifiquemos conta a conta...
+
+(A) fornecedores. É uma conta do passivo e possui saldo credor.
+
+(B) estoque. É uma conta do ativo e possui saldo devedor.
+
+(C) capital social. É uma conta do patrimônio líquido e possui saldo credor.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               23
+         www.estrategiaconcursos.com.br                                                               34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+(D) impostos a pagar. É uma conta do passivo e possui saldo credor.
+
+(E) financiamentos. É uma conta do passivo e possui saldo credor.
+
+Gabarito: B
+
+8. (FGV/BANESTES/Analista Econômico-Financeiro/Gestão Financeira/2018) Ao analisar diversos
+   Balanços Patrimoniais de empresas, um analista percebe que tanto o lado esquerdo como o lado direito
+   desse tipo de relatório contábil sempre apresentam o mesmo total em unidades monetárias.
+Uma maneira de entender essa constatação é que tanto as aplicações como as origens de recursos da
+empresa são sempre retratadas, respectivamente, como:
+a) “Ativo” e “Passivo + Patrimônio Líquido”;
+ b) “Passivo + Patrimônio Líquido” e “Ativo”;
+ c) “Patrimônio Líquido” e “Ativo”;
+ d) “Patrimônio Líquido” e “Passivo”;
+ e) “Passivo” e “Patrimônio Líquido”.
+
+Comentários:
+
+Vimos que o lado do ativo é o lado da aplicação de recursos. Já o lado do passivo e do PL é o lado da origem
+de recursos. Vamos esquematizar?
+
+                                         BALANÇO PATRIMONIAL
+                                  LADO ESQUERDO         LADO DIREITO
+                              ATIVO                  PASSIVO
+                                                     PATRIMÔNIO LÍQUIDO
+                              APLICAÇÃO DE RECURSOS ORIGEM DE RECURSOS
+
+Gabarito: A
+
+9. (FGV/Oficial de Chancelaria/MRE/2016) A Alfa & Beta Ltda. é uma empresa familiar de médio porte
+   gerida por dois irmãos em sucessão aos seus pais. Após assumirem a gestão, adotaram algumas
+   medidas com o objetivo de facilitar o controle das transações que afetavam a situação patrimonial da
+   empresa. Uma das medidas foi o registro de despesas pessoais dos sócios apenas quando do seu efetivo
+   pagamento. Essa medida está em desacordo com o princípio do(a):
+a) entidade;
+b) prudência;
+c) oportunidade;
+d) valor original;
+e) unidade de caixa.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  24
+         www.estrategiaconcursos.com.br                                                                  34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+Comentários:
+
+As despesas dos sócios não podem ser computadas como despesas da empresa, em ofensa clara ao princípio
+da entidade. O princípio da entidade prega a separação do patrimônio pessoal daquele da entidade. No
+Direito Empresarial, é o chamado princípio da autonomia patrimonial.
+
+Gabarito: A
+
+10. (FGV/Contador/AL/MA/2013) Com relação aos conceitos básicos da Contabilidade Geral, relacione os
+    tópicos a seguir
+1. Objeto de estudo
+2. Campo de aplicação
+3. Finalidade econômica
+4. Usuário Externo
+5. Técnica Contábil
+( ) Escrituração
+( ) Fornecedor
+( ) Entidade
+( ) Resultado
+( ) Patrimônio
+Assinale a alternativa que apresenta a sequência correta, de cima para baixo.
+(A) 1 – 3 – 2 – 4 – 5
+(B) 3 – 4 – 1 – 5 – 2
+(C) 2 – 1 – 4 – 5 – 3
+(D) 5 – 4 – 2 – 3 – 1
+(E) 1 – 2 – 4 – 3 – 5
+
+Comentários:
+
+A nossa sequência será:
+
+(5) Escrituração: uma das técnicas contábeis, juntamente com Auditoria, Análise de Demonstrações
+Contábeis e Demonstrações Contábeis.
+
+(4) Fornecedor: representa um usuário externo da informação contábil, preocupado com a capacidade de
+pagamento das dívidas das empresas.
+
+(2) Entidade: Campo de Aplicação da Contabilidade!
+
+(3) Resultado: a apuração do rédito ou resultado é a finalidade econômica da Contabilidade, por seu turno,
+a finalidade administrativa é o controle do Patrimônio.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                25
+         www.estrategiaconcursos.com.br                                                                34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+(1) Patrimônio: representa o objeto de estudo da Contabilidade, representado pelos bens, direitos e
+obrigações da entidade.
+
+Gabarito: D
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral         26
+         www.estrategiaconcursos.com.br                                                         34
+
+                                      https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 00
+
+
+
+
+          QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas que exigem
+respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a memorização da matéria, e,
+consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+                                                     Perguntas
+
+1. O que é Contabilidade?
+2. Qual a finalidade da Contabilidade?
+3. Qual é o objeto de estudo da contabilidade?
+4. Qual é o campo de aplicação da Contabilidade?
+5. Cite 3 usuários internos da Contabilidade:
+6. Cite 3 usuários externos da Contabilidade:
+7. Quais as funções básicas da Contabilidade?
+8. Defina, resumidamente, o que vem a ser o Princípio da Entidade.
+9. Qual é a principal demonstração contábil e o que ela evidencia?
+10. Quais são as fontes de Patrimônio Líquido
+11. Qual é a Equação Fundamental da Contabilidade?
+12. Quais são as técnicas contábeis?
+13. Quais os tipos de situação líquida existentes?
+14. O que é Método das Partidas Dobradas?
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                27
+         www.estrategiaconcursos.com.br                                                                                34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+
+                                         Perguntas com respostas
+
+1. O que é Contabilidade?
+
+Contabilidade é a ciência que estuda a pratica as funções de orientação, de controle e de registro dos atos
+ e fatos de uma administração econômica (1º Congresso Brasileiro de Contabilidade/1924).
+
+2. Qual a finalidade da Contabilidade?
+
+Fornecer informações úteis para seus usuários com o objetivo de auxiliar à tomada de decisões;
+
+3. Qual é o objeto de estudo da contabilidade?
+
+O objeto de estudo da contabilidade é o patrimônio. Por patrimônio, entenda o conjunto de bens, direitos
+                                                         ==219a34==
+
+
+
+
+ e obrigações da entidade.
+
+4. Qual é o campo de aplicação da Contabilidade?
+
+Campo de aplicação da contabilidade: aziendas = patrimônio + gestão.
+
+5. Cite 3 usuários internos da Contabilidade:
+
+Alta e Média Gerência da empresa; Conselho de Administração; Acionistas Controladores.
+
+6. Cite 3 usuários externos da Contabilidade:
+
+Empregados, Investidores, Sócios minoritários.
+
+7. Quais as funções básicas da Contabilidade?
+
+Função Administrativa: Controle do Patrimônio.
+
+Função Econômica: Apuração do Lucro ou Prejuízo.
+
+8. Defina, resumidamente, o que vem a ser o Princípio da Entidade:
+
+O Princípio da entidade reforça a Autonomia Patrimonial e, como consequência dessa apuração, a entidade
+ constituída é diferente dos sócios. (Autonomia Patrimonial).
+
+9. Qual é a principal demonstração contábil e o que ela evidência?
+
+A principal demonstração contábil é o balanço patrimonial que é presenta a posição patrimonial e
+ financeira da entidade (estática patrimonial).
+
+10. Quais são as fontes de Patrimônio Líquido?
+
+O recurso dos sócios e os lucros acumulados pela entidade ao longo de suas operações
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 28
+         www.estrategiaconcursos.com.br                                                                 34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+11. Qual é a Equação Fundamental da Contabilidade?
+
+Ativo = Passivo + PL
+
+12. Quais são as técnicas contábeis?
+
+Escrituração, elaboração das demonstrações contábeis, auditoria e análise das demonstrações contábeis.
+
+13. Quais os tipos de situação líquida existentes?
+
+Tipos de situações líquidas existentes:
+
+   •   Ativo maior do que passivo → Situação Líquida Favorável, Ativa, Positiva ou Superavitária
+   •   Ativo menor do que passivo (passivo a descoberto) → Situação líquida Desfavorável, Negativa ou
+       Deficitária:
+   •   Ativo igual ao passivo → Situação Líquida Nula ou Inexistente
+   •   Ativo igual à situação líquida → Este é o caso típico da constituição da sociedade
+
+Consequências:
+
+   •   Ativo pode ser maior ou igual a zero.
+   •   Passivo pode ser maior ou igual a zero.
+   •   PL pode ser maior, menor ou igual a zero.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              29
+         www.estrategiaconcursos.com.br                                                              34
+
+                                      https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 00
+
+
+
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/Prefeitura de Caraguatatuba/Contador/2024) No balanço patrimonial de uma sociedade
+   empresária, o patrimônio líquido representa
+(A) as obrigações com terceiros.
+(B) o valor contábil pertencente aos acionistas ou sócios.
+(C) os ativos que foram integralizados pelos proprietários.
+(D) os bens e os direitos com expectativa de retorno futuro.
+(E) a diferença entre as aplicações e as origens de recursos.
+
+2. (FGV/ALEP/Técnico em Contabilidade/2024) De acordo com a NBC TG Estrutura Conceitual- Estrutura
+   Conceitual para Relatório Financeiro, o patrimônio líquido de uma entidade representa a participação
+   residual
+A nos ativos após a dedução de todos os seus passivos.
+B nos ativos após a dedução de todas as suas despesas.
+C nas receitas após a dedução de todos os seus ativos.
+D nos passivos após a dedução de todas as suas despesas.
+E nas receitas após a dedução de todas as suas despesas.
+
+3. (FGV/DATAPREV/Analista de Tecnologia da Informação/Gestão Econômico-Financeira/2024) As noções
+   básicas de contabilidade envolvem o registro, a classificação e a análise das transações financeiras de
+   uma organização, fornecendo informações essenciais para a tomada de decisões econômicas e
+   garantindo a transparência e a conformidade com normas contábeis. A principal função da
+   contabilidade é
+A auxiliar na tomada de decisões e atender exclusivamente às exigências do governo.
+B registrar apenas transações financeiras de pequeno porte.
+C fornecer informações úteis para a tomada de decisões e registrar movimentações mensuráveis em
+relatórios.
+D ajudar as empresas a evitarem o pagamento de impostos.
+E gerar relatórios financeiros apenas para análise dos acionistas.
+
+4. (FGV/Pref. Vitória/Contador/2024) Uma sociedade empresária apresentava os seguintes saldos em seu
+   Balanço Patrimonial:
+• Ativo Circulante: R$300.000;
+• Passivo Circulante: R$150.000;
+• Patrimônio Líquido: R$500.000.
+Os possíveis saldos para o Ativo não Circulante e o Passivo não Circulante são, respectivamente,
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                30
+         www.estrategiaconcursos.com.br                                                                34
+                                                                                                        1
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+A R$20.000 e R$30.000.
+B R$100.000 e R$750.000.
+C R$200.000 e R$50.000.
+D R$400.000 e R$250.000.
+E R$700.000 e R$350.000.
+
+5. (FGV/PC-AM/Investigador de Polícia/2022) O objeto da Contabilidade é o patrimônio, que é formado
+   pelos ativos e pelos passivos.
+Assinale a afirmativa correta sobre os ativos e os passivos de uma entidade.
+ a) Os ativos representam os bens, e os passivos, as obrigações e os direitos.
+ b) Os ativos se referem à posição financeira, e os passivos, ao desempenho financeiro.
+ c) Os ativos são evidenciados em ordem de liquidez, e os passivos, em ordem de solvência.
+                                                         ==219a34==
+
+
+
+
+ d) Os ativos são mensurados de acordo com o valor justo, e os passivos, de acordo com o custo histórico.
+ e) Os ativos mostram como são aplicados os recursos da entidade, e os passivos, quais as origens dos
+recursos.
+
+6. (FGV/TCE-PI/Assistente de Administração/2021) Os registros de operações realizadas em uma empresa
+   têm o objetivo de gerar informações úteis para a gestão organizacional. Embora seja fornecida uma
+   diversidade de informações nos relatórios contábeis, o objeto da contabilidade é o:
+(A) controle de receitas e despesas;
+(B) fluxo de caixa das entidades;
+(C) lucro das entidades;
+(D) patrimônio das entidades;
+(E) valor de mercado das entidades.
+
+7. (FGV/PC-RN/Agente/2021) A elaboração de um plano de contas para uma entidade requer a definição
+   de elementos considerados essenciais para a definição da conta, tais como nome, função,
+   funcionamento e natureza. Quanto à natureza, um exemplo de conta devedora é:
+(A) fornecedores;
+(B) estoque;
+(C) capital social;
+(D) impostos a pagar;
+(E) financiamentos.
+
+8. (FGV/BANESTES/Analista Econômico-Financeiro/Gestão Financeira/2018) Ao analisar diversos
+   Balanços Patrimoniais de empresas, um analista percebe que tanto o lado esquerdo como o lado direito
+   desse tipo de relatório contábil sempre apresentam o mesmo total em unidades monetárias.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 31
+         www.estrategiaconcursos.com.br                                                                 34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 00
+
+
+
+Uma maneira de entender essa constatação é que tanto as aplicações como as origens de recursos da
+empresa são sempre retratadas, respectivamente, como:
+a) “Ativo” e “Passivo + Patrimônio Líquido”;
+ b) “Passivo + Patrimônio Líquido” e “Ativo”;
+ c) “Patrimônio Líquido” e “Ativo”;
+ d) “Patrimônio Líquido” e “Passivo”;
+ e) “Passivo” e “Patrimônio Líquido”.
+
+9. (FGV/Oficial de Chancelaria/MRE/2016) A Alfa & Beta Ltda. é uma empresa familiar de médio porte
+   gerida por dois irmãos em sucessão aos seus pais. Após assumirem a gestão, adotaram algumas
+   medidas com o objetivo de facilitar o controle das transações que afetavam a situação patrimonial da
+   empresa. Uma das medidas foi o registro de despesas pessoais dos sócios apenas quando do seu efetivo
+   pagamento. Essa medida está em desacordo com o princípio do(a):
+a) entidade;
+b) prudência;
+c) oportunidade;
+d) valor original;
+e) unidade de caixa.
+
+10. (FGV/Contador/AL/MA/2013) Com relação aos conceitos básicos da Contabilidade Geral, relacione os
+   tópicos a seguir
+1. Objeto de estudo
+2. Campo de aplicação
+3. Finalidade econômica
+4. Usuário Externo
+5. Técnica Contábil
+( ) Escrituração
+( ) Fornecedor
+( ) Entidade
+( ) Resultado
+( ) Patrimônio
+Assinale a alternativa que apresenta a sequência correta, de cima para baixo.
+(A) 1 – 3 – 2 – 4 – 5
+(B) 3 – 4 – 1 – 5 – 2
+(C) 2 – 1 – 4 – 5 – 3
+(D) 5 – 4 – 2 – 3 – 1
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             32
+         www.estrategiaconcursos.com.br                                                             34
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 00
+
+
+
+(E) 1 – 2 – 4 – 3 – 5
+
+
+                                                 GABARITO
+                                                  1          B
+                                                  2          A
+                                                  3          C
+                                                  4          E
+                                                  5          E
+                                                  6          D
+                                                  7          B
+                                                  8          A
+                                                  9          A
+                                                  10         D
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral   33
+         www.estrategiaconcursos.com.br                                                   34
+
+                                      https://t.me/KakashiAssinaturasBot
+

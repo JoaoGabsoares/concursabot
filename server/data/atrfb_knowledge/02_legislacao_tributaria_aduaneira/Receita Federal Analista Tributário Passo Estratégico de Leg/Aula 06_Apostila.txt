@@ -1,0 +1,1347 @@
+                                                    Aula 05
+                          Receita Federal (Analista Tributário)
+                               Passo Estratégico de Legislação
+                                                    Aduaneira
+
+
+
+                                                        Autor:
+                             Raphael Rabelo Parreira, Bruno
+                                                      Bezerra
+
+
+                                          14 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+    Raphael Rabelo Parreira, Bruno Bezerra
+    Aula 05
+
+
+
+
+   REGIMES ADUANEIROS ESPECIAIS - TRÂNSITO
+     ADUANEIRO, ADMISSÃO TEMPORÁRIA,
+  APERFEICO
+          ̧ AMENTO ATIVO, DRAWBACK, TERMO
+             DE RESPONSABILIDADE
+
+Sumário
+
+O que é mais cobrado dentro do assunto? ............................................................................................................2
+
+Roteiro de revisão e pontos do assunto que merecem destaque...................................................................3
+
+       1 - Introdução.........................................................................................................................................................................................................................3
+
+       2 - Trânsito Aduaneiro.......................................................................................................................................................................................................4
+
+       3 - Admissão Temporária .................................................................................................................................................................................................7
+
+       4 - Drawback ....................................................................................................................................................................................................................... 10
+
+Aposta Estratégica.................................................................................................................................................... 12
+
+Questões estratégicas .............................................................................................................................................. 15
+
+Questionário de revisão e aperfeiçoamento..................................................................................................... 21
+
+   Perguntas .................................................................................................................................................................................. 21
+
+   Perguntas com respostas .................................................................................................................................................... 22
+
+Lista de Questões Estratégicas ............................................................................................................................. 24
+
+   Gabarito ..................................................................................................................................................................................... 26
+
+
+
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+              www.estrategiaconcursos.com.br
+
+                                                                         https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+Foram analisadas cerca de 60 questões objetivas sobre Regimes Aduaneiros Especiais, abrangendo
+principalmente provas da Receita Federal (cargos de Auditor-Fiscal e Analista-Tributário) aplicadas pelas
+bancas FGV e ESAF, entre 2015 e 2025.
+
+            Assunto                                     Subassunto                        Incidência (%)
+
+      Regimes Atípicos         Entreposto, RECOF, Exportação Temporária, Lojas Francas        25%
+
+    Admissão Temporária                          Conceito e Generalidades                      9%
+
+                                           Requisitos para a Concessão do Regime               7%
+
+                                                 Descumprimento do Regime                      7%
+
+                                                   Aperfeiçoamento Ativo                       3%
+
+                                               Prazo de Concessão do Regime                    2%
+
+                                                   Convenção de Istambul                       2%
+
+                                                    Extinção do Regime                         1%
+
+            Drawback                                  Conceitos Iniciais                       8%
+
+                                        Aplicação do Regime Aduaneiro Especial                 8%
+
+                                                     ICMS e Drawback                           2%
+
+                                                    Extinção do Regime                         1%
+
+     Trânsito Aduaneiro                           Conceito e Modalidades                       6%
+
+                                           Avaria e Extravio no Trânsito Aduaneiro             6%
+
+                                                  Beneficiários do Regime                      3%
+
+                                               Garantias e Responsabilidades                   3%
+
+                                               Autorização para o Transporte                   1%
+
+                                                  Despacho para Trânsito                       1%
+
+                                             Interrupção e Conclusão do Trânsito              <1%
+
+      Aspectos Comuns              Aspectos comuns aos regimes aduaneiros especiais            5%
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                           2
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao
+mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+1 - Introdução
+
+Quando uma mercadoria entra no país, ela pode seguir três caminhos: regime comum, regimes aduaneiros
+especiaisou regimes aplicados em áreas especiais. No regime comum há nacionalização e despacho para
+consumo com recolhimento integral dos tributos. Nos regimes especiais, a regra é a suspensão da exigibilidade
+dos tributos. Já os regimes em áreas especiais promovem desenvolvimento regional.
+
+Bens com isenção ou imunidade que entram de forma definitiva também passam por despacho para consumo,
+portanto continuam no regime comum. Em regimes especiais, a admissão é formalizada por despacho para
+admissão; exceção: drawback, cujo despacho é para consumo. Na ZFM, há admissão com isenção e, sem
+isenção, despacho para consumo. Internação ocorre quando se internaliza bem vindo da ZFM.
+
+1.1 – Aspectos comuns aos regimes aduaneiros especiais
+
+A suspensão de tributos tem prazo certo: regra de até 1 ano, prorrogável até 5 anos por ato discricionário;
+em casos excepcionais e justificados, pode ultrapassar 5 anos. Se houver contrato de prestação de serviços
+por prazo certo de relevante interesse nacional, o prazo do regime acompanha o prazo contratual.
+
+O fato gerador ocorre na admissão no regime, mas a exigibilidade fica suspensa sob condição resolutória: se
+descumpridas as exigências, os tributos tornam-se exigíveis. As obrigações ficam constituídas em Termo de
+Responsabilidade (TR); só entreposto aduaneiro e RECOF dispensam TR. Pode-se exigir garantia: depósito,
+fiança idônea ou seguro aduaneiro.
+
+Descumprido o regime, a RFB intima o responsável para defesa em 10 dias; mantida a exigência, pode haver
+conversão do depósito em renda ou intimação para pagar em 30 dias. Não pago, o crédito vai à Procuradoria
+para inscrição em Dívida Ativa. Juros e multa contam da data do registro da declaração de admissão.
+
+É possível transferir mercadoria de um regime para outro, total ou parcialmente, com ou sem mudança de
+beneficiário, observadas as condições do novo regime. Em certas mudanças de beneficiário, a RFB pode fixar
+como termo inicial de juros e multa a data da transferência.
+
+Pegadinha de prova: suspensão não é isenção; entreposto e RECOF são exceções ao TR; transferência de
+regime é, em regra, para operações sem cobertura cambial.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                           3
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+2 - Trânsito Aduaneiro
+
+2.1 - Conceito e modalidades de Trânsito Aduaneiro
+
+O trânsito aduaneiro é o regime que permite transportar mercadoria, sob controle aduaneiro, de um ponto a
+outro do território nacional, com suspensão do pagamento de tributos. O regime subsiste do desembaraço
+para trânsito (URF de origem) até a conclusão (URF de destino).
+
+Modalidades principais (art. 318):
+
+
+                     Modalidade                               Ideia central                  Observação
+
+
+      Importação (ponto de descarga → outro                    Trânsito de          Chegada do exterior até
+                   despacho).                                 importação.          destino para novo despacho.
+
+
+                                                                                           Para embarque ou
+ Exportação (mercadoria nacional/nacionalizada;               Trânsito de
+                                                                                          armazenamento para
+            verificada/Desp. Export.).                        exportação.
+                                                                                              embarque.
+
+
+       Reexportação (mercadoria estrangeira                   Trânsito de                  Para embarque ou
+         despachada para reexportação).                       exportação.                   armazenamento.
+
+
+      Interno (recintos alfandegados na zona                                         Entre recintos em território
+                                                            Trânsito interno.
+                     secundária).                                                             nacional.
+
+
+  Passagem (mercadoria que apenas atravessa o                    Trânsito           Declarado em conhecimento,
+                    país).                                    internacional.         manifesto ou equivalente.
+
+
+  Veículo em viagem internacional até o ponto da               Trânsito de        Transporte pelo território até o
+                   descarga.                                  importação.               local da descarga.
+
+
+     Veículo destinado ao exterior conduzindo                 Trânsito de
+                                                                                 Transporte interno rumo à saída.
+      mercadoria (reexportação/exportação).                   exportação.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                                     4
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+2.2 - Beneficiários do Regime
+
+Beneficiários: importador/consignatário (importação), exportador (exportação), depositante (interno),
+representante no País do exportador/importador estrangeiro (internacional) e, em qualquer caso, depositário
+de recinto (exceto no internacional), OTM, transportador habilitado e agente de unitização/desunitização.
+
+2.3 - Autorização para o transporte
+
+Transportadores devem estar habilitados perante a RFB com TRTA. A habilitação considera aspectos fiscais,
+conveniência administrativa, situação econômico-financeira e tradição da empresa; é precária e pode ser
+revogada. Dispensa de habilitação: empresas públicas e sociedades de economia mista de transporte; demais
+beneficiários, quando usam veículos próprios.
+
+2.4 - Despacho para Trânsito
+
+O pedido é feito via SISCOMEX-Trânsito com declaração (DTA, MIC-DTA, TIF-DTA, DTT, DTC). Condições para
+registrar: chegada e disponibilidade da carga no sistema, dados completos, garantia suficiente na conta de
+garantia e habilitação regular do transportador. Remoção na mesma zona primária independe de despacho.
+
+A seleção pode ir para canal verde (desembaraço automático) ou vermelho (exame documental e conferência
+física). A URF de origem concede o regime; a de destino pode conferir a carga na conclusão. A conferência
+verifica beneficiário, mercadoria, quantificação, liberações de outros órgãos e segurança do veículo.
+
+A autoridade fixa rota, prazos e cautelas fiscais.
+
+Cautelas possíveis: lacração, sinetagem, cintagem, marcação, monitoramento remoto e, excepcionalmente,
+acompanhamento fiscal. Dispositivos de segurança só podem ser rompidos na presença da fiscalização.
+Indeferido o regime, cabe recurso em 10 dias ao titular da URF de origem.
+
+Fluxo resumido do despacho para trânsito:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         5
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+Pegadinhas de prova:
+
+   •   OEA facilita garantias, mas não é condição para registrar DTA.
+   •   Transporte multimodal: uma única concessão vale para todos os percursos no território nacional.
+
+2.5 - Garantias e Responsabilidades
+
+As obrigações suspensas ficam no TRTA, válido por 3 anos e firmado pelo transportador. Exige-se garantia:
+depósito, fiança ou seguro; pode haver dispensa para transportador com patrimônio líquido > R$
+2.000.000,00 ou OEA. O transportador tem responsabilidade exclusiva pelas mercadorias durante o trânsito.
+Não apresentada a mercadoria no destino no prazo e forma, aplica-se o TR e os tributos vigentes na data da
+assinatura do TR com acréscimos.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         6
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+2.6 - Interrupção e Conclusão do Trânsito
+
+“Art. 340. O trânsito poderá ser interrompido pelos seguintes motivos: I ocorrência de eventos extraordinários…;
+II eventos com avaria ou extravio; III eventos que impeçam o prosseguimento; IV embargo por autoridade; V
+rompimento de dispositivo de segurança; VI outras circunstâncias alheias à vontade do transportador.” O
+transportador deve comunicar imediatamente à unidade que jurisdiciona o local do veículo. A autoridade pode
+determinar interrupção por denúncia, suspeita ou conveniência da fiscalização. Na conclusão, a URF de destino
+verifica documentos, dispositivos e integridade, e dá baixa no TR.
+
+2.7 - Avaria e Extravio no Trânsito Aduaneiro
+
+Há lançamento de ofício via auto de infração no extravio, exigindo tributos e multas. Em avaria, pode haver
+redução do valor aduaneiro proporcional ao prejuízo, cobrando-se a diferença. Constatado no local de origem
+ou no percurso, pode-se permitir o prosseguimento após quantificar a diferença e adotar cautelas; o
+lançamento pode ser dispensado se o beneficiário assumir espontaneamente o pagamento.
+
+
+
+
+3 - Admissão Temporária
+
+3.1 - Conceito e Generalidades
+
+A admissão temporária permite a importação de bens por prazo fixado, com suspensão total dos tributos ou
+suspensão parcial quando houver utilização econômica. Em utilização econômica, recolhe-se 1% ao mês sobre
+o montante dos tributos originalmente devidos, proporcional ao período de permanência; o saldo permanece
+suspenso no TR. Na nacionalização posterior, abatem-se os valores já pagos.
+
+Quadro-síntese: admissão temporária
+
+
+     Aspecto                     Suspensão total                     Suspensão parcial (utilização econômica)
+
+
+    Finalidade             Exposição, feiras, eventos,           Prestação de serviços a terceiros, produção de
+       típica                 competições, shows.                          bens destinados à venda.
+
+
+                                                                    Recolhimento de 1%/mês sobre os tributos
+     Tributos                  Suspensão integral.
+                                                                            devidos; saldo suspenso.
+
+
+                        Dispensável nas hipóteses da IN
+     Garantia                                                              Exigida, salvo dispensa legal.
+                            quando suspensão total.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                                  7
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+                     Recolhe o total devido, deduzindo o
+ Nacionalização                                                                           Idem.
+                                que foi pago.
+
+
+3.2 - Requisitos para a concessão do regime
+
+Condições cumulativas: temporariedade comprovada; importação sem cobertura cambial; adequação do bem
+à finalidade prevista. Leasing operacional comporta o regime; leasing financeiro não. Veículos usados em
+transporte internacional são automaticamente submetidos ao regime, dispensada a DI. Exige-se TR e, como
+regra, garantia; há dispensa quando há suspensão total. O bem deve ser identificável e o mesmo que
+retornará ao exterior.
+
+Para utilização econômica, aplica-se o mesmo tratamento administrativo da importação definitiva, salvo
+exceções da SECEX. Pedido indeferido: o importador é intimado para, em 10 dias, indicar nova destinação
+ou recorrer.
+
+Pegadinhas de prova:
+
+   •   Doação é sem cobertura cambial, mas não admite admissão temporária por ter ânimo de
+       definitividade.
+   •   Em Carnê ATA, não se aplica a lógica de utilização econômica com 1%/mês.
+
+3.3 - Prazo de concessão do regime
+
+O prazo conta do desembaraço, fixado inicialmente em até 1 ano, prorrogável até 5 anos. Pode ser fixado,
+desde logo, entre 1 e 5 anos para acompanhar contrato que ampara a importação. Em caráter excepcional,
+admite-se prorrogação além de 5 anos, conforme hipóteses normativas. Na utilização econômica, o prazo
+máximo é de 100 meses.
+
+3.4 - Extinção do regime
+
+Formas clássicas: reexportação; entrega à Fazenda Nacional (sem cobrança dos suspensos); destruição sob
+controle aduaneiro (resíduos economicamente utilizáveis: consumo ou reexportação); transferência para outro
+regime; despacho para consumo com recolhimento dos tributos suspensos, observadas as exigências legais e o
+controle administrativo. Pode haver restrição à nacionalização se houver licença vedada/suspensa.
+
+Há hipótese especial: extinção por exportação de produto equivalente quando a admissão foi para
+substituição em garantia ou reparo/revisão/manutenção/renovação/recondicionamento.
+
+3.5 - Descumprimento do regime de admissão temporária
+
+Ocorrências típicas: expiração do prazo sem extinção ou prorrogação; pedido de prorrogação indeferido e
+não iniciada a reexportação em 30 dias; reexportação de bem diverso; uso em finalidade diversa; destruição
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         8
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+por culpa/dolo do beneficiário. Consequência: exigibilidade do crédito do TR e multa de 10% do valor
+aduaneiro.
+
+3.6 – Admissão Temporária para Aperfeiçoamento Ativo
+
+Permite o ingresso, com suspensão de tributos, de mercadorias estrangeiras ou desnacionalizadas para
+aperfeiçoamento ativo e posterior reexportação. Consideram-se: beneficiamento, montagem, renovação,
+recondicionamento, acondicionamento/reacondicionamento, bem como conserto, reparo ou restauração.
+Transformação não se admite, pois conferiria nova individualidade.
+
+Condições: bem de propriedade de pessoa no exterior; sem cobertura cambial; beneficiário pessoa jurídica
+sediada no País; contrato de prestação de serviços. Aplicam-se, no que couber, as regras gerais da admissão
+temporária.
+
+3.7 – Convenção de Istambul
+
+O Carnê ATA é título de admissão temporária emitido por entidade indicada pelo Estado de procedência,
+com valor de declaração aduaneira e que oferece garantia internacional. No Brasil, a emissora/garantidora
+é a CNI; o prazo de validade é de até 1 ano. Observação atual: novas operações com Carnê ATA não estão
+sendo admitidas por ausência de associação garantidora.
+
+Fluxo resumido da admissão temporária:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         9
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+4 - Drawback
+
+4.1 - Conceitos iniciais
+
+O drawback é incentivo à exportação que desonera insumos empregados ou consumidos na industrialização
+de bens exportados. Modalidades: suspensão, isenção (reposição) e restituição. Suspensão e isenção são
+concedidas pela SECEX; restituição, pela RFB. Na isenção, repõe-se o estoque dos insumos na mesma
+espécie/qualidade/quantidade dos usados no produto exportado, admitindo-se equivalência tecnológica.
+
+4.2 - Aplicação do regime aduaneiro especial de drawback
+
+Na suspensão, podem ser suspensos II, IPI, PIS-Importação, COFINS-Importação; na isenção, há isenção de II e
+alíquota zero de IPI, PIS-Importação e COFINS-Importação para mercadoria equivalente à empregada na
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         10
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+produção exportada. O conceito de industrialização abrange operações que modificam natureza,
+funcionamento, acabamento, apresentação ou finalidade, ou aperfeiçoam o produto. A desoneração também
+alcança aquisições no mercado interno.
+
+Não se aplica a: energia elétrica/térmica e a bens do ativo imobilizado usados na produção. Vedado ainda
+quando o produto se destinar ao consumo na ZFM/ALCs e nas aquisições internas de fornecedores optantes
+do Simples Nacional.
+
+4.3 – Regimes Atípicos
+
+Há duas variantes: drawback para embarcações (insumos desonerados para fabricar embarcação fornecida
+no mercado interno) e drawback para fornecimento no mercado interno decorrente de licitações, em projetos
+financiados por IFIs, entidades governamentais estrangeiras ou BNDES com recursos externos.
+
+4.4 - Extinção do regime
+
+Na suspensão, o beneficiário assume compromisso de exportação a ser cumprido dentro da validade do Ato
+Concessório (regra: 1 ano, uma prorrogação por igual período; longos ciclos: até 5 anos). A extinção se dá
+pela liquidação do compromisso com a exportação do produto nas quantidades, valores e prazos.
+
+Foi introduzida a fungibilidade: insumos importados/adquiridos com drawback podem ser substituídos por
+equivalentes para cumprir o compromisso, desde que mesma NCM, mesmas funções, mesmos materiais, preços
+equivalentes e mesmas especificações.
+
+Se a exportação não ocorrer em até 30 dias após o prazo, há quatro saídas: devolução ao exterior; destruição
+sob controle; destinação para consumo das mercadorias remanescentes (a única com recolhimento dos tributos
+suspensos e acréscimos); entrega à Fazenda Nacional.
+
+4.5 - ICMS e drawback
+
+Pelo Convênio ICMS 27/90, o ICMS é isento nas importações sob drawback suspensão para insumos aplicados
+em produto a exportar. A isenção não alcança o drawback isenção; tampouco atinge compras no mercado
+interno, seja na suspensão, seja na isenção. Ponto de atenção: esse é tema recorrente e costuma gerar erro
+por extrapolação do benefício do ICMS.
+
+Quadro comparativo final
+
+
+        Tema                               Pontos-chave                             Armadilhas de prova
+
+
+                          Suspensão de tributos; prazo certo; TR e           Confundir suspensão com isenção;
+  Regimes especiais
+                           possível garantia; transferência entre          esquecer exceções ao TR (entreposto,
+    (visão geral).
+                                         regimes.                                        RECOF).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                              11
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+                           Modalidades; URF origem concede e URF            Exigir OEA para registrar DTA; achar
+                                destinoconclui; cautelas fiscais;             que sempre precisa despacho na
+ Trânsito aduaneiro.
+                           responsabilidade do transportador; TRTA             mesma zona primária; confundir
+                                         e garantias.                           beneficiário por modalidade.
+
+
+                           Total x parcial (1%/mês); sem cobertura
+                                                                              Admitir doações; confundir leasing
+        Admissão           cambial; prazos (até 5 anos, excepcional
+                                                                              financeirocom operacional; aplicar
+       temporária.         >5); extinção variada; multa 10% VA no
+                                                                                    1%/mês a Carnê ATA.
+                                       descumprimento.
+
+
+    Admissão p/            Industrialização sem transformação; bem
+                                                                             Inverter com exportação temporária
+  aperfeiçoamento                 volta modificado, mas mesma
+                                                                                para aperfeiçoamento passivo.
+       ativo.                individualidade; requisitos contratuais.
+
+
+                           Carnê ATA como declaração e garantia
+    Convenção de                                                             Confundir Carnê ATA com utilização
+                            internacional; validade até 1 ano; no
+      Istambul.                                                                         econômica.
+                           momento, sem novas operações no Brasil.
+
+
+                               Modalidades; competência: SECEX
+                                                                               Achar que o despacho é para
+                            (suspensão/isenção) e RFB (restituição);
+       Drawback.                                                            admissão; no drawback, o despacho é
+                                fungibilidade; hipóteses de não
+                                                                                       para consumo.
+                               aplicação; ICMS só na suspensão.
+
+
+Dicas finais de retenção
+
+   •    Regra de ouro: regimes especiais suspendem tributos; prova adora cobrar prazos e responsabilidades.
+   •    1%/mês é a cifra para utilização econômica na admissão temporária; prazo máximo 100 meses.
+   •    Transporte multimodal: uma concessão vale para todo o percurso interno.
+   •    Drawback x ICMS: só suspensão; isenção não pega ICMS e compras internas não estão desoneradas.
+
+
+                                     APOSTA ESTRATÉGICA
+
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em
+prova, considerando o histórico de questões da banca em provas de nível semelhante à nossa, bem como as
+inovações no conteúdo, na legislação e nos entendimentos doutrinários e jurisprudenciais.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+         www.estrategiaconcursos.com.br
+                                                                                                                   12
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+
+Dentre os temas desta aula, destacam-se os Regimes Aduaneiros Especiais e Atípicos, que concentram cerca
+de 75% das questões. Os mais cobrados são Admissão Temporária (sem cobertura cambial e com tributação
+proporcional de 1% ao mês), Trânsito Aduaneiro (extravio e avaria), Drawback (suspensão, isenção e
+restituição) e Exportação Temporária. Entre os regimes atípicos, sobressaem Lojas Francas de
+Fronteira, Entreposto Aduaneiro e RECOF, exigindo domínio das regras de suspensão e transferência entre
+regimes. Vamos aos principais pontos sobre esses temas:
+
+Admissão Temporária – cobertura cambial (pegadinha recorrente)
+
+• Regra nuclear: exige inexistência de cobertura cambial. Significa que o bem não foi comprado; não houve
+pagamento ao exportador. Compra indica ânimo de definitividade, incompatível com o regime.
+
+• Cuidado: doações também são sem cobertura cambial, porém não justificam admissão temporária porque
+revelam permanência definitiva do bem no país.
+
+• Arrendamento: leasing operacional admite o regime por ter temporariedade; leasing financeiro é tratado
+como importação comum, com ânimo de definitividade.
+
+Admissão Temporária para Utilização Econômica – tributação proporcional
+
+• Nos casos de utilização econômica, os tributos federais são pagos proporcionalmente ao tempo de
+permanência: 1% ao mês sobre o montante dos tributos originalmente devidos durante o prazo concedido.
+
+• Saldo: o restante permanece suspenso em Termo de Responsabilidade; se houver despacho para
+consumo, deduz-se o que já foi pago.
+
+Trânsito Aduaneiro – avaria e extravio
+
+• Responsabilidade do transportador quando há substituição após embarque, extravio com indícios de
+violação ou descarga com peso/dimensão inferior ao declarado.
+
+• Extravio: a autoridade procede a lançamento de ofício, exigindo tributos e demais direitos; pode ser
+dispensado se o beneficiário assumir espontaneamente os créditos decorrentes.
+
+• Avaria: admite-se redução do valor aduaneiro, proporcional ao prejuízo, com cobrança dos tributos sobre
+a diferença.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                      13
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+• Pegadinha: constatado o dano ou extravio na origem ou no percurso, a autoridade pode autorizar o
+prosseguimento do trânsito até o destino, após apurar a quantidade extraviada, adotando as cautelas
+cabíveis.
+
+Drawback – modalidades essenciais
+
+Base legal central
+
+“Art. 383. O regime de drawback é considerado incentivo à exportação, e pode ser aplicado nas seguintes
+modalidades: I - suspensão – permite a suspensão do pagamento do II, IPI, PIS/Pasep, Cofins,
+PIS/Pasep-Importação e Cofins-Importação; II - isenção – permite a isenção do II e a redução a zero do IPI,
+PIS/Pasep, Cofins, PIS/Pasep-Importação e Cofins-Importação, na importação de mercadoria equivalente à
+empregada na industrialização de produto exportado; III - restituição – permite a restituição, total ou
+parcial, dos tributos pagos na importação de mercadoria exportada após beneficiamento, ou utilizada na
+fabricação, complementação ou acondicionamento de outra exportada.”
+
+
+ Modalidade              Essência do benefício.                              Quando se aplica.
+
+
+                Suspende II, IPI, PIS/Pasep e Cofins       Importar insumos que serão aplicados na produção
+ Suspensão.
+                    vinculados à importação.                             de bem a exportar.
+
+
+                                                               Reposição de estoque: importar insumos
+                     Isenta II e zera IPI, PIS/Pasep e
+   Isenção.                                                   equivalentes aos já empregados em produto
+                                  Cofins.
+                                                                              exportado.
+
+
+                       Devolve tributos pagos na           Quando o insumo já importado foi empregado em
+ Restituição.
+                             importação.                                  bem exportado.
+
+
+Lojas Francas de Fronteira
+
+• Trata-se de regime aduaneiro especial de loja franca aplicado em fronteira terrestre.
+
+• Ponto cobrado: é exceção à regra geral que limita a transferência entre regimes apenas a operações sem
+cobertura cambial e a título não definitivo. Admite-se a transferência de mercadorias da loja franca de
+fronteira para outro regime especial ou aplicado em área especial, observados os requisitos do regime de
+destino.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                           14
+                                      https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+Exportação Temporária – noções e vínculo com o passivo
+
+• É o espelho da admissão temporária no fluxo de saída: bens nacionais ou nacionalizados saem
+temporariamente e devem retornar dentro do prazo.
+
+• Aperfeiçoamento passivo: quando o bem sai para conserto, beneficiamento ou transformação no exterior
+com retorno ao país, o regime é o de exportação temporária, não o de admissão temporária.
+
+• Atenção: itens de prova exploram confusão entre aperfeiçoamento ativo (na admissão temporária) e
+passivo (na exportação temporária).
+
+Entreposto Aduaneiro e RECOF – suspensão com armazenagem/industrialização
+
+• Entreposto aduaneiro: permite armazenar mercadoria importada, em recinto alfandegado, com
+suspensão de tributos enquanto se aguarda a destinação.
+
+• RECOF: entreposto industrial sob controle informatizado. Destaca-se que não se exige Termo de
+Responsabilidade para este regime, ao contrário da maioria dos regimes suspensivos; além disso, figura
+como exceçãonas regras de transferência entre regimes.
+
+• Uso em prova: reconhecer, em alternativas, descrições de armazenagem com suspensão como
+entreposto; menção a controle informatizado ou dispensa de TR remete ao RECOF.
+
+Resumo de pegadinhas
+
+• Admissão temporária nunca com cobertura cambial; doação não autoriza o regime.
+
+• Utilização econômica: 1% ao mês sobre o montante originalmente devido.
+
+• Trânsito com sinistro: pode prosseguir após apuração, com cautelas; extravio gera lançamento de ofício.
+
+• Drawback: identificar suspensão, isenção e restituição conforme a lógica do momento do benefício.
+
+• Loja franca de fronteira: lembrar da exceção de transferência entre regimes.
+
+• Exportação temporária: aperfeiçoamento passivo é dela, não da admissão temporária.
+
+
+                                QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar para a sua
+prova e que, em conjunto, abordam os principais pontos do assunto.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                       15
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas que você
+faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+1. (AFRFB - 2023) Os Regimes Aduaneiros Especiais se caracterizam
+
+a) pela suspensão do Imposto de Importação, do IPI, do ICMS, do PIS-Importação e da Cofins-Importação.
+
+b) pela dispensa total e definitiva de todos os tributos devidos, seja na importação, seja na exportação.
+
+c) em regra, pela suspensão dos tributos, pelo prazo previsto em lei e pela finalidade econômica do bem.
+
+d) pela suspensão de tributos, que se converte em isenção após cumpridas as condições previstas em lei.
+
+e) pela isenção total dos tributos federais, estaduais e municipais, conforme convênio CONFAZ.
+
+Comentários:
+
+Alternativa A: ERRADA. A regra dos regimes aduaneiros especiais é a suspensão (e não a isenção) dos tributos
+federais incidentes (II, IPI, PIS-Importação e Cofins-Importação), conforme o Regulamento Aduaneiro
+(Decreto nº 6.759/2009). A extensão ao ICMS depende de deliberação dos Estados por convênio no âmbito
+do CONFAZ, nos termos do art. 155, § 2º, XII, g, da CF/88, e da Lei Complementar nº 24/1975 (art. 1º).
+
+Alternativa B: ERRADA. Regimes aduaneiros especiais não se caracterizam, em regra, por dispensa total e
+definitivade tributos (isenção). Predomina a suspensão da exigência tributária enquanto cumpridas as
+condições do regime, com eventual exigência dos tributos na hipótese de descaracterização/encerramento
+inadequado (Decreto nº 6.759/2009 – Título III, Dos Regimes Aduaneiros Especiais).
+
+Alternativa C: CERTA. Em regra, os regimes aduaneiros especiais operam com suspensão de tributos, por
+prazo e condições definidos em lei/instrução normativa, e são selecionados conforme a finalidade
+econômica do bem (p. ex., admissão temporária para utilização econômica – art. 373 do Decreto nº
+6.759/2009; entreposto aduaneiro; drawback, etc.).
+
+Alternativa D: ERRADA. Suspensão não “se converte” automaticamente em isenção após o cumprimento de
+condições. Exemplo: no entreposto aduaneiro, se o beneficiário optar por encerrar o regime mediante
+despacho para consumo, haverá o recolhimento integral dos tributos (art. 409, I, do Decreto nº 6.759/2009).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                            16
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+Alternativa E: ERRADA. Não há “isenção total” como regra; trata-se de suspensão de tributos federais. Além
+disso, o CONFAZ delibera apenas sobre ICMS (tributo estadual), nos termos da LC nº 24/1975; não tem
+competência sobre tributos municipais.
+
+Gabarito: Letra C.
+
+
+
+
+2. (ATRFB - 2023) Sociedade empresária holandesa com sucursal no Brasil importa draga e acessórios
+próprios para a prestação de serviços de desobstrução do canal de acesso ao porto de Paranaguá. Os
+equipamentos devem retornar ao exterior tão logo termine o prazo concedido para sua permanência no
+território nacional. A esse respeito, assinale a afirmativa correta.
+
+a) A draga e seus acessórios estarão sujeitos ao pagamento proporcional do Imposto de Importação
+mediante fórmula específica que leva em consideração o tempo de permanência no país e o grau de
+depreciação do bem.
+
+b) Tais bens são isentos do Imposto de Importação, tendo em vista que prestarão serviço relativo à
+infraestrutura de transporte, sujeitando-se, no entanto, ao recolhimento do IPI vinculado, por se tratar de
+produto industrializado.
+
+c) A draga e seus acessórios estão isentos do pagamento de tributos, devendo permanecer no país pelo prazo
+mínimo de 1 (um) ano e máximo de 5 (cinco) anos e não podem prestar outros serviços diferentes do que foi
+autorizado.
+
+d) A sociedade empresária beneficiária deve recolher o Imposto de Importação proporcional ao tempo de
+permanência dos equipamentos no país, à razão de 1% (um por cento) ao mês, sob o regime aduaneiro
+especial de admissão temporária para utilização econômica.
+
+e) Em hipótese alguma, a sociedade empresária beneficiária do regime aduaneiro especial poderá transferir
+esse benefício para outra empresa, tendo em vista o fato de se tratar de sociedade empresária estrangeira
+prestando serviço no Brasil.
+
+Comentários:
+
+Alternativa A: ERRADA. O caso é de Admissão Temporária para Utilização Econômica (REATUE), em que os
+tributos incidem proporcionalmente ao tempo de permanência, sem considerar depreciação. O RA
+disciplina o regime e sua proporcionalidade (art. 373 do Decreto nº 6.759/2009).
+
+Alternativa B: ERRADA. Não há isenção do II nessa hipótese; no REATUE há recolhimento proporcional dos
+tributos enquanto o bem permanece no País (art. 373 do Decreto nº 6.759/2009).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                        17
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+Alternativa C: ERRADA. Não existe isenção geral nem prazos “mínimo de 1 ano e máximo de 5 anos” como
+regra do regime; aplica-se o REATUE, com prazos e condições fixados no ato concessório e na IN RFB nº
+1.600/2015 (regulamentação infralegal).
+
+Alternativa D: CERTA. Na Admissão Temporária para Utilização Econômica, os tributos são recolhidos de
+forma proporcional ao tempo de permanência, calculados à razão de 1% ao mês, até o limite devido se
+houvesse despacho para consumo (art. 373 do Decreto nº 6.759/2009; IN RFB nº 1.600/2015).
+
+Alternativa E: ERRADA. É possível a substituição do beneficiário do regime, desde que observados os
+requisitos formais e materiais (IN RFB nº 1.600/2015, art. 69).
+
+Gabarito: Letra D.
+
+
+
+
+3. (AFRFB - 2023) Uma filial de sociedade empresária estrangeira estabelecida no Brasil pretende importar
+máquinas e equipamentos com o objetivo de participar, em consórcio com sociedade empresária
+brasileira, de obras de infraestrutura no país. Tais bens deverão retornar ao exterior após a realização dos
+trabalhos. Nesse caso, trata-se de importação sob o regime aduaneiro
+
+a) geral de importação, pois equivale ao despacho para consumo.
+
+b) especial de admissão temporária para aperfeiçoamento ativo.
+
+c) especial de admissão temporária para aperfeiçoamento passivo.
+
+d) geral de importação, já que os bens prestarão serviços no país.
+
+e) especial de admissão temporária para utilização econômica.
+
+Comentários:
+
+Alternativa A: ERRADA. Não se trata de aquisição definitiva com despacho para consumo; os bens
+retornarão ao exterior após a obra.
+
+Alternativa B: ERRADA. Aperfeiçoamento ativo pressupõe emprego do bem em processo de
+industrialização, conserto, reparo ou restauração no País, o que não ocorre no enunciado.
+
+Alternativa C: ERRADA. Aperfeiçoamento passivo é instituto da exportação temporária, não da admissão
+temporária.
+
+Alternativa D: ERRADA. O fato de os bens prestarem serviço no País não os torna “regime geral”; como
+retornarão, aplica-se regime especial.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         18
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+Alternativa E: CERTA. A hipótese é de Admissão Temporária para Utilização Econômica (REATUE), com
+recolhimento proporcional enquanto utilizados em obras e retorno ao exterior ao final (art. 373 do Decreto
+nº 6.759/2009; IN RFB nº 1.600/2015).
+
+Gabarito: Letra E.
+
+
+
+
+4. (ATRFB - 2023) Nos termos do que dispõe o Decreto-Lei nº 37/1966, e o Regulamento Aduaneiro
+aprovado pelo Decreto nº 6.759/2009, são três as modalidades clássicas de drawback, a saber, suspensão,
+isenção e restituição. Em relação ao tema, assinale a afirmativa correta.
+
+a) As modalidades suspensão e restituição são autorizadas pela Receita Federal do Brasil mediante a emissão
+de Ato Concessório.
+
+b) As modalidades suspensão e isenção são autorizadas pela Secretaria de Comércio Exterior, mediante a
+emissão de Ato Concessório.
+
+c) A modalidade restituição, também chamada de reposição de estoque, é a que mais se aproxima do
+conceito internacional de drawback.
+
+d) A modalidade suspensão permite a reposição do estoque do importador na mesma quantidade dos bens
+utilizados.
+
+e) Por disposição legal, e com o fim de proteger a indústria nacional, todas as modalidades de drawback são
+autorizadas pela Receita Federal.
+
+Comentários:
+
+Alternativa A: ERRADA. A Receita Federal atua, tradicionalmente, na modalidade restituição; já as
+modalidades suspensão e isenção são concedidas pela SECEX mediante Ato Concessório (art. 78 do
+Decreto-Lei nº 37/1966; Decreto nº 6.759/2009 – capítulo do drawback; regulamentação da SECEX).
+
+Alternativa B: CERTA. Drawback suspensão e isenção são concedidos pela Secretaria de Comércio Exterior
+(SECEX) por Ato Concessório (art. 78 do Decreto-Lei nº 37/1966; Decreto nº 6.759/2009; normas da SECEX
+sobre drawback).
+
+Alternativa C: ERRADA. A chamada reposição de estoque corresponde à modalidade isenção, não à
+restituição (conforme a sistemática do art. 78 do DL nº 37/1966 e regulamentação do RA).
+
+Alternativa D: ERRADA. Reposição de estoque (na mesma quantidade dos insumos efetivamente
+empregados) é característica do drawback isenção; a suspensão condiciona a importação/vinculação ao
+compromisso de exportar.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                        19
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+Alternativa E: ERRADA. Não é a RFB que autoriza “todas” as modalidades; como visto, suspensão e isenção
+são de competência da SECEX, enquanto a restituição é tratada pela RFB (art. 78 do DL nº 37/1966;
+RA/Decreto nº 6.759/2009).
+
+Gabarito: Letra B.
+
+
+
+
+5. (AFRF-2002.2) Determinada mercadoria, acondicionada em um contêiner estrangeiro, chega ao Porto
+de Santos procedente da Zona Franca de Colônia (Uruguai), para ser destinada a uma Estação Aduaneira
+Interior (EADI) em Campinas (SP) em regime de entreposto aduaneiro, em consignação. O regime
+aduaneiro aplicável à mercadoria e ao contêiner pela autoridade aduaneira no Porto de Santos será o de:
+
+a) trânsito aduaneiro para a mercadoria e para o contêiner.
+
+b) trânsito aduaneiro para o contêiner e admissão temporária para a mercadoria até a chegada na EADI.
+
+c) admissão temporária para o contêiner e trânsito aduaneiro para a mercadoria.
+
+d) entreposto aduaneiro para a mercadoria e trânsito aduaneiro para o contêiner.
+
+e) entreposto aduaneiro para a mercadoria e admissão temporária para o contêiner.
+
+Comentários:
+
+Alternativa A: ERRADA. O contêiner (unidade de carga) estrangeiro, que não permanecerá definitivamente
+no País, é usualmente admitido sob Admissão Temporária; já a mercadoria segue para a EADI sob Trânsito
+Aduaneiro (Decreto nº 6.759/2009 – regimes de Admissão Temporária e de Trânsito Aduaneiro).
+
+Alternativa B: ERRADA. Inverte os regimes: a mercadoria não vai em admissão temporária; ela é
+transportada da zona primária (Porto de Santos) à zona secundária (EADI) sob Trânsito Aduaneiro.
+
+Alternativa C: CERTA. Admissão Temporária para o contêiner (bem estrangeiro que retornará ao exterior) e
+Trânsito Aduaneiro para a mercadoria (deslocamento com suspensão tributária até o local onde será
+entrepostada), conforme o sistema do RA (Decreto nº 6.759/2009).
+
+Alternativa D: ERRADA. O entreposto aduaneiro somente se aplica no recinto onde a mercadoria ficará
+armazenada; no porto de entrada, para remover a carga até a EADI, aplica-se Trânsito Aduaneiro para a
+mercadoria e Admissão Temporária para o contêiner.
+
+Alternativa E: ERRADA. O regime de entreposto não se aplica ao contêiner; para este, o regime cabível é a
+Admissão Temporária (Decreto nº 6.759/2009).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                        20
+                                    https://t.me/KakashiAssinaturasBot
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 05
+
+
+
+Gabarito: Letra C.
+
+
+            QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo, proporcionar
+uma outra forma de revisão de pontos importantes do conteúdo, a partir de perguntas que exigem respostas
+subjetivas.
+
+São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua resolução,
+como ocorre nas clássicas questões objetivas.
+
+O objetivo é que você realize uma autoexplicação mental de alguns pontos do conteúdo, para consolidar
+melhor o que aprendeu ;)
+
+Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim, ao resolver
+várias questões objetivas, o candidato acaba memorizando pontos isolados do conteúdo, mas muitas vezes
+acaba não entendendo como esses pontos se conectam.
+
+Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor os diversos
+pontos do conteúdo, na medida do possível.
+
+É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido na sua
+prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar a resolução de
+questões objetivas típicas de concursos, ok?
+
+Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+Vamos ao nosso questionário:
+
+
+Perguntas
+
+1.        O que distingue os regimes aduaneiros especiais do regime comum?
+2.        Qual é o prazo geral de suspensão das obrigações fiscais nos regimes especiais?
+3.      Em importação vinculada a contrato de prestação de serviço por prazo certo e de relevante
+interesse nacional, qual é o prazo do regime especial?
+4.        Ao admitir um bem em regime especial, como ficam fato gerador e exigibilidade dos tributos?
+5.        Para que serve o Termo de Responsabilidade e quando ele é dispensado?
+6.        É possível transferir mercadoria de um regime especial para outro?
+7.        Em que hipótese o ICMS fica isento no drawback?
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+           www.estrategiaconcursos.com.br
+                                                                                                        21
+                                       https://t.me/KakashiAssinaturasBot
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 05
+
+
+
+8.        Qual é a definição do regime de trânsito aduaneiro?
+9.     No transporte multimodal, a concessão do trânsito fora dos pontos de entrada/saída vale para
+todos os percursos no país?
+10.       A remoção entre recintos na mesma zona primária exige despacho para trânsito?
+11.       Quem pode ser beneficiário do trânsito de importação?
+12.       Para registrar uma DTA no Siscomex-Trânsito é preciso ter garantia disponível?
+13.       Quais cautelas fiscais podem ser aplicadas no trânsito aduaneiro?
+14.       Quem responde por extravio, avaria ou alteração da carga durante o trânsito?
+15.       O que é a admissão temporária?
+16.       Como se calcula o pagamento na admissão temporária para utilização econômica?
+17.       A admissão temporária admite importação com cobertura cambial?
+                                                          ==219a34==
+
+
+
+
+18.       Na admissão temporária com suspensão total, a garantia é obrigatória?
+19.       Quais são os prazos típicos da admissão temporária?
+20.       Quais as modalidades de drawback e quem concede cada uma?
+
+
+Perguntas com respostas
+
+1.        O que distingue os regimes aduaneiros especiais do regime comum?
+Suspensão (e, em casos específicos, isenção) dos tributos incidentes; no comum há recolhimento integral com
+despacho para consumo (arts. 307–308, Decreto nº 6.759/2009).
+2.        Qual é o prazo geral de suspensão das obrigações fiscais nos regimes especiais?
+Até 1 ano, prorrogável até 5; excepcionalmente, por ato do Ministério da Fazenda, pode superar 5 anos (arts.
+307–308, Decreto nº 6.759/2009; Portaria MF nº 320/2006).
+3.    Em importação vinculada a contrato de prestação de serviço por prazo certo e de relevante interesse
+nacional, qual é o prazo do regime especial?
+Igual ao prazo do contrato, prorrogável na mesma medida (Decreto nº 6.759/2009).
+4.        Ao admitir um bem em regime especial, como ficam fato gerador e exigibilidade dos tributos?
+O fato gerador ocorre na admissão; a exigibilidade fica suspensa sob condição resolutória (descumprimento
+do regime) (arts. 307–308, Decreto nº 6.759/2009).
+5.        Para que serve o Termo de Responsabilidade e quando ele é dispensado?
+Constitui as obrigações fiscais suspensas; é dispensado no entreposto aduaneiro e no RECOF (art. 760, Decreto
+nº 6.759/2009).
+6.        É possível transferir mercadoria de um regime especial para outro?
+Sim, com autorização da RFB, cumprindo as condições do novo regime; em regra só para operações a título
+não definitivo e sem cobertura cambial (IN RFB nº 1.978/2020).
+7.        Em que hipótese o ICMS fica isento no drawback?
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+           www.estrategiaconcursos.com.br
+                                                                                                          22
+                                       https://t.me/KakashiAssinaturasBot
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 05
+
+
+
+Nas importações sob drawback suspensão; não alcança drawback isenção nem aquisições no mercado interno
+(Convênio ICMS nº 27/1990).
+8.        Qual é a definição do regime de trânsito aduaneiro?
+Transporte, sob controle aduaneiro, de um ponto a outro do território aduaneiro, com suspensão do pagamento
+de tributos (art. 315, Decreto nº 6.759/2009).
+9.     No transporte multimodal, a concessão do trânsito fora dos pontos de entrada/saída vale para
+todos os percursos no país?
+Sim, é válida para todos os percursos, sem novas concessões (art. 325, § 3º, Decreto nº 6.759/2009).
+10.       A remoção entre recintos na mesma zona primária exige despacho para trânsito?
+Não; independe de despacho para trânsito (art. 325, Decreto nº 6.759/2009).
+11.       Quem pode ser beneficiário do trânsito de importação?
+O importador ou o consignatário indicado no conhecimento de carga (art. 321, I, Decreto nº 6.759/2009).
+12.       Para registrar uma DTA no Siscomex-Trânsito é preciso ter garantia disponível?
+Sim; deve haver saldo suficiente na conta de garantia, salvo dispensa (art. 36, IV, IN SRF nº 248/2002).
+13.       Quais cautelas fiscais podem ser aplicadas no trânsito aduaneiro?
+Lacração, sinetagem, cintagem, marcação, monitoramento remoto e acompanhamento fiscal (IN SRF nº
+248/2002).
+14.       Quem responde por extravio, avaria ou alteração da carga durante o trânsito?
+O transportador, inclusive pelos tributos e multas; se não apresentar no destino, aplicam-se os tributos vigentes
+na data da assinatura do TR (arts. 338–339 e 661, Decreto nº 6.759/2009).
+15.       O que é a admissão temporária?
+Regime que permite importar bens por prazo fixado com suspensão total de tributos; na utilização econômica
+a suspensão é parcial (art. 353, Decreto nº 6.759/2009).
+16.       Como se calcula o pagamento na admissão temporária para utilização econômica?
+Aplica-se 1% ao mês sobre o montante dos tributos originalmente devidos, proporcional ao prazo concedido
+(IN RFB nº 1.600/2015).
+17.       A admissão temporária admite importação com cobertura cambial?
+Não; exige importação sem cobertura cambial (art. 358, Decreto nº 6.759/2009).
+18.       Na admissão temporária com suspensão total, a garantia é obrigatória?
+Não; pode ser dispensada quando houver suspensão total dos tributos (art. 364, par. único, Decreto nº
+6.759/2009; art. 12, IN RFB nº 1.600/2015).
+19.       Quais são os prazos típicos da admissão temporária?
+Inicial de até 1 ano, prorrogável até 5; excepcionalmente pode exceder 5; na utilização econômica, prazo
+máximo de 100 meses (IN RFB nº 1.600/2015; Portaria MF nº 320/2006).
+20.       Quais as modalidades de drawback e quem concede cada uma?
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+           www.estrategiaconcursos.com.br
+                                                                                                              23
+                                       https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+Suspensão e isenção (SECEX) e restituição (RFB) (art. 383, Decreto nº 6.759/2009; Portaria SECEX nº
+44/2020).
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+
+1. (AFRFB - 2023) Os Regimes Aduaneiros Especiais se caracterizam
+
+a) pela suspensão do Imposto de Importação, do IPI, do ICMS, do PIS-Importação e da Cofins-Importação.
+
+b) pela dispensa total e definitiva de todos os tributos devidos, seja na importação, seja na exportação.
+
+c) em regra, pela suspensão dos tributos, pelo prazo previsto em lei e pela finalidade econômica do bem.
+
+d) pela suspensão de tributos, que se converte em isenção após cumpridas as condições previstas em lei.
+
+e) pela isenção total dos tributos federais, estaduais e municipais, conforme convênio CONFAZ.
+
+
+
+
+2. (ATRFB - 2023) Sociedade empresária holandesa com sucursal no Brasil importa draga e acessórios
+próprios para a prestação de serviços de desobstrução do canal de acesso ao porto de Paranaguá. Os
+equipamentos devem retornar ao exterior tão logo termine o prazo concedido para sua permanência no
+território nacional. A esse respeito, assinale a afirmativa correta.
+
+a) A draga e seus acessórios estarão sujeitos ao pagamento proporcional do Imposto de Importação
+mediante fórmula específica que leva em consideração o tempo de permanência no país e o grau de
+depreciação do bem.
+
+b) Tais bens são isentos do Imposto de Importação, tendo em vista que prestarão serviço relativo à
+infraestrutura de transporte, sujeitando-se, no entanto, ao recolhimento do IPI vinculado, por se tratar de
+produto industrializado.
+
+c) A draga e seus acessórios estão isentos do pagamento de tributos, devendo permanecer no país pelo prazo
+mínimo de 1 (um) ano e máximo de 5 (cinco) anos e não podem prestar outros serviços diferentes do que foi
+autorizado.
+
+d) A sociedade empresária beneficiária deve recolher o Imposto de Importação proporcional ao tempo de
+permanência dos equipamentos no país, à razão de 1% (um por cento) ao mês, sob o regime aduaneiro
+especial de admissão temporária para utilização econômica.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                            24
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+e) Em hipótese alguma, a sociedade empresária beneficiária do regime aduaneiro especial poderá transferir
+esse benefício para outra empresa, tendo em vista o fato de se tratar de sociedade empresária estrangeira
+prestando serviço no Brasil.
+
+
+
+
+3. (AFRFB - 2023) Uma filial de sociedade empresária estrangeira estabelecida no Brasil pretende importar
+máquinas e equipamentos com o objetivo de participar, em consórcio com sociedade empresária
+brasileira, de obras de infraestrutura no país. Tais bens deverão retornar ao exterior após a realização dos
+trabalhos. Nesse caso, trata-se de importação sob o regime aduaneiro
+
+a) geral de importação, pois equivale ao despacho para consumo.
+
+b) especial de admissão temporária para aperfeiçoamento ativo.
+
+c) especial de admissão temporária para aperfeiçoamento passivo.
+
+d) geral de importação, já que os bens prestarão serviços no país.
+
+e) especial de admissão temporária para utilização econômica.
+
+
+
+
+4. (ATRFB - 2023) Nos termos do que dispõe o Decreto-Lei nº 37/1966, e o Regulamento Aduaneiro
+aprovado pelo Decreto nº 6.759/2009, são três as modalidades clássicas de drawback, a saber, suspensão,
+isenção e restituição. Em relação ao tema, assinale a afirmativa correta.
+
+a) As modalidades suspensão e restituição são autorizadas pela Receita Federal do Brasil mediante a emissão
+de Ato Concessório.
+
+b) As modalidades suspensão e isenção são autorizadas pela Secretaria de Comércio Exterior, mediante a
+emissão de Ato Concessório.
+
+c) A modalidade restituição, também chamada de reposição de estoque, é a que mais se aproxima do
+conceito internacional de drawback.
+
+d) A modalidade suspensão permite a reposição do estoque do importador na mesma quantidade dos bens
+utilizados.
+
+e) Por disposição legal, e com o fim de proteger a indústria nacional, todas as modalidades de drawback são
+autorizadas pela Receita Federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         25
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 05
+
+
+
+5. (AFRF-2002.2) Determinada mercadoria, acondicionada em um contêiner estrangeiro, chega ao Porto
+de Santos procedente da Zona Franca de Colônia (Uruguai), para ser destinada a uma Estação Aduaneira
+Interior (EADI) em Campinas (SP) em regime de entreposto aduaneiro, em consignação. O regime
+aduaneiro aplicável à mercadoria e ao contêiner pela autoridade aduaneira no Porto de Santos será o de:
+
+a) trânsito aduaneiro para a mercadoria e para o contêiner.
+
+b) trânsito aduaneiro para o contêiner e admissão temporária para a mercadoria até a chegada na EADI.
+
+c) admissão temporária para o contêiner e trânsito aduaneiro para a mercadoria.
+
+d) entreposto aduaneiro para a mercadoria e trânsito aduaneiro para o contêiner.
+
+e) entreposto aduaneiro para a mercadoria e admissão temporária para o contêiner.
+
+
+Gabarito
+
+
+
+
+1-C
+2-D
+3-E
+4-B
+5-C
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                        26
+                                    https://t.me/KakashiAssinaturasBot
+

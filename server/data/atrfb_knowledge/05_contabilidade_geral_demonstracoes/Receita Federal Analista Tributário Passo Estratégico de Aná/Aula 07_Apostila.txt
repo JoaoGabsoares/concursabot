@@ -1,0 +1,1117 @@
+                                                    Aula 06
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                        01 de Novembro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 06
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - ADC - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - Indicadores de Liquidez
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - ADC - Parte 2 - FGV
+..............................................................................................................................................................................................6
+
+4) Questões Estratégicas - ADC - Parte 2 - FGV
+..............................................................................................................................................................................................7
+
+5) Questionário de Revisão - Indicadores de Liquidez
+..............................................................................................................................................................................................
+                                                                                                                                                                                            17
+
+6) Lista de Questões Estratégicas - ADC - Parte 2 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            19
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           24
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 06
+
+
+
+
+INTRODUÇÃO (CONCEITO, USUÁRIOS, INTERESSES E TIPOS
+  DE ANÁLISE), ANÁLISE VERTICAL E HORIZONTAL DAS
+DEMONSTRAÇÕES CONTÁBEIS, ÍNDICES DE RENTABILIDADE
+ E LUCRATIVIDADE, EBIT E EBITDA, ECONOMIC VALUE
+           ADED – EVA (LUCRO RESIDUAL)
+
+O que é mais cobrado dentro do assunto?
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a distribuição percentual conforme
+tabela abaixo.
+
+Critérios da amostra de questões: banca FGV; anos 2025 a 2021; concursos de nível superior
+
+Quantidade de questões da amostra: 36
+
+                                                                                          Grau de incidência em
+                                       Assunto                                             concursos similares
+
+                                                                                                     FGV
+              Análise Vertical e Horizontal das Demonstrações Contábeis                            58,33%
+                       Índices de Rentabilidade e Lucratividade                                    38,89%
+                                     EBIT e EBITDA                                                  3,00%
+            Introdução (Conceito, Usuários, Interesses e Tipos de Análise)                         <1,00%
+                     Economic Value Aded – EVA (Lucro Residual)                                    <1,00%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis        3
+        www.estrategiaconcursos.com.br                                                                       24
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 06
+
+
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao
+mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Índices de Liquidez (Índices Financeiros)
+
+1 – Índices de Liquidez (índices Financeiros): Os índices (ou quocientes, ou indicadores) de liquidez indicam
+a capacidade da empresa de pagar suas dívidas. Envolvem principalmente as contas do balanço (ativo
+circulante e ativo realizável a longo prazo, em comparação com o passivo exigível a curto e a longo prazo).
+
+   •   Liquidez corrente
+                                                      ==219a34==
+
+
+
+
+O Índice de Liquidez Corrente (também conhecida como Liquidez Comum) mede a capacidade da empresa
+pagar suas dívidas de curto prazo (passivo circulante) com os recursos de curto prazo (ativo circulante). É
+um índice muito utilizado e considerado como o melhor indicador da situação de liquidez da empresa.
+
+                            Liquidez corrente = Ativo circulante / Passivo circulante
+
+Se a LC da empresa for de 1,2 ou 120%, podemos dizer que a empresa possui R$ 1,20 reais no ativo circulante
+para cada real de dívida, a curto prazo.
+
+   •   Liquidez Seca
+
+O Índice de Liquidez Seca (também conhecida como Acid Test ou Teste Ácido) é mais adequado para as
+empresas que operam com estoques de difícil realização financeira, geralmente em função do alto valor.
+Como exemplo podemos citar as empresas do setor imobiliário, nas quais a venda do estoque costuma ser
+mais lenta.
+
+            Liquidez Seca = (Ativo Circulante – Estoque – despesas antecipadas) / Passivo Circulante
+
+Se a LS da empresa for de 1,2 ou 120%, podemos dizer que a empresa possui R$ 1,20 reais no ativo circulante
+para cada real de dívida, a curto prazo, sem considerar os estoques.
+
+   •   Liquidez Imediata
+
+O Índice de Liquidez Imediata (também conhecida como Liquidez Instantânea) é o mais rigoroso dos índices
+de liquidez. Avalia a capacidade de a empresa pagar suas dívidas de imediato, com os valores que possui
+disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários, aplicações de
+curto prazo etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em dinheiro sem
+alteração significativa do seu valor.
+
+                           Liquidez Imediata = Disponibilidades / Passivo Circulante
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     4
+        www.estrategiaconcursos.com.br                                                                    24
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+Se a LI da empresa for de 1,2 ou 120%, podemos dizer que a empresa possui R$ 1,20 reais em disponibilidades
+para cada real de dívida, a curto prazo.
+
+   •   Liquidez Geral
+
+O Índice de Liquidez Geral (também conhecida como Liquidez Total) Ele indica a capacidade da empresa de
+pagar suas dívidas de curto e longo prazo, usando os recursos do Ativo Circulante e do Ativo Realizável a
+Longo Prazo.
+
+Fique Atento! O ativo não circulante é composto pelo ativo realizável a longo prazo, investimentos,
+imobilizado e intangível. Todavia, apenas o ativo realizável a longo prazo entrará na fórmula da liquidez
+Geral.
+
+Liquidez Geral = (Ativo Circulante + Realizável a longo prazo) / (Passivo circulante + Passivo não circulante)
+
+Se a LG da empresa for de 1,2 ou 120%, podemos dizer que a empresa possui R$ 1,20 reais no Ativo Circulante
+e no Ativo Realizável a Longo Prazo para cada real de dívida do Passivo Exigível (Passivo Circulante + Passivo
+Não Circulante).
+
+2 - A interpretação dos índices de Liquidez é quanto maior melhor.
+
+3 - A liquidez imediata é mais rigorosa do que a liquidez corrente e mais rigorosa do que a liquidez seca. A
+liquidez seca é mais rigorosa que a Liquidez Corrente, pois exclui os estoques (Para alguns autores, também
+exclui as despesas antecipadas). Já a liquidez imediata é o mais rigoroso dos índices de liquidez. Ela considera
+apenas as disponibilidades.
+
+4 - A principal limitação seria não levar em conta o confronto entre prazos de recebimento dos direitos e
+prazo de pagamentos das obrigações.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis      5
+         www.estrategiaconcursos.com.br                                                                      24
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 06
+
+
+
+
+                                    APOSTA ESTRATÉGICA
+A FGV cobra muitas questões sobre índices de liquidez, vale a pena conferir.
+
+– Índices de Liquidez (índices Financeiros): Os índices (ou quocientes, ou indicadores) de liquidez indicam a
+capacidade da empresa de pagar suas dívidas. Envolvem principalmente as contas do balanço (ativo
+circulante e ativo realizável a longo prazo, em comparação com o passivo exigível a curto e a longo prazo).
+
+---- Liquidez corrente = Ativo circulante / Passivo circulante
+
+--- Liquidez Seca = (Ativo Circulante – Estoque – despesas antecipadas) / Passivo Circulante
+
+--- Liquidez Imediata = Disponibilidades / Passivo Circulante
+                                                      ==219a34==
+
+
+
+
+--- Liquidez Geral = (Ativo Circulante + Realizável a longo prazo) / (Passivo circulante + Passivo não circulante)
+
+Esses índices são importantíssimos, não tem como deixar de saber, certo?
+
+A FGV costuma cobrar questões sobre quais fatos contábeis justificariam as alterações nos indicadores.
+
+Destacamos que a banca acaba repetindo os seguintes fatos contábeis:
+
+   •   Pagamento da dívida com fornecedores;
+   •   Realização integral das despesas antecipadas;
+   •   Contração de empréstimo de curto ou longo prazo;
+   •   Compra de estoque à vista ou a prazo;
+   •   Venda à vista de estoque com lucro ou com prejuízo;
+   •   Compra ou Venda de ativo imobilizado à vista ou a prazo;
+   •   Contração de empréstimo bancário;
+   •   Compra de terreno para valorização;
+   •   Aumento de capital social,
+   •   Reconhecimento e Pagamento de despesas,
+   •   Compra ou Venda de ações em tesouraria,
+   •   Reconhecimento do teste de recuperabilidade,
+   •   Pagamento antecipado de despesas;
+   •   Recebimento de um adiantamento;
+   •   Reconhecimento de dividendos.
+
+Fique atento no impacto desses fatos contábeis nos indicadores.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis         6
+        www.estrategiaconcursos.com.br                                                                         24
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 06
+
+
+
+
+                                   QUESTÕES ESTRATÉGICAS
+1. (FGV/DPE RO/Analista Contábil/2025) Em 31/12/2024, uma sociedade empresária apresentava os
+    seguintes saldos em seu Balanço Patrimonial: Contas a pagar (30 dias): R$ 40.000; Disponibilidades: R$
+    50.000; Contas a receber (420 dias): R$ 70.000; Fornecedores (90 dias): R$ 80.000; Clientes (180 dias):
+    R$ 90.000; Patrimônio Líquido: R$ 110.000; Empréstimos (720 dias): R$130.000; Móveis e utensílios:
+    R$ 150.000.
+Assinale a opção que indica a liquidez corrente da sociedade empresária em 31/12/2024.
+A 0,42.
+B 0,56.
+C 0,84.
+D 1,17.
+E 1,75.
+
+Comentários:
+
+O Índice de Liquidez Corrente mede a capacidade da empresa pagar suas dívidas de curto prazo (passivo
+circulante) com os recursos de curto prazo (ativo circulante). É um índice muito utilizado e considerado
+como o melhor indicador da situação de liquidez da empresa. Ele é calculado assim:
+
+                                                        Ativo Circulante
+                                                LC =
+                                                       Passivo Circulante
+
+Se a LC da empresa for de 1,5 ou 150%, podemos dizer que a empresa possui R$ 1,50 reais no ativo circulante
+para cada real de dívida, a curto prazo.
+
+Antes de aplicar a fórmula, vamos organizar essas contas conforme seu grupo patrimonial:
+
+   •      Ativo Circulante = R$140.000;
+
+Disponibilidades: R$ 50.000;
+Clientes (180 dias): R$ 90.000;
+
+   •      Ativo Não Circulante = R$220.000
+
+Contas a receber (420 dias): R$ 70.000;
+Móveis e utensílios: R$ 150.000
+
+   •      Passivo Circulante = R$120.000
+
+Contas a pagar (30 dias): R$ 40.000;
+Fornecedores (90 dias): R$ 80.000;
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   7
+           www.estrategiaconcursos.com.br                                                                   24
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+
+   •   Passivo Não Circulante = R$130.000
+
+Empréstimos (720 dias): R$130.000;
+
+   •   Patrimônio Líquido: R$ 110.000;
+
+Resolvendo, temos:
+
+                                            Ativo Circulante   140.000
+                                    LC =                     =         = 1,17
+                                           Passivo Circulante 120.000
+
+Gabarito: D
+
+2. (FGV/SEEC RN/Professor/2025) Uma empresa do setor de varejo está analisando sua saúde financeira
+    com foco em avaliar sua capacidade de honrar compromissos de curto prazo. Durante a análise, a
+    diretoria definiu que seria utilizado o Indicador de Liquidez Seca para a análise, que deveria ser de pelo
+    menos 1,5 para garantir segurança financeira.
+A empresa apresenta os seguintes dados:
+• Ativo Circulante: R$ 1.200.000
+• Passivo Circulante: R$ 800.000
+• Estoques: R$ 400.000
+• Ativo Imobilizado: R$ 500.
+• Contas a Receber: R$ 300.000
+Com base nesses valores, determine o Indicador de Liquidez Seca e avalie se a empresa atingiu o objetivo
+estabelecido.
+A 1,8 – A empresa superou o objetivo e demonstra boa saúde financeira.
+B 1,0 – A empresa não atingiu o objetivo apresentando, apresentando desempenho bem aquém do
+almejado.
+C 1,5 – A empresa atingiu exatamente o objetivo definido, podendo, no entanto, aumentar essa meta.
+D 1,3 – A empresa não atingiu o objetivo e precisa revisar sua estratégia de liquidez.
+E 2,0 – A empresa está em excelente condição e excedeu as expectativas.
+
+Comentários:
+
+O Índice de Liquidez Seca ou Teste Ácido mede a capacidade de pagamento das dívidas de curto prazo, sem
+considerar os estoques. Ele é calculado assim:
+
+                       Ativo circulante - Estoques 1.200.000 − 400.000 800.000
+                LS =                              =                   =         = 1,00
+                           Passivo circulante            800.000        800.000
+
+A interpretação dos índices de Liquidez é quanto maior melhor.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    8
+         www.estrategiaconcursos.com.br                                                                    24
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+A LS da empresa é de 1,0 ou 100%, então podemos dizer que a empresa possui R$ 1,00 no ativo circulante
+para cada real de dívida, a curto prazo, sem considerar os estoques. Logo, a empresa não atingiu o objetivo
+(1,5) apresentando, apresentando desempenho bem aquém do almejado.
+
+Gabarito: B
+
+3. (FGV/Pref. Canaã Carajás/Analista/2025) Uma pessoa recebe uma proposta de emprego. Ela deseja
+    verificar se a entidade que fez a proposta parece ter recursos suficientes para pagar as suas obrigações
+    de curto prazo.
+Assinale a opção que indica a demonstração contábil em que a pessoa pode obter essa informação de forma
+direta.
+A Balanço patrimonial.
+B Demonstração dos fluxos de caixa.
+C Demonstração do valor adicionado.
+D Demonstração do resultado do exercício.
+E Demonstração das mutações do patrimônio líquido.
+
+Comentários:
+
+Os índices de liquidez indicam a capacidade da empresa de pagar suas dívidas. Sua fonte de informação é o
+Balanço Patrimonial. Nessa demonstração obtemos os valores das disponibilidades, dos estoques, do ativo
+circulante, do ativo realizável a longo prazo, do passivo circulante e do passivo não circulante.
+
+Gabarito: A
+
+4. (FGV/DPE RO/Técnico em Contabilidade/2025) Em 31/12/2024, a Cia Rosa apresentava os seguintes
+    saldos em seu ativo circulante: Disponibilidades: R$ 15.000; Estoques: R$ 20.000; Clientes (90 dias): R$
+    25.000. O passivo circulante era metade do ativo circulante.
+Assinale a opção que indica a liquidez seca da Cia Rosa em 31/12/2024:
+A 0,50.
+B 1,17.
+C 1,33.
+D 1,50.
+E 2,00.
+
+Comentários:
+
+O Índice de Liquidez Seca ou Teste Ácido mede a capacidade de pagamento das dívidas de curto prazo, sem
+considerar os estoques. Ele é calculado assim:
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   9
+          www.estrategiaconcursos.com.br                                                                   24
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+                                                 Ativo circulante - Estoques
+                                          LS =
+                                                     Passivo circulante
+
+Ativo Circulante = Disponibilidade + Estoques + Clientes (90 dias) = R$ 15.000 + R$ 20.000 + R$ 25.000 =
+R$60.000
+
+Passivo Circulante = Ativo Circulante / 2 = R$ 60.000 / 2 = R$ 30.000
+
+                                           60.000 − 20.000 40.000
+                                    𝐿𝑆 =                  =        = 1,33
+                                                30.000      30.000
+
+Gabarito: C
+
+5. (FGV/CGM Cuiabá/Auditor Público Interno/2025) Em 2023, uma loja de roupas vendia mediante
+    recebimento à vista, apenas. Em 2024, a loja começou a realizar vendas com recebimento a prazo, em
+                                                            ==219a34==
+
+
+
+
+    até 60 dias. Em relação ao impacto direto no cálculo dos indicadores da loja, analise o que se afirma a
+    seguir:
+I. Liquidez imediata
+II. Liquidez seca
+III. Margem bruta
+IV. Margem líquida
+V. Endividamento geral
+A mudança no modo de recebimento das vendas impacta diretamente o que se afirma em:
+A I, somente.
+B V, somente.
+C I e II, somente.
+D III e IV, somente.
+E I, II e V, somente.
+
+Comentários:
+
+Efeito no balanço patrimonial: ↓ Disponibilidades ↑Clientes
+
+Efeito na DRE: Sem efeito.
+
+Agora, vejamos cada indicador:
+
+I. Liquidez imediata
+
+Provoca redução do numerador da fração e, consequentemente, da liquidez imediata.
+
+                                                        Disponibilidades↓
+                                                 I ↓=
+                                                        Passivo Circulante
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   10
+         www.estrategiaconcursos.com.br                                                                   24
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+II. Liquidez seca
+
+                                                          Ativo circulante - Estoques
+                                                   LS =
+                                                              Passivo circulante
+
+Sem efeito.
+
+III. Margem bruta
+                                                                   Lucro Bruto
+                                                          MB =
+                                                                 Vendas Líquidas
+
+Sem efeito.
+
+IV. Margem líquida
+                                                                  Lucro Líquido
+                                                          ML =
+                                                                 Vendas Líquidas
+
+Sem efeito.
+
+V. Endividamento geral
+
+                                                                   Exigível total
+                                                             ET=
+                                                                    Ativo total
+
+Sem efeito.
+
+Gabarito: A
+
+6. (FGV/ALEP/Técnico em Contabilidade/2024) Uma empresa que presta consultoria apresentava os
+    seguintes saldos em seu balanço patrimonial em 31/12/2023:
+Disponibilidades: ............................................................. R$74.000;
+Salários a pagar em 10/01/2024: ..................................... R$50.000;
+Móveis do escritório: ....................................................... R$40.000;
+Computadores usados para prestação dos serviços: ....... R$30.000;
+Contas a pagar em 05/01/2025: ...................................... R$70.000;
+Contas a receber em 05/03/2025: ................................... R$66.000.
+Assinale a opção que indica o índice de liquidez geral em 31/12/2023.
+A0,62.
+B1,17.
+C1,48.
+D1,56.
+E1, 75.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   11
+           www.estrategiaconcursos.com.br                                                                   24
+
+                                              https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+Comentários:
+
+Índice de Liquidez Geral indica a capacidade da empresa de pagar suas dívidas de curto e longo prazo, usando
+os recursos do Ativo Circulante e do Ativo Realizável a Longo Prazo.
+
+O índice de liquidez geral (também chamado de “Liquidez Total”) é calculado assim:
+
+                                         Ativo circulante + Ativo realizável a LP
+                      LG =
+                             Passivo circulante + (Passivo não circulante - Receita diferida)
+
+Antes precisamos encontrar os valores do AC,ANC - Realizável a Longo Prazo, PC e PNC:
+
+Ativo Circulante = Disponibilidades = 74.000
+
+Ativo Realizável a Longo Prazo = Contas a receber em 05/03/2025 = 66.000
+
+Passivo Circulante = Salários a pagar em 10/01/2024 = 50.000
+
+Passivo Não Circulante = Contas a pagar em 05/01/2025 = 70.000
+
+Substituindo na fórmula:
+
+                                 74.000 + 66.000 140.000 62.000
+                          LG =                  =       =       = 1,1666 ≅ 1,17
+                                 50.000 + 70.000 120.000 42.000
+
+Se a LG da empresa for de 1,17 ou 117%, podemos dizer que a empresa possui R$ 1,17 reais no Ativo
+Circulante e no Ativo Realizável a Longo Prazo para cada real de dívida do Passivo Exigível (Passivo Circulante
++ Passivo Não Circulante).
+
+Gabarito: B
+
+7. (FGV/TCE-GO/Auditor de Controle Externo/2024) Uma sociedade empresária apresentava os seguintes
+    saldos em seu balanço patrimonial, em 31/12/2023:
+Caixa: R$4.000; Conta corrente no banco: R$8.000; Aplicação financeira com resgate em 80 dias: R$10.000;
+Contas a pagar em 60 dias: R$13.000; Empréstimos com vencimento em 540 dias: R$29.000; Patrimônio
+Líquido: R$80.000; Terrenos para valorização: R$100.000.
+Assinale a opção que indica a liquidez imediata da sociedade empresária em 31/12/2023.
+A0,10
+B0,31
+C0,52
+D0,92
+E1,69
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     12
+         www.estrategiaconcursos.com.br                                                                     24
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+Comentários:
+
+O Índice de Liquidez Imediata (também conhecido como Liquidez Instantânea) é o mais rigoroso dos índices
+de liquidez. Avalia a capacidade de a empresa pagar suas dívidas de imediato, com os valores que possui
+disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários, aplicações de
+curto prazo etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em dinheiro sem
+alteração significativa do seu valor.
+
+                                                      Disponibilidades
+                                               LI =
+                                                      Passivo Circulante
+
+Antes precisamos encontrar os valores das disponibilidades e PC:
+
+Ressaltamos que apenas entram na definição de caixa e equivalentes de caixa as aplicações financeiras com
+as seguintes características: de curto prazo, de alta liquidez, que são prontamente conversíveis em montante
+conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor
+
+Disponibilidades = Caixa + Conta corrente no banco + Aplicação financeira com resgate em 80 dias = 4.000 +
+8.000 + 10.000 = 22.000
+
+Passivo Circulante = Contas a pagar em 60 dias = R$13.000
+
+Substituindo na fórmula:
+
+                                            Disponibilidades 22.000
+                                     LI =                        =            = 1,69
+                                            Passivo Circulante       13.000
+
+Se a LI da empresa for de 1,69 ou 169%, podemos dizer que a empresa possui R$ 1,69 reais em
+disponibilidades para cada real de dívida, a curto prazo.
+
+Gabarito: D
+
+8. (FGV/Pref. Abreu e Lima/Técnico em Controle Interno/2024) Com a finalidade de realizar uma análise
+    contábil mais conservadora, um analista calculou o índice de liquidez seca de uma sociedade
+    empresária.
+Em relação a este indicador, analise as contas a seguir, que estavam no ativo circulante da sociedade
+empresária, em seu balanço patrimonial:
+I. Estoques.
+II. Clientes.
+III. Despesas antecipadas.
+No cálculo do índice de liquidez seca, o analista deve desconsiderar o saldo de
+A I, somente.
+B I e II, somente.
+C I e III, somente.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   13
+         www.estrategiaconcursos.com.br                                                                   24
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+D II e III, somente.
+E I, II e III.
+
+Comentários:
+
+O Índice de Liquidez Seca (também conhecida como Acid Test ou Teste Ácido) é mais adequado para as
+empresas que operam com estoques de difícil realização financeira, geralmente em função do alto valor.
+Como exemplo podemos citar as empresas do setor imobiliário, nas quais a venda do estoque costuma ser
+mais lenta.
+
+                 Liquidez Seca = (Ativo Circulante – Estoque – despesas antecipadas) / Passivo Circulante
+
+No cálculo do índice de liquidez seca, o analista deve desconsiderar o saldo de Estoques e Despesas
+antecipadas.
+
+Gabarito: C
+
+9. (FGV/MACAEPREV/Analista Contabilidade/2024) Um analista calculou os indicadores de liquidez de
+    uma empresa, com base nas demonstrações contábeis publicadas, referentes ao primeiro trimestre de
+    2024.
+ No trimestre seguinte, a empresa divulgou que não havia baixado, no balanço patrimonial, o saldo de um
+empréstimo que contraiu em 2023 para pagamento em 2027, e que foi pago antecipadamente de modo
+integral em fevereiro de 2024, apesar de ter reconhecido a variação do caixa na data correta.
+O seguinte indicador referente ao primeiro trimestre de 2024 precisa ser calculado novamente, após a nova
+informação:
+A Liquidez Seca.
+B Liquidez Geral.
+C Liquidez Cíclica.
+D Liquidez Corrente.
+E Liquidez Imediata.
+
+Comentários:
+
+Trata-se de uma obrigação de longo prazo que ainda constava por engano. Assim, após essa retificação, o
+valor do passivo não circulante irá diminuir. Dentre os indicadores citados (a banca inventou a liquidez
+cíclica), apenas a liquidez geral será calculada novamente.
+
+                                              Ativo circulante + Ativo realizável a LP
+                         ↑LG =
+                                 Passivo circulante + (↓Passivo não circulante - Receita diferida)
+
+Gabarito: B
+
+
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   14
+            www.estrategiaconcursos.com.br                                                                   24
+
+                                         https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+
+10. (FGV/EPE/Analista Contabilidade/2024) Em 31/03/2024, uma sociedade empresária apresentava os
+    seguintes saldos em seus ativos e passivos referentes ao primeiro trimestre:
+Aplicação financeira (720 dias): ....................................... R$90.000;
+Clientes (90 dias): ............................................................ R$62.000;
+Contas a pagar (60 dias): ................................................. R$60.000;
+Disponibilidades: ............................................................. R$50.000;
+Fornecedores (370 dias): ............................................... R$100.000;
+Móveis e utensílios usados no próprio negócio:................ 115.000;
+Salários antecipados (30 dias): ........................................ R$22.000.
+No segundo trimestre, todos os ativos aumentaram em 20% e os passivos aumentaram em 10%.
+Do primeiro para o segundo trimestre, o indicador de liquidez geral variou, aproximadamente,
+A 9,09%.
+B 10,00%.
+C 12,77%.
+D 30,00%.
+E 50,00%.
+
+Comentários:
+
+Índice de Liquidez Geral indica a capacidade da empresa de pagar suas dívidas de curto e longo prazo, usando
+os recursos do Ativo Circulante e do Ativo Realizável a Longo Prazo.
+
+O índice de liquidez geral (também chamado de “Liquidez Total”) é calculado assim:
+
+                                               Ativo circulante + Ativo realizável a LP
+                            LG =
+                                   Passivo circulante + (Passivo não circulante - Receita diferida)
+
+Antes precisamos encontrar os valores do AC, ANC - Realizável a Longo Prazo, PC e PNC:
+
+Ativo Circulante = Clientes (90 dias) + Disponibilidades + Salários antecipados (30 dias) = 62.000 + 50.000 +
+22.000 = 134.000
+
+Ativo Realizável a Longo Prazo = Aplicação financeira (720 dias) = 90.000
+
+Passivo Circulante = Contas a pagar (60 dias) = 60.000
+
+Passivo Não Circulante = Fornecedores (370 dias) = 100.000
+
+Substituindo na fórmula:
+
+                                                   134.000 + 90.000 224.000
+                                            LG =                   =        = 1,40
+                                                   60.000 + 100.000 160.000
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   15
+           www.estrategiaconcursos.com.br                                                                   24
+
+                                              https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+No segundo trimestre, todos os ativos aumentaram em 20% e os passivos aumentaram em 10%.
+Para encontrar a variação é suficiente dividir a alteração do numerado pela alteração do denominador:
+                                              1,20
+                            Variação da LG = (     ) − 1 = 1,0909 − 1 ≅ 9,09 %
+                                              1,10
+Bem mais rápido, todavia também podemos gastar a nossa matemática:
+
+                                           224.000 1,2 268.800
+                                    LG =          ×   =        = 1,527
+                                           160.000 1,1 176.000
+
+                                            (1,527 − 1,40) 0,127
+                       Variação da LG =                   =      = 0,9071 ≅ 9,09%
+                                                 1,40       1,40
+
+Gabarito: A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   16
+         www.estrategiaconcursos.com.br                                                                   24
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 06
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de
+perguntas que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem
+como a memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e
+discursivas também).
+
+
+                                                  Perguntas
+ 1. O que evidenciamos através dos índices de liquidez?
+ 2. Qual a função do Índice de Liquidez Corrente? O que representa dizer que a Liquidez Corrente de uma
+ empresa é de 1,2?                                    ==219a34==
+
+
+
+
+ 3. Qual a função do Índice de Liquidez Seca? O que representa dizer que a Liquidez Seca de uma empresa
+ é de 1,2?
+ 4. Qual a função do Índice de Liquidez Imediata? O que representa dizer que a Liquidez Imediata de uma
+ empresa é de 1,2?
+ 5. Qual a função do Índice de Liquidez Geral? O que representa dizer que a Liquidez Geral de uma
+ empresa é de 1,2?
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   17
+        www.estrategiaconcursos.com.br                                                                   24
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+
+                                        Perguntas com respostas
+
+   O que evidenciamos através dos índices de liquidez?
+
+Os índices (ou quocientes, ou indicadores) de liquidez indicam a capacidade da empresa de pagar suas
+dívidas. Esses índices são utilizados, entre outros usuários, pelos credores da empresa (bancos, fornecedores,
+etc), para avaliar o risco de inadimplência de créditos já concedidos ou a conceder.
+
+   Qual a função do Índice de Liquidez Corrente? O que representa dizer que a Liquidez Corrente de
+   uma empresa é de 1,2?
+Este índice apresenta a capacidade da empresa pagar suas dívidas de curto prazo (passivo circulante) com
+os recursos de curto prazo (ativo circulante). Se a LC da empresa for de 1,2 ou 120%, podemos dizer que a
+empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a curto prazo.
+   Qual a função do Índice de Liquidez Seca? O que representa dizer que a Liquidez Seca de uma
+   empresa é de 1,2?
+Índice de Liquidez Seca ou Teste Ácido mede a capacidade de pagamento das dívidas de curto prazo, sem
+considerar os estoques. Se a LC da empresa for de 1,2 ou 120%, podemos dizer que a empresa possui R$
+1,20 reais no ativo circulante para cada real de dívida, a curto prazo, sem considerar os estoques.
+
+   Qual a função do Índice de Liquidez Imediata? O que representa dizer que a Liquidez Imediata de uma
+   empresa é de 1,2?
+
+É o mais rigoroso dos índices de liquidez. Avalia a capacidade de a empresa pagar suas dívidas de imediato,
+com os valores que possui disponíveis. Se a LC da empresa for de 1,2 ou 120%, podemos dizer que a empresa
+possui R$ 1,20 reais em disponibilidades para cada real de dívida, a curto prazo.
+
+   Qual a função do Índice de Liquidez Geral? O que representa dizer que a Liquidez Geral de uma empresa
+   é de 1,2?
+
+Indica a capacidade da empresa de pagar suas dívidas de curto e longo prazo, usando os recursos do Ativo
+Circulante e do Ativo Realizável a Longo Prazo. Significa que a empresa possui R$ 1,20 reais no Ativo
+Circulante e no Ativo Realizável a Longo Prazo para cada real de dívida do Passivo Exigível (Passivo Circulante
++ Passivo Não Circulante).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     18
+         www.estrategiaconcursos.com.br                                                                     24
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 06
+
+
+
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/DPE RO/Analista Contábil/2025) Em 31/12/2024, uma sociedade empresária apresentava os
+    seguintes saldos em seu Balanço Patrimonial: Contas a pagar (30 dias): R$ 40.000; Disponibilidades: R$
+    50.000; Contas a receber (420 dias): R$ 70.000; Fornecedores (90 dias): R$ 80.000; Clientes (180 dias):
+    R$ 90.000; Patrimônio Líquido: R$ 110.000; Empréstimos (720 dias): R$130.000; Móveis e utensílios:
+    R$ 150.000.
+Assinale a opção que indica a liquidez corrente da sociedade empresária em 31/12/2024.
+A 0,42.
+B 0,56.
+C 0,84.
+D 1,17.
+E 1,75.
+
+2. (FGV/SEEC RN/Professor/2025) Uma empresa do setor de varejo está analisando sua saúde financeira
+    com foco em avaliar sua capacidade de honrar compromissos de curto prazo. Durante a análise, a
+    diretoria definiu que seria utilizado o Indicador de Liquidez Seca para a análise, que deveria ser de pelo
+    menos 1,5 para garantir segurança financeira.
+A empresa apresenta os seguintes dados:
+• Ativo Circulante: R$ 1.200.000
+• Passivo Circulante: R$ 800.000
+• Estoques: R$ 400.000
+• Ativo Imobilizado: R$ 500.
+• Contas a Receber: R$ 300.000
+Com base nesses valores, determine o Indicador de Liquidez Seca e avalie se a empresa atingiu o objetivo
+estabelecido.
+A 1,8 – A empresa superou o objetivo e demonstra boa saúde financeira.
+B 1,0 – A empresa não atingiu o objetivo apresentando, apresentando desempenho bem aquém do
+almejado.
+C 1,5 – A empresa atingiu exatamente o objetivo definido, podendo, no entanto, aumentar essa meta.
+D 1,3 – A empresa não atingiu o objetivo e precisa revisar sua estratégia de liquidez.
+E 2,0 – A empresa está em excelente condição e excedeu as expectativas.
+
+3. (FGV/Pref. Canaã Carajás/Analista/2025) Uma pessoa recebe uma proposta de emprego. Ela deseja
+    verificar se a entidade que fez a proposta parece ter recursos suficientes para pagar as suas obrigações
+    de curto prazo.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   19
+          www.estrategiaconcursos.com.br                                                                   24
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+Assinale a opção que indica a demonstração contábil em que a pessoa pode obter essa informação de forma
+direta.
+A Balanço patrimonial.
+B Demonstração dos fluxos de caixa.
+C Demonstração do valor adicionado.
+D Demonstração do resultado do exercício.
+E Demonstração das mutações do patrimônio líquido.
+
+4. (FGV/DPE RO/Técnico em Contabilidade/2025) Em 31/12/2024, a Cia Rosa apresentava os seguintes
+    saldos em seu ativo circulante: Disponibilidades: R$ 15.000; Estoques: R$ 20.000; Clientes (90 dias): R$
+    25.000. O passivo circulante era metade do ativo circulante.
+Assinale a opção que indica a liquidez seca da Cia Rosa em 31/12/2024:
+                                                                    ==219a34==
+
+
+
+
+A 0,50.
+B 1,17.
+C 1,33.
+D 1,50.
+E 2,00.
+
+5. (FGV/CGM Cuiabá/Auditor Público Interno/2025) Em 2023, uma loja de roupas vendia mediante
+    recebimento à vista, apenas. Em 2024, a loja começou a realizar vendas com recebimento a prazo, em
+    até 60 dias. Em relação ao impacto direto no cálculo dos indicadores da loja, analise o que se afirma a
+    seguir:
+I. Liquidez imediata
+II. Liquidez seca
+III. Margem bruta
+IV. Margem líquida
+V. Endividamento geral
+A mudança no modo de recebimento das vendas impacta diretamente o que se afirma em:
+A I, somente.
+B V, somente.
+C I e II, somente.
+D III e IV, somente.
+E I, II e V, somente.
+
+6. (FGV/ALEP/Técnico em Contabilidade/2024) Uma empresa que presta consultoria apresentava os
+    seguintes saldos em seu balanço patrimonial em 31/12/2023:
+Disponibilidades: ............................................................. R$74.000;
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   20
+           www.estrategiaconcursos.com.br                                                                   24
+
+                                              https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+Salários a pagar em 10/01/2024: ..................................... R$50.000;
+Móveis do escritório: ....................................................... R$40.000;
+Computadores usados para prestação dos serviços: ....... R$30.000;
+Contas a pagar em 05/01/2025: ...................................... R$70.000;
+Contas a receber em 05/03/2025: ................................... R$66.000.
+Assinale a opção que indica o índice de liquidez geral em 31/12/2023.
+A0,62.
+B1,17.
+C1,48.
+D1,56.
+E1, 75.
+
+7. (FGV/TCE-GO/Auditor de Controle Externo/2024) Uma sociedade empresária apresentava os seguintes
+    saldos em seu balanço patrimonial, em 31/12/2023:
+Caixa: R$4.000; Conta corrente no banco: R$8.000; Aplicação financeira com resgate em 80 dias: R$10.000;
+Contas a pagar em 60 dias: R$13.000; Empréstimos com vencimento em 540 dias: R$29.000; Patrimônio
+Líquido: R$80.000; Terrenos para valorização: R$100.000.
+Assinale a opção que indica a liquidez imediata da sociedade empresária em 31/12/2023.
+A0,10
+B0,31
+C0,52
+D0,92
+E1,69
+
+8. (FGV/Pref. Abreu e Lima/Técnico em Controle Interno/2024) Com a finalidade de realizar uma análise
+    contábil mais conservadora, um analista calculou o índice de liquidez seca de uma sociedade
+    empresária.
+Em relação a este indicador, analise as contas a seguir, que estavam no ativo circulante da sociedade
+empresária, em seu balanço patrimonial:
+I. Estoques.
+II. Clientes.
+III. Despesas antecipadas.
+No cálculo do índice de liquidez seca, o analista deve desconsiderar o saldo de
+A I, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   21
+           www.estrategiaconcursos.com.br                                                                   24
+
+                                            https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 06
+
+
+
+E I, II e III.
+
+9. (FGV/MACAEPREV/Analista Contabilidade/2024) Um analista calculou os indicadores de liquidez de
+    uma empresa, com base nas demonstrações contábeis publicadas, referentes ao primeiro trimestre de
+    2024.
+ No trimestre seguinte, a empresa divulgou que não havia baixado, no balanço patrimonial, o saldo de um
+empréstimo que contraiu em 2023 para pagamento em 2027, e que foi pago antecipadamente de modo
+integral em fevereiro de 2024, apesar de ter reconhecido a variação do caixa na data correta.
+O seguinte indicador referente ao primeiro trimestre de 2024 precisa ser calculado novamente, após a nova
+informação:
+A Liquidez Seca.
+B Liquidez Geral.
+C Liquidez Cíclica.
+D Liquidez Corrente.
+E Liquidez Imediata.
+
+10. (FGV/EPE/Analista Contabilidade/2024) Em 31/03/2024, uma sociedade empresária apresentava os
+    seguintes saldos em seus ativos e passivos referentes ao primeiro trimestre:
+Aplicação financeira (720 dias): ....................................... R$90.000;
+Clientes (90 dias): ............................................................ R$62.000;
+Contas a pagar (60 dias): ................................................. R$60.000;
+Disponibilidades: ............................................................. R$50.000;
+Fornecedores (370 dias): ............................................... R$100.000;
+Móveis e utensílios usados no próprio negócio:................ 115.000;
+Salários antecipados (30 dias): ........................................ R$22.000.
+No segundo trimestre, todos os ativos aumentaram em 20% e os passivos aumentaram em 10%.
+Do primeiro para o segundo trimestre, o indicador de liquidez geral variou, aproximadamente,
+A 9,09%.
+B 10,00%.
+C 12,77%.
+D 30,00%.
+E 50,00%.
+
+
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   22
+            www.estrategiaconcursos.com.br                                                                   24
+
+                                              https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 06
+
+
+
+
+                                                GABARITO
+                                                1          D
+                                                2          B
+                                                3          A
+                                                4          C
+                                                5          A
+                                                6          B
+                                                7          D
+                                                8          C
+                                                9          B
+                                                10         A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   23
+         www.estrategiaconcursos.com.br                                                                   24
+
+                                     https://t.me/KakashiAssinaturasBot
+

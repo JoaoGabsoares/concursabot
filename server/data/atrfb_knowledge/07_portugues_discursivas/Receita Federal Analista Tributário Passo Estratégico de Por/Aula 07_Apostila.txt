@@ -1,0 +1,1513 @@
+                                                    Aula 05
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+
+
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+
+
+
+                                             19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+   Carlos Roberto Correa
+   Aula 05
+
+
+
+
+1 - Apresentação ............................................................................................................. 2
+2 - Análise Estatística ....................................................................................................... 3
+3 – Semântica .................................................................................................................. 3
+  3.1 – Denotação e Conotação ............................................................................................................ 4
+  3.2 - Sinônimos e Antônimos ............................................................................................................. 5
+  3.3 – Homônimos e Parônimos........................................................................................................... 6
+4– Regência Verbal .......................................................................................................... 7
+  4.1 – Regência dos principais verbos cobrados em concursos .......................................................... 8
+  4.1.1 - Aspirar...................................................................................................................................... 8
+  4.1.2 - Assistir ...................................................................................................................................... 9
+  4.1.3 - Atender .................................................................................................................................... 9
+  4.1.4 - Chamar .................................................................................................................................... 9
+  4.1.5 - Chegar ...................................................................................................................................... 9
+  4.1.6 - Custar ..................................................................................................................................... 10
+  4.1.7 - haver ...................................................................................................................................... 10
+  4.1.8 - Ir ............................................................................................................................................. 11
+  4.1.9 - Esquecer ................................................................................................................................. 11
+  4.1.10 - Implicar ................................................................................................................................ 11
+  4.1.11 - Informar ............................................................................................................................... 11
+  4.1.12 - Morar ................................................................................................................................... 11
+  4.1.13 - Namorar .............................................................................................................................. 12
+  4.1.14 – Obedecer/Desobedecer ...................................................................................................... 12
+  4.1.15 – Pagar/Perdoar .................................................................................................................... 12
+  4.1.16 - Precisar ................................................................................................................................ 13
+  4.1.17 – Preferir ................................................................................................................................ 13
+  4.1.18 - Proceder ............................................................................................................................... 13
+  4.1.19 - Querer .................................................................................................................................. 13
+  4.1.20 - Visar ..................................................................................................................................... 14
+5 – Regência Nominal .................................................................................................... 14
+6 - Aposta estratégica .................................................................................................... 15
+7- Questões-chave de revisão ........................................................................................ 16
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                                  1
+          www.estrategiaconcursos.com.br                                                                                                                        30
+
+                                                https://t.me/KakashiAssinaturasBot
+   Carlos Roberto Correa
+   Aula 05
+
+
+
+
+8 – Lista de questões comentadas .................................................................................. 20
+9- Revisão estratégica .................................................................................................... 28
+  9.1 Perguntas .................................................................................................................................... 28
+  9.2 Perguntas e respostas ................................................................................................................ 28
+
+
+
+1 - APRESENTAÇÃO
+Olá, servidores.
+Na aula de hoje, abordaremos Semântica, Regência Verbal, Regência Nominal, Coesão e Coerência.
+Esse assunto encontra-se no Grupo 1 da nossa análise estatística e, portanto, tem boa probabilidade
+de ser cobrado na sua prova.
+Selecionamos aquilo que a banca mais gosta de explorar, para que a revisão seja breve.
+Bons estudos!
+
+
+Prof. Carlos Roberto
+
+
+                                                        #amoraovernáculo
+
+
+                 “Só alcançaremos a meta quando formos protagonistas de nossa busca”.
+                                          (Máximo Ravenna)
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                            2
+          www.estrategiaconcursos.com.br                                                                                                                  30
+
+                                               https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+2 - ANÁLISE ESTATÍSTICA
+                     Percentual de incidência em concursos similares (FGV)
+                             Interpretação de textos.                          34,98%
+            Classes de palavras; Formação e estrutura das palavras.            14,43%
+                                     Linguagem.                                3,96%
+                          Ortografia, Acentuação e Crase.                      3,27%
+                                 Tipologia Textual.                            3,11%
+                                     Pontuação.                                2,90%
+                              Colocação pronominal.                            2,61%
+                                Termos da oração.                              2,14%
+                Concordância verbal, nominal e vozes verbais.                  1,92%
+             Relação de coordenação e subordinação das orações.                1,35%
+                          Palavras “se”, “que” e “como”.                       1,19%
+                            Regência nominal e verbal.                         1,06%
+
+
+
+
+3 – SEMÂNTICA
+A Semântica nada mais é que a ciência dos significados das palavras. Seu objetivo é analisar o
+significado e a interpretação entre significantes e o que eles representam.
+Da mesma forma, a semântica analisa a mudança de sentido de significantes, sejam eles: palavras,
+sinais, símbolos, frases ou expressões.
+Veja a quantidade de significados da palavra “carteira”:
+Os alunos do Estratégia Concursos terão muito dinheiro na carteira.
+Quantas carteiras ele fuma por dia?
+Durante a aula, o aluno não pode se levantar da carteira.
+Poderei dirigir assim que renovar minha carteira.
+Preciso descobrir a forma mais simples de aumentar a rentabilidade de minha carteira de
+ações.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       3
+        www.estrategiaconcursos.com.br                                                             30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+Observa-se que, para o mesmo significante (carteira), a língua portuguesa apresenta diversos
+significados.
+Agora, observe os exemplos abaixo:
+Os alunos do Estratégia Concursos são muito estudiosos.
+Os alunos do Estratégia Concursos são muito aplicados.
+Os alunos do Estratégia Concursos são muito atentos.
+Os alunos do Estratégia Concursos são muito dedicados.
+Os alunos do Estratégia Concursos são muito esforçados.
+Os alunos do Estratégia Concursos são muito diligentes.
+Nesses casos, é possível concluir que diferentes significantes (palavras) não alteram o significado
+                                                       ==219a34==
+
+
+
+
+(sentido) da frase. O mesmo acontece quando pensamos em macaxeira, mandioca ou aipim, ou seja,
+são formas diferentes de expressar idêntico significado. Fica claro, portanto, que estudar a
+semântica significa conhecer o significante e o significado.
+     1) Significante: é a imagem mental causada pelo som ou pela forma escrita de determinada
+     palavra; é a parte da palavra que podemos “ver” ou “escutar” e, a partir de então, converter
+     em ideia.
+     2) Significado: é justamente a ideia, o conceito que a palavra representa em um contexto.
+Dessa forma, é fácil entender o motivo de o significante e do significado estarem diretamente
+relacionados à semântica, pois, como dito no começo desta aula: a semântica nada mais é que a
+ciência dos significados das palavras. E compreender os significados é primordial para que saibamos
+escolher de forma apropriada as palavras que melhor expressam o que estamos pensando.
+
+3.1 – DENOTAÇÃO E CONOTAÇÃO
+
+A Denotação concerne ao significado fundamental, basilar, objetivo, material e literal de uma
+palavra. Ocorre, portanto, quando uma palavra se restringe a seu próprio conceito, ao seu
+significado original.
+A Conotação diz respeito ao significado secundário, subjetivo, particular, figurado e simbólico de
+uma palavra. Ocorre quando a palavra pode gerar várias interpretações em um mesmo contexto.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          4
+        www.estrategiaconcursos.com.br                                                                30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+                                   Sentido                        Sentido
+                                                                 próprio ou
+                                  Denotativo                       literal
+
+
+                                   Sentido                         Sentido
+                                  Conotativo                       figurado
+
+
+                Sentido Denotativo                                             Sentido Conotativo
+
+Caí e machuquei meu pé naquela Você não me segurou. Que coração
+pedra.                         de pedra!
+
+O sol estava muito forte, por isso E eu ainda achava que você era o sol
+desidratei e caí.                  da minha vida...
+
+Machuquei o pé na pedra e caí no Você parecia uma pedra. Não me
+buraco.                          ajudou em nada. Amá-lo é um
+                                 buraco sem fundo.
+
+Ainda bem que o cachorro viu e Se dependesse de você, seu cachorro,
+latiu para alertar que caí.    eu estaria lá até hoje.
+
+
+
+
+3.2 - SINÔNIMOS E ANTÔNIMOS
+
+Enquanto sinônimos são vocábulos que se aproximam por uma relação de equivalência ou
+semelhança, os antônimos se conectam semanticamente por uma relação de oposição.
+
+
+
+
+Ao produzir um texto, por exemplo, os sinônimos devem ser utilizados como um recurso, uma
+ferramenta fundamental para evitar a repetição de vocábulos. Mais um motivo para que leiamos
+muito, meus amigos! Ao utilizar tal estratégia, demonstramos domínio da língua portuguesa,
+conferindo dinamismo ao texto.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        5
+        www.estrategiaconcursos.com.br                                                              30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+Exemplos de sinônimos:
+Você parecia uma pedra.
+Você parecia um ignorante.
+Você parecia um estúpido.
+Você parecia um tapado.
+Você parecia um tolo.
+Exemplos de antônimos:
+  Ela foi aprovada, pois estudou tudo. / Ele não passou, pois não estudou nada.
+  O sol estava muito forte. / O sol estava muito fraco.
+  Que coração de pedra! / Que coração mole!
+
+
+3.3 – HOMÔNIMOS E PARÔNIMOS
+
+Os Homônimos são subdivididos nos seguintes tipos:
+1. Homônimos Homógrafos: palavras com a mesma grafia, porém com pronúncia e sentido
+diferentes.
+Você não me convidou para o almoço (substantivo), mesmo sabendo que sempre almoço
+(verbo) com eles.
+3. Homônimos Homófonos: palavras que têm a mesma pronúncia, porém com grafia e sentidos
+diferentes.
+Farei uma sessão de fotos bem ali, na seção de publicidade da empresa.
+3. Homônimos Perfeitos: palavras que têm a mesma grafia e a mesma pronúncia, porém possuem
+sentidos diferentes.
+O aluno do Estratégia Concursos tem muito dinheiro na carteira, porque, durante as aulas,
+não se levantavam da carteira.
+- Parônimos: são as palavras parecidas na pronúncia ou na grafia.
+acurado (feito com carinho) e apurado (desvendado)
+apóstrofe (figura de linguagem) e apóstrofo (sinal gráfico)
+atuar (agir como ator) e autuar (lavrar auto de infração)
+câmara (local de reunião do deputados) e câmera (aparelho que capta e reproduz imagens)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                 6
+        www.estrategiaconcursos.com.br                                                       30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+costear (navegar pela costa) e custear (pagar)
+deferir (atender) e diferir (ser diferente, adiar)
+degradado (estragado) e degredado (exilado)
+descrição (exposição) e discrição (reserva)
+descriminar (inocentar) e discriminar (distinguir)
+eminente (notável) e iminente (próximo a ocorrer).
+flagrante (evidente) e fragrante (cheiroso.
+infligir (aplicar pena) e infringir (transgredir)
+mandado (ordem judicial) e mandato (duração de cargo).
+ratificar (confirmar) e retificar (alterar).
+
+4– REGÊNCIA VERBAL
+Chama-se Regência Verbal a relação de subordinação que ocorre entre um verbo e seus
+complementos (objeto direto, objeto indireto e adjuntos adverbiais).
+
+
+
+
+Inicialmente, é preciso ressaltar que para compreender regência verbal é necessário o domínio de
+alguns conceitos sintáticos já vistos nos passos anteriores.
+A classificação verbal quanto à transitividade permitirá saber se o verbo possui sentido completo ou
+incompleto e, assim, saber se requer, ou não, um complemento.
+
+   CLASSIFICAÇÃO DO VERBO                     SENTIDO DO VERBO                         EXEMPLOS
+
+ INTRANSITIVO - VI                      Sentido completo, sem                  Ontem choveu demais.
+                                        exigência de complemento
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           7
+        www.estrategiaconcursos.com.br                                                                 30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+ TRANSITIVO DIRETO - VTD                Sentido incompleto. Exige              A chuva inundou a cidade.
+                                        objeto sem preposição inicial
+                                        (OD).
+
+ TRANSITIVO INDIRETO - VTI              Sentido incompleto. Exige              A chuva não me atingiu.
+                                        objeto iniciado por preposição
+                                        (OI).
+
+ TRANSITIVO DIRETO E                    Sentido incompleto. Exige dois         Emprestei o guarda-chuva ao
+ INDIRETO- VTDI                         objetos (OD e OI)                      vizinho.
+
+
+
+
+O verbo intransitivo (VI) pode vir acompanhado de um adjunto adverbial, que pode ser tempo, local,
+modo, etc.
+Fui a Brasília. (adjunto adverbial de lugar)
+Choveu ontem. (adjunto adverbial de tempo)
+Cheguei de carro. (adjunto adverbial de modo)
+
+
+4.1 – REGÊNCIA DOS PRINCIPAIS VERBOS COBRADOS EM CONCURSOS
+
+A partir de agora, estudaremos a regência de alguns verbos importantes, frequentemente exigidos
+em provas.
+
+
+
+4.1.1 - ASPIRAR
+
+O verbo aspirar tanto pode ser transitivo direto (= inspirar), quanto pode ser transitivo indireto
+(=almejar).
+Aspirou o ar puro das montanhas. (inspirou – VTD)
+Era justamente a vida que aspirava. (almejava - VTI)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 8
+        www.estrategiaconcursos.com.br                                                                       30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+4.1.2 - ASSISTIR
+
+Quando possui o sentido de “ver”, a preposição é exigida.
+Assisti às palestras sobre a fome na África. (vi às)
+Quando possui o sentido de “dar assistência/ajuda”, não possui preposição.
+Sempre assistiu crianças em situação de pobreza na África. (ajudou as)
+Quando tem o sentido de “pertencer” exige preposição:
+Assiste às crianças o direito à vida. (pertence às)
+
+
+4.1.3 - ATENDER
+
+O verbo atender pode ser tanto transitivo direto (acolher, acatar, conceder) ou transitivo indireto
+(dar/prestar atenção).
+  O professor sempre atende as solicitações dos alunos. (VTD= acatar)
+  O médico atende aos pacientes com dedicação. (VTI=prestar atenção)
+
+
+4.1.4 - CHAMAR
+
+O verbo chamar (= convocar) é verbo transitivo direto. Será transitivo direto ou indireto se significar
+apelidar.
+  Chamei o professor um dia. (VTD= convocar)
+  A turma chamou o professor esperto. (VTD= apelidou)
+  A turma chamou ao professor esperto. (VTI= apelidou)
+  A turma chamou ao professor de esperto. (VTI= apelidou)
+
+
+4.1.5 - CHEGAR
+
+O verbo chegar é regido pela preposição “a”.
+  Chegamos ao último dia de aula do semestre.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              9
+        www.estrategiaconcursos.com.br                                                                    30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+4.1.6 - CUSTAR
+
+O verbo custar pode ser transitivo indireto (= difícil), intransitivo (= valor) ou transitivo direto e
+indireto (=acarretar).
+  Não custava ao professor explicar a matéria. (VTI= ser difícil)
+  Afinal, o curso custou caro. (VI= valor)
+  A má vontade custou-lhe o emprego. (VTDI= acarretou a ele)
+
+
+4.1.7 - HAVER
+
+O verbo haver, quando empregado no sentido de existir/ocorrer, possui três características
+essenciais:
+            i.   É impessoal (a oração não apresenta sujeito);
+        ii.      A impessoalidade do verbo principal (haver) atinge o verbo auxiliar da oração;
+        iii.     O verbo é Transitivo Direto.
+Haverá muitas nomeações dos alunos do Estratégia Concursos.
+Contudo, um erro bastante comum não é a conjugação do verbo “haver”, mas a conjugação dos
+verbos auxiliares que o acompanham.
+Problemas sérios deve haver para quem não estudar.
+Algumas considerações:
+        a)       Como o verbo é Transitivo Direto, há a presença do Objeto Direto (Problemas sérios);
+        b)       Tome cuidado para não cair na tentação de fazer o Verbo Auxiliar (deve) concordar
+                 com o Objeto Direto, pois o verbo deve sempre concordar com o sujeito. Como não
+                 há sujeito, o verbo ficará no singular.
+Características do Verbo “Existir”
+O verbo existir possui três características essenciais:
+            i.   É pessoal (a oração apresenta sujeito);
+        ii.      A pessoalidade do verbo principal atinge o verbo auxiliar da oração;
+        iii.     O verbo é Intransitivo.
+Problemas sérios devem existir para quem não estudar.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             10
+        www.estrategiaconcursos.com.br                                                                   30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+4.1.8 - IR
+
+O verbo ir é regido pela preposição “a”.
+  Vou à França.
+  Irei a São Paulo.
+
+4.1.9 - ESQUECER
+
+O verbo esquecer é transitivo direto, logo não exige preposição.
+  Esqueci o celular no carro.
+Todavia, também pode ser transitivo indireto (= sair da memória) com a presença de pronome.
+Assim, na forma pronominal, deve ser empregado com preposição.
+  Esqueci-me do celular no carro.
+
+
+4.1.10 - IMPLICAR
+
+O verbo implicar é transitivo direto (=acarretar) ou transitivo indireto (=envolver ou =antipatizar).
+  Sua atitude implica sérios danos ao menor. (VTD= acarretar)
+  Implicou o menor no crime. (VTDI= envolver)
+  Ele implicava com o menor o tempo todo. (VTI= antipatizar)
+
+
+4.1.11 - INFORMAR
+
+O verbo informar é sempre transitivo direto e indireto.
+  Informe a matéria aos alunos.
+  Informamos aos professores a nova determinação da Direção.
+
+
+4.1.12 - MORAR
+
+O verbo morar é regido pela preposição “em”.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            11
+        www.estrategiaconcursos.com.br                                                                  30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+  Moro em Brasília.
+  Moro na última casa. (em +a)
+
+
+4.1.13 - NAMORAR
+
+O verbo namorar é transitivo direto. Jamais usar seguido de preposição.
+  Namorou Sérgio durante anos. (CERTO)
+  Namorou com Sérgio durante anos. (ERRADO)
+A utilização da preposição “com” não é gramaticalmente aceita.
+
+
+
+4.1.14 – OBEDECER/DESOBEDECER
+
+Os verbos obedecer e desobedecer são sempre transitivos indiretos.
+  O aluno obedece ao professor.
+  O professor não desobedece à Direção.
+Importante!
+Infelizmente, ocorre bastante o uso incorreto da regência desses verbos.
+  Você não obedeceu as regras. (ERRADO)
+  Você não obedeceu às regras. (CERTO)
+
+
+4.1.15 – PAGAR/PERDOAR
+
+Os verbos pagar e perdoar, quando se referem a coisas, são verbos transitivos diretos.
+Quando se referem a pessoas, são transitivos indiretos.
+Se fizerem referência a coisas e pessoas, são transitivos direto e indireto.
+  Ela pagou a mensalidade da escola. (VTD= refere-se a coisa)
+  O Diretor pagou a todos os professores. (VTI= refere-se a pessoas)
+  Jesus perdoou os pecados de todos que se arrependeram. (VTDI = coisas e pessoas).
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português             12
+        www.estrategiaconcursos.com.br                                                   30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+4.1.16 - PRECISAR
+
+O verbo precisar é transitivo direto (= indica algo com exatidão) ou transitivo      indireto     (=ter
+necessidade).
+  Ela não sabe precisar o montante do dano. (VTD= indicar com exatidão)
+  Portanto, ela precisa de apoio da perícia contábil. (VTI= ter necessidade)
+Importante!
+Se o complemento for um verbo no infinitivo, a preposição não é utilizada.
+  Preciso ir agora.
+  Preciso relaxar um pouco na piscina.
+
+
+4.1.17 – PREFERIR
+
+O verbo preferir é sempre transitivo direto e indireto.
+  Prefiro comer a beber.
+  Prefiro azul ao rosa.
+
+
+4.1.18 - PROCEDER
+
+O verbo proceder é intransitivo (=ter fundamento) ou transitivo indireto (originar-se).
+  Suas reclamações não procedem. (não têm fundamento)
+  Ela procedeu a uma profunda análise sobre seu comportamento. (deu início)
+
+
+4.1.19 - QUERER
+
+O verbo querer pode ser transitivo direto (=desejar) ou transitivo indireto (= estimar, ter afeto).
+  Quero passar no próximo concurso. (VTD= desejar)
+  Quero muito bem aos meus colegas de Tribunal. (VTI= ter afeto)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              13
+        www.estrategiaconcursos.com.br                                                                    30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+4.1.20 - VISAR
+
+O verbo visar pode ser         transitivo       direto (= apontar, mirar, dar o visto) ou transitivo
+indireto (=objetivar).
+  Visei o passaporte da estrangeira. (VTD – dar o visto)
+  O bom atirador visou o bandido e atirou. (VTD= mirou)
+  Esta aula visa ao seu desenvolvimento linguístico. (VTI = objetivar)
+
+
+5 – REGÊNCIA NOMINAL
+Regência nominal é a relação entre o nome (substantivo, adjetivo ou advérbio) e seus
+complementos.
+Há sempre uma preposição intermediando tal relação. A dificuldade está justamente em discernir
+qual a preposição correta a ser utilizada em cada situação.
+Com o intuito de compreender essa matéria da melhor forma, segue uma lista com os nomes e as
+respectivas preposições que os regem.
+Atenção! A lista a seguir apresentada contém os nomes mais cobrados em provas de concurso. Logo,
+não se trata de uma lista completa.
+Não há técnica eficiente de memorização. Somente com muita leitura e treino, ao realizar inúmeras
+questões, é que você terá domínio sobre essa matéria.
+
+
+                                               SUBSTANTIVOS
+                                  Admiração a, por Com respeito a
+                                  Desprezo a, por    Último a, em
+                                  Paralelo a         Vizinho a, de
+                                  Aversão a          Dúvida acerca de
+                                  Simpatia a, por    Capacidade de,
+                                  Atentado a, contra União com, entre, a
+
+
+                                                 ADVÉRBIOS
+                                         Paralelo a
+                                         Reativo a
+                                         Longe de
+                                         Perto de
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           14
+        www.estrategiaconcursos.com.br                                                                 30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+                                                  ADJETIVOS
+                Relativo a                  Acessível a                        Prejudicial a
+                Contemporâneo a, de         Entendido em                       Apto a, para
+                Idêntico a                  Necessário a                       Favorável a
+                Respeito a                  Acostumado a                       Prestes a
+                Nocivo a                    Agradável a                        Ávido de
+                Impróprio para              Escasso a                          Generoso com
+                Satisfeito com, de, em, por Paralelo a                         Propício a
+                Contrário a                 Alheio a, de                       Benéfico a
+                Indeciso em                 Essencial a, para                  Grato a, por
+                Semelhante a                Passível de                        Próximo a
+                Descontente com             Análogo a                          Capaz de, para
+                Insensível a                Fácil de                           Hábil em
+                Sensível a                  Preferível a                       Relacionado com
+                Desejoso de                 Ansioso de, para, por              Compatível com
+                Liberal com                 Fanático por                       Habituado a
+                Sito em                     Diferente de                       Suspeito de
+
+
+
+6 - APOSTA ESTRATÉGICA
+No assunto semântica, a comparação entre homonímia perfeita e polissemia costuma ocorrer e é uma
+questão que deixa muitas pessoas em dúvida.
+Para resolvermos essa dúvida, precisamos ter em mente que polissemia é o nome da característica que uma
+palavra tem de assumir vários significados em diferentes contextos. Então, "carteira", por exemplo, é uma
+palavra polissêmica.
+E, para se detectar a homonímia perfeita, é necessário que uma palavra apareça em diferentes contextos. É
+necessário haver uma comparação.
+Então, resumindo: "carteira", "manga" são palavras polissêmicas que, quando colocadas em questões para
+comparação, apresentarão homonímia perfeita.
+
+
+Sobre o assunto regência, temos mais frequência em questões de regência verbal. Vejamos a regência de
+alguns verbos mais cobrados:
+- Verbo chegar e verbo ir
+Alguns autores apontam esses verbos como transitivos diretos e os seus acompanhamentos seriam objetos
+indiretos. Já outros os consideram verbos intransitivos e tratam seus acompanhamentos como adjuntos
+adverbiais. O que precisamos saber é que pode haver essa diferença e que, já que ela existe, muito
+provavelmente não haverá cobrança de classificação desses verbos na prova. Outra informação importante
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                15
+        www.estrategiaconcursos.com.br                                                                      30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+que precisamos ter em mente é que esses verbos regem a preposição a, seja no complemento verbal, seja
+no adjunto adverbial.
+
+
+- Verbo haver com sentido de existir
+É importante saber aqui que, na oração em que o verbo haver se encontra, não há sujeito, portanto ele não
+sofre flexão de número. Trata-se de um verbo transitivo direto e temos que ter cuidado para não fazer a
+concordância com o objeto direto. Outro ponto importante, e que pode ser cobrado, é que o verbo existir
+sofrerá sim flexão de número. Fique atento então se aparecer questão que compare esses dois verbos.
+
+
+
+
+7- QUESTÕES-CHAVE DE REVISÃO
+                                           Sinônimos/antônimos
+  Questão 01
+  FGV - Técnico Judiciário (TJ CE)/Judiciária/2019
+
+  “Todos aqueles que devem deliberar sobre questões dúbias devem também manter-se imunes ao ódio
+  e à simpatia, à ira e ao sentimentalismo”.
+
+  A única substituição inadequada entre as propostas nas opções abaixo é:
+  a) deliberar = decidir;
+  b) dúbias = duvidosas;
+  c) manter-se = tornar-se;
+  d) imunes = isentos de;
+  e) sentimentalismo = subjetivismo.
+                                          Parônimos/ homônimos
+  Questão 02
+  FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+  A frase em que está correto o emprego de um dos parônimos mandado/mandato é:
+  a) O mandado de senador dura 8 anos;
+  b) Impetrou mandato de segurança com pedido de liminar;
+  c) Não tinha mandado de busca para entrar na casa;
+  d) Todos desejavam que seu mandado de diretor acabasse;
+  e) O mandato de apreensão não havia sido expedido.
+
+                                          Parônimos/ homônimos
+  Questão 03
+  FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+  Há uma série de palavras em língua portuguesa que modificam o seu sentido em função de uma troca
+  vocálica; esse fato só NÃO ocorre em:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                16
+        www.estrategiaconcursos.com.br                                                                      30
+
+                                    https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+a) deferir / diferir;
+b) infarte / infarto;
+c) emergir / imergir;
+d) descrição / discrição;
+e) eminente / iminente.
+
+                                                 Semântica
+Questão 04
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+“Nos anos que antecederam a Segunda Guerra Mundial, alguns escritores, pressentindo certamente
+a era tecnológica que se avizinhava e o conflito bélico que abalaria as raízes de um universo ainda
+estruturado com base na Nação-Estado, dedicaram-se à antevisão do mundo do futuro. H.G. Wells,
+Aldous Huxley, George Orwell, entre outros, iniciando a série de sciencefiction, procuraram descrever
+a sociedade do futuro, como uma projeção das linhas que as descobertas científicas indicavam como
+prováveis. Em todas essas profecias havia uma constante: o mundo novo não conheceria mais a
+liberdade, pelo menos com a latitude e o conceito que dela então se tinha”. (L. G. Nascimento Silva.
+A liberdade e o computador. Revista brasileira de estudos pedagógicos. Rio de Janeiro, nº 116, 1969)
+
+“Em todas essas profecias havia uma constante: o mundo novo não conheceria mais a liberdade, pelo
+menos com a latitude e o conceito que dela então se tinha”.
+
+O vocábulo sublinhado aparece com o mesmo sentido em:
+a) A liberdade não mais existirá no mundo futuro;
+b) Todos terão mais liberdade que agora;
+c) A sociedade futura terá mais tempo disponível;
+d) Dois mais dois serão sempre quatro;
+e) No futuro, viajaremos mais que agora.
+                                                  Regência
+Questão 05
+FGV - Analista Legislativo Municipal (CM Salvador)/Tramitação/2018
+
+Quem protege os cidadãos do estado?
+Renato Mocellin & Rosiane de Camargo, História em Debate
+
+  O conjunto de leis nacionais, assim como de tratados e declarações internacionais ratificadas pelos
+países, busca garantir aos cidadãos o acesso pleno aos direitos conquistados. Há, no entanto,
+inúmeras situações em que o Estado coloca a população em risco, estabelecendo políticas públicas
+autoritárias, investindo poucos recursos nos serviços públicos essenciais e envolvendo civis em
+conflitos armados, por exemplo.
+  Existem diversas organizações internacionais que atuam de forma a evitar que haja risco para a vida
+das pessoas nesses casos, como a Anistia Internacional, a Cruz Vermelha e os Médicos sem Fronteiras.
+Por meio de acordos internacionais, essas instituições conseguem atuar em regiões de conflito onde
+há perigo para a população.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                              17
+      www.estrategiaconcursos.com.br                                                                    30
+
+                                  https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+  Os Médicos sem Fronteiras, por exemplo, nasceram de uma experiência de voluntariado em uma
+guerra civil nigeriana, no fim dos anos 1960. Um grupo de médicos e jornalistas decidiu criar uma
+organização que pudesse oferecer atendimento médico a toda população envolvida em conflitos e
+guerras, sem que essa ação fosse entendida como uma posição política favorável ou contrária aos
+lados envolvidos. Assim, seus membros conseguem chegar a regiões remotas e/ou sob forte
+bombardeio para atender os que estão feridos e sob risco de vida.
+  Para que a imparcialidade dos Médicos sem Fronteiras seja possível, é preciso que as partes
+envolvidas no conflito respeitem os direitos dos pacientes atendidos. Assim, a organização informa a
+localização de suas bases e o tipo de atendimento que deve ocorrer ali; o objetivo é proporcionar uma
+atuação transparente, que sublinhe o caráter humanitário da ação dos profissionais da organização.
+
+O segmento abaixo que apresenta dois complementos (direto e indireto) é:
+a) “garantir aos cidadãos o acesso pleno”;
+b) “coloca a população em risco”;
+c) “investindo poucos recursos nos serviços públicos”;
+d) “haja risco para a vida das pessoas”;
+e) “conseguem atuar em regiões de conflitos”.
+
+                                                  Regência
+Questão 06
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+Assinale a frase que apresenta um erro de regência.
+a) “Todos amam os bons, mas os exploram. Todos detestam os maus, mas os temem e lhes
+obedecem.”
+b) “Toda arte aspira continuamente à condição da música.”
+c) “Não quero que as pessoas sejam muito gentis: isso me poupa do trabalho de gostar muito delas.”
+d) “Culpamos as pessoas que não gostamos pelas gentilezas que nos demonstram.”
+e) “A embriaguez excita e traz à luz todos os vícios.”
+
+                                                  Regência
+Questão 07
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+A frase abaixo em que o emprego da preposição de é fruto da regência de um termo anterior é:
+a) “A saúde de todo o corpo provém da oficina do estômago.”
+b) “Quem come do fruto da árvore da sabedoria sempre é arrojado de algum paraíso.”
+c) “A fé move montanhas do chão, mas não se esqueça de ficar empurrando enquanto você reza.”
+d) “Não gosto de Deus, porque não o conheço, nem do próximo, porque o conheço.”
+e) “A voz do povo é a voz de Deus.”
+                                                  Regência
+Questão 08
+FGV - Especialista Legislativo de Nível Superior (ALERJ)/Registro de Debates/2017
+
+A regência verbal está correta na seguinte frase:
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                              18
+      www.estrategiaconcursos.com.br                                                                    30
+
+                                  https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+   a) Os imigrantes aspiram uma vida mais tranquila;
+   b) Os alunos obedeciam rigorosamente o inspetor;
+   c) O guarda presenciou ao assalto de longe;
+   d) O assaltante agrediu a vítima sem necessidade;
+   e) Os patrões pagaram a faxineira o serviço feito.
+
+                                                    Regência
+Questão 09
+FGV - Técnico Judiciário (TRT 12ª Região)/Administrativa/"Sem Especialidade"/2017
+
+
+Diante de um questionamento de um professor, um aluno declara: “Eu prefiro um livro do que uma história
+em quadrinhos. Quando contamos uma história com palavras, podemos dar mais detalhes. Se um escritor
+quisesse descrever alguém que morre de vontade de comer um omelete, ele escreveria: ‘Ele estava sentado,
+ele se mexia, se mexia, ele morria de vontade de comer’. Numa tira de quadrinhos, veríamos esse
+personagem curvado sobre um prato de omelete. Seria pouco atraente”.
+
+Nesse segmento do texto há um problema de norma culta; o segmento em que se mostra um erro
+gramatical é:
+a) Eu prefiro um livro do que uma história em quadrinhos.
+b) Quando contamos uma história com palavras, podemos dar mais detalhes.
+c) Se um escritor quisesse descrever alguém...
+d) Ele estava sentado, ele se mexia, se mexia...
+e) ...ele morria de vontade de comer.
+Regência
+Questão 10
+FGV - Recenseador (IBGE)/2017
+
+
+“Silva, Oliveira, Faria, Ferreira... Todo mundo tem um sobrenome e temos de agradecer aos romanos por
+isso. Foi esse povo, que há mais de dois mil anos ergueu um império com a conquista de boa parte das terras
+banhadas pelo Mediterrâneo, o inventor da moda. Eles tiveram a ideia de juntar ao nome comum, ou
+prenome, um nome.
+Por quê? Porque o império romano crescia e eles precisavam indicar o clã a que a pessoa pertencia ou o lugar
+onde tinha nascido”.
+(Ciência Hoje, março de 2014)
+
+
+“Porque o império romano crescia e eles precisavam indicar o clã a que a pessoa pertencia ou o lugar onde
+tinha nascido”.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   19
+        www.estrategiaconcursos.com.br                                                                         30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+Nesse segmento do texto há o emprego correto do termo “que” precedido da preposição “a” em razão de
+estar na mesma oração o verbo “pertencer”, que exige essa preposição.
+
+A frase abaixo que está correta nesse mesmo aspecto é:
+a) O prato que mais gosta é lagosta.
+b) O local que fui na semana passada é bastante interessante.
+c) Esta é a cena a que todos aplaudiram.
+d) Esse foi o questionário a que eles preencheram.
+e) Essas foram as ordens a que eles obedeceram.
+
+                                                    Regência
+Questão 11
+FGV - 2021 - Câmara de Aracaju - SE - Assistente Administrativo
+
+
+“Um diplomata é aquele que sempre lembra o aniversário de uma mulher, mas nunca a sua idade.”
+Se retirarmos “sempre” da frase e substituirmos “lembra” por “se lembra”, a frase correta será:
+A. Um diplomata é aquele que lembra-se do aniversário de uma mulher, mas nunca a sua idade;
+B. Um diplomata é aquele que se lembra do aniversário de uma mulher, mas nunca da sua idade;
+C. Um diplomata é aquele que se lembra o aniversário de uma mulher, mas nunca a sua idade;
+D. Um diplomata é aquele que se lembra do aniversário de uma mulher, mas nunca a sua idade;
+E. Um diplomata é aquele que lembra-se do aniversário de uma mulher, mas nunca da sua idade.
+
+
+
+
+8 – LISTA DE QUESTÕES COMENTADAS
+                                           Sinônimos/antônimos
+  Questão 01
+  FGV - Técnico Judiciário (TJ CE)/Judiciária/2019
+
+  “Todos aqueles que devem deliberar sobre questões dúbias devem também manter-se imunes ao ódio
+  e à simpatia, à ira e ao sentimentalismo”.
+
+  A única substituição inadequada entre as propostas nas opções abaixo é:
+  a) deliberar = decidir;
+  b) dúbias = duvidosas;
+  c) manter-se = tornar-se;
+  d) imunes = isentos de;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          20
+        www.estrategiaconcursos.com.br                                                                30
+
+                                    https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+e) sentimentalismo = subjetivismo.
+Comentário:
+Vamos analisar as alternativas em busca daquela que está inadequada no que diz respeito à sinonímia.
+A – incorreta - o termo “deliberar” tem como sentido decidir após determinada discussão, sendo a
+substituição é possível.
+B – incorreta – a substituição é possível porque dúbias tem como sinônimos incertas, indefinidas e
+duvidosas.
+C – CORRETA – a substituição aqui não é possível porque “manter-se” significa conservar-se e “tornar-
+se” significa mudar, transformar-se.
+D – incorreta – o termo “imunes” tem como um de seus sinônimos o termo isentos, que rege
+preposição de, portanto, a substituição é possível.
+E – incorreta – o termo “sentimentalismo” pode ser substituído por subjetivismo, ambos significam a
+qualidade do que é sentimental, íntimo.
+Gabarito: C
+
+                                        Parônimos/ homônimos
+Questão 02
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+A frase em que está correto o emprego de um dos parônimos mandado/mandato é:
+a) O mandado de senador dura 8 anos;
+b) Impetrou mandato de segurança com pedido de liminar;
+c) Não tinha mandado de busca para entrar na casa;
+d) Todos desejavam que seu mandado de diretor acabasse;
+e) O mandato de apreensão não havia sido expedido.
+Comentário:
+O termo “mandado” significa ordem emitida por juiz e “mandato” é um poder que alguém conferiu a
+outro para agir em seu nome. Ambas, apesar de serem parônimas, terem somente uma letra diferente
+na grafia, têm significados bem distintos.
+Analisando as alternativas, temos:
+A - O mandado de senador dura 8 anos;
+Incorreta – aqui o correto seria mandato, pois o senador age em nome do povo.
+B - Impetrou mandato de segurança com pedido de liminar;
+Incorreta – nesse caso o correto seria impetrou (o juiz) mandado de segurança.
+C - Não tinha mandado de busca para entrar na casa;
+CORRETA – “mandado de busca” está correto, já que mandado é ordem expedida por juiz.
+D - Todos desejavam que seu mandado de diretor acabasse;
+Incorreta – mandato de diretor seria o correto.
+E - O mandato de apreensão não havia sido expedido.
+Incorreta – mandado de apreensão é o correto.
+Gabarito: C
+
+                                        Parônimos/ homônimos
+Questão 03
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                              21
+      www.estrategiaconcursos.com.br                                                                    30
+
+                                  https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+Há uma série de palavras em língua portuguesa que modificam o seu sentido em função de uma troca
+vocálica; esse fato só NÃO ocorre em:
+a) deferir / diferir;
+b) infarte / infarto;
+c) emergir / imergir;
+d) descrição / discrição;
+e) eminente / iminente.
+Comentário:
+A – incorreta - deferir e diferir são parônimas, têm como significados atender ao que é solicitado e
+diferenciar, respectivamente.
+B – CORRETA – infarte e infarto são dois vocábulos existentes na língua portuguesa, são parônimos e
+sinônimos ao mesmo tempo porque têm grafias quase iguais e significados iguais.
+C – incorreta - emergir e imergir são parônimas, uma significa vir à tona e a outra significa afundar,
+estar imerso, respectivamente.
+D – incorreta – descrição é a representação oral ou escrita de algo e discrição é a qualidade de ser
+discreto.
+E – incorreta – eminente significa alto, acima do esperado, já iminente tem como significado o que
+está prestes a acontecer.
+Gabarito: B
+
+                                                 Semântica
+Questão 04
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+“Nos anos que antecederam a Segunda Guerra Mundial, alguns escritores, pressentindo certamente
+a era tecnológica que se avizinhava e o conflito bélico que abalaria as raízes de um universo ainda
+estruturado com base na Nação-Estado, dedicaram-se à antevisão do mundo do futuro. H.G. Wells,
+Aldous Huxley, George Orwell, entre outros, iniciando a série de sciencefiction, procuraram descrever
+a sociedade do futuro, como uma projeção das linhas que as descobertas científicas indicavam como
+prováveis. Em todas essas profecias havia uma constante: o mundo novo não conheceria mais a
+liberdade, pelo menos com a latitude e o conceito que dela então se tinha”. (L. G. Nascimento Silva.
+A liberdade e o computador. Revista brasileira de estudos pedagógicos. Rio de Janeiro, nº 116, 1969)
+
+“Em todas essas profecias havia uma constante: o mundo novo não conheceria mais a liberdade, pelo
+menos com a latitude e o conceito que dela então se tinha”.
+
+O vocábulo sublinhado aparece com o mesmo sentido em:
+a) A liberdade não mais existirá no mundo futuro;
+b) Todos terão mais liberdade que agora;
+c) A sociedade futura terá mais tempo disponível;
+d) Dois mais dois serão sempre quatro;
+e) No futuro, viajaremos mais que agora.
+Comentário:
+Na frase em análise, o termo “mais” aliado ao advérbio “não” levanta ideia de suspensão de
+determinada ação, de interrompê-la: o conhecimento da liberdade foi interrompido.
+Dentre as alternativas, a letra A já nos apresenta tal vocábulo com o mesmo sentido e em um contexto
+bem parecido.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                               22
+      www.estrategiaconcursos.com.br                                                                     30
+
+                                  https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+Nas demais alternativas, o sentido do vocábulo é:
+B – intensidade, aumento
+C – intensidade, aumento
+D – soma, adição
+E – intensidade, aumento
+Gabarito: A
+
+                                                  Regência
+Questão 05
+FGV - Analista Legislativo Municipal (CM Salvador)/Tramitação/2018
+
+Quem protege os cidadãos do estado?
+Renato Mocellin & Rosiane de Camargo, História em Debate
+
+  O conjunto de leis nacionais, assim como de tratados e declarações internacionais ratificadas pelos
+países, busca garantir aos cidadãos o acesso pleno aos direitos conquistados. Há, no entanto,
+inúmeras situações em que o Estado coloca a população em risco, estabelecendo políticas públicas
+autoritárias, investindo poucos recursos nos serviços públicos essenciais e envolvendo civis em
+conflitos armados, por exemplo.
+  Existem diversas organizações internacionais que atuam de forma a evitar que haja risco para a vida
+das pessoas nesses casos, como a Anistia Internacional, a Cruz Vermelha e os Médicos sem Fronteiras.
+Por meio de acordos internacionais, essas instituições conseguem atuar em regiões de conflito onde
+há perigo para a população.
+  Os Médicos sem Fronteiras, por exemplo, nasceram de uma experiência de voluntariado em uma
+guerra civil nigeriana, no fim dos anos 1960. Um grupo de médicos e jornalistas decidiu criar uma
+organização que pudesse oferecer atendimento médico a toda população envolvida em conflitos e
+guerras, sem que essa ação fosse entendida como uma posição política favorável ou contrária aos
+lados envolvidos. Assim, seus membros conseguem chegar a regiões remotas e/ou sob forte
+bombardeio para atender os que estão feridos e sob risco de vida.
+  Para que a imparcialidade dos Médicos sem Fronteiras seja possível, é preciso que as partes
+envolvidas no conflito respeitem os direitos dos pacientes atendidos. Assim, a organização informa a
+localização de suas bases e o tipo de atendimento que deve ocorrer ali; o objetivo é proporcionar uma
+atuação transparente, que sublinhe o caráter humanitário da ação dos profissionais da organização.
+
+O segmento abaixo que apresenta dois complementos (direto e indireto) é:
+a) “garantir aos cidadãos o acesso pleno”;
+b) “coloca a população em risco”;
+c) “investindo poucos recursos nos serviços públicos”;
+d) “haja risco para a vida das pessoas”;
+e) “conseguem atuar em regiões de conflitos”.
+Comentário:
+Analisando as alternativas em busca do termo que rege dois complementos, temos:
+A - “garantir aos cidadãos o acesso pleno”;
+CORRETA – o verbo “garantir”, nesse contexto, é bitransitivo e rege, portanto, objeto direto (o acesso)
+e indireto (aos cidadãos).
+B - “coloca a população em risco”;
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                                23
+      www.estrategiaconcursos.com.br                                                                      30
+
+                                  https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+Incorreta – o verbo “coloca” é transitivo direto e tem como objeto o termo “a população”; a expressão
+“em risco” é adjunto adverbial de modo.
+C - “investindo poucos recursos nos serviços públicos”;
+Incorreta – o termo “investindo” é verbo transitivo direto é rege um complemento direto (poucos
+recursos); “nos serviços públicos” é adjunto adverbial de lugar.
+D - “haja risco para a vida das pessoas”;
+Incorreta – o verbo “haja” também exige apenas um complemento direto (risco); “para a vida das
+pessoas” é adjunto adnominal de “risco”.
+E - “conseguem atuar em regiões de conflitos”.
+Incorreta – o verbo “conseguem” é também transitivo direto e tem apenas um complemento (atuar);
+“em regiões de conflitos” é adjunto adverbial de lugar.
+Gabarito: A
+
+                                                  Regência
+Questão 06
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+Assinale a frase que apresenta um erro de regência.
+a) “Todos amam os bons, mas os exploram. Todos detestam os maus, mas os temem e lhes
+obedecem.”
+b) “Toda arte aspira continuamente à condição da música.”
+c) “Não quero que as pessoas sejam muito gentis: isso me poupa do trabalho de gostar muito delas.”
+d) “Culpamos as pessoas que não gostamos pelas gentilezas que nos demonstram.”
+e) “A embriaguez excita e traz à luz todos os vícios.”
+Comentário:
+A - “Todos amam os bons, mas os exploram. Todos detestam os maus, mas os temem e lhes
+obedecem.”
+Correta – e as relações regenciais são: “amam” é transitivo direto (VTD) e seu complemento direto é
+“os bons”; “exploram” é VTD e seu complemento é “os”, que está retomando “os bons”; “detestam” é
+VTD e seu complemento é “os maus”; “temem” é VTD e seu complemento é “os”, retomando “os
+maus”; “obedecem” é transitivo indireto VTI e seu complemento é “lhes”, retomando “os maus”.
+B - “Toda arte aspira continuamente à condição da música.”
+Correta – o verbo “aspira” rege preposição a, portanto é transitivo indireto e tem como complemento
+o elemento “a condição”: aspira a a condição.
+C - “Não quero que as pessoas sejam muito gentis: isso me poupa do trabalho de gostar muito delas.”
+Correta – “quero” é VTD e seu complemento é “que as pessoas sejam muito gentis”; “poupa” é verbo
+transitivo direto e indireto, rege preposição de em seu complemento indireto; o substantivo
+“trabalho” rege preposição de e “gostar” também rege.
+D - “Culpamos as pessoas que não gostamos pelas gentilezas que nos demonstram.”
+REGÊNCIA INCORRETA – o verbo “gostamos” rege preposição de, mas seu complemento não está
+preposicionado: gostamos das pessoas, o correto seria: as pessoas de que gostamos.
+E - “A embriaguez excita e traz à luz todos os vícios.”
+Correta – “excita” verbo intransitivo e “traz” é verbo transitivo direto e indireto, regendo preposição a
+em seu complemento indireto (a luz).
+Gabarito: D
+
+                                                  Regência
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                                  24
+      www.estrategiaconcursos.com.br                                                                        30
+
+                                  https://t.me/KakashiAssinaturasBot
+Carlos Roberto Correa
+Aula 05
+
+
+
+
+Questão 07
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+A frase abaixo em que o emprego da preposição de é fruto da regência de um termo anterior é:
+a) “A saúde de todo o corpo provém da oficina do estômago.”
+b) “Quem come do fruto da árvore da sabedoria sempre é arrojado de algum paraíso.”
+c) “A fé move montanhas do chão, mas não se esqueça de ficar empurrando enquanto você reza.”
+d) “Não gosto de Deus, porque não o conheço, nem do próximo, porque o conheço.”
+e) “A voz do povo é a voz de Deus.”
+Comentário:
+A preposição “de” aparece várias vezes no texto, mas vamos nos ater àquelas que estão destacadas.
+A - “A saúde de todo o corpo provém da oficina do estômago.”
+Incorreta – a preposição “do” está funcionando meramente para conectar dois substantivos e, em
+conjunto com o segundo, dá especificidade ao primeiro, formando uma locução adjetiva.
+B - “Quem come do fruto da árvore da sabedoria sempre é arrojado de algum paraíso.”
+Incorreta – o verbo “come” não rege preposição em seu complemento, portanto a preposição no
+contexto em que foi empregada tem valor expletivo.
+C - “A fé move montanhas do chão, mas não se esqueça de ficar empurrando enquanto você reza.”
+Incorreta – o verbo “mover” não rege preposição em seu complemento, portanto a preposição em
+destaque apenas conecta expressões, mas em conjunto com a palavra “chão” forma um adjunto
+adverbial de lugar.
+D - “Não gosto de Deus, porque não o conheço, nem do próximo, porque o conheço.”
+CORRETA – a preposição sublinhada é proveniente da regência do verbo gostar: nem (gosto) do
+próximo.
+E - “A voz do povo é a voz de Deus.”
+Incorreta – o termo “voz” não necessita de complemento para ter sentido, portanto o termo “de Deus”
+é apenas um adjunto adnominal de “voz” e a preposição “de” faz apenas a ligação entre os elementos.
+Gabarito: D
+                                                  Regência
+Questão 08
+FGV - Especialista Legislativo de Nível Superior (ALERJ)/Registro de Debates/2017
+
+A regência verbal está correta na seguinte frase:
+a) Os imigrantes aspiram uma vida mais tranquila;
+b) Os alunos obedeciam rigorosamente o inspetor;
+c) O guarda presenciou ao assalto de longe;
+d) O assaltante agrediu a vítima sem necessidade;
+e) Os patrões pagaram a faxineira o serviço feito.
+Comentário:
+A - Os imigrantes aspiram uma vida mais tranquila;
+Incorreta – a forma verbal “aspiram” rege preposição a em seu complemento nesse contexto.
+Frase correta: Os imigrantes aspiram a uma vida mais tranquila.
+B - Os alunos obedeciam rigorosamente o inspetor;
+Incorreta – a forma verbal “obedeciam” rege preposição a em seu complemento.
+Frase correta: Os alunos obedeciam rigorosamente ao inspetor.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                            25
+      www.estrategiaconcursos.com.br                                                                  30
+
+                                  https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+  C - O guarda presenciou ao assalto de longe;
+  Incorreta – a forma verbal “presenciou” não rege preposição em seu complemento por ser um verbo
+  transitivo direto.
+  Frase correta: O guarda presenciou o assalto de longe.
+  D - O assaltante agrediu a vítima sem necessidade;
+  CORRETA – o verbo agredir é transitivo direto e não rege preposição em seu complemento.
+  E - Os patrões pagaram a faxineira o serviço feito.
+  Incorreta – a forma verbal “pagaram” é bitransitiva e rege preposição a em seu complemento indireto.
+  Frase correta: Os patrões pagaram à faxineira o serviço feito.
+  Gabarito: D
+
+                                                    Regência
+  Questão 09
+  FGV - Técnico Judiciário (TRT 12ª Região)/Administrativa/"Sem Especialidade"/2017
+
+  Diante de um questionamento de um professor, um aluno declara: “Eu prefiro um livro do que uma
+  história em quadrinhos. Quando contamos uma história com palavras, podemos dar mais detalhes.
+  Se um escritor quisesse descrever alguém que morre de vontade de comer um omelete, ele escreveria:
+  ‘Ele estava sentado, ele se mexia, se mexia, ele morria de vontade de comer’. Numa tira de quadrinhos,
+  veríamos esse personagem curvado sobre um prato de omelete. Seria pouco atraente”.
+
+  Nesse segmento do texto há um problema de norma culta; o segmento em que se mostra um erro
+  gramatical é:
+  a) Eu prefiro um livro do que uma história em quadrinhos.
+  b) Quando contamos uma história com palavras, podemos dar mais detalhes.
+  c) Se um escritor quisesse descrever alguém...
+  d) Ele estava sentado, ele se mexia, se mexia...
+  e) ...ele morria de vontade de comer.
+  Comentário:
+  Nas alternativas, a frase que possui erro gramatical é a que consta na letra A: “Eu prefiro um livro do
+  que uma história em quadrinhos”. Há erro de regência pois o verbo preferir é bitransitivo e rege preposição
+  a no lugar de de em seu complemento preposicionado, sendo a expressão “do que” incorreta. O correto,
+  portanto, seria Eu prefiro um livro a uma história em quadrinhos.
+  Gabarito: A
+
+                                                    Regência
+Questão 10
+FGV - Recenseador (IBGE)/2017
+
+
+“Silva, Oliveira, Faria, Ferreira... Todo mundo tem um sobrenome e temos de agradecer aos romanos por
+isso. Foi esse povo, que há mais de dois mil anos ergueu um império com a conquista de boa parte das terras
+banhadas pelo Mediterrâneo, o inventor da moda. Eles tiveram a ideia de juntar ao nome comum, ou
+prenome, um nome.
+Por quê? Porque o império romano crescia e eles precisavam indicar o clã a que a pessoa pertencia ou o lugar
+onde tinha nascido”.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    26
+        www.estrategiaconcursos.com.br                                                                          30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+(Ciência Hoje, março de 2014)
+
+
+“Porque o império romano crescia e eles precisavam indicar o clã a que a pessoa pertencia ou o lugar onde
+tinha nascido”.
+
+Nesse segmento do texto há o emprego correto do termo “que” precedido da preposição “a” em razão de
+estar na mesma oração o verbo “pertencer”, que exige essa preposição.
+
+A frase abaixo que está correta nesse mesmo aspecto é:
+a) O prato que mais gosta é lagosta.
+b) O local que fui na semana passada é bastante interessante.
+c) Esta é a cena a que todos aplaudiram.
+d) Esse foi o questionário a que eles preencheram.
+e) Essas foram as ordens a que eles obedeceram.
+Comentário:
+A - O prato que mais gosta é lagosta.
+Incorreta – o verbo “gosta” rege preposição de.
+Frase correta: O prato de que mais gosta é lagosta.
+B - O local que fui na semana passada é bastante interessante.
+Incorreta – a forma verbal “fui” rege preposição a.
+Frase correta: O local a que fui na semana passada é bastante interessante./ O local ao qual fui na semana
+passada é bastante interessante. (nesse último caso com a alteração do pronome relativo “que” para o qual)
+C - Esta é a cena a que todos aplaudiram.
+Incorreta – a forma verbal “aplaudiram” não rege preposição em seu complemento.
+Frase correta: Esta é a cena que todos aplaudiram
+D - Esse foi o questionário a que eles preencheram.
+Incorreta – a forma verbal “preencheram” não rege preposição em seu complemento.
+Frase correta: Esse foi o questionário que eles preencheram.
+E - Essas foram as ordens a que eles obedeceram.
+CORRETA - o pronome “que” está precedido de preposição a, que é regida pelo verbo “obedeceram”.
+Gabarito: E
+
+                                                    Regência
+Questão 11
+FGV - 2021 - Câmara de Aracaju - SE - Assistente Administrativo
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 27
+        www.estrategiaconcursos.com.br                                                                       30
+
+                                    https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+“Um diplomata é aquele que sempre lembra o aniversário de uma mulher, mas nunca a sua idade.”
+Se retirarmos “sempre” da frase e substituirmos “lembra” por “se lembra”, a frase correta será:
+A. Um diplomata é aquele que lembra-se do aniversário de uma mulher, mas nunca a sua idade;
+B. Um diplomata é aquele que se lembra do aniversário de uma mulher, mas nunca da sua idade;
+C. Um diplomata é aquele que se lembra o aniversário de uma mulher, mas nunca a sua idade;
+D. Um diplomata é aquele que se lembra do aniversário de uma mulher, mas nunca a sua idade;
+E. Um diplomata é aquele que lembra-se do aniversário de uma mulher, mas nunca da sua idade.
+Comentário: o verbo "lembrar-se" exige a preposição "de", isso faz com que a frase seja reescrita como está
+na letra B, respeitando inclusive a próclise por conta da palavra atrativa "que".
+Gabarito: B
+
+
+
+
+9 - REVISÃO ESTRATÉGICA
+
+9.1 PERGUNTAS
+
+   1. Diferencie significante de significado.
+   2. Conceitue sentido denotativo e sentido conotativo.
+   3. Diferencie os tipos de homonímia.
+   4. O que é regência verbal?
+   5. Defina transitividade verbal.
+   6. Cite a classificação dos diferentes tipos de verbo no que respeita a sua transitividade.
+   7. Defina cada uma das classificações do verbo quanto a sua transitividade.
+   8. De acordo com a transitividade, cite os diferentes complementos ou acompanhamentos que
+       podem ser associados aos verbos.
+   9. Na língua portuguesa, os vocábulos podem assumir diferentes funções, classificações e sentidos
+       a depender do contexto em que estiverem inseridos. O verbo haver, por exemplo, com sentido
+       de existir, comporta-se de maneira diferente do verbo existir e diferente também se comparado
+       aos demais verbos transitivos diretos. Cite as características essenciais do verbo haver.
+   10. Defina regência nominal.
+
+
+
+9.2 PERGUNTAS E RESPOSTAS
+
+ 1. Diferencie significante e significado.
+    Significante é a imagem mental que o cérebro humano cria ao ler ou ao ouvir a pronúncia de
+    determinado vocábulo. Já o significado vai depender do contexto, é o conceito que um vocábulo pode
+    assumir nos diferentes contextos em que ocorrer.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  28
+        www.estrategiaconcursos.com.br                                                                        30
+
+                                    https://t.me/KakashiAssinaturasBot
+ Carlos Roberto Correa
+ Aula 05
+
+
+
+
+2. Conceitue sentido denotativo e sentido conotativo.
+   Sentido conotativo é o sentido relacionado ao significado secundário, subjetivo, particular, figurado e
+   simbólico de uma palavra no contexto em que se encontra.
+   Sentido denotativo é aquele significado encontrado no dicionário de determinada palavra. Trata-se do
+   sentido base, literal de uma palavra.
+
+3. Diferencie os tipos de homonímia.
+   Os vocábulos classificados como homônimos homógrafos (homo=igual; grafo=grafia) apresentam a
+   mesma grafia, mas pronúncia e sentidos diferentes.
+   Aqueles classificados como homônimos homófonos (homo=igual; fono=som) apresentam mesma
+   pronúncia com grafia e sentidos diferentes.
+   E há os homônimos perfeitos, que são os que possuem tanto grafia quanto pronúncia iguais, mas
+   sentidos diferentes.
+
+4. O que é regência verbal?
+   É a relação de subordinação que ocorre entre um verbo e seus complementos.
+
+5. Defina transitividade verbal.
+   É a relação estabelecida entre o verbo e outros termos da oração, definindo se determinado verbo
+   necessita de complemento para ter sentido completo ou não.
+
+6. Cite a classificação dos diferentes tipos de verbo no que respeita a sua transitividade.
+   Os verbos podem ser classificados como transitivo direto, transitivo indireto e intransitivo.
+
+7. Defina cada uma das classificações do verbo quanto a sua transitividade.
+   Os verbos transitivos diretos e os transitivos indiretos não possuem sentido completo e necessitam de
+   complemento verbal. Os verbos intransitivos possuem sentido completo.
+
+8. De acordo com a transitividade, cite os diferentes complementos ou acompanhamentos que
+   podem ser associados aos verbos.
+   Os verbos transitivos diretos são acompanhados, obrigatoriamente, por objetos diretos. Já os verbos
+   transitivos indiretos são ligados a objetos indiretos, complementos que se unem a esse tipo de verbo
+   com o auxílio de uma preposição. Já os verbos intransitivos, por possuírem sentido completo, algumas
+   vezes são acompanhados apenas por adjuntos adverbiais.
+
+9. Na língua portuguesa, os vocábulos podem assumir diferentes funções, classificações e sentidos a
+   depender do contexto em que estiverem inseridos. O verbo haver, por exemplo, com sentido de
+   existir, comporta-se de maneira diferente do verbo existir e diferente também se comparado aos
+   demais verbos transitivos diretos. Cite duas características essenciais do verbo haver.
+   - O verbo haver com sentido de existir é impessoal, portanto a oração em que se encontrar será sem
+   sujeito.
+   - Se estiver em uma locução verbal, fará com que também o verbo principal seja impessoal, de modo
+   que não haverá relação de concordância na oração.
+
+10. Defina regência nominal.
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                  29
+       www.estrategiaconcursos.com.br                                                                        30
+
+                                   https://t.me/KakashiAssinaturasBot
+  Carlos Roberto Correa
+  Aula 05
+
+
+
+
+    É a relação existente entre um nome (substantivo, adjetivo ou advérbio) e os termos regidos por esse
+    nome.
+
+
+Servidores, chegamos ao final de mais uma aula. Façam uma boa revisão dos conceitos vistos hoje
+para gabaritarem as provas de Língua Portuguesa. Na próxima aula, continuaremos avançando
+gradativamente, de modo a visitar cada tópico cobrado pela banca examinadora. Estejam atentos
+aos percentuais estatísticos de cobrança para direcionarem seus estudos, ok?
+Forte abraço!
+
+Prof. Carlos Roberto
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               30
+        www.estrategiaconcursos.com.br                                                                     30
+
+                                    https://t.me/KakashiAssinaturasBot
+

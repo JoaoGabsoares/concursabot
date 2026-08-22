@@ -1,0 +1,1079 @@
+                                                     Aula 05
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Estatística
+
+
+
+
+                                                          Autor:
+                                          Allan Maux Santana
+
+
+
+
+                                              19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Allan Maux Santana
+      Aula 05
+
+
+
+
+                                                                                     Índice
+1) Correlação e Regressão
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                                                    2
+                www.estrategiaconcursos.com.br                                                                                                                                           23
+
+                                                             https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 05
+
+
+
+
+                      CORRELAÇÃO / REGRESSÃO LINEAR
+Sumário
+
+   O que é mais cobrado dentro do assunto .................................................................................... 2
+
+Roteiro de revisão e pontos do assunto que merecem destaque ................................................... 2
+
+   Correlação..................................................................................................................................... 2
+
+   Propriedades do Coeficiente de Correlação: ............................................................................... 4
+
+   Regressão Linear ........................................................................................................................... 4
+
+Questões estratégicas ...................................................................................................................... 5
+
+Lista de Questões Estratégicas ...................................................................................................... 15
+
+   Gabarito ...................................................................................................................................... 20
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                 3
+           www.estrategiaconcursos.com.br                                                                                                        23
+
+                                               https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+
+O que é mais cobrado dentro do assunto
+
+                                         Assunto                                 Grau de incidência
+                        ANÁLISE DE REGRESSÃO LINEAR                                   72,00%
+                               CORRELAÇÃO LINEAR                                      28,00%
+                                     TOTAL                                           100,00%
+
+
+
+
+   ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE MERECEM
+                                                 DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a
+seguir:
+
+
+Correlação
+
+Sabemos que em alguns casos existe a necessidade de se estudar o comportamento entre duas
+variáveis, por exemplo: Altura x Massa
+
+Será que existe alguma correlação entre elas?
+
+Será que com o aumento da Altura, haverá, necessariamente, o aumento da Massa, ou vice-versa?
+
+Podemos entender um pouco melhor sobre isso, ao representarmos essas variáveis em um Gráfico
+de Dispersão, vejam a seguir
+
+
+
+
+                  Altura
+
+
+
+
+                                                    Massa
+
+A Correlação mensura o grau de relacionamento entre duas variáveis.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                   4
+        www.estrategiaconcursos.com.br                                                           23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+Já a Regressão determina uma equação (função) matemática que descreve o relacionamento
+entre essas duas variáveis.
+
+Será que esses pontos podem ser correlacionados através de uma reta (linha)?
+
+Vejam que eles estão bem próximos, mas, apesar de podermos até observar um pouco isso, não
+poderemos dar essa resposta apenas olhando o gráfico. Utilizaremos a seguinte fórmula:
+
+                             Coeficiente de Correlação Linear de Pearson (r):
+
+
+                                                ∑[5𝑿𝒊 − 𝑿6 ∙ 5𝒀𝒊 − 𝒀6]
+                                    𝒓=
+                                            7∑(𝑿𝒊 − 𝑿)𝟐 ∙ ∑(𝒀𝒊 − 𝒀)𝟐
+                                                         ==219a34==
+
+
+
+
+                                                   -1 ≤ 𝒓 ≤ 1
+
+     Lembrem que existe outra forma de calcular o numerador e o denominador de “r”:
+
+                               [ 𝑋& − 𝑋 ∙ 𝑌& − 𝑌 ] =                    𝑿𝒊 ∙ 𝒀𝒊 − 𝒏 ∙ 𝑿 ∙ 𝒀
+
+
+                                           (𝑋& − 𝑋)2 =                 𝑿𝟐𝒊 − 𝒏 ∙ (𝑿)𝟐
+
+
+                                            (𝑌& − 𝑌)2 =               𝒀𝟐𝒊 − 𝒏 ∙ (𝒀)𝟐
+
+Correlação Positiva indica Grandezas que variam no mesmo sentido. Reta Crescente.
+
+Correlação Negativa indica Grandezas que variam em sentidos contrários. Reta Decrescente.
+
+A Correlação Linear será perfeita, quando r = 1 ou -1. Isso significa que todos os pontos estão
+exatamente em cima da reta.
+
+Caso o resultado seja nulo, não há correlação linear, mas poderá existir uma outra correlação,
+ok?
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                5
+        www.estrategiaconcursos.com.br                                                        23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+
+Propriedades do Coeficiente de Correlação:
+
+
+
+
+P.1.: Se adicionarmos, ou subtrairmos, constantes às variáveis, o Coeficiente de Correlação não
+será alterado.
+
+P.2.: Se multiplicarmos, ou dividirmos, as variáveis por constantes, poderá, ou não, ser alterado.
+
+Constantes de mesmo sinal não alterará o Coeficiente de Correlação. No entanto, se as constantes
+tiverem sinais contrários, logo o Coeficiente de Correlação terá o sinal simétrico ao inicial.
+
+
+
+
+Regressão Linear
+
+O modelo Estatístico de uma Regressão Linear Simples entre X e Y é dado por:
+
+
+                                     𝒀𝒊 = 𝜶 + 𝜷 ∙ 𝑿 𝒊 + 𝝊 𝒊
+
+
+𝝊𝒊 : Variável Aleatória (Erro ou desvio)
+
+𝑿𝒊 : Variável Independente
+
+𝒀𝒊 : Variável Dependente
+
+                          Pressupostos da Variável Aleatória:
+                                E (𝝊𝒊 ) = 0 (média dos Erros)
+                              Var (𝝊𝒊 ) = 𝝈𝟐 (homocedasticia)
+                    Cov (𝝊𝒊 , 𝝊𝒋 ) = 0 para i ≠ j (erros independentes)
+
+Vamos agora ao ponto principal do nosso assunto. Lembrem do modelo:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  6
+        www.estrategiaconcursos.com.br                                                         23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+
+                                      𝒀𝒊 = 𝜶 + 𝜷 ∙ 𝑿 𝒊 + 𝝊 𝒊
+
+
+O método de Mínimos Quadrados vai determinar os estimadores de 𝜶 e 𝜷.
+
+Sejam “a” e “b” as estimativas de 𝜶 e 𝜷. Logo, A reta da regressão estimada é dada por:
+
+                                                 𝒀 = 𝒂 + 𝒃 𝑿𝒊
+O valor do Coeficiente Angular (b) é dado por:
+
+
+                                             ∑5𝑿𝒊 − 𝑿6 ∙ 5𝒀𝒊 − 𝒀6
+                                     𝒃=                              𝟐
+                                                    ∑5𝑿𝒊 − 𝑿6
+
+Sabemos, também, que há uma outra fórmula que diminuirá nossos cálculos para determinar “b”,
+vejam:
+
+
+                                            ∑(𝑿𝒊 ∙ 𝒀𝒊 ) – 𝒏 ∙ 5𝑿 ∙ 𝒀6
+                                    𝒃=                                    𝟐
+                                                   ∑ 𝑿𝒊 𝟐 – 𝒏 ∙ 𝑿
+
+
+Como a reta passa pelo ponto (𝑿, 𝒀), logo, para determinar o Coeficiente Linear “a”, basta
+substituir “b”, encontrado na fórmula acima, em:
+
+                                                 𝒀=𝒂+𝒃∙ 𝑿
+Vamos às questões estratégicas para treinar o que vimos, agora.
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística            7
+        www.estrategiaconcursos.com.br                                                    23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+1. (CEBRASPE (CESPE) - Agente de Polícia Federal/2021)
+   Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de
+   certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados
+   ordinários, esse estudo apresentou um modelo de regressão linear simples da forma
+                                                𝒀 = 𝟓 − 𝟎, 𝟏 𝒙 𝑻
+   em que 𝒀 representa a reta ajustada em função da variável regressora T, tal que 1 ≤ T ≤ 12.
+   Os erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos
+   p-valores encontram-se na tabela a seguir.
+
+                                      Erro Padrão                   Razão t      p-valor
+
+     Intercepto                           0,584                      8,547        0,00
+
+     Coeficiente angular                  0,064                      1,563        0,15
+
+   Os desvios padrão amostrais das variáveis y e t foram, respectivamente, 1 e 3,6.
+   Com base nessas informações, julgue o item a seguir.
+   Se a média amostral da variável T for igual a 6,5, então a média amostral da variável Y será
+   igual a 4,35 mil ocorrências.
+   C - Certo
+   E - Errado
+
+Comentários:
+
+Pessoal, a questão dar a seguinte reta de regressão:
+
+                                                   𝑌 = 5 − 0,1 x 𝑇
+
+E pede a média amostra de Y, sabendo que a média amostral da T é 6,5. Aqui basta fazer a
+substituição do valor de T é já teremos a resposta.
+
+                                                  𝑌 = 5 − 0,1 x 6,5
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                     8
+        www.estrategiaconcursos.com.br                                                             23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+                                                      𝑌 = 5 − 0,65
+
+                                                        𝑌 = 4,35
+
+Gabarito: CERTO
+
+2. (CEBRASPE (CESPE) - Agente de Polícia Federal/2021)
+   Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de
+   certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados
+   ordinários, esse estudo apresentou um modelo de regressão linear simples da forma
+                                                    𝒀 = 𝟓 − 𝟎, 𝟏 𝒙 𝑻
+   em que 𝒀 representa a reta ajustada em função da variável regressora T, tal que 1 ≤ T ≤ 12.
+
+
+   Os erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos
+   p-valores encontram-se na tabela a seguir.
+
+                                   Erro Padrão                 Razão t             p-valor
+
+ Intercepto                        0,584                       8,547               0,00
+
+ Coeficiente angular               0,064                       1,563               0,15
+
+   Os desvios padrão amostrais das variáveis y e t foram, respectivamente, 1 e 3,6.
+   Com base nessas informações, julgue o item a seguir.
+   A correlação entre as variáveis Y e T foi igual a -0,1.
+   C - Certo
+   E - Errado
+
+Comentários:
+
+Pessoal, nessa questão é pedida a correlação entre as variáveis Y e T. Dando uma olhada preliminar
+nela parece uma questão bem trabalhosa de se fazer. Sendo que a banca deu as seguintes
+informações.
+
+Sy = 1
+
+ST= 3,6
+
+E sabemos que a correlação entre duas variáveis é dada por:
+
+                                                                    𝑺𝒀𝑻
+                                                           𝒓𝒀𝑻 =
+                                                                   𝑺𝒀 𝑺𝑻
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística                   9
+          www.estrategiaconcursos.com.br                                                           23
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+Onde,
+                                          𝒏
+                                          𝒊R𝟏 𝒀𝒊 − 𝒀 .     𝑻𝒊 − 𝑻
+                                𝑺𝒀𝑻 =                               = 𝑪𝒐𝒗𝒂𝒓𝒊â𝒏𝒄𝒊𝒂
+                                                  𝒏−𝟏
+
+Veja que na questão anterior foi dada a média de T (6,5) e calculamos o média de Y (4,35). Agora
+temos que calcular o valor do numerador da covariância. Na questão foi dito que T varia de 1 a 12
+(1 ≤ T ≤ 12). Desta forma, montando uma tabela teremos o seguinte:
+
+                                          T          𝒀 = 𝟓 − 𝟎, 𝟏 . 𝑻       𝑻𝒊 − 𝑻     𝒀𝒊 − 𝒀
+
+                                          1                 4,9                -5,5
+                                          2                 4,8                -4,5
+                                          3                 4,7                -3,5
+                                          4                 4,6                -2,5
+                                          5                 4,5                -1,5
+                                          6                 4,4                -0,5
+                                          7                 4,3                  0,5
+                                          8                 4,2                  1,5
+                                          9                 4,1                  2,5
+                                         10                 4,0                  3,5
+                                         11                 3,9                  4,5
+                                         12                 3,8                  5,5
+                        Soma             78                52,2                  0
+
+
+
+Só com o valor do somatório de 𝑻𝒊 − 𝑻 já podemos parar de fazer os cálculos, pois o
+denominador da covariância dará zero e por consequência a correlação entre Y e T dará zero e não
+-0,1 como informado na questão
+
+Só para não restar dúvidas, iremos calcular as médias.
+                                            𝒏
+                                            𝒊R𝟏 𝑻𝒊   𝟕𝟖
+                                     𝑻=            =    = 𝟔, 𝟓
+                                              𝒏      𝟏𝟐
+                                                  𝒏
+                                                  𝒊R𝟏 𝒀𝒊       𝟓𝟐, 𝟐
+                                           𝒀=              =         = 𝟒, 𝟑𝟓
+                                                    𝒏           𝟏𝟐
+
+Gabarito: ERRADO
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  10
+        www.estrategiaconcursos.com.br                                                          23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+3. (IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021)
+   Num modelo de regressão linear pelo método dos mínimos quadrados, sabe-se que a
+   inclinação da reta é a a = 3,24 e o intercepto da reta é b = 12,6, então o valor de 𝒀 para x =
+   30 é:
+   a) 126,8.
+   b) 136,8.
+   c) 116,2.
+   d) 108,2.
+   e) 109,8.
+
+Comentários:
+
+Pessoal, nessa questão é pedido o valor de 𝑌 e nos dar as seguintes informações:
+
+X = 30
+
+a = 3,24
+
+b = 12,6
+
+Aqui teríamos que saber a equação da regressão linear pelo método dos mínimos quadrados.
+
+                                                     𝑌 = 𝑏 + 𝑎. 𝑋
+
+                                   𝑌 = 12,6 + 3,24. 30 = 12,6 + 97,2 = 109,8
+
+Gabarito: E
+
+   4. (CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Estatística/2020)
+   Texto 7A3-I
+   O coeficiente de correlação linear de Pearson entre duas variáveis aleatórias discretas X e Y
+   definidas sobre um mesmo espaço amostral é dado por
+
+
+
+
+   Já na reta de melhor ajuste Y = aX + b, determinada pelo método dos mínimos quadrados,
+   os coeficientes são dados por
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                     11
+         www.estrategiaconcursos.com.br                                                             23
+
+                                      https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 05
+
+
+
+
+Uma forma de avaliar a precisão do modelo consiste em comparar o estimador não viesado
+da variância residual, obtido das diferenças entre os valores observados e os previstos pelo
+
+
+modelo,                                        , com o estimador não viesado da variância dos valores
+
+
+observados,                                      .
+A tabela a seguir apresenta as penas de reclusão (P), em anos, cominadas a um grupo de dez
+réus, e suas respectivas rendas familiares mensais per capitas (R), em número de salários
+mínimos, em que a última coluna foi obtida usando a reta ajustada pelo método dos mínimos
+quadrados.
+
+
+
+
+Dados:
+1903,41/2 = 43,63
+141,251/2 = 11,88
+Com base no texto 7A3-I, a renda familiar per capita esperada X, em número de salários
+mínimos, obtida aplicando-se a reta de melhor ajuste aos dados determinada pelo método
+dos mínimos quadrados para um réu ao qual tenha sido cominada uma pena de 4 anos de
+reclusão é
+a) 2,3 < X < 2,6.
+b) 2,1 < X < 2,3.
+c) 1,9 < X < 2,1.
+d) 1,2 < X < 1,9.
+e) 1,0 < X < 1,2.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                            12
+      www.estrategiaconcursos.com.br                                                                    23
+
+                                   https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+Comentários:
+
+Pessoal, a primeira coisa a ser feita é calcular os valores de a e b. Para isso, utilizaremos as seguintes
+informações:
+
+𝑛 = 10
+
+  𝑥& = 60
+
+  𝑦& = 20
+
+  𝑥& 𝑦& = 72,85
+
+  𝑥&2 = 550,34
+
+Agora basta aplicar as fórmulas dadas na questão para calcular os coeficientes:
+
+            𝑛    𝑥& 𝑦& − 𝑥&     𝑦&   10 ∙ 72,85 − 60 ∙ 20   728,5 − 1200   −471,5
+     𝑎=               2            =                    2
+                                                          =              =        = −0,247
+                𝑛 𝑥& −     𝑥& 2       10 ∙ 550,34 − 60      5503,4 − 3600 1903,4
+
+                          𝑦& − 𝑎    𝑥&       20 − −0,247 . 60 20 + 14,82 34,82
+                  𝑏=                     =                   =          =      = 3,482
+                              𝑛                    10             10      10
+
+Agora aplicamos a equação da reta linear.
+
+                                                     𝑌 =𝑎∙𝑋+𝑏
+
+                                                𝑌 = −0,24 ∙ 𝑋 + 3,44
+
+Portanto, a renda familiar per capita esperada para um réu ao qual tenha sido cominada uma pena
+de 4 anos de reclusão será a seguinte:
+
+                             𝑌 = −0,247 ∙ 4 + 3,482 = −0,988 + 3,482 = 𝟐, 𝟒𝟗𝟒
+
+Gabarito: A
+
+   5. (CEBRASPE (CESPE) - Analista Judiciário (TJ AM)/Estatística/2019)
+
+Um estudo considerou um modelo de regressão linear simples na forma y = 0,8x + b + ϵ , em que
+y é a variável dependente, x representa a variável explicativa do modelo, o coeficiente b denomina-
+se intercepto e ϵ é um erro aleatório que possui média nula e desvio padrão σ. Sabe-se que a
+variável y segue a distribuição normal padrão e que o modelo apresenta coeficiente de
+determinação R2 igual a 85%.
+
+Com base nessas informações, julgue o item que se segue.
+
+A correlação linear entre as variáveis x e y é superior a 0,9.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                        13
+         www.estrategiaconcursos.com.br                                                                23
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+  C - Certo
+  E - Errado
+
+Comentários:
+
+Pessoal, nessa questão é dado o coeficiente de determinação e é pedido a correlação linear entre
+X e Y.
+
+                                    𝑅2 = 𝑐𝑜𝑒𝑓𝑖𝑐𝑖𝑒𝑛𝑡𝑒 𝑑𝑒 𝑑𝑒𝑡𝑒𝑟𝑚𝑖𝑛𝑎çã𝑜 = 0,85
+
+Já a correlação linear é dada pela raiz quadrada do coeficiente de determinação.
+
+                              𝑅=     𝑐𝑜𝑒𝑓𝑖𝑐𝑒𝑖𝑛𝑡𝑒 𝑑𝑒 𝑑𝑒𝑡𝑒𝑟𝑚𝑖𝑛𝑎çã𝑜 =                 0,85 = 0,92
+
+Gabarito: CERTO
+
+Q.06 (FGV/ Analista Legislativo (ALERO)/Estatística/2018)
+
+ Se b0 e b1 são as estimativas por mínimos quadrados de β0 e β1, respectivamente, então seus
+valores são dados por
+
+            𝒏         𝟐       𝒏
+a) 𝒃𝟏 =     𝒊R𝟏 𝒀𝒊 − 𝒀 /      𝒊R𝟏 𝑿𝒊 − 𝑿      𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 − 𝒃𝟏 𝑿
+
+            𝒏                           𝒏         𝟐
+b) 𝒃𝟏 =     𝒊R𝟏 𝑿𝒊 − 𝑿     𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 + 𝒃𝟏 𝑿
+
+            𝒏                           𝒏         𝟐
+c) 𝒃𝟏 =     𝒊R𝟏 𝑿𝒊 − 𝑿     𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 − 𝒃𝟏 𝑿
+
+            𝒏                           𝒏         𝟐
+d) 𝒃𝟏 =     𝒊R𝟏 𝑿𝒊 − 𝑿     𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝑿𝒊 − 𝑿 ; 𝒃𝟎 = 𝒀 − 𝒃𝟏 𝑿
+
+            𝒏         𝟐        𝒏
+e) 𝒃𝟏 =     𝒊R𝟏 𝑿𝒊 − 𝑿 /       𝒊R𝟏 𝑿𝒊 − 𝑿     𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 + 𝒃𝟏 𝑿
+
+Comentários:
+
+Pessoal, nessa questão são pedidas as fórmulas dos estimadores de mínimos quadrados. Portanto,
+
+                                                      v
+                                                      &Ru 𝑋& − 𝑋 𝑌& − 𝑌
+                                              𝑏u =        v          2
+                                                          &Ru 𝑋& − 𝑋
+
+
+
+
+                                                      𝑏w = 𝑌 − 𝑏u 𝑋
+
+Resposta letra “D”
+
+Gabarito: D
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 14
+          www.estrategiaconcursos.com.br                                                         23
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+Q.07 (FGV/AFRE (SEFAZ RJ)/2011)
+
+A tabela abaixo mostra os valores de duas variáveis, X e Y.
+
+                                                      X          Y
+                                                      4         4,5
+                                                      4          5
+                                                      3          5
+                                                      2         5,5
+
+Sabe-se que:
+
+                                                          𝑿 = 𝟏𝟑
+
+
+                                                          𝒀 = 𝟐𝟎
+
+
+                                                          𝑿𝒀 = 𝟔𝟒
+
+
+                                                          𝑿𝟐 = 𝟒𝟓
+
+                                                            𝟐
+                                                        𝑿       = 𝟏𝟔𝟗
+
+O valor de "b" na regressão simples 𝒀 = 𝒂 + 𝒃𝑿 é
+
+a) 11 /5.
+
+b) -3 /8.
+
+c) -4 /11.
+
+d) -4 /17.
+
+e) -11/65.
+
+Comentários:
+
+Nessa questão temos que encontrar o coeficiente “b”. Pela tabela dada na questão sabemos que
+temos um “n” igual a 4. Com isso e o somatório de X e Y, podemos encontrar as médias.
+
+                                                       𝑋 13
+                                               𝑋=       =   = 3,25
+                                                      𝑛   4
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística           15
+        www.estrategiaconcursos.com.br                                                   23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+                                                         𝑌 20
+                                                 𝑌=       =   =4
+                                                        𝑛   4
+
+Agora, basta calcular “b” através da seguinte expressão:
+
+                                                       𝑋𝑌 − 𝑛 . 𝑋. 𝑌
+                                                𝑏=
+                                                       𝑋2 − 𝑛 . 𝑋 2
+
+Substituindo os valores temos o seguinte:
+
+
+
+                            64 − 4 . 3,25 . 5   64 − 65          −1      −1
+                       𝑏=                     =             =          =
+                            45 − 4 . 3,25 2 45 − 4 . 10,5645 45 − 42,25 2,75
+
+Colocando de acordo com as alternativas.
+
+                                                         100     𝟒
+                                                 𝑏=−         =−
+                                                         275    𝟏𝟏
+
+Portanto, resposta letra “C”
+
+Gabarito: C
+
+Q.08 (CESGRANRIO / ESCRITURÁRIO/BB /2018)
+
+Uma instituição financeira pretende lançar no mercado um aplicativo para celular. Para isso, deseja
+relacionar o grau de conhecimento dos clientes com as variáveis: nível de escolaridade e idade.
+
+Uma amostra aleatória de 46 clientes foi selecionada e, posteriormente, aplicou-se o modelo de
+regressão linear, sendo a variável dependente o grau de conhecimento, em uma escala crescente,
+e as variáveis independentes (i) o nível de escolaridade, em anos de estudo com aprovação, e (ii)
+a idade, em anos completos.
+
+Os resultados obtidos para os coeficientes foram:
+
+                                                   Coeficientes Erro padrão Estatística t valor-P
+                    Intersecção                       50,7          4,1        12,4       8,5E-16
+               Nível de escolaridade
+                                                         4,0              0,3    12,4    9,1E-16
+        (anos de estudo com aprovação)
+            Idade (anos completos)                       -0,6             0,1    -8,4    1,2E-10
+
+O grau de conhecimento esperado de um cliente com 10 anos de estudos com aprovação e com
+30 anos de idade completos é
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                      16
+        www.estrategiaconcursos.com.br                                                              23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+   a) 108,7
+   b) 94,1
+   c) 54,1
+   d) 72,7
+   e) 86,1
+
+Comentários:
+
+Temos um Modelo de Regressão Linear, logo:
+
+VARIÁVEL DEPENDENTE: grau de conhecimento (C), em escala crescente,
+
+VARIÁVEIS INDEPENDENTES: o nível de escolaridade (E), em anos de estudo com aprovação, e a
+idade (I), em anos completos, portanto:
+
+                                         C = 50,7 + 4⋅E − 0,6⋅I
+
+Logo, como E= 10 anos de estudos com aprovação e com I = 30 anos de idade completos, temos
+que:
+
+                                           C = 50,7 + 4⋅10 − 0,6⋅30
+
+                                                      C = 72,7
+
+Gabarito: D
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+1. (CEBRASPE (CESPE) - Agente de Polícia Federal/2021)
+   Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de
+   certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados
+   ordinários, esse estudo apresentou um modelo de regressão linear simples da forma
+                                                  𝒀 = 𝟓 − 𝟎, 𝟏 𝒙 𝑻
+   em que 𝒀 representa a reta ajustada em função da variável regressora T, tal que 1 ≤ T ≤ 12.
+   Os erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos
+   p-valores encontram-se na tabela a seguir.
+
+                                      Erro Padrão                   Razão t      p-valor
+
+     Intercepto                           0,584                      8,547        0,00
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                     17
+        www.estrategiaconcursos.com.br                                                             23
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+
+     Coeficiente angular                  0,064                      1,563       0,15
+
+   Os desvios padrão amostrais das variáveis y e t foram, respectivamente, 1 e 3,6.
+   Com base nessas informações, julgue o item a seguir.
+   Se a média amostral da variável T for igual a 6,5, então a média amostral da variável Y será
+   igual a 4,35 mil ocorrências.
+   C - Certo
+   E - Errado
+2. (CEBRASPE (CESPE) - Agente de Polícia Federal/2021)
+   Um estudo objetivou avaliar a evolução do número mensal Y de milhares de ocorrências de
+   certo tipo de crime em determinado ano. Com base no método dos mínimos quadrados
+   ordinários, esse estudo apresentou um modelo de regressão linear simples da forma
+                                                  𝒀 = 𝟓 − 𝟎, 𝟏 𝒙 𝑻
+   em que 𝒀 representa a reta ajustada em função da variável regressora T, tal que 1 ≤ T ≤ 12.
+   Os erros padrão das estimativas dos coeficientes desse modelo, as razões t e seus respectivos
+   p-valores encontram-se na tabela a seguir.
+
+                                    Erro Padrão                      Razão t      p-valor
+
+       Intercepto                       0,584                         8,547        0,00
+
+  Coeficiente angular                   0,064                         1,563        0,15
+
+   Os desvios padrão amostrais das variáveis y e t foram, respectivamente, 1 e 3,6.
+   Com base nessas informações, julgue o item a seguir.
+   A correlação entre as variáveis Y e T foi igual a -0,1.
+   C - Certo
+   E - Errado
+3. (IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021)
+   Num modelo de regressão linear pelo método dos mínimos quadrados, sabe-se que a
+   inclinação da reta é a a = 3,24 e o intercepto da reta é b = 12,6, então o valor de 𝒀 para x =
+   30 é:
+   a) 126,8.
+   b) 136,8.
+   c) 116,2.
+   d) 108,2.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                      18
+        www.estrategiaconcursos.com.br                                                              23
+
+                                     https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 05
+
+
+
+   e) 109,8.
+4. (CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Estatística/2020)
+   Texto 7A3-I
+   O coeficiente de correlação linear de Pearson entre duas variáveis aleatórias discretas X e Y
+   definidas sobre um mesmo espaço amostral é dado por
+
+
+
+
+   Já na reta de melhor ajuste Y = aX + b, determinada pelo método dos mínimos quadrados,
+   os coeficientes são dados por
+
+
+
+
+   Uma forma de avaliar a precisão do modelo consiste em comparar o estimador não viesado
+   da variância residual, obtido das diferenças entre os valores observados e os previstos pelo
+
+
+   modelo,                                        , com o estimador não viesado da variância dos valores
+
+
+   observados,                                      .
+   A tabela a seguir apresenta as penas de reclusão (P), em anos, cominadas a um grupo de dez
+   réus, e suas respectivas rendas familiares mensais per capitas (R), em número de salários
+   mínimos, em que a última coluna foi obtida usando a reta ajustada pelo método dos mínimos
+   quadrados.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                            19
+         www.estrategiaconcursos.com.br                                                                    23
+
+                                      https://t.me/KakashiAssinaturasBot
+    Allan Maux Santana
+    Aula 05
+
+
+
+    Dados:
+    1903,41/2 = 43,63
+    141,251/2 = 11,88
+    Com base no texto 7A3-I, a renda familiar per capita esperada X, em número de salários
+    mínimos, obtida aplicando-se a reta de melhor ajuste aos dados determinada pelo método
+    dos mínimos quadrados para um réu ao qual tenha sido cominada uma pena de 4 anos de
+    reclusão é
+    a) 2,3 < X < 2,6.
+    b) 2,1 < X < 2,3.
+    c) 1,9 < X < 2,1.
+    d) 1,2 < X < 1,9.
+    e) 1,0 < X < 1,2.
+5. (CEBRASPE (CESPE) - Analista Judiciário (TJ AM)/Estatística/2019)
+
+ Um estudo considerou um modelo de regressão linear simples na forma y = 0,8x + b + ϵ , em que
+ y é a variável dependente, x representa a variável explicativa do modelo, o coeficiente b denomina-
+ se intercepto e ϵ é um erro aleatório que possui média nula e desvio padrão σ. Sabe-se que a
+ variável y segue a distribuição normal padrão e que o modelo apresenta coeficiente de
+ determinação R2 igual a 85%.
+
+ Com base nessas informações, julgue o item que se segue.
+
+ A correlação linear entre as variáveis x e y é superior a 0,9.
+
+ C - Certo
+ E – Errado
+
+ Q.06 (FGV/ Analista Legislativo (ALERO)/Estatística/2018)
+
+  Se b0 e b1 são as estimativas por mínimos quadrados de β0 e β1, respectivamente, então seus
+ valores são dados por
+
+              𝒏         𝟐      𝒏
+ a) 𝒃𝟏 =      𝒊R𝟏 𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝑿𝒊 − 𝑿      𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 − 𝒃𝟏 𝑿
+
+              𝒏                          𝒏         𝟐
+ b) 𝒃𝟏 =      𝒊R𝟏 𝑿𝒊 − 𝑿    𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 + 𝒃𝟏 𝑿
+
+              𝒏                          𝒏         𝟐
+ c) 𝒃𝟏 =      𝒊R𝟏 𝑿𝒊 − 𝑿    𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 − 𝒃𝟏 𝑿
+
+              𝒏                          𝒏         𝟐
+ d) 𝒃𝟏 =      𝒊R𝟏 𝑿𝒊 − 𝑿    𝒀𝒊 − 𝒀 /     𝒊R𝟏 𝑿𝒊 − 𝑿 ; 𝒃𝟎 = 𝒀 − 𝒃𝟏 𝑿
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                20
+           www.estrategiaconcursos.com.br                                                        23
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+             𝒏         𝟐       𝒏
+e) 𝒃𝟏 =      𝒊R𝟏 𝑿𝒊 − 𝑿 /      𝒊R𝟏 𝑿𝒊 − 𝑿     𝒀𝒊 − 𝒀 ; 𝒃𝟎 = 𝒀 + 𝒃𝟏 𝑿
+
+Q.07 (FGV/AFRE (SEFAZ RJ)/2011)
+
+A tabela abaixo mostra os valores de duas variáveis, X e Y.
+
+                                                        X          Y
+                                                        4         4,5
+                                                        4          5
+                                                        3          5
+                                                        2         5,5
+
+Sabe-se que:
+
+                                                            𝑿 = 𝟏𝟑
+
+
+                                                            𝒀 = 𝟐𝟎
+
+
+                                                            𝑿𝒀 = 𝟔𝟒
+
+
+                                                            𝑿𝟐 = 𝟒𝟓
+
+                                                              𝟐
+                                                          𝑿       = 𝟏𝟔𝟗
+
+O valor de "b" na regressão simples 𝒀 = 𝒂 + 𝒃𝑿 é
+
+a) 11 /5.
+
+b) -3 /8.
+
+c) -4 /11.
+
+d) -4 /17.
+
+e) -11/65.
+
+Q.08 (CESGRANRIO / ESCRITURÁRIO/BB /2018)
+
+Uma instituição financeira pretende lançar no mercado um aplicativo para celular. Para isso, deseja
+relacionar o grau de conhecimento dos clientes com as variáveis: nível de escolaridade e idade.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística                21
+          www.estrategiaconcursos.com.br                                                        23
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 05
+
+
+
+Uma amostra aleatória de 46 clientes foi selecionada e, posteriormente, aplicou-se o modelo de
+regressão linear, sendo a variável dependente o grau de conhecimento, em uma escala crescente,
+e as variáveis independentes (i) o nível de escolaridade, em anos de estudo com aprovação, e (ii)
+a idade, em anos completos.
+
+
+
+
+Os resultados obtidos para os coeficientes foram:
+
+                                                   Coeficientes Erro padrão Estatística t valor-P
+                    Intersecção                       50,7          4,1        12,4       8,5E-16
+               Nível de escolaridade
+                                                         4,0              0,3        12,4   9,1E-16
+        (anos de estudo com aprovação)
+            Idade (anos completos)                       -0,6             0,1        -8,4   1,2E-10
+
+O grau de conhecimento esperado de um cliente com 10 anos de estudos com aprovação e com
+30 anos de idade completos é
+
+   a) 108,7
+   b) 94,1
+   c) 54,1
+   d) 72,7
+   e) 86,1
+
+
+
+
+Gabarito
+
+
+
+
+    1          2            3           4            5           6               7   8      9         10
+    C          E            E           A            C           D               C   D      *          *
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                             22
+        www.estrategiaconcursos.com.br                                                                     23
+
+                                     https://t.me/KakashiAssinaturasBot
+

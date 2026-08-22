@@ -1,0 +1,2497 @@
+                                                    Aula 04
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                        Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                            26 de Junho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Pedrosa Lopes
+Aula 04
+
+
+
+
+                  PROCESSAMENTO DE LINGUAGEM NATURAL
+   Sumário
+
+    CONTEÚDO ...................................................................................................................................... 2
+
+    ANÁLISE ESTATÍSTICA ..................................................................................................................... 2
+
+    GLOSSÁRIO DE TERMOS....................................................................................................................... 3
+
+    ROTEIRO DE REVISÃO .......................................................................................................................... 5
+
+    Introdução e Conceitos Básicos ................................................................................................... 5
+
+    Aplicações ................................................................................................................................... 10
+
+    Pré-Processamento .................................................................................................................... 13
+
+    Representação de Texto............................................................................................................. 18
+
+    Classificação de Texto ................................................................................................................ 25
+
+    Análise de Sentimentos .............................................................................................................. 28
+
+    Modelagem de Tópicos Latentes ............................................................................................... 30
+
+    Redução da Dimensionalidade ................................................................................................... 31
+
+    QUESTÕES ESTRATÉGICAS.............................................................................................................. 33
+
+    QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO ............................................................................ 40
+
+    Perguntas.................................................................................................................................... 40
+
+    Perguntas e Respostas ............................................................................................................... 41
+
+    LISTA DE QUESTÕES ESTRATÉGICAS ..................................................................................................... 43
+
+    Gabaritos .................................................................................................................................... 46
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+      www.estrategiaconcursos.com.br
+
+                                             https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                                                  CONTEÚDO
+
+      Conceitos básicos. Definições. Estágios de análise em PLN. Aplicações. Pré-processamento.
+      Representação de texto. Classificação de textos. Análise de sentimentos. Modelagem de tópicos
+      latentes. Semântica vetorial. Redução de dimensionalidade.
+
+
+                                           ANÁLISE ESTATÍSTICA
+
+      Inicialmente, convém destacar o percentual de incidência do assunto, dentro da disciplina
+      Inteligência Artificial em concursos/cargos similares. Quanto maior o percentual de cobrança
+      de um dado assunto, maior sua importância.
+
+      Obs.: um mesmo assunto pode ser classificado em mais de um tópico devido à
+      multidisciplinaridade de conteúdo.
+
+                                                                          Relevância na disciplina em
+                                 Assunto
+                                                                             concursos similares
+
+       UML                                                           11.0 %
+
+       Processos de Software - Desenvolvimento Ágil                  8.4 %
+
+       Engenharia de Requisitos                                      8.2 %
+
+       Teste de Software                                             6.7 %
+
+       Métricas de Software                                          5.1 %
+
+       Desenvolvimento de Software                                   4.6 %
+
+       Inteligencia Artificial                                       4.6 %
+
+       Processos de Software                                         4.6 %
+
+       Orientação a Objetos                                          4.5 %
+
+       Gestão de Projetos em Engenharia de Software                  3.6 %
+
+       Qualidade de Software                                         3.4 %
+
+       Metodologia de desenvolvimento de software                    2.5 %
+
+       Gerência de Configuração                                      1.9 %
+
+       Geoprocessamento em Engenharia de Software                    1.6 %
+
+       Prototipação                                                  1.2 %
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+       Conceitos Básicos em Engenharia de Software                   0.7 %
+
+       Análise Estruturada                                           0.6 %
+
+       Ferramentas CASE                                              0.4 %
+
+       Ferramentas de Desenvolvimento de Software                    0.4 %
+
+       Software livre                                                0.3 %
+
+       Manutenção de Software                                        0.1 %
+
+       Análise Essencial                                             0.1 %
+
+       Web 2.0                                                       0.1 %
+
+       Portal Web                                                    0.1 %
+
+       Refatoração                                                   0.1 %
+
+       Engenharia da Informação                                      0.1 %
+
+
+
+
+                                         GLOSSÁRIO DE TERMOS
+
+      Faremos uma lista de termos que são relevantes ao entendimento do assunto desta aula. Caso
+      tenha alguma dúvida durante a leitura, esta seção pode lhe ajudar a esclarecer.
+
+      PLN: Sigla para Processamento de Linguagem Natural. É um campo da Inteligência Artificial que
+      estuda a interação entre computadores e humanos através da linguagem natural. Seu objetivo é
+      permitir que os computadores compreendam, interpretem e gerem a linguagem natural de uma
+      forma que seja valorizada e entendida pelos humanos.
+
+      Pré-processamento: Na PLN, pré-processamento é o primeiro passo e envolve a preparação e a
+      limpeza dos dados de texto brutos para tarefas posteriores, como análise e modelagem. As
+      tarefas comuns de pré-processamento incluem limpeza de dados, tokenização, remoção de
+      stopwords, stemming e lemmatization.
+
+      Análise léxica: Também conhecida como tokenização, é o processo de converter uma sequência
+      de texto em unidades menores chamadas tokens.
+
+      Análise sintática: Este processo analisa as palavras no texto para a gramática e organiza as
+      palavras de uma maneira que mostra a relação entre as palavras. Normalmente, isso é feito
+      construindo uma árvore de análise.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Análise semântica: Refere-se à tarefa de extrair o significado das palavras e das frases no texto.
+      Isso pode envolver o entendimento do contexto, da referência das palavras e de outros fatores
+      complexos.
+
+      Análise pragmática: O objetivo da análise pragmática é entender a intenção por trás das palavras
+      e como essa intenção é influenciada pelo contexto. Ela vai além do significado literal das palavras
+      para entender o que o falante ou o escritor pretendiam transmitir.
+
+      Limpeza de dados: É o processo de preparação de dados para análise, removendo ou
+      modificando dados que estão incorretos, incompletos, irrelevantes, duplicados ou mal
+      formatados.
+
+      Tokenização: É o processo de dividir o texto em palavras, frases, símbolos ou outros elementos
+      significativos chamados tokens.
+
+      Stopwords: São palavras que são filtradas antes ou após o processamento do texto. Elas são
+      geralmente as palavras mais comuns em um idioma, como "é", "a", "e", "em" no português.
+
+      Stemming: É o processo de reduzir as palavras inflexionadas (ou às vezes derivadas) ao seu
+      tronco, base ou raiz, que é comum a todas as variantes inflexionadas da palavra.
+
+      Lemmatization: É o processo de agrupar as diferentes formas flexionadas de uma palavra para
+      que possam ser analisadas como um único item. Difere do stemming ao levar em conta o
+      contexto lexical e a parte da fala de uma palavra.
+
+      Named Entity Recognition (NER): É uma subtarefa da extração de informações que busca
+      localizar e classificar entidades nomeadas em texto em categorias predefinidas, como nomes de
+      pessoas, organizações, locais, expressões de tempos, quantidades, valores monetários,
+      porcentagens, etc.
+
+      Bag of words (BoW): É uma representação simplificada usada no processamento de linguagem
+      natural. Neste modelo, um texto (como uma frase ou um documento) é representado como o
+      saco (multiset) de suas palavras, desconsiderando a gramática e até a ordem das palavras, mas
+      mantendo a multiplicidade.
+
+      TF-IDF: Term Frequency-Inverse Document Frequency é uma estatística numérica que tem como
+      objetivo refletir a importância de uma palavra de um documento em relação a um corpus.
+
+      Word Embedding: É uma representação de palavras em um espaço vetorial de alta dimensão, de
+      maneira que palavras semanticamente similares estejam próximas nesse espaço.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      n-Gramas: São combinações contíguas de n itens de uma determinada amostra de texto ou fala.
+      Os n-gramas são amplamente usados em estatística do texto e processamento de linguagem
+      natural.
+
+      Classificação de texto: É o processo de classificar texto em categorias organizadas. É uma das
+      tarefas fundamentais em PLN e tem muitas aplicações, como detecção de spam, análise de
+      sentimentos e tagging de tópicos.
+
+      Análise de sentimentos: É o uso de processamento de linguagem natural para identificar, extrair,
+      quantificar e estudar os sentimentos e emoções expressos no texto.
+
+      Modelagem de tópicos latentes: É uma técnica estatística para descobrir os tópicos abstratos
+      que ocorrem em uma coleção de documentos. Ela constrói um modelo de tópico, que são
+      palavras agrupadas juntas com base na co-ocorrência de palavras nos documentos.
+
+      Redução de dimensionalidade: É o processo de reduzir o número de variáveis aleatórias sob
+      consideração, obtendo um conjunto de variáveis principais.
+
+      PCA (Análise de Componentes Principais): É um procedimento estatístico que usa uma
+      transformação ortogonal para converter um conjunto de observações de variáveis possivelmente
+      correlacionadas (entidades cada uma das quais toma uma série de quantidades numéricas) em
+      um conjunto de valores de variáveis linearmente não correlacionadas chamadas componentes
+      principais.
+
+
+
+
+                                           ROTEIRO DE REVISÃO
+
+      A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+      assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+
+
+
+                                    Introdução e Conceitos Básicos
+
+      Processamento de Linguagem Natural (PLN) é uma subárea da Inteligência Artificial (IA) que se
+      concentra na interação entre computadores e humanos através da linguagem natural. O
+      objetivo final do PLN é ler, decifrar, entender e fazer sentido da linguagem humana de uma
+      maneira que seja útil.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Computadores, por si só, não entendem a linguagem humana devido à sua natureza ambígua e
+      complexa. Para superar esses desafios, foram desenvolvidas várias técnicas e métodos de PLN
+      que permitem que máquinas entendam e respondam à entrada de linguagem natural.
+
+      A história do PLN é antiga, remontando ao século XX, com os primeiros trabalhos focados em
+      tradução automática. Com o passar do tempo, o foco do PLN mudou para incluir várias outras
+      tarefas, como reconhecimento de fala, geração de texto, análise de sentimento e extração de
+      informações.
+
+      No PLN, a linguagem natural pode ser qualquer linguagem que os humanos usem para se
+      comunicar, incluindo português, inglês, espanhol etc. O processamento de linguagem natural
+      pode envolver várias tarefas, desde a simples transcrição de texto de um idioma para outro
+      (conhecida como tradução automática) até a complexa compreensão e geração de narrativas
+      completas.
+
+      Para o processo funcionar corretamente, ele passa por vários estágios, incluindo a análise
+      sintática (estrutura gramatical), análise semântica (significado da linguagem), análise
+      pragmática (contexto da linguagem) e análise fonológica (som da linguagem).
+
+      Veja algumas definições de PLN que já apareceram em prova de seleção:
+
+                       DEFINIÇÕES DE PROCESSAMENTO DE LINGUAGEM NATURAL
+       Trata-se da tecnologia que envolve a habilidade de transformar texto ou áudio em informações
+       estruturadas e codificadas, baseado em uma ontologia adequada.
+       Trata-se da habilidade de um programa de computador de compreender a linguagem humana escrita e
+       falada.
+
+
+       Trata-se da habilidade construir um software capaz de analisar, compreender e gerar linguagens
+       humanas naturalmente, permitindo a comunicação com um computador como se fosse um humano.
+       Trata-se do campo da Inteligência Artificial que permite aos computadores analisar e compreender a
+       linguagem humana, escrita e falada.
+       Trata-se da capacidade de construir software que gere e compreenda linguagens naturais para que um
+       usuário possa ter conversas naturais com um computador em vez de por meio de programação.
+       Trata-se do ramo da inteligência artificial que ajuda os computadores a entender, interpretar e manipular
+       a linguagem humana.
+       Trata-se da manipulação automática da linguagem natural, como fala e texto por software.
+
+
+       Trata-se de uma subárea da ciência da computação, inteligência artificial e da linguística que estuda os
+       problemas da geração e compreensão automática de linguagens humanas naturais.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Se pudéssemos resumir em uma única frase, teríamos algo como:
+
+      PLN é um ramo da inteligência artificial que ajuda os computadores a entender, interpretar
+      e manipular a linguagem humana. PLN permite que as máquinas leiam e entendam a
+      linguagem humana para interpretar comandos, responder a perguntar e realizar tarefas. Ele
+      é usado em muitas aplicações, como tradução automática, atendimento automatizado ao
+      cliente e assistentes pessoais inteligentes.
+
+
+
+
+                                               Desconstruindo Frases
+
+
+      Desconstruir frases em pedaços menores, também conhecido como tokenização (veremos mais
+      à frente), é um dos primeiros passos em muitos processos de Processamento de Linguagem
+      Natural (PLN). Essencialmente, a tokenização é o ato de dividir a entrada de texto em unidades
+      menores, chamadas tokens. Em muitos casos, esses tokens são palavras individuais, mas
+      também podem ser frases ou até mesmo caracteres individuais, dependendo da tarefa
+      específica.
+
+      Embora a tokenização possa parecer uma tarefa simples à primeira vista, ela é particularmente
+      desafiadora no PLN por várias razões.
+
+      Primeiro, a linguagem humana é notoriamente ambígua e cheia de exceções. Por exemplo,
+      palavras podem ter diferentes significados dependendo do contexto em que são usadas. Isso
+      pode causar problemas durante a tokenização, pois as palavras podem precisar ser divididas de
+      maneira diferente dependendo de seu significado no contexto da frase.
+
+      Além disso, a linguagem humana está cheia de coisas como pontuação, contrações e abreviações,
+      que podem complicar o processo de tokenização. Por exemplo, a contração "você é" se torna
+      "você" e "é" após a tokenização, mas no caso da palavra "você", não se pode simplesmente dividi-
+      la em duas palavras.
+
+      Idiomas diferentes apresentam problemas únicos para a tokenização. Em algumas línguas, como
+      o chinês e o japonês, as palavras não são separadas por espaços, tornando a tarefa de
+      tokenização muito mais difícil. No caso do português, embora as palavras sejam geralmente
+      separadas por espaços, ainda existem desafios únicos, como o uso de acentos e cedilhas.
+
+      Vamos a um exemplo prático em português:
+
+      Consideremos a frase: "João não gosta de comer cenouras, porque elas são crocantes."
+
+      Na tokenização, essa frase poderia ser desconstruída da seguinte maneira:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      "João", "não", "gosta", "de", "comer", "cenouras", ",", "porque", "elas", "são", "crocantes", "."
+
+      Como você pode ver, cada palavra e pontuação é tratada como uma unidade ou "token"
+      individual. No entanto, se quisermos preservar algum sentido de frase ou cláusula, podemos ter
+      que usar uma abordagem diferente, talvez dividindo a frase em duas partes: "João não gosta de
+      comer cenouras" e "porque elas são crocantes".
+
+      Esse exemplo é apenas um dos problemas do Processamento de Linguagem Natural, ou seja,
+      como desconstruir frases de forma que façam sentido para o processamento de máquina.
+      Existem vários outros problemas e/ou desafios relacionados a PLN como veremos mais à frente.
+
+
+                                             Aspectos de Comunicação
+
+
+      O Processamento de Linguagem Natural (PLN) está ligado a três aspectos da comunicação em
+      língua natural, quais sejam:
+
+
+
+
+                              Está relacionada ao reconhecimento de sons que compõem as palavras.
+             FONOLOGIA
+                              Reconhece as palavras em termos das unidades primitivas que a compõem.
+         MORFOLOGIA
+                        Define a estrutura de uma frase, com base na forma como as palavras se
+                SINTAXE relacionam.
+
+                              Associa significado a uma estrutura sintática, em termos dos significados das
+             SEMÂNTICA
+                              palavras que a compõem.
+                              Verifica se o significado associado a uma estrutura sintática é realmente o
+            PRAGMÁTICA
+                              significado mais apropriado no contexto considerado.
+
+
+      Robert Dale (Handbook of Natural Language Processing, 2010) afirma que o trabalho do
+      processamento de linguagem natural tende a ver o processo de análise da linguagem como uma
+      decomposição em estágios, iniciando o exame na superfície do texto e aumentando em cada
+      passo a profundidade da análise. Veja na imagem a seguir uma sugestão de estágios de análise
+      em processamento de linguagem natural:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                              Trata-se do estudo de estruturas e formação de palavras, com foco na análise
+                PRÉ-
+                     dos componentes individuais das palavras. Nesse contexto, trata-se basicamente
+      PROCESSAMENTO da realização da tarefa de tokenização (veremos à frente outro contexto).
+                              Busca estudar a morfologia das palavras e recuperar informação que será útil em
+                 ANÁLISE níveis mais profundos de análise. Para tal, realiza uma decomposição
+                  LÉXICA morfológica para identificar classes gramaticais de cada um dos tokens
+                              selecionados na atividade anterior.
+                              A análise sintática é aquela que se preocupa com a estrutura das sentenças em
+                 ANÁLISE
+                         uma gramática formal. Ela permite a extração de frases que transmitem mais
+               SINTÁTICA significado do que apenas as palavras individuais por si só.
+                              A análise semântica trata do significado da sentença.
+                ANÁLISE
+             SEMÂNTICA
+                              O componente pragmático, por fim, procura incluir o contexto à análise
+                ANÁLISE
+                        linguística, a fim de permitir a geração de um significado.
+            PRAGMÁTICA
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                                                   Aplicações
+
+      Processamento de Linguagem Natural (PLN) tem se tornado cada vez mais presente em nossa
+      vida diária, muitas vezes de maneiras que nem sempre percebemos. Veja alguns exemplos de
+      como o PLN é usado cotidianamente:
+
+      1. Assistentes de voz: Dispositivos como Amazon's Alexa, Google Home, e Apple's Siri usam PLN
+      para entender comandos de voz e responder de forma coerente. Quando você diz "Alexa, toque
+      minha música favorita" ou "Siri, que tempo fará amanhã?", está interagindo com a tecnologia de
+      PLN.
+
+      2. Tradução automática: Serviços como Google Translate usam PLN para traduzir texto ou fala
+      de uma língua para outra. Esta tecnologia não apenas traduz palavra por palavra, mas também
+      considera o contexto e a gramática para produzir traduções mais precisas.
+
+      3. Correção automática e verificação ortográfica: Quando você digita um texto no Word ou
+      Google Docs e recebe sugestões de correção, está interagindo com a tecnologia de PLN. O
+      software é capaz de reconhecer erros ortográficos e gramaticais, e muitas vezes sugere
+      correções.
+
+      4. Motores de busca: Quando você digita uma consulta em um mecanismo de busca como o
+      Google, o PLN é usado para entender o que você está procurando e fornecer os resultados mais
+      relevantes. Os algoritmos de PLN ajudam a interpretar a intenção do usuário, mesmo quando a
+      consulta não é clara.
+
+      5. Chatbots e assistentes virtuais: Muitas empresas agora usam chatbots para fornecer suporte
+      ao cliente 24/7. Esses bots usam PLN para entender as perguntas dos usuários e fornecer
+      respostas úteis.
+
+      6. Análise de sentimentos: As empresas usam PLN para analisar o sentimento do cliente nas
+      redes sociais, avaliações de produtos, etc. Isso ajuda a entender melhor a percepção da marca e
+      a melhorar seus produtos ou serviços com base no feedback dos clientes.
+
+      7. Recomendações personalizadas: Serviços de streaming como Netflix e Spotify usam PLN para
+      analisar o comportamento do usuário e fornecer recomendações personalizadas.
+
+      A tabela a seguir resume algumas dessas aplicações:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                    Corretores Ortográficos                               Função autocompletar
+
+
+
+
+                   Ferramentas de tradução                                     Filtro de Spam
+
+
+
+
+                      Bots de Mensagens                                      Assistente Virtual
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                                                     Tecnologias
+
+
+      Para permitir o uso de PLN, são utilizadas algumas tecnologias diferentes, desde captação de voz,
+      passando por reconhecimento de fala, entendimento da linguagem natural, geração da
+      linguagem natural e síntese da fala. Veja na tabela a seguir:
+
+                       ETAPA                                      DESCRIÇÃO
+                         Trata-se da tecnologia que utiliza um microfone para detectar ondas sonoras e
+                         convertê-las em sinais elétricos. Essa tecnologia é usada em muitos
+                         dispositivos, como telefones, computadores e sistemas de reconhecimento de
+       CAPTAÇÃO DA VOZ
+                         voz. O microfone capta as ondas sonoras da voz do usuário e as converte em
+          (VOICE PICKUP) sinais elétricos, que são então processados pelo dispositivo para determinar o
+                         que o usuário está dizendo.
+
+
+                         Trata-se da tecnologia que permite que um dispositivo reconheça e responda
+                         a comandos falados. Essa tecnologia pode ser utilizada para controlar um
+       RECONHECIMENTO dispositivo ou aplicativo, transcrever áudio em texto ou entender comandos de
+                         linguagem natural. Em outras palavras, podemos dizer que se trata da
+         DE FALA (SPEECH
+                         transcrição da fala no texto correspondente ao que foi dito por um humano.
+           RECOGNITION) Hoje em dia, essa tecnologia está excepcional! Quem costuma utilizar
+                         ferramentas de transcrição – como jornalistas – sabe que a taxa de erros é
+                         baixíssima.
+         ENTENDIMENTO            Trata-se da tecnologia que se concentra em permitir que os computadores
+          DE LINGUAGEM           entendam a fala humana e a linguagem natural. Envolve o desenvolvimento de
+                                 algoritmos e modelos capazes de interpretar e processar a linguagem falada e
+                NATURAL
+                                 extrair informações relevantes do texto em linguagem natural, além de
+               (NATURAL          permitir que os computadores entendam o significado por trás das palavras
+              LANGUAGE           faladas – podendo ser usado para tarefas como atendimento automatizado ao
+        UNDERSTANDING)           cliente (os famosos chatbots).
+               GERAÇÃO DE        Trata-se da tecnologia que permite que os computadores gerem
+               LINGUAGEM         automaticamente uma linguagem natural em texto a partir de dados
+                                 estruturados. Ele é usado em uma variedade de aplicações, incluindo chatbots
+                  NATURAL
+                                 de atendimento ao cliente, geração automatizada de artigos de notícias e
+                 (NATURAL        assistentes virtuais. Pode ser usado para gerar resumos, relatórios e outras
+                LANGUAGE         saídas de texto de fontes de dados estruturadas, como bancos de dados,
+              GENERATION)        planilhas e documentos XML.
+
+            SÍNTESE DE FALA      Trata-se da tecnologia de produção artificial da fala humana. Por meio da
+                                 síntese de fala, os computadores são capazes de gerar fala semelhante à
+                    (SPEECH
+                                 humana usando a tecnologia Text-To-Speech (TTS). Essa tecnologia é utilizada
+                 SYNTHESIS)      em muitos aplicativos, como produtos habilitados para fala, aplicativos de
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                                  conversão de texto em fala e assistentes virtuais. Hoje em dia, já existem
+                                  sintetizadores de vozes digitais quase impossíveis de serem identificados como
+                                  produzidos por uma máquina.
+
+
+
+
+                                              Pré-Processamento
+
+        No contexto do Processamento de Linguagem Natural (PLN), o pré-processamento de texto é um
+        passo que envolve a preparação e a limpeza dos dados de texto brutos para que possam ser
+        eficientemente analisados e processados por algoritmos de aprendizado de máquina ou de PLN.
+        Esta etapa é importante para garantir que os dados sejam apresentados de maneira padronizada
+        e livre de ruídos, que podem distorcer os resultados ou tornar o processamento mais complexo
+        do que o necessário.
+
+        As etapas típicas de pré-processamento são:
+
+    •    Limpeza de dados e Normalização: Remoção de caracteres indesejados como tags HTML,
+         pontuações, números, caracteres especiais, etc. Converte todas as letras para minúsculas para
+         garantir que a capitalização não afete a análise.
+    •    Tokenização: Divisão de texto em palavras individuais ou tokens.
+    •    Remoção de stopwords: Stopwords são palavras comuns que geralmente não contribuem para
+         o significado de uma frase, como "o", "e", "a", etc.
+    •    Stemming e Lemmatization: Estes são processos de reduzir palavras a sua forma raiz. Por
+         exemplo, "correndo" se torna "correr"
+    •    Named Entity Recognition: processo de reconhecer entidades em um texto, tais como pessoas,
+         datas, organizações, localizações, entre outros.
+
+
+                                          Limpeza de Dados e Normalização
+
+
+        A limpeza de dados tem como principais objetivos remover ruídos e inconsistências, corrigir erros
+        e normalizar o texto para prepará-lo para análise subsequente ou modelagem. Vamos discutir
+        algumas etapas comuns da limpeza de dados e fornecer exemplos práticos.
+
+    1. Remoção de caracteres indesejados:
+
+         Geralmente envolve a remoção de pontuações, números, caracteres especiais e, em muitos
+         casos, as tags HTML que podem estar presentes se os dados foram raspados da web.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+       Por exemplo, a frase "<p>Olá, cliente! Isso custa $10.</p>" se torna "Olá cliente Isso custa "
+       após a remoção de tags HTML, pontuação e números.
+
+    2. Conversão para minúsculas:
+
+         A conversão de todo o texto para minúsculas ajuda a garantir que as palavras 'casa', 'Casa' e
+        'CASA', por exemplo, sejam tratadas como a mesma palavra.
+
+    3. Remoção de stopwords:
+
+         Stopwords são palavras comuns que geralmente não carregam muito significado e podem ser
+        removidas. Isso inclui palavras como 'o', 'a', 'e', 'é', 'de'. Por exemplo, a frase "O gato está no
+        telhado" se torna "gato telhado" após a remoção das stopwords.
+
+    4. Remoção de espaços em branco extras:
+
+        Envolve a remoção de espaços antes, depois e entre palavras.
+
+    5. Remoção de palavras irrelevantes:
+
+        Dependendo do contexto, pode haver palavras ou termos que não contribuem para a análise e
+        que podem ser removidos. Por exemplo, em uma análise de sentimentos de tweets, hashtags,
+        menções (@nomedousuário) e URLs podem ser removidas.
+
+    6. Tratamento de palavras com erros de ortografia:
+
+        Dependendo do cenário, pode ser útil corrigir erros de ortografia. Há diversas ferramentas
+        disponíveis, como o pacote 'hunspell' em R, que podem ajudar nessa tarefa.
+
+
+                                                     Tokenization
+
+
+      A tokenização é uma das etapas fundamentais do pré-processamento de dados no PLN. Ela
+      envolve dividir um texto em unidades menores, chamadas "tokens". Na maioria dos casos, esses
+      tokens são palavras individuais, mas também podem ser frases ou até mesmo caracteres
+      individuais, dependendo da tarefa específica.
+
+      Vamos nos concentrar na tokenização de palavras, que é a mais comum. Aqui estão alguns
+      exemplos para ilustrar como ela funciona:
+
+      Exemplo 1:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Considere a frase "Maria foi à loja".
+
+      Após a tokenização, teríamos uma lista de palavras: ["Maria", "foi", "à", "loja"]
+
+      Exemplo 2:
+
+      Vamos usar uma frase mais longa: "João adora jogar futebol aos domingos".
+
+      A tokenização resultaria em: ["João", "adora", "jogar", "futebol", "aos", "domingos"]
+
+      Note que cada palavra se torna um token individual, e isso inclui palavras de uma única letra,
+      como "à" e "a".
+
+      Embora pareça simples, a tokenização pode se tornar complexa quando entramos em idiomas
+      que não separam palavras por espaços, ou quando lidamos com texto que contém pontuação,
+      números, datas, emails e outras formas que podem confundir uma simples divisão por espaços.
+
+      Existem várias bibliotecas em diferentes linguagens de programação que podem ajudar com a
+      tokenização. Por exemplo, em Python, uma biblioteca popular para PLN é o NLTK (Natural
+      Language Toolkit), que contém várias funções úteis para a tokenização.
+
+
+                                               Remoção de Stopwords
+
+
+      Stopwords são palavras frequentemente removidas do texto por serem muito comuns e/ou
+      terem pouco valor semântico. Elas geralmente incluem preposições, pronomes e artigos, como
+      "e", "é", "o", "a", "em", "para", etc., em português.
+
+      A razão para a remoção das stopwords é que elas aparecem com muita frequência no texto, mas
+      geralmente não carregam muito significado. Removendo-as, podemos focar nas palavras que são
+      mais informativas e reduzir o tamanho dos dados, o que pode acelerar o processamento
+      posterior.
+
+      Vamos considerar alguns exemplos práticos:
+
+      Exemplo 1:
+
+      Suponha que temos a seguinte frase: "O gato pulou sobre o muro".
+
+      Depois de remover as stopwords, a frase se torna: "gato pulou muro".
+
+      Exemplo 2:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Outro exemplo poderia ser a frase: "Ela está indo para a escola".
+
+      Após a remoção das stopwords, teríamos: "indo escola".
+
+      Em ambas as frases, vemos que as palavras removidas são as que dão estrutura à frase, mas não
+      carregam o significado principal.
+
+      Vale a pena notar que a remoção de stopwords nem sempre é desejável. Em algumas tarefas de
+      PLN, como tradução automática ou geração de texto, as stopwords podem ser essenciais para
+      produzir resultados corretos e fluentes. Além disso, a lista de stopwords pode variar dependendo
+      da aplicação e do idioma. Por exemplo, em análises de sentimentos, palavras como "não" podem
+      ser consideradas stopwords em alguns contextos, mas são muito importantes em outros.
+
+      Em Python, uma biblioteca popular para PLN, o NLTK, fornece uma lista pronta de stopwords que
+      pode ser usada para filtrar estas palavras do texto. A lista pode ser personalizada de acordo com
+      as necessidades específicas do projeto.
+
+
+                                                      Stemming
+
+
+      Stemming é um processo que reduz palavras a sua forma raiz ou base, removendo afixos
+      (prefixos, sufixos, infixos, etc.). O objetivo é agrupar palavras semelhantes sob uma
+      representação comum, permitindo que o algoritmo de PLN trate palavras como "correr",
+      "correndo" e "correu" como variações da mesma ideia.
+
+      Por exemplo, consideremos as seguintes palavras em português: "correr", "correndo", "correu".
+      Todas essas palavras têm a mesma ideia base, que é o ato de correr. O stemming reduziria todas
+      essas palavras à sua forma base, que poderia ser "corr". Note que "corr" não é uma palavra
+      correta em português, mas representa a ideia base das palavras originais.
+
+      Outro exemplo seria as palavras "comer", "comendo" e "comeu". Após a aplicação do processo
+      de stemming, todas essas palavras poderiam ser reduzidas a "com".
+
+      Existem vários algoritmos para realizar o stemming, sendo o mais conhecido o algoritmo de
+      Porter, embora este seja mais utilizado para o idioma inglês. O processo de stemming pode ser
+      bastante útil para reduzir a dimensionalidade dos dados e agrupar palavras semelhantes juntas,
+      tornando o modelo de PLN mais eficiente e eficaz.
+
+      Porém, é importante notar que o stemming pode ser uma faca de dois gumes. Por um lado, ele
+      pode ajudar a reduzir a dimensionalidade dos dados e a agrupar palavras semelhantes. Por outro
+      lado, ele pode resultar em erros e confusões, já que a forma stemizada de uma palavra pode não
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      ter um significado real, e palavras diferentes podem ser reduzidas à mesma forma stemizada.
+      Além disso, em muitos casos, o stemming não considera o contexto de uma palavra, o que pode
+      levar a erros. É sempre importante considerar essas questões ao decidir se você deve ou não usar
+      stemming em um projeto de PLN.
+
+
+                                                    Lemmatization
+
+
+      A lemmatização é um processo que envolve reduzir palavras à sua forma base ou "lemma".
+      Diferentemente do stemming, que simplesmente corta afixos das palavras, a lemmatização
+      considera o contexto léxico e a parte da fala de uma palavra para chegar à sua forma base. Isso
+      significa que a lemmatização geralmente fornece resultados mais precisos e "legíveis" que o
+      stemming.
+
+      Por exemplo, considere as palavras "correr", "correndo", "correu". Um algoritmo de stemming
+      poderia reduzir todas essas palavras a uma forma base como "corr", que não é uma palavra real
+      em português. No entanto, um algoritmo de lemmatização reduziria todas essas palavras ao
+      lemma "correr", que é a forma base correta.
+
+      Vamos a um exemplo mais complexo:
+
+      Exemplo:
+
+      Considere as palavras "melhor" e "bom". Embora não tenham a mesma forma superficial, são
+      variações da mesma ideia de algo ser bom. Um processo de stemming tratá-las-ia como palavras
+      completamente diferentes, mas um processo de lemmatização reconheceria que "melhor" é o
+      grau comparativo de "bom" e poderia reduzi-las ao mesmo lemma, "bom".
+
+      Lemmatização é um processo mais complexo que o stemming e, muitas vezes, depende de
+      recursos linguísticos detalhados, como dicionários e árvores de análise sintática. No entanto, a
+      lemmatização pode fornecer resultados mais precisos e úteis, especialmente para tarefas de PLN
+      que requerem um alto grau de compreensão, como a tradução automática ou o processamento
+      de perguntas.
+
+      Note, no entanto, que tanto a lemmatização quanto o stemming podem ter prós e contras,
+      dependendo do problema específico que você está tentando resolver. Em alguns casos, manter
+      as formas de palavras originais (sem stemming ou lemmatização) pode ser a abordagem mais
+      apropriada.
+
+
+                                             Named Entity Recognition
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+        A Named Entity Recognition (NER), ou Reconhecimento de Entidades Nomeadas, é um subcampo
+        do Processamento de Linguagem Natural (PLN) que se concentra em localizar e classificar
+        entidades nomeadas em texto. As entidades nomeadas são geralmente nomes de pessoas,
+        organizações, locais, expressões de tempo, quantidades, valores monetários e outros.
+
+        O objetivo do NER é extrair informações estruturadas de texto não estruturado. Por exemplo,
+        dada a frase "A Apple Inc. foi fundada por Steve Jobs na Califórnia", um sistema NER identificaria
+        "Apple Inc." como uma organização, "Steve Jobs" como uma pessoa e "Califórnia" como um local.
+
+        Vejamos alguns exemplos:
+
+        Exemplo 1:
+
+        Frase: "Barack Obama foi presidente dos Estados Unidos."
+
+        Entidades nomeadas: "Barack Obama" (Pessoa), "Estados Unidos" (Local)
+
+        Exemplo 2:
+
+        Frase: "A Amazon foi fundada por Jeff Bezos em 1994."
+
+        Entidades nomeadas: "Amazon" (Organização), "Jeff Bezos" (Pessoa), "1994" (Tempo)
+
+        Exemplo 3:
+
+        Frase: "A Grande Muralha da China é uma das maravilhas do mundo."
+
+        Entidades nomeadas: "Grande Muralha da China" (Local), "maravilhas do mundo" (Obra de Arte)
+
+
+
+
+                                          Representação de Texto
+
+        Após o pré-processamento, passamos para a etapa de representação de texto. Essa etapa
+        envolve a conversão de texto em um formato que os algoritmos de aprendizado de máquina
+        possam entender. A maneira mais comum de representar o texto é transformá-lo em vetores
+        numéricos. Existem várias técnicas para isso, como:
+
+    •    Bag of Words: Cria um vocabulário de todas as palavras únicas em nosso texto e representa
+         cada documento como um vetor com a contagem de cada palavra.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+    •    TF-IDF (Term Frequency-Inverse Document Frequency): Similar ao Bag of Words, mas, além de
+         contar as palavras, ele pondera as contagens com base na frequência com que a palavra
+         aparece nos documentos.
+    •    Word Embeddings (Word2Vec, GloVe): Estas são técnicas mais avançadas que representam
+         palavras em espaços vetoriais multidimensionais, onde a posição de cada palavra é aprendida
+         a partir do texto. Essas técnicas podem capturar semântica complexa e relações entre palavras.
+    •    Transformers (BERT, GPT): Esses são modelos mais recentes que usam mecanismos de atenção
+         para criar embeddings de texto que consideram o contexto de cada palavra dentro de uma
+         frase.
+
+
+                                                      Bag of Words
+
+
+        A representação de texto conhecida como Bag of Words (BoW) é uma das maneiras mais simples
+        e comuns de transformar texto em um formato que os algoritmos de machine learning possam
+        entender e processar.
+
+        A ideia por trás do BoW é bastante simples: tratamos cada documento (ou frase, parágrafo, etc.)
+        como um "saco" de palavras, ignorando completamente a ordem e a sintaxe e focando apenas
+        na frequência das palavras.
+
+        O processo básico para criar uma representação BoW é o seguinte:
+
+    1. Crie um vocabulário de palavras únicas: Para começar, criamos uma lista (ou "vocabulário") de
+       todas as palavras únicas encontradas em todos os documentos no nosso conjunto de dados.
+    2. Conte a frequência das palavras: Em seguida, para cada documento, contamos o número de
+       vezes que cada palavra do vocabulário aparece no documento.
+
+        Como resultado, cada documento é representado por um vetor de comprimento igual ao número
+        de palavras no vocabulário. Cada elemento do vetor é a contagem da respectiva palavra no
+        documento.
+
+        Exemplo:
+
+        Suponha que temos três frases:
+
+    •    "O gato senta no tapete."
+    •    "O cão brinca no jardim."
+    •    "O gato brinca com o cão."
+
+        O vocabulário dos documentos seria: {o, gato, senta, no, tapete, cão, brinca, jardim, com}.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+        A representação BoW para cada sentença seria:
+
+    •    "O gato senta no tapete." -> [1, 1, 1, 1, 1, 0, 0, 0, 0]
+    •    "O cão brinca no jardim." -> [1, 0, 0, 1, 0, 1, 1, 1, 0]
+    •    "O gato brinca com o cão." -> [2, 1, 0, 0, 0, 1, 1, 0, 1]
+
+        Cada vetor representa a contagem de palavras do vocabulário na frase correspondente.
+
+        Veja que o modelo BoW tem suas limitações. Ele ignora completamente a ordem das palavras (e,
+        portanto, a estrutura gramatical e a semântica) e trata cada palavra como tendo o mesmo peso,
+        independentemente de sua posição no documento. Isso pode ser um problema em muitas
+        tarefas de PLN.
+
+        Por outro lado, o modelo BoW é simples de entender e implementar, e pode ser eficaz em tarefas
+        onde a frequência das palavras é mais importante que sua ordem, como classificação de
+        documentos e análise de sentimentos.
+
+
+                                                          TF-IDF
+
+
+        A representação de texto conhecida como TF-IDF (Term Frequency-Inverse Document
+        Frequency) é uma técnica usada em Processamento de Linguagem Natural (PLN) para quantificar
+        a importância de uma palavra em um documento em relação a um corpus de documentos.
+        Diferentemente do método Bag of Words (BoW), que apenas conta a frequência das palavras, o
+        TF-IDF pondera as palavras de acordo com a sua importância.
+
+        TF-IDF é composto por dois componentes:
+
+    1. Term Frequency (TF): Esta é a frequência de uma palavra em um documento. É semelhante ao
+       que fazemos no BoW.
+    2. Inverse Document Frequency (IDF): Este componente pondera as palavras com base em quão
+       comuns ou raras são em todo o corpus de documentos. Palavras que são comuns em todos os
+       documentos (como 'e', 'o', 'a' etc.) recebem pesos mais baixos, enquanto palavras que são raras
+       recebem pesos mais altos.
+
+        A representação final de TF-IDF de uma palavra em um documento é o produto de TF e IDF.
+
+        Vamos considerar um exemplo prático:
+
+        Exemplo:
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+        Suponha que temos três documentos:
+
+        •    "O gato senta no tapete."
+        •    "O cão brinca no jardim."
+        •    "O gato brinca com o cão."
+
+        Para calcular o TF-IDF para a palavra "gato" no primeiro documento, faríamos o seguinte:
+
+    •       TF: A palavra "gato" aparece uma vez no primeiro documento, e há cinco palavras no total,
+            então o TF para "gato" é 1/5 = 0.2.
+    •       IDF: A palavra "gato" aparece em dois dos três documentos, então o IDF é calculado como
+            log(3/2) = 0.405 (considerando log na base 10).
+    •       TF-IDF: Finalmente, calculamos o TF-IDF multiplicando o TF e o IDF, ou seja, 0.2 * 0.405 = 0.081.
+
+        Assim, o valor TF-IDF para a palavra "gato" no primeiro documento é 0.081.
+
+        TD-IDF é frequentemente usado em tarefas como recuperação de informações e mineração de
+        texto, ajudando a identificar as palavras mais relevantes para um documento em relação a um
+        corpus de documentos.
+
+
+                                                           n-Gramas
+
+
+        N-gramas é uma técnica usada no Processamento de Linguagem Natural (PLN) para dividir uma
+        sequência de palavras em subsequências contíguas de n palavras. O "n" aqui representa o
+        número de palavras em cada subsequência ou grama.
+
+        Por exemplo, em um unigrama (n=1), cada palavra na frase é considerada individualmente. Em
+        um bigrama (n=2), as palavras são emparelhadas, e em um trigrama (n=3), as palavras são
+        agrupadas em conjuntos de três, e assim por diante.
+
+        Os n-gramas podem ajudar a capturar a estrutura linguística, como as frases tendem a ser
+        construídas e a predizer a próxima palavra de uma sequência de palavras, entre outras coisas.
+
+        Exemplo:
+
+        Vamos considerar a frase "O gato senta no tapete".
+
+    •       Unigramas: 'O', 'gato', 'senta', 'no', 'tapete'
+    •       Bigramas: 'O gato', 'gato senta', 'senta no', 'no tapete'
+    •       Trigramas: 'O gato senta', 'gato senta no', 'senta no tapete'
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+             www.estrategiaconcursos.com.br
+
+                                         https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      No exemplo acima, cada unigrama representa uma única palavra, enquanto bigramas e trigramas
+      capturam mais contexto ao incluir palavras adjacentes.
+
+      N-gramas são usados em uma variedade de aplicações de PLN, incluindo correção ortográfica,
+      sugestão de palavras, reconhecimento de fala, e tradução automática. Eles são particularmente
+      úteis quando a ordem das palavras é importante para o significado, porque capturam a
+      informação da sequência que os unigramas ignoram.
+
+      É claro que, à medida que aumentamos o valor de "n", a dimensão dos dados aumenta (porque
+      temos que armazenar mais n-gramas) e pode levar ao problema da "maldição da
+      dimensionalidade" (onde muitas dimensões acabam piorando o resultado desejado). É preciso
+      ter cuidado ao escolher o valor de "n".
+
+      Veja n-Gramas sendo utilizado no contexto de Teclado Inteligente de um smartphone:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                                                      Word2Vec
+
+
+      Word2Vec é um método de aprendizado de representações vetoriais de palavras, também
+      conhecido como word embeddings, que captura a semântica das palavras, sua relação
+      semântica e sintática com outras palavras. Ele foi desenvolvido por uma equipe de
+      pesquisadores do Google liderada por Tomas Mikolov.
+
+      Os modelos Word2Vec são redes neurais de duas camadas treinadas para reconstruir contextos
+      linguísticos de palavras. Word2Vec pega um grande corpus de texto como entrada e produz um
+      espaço vetorial de várias dimensões, geralmente algumas centenas, com cada palavra única do
+      corpus sendo atribuída a um vetor correspondente no espaço.
+
+      O método utiliza dois modelos arquiteturais para calcular as representações vetoriais:
+
+    1. CBOW (Continuous Bag of Words): Neste modelo, o algoritmo prevê a palavra atual, dadas as
+       palavras de contexto em uma janela específica. O modelo CBOW suaviza as informações da
+       palavra, pois não distingue a ordem das palavras e soma todas as representações das palavras
+       juntas.
+    2. Skip-gram: Este é o contrário do CBOW. Neste modelo, o algoritmo usa a palavra atual para
+       prever as palavras de contexto em uma janela específica.
+
+      A característica principal das representações de palavras treinadas pelo Word2Vec é que
+      palavras com significados semelhantes tendem a ter vetores semelhantes, ou seja, estão
+      próximas no espaço vetorial.
+
+      Exemplo:
+
+      Suponha que você tenha um conjunto de textos de livros infantis, e queira usar Word2Vec para
+      aprender as representações vetoriais de palavras desse corpus.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Depois de treinar o modelo Word2Vec nesse corpus, cada palavra será representada como um
+      vetor em um espaço de várias dimensões (normalmente centenas). Por exemplo, as palavras
+      'gato' e 'cão' terão seus próprios vetores.
+
+      Agora, imagine que você queira encontrar palavras semelhantes à palavra 'gato'. Como o modelo
+      foi treinado em livros infantis, ele provavelmente encontrou muitas instâncias onde 'gato' e 'cão'
+      aparecem em contextos semelhantes (por exemplo, "O gato brinca com o novelo" e "O cão brinca
+      com a bola"). Portanto, os vetores para 'gato' e 'cão' devem estar próximos no espaço vetorial,
+      pois as duas palavras compartilham um contexto semelhante.
+
+      Para encontrar palavras semelhantes à palavra 'gato', você pode simplesmente procurar os
+      vetores mais próximos no espaço. Portanto, se você pedir ao modelo as palavras mais
+      semelhantes a 'gato', é provável que 'cão' esteja entre elas.
+
+      Outro exemplo famoso é que as representações vetoriais parecem capturar algumas analogias.
+      Por exemplo, os vetores parecem seguir relações tais que "rei" - "homem" + "mulher" é
+      semelhante a "rainha". Isso sugere que a diferença entre os vetores "rei" e "homem" é
+      semelhante à diferença entre "rainha" e "mulher".
+
+      Lembrando, porém, que esses resultados podem variar dependendo do conjunto de dados
+      específico em que o modelo Word2Vec foi treinado. Ou seja, o modelo aprenderá relações que
+      refletem os dados de treinamento.
+
+
+                                                         GloVe
+
+
+      GloVe (Global Vectors for Word Representation) é uma técnica de aprendizado não
+      supervisionado para obter representações vetoriais de palavras. Desenvolvido por pesquisadores
+      da Universidade de Stanford, o algoritmo GloVe combina as melhores características de duas
+      classes principais de técnicas de incorporação de palavras: métodos globais baseados em matriz
+      (como a Análise Semântica Latente) e métodos locais baseados em janela deslizante (como o
+      Word2Vec).
+
+      GloVe constrói matrizes de co-ocorrência globais de palavras a partir de um corpus e, em seguida,
+      realiza a fatoração da matriz para produzir os embeddings.
+
+      O treinamento é feito de maneira que o produto escalar de dois vetores de palavras seja igual ao
+      logaritmo da probabilidade de co-ocorrência dessas palavras. Uma função de perda é minimizada
+      que considera a diferença entre o produto escalar desses vetores de palavras e o logaritmo da
+      probabilidade de co-ocorrência.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Exemplo:
+
+      Se considerarmos um corpus com as frases: "O gato comeu o peixe" e "O gato pegou o peixe".
+      Se formos calcular o vetor de representação para a palavra "gato" a partir desse corpus utilizando
+      o GloVe, ele considerará a relação do "gato" com as palavras "comeu", "pegou", "o" e "peixe"
+      levando em conta o número de vezes que elas co-ocorrem na janela de contexto e o logaritmo
+      dessa co-ocorrência.
+
+      Assim, o vetor que representa "gato" captura aspectos da sua semântica e da sua sintaxe. Por
+      exemplo, o vetor de "gato" será mais próximo ao vetor de "peixe" do que ao vetor de "comeu",
+      pois "gato" e "peixe" são ambos substantivos e têm uma relação semântica mais forte.
+
+
+
+
+                                           Classificação de Texto
+
+      Classificação de textos, também conhecida como categorização de textos, é uma das tarefas
+      fundamentais no Processamento de Linguagem Natural (PLN). Refere-se ao processo de atribuir
+      etiquetas ou categorias predefinidas a textos ou partes de textos (por exemplo, documentos,
+      frases, etc.) com base no conteúdo.
+
+      Modelos de classificação de texto podem aprender a distinguir diferentes gêneros de textos,
+      identificar sentimentos em comentários de produtos, reconhecer a intenção em comandos de
+      voz, categorizar e-mails como "spam" ou "não spam", entre muitas outras aplicações.
+      Basicamente, é um método de reduzir a dimensão do texto para facilitar a análise posterior.
+
+      Algumas das aplicações mais comuns da classificação de textos incluem:
+
+      Análise de Sentimentos: Determinar se um texto expressa um sentimento positivo, negativo ou
+      neutro. Isso é comumente usado para análises de produtos ou serviços e monitoramento de
+      redes sociais.
+
+      Detecção de Spam: Classificar e-mails ou mensagens como "spam" ou "não spam".
+
+      Classificação de Notícias: Classificar notícias em categorias predefinidas como "esportes",
+      "política", "entretenimento", etc.
+
+      Identificação de Intenção: Em assistentes virtuais, a classificação de texto pode ser usada para
+      identificar a intenção do usuário a partir de um comando de voz ou uma pergunta.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Tagging Automático: Atribuir tags ou categorias a um artigo ou blog automaticamente com base
+      em seu conteúdo.
+
+      Moderação de Conteúdo: Classificar conteúdo online (por exemplo, comentários, postagens de
+      blog) para detectar e filtrar conteúdo inadequado, ofensivo ou abusivo.
+
+      De forma geral, existem três abordagens principais para classificação de textos: baseada em
+      regras, baseada em aprendizado de máquina e híbrida.
+
+
+                                     Classificação de Texto Baseada em regras
+
+
+      A classificação baseada em regras é o método mais antigo de classificação de texto. Aqui, os
+      especialistas do domínio definem um conjunto de regras e o sistema classifica o texto de
+      acordo com essas regras. As regras geralmente envolvem a busca por palavras-chave específicas,
+      frases, padrões ou combinações dessas dentro de um texto. A classificação é feita com base na
+      presença ou ausência dessas características.
+
+      A vantagem dessa abordagem é que ela é fácil de entender, implementar e explicar. Porém, criar
+      e manter um conjunto abrangente de regras pode ser demorado e complicado, especialmente
+      para tarefas complexas ou para lidar com idiomas e textos variados.
+
+      Exemplo:
+
+      Vamos supor que eu tenha escolhido: português, direito administrativo, informática e raciocínio
+      lógico. Abaixo seguem algumas regras que eu poderia criar para minha classificação:
+
+
+
+
+      É possível criar várias regras dessas que nos ajudassem a classificar corretamente o conteúdo
+      programático do edital em classes pré-definidas. Essa abordagem tem algumas desvantagens:
+      exige um esforço manual que pode ser exaustivo no caso de documentos extremamente grandes
+      e pode gerar falsos-positivos, principalmente por conta da polissemia (palavras com mais de um
+      significado).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                          Classificação de Texto Baseada em aprendizado de máquina
+
+
+      A classificação de texto baseada em aprendizado de máquina envolve o treinamento de um
+      modelo de aprendizado de máquina em um conjunto de dados rotulados. O modelo aprende a
+      relação entre as características do texto (como palavras, frases, parte do discurso, etc.) e as
+      etiquetas de classificação durante o treinamento. Uma vez treinado, o modelo pode ser usado
+      para prever as etiquetas para novos textos.
+
+      Existem muitos algoritmos de aprendizado de máquina que podem ser usados para classificação
+      de texto, incluindo Naive Bayes, Máquinas de Vetores de Suporte (SVM) e Redes Neurais
+      (normalmente estudamos esses métodos em nossa aula de Machine Learning)
+
+      A vantagem dessa abordagem é que ela pode lidar com tarefas complexas e pode aprender a
+      partir de exemplos sem a necessidade de regras explicitamente programadas. No entanto, ela
+      requer um grande conjunto de dados rotulados para treinamento, o que pode ser difícil e
+      demorado de obter. Além disso, os modelos de aprendizado de máquina podem ser difíceis de
+      interpretar e podem não funcionar bem se o novo texto for muito diferente dos dados de
+      treinamento.
+
+
+                                           Classificação de Texto Híbrida
+
+
+      A classificação híbrida combina os métodos baseados em regras e baseados em aprendizado de
+      máquina para aproveitar as vantagens de ambos.
+
+      Por exemplo, um sistema híbrido pode usar regras para lidar com casos claros e simples, e
+      aprendizado de máquina para lidar com casos mais complexos e ambíguos. Alternativamente, o
+      sistema pode usar aprendizado de máquina para fazer uma primeira passagem na classificação,
+      e então usar regras para refinar ou ajustar a classificação.
+
+      A abordagem híbrida pode oferecer um bom equilíbrio entre a precisão do aprendizado de
+      máquina e a explicabilidade das regras, e pode ser mais flexível e robusta a variações nos textos.
+      Porém, também pode ser mais complexa de implementar e manter, pois requer a gestão de
+      regras e modelos de aprendizado de máquina.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+                                         Análise de Sentimentos
+
+      Análise de sentimentos, também conhecida como mineração de opiniões, é uma aplicação de
+      PLN que identifica e extrai informações subjetivas de fontes de texto. Basicamente, ela
+      determina a atitude, opinião ou emoção de um escritor em relação a algum tópico ou contexto
+      geral do texto.
+
+      Aplicações:
+
+      Monitoramento de Marca e Produto: Empresas podem usar a análise de sentimentos para
+      monitorar as opiniões dos clientes sobre seus produtos ou marca em redes sociais, blogs, fóruns,
+      etc.
+
+      Atendimento ao Cliente: Identificar se os clientes estão satisfeitos ou insatisfeitos com o serviço
+      prestado, permitindo que as empresas respondam de forma mais eficaz.
+
+      Análise de Mercado: Ao analisar os sentimentos em notícias e postagens de mídias sociais, as
+      empresas podem obter insights valiosos sobre as tendências do mercado.
+
+      Análise Política: Monitorar a opinião pública sobre políticas, campanhas ou candidatos.
+
+      Como funciona:
+
+      O processo de análise de sentimentos geralmente envolve o uso de algoritmos de aprendizado
+      de máquina ou processamento de linguagem natural para classificar textos em categorias de
+      sentimento.
+
+      Primeiro, o texto é pré-processado por meio de etapas como tokenização, remoção de
+      stopwords, lematização, etc. Em seguida, as características são extraídas do texto pré-
+      processado. Essas características podem ser tão simples como a contagem de palavras ou a
+      presença/ausência de palavras-chave, ou podem ser mais complexas, como a semântica do texto
+      capturada por modelos como o Word2Vec.
+
+      Essas características são então alimentadas em um modelo de aprendizado de máquina, que é
+      treinado para classificar o texto em categorias de sentimento.
+
+      Formas de Classificar Sentimentos:
+
+      Existem várias formas de classificar sentimentos em análise de sentimentos, incluindo:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+    1. Polaridade: Aqui, o sentimento é classificado como positivo, negativo ou neutro. Por exemplo,
+       "Eu amo este produto" seria classificado como positivo, enquanto "Eu odeio este produto" seria
+       classificado como negativo.
+    2. Escala de Sentimento: Em vez de simplesmente classificar o sentimento como positivo,
+       negativo ou neutro, alguns sistemas de análise de sentimentos podem classificar o sentimento
+       em uma escala. Por exemplo, um sistema pode classificar o sentimento em uma escala de 1 a
+       5, onde 1 é muito negativo e 5 é muito positivo.
+    3. Emoções: Alguns sistemas de análise de sentimentos podem tentar identificar emoções
+       específicas, como alegria, tristeza, raiva, surpresa, etc. Por exemplo, "Estou tão feliz por ter
+       comprado este produto" poderia ser classificado como expressando alegria.
+
+      Exemplo:
+
+      Vamos considerar um exemplo prático de análise de sentimentos. Suponha que você seja o
+      proprietário de uma empresa de venda de smartphones e quer entender o que seus clientes
+      estão dizendo sobre seu mais recente produto nas mídias sociais.
+
+      Para isso, você coleta uma série de comentários de clientes sobre seu novo produto. Alguns dos
+      comentários são os seguintes:
+
+       •    "Eu amo o novo smartphone! A bateria dura muito tempo e a câmera tira fotos incríveis!"
+       •    "Não estou feliz com este produto. Ele trava o tempo todo."
+       •    "O design é elegante, mas a performance deixou a desejar."
+
+      Para cada um desses comentários, você gostaria de classificar o sentimento como positivo,
+      negativo ou neutro. Para fazer isso, você poderia utilizar algum modelo de análise de sentimentos
+      pré-treinado, que é capaz de entender o contexto das palavras e, assim, classificar corretamente
+      o sentimento.
+
+      Após processar os comentários com seu modelo de análise de sentimentos, você obtém os
+      seguintes resultados:
+
+    1. "Eu amo o novo smartphone! A bateria dura muito tempo e a câmera tira fotos incríveis!"
+       - Sentimento: Positivo
+    2. "Não estou feliz com este produto. Ele trava o tempo todo." - Sentimento: Negativo
+    3. "O design é elegante, mas a performance deixou a desejar." - Sentimento: Neutro
+
+      A partir desses resultados, você pode obter informações sobre a percepção do cliente em relação
+      ao seu produto. Neste caso, você pode ver que os clientes adoram a bateria e a câmera, mas
+      alguns estão enfrentando problemas com o desempenho do dispositivo.
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+           www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Isso permitirá direcionar as estratégias de melhoria de produto de forma mais eficaz, focando
+      nos aspectos que os clientes estão insatisfeitos e mantendo ou aprimorando os aspectos que eles
+      já adoram.
+
+
+
+
+                                   Modelagem de Tópicos Latentes
+
+      Modelagem de Tópicos Latentes é uma técnica de aprendizado de máquina não supervisionada
+      usada para identificar os principais tópicos que ocorrem em uma coleção de documentos. Essa
+      técnica pode ajudar a descobrir a estrutura latente (ou oculta) dos dados.
+
+      O objetivo é usar a estrutura estatística dos documentos para deduzir os tópicos sem a
+      necessidade de rótulos pré-definidos. O termo "latente" se refere a algo que está presente, mas
+      não é imediatamente visível ou realizado. Dois dos algoritmos mais comuns usados para
+      modelagem de tópicos são a Alocação Latente de Dirichlet (LDA) e a Indexação Semântica Latente
+      (LSI).
+
+      Aplicações:
+
+      Sumarização de Documentos: Os tópicos extraídos podem ser usados para sumarizar o conteúdo
+      de um conjunto de documentos.
+
+      Sistema de Recomendação: A modelagem de tópicos pode ser usada para recomendar conteúdo
+      semelhante. Por exemplo, se um usuário lê muitos artigos sobre um tópico específico (por
+      exemplo, "ciência"), podemos recomendar outros artigos desse tópico.
+
+      Classificação de Documentos: Embora a modelagem de tópicos seja uma técnica não
+      supervisionada, as informações sobre os tópicos podem ser usadas em um estágio subsequente
+      para classificar documentos.
+
+      Análise de Tendências: Em conjuntos de documentos que variam ao longo do tempo (como
+      tweets ou artigos de notícias), a modelagem de tópicos pode ser usada para identificar
+      tendências ou mudanças nos tópicos discutidos.
+
+      Busca semântica: A modelagem de tópicos permite a realização de buscas semânticas, onde o
+      objetivo é encontrar conteúdo relevante, mesmo que não inclua as palavras-chave exatas da
+      consulta de busca.
+
+      Como funciona:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      A técnica trata cada documento como uma mistura de tópicos, e cada tópico é uma mistura de
+      palavras. Por exemplo, em uma coleção de documentos de notícias, alguns tópicos possíveis
+      seriam "política", "esportes", "economia", etc. Cada um desses tópicos teria palavras associadas,
+      como "governo", "eleição" para política, "futebol", "jogo" para esportes, "mercado", "ações"
+      para economia, e assim por diante.
+
+      O algoritmo LDA, por exemplo, começaria atribuindo aleatoriamente cada palavra em cada
+      documento a um dos tópicos (k). Ele então passa repetidamente por cada palavra e reatribui a
+      palavra a um tópico, levando em consideração quão prevalente é o tópico no documento e quão
+      prevalente é a palavra no tópico. O algoritmo converge quando a atribuição de palavras a tópicos
+      para de mudar muito.
+
+
+
+
+                                    Redução da Dimensionalidade
+
+      Redução de dimensionalidade é uma técnica estatística utilizada para diminuir a complexidade
+      dos dados, minimizando o número de variáveis aleatórias sob consideração, ou seja, reduzindo
+      o número de dimensões em um conjunto de dados. Ela é extremamente útil em muitos campos,
+      especialmente na aprendizagem de máquina e no processamento de linguagem natural, onde os
+      conjuntos de dados podem ter centenas ou milhares de dimensões.
+
+      Em geral, redução de dimensionalidade é importante pelas seguintes razões:
+
+      Visualização: Com muitas dimensões, é impossível visualizar os dados. Reduzindo os dados para
+      duas ou três dimensões, podemos plotá-los e obter uma compreensão visual dos dados.
+
+      Eficiência computacional: Conjuntos de dados de alta dimensão podem ser muito grandes e
+      demorados para processar. A redução de dimensionalidade pode diminuir o tempo de
+      computação.
+
+      Melhoria de desempenho do modelo: Com muitas dimensões, os modelos podem sofrer de
+      "maldição da dimensionalidade", onde a densidade de pontos em qualquer região do espaço se
+      torna extremamente baixa. Isso pode levar a um desempenho de modelo pobre. A redução de
+      dimensionalidade pode melhorar o desempenho do modelo, removendo ruído e redundância
+      nos dados.
+
+      Mitigar o overfitting: Menos dimensões significa menos probabilidade de o modelo se ajustar
+      demais aos dados de treinamento, tornando o modelo mais generalizado e robusto para dados
+      de teste não vistos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Existem várias técnicas para a redução de dimensionalidade, cada uma com suas próprias
+      vantagens e desvantagens. A mais utilizada é a técnica conhecida como Análise de Componentes
+      Principais (PCA).
+
+      Análise de Componentes Principais:
+
+      Análise de Componentes Principais (PCA) é uma técnica estatística utilizada para reduzir a
+      dimensionalidade dos dados, mantendo ao mesmo tempo a maior parte da variação. Ela
+      funciona encontrando um novo conjunto de dimensões (ou "componentes") que são uma
+      combinação linear das dimensões originais.
+
+      O funcionamento do PCA pode ser resumido nos seguintes passos:
+
+    1. Centralize os dados: Subtraia a média de cada variável dos dados. Isso centraliza os dados em
+       torno de zero.
+    2. Calcule a matriz de covariância: A matriz de covariância é uma matriz que contém as
+       covariâncias entre todas as pares de variáveis. A covariância é uma medida de como as
+       mudanças em uma variável estão associadas às mudanças em outra.
+    3. Calcule os autovalores e autovetores da matriz de covariância: Os autovetores da matriz de
+       covariância são os componentes principais. Eles são os direções no espaço de características
+       onde os dados variam mais. Os autovalores são medidas da variação dos dados ao longo dessas
+       direções. Os componentes principais correspondentes aos maiores autovalores são as direções
+       onde os dados variam mais.
+    4. Selecione os componentes principais: Selecione os k primeiros componentes principais para
+       reduzir a dimensionalidade dos dados para k dimensões.
+    5. Transforme os dados: Finalmente, os dados originais são transformados em um conjunto de
+       dados de dimensão reduzida usando os componentes principais selecionados. Isso é feito
+       projetando os dados originais nos componentes principais.
+
+      Exemplo:
+
+      Suponha que tenhamos um conjunto de dados de documentos e queremos realizar a análise de
+      tópicos. Os documentos foram transformados em vetores de recursos usando a técnica TF-IDF
+      (Term Frequency-Inverse Document Frequency), resultando em uma matriz em que cada linha
+      representa um documento e cada coluna representa uma palavra única no corpus. No entanto,
+      temos um problema: a dimensionalidade dos nossos dados é muito alta (por exemplo, podemos
+      ter milhares ou mesmo dezenas de milhares de palavras únicas no nosso corpus). O alto número
+      de dimensões pode tornar nossos modelos de aprendizado de máquina menos eficientes e
+      possivelmente menos eficazes. Para resolver isso, podemos aplicar PCA para reduzir a
+      dimensionalidade.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+      Primeiro, centralizamos os dados subtraindo a média de cada palavra (ou seja, coluna) de cada
+      documento.
+
+      Em seguida, calculamos a matriz de covariância dos dados centralizados. Esta matriz nos mostra
+      como a aparência de uma palavra em um documento está relacionada à aparência de todas as
+      outras palavras nos documentos.
+
+      A partir da matriz de covariância, calculamos os autovalores e autovetores. Os autovetores são
+      as direções em que nosso conjunto de documentos varia mais. Eles representam combinações
+      de palavras que explicam a maior parte da variância em nosso conjunto de dados.
+
+      Escolhemos os k autovetores que têm os maiores autovalores correspondentes. Esses
+      autovetores são os nossos k componentes principais.
+
+      Finalmente, projetamos os dados originais nesses componentes principais para obter os dados
+      de dimensão reduzida.
+
+      Agora, em vez de ter um recurso para cada palavra única no corpus, temos k recursos que são
+      combinações das palavras originais. Esses novos recursos são menos em número, mas ainda
+      representam a maior parte da variância nos dados, o que os torna úteis para a análise de tópicos.
+
+      Por exemplo, um dos componentes principais pode ser uma combinação de palavras que estão
+      frequentemente presentes em documentos sobre economia, enquanto outro pode ser uma
+      combinação de palavras que são comuns em documentos sobre tecnologia. Esses componentes
+      principais, então, podem nos ajudar a entender os tópicos principais em nosso corpus de
+      documentos.
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+      Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+      estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+      para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+      A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+      que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+     1. (FGV / Receita Federal - 2023) Em relação ao processamento de linguagem natural
+        (PLN), analise as afirmativas a seguir.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+         I. O PLN envolve a compreensão e a geração de linguagem natural humana.
+         II. A tarefa principal do PLN é traduzir textos de uma língua para outra.
+         III. O PLN não é utilizado para tarefas de processamento de voz.
+         IV. O PLN é aplicado em sistemas de recuperação de informações e assistentes virtuais.
+
+         Estão corretas as afirmativas:
+
+         a) I e IV, apenas.
+         b) II e III, apenas.
+         c) I e III, apenas.
+         d) I, II e III.
+         e) I, II e IV.
+
+         Comentários:
+
+         (I) Correto. O objetivo do PLN é permitir que os computadores entendam, interpretem
+         e produzam linguagem natural da mesma forma que os seres humanos, facilitando a
+         comunicação entre humanos e máquinas.
+
+         (II) Errado. A tradução de textos de uma língua para outra é uma das tarefas mais
+         conhecidas do PLN, mas não é a única e nem a tarefa principal. O objetivo geral do PLN
+         é permitir que computadores entendam e gerem linguagem natural, seja em uma única
+         língua ou em várias línguas diferentes.
+
+         (III) Errado. Ele é frequentemente utilizado para tarefas de processamento de voz,
+         incluindo reconhecimento de fala e síntese de voz. Embora a fala seja uma forma de
+         linguagem natural diferente da linguagem escrita, muitas das técnicas e ferramentas
+         de PLN podem ser aplicadas ao processamento de voz.
+
+         (IV) Correto. Ele é amplamente aplicado em sistemas de recuperação de informações
+         e assistentes virtuais. Esses sistemas utilizam técnicas de PLN para entender a
+         linguagem natural usada pelos usuários e fornecer respostas relevantes e úteis.
+
+         Gabarito: A
+
+     2. (FGV / Receita Federal - 2023) No contexto do desenvolvimento de chatbots baseados
+        em prompt textuais, uma habilidade importante é a resolução de ambiguidades,
+        visando à compreensão completa do texto.
+
+         Assinale a técnica de NLP adequada nesse tipo de desenvolvimento:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+         a) Processamento de Voz.
+         b) Reconhecimento de Imagem.
+         c) Aprendizado de Máquina.
+         d) Análise Semântica.
+         e) Tokenização.
+
+         Comentários:
+
+         A técnica adequada é a Análise Semântica. Trata-se de uma técnica de processamento
+         de linguagem natural que ajuda a compreender o significado do texto, sendo
+         particularmente útil para resolver ambiguidades em chatbots, pois ajuda a determinar
+                                                        ==219a34==
+
+
+
+
+         qual é a interpretação mais provável de uma frase ou palavra em um determinado
+         contexto. Isso permite que o chatbot compreenda completamente o texto e forneça
+         uma resposta precisa e relevante para o usuário.
+
+         Gabarito: D
+
+
+
+     3. (FGV / TCU – 2022) Uma organização está implementando um sistema de busca de
+        informações interno, e a equipe de desenvolvimento resolveu avaliar diferentes
+        modelos de linguagem vetoriais que ajudariam a conectar melhor documentos e
+        consultas em departamentos que usam terminologias distintas em áreas de negócio
+        que se sobrepõem. Um dos analistas ressaltou que seria interessante guardar os
+        vetores de todo o vocabulário do modelo em um cache, de forma a aumentar a
+        eficiência de acesso e reduzir certos custos de implantação.
+
+         Das alternativas abaixo, aquela que lista apenas os modelos compatíveis com essa
+         estratégia de caching é:
+
+         a) TF-IDF, BERT;
+         b) Word2Vec, BERT, GPT-2;
+         c) GloVe, GPT-2;
+         d) Word2Vec, GloVe;
+         e) GPT-2, BERT.
+
+         Comentários:
+
+         (1) Word2Vec e GloVe realmente utilizam uma estratégia de caching; (2) BERT e GPT2
+         são modelos sequenciais que utilizam Transformers para adaptar a representação
+         vetorial das palavras pelo contexto de outras palavras no qual se encontra. Assim,
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+         esses vetores para palavras não são constantes; (3) TF-IDF não utiliza representação
+         vetorial para palavras e, sim, para textos.
+
+         Gabarito: D
+
+
+
+     4. (FGV / TJDFT – 2022) Considere a sentença a seguir.
+
+         s: “O acesso ao auditório também pode ser feito através de uma rampa”
+
+         Aplicando a função f à sentença, obtém-se o seguinte resultado:
+
+         f(s) = “acesso auditório pode ser feito através rampa”
+
+         A melhor descrição para a tarefa realizada pela função f é:
+
+         a) filtragem de conectivos;
+         b) lematização;
+         c) sumarização de sentença;
+         d) filtragem de stop words;
+         e) remoção de ruído.
+
+
+
+         Comentários:
+
+         Claramente ocorre uma filtragem de stopwords. Lembrando que stopwords são
+         palavras que podem ser consideradas de pouco valor para o entendimento do sentido
+         de um texto, isto é, palavras semanticamente irrelevantes. Em geral, trata-se de
+         artigos, preposições, pronomes e conjunções (Ex: as, e, que, os, de, para, com, sem,
+         aquele, etc). Essas palavras podem ser ignoradas com segurança, realizando uma
+         pesquisa em uma lista predefinida de palavras-chave, reduzindo o ruído e melhorando
+         o desempenho.
+
+         Gabarito: D
+
+     5. (FGV/ TCU – 2022) Um analista do TCU gostaria de aplicar um modelo de Latent
+        Dirichlet Allocation (LDA) em um conjunto de textos. A alternativa que melhor descreve
+        o resultado do modelo é:
+
+        a) uma lista de tópicos, cada um com um título diferente;
+        b) uma lista das palavras mais importantes no conjunto de documentos;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+        c) cada documento é classificado em somente um tópico, onde cada tópico é formado
+            por uma lista de palavras;
+        d) cada documento possui uma distribuição de probabilidade de pertencer a algum dos
+            tópicos, onde cada tópico é formado por uma lista de palavras e cada palavra
+            pertence a somente um tópico;
+         e) cada documento possui uma distribuição de probabilidade de pertencer a algum dos
+         tópicos, onde cada tópico é formado por uma distribuição de probabilidade sobre
+         todas as palavras presentes nos documentos.
+
+         Comentários:
+
+         (a) Errado, tópicos não possuem necessariamente um título próprio – e se tiver, ele é
+         atribuído por um especialista e nem sequer precisa necessariamente ter relação com
+         o tópico; (b) Errado, não há nenhuma relação com a importância das palavras; (c)
+         Errado, cada documento pode ser associado a um conjunto de tópicos; (d) Errado,
+         palavras podem pertencer a mais de um tópico; (e) Correto.
+
+         A Alocação de Dirichlet Latente é um modelo estatístico generativo que permite que
+         conjuntos de observações sejam explicados por grupos não observados que explicam
+         por que algumas partes dos dados são semelhantes. Por exemplo: se as observações
+         são palavras coletadas em documentos, isso pressupõe que cada documento é uma
+         mistura de um pequeno número de tópicos e que a presença de cada palavra pode ser
+         atribuída a um dos tópicos do documento.
+
+         Gabarito: E
+
+
+
+     6. (CESPE / Petrobrás – 2022) O CBOW é um modelo de aprendizado de máquina
+        desenhado para prever contexto com base em determinada palavra.
+
+         Comentários:
+
+         Se eu estou partindo da palavra central para descobrir o contexto, trata-se do Skip-
+         Gram. Lembrem-se do mnemônico: se estou partindo do contexto para descobrir a
+         palavra central, trata-se do CBOW (o que não é o caso).
+
+         Gabarito: E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+     7. (CESPE / SEFAZ-SE – 2022) Na mineração de texto, o processo utilizado para remover
+        os prefixos e sufixos de palavras, de modo a permanecer somente a raiz delas, com a
+        finalidade de melhorar o armazenamento, é conhecido como:
+
+         a) stemming.
+         b) análise léxica.
+         c) remoção de stop-words.
+         d) criação de tesauros.
+         e) determinação de pesos.
+
+         Comentários:
+
+         (a) Correto. O processo de extrair prefixos e sufixos de palavras, mantendo apenas a
+         raiz, é conhecido como stemming; (b) Errado. Análise léxica é uma das etapas do
+         processo de compilação de linguagens de programação; (c) Errado. Remoção de stop-
+         words é uma das etapas de pré-processamento que busca remover palavras que
+         ocorrem com alta frequência, mas que não acrescentam significado a um texto; (d)
+         Errado. Tesauros são recursos que agrupam palavras de acordo com similaridade, isto
+         é, sinônimos; (e) Errado. Determinação de pesos é um processo que ocorre em redes
+         neurais e, não, em mineração de texto.
+
+         Gabarito: A
+
+
+     8. (CESPE / PETROBRAS – 2022) Stop-words constituem um conjunto de palavras que
+        proporcionam pouca informação para o significado de uma frase.
+
+         Comentários:
+
+         Perfeito! As stopwords são palavras muito frequentes no texto, mas que não possuem
+         grande relevância, geralmente são artigos masculinos, femininos, preposições, dentre
+         outros, mas se faz necessária análise para garantir que a retirada destas stopwords não
+         vá deturpar a compreensão do texto mais relevante.
+
+         Gabarito: C
+
+
+     9. (FCC / TRF4 – 2019) Um Analista necessita desenvolver uma aplicação chatbot que
+        simula um ser humano na conversação com as pessoas. Para isso o Analista deve usar
+        pesquisa em Processamento de Linguagem Natural – PLN que envolve três aspectos da
+        comunicação, quais sejam,
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+         a) Som, ligado à fonologia, Estrutura que consiste em análises morfológica e sintática
+         e Significado que consiste em análises semântica e pragmática.
+
+         b) Áudio, ligado à fonologia, Estrutura que consiste em análises de línguas estrangeiras
+         e Significado que consiste em análises semântica e pragmática.
+
+         c) Conversação, ligado à tecnologia de chatbot, Semântica que consiste em análises de
+         línguas estrangeiras e Arquitetura Spelling que realiza as análises sintática e
+         pragmática.
+
+         d) Business Intelligence, ligado à tecnologia OLAP, Mining que consiste em análises de
+         línguas em geral e Spelling que realiza as funções de chatbot.
+
+         e) Business Intelligence, ligado à tecnologia OLAP, Mining que consiste em análises de
+         línguas em geral e Spelling que realiza as funções de chatbot.
+
+         Comentários:
+
+         Trata-se de som (fonologia), estrutura (morfologia + sintaxe) e significado (semântica).
+
+         Gabarito: A
+
+
+     10. (CESPE / ANATEL – 2014) A tecnologia de análise de sentimento social é um intrincado
+         algoritmo que analisa reações em torno de um tema, marca ou pessoa, sem a
+         necessidade de uma hashtag. Com imensa capacidade de processamento em tempo
+         real, o sistema consegue identificar, filtrar e analisar os textos em português contidos
+         nos comentários das mídias sociais acerca de determinado tema.
+
+         Comentários:
+
+         Perfeito! Análise de Sentimento realmente analisa reações sobre um tema, marca ou
+         pessoa. De fato, essa tecnologia não necessita de hashtag para fazer a análise de
+         sentimento. Ela, de fato, consegue identificar, filtrar e analisar os textos em português
+         contidos em redes sociais (ou em qualquer outro conjunto de textos).
+
+         Gabarito: C
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+          QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+    A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+    proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+    perguntas que exigem respostas subjetivas.
+
+    São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+    resolução, como ocorre nas clássicas questões objetivas.
+
+    O objetivo é que você realize uma auto explicação mental de alguns pontos do conteúdo, para
+    consolidar melhor o que aprendeu ;)
+
+    Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim,
+    ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+    conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+
+    Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+    os diversos pontos do conteúdo, na medida do possível.
+
+    É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido
+    na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar
+    a resolução de questões objetivas típicas de concursos, ok?
+
+    Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+    Vamos ao nosso questionário:
+
+
+
+
+                                                     Perguntas
+
+     1.   O que é Processamento de Linguagem Natural (PLN)?
+     2.   Qual é a importância do pré-processamento em PLN?
+     3.   O que é análise léxica ou tokenização?
+     4.   O que é análise semântica?
+     5.   Qual é a finalidade da limpeza de dados?
+     6.   O que são stopwords?
+     7.   Como o stemming difere da lemmatization?
+     8.   O que é Named Entity Recognition (NER)?
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+     9. O que é o modelo Bag of Words?
+     10. O que significa TF-IDF?
+     11. O que são n-Gramas?
+     12. O que é classificação de texto?
+     13. O que é análise de sentimentos?
+     14. O que é modelagem de tópicos latentes?
+     15. O que é semântica vetorial?
+     16. Por que a redução de dimensionalidade é importante em PLN?
+     17. O que é PCA (Análise de Componentes Principais)?
+     18. Como a análise sintática difere da análise semântica?
+     19. O que é Word Embedding?
+     20. O que é a análise pragmática em PLN?
+
+
+
+
+                                          Perguntas e Respostas
+
+    1. O que é Processamento de Linguagem Natural (PLN)?
+       Resposta: PLN é um campo da Inteligência Artificial que estuda a interação entre
+       computadores e humanos através da linguagem natural. O objetivo é permitir que os
+       computadores compreendam, interpretem e gerem a linguagem natural de uma forma que
+       seja valorizada e entendida pelos humanos.
+    2. Qual é a importância do pré-processamento em PLN?
+       Resposta: O pré-processamento é o primeiro passo em PLN e envolve a preparação e limpeza
+       dos dados de texto brutos para tarefas posteriores, como análise e modelagem.
+    3. O que é análise léxica ou tokenização?
+       Resposta: A análise léxica, também conhecida como tokenização, é o processo de converter
+       uma sequência de texto em unidades menores chamadas tokens.
+    4. O que é análise semântica?
+       Resposta: A análise semântica é a tarefa de extrair o significado das palavras e das frases no
+       texto. Ela envolve entender o contexto, a referência das palavras e outros fatores complexos.
+    5. Qual é a finalidade da limpeza de dados?
+       Resposta: A limpeza de dados é o processo de preparação de dados para análise, removendo
+       ou modificando dados que estão incorretos, incompletos, irrelevantes, duplicados ou mal
+       formatados.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+    6. O que são stopwords?
+       Resposta: Stopwords são palavras que são filtradas antes ou após o processamento do texto.
+       Elas são geralmente as palavras mais comuns em um idioma.
+    7. Como o stemming difere da lemmatization?
+       Resposta: O stemming é o processo de reduzir palavras inflexionadas à sua raiz, enquanto a
+       lemmatization agrupa as diferentes formas inflexionadas de uma palavra para que possam ser
+       analisadas como um único item.
+    8. O que é Named Entity Recognition (NER)?
+       Resposta: NER é uma subtarefa de extração de informações que busca localizar e classificar
+       entidades nomeadas em texto em categorias predefinidas.
+    9. O que é o modelo Bag of Words?
+       Resposta: Bag of Words é uma representação simplificada usada no processamento de
+       linguagem natural. Neste modelo, um texto é representado como o saco de suas palavras,
+       desconsiderando a gramática e até a ordem das palavras, mas mantendo a multiplicidade.
+    10. O que significa TF-IDF?
+        Resposta: TF-IDF é uma estatística numérica que tem como objetivo refletir a importância de
+        uma palavra de um documento em relação a um corpus.
+    11. O que são n-Gramas?
+        Resposta: n-Gramas são combinações contíguas de n itens de uma determinada amostra de
+        texto ou fala. Os n-gramas são amplamente usados em estatística do texto e processamento
+        de linguagem natural.
+    12. O que é classificação de texto?
+        Resposta: A classificação de texto é o processo de classificar texto em categorias organizadas.
+        É uma das tarefas fundamentais em PLN.
+    13. O que é análise de sentimentos?
+        Resposta: A análise de sentimentos é o uso de processamento de linguagem natural para
+        identificar, extrair, quantificar e estudar os sentimentos e emoções expressos no texto.
+    14. O que é modelagem de tópicos latentes?
+        Resposta: A modelagem de tópicos latentes é uma técnica estatística para descobrir os
+        tópicos abstratos que ocorrem em uma coleção de documentos.
+    15. O que é semântica vetorial?
+        Resposta: Semântica vetorial é uma abordagem de PLN que usa a geometria do espaço
+        vetorial para modelar a semântica das palavras.
+    16. Por que a redução de dimensionalidade é importante em PLN?
+        Resposta: A redução de dimensionalidade é importante em PLN para diminuir a complexidade
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+        computacional e evitar o problema de dimensionalidade, o que pode levar a modelos super
+        ajustados.
+    17. O que é PCA (Análise de Componentes Principais)?
+        Resposta: PCA é um procedimento estatístico que usa uma transformação ortogonal para
+        converter um conjunto de observações de variáveis possivelmente correlacionadas em um
+        conjunto de valores de variáveis linearmente não correlacionadas chamadas componentes
+        principais.
+    18. Como a análise sintática difere da análise semântica?
+        Resposta: A análise sintática envolve a análise das palavras no texto para a gramática e
+        organiza as palavras de uma maneira que mostra a relação entre as palavras, enquanto a
+        análise semântica extrai o significado das palavras e das frases no texto.
+    19. O que é Word Embedding?
+        Resposta: Word Embedding é uma representação de palavras em um espaço vetorial de alta
+        dimensão, de maneira que palavras semanticamente similares estejam próximas nesse
+        espaço.
+    20. O que é a análise pragmática em PLN?
+        Resposta: A análise pragmática tem como objetivo entender a intenção por trás das palavras e
+        como essa intenção é influenciada pelo contexto. Ela vai além do significado literal das
+        palavras para entender o que o falante ou o escritor pretendiam transmitir.
+
+
+
+
+                                LISTA DE QUESTÕES ESTRATÉGICAS
+
+         Devido à escassez de questões de concursos sobre o tema dessa aula, listamos questões de
+         bancas variadas para dar uma visão geral de como o assunto é cobrado.
+
+
+     1. (FGV / Receita Federal - 2023) Em relação ao processamento de linguagem natural
+        (PLN), analise as afirmativas a seguir.
+
+         I. O PLN envolve a compreensão e a geração de linguagem natural humana.
+         II. A tarefa principal do PLN é traduzir textos de uma língua para outra.
+         III. O PLN não é utilizado para tarefas de processamento de voz.
+         IV. O PLN é aplicado em sistemas de recuperação de informações e assistentes virtuais.
+
+         Estão corretas as afirmativas:
+
+         a) I e IV, apenas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+         b) II e III, apenas.
+         c) I e III, apenas.
+         d) I, II e III.
+         e) I, II e IV.
+
+     2. (FGV / Receita Federal - 2023) No contexto do desenvolvimento de chatbots baseados
+        em prompt textuais, uma habilidade importante é a resolução de ambiguidades,
+        visando à compreensão completa do texto.
+
+         Assinale a técnica de NLP adequada nesse tipo de desenvolvimento:
+
+         a) Processamento de Voz.
+         b) Reconhecimento de Imagem.
+         c) Aprendizado de Máquina.
+         d) Análise Semântica.
+         e) Tokenização.
+
+     3. (FGV / TCU – 2022) Uma organização está implementando um sistema de busca de
+        informações interno, e a equipe de desenvolvimento resolveu avaliar diferentes
+        modelos de linguagem vetoriais que ajudariam a conectar melhor documentos e
+        consultas em departamentos que usam terminologias distintas em áreas de negócio
+        que se sobrepõem. Um dos analistas ressaltou que seria interessante guardar os
+        vetores de todo o vocabulário do modelo em um cache, de forma a aumentar a
+        eficiência de acesso e reduzir certos custos de implantação.
+
+         Das alternativas abaixo, aquela que lista apenas os modelos compatíveis com essa
+         estratégia de caching é:
+
+         a) TF-IDF, BERT;
+         b) Word2Vec, BERT, GPT-2;
+         c) GloVe, GPT-2;
+         d) Word2Vec, GloVe;
+         e) GPT-2, BERT.
+
+     4. (FGV / TJDFT – 2022) Considere a sentença a seguir.
+
+         s: “O acesso ao auditório também pode ser feito através de uma rampa”
+
+         Aplicando a função f à sentença, obtém-se o seguinte resultado:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+         f(s) = “acesso auditório pode ser feito através rampa”
+
+         A melhor descrição para a tarefa realizada pela função f é:
+
+         a) filtragem de conectivos;
+         b) lematização;
+         c) sumarização de sentença;
+         d) filtragem de stop words;
+         e) remoção de ruído.
+
+     5. (FGV/ TCU – 2022) Um analista do TCU gostaria de aplicar um modelo de Latent
+        Dirichlet Allocation (LDA) em um conjunto de textos. A alternativa que melhor descreve
+        o resultado do modelo é:
+
+     a) uma lista de tópicos, cada um com um título diferente;
+     b) uma lista das palavras mais importantes no conjunto de documentos;
+     c) cada documento é classificado em somente um tópico, onde cada tópico é formado por
+         uma lista de palavras;
+     d) cada documento possui uma distribuição de probabilidade de pertencer a algum dos
+         tópicos, onde cada tópico é formado por uma lista de palavras e cada palavra pertence
+         a somente um tópico;
+         e) cada documento possui uma distribuição de probabilidade de pertencer a algum dos
+         tópicos, onde cada tópico é formado por uma distribuição de probabilidade sobre
+         todas as palavras presentes nos documentos.
+
+     6. (CESPE / Petrobrás – 2022) O CBOW é um modelo de aprendizado de máquina
+        desenhado para prever contexto com base em determinada palavra.
+
+     7. (CESPE / SEFAZ-SE – 2022) Na mineração de texto, o processo utilizado para remover
+        os prefixos e sufixos de palavras, de modo a permanecer somente a raiz delas, com a
+        finalidade de melhorar o armazenamento, é conhecido como:
+
+         a) stemming.
+         b) análise léxica.
+         c) remoção de stop-words.
+         d) criação de tesauros.
+         e) determinação de pesos.
+
+     8. (CESPE / PETROBRAS – 2022) Stop-words constituem um conjunto de palavras que
+        proporcionam pouca informação para o significado de uma frase.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+     9. (FCC / TRF4 – 2019) Um Analista necessita desenvolver uma aplicação chatbot que
+        simula um ser humano na conversação com as pessoas. Para isso o Analista deve usar
+        pesquisa em Processamento de Linguagem Natural – PLN que envolve três aspectos da
+        comunicação, quais sejam,
+
+            a) Som, ligado à fonologia, Estrutura que consiste em análises morfológica e sintática
+            e Significado que consiste em análises semântica e pragmática.
+
+            b) Áudio, ligado à fonologia, Estrutura que consiste em análises de línguas estrangeiras
+            e Significado que consiste em análises semântica e pragmática.
+
+            c) Conversação, ligado à tecnologia de chatbot, Semântica que consiste em análises de
+            línguas estrangeiras e Arquitetura Spelling que realiza as análises sintática e
+            pragmática.
+
+            d) Business Intelligence, ligado à tecnologia OLAP, Mining que consiste em análises de
+            línguas em geral e Spelling que realiza as funções de chatbot.
+
+            e) Business Intelligence, ligado à tecnologia OLAP, Mining que consiste em análises de
+            línguas em geral e Spelling que realiza as funções de chatbot.
+
+     10. (CESPE / ANATEL – 2014) A tecnologia de análise de sentimento social é um intrincado
+         algoritmo que analisa reações em torno de um tema, marca ou pessoa, sem a
+         necessidade de uma hashtag. Com imensa capacidade de processamento em tempo
+         real, o sistema consegue identificar, filtrar e analisar os textos em português contidos
+         nos comentários das mídias sociais acerca de determinado tema.
+
+
+
+                                                       Gabaritos
+
+       1.    A
+       2.    D
+       3.    D
+       4.    D
+       5.    E
+       6.    Errado
+       7.    A
+       8.    Certo
+       9.    A
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+            www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 04
+
+
+
+
+       10. Certo
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

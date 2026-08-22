@@ -129,6 +129,8 @@ export type ActiveTab =
   | 'edital' 
   | 'flashcards' 
   | 'comunidade'
+  | 'guia'
+  | 'sobre'
   | 'settings'
   | 'settings_ajustes'
   | 'settings_guia'

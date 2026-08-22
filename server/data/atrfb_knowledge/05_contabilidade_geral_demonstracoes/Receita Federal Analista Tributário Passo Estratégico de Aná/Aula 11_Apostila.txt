@@ -1,0 +1,1604 @@
+                                                    Aula 10
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                             19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 10
+
+
+
+
+                                    1. SIMULADO DE FIXAÇÃO
+Pessoal, faz parte da nossa rotina de estudos aqui no Passo Estratégico a realização de simulados para fixação
+de conteúdo. É uma forma de verificarmos como está o nosso aprendizado e corrigirmos eventuais falhas!
+
+Nossa sugestão é que imprimam as questões, separem um local adequado e mandem ver! Tentem fazer um
+exercício o mais próximo da realidade possível. Será muito bom para sua preparação.
+
+
+                   Faça contato conosco pelas redes sociais!
+
+                            @profjuliocardozo @filipemagalhaes30
+
+            ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS
+Questões
+
+1. Em 31/12/21, a Cia. Magalhães, em suas Demonstrações do Resultado do Exercício, apresentaram os
+   saldos a seguir.
+                                                                  Cia. Magalhães
+                           Receita de Vendas                          750.000
+                           Custo das Mercadorias Vendidas            -150.000
+                           Lucro Bruto                                600.000
+                           Despesas Operacionais                     -450.000
+                           LAIR                                       150.000
+                           Imposto de renda e contribuição social     -51.000
+                           Lucro Líquido                               99.000
+A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura de resultado.
+Assinale a opção que indica a representação do resultado líquido:
+A 80,00%.
+B 20,00%.
+C 13,00%.
+D 60,00%.
+E 100,00%.
+
+
+Observe os seguintes dados e responda as questões 2 a 6.
+A entidade JULIOCELL apresentou, em 31/12/21, os saldos a seguir.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+        www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+      Aula 10
+
+
+
+
+•     Ativo Circulante R$ 100.000
+•     Ativo não Circulante R$ 300.000
+•     Passivo Circulante: R$ 200.000
+•     Passivo não Circulante: R$ 100.000
+•     Patrimônio Líquido: R$ 100.000
+2. Assinale a opção que indica o índice de liquidez corrente aproximado da empresa.
+A 0,25
+B 0,35
+C 0,38
+D 0,60
+                                                          ==219a34==
+
+
+
+
+E 0,63
+
+3. Assinale a opção que indica o índice de solvência geral aproximado da empresa.
+A 0,50
+B 0,35
+C 0,38
+D 1,33
+E 0,63
+
+4. Assinale a opção que indica o índice de endividamento geral aproximado da empresa.
+A 0,50
+B 0,35
+C 0,75
+D 1,33
+E 0,63
+
+5. Caso a empresa compre R$ 25.000 em estoques à vista. Assinale a opção que indica o impacto dessa
+    compra no índice de liquidez corrente
+    a) Diminuiu para 0,37
+    b) Aumentou para 0,37
+    c) Diminuiu para 0,62
+    d) Aumentou para 0,62
+    e) Não houve impacto
+
+6. Caso a entidade aumente seu capital social em dinheiro. Assinale a opção que indica o impacto dessa
+    compra nos indicadores de liquidez da empresa.
+a) Diminuição na liquidez corrente e na liquidez geral
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+            www.estrategiaconcursos.com.br
+                                                                                                             2
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+b) Diminuição na liquidez geral e aumento na liquidez imediata
+c) Diminuição na liquidez geral e aumento na liquidez corrente
+d) Aumento na liquidez corrente e na liquidez imediata
+e) Não houve impacto
+
+
+Observe os seguintes dados e responda as questões 7 a 10.
+A entidade JF, em 31/12/21, apresentou, em seu balanço patrimonial, os saldos a seguir.
+                  Ativo                          R$       Passivo               R$
+                 Ativo Circulante                 50.000 Passivo Circulante     40.000
+                 Ativo não Circulante            170.000 Passivo não Circulante 80.000
+                 Ativo Realizável a Longo Prazo    70.000
+                 Investimentos                    30.000 Patrimônio Líquido      100.000
+                 Imobilizado                      60.000
+                 Intangível                      10.000
+                 Ativo Total                    220.000 Passivo + PL            220.000
+7. O índice de endividamento geral e o índice de liquidez geral são, respectivamente,
+A 0,54 e 1,00.
+B 0,47 e 1,25.
+C 0,49 e 1,83.
+D 0,47 e 0,52.
+E 1,83 e 0,28.
+
+8. O índice de solvência geral é de
+A 1,00.
+B 1,25.
+C 0,54.
+D 2,20
+E 1,83.
+
+9. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação dos ativos que sejam realizados em até doze meses após a data do
+    balanço
+A 22,70%.
+B 77,30%.
+C 4,54%.
+D 27,28%.
+E 31,81%.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+          www.estrategiaconcursos.com.br
+                                                                                                           3
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+10. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação do capital próprio
+A 18,20%.
+B 36,40%.
+C 45,40%.
+D 22,70%.
+E 77,30%.
+
+
+Observe o balanço patrimonial a seguir e responda as questões 11 a 15.
+              ATIVO           2020      2021        PASSIVO       2020      2021
+         Disponibilidade     50.000   70.000 Fornecedores       300.000 335.000
+         Direitos 12 meses 200.000 300.000 IR a Recolher         34.000   85.000
+         Estoques           250.000 500.000
+         Direitos 24 meses 600.000 500.000 Não Circulante       566.000 600.000
+         Imobilizado        400.000 350.000 PATRIMÔNIO LÍQUIDO 600.000 700.000
+         TOTAIS            1.500.000 1.720.000 TOTAIS          1.500.000 1.720.000
+11. Considerando o ano de 2020 como o ano base de valor-índice 100, a análise horizontal das
+    Disponibilidades em 2021 é de
+(A) 71,42%.
+(B) 140,00%.
+(C) 148,00%.
+(D) 67,56%.
+(E) 4,07%.
+
+12. Considerando o ano de 2020 como o ano base de valor-índice 100, a análise horizontal dos
+    Fornecedores em 2021 é de
+(A) 89,55%.
+(B) 16,67%.
+(C) 19,14%.
+(D) 20,00%.
+(E) 22,34%.
+
+13. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação dos estoques em 2021
+A 16,67%.
+B 50,00%.
+C 29,07%.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          4
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 10
+
+
+
+D 57,47%.
+E 200,00%.
+
+14. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação dos Fornecedores em 2020
+A 19,48%.
+B 33,33%.
+C 20,00%.
+D 79,76%.
+E 89,82%.
+
+15. Analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa.
+( ) Em 2021 a entidade apresenta uma liquidez imediata maior que em 2020.
+( ) Em 2020 a entidade apresenta uma liquidez seca maior que em 2021.
+( ) Em 2021 a entidade apresenta uma solvência geral maior que em 2020.
+( ) Não houve alteração do índice de endividamento geral
+As afirmativas acima são, respectivamente,
+(A) F, V, F e F.
+(B) F, V, F e V.
+(C) V, F, F e V.
+(D) V, F, V e F.
+(E) V, V, V e V.
+
+16. Em matéria de análise das demonstrações contábeis, os índices de liquidez refletem a capacidade de
+    pagamento de uma entidade em relação às suas obrigações.
+Os índices seguintes consideram as disponibilidades nos seu cálculo, exceto:
+A liquidez imediata;
+B liquidez seca;
+C liquidez geral;
+D liquidez corrente;
+E liquidez comum
+
+17. Em matéria de análise das demonstrações contábeis, os índices de liquidez refletem a capacidade de
+    pagamento de uma entidade em relação às suas obrigações.
+Os índices seguintes consideram os estoques nos seu cálculo, exceto:
+A liquidez imediata e liquidez seca;
+B liquidez seca e liquidez geral;
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          5
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+C liquidez geral e liquidez Instantânea;
+D liquidez corrente e liquidez seca;
+E liquidez comum e liquidez imediata;
+
+18. Ao calcular alguns índices de liquidez de curto prazo muito utilizados no mercado, um analista
+    encontrou para a sua empresa em análise os seguintes resultados: 1; 0,7; 0,2. É sabido que a empresa
+    apresentava, além de outros ativos circulantes, disponibilidades e estoques positivos e diferentes de
+    zero no relatório contábil apresentado. Dessa maneira, é correto afirmar que o analista utilizou em
+    seus cálculos, respectivamente, os indicadores de liquidez conhecidos como:
+A corrente, seca, imediata;
+B corrente, imediata, seca;
+C imediata, seca, corrente;
+D seca, imediata, corrente;
+E seca, corrente, imediata.
+
+19. Assinale a opção que indica o tipo mais adequado de entidade a ser analisada pelo Índice de Liquidez
+    Seca.
+A Entidades que efetuam muitas operações a prazo.
+B Entidades que operam com estoques de difícil realização financeira.
+C Entidades que possuem poucos investimentos.
+D Entidades que efetuam muitas operações à vista.
+E Entidades que possuem dependência de capital de terceiros.
+
+
+Observe a tabela a seguir e responda à questão.
+                                    ATIVO         $ PASSIVO         $
+                                                    Circulante        200
+                                Circulante     150
+                                                    Não Circulante 100
+                                Não Circulante 450
+                                                    Patrimônio Líquido 300
+                                TOTAL         600 TOTAL          600
+20. Considerando que o Ativo Circulante é composto por Disponibilidades no valor de $ 15, Clientes no
+    valor de $ 35 e o restante refere‐se a Estoque para venda, os índices de liquidez corrente, de liquidez
+    imediata e de liquidez seca são, respectivamente, de
+A 0,075; 0,25 e 0,75.
+B 0,75; 0,075 e 0,25.
+C 0,25; 0,75 e 0,075
+D 0,075; 0,025 e 0,0075
+E 0,75; 0,25 e 0,075
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          6
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 10
+
+
+
+
+Observe o balanço patrimonial a seguir e responda as questões 21 a 22.
+                      Ativo                            Passivo
+                      Ativo Circulante 150.000         Passivo Circulante    100.000
+                      Ativo não Circulante 1.080.000   Passivo não Circulante 300.000
+                      Realizável a Longo Prazo 375.000 Patrimônio Líquido     830.000
+                      Investimentos 200.000
+                      Imobilizado 325.000
+                      Intangível 180.000
+O ativo circulante era composto por R$ 20.000 em Caixa, R$ 30.000 em Bancos e R$ 100.000 em Estoque.
+
+21. O índice de composição das exigibilidades e o índice de liquidez imediata são, respectivamente,
+A 0,25 e 0,50.
+B 0,24 e 1,50.
+C 0,081 e 1,00.
+D 0,75 e 1,18.
+E 0,67 e 1,18.
+
+22. O índice de liquidez geral e o índice de liquidez seca são, respectivamente,
+A 0,50 e 0,50.
+B 0,37 e 1,50.
+C 1,25 e 1,00.
+D 0,93 e 1,18.
+E 1,31 e 0,50.
+
+23. Um auditor deseja analisar a estrutura das demonstrações contábeis da sociedade JULIOCELL. Seu foco
+    deve ser a análise
+A dos índices de rentabilidade.
+B dos índices de lucratividade.
+C dos índices de liquidez.
+D vertical.
+E horizontal
+
+24. Uma sociedade empresária apresenta liquidez corrente de 1,2. Isso significa que
+A a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a longo prazo.
+B a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a curto prazo, sem considerar
+os estoques.
+C a empresa possui R$ 1,20 reais em disponibilidades para cada real de dívida, a curto prazo.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          7
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+D a empresa possui R$ 1,20 reais no Ativo Circulante e no Ativo Realizável a Longo Prazo para cada real de
+dívida do Passivo Exigível
+E a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a curto prazo.
+
+
+Questões Comentadas
+
+1. Em 31/12/21, a Cia. Magalhães, em suas Demonstrações do Resultado do Exercício, apresentaram os
+   saldos a seguir.
+                                                                   Cia. Magalhães
+                            Receita de Vendas                          750.000
+                            Custo das Mercadorias Vendidas            -150.000
+                            Lucro Bruto                                600.000
+                            Despesas Operacionais                     -450.000
+                            LAIR                                       150.000
+                            Imposto de renda e contribuição social     -51.000
+                            Lucro Líquido                               99.000
+A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura de resultado.
+Assinale a opção que indica a representação do resultado líquido:
+A 80,00%.
+B 20,00%.
+C 13,00%.
+D 60,00%.
+E 100,00%.
+
+Comentário:
+
+A análise vertical indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+Considerando-se os saldos apresentados, podemos calcular os índices de Análise Vertical da seguinte forma:
+
+                                             DRE                             R$      A.V. %
+                       Receita de Vendas                                   750.000   100%
+                       Custo das Mercadorias Vendidas                     -150.000    20%
+                       Lucro Bruto                                         600.000    80%
+                       Despesas Operacionais                              -450.000    60%
+                       LAIR                                                150.000    20%
+                       Imposto de renda e contribuição social              -51.000     7%
+                       Lucro Líquido                                       99.000     13%
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          8
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+    Aula 10
+
+
+
+Todos os coeficientes foram obtidos dividindo-se o valor de cada item pelas Vendas Líquidas.
+
+Gabarito: C
+
+
+
+Observe os seguintes dados e responda as questões 2 a 6.
+A entidade JULIOCELL apresentou, em 31/12/21, os saldos a seguir.
+•   Ativo Circulante R$ 100.000
+•   Ativo não Circulante R$ 300.000
+•   Passivo Circulante: R$ 200.000
+•   Passivo não Circulante: R$ 100.000
+•   Patrimônio Líquido: R$ 100.000
+
+2. Assinale a opção que indica o índice de liquidez corrente aproximado da empresa.
+A 0,25
+B 0,35
+C 0,38
+D 0,60
+E 0,63
+
+Comentários:
+
+O Índice de Liquidez Corrente mede a capacidade da empresa pagar suas dívidas de curto prazo (passivo
+circulante) com os recursos de curto prazo (ativo circulante). É um índice muito utilizado e considerado como
+o melhor indicador da situação de liquidez da empresa.
+
+O índice de liquidez corrente (também chamado de “Liquidez Comum”) é calculado assim:
+
+                                              Ativo Circulante 100.000
+                                      LC =                     =        = 0,5
+                                             Passivo Circulante 200.000
+
+Gabarito: D.
+
+3. Assinale a opção que indica o índice de solvência geral aproximado da empresa.
+A 0,50
+B 0,35
+C 0,38
+D 1,33
+E 0,63
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+          www.estrategiaconcursos.com.br
+                                                                                                           9
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Comentários:
+
+O Índice de Solvência Geral indica a capacidade de a empresa pagar suas dívidas de curto e longo prazo,
+usando todos os seus recursos, inclusive Investimentos Permanentes, Imobilizado e Intangível. Um índice
+inferior a 1 indica a existência de Passivo a Descoberto.
+
+O índice de solvência geral é calculado assim:
+
+                      Ativo circulante + Ativo não circulante    100.000 + 300.000 400.000
+             SG =                                              =                  =        =1,33
+                    Passivo circulante + Passivo não circulante 200.000 + 100.000 300.000
+
+Gabarito: D
+
+4. Assinale a opção que indica o índice de endividamento geral aproximado da empresa.
+A 0,50
+B 0,35
+C 0,75
+D 1,33
+E 0,63
+
+Comentários:
+
+O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos
+totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros.
+
+A fórmula é a seguinte:
+
+       Exigível total Passivo Circulante + Passivo Não Circulante R$ 200.000 + R$ 100.000 R$ 300.000
+ET =                 =                                           =                        =           = 0,75
+        Ativo total     Ativo Circulante + Ativo Não Circulante    R$ 100.000 + R$ 300.000 R$ 400.000
+
+Lembramos que Ativo = Passivo + PL. Assim, também poderíamos calcular da seguinte forma:
+
+                                       Passivo Circulante + Passivo Não Circulante
+                      ET=
+                            Passivo Circulante + Passivo Não Circulante + Patrimônio Líquido
+
+                                      R$ 200.000 + R$ 100.000        R$ 300.000
+                         ET =                                      =            = 0,75
+                                R$ 200.000 + R$ 100.000+ R$ 100.000 R$ 400.000
+
+Gabarito: C.
+
+5. Caso a empresa compre R$ 25.000 em estoques à vista. Assinale a opção que indica o impacto dessa
+    compra no índice de liquidez corrente
+a) Diminuiu para 0,37
+b) Aumentou para 0,37
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+          www.estrategiaconcursos.com.br
+                                                                                                           10
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+c) Diminuiu para 0,62
+d) Aumentou para 0,62
+e) Não houve impacto
+
+Comentários:
+
+A contabilização da aquisição de estoque à vista é a seguinte:
+
+D – Estoque (Ativo Circulante)               R$ 22.500
+C – Caixa (Ativo Circulante)                 R$ 22.500
+
+Não houve alteração do ativo circulante, apenas troca de saldos entre contas do ativo circulante.
+
+O índice de liquidez corrente (também chamado de “Liquidez Comum”) é calculado assim:
+
+                                                      Ativo Circulante
+                                              LC =
+                                                     Passivo Circulante
+
+Assim, não afetou o índice de liquidez corrente.
+
+Gabarito: E.
+
+6. Caso a entidade aumente seu capital social em dinheiro. Assinale a opção que indica o impacto dessa
+   compra nos indicadores de liquidez da empresa.
+a) Diminuição na liquidez corrente e na liquidez geral
+b) Diminuição na liquidez geral e aumento na liquidez imediata
+c) Diminuição na liquidez geral e aumento na liquidez corrente
+d) Aumento na liquidez corrente e na liquidez imediata
+e) Não houve impacto
+
+Comentários:
+
+A contabilização é a seguinte:
+
+D – Disponibilidades (+Ativo Circulante)
+C – Capital Social (+PL)
+
+Vejamos o efeito desse fato contábil nos indicadores de liquidez:
+
+   •   Liquidez Corrente:
+
+Houve aumento do Ativo Circulante. Isso provoca um numerador “Ativo Circulante” maior:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          11
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+                                                      Ativo Circulante↑
+                                             LC ↑ =
+                                                      Passivo Circulante
+
+Em razão disso, o índice de liquidez corrente aumenta.
+
+   •   Liquidez Geral
+
+Houve aumento do Ativo Circulante. Isso provoca um numerador “Ativo Circulante” maior:
+
+                                        Ativo circulante↑ + Ativo realizável a LP
+                    LG↑ =
+                             Passivo circulante + (Passivo não circulante - Receita diferida)
+
+Assim, houve aumento do índice de liquidez geral.
+
+   •   Liquidez Imediata
+
+Houve aumento das Disponibilidades. Isso provoca um numerador “Disponibilidades” maior:
+
+                                                      Disponibilidades↑
+                                             LI ↑=
+                                                      Passivo Circulante
+
+Nota-se que houve aumento no índice liquidez imediata
+
+a) Diminuição na liquidez corrente e na liquidez geral
+
+Errado, ambos aumentaram após tal fato contábil.
+
+b) Diminuição na liquidez geral e aumento na liquidez imediata
+
+Errado, ambos aumentaram após tal fato contábil.
+
+c) Diminuição na liquidez geral e aumento na liquidez corrente
+
+Errado, ambos aumentaram após tal fato contábil.
+
+d) Aumento na liquidez corrente e na liquidez imediata
+
+Este é o nosso gabarito.
+
+e) Não houve impacto
+
+Errado, visto que houve aumento nos indicadores mencionados.
+
+Gabarito: D.
+
+
+
+Observe os seguintes dados e responda as questões 7 a 10.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          12
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+A entidade JF, em 31/12/21, apresentou, em seu balanço patrimonial, os saldos a seguir.
+                  Ativo                          R$       Passivo               R$
+                 Ativo Circulante                 50.000 Passivo Circulante     40.000
+                 Ativo não Circulante            170.000 Passivo não Circulante 80.000
+                 Ativo Realizável a Longo Prazo    70.000
+                 Investimentos                    30.000 Patrimônio Líquido      100.000
+                 Imobilizado                      60.000
+                 Intangível                      10.000
+                 Ativo Total                    220.000 Passivo + PL            220.000
+7. O índice de endividamento geral e o índice de liquidez geral são, respectivamente,
+A 0,54 e 1,00.
+B 0,47 e 1,25.
+C 0,49 e 1,83.
+D 0,47 e 0,52.
+E 1,83 e 0,28.
+
+Comentários:
+
+   •     Índice de Endividamento Geral:
+
+O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos
+totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros.
+
+A fórmula é a seguinte:
+
+       Exigível total Passivo Circulante + Passivo Não Circulante R$ 40.000 + R$ 80.000 R$ 120.000
+ET =                 =                                           =                       =           = 0,54
+        Ativo total     Ativo Circulante + Ativo Não Circulante    R$ 50.000 + R$ 170.000 R$ 220.000
+
+Lembramos que Ativo = Passivo + PL. Assim, podemos rescrever a fórmula da seguinte forma:
+
+                                      Passivo Circulante + Passivo Não Circulante
+                     ET=
+                           Passivo Circulante + Passivo Não Circulante + Patrimônio Líquido
+
+                                         R$ 40.000 + R$ 80.000        R$ 120.000
+                           ET =                                     =            = 0,54
+                                  R$ 40.000 + R$ 80.000 + R$ 100.000 R$ 220.000
+
+   •     Índice de Liquidez Geral
+
+O Índice de Liquidez Geral indica a capacidade da empresa de pagar suas dívidas de curto e longo prazo,
+usando os recursos do Ativo Circulante e do Ativo Realizável a Longo Prazo.
+
+O índice de liquidez geral (também chamado de “Liquidez Total”) é calculado assim:
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+          www.estrategiaconcursos.com.br
+                                                                                                           13
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+                                            Ativo circulante + Ativo realizável a LP
+                         LG =
+                                Passivo circulante + (Passivo não circulante - Receita diferida)
+
+                                                 50.000 + 70.000     120.000
+                                       LG =                        =         =1
+                                              R$ 40.000 + R$ 80.000 120.000
+
+Gabarito: A.
+
+8. O índice de solvência geral é de
+A 1,00.
+B 1,25.
+C 0,54.
+D 2,20
+E 1,83.
+
+Comentários:
+
+O Índice de Solvência Geral indica a capacidade de a empresa pagar suas dívidas de curto e longo prazo,
+usando todos os seus recursos, inclusive Investimentos Permanentes, Imobilizado e Intangível. Um índice
+inferior a 1 indica a existência de Passivo a Descoberto.
+
+O índice de solvência geral é calculado assim:
+
+                  Ativo circulante + Ativo não circulante     R$ 50.000 + R$ 170.0000 R$ 220.000
+         SG =                                               =                        =           = 1,83
+                Passivo circulante + Passivo não circulante    R$ 40.000 + R$ 80.000 R$ 120.000
+
+Gabarito: D
+
+9. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação dos ativos que sejam realizados em até doze meses após a data do
+    balanço
+A 22,70%.
+B 77,30%.
+C 4,54%.
+D 27,28%.
+E 31,81%.
+
+Comentário:
+
+A análise vertical indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+          www.estrategiaconcursos.com.br
+                                                                                                           14
+                                         https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+De acordo com os dados da questão, o Ativo apresentava a seguinte estrutura:
+
+Ativo Circulante = 50.000/220.000 = 22,7%
+Ativo Não Circulante = 170.000/220.000 = 77,3%
+Ativo Total 100%
+
+Assim, a resposta correta é a alternativa A: espera-se que 40% do Ativo sejam realizados em até doze meses
+após a data do balanço
+
+Gabarito: C
+
+10. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação do capital próprio
+A 18,20%.
+B 36,40%.
+C 45,40%.
+D 22,70%.
+E 77,30%.
+
+Comentário:
+
+A análise vertical indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+De acordo com os dados da questão, o Passivo apresentava a seguinte estrutura:
+
+Passivo Circulante = 40.000/220.000 = 18,20%
+Passivo Não Circulante = 80.000/220.000 = 36,40%
+PL = 100.000/220.000 = 45,40%
+Total Passivo + PL = 100%
+
+Gabarito: C
+
+
+
+Observe o balanço patrimonial a seguir e responda as questões 11 a 15.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          15
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+              ATIVO           2020      2021        PASSIVO       2020      2021
+         Disponibilidade     50.000   70.000 Fornecedores       300.000 335.000
+         Direitos 12 meses 200.000 300.000 IR a Recolher         34.000   85.000
+         Estoques           250.000 500.000
+         Direitos 24 meses 600.000 500.000 Não Circulante       566.000 600.000
+         Imobilizado        400.000 350.000 PATRIMÔNIO LÍQUIDO 600.000 700.000
+         TOTAIS            1.500.000 1.720.000 TOTAIS          1.500.000 1.720.000
+11. Considerando o ano de 2020 como o ano base de valor-índice 100, a análise horizontal das
+    Disponibilidades em 2021 é de
+(A) 71,42%.
+(B) 140,00%.
+(C) 148,00%.
+(D) 67,56%.
+(E) 4,07%.
+
+Comentários:
+
+A análise horizontal dos Disponibilidade em 2021, usando o ano de 2020 como base 100 é:
+
+                                                            Saldo Final 70.000
+                    Análise Horizontal Disponibilidade=                  =       = 140,00%
+                                                            Saldo Inicial 50.000
+
+Isso significa que a Disponibilidade dessa empresa aumentou 140,00 - 100 = 40%
+
+Gabarito: B.
+
+12. Considerando o ano de 2020 como o ano base de valor-índice 100, a análise horizontal dos
+    Fornecedores em 2021 é de
+(A) 89,55%.
+(B) 16,67%.
+(C) 19,14%.
+(D) 20,00%.
+(E) 22,34%.
+
+Comentários:
+
+A análise horizontal dos Fornecedores em 2021, usando o ano de 2020 como base 100 é:
+
+                                                          Saldo Final 335.000
+                    Análise Horizontal Fornecedores =                  =        = 116,67%
+                                                          Saldo Inicial 300.000
+
+Isso significa que a Disponibilidade dessa empresa aumentou 116,67 - 100 = 16,67%
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          16
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Gabarito: B.
+
+13. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação dos estoques em 2021
+A 16,67%.
+B 50,00%.
+C 29,07%.
+D 57,47%.
+E 200,00%.
+
+Comentário:
+
+A análise vertical indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+De acordo com os dados da questão, o Passivo apresentava a seguinte estrutura:
+
+                                   ATIVO                    2021                %V
+                             Disponibilidade               70.000             4,07%
+                             Direitos 12 meses            300.000             17,44%
+                             Estoques                     500.000             29,07%
+                             Direitos 24 meses            500.000             29,07%
+                             Imobilizado                  350.000             20,35%
+                             TOTAIS                      1.720.000           100,00%
+
+Gabarito: C
+
+14. A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura do ativo. Assinale
+    a opção que indica a representação dos Fornecedores em 2020
+A 19,48%.
+B 33,33%.
+C 20,00%.
+D 79,76%.
+E 89,82%.
+
+Comentário:
+
+A análise vertical indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          17
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 10
+
+
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+De acordo com os dados da questão, o Passivo apresentava a seguinte estrutura:
+
+                                            PASSIVO        2020     %V
+                                     Fornecedores        300.000 20,00%
+                                     IR a Recolher        34.000   2,27%
+                                     Não Circulante      566.000 37,73%
+                                     PATRIMÔNIO LÍQUIDO 600.000 40,00%
+                                     TOTAIS             1.500.000 100,00%
+
+Gabarito: C
+
+15. Analise as afirmativas a seguir e assinale V para a verdadeira e F para a falsa.
+( ) Em 2021 a entidade apresenta uma liquidez imediata maior que em 2020.
+( ) Em 2020 a entidade apresenta uma liquidez seca maior que em 2021.
+( ) Em 2021 a entidade apresenta uma solvência geral maior que em 2020.
+( ) Não houve alteração do índice de endividamento geral
+As afirmativas acima são, respectivamente,
+(A) F, V, F e F.
+(B) F, V, F e V.
+(C) V, F, F e V.
+(D) V, F, V e F.
+(E) V, V, V e V.
+
+Comentários:
+
+Vamos analisar as alternativas:
+
+( ) Em 2021 a entidade apresenta uma liquidez imediata maior que em 2020.
+
+                               Disponibilidades       50.000       50.000
+                   LI 2020=                     =                =        = 0,1497 ou 14,97%
+                              Passivo Circulante 300.000 + 34.000 334.000
+
+                                Disponibilidades      70.000        70.000
+                   LI 2021 =                     =                =        = 0,1666 ou 16,66%
+                               Passivo Circulante 335.000 + 85.000 420.000
+
+Nota-se que houve AUMENTO no índice liquidez imediata.
+
+Item verdadeiro.
+
+( ) Em 2020 a entidade apresenta uma liquidez seca maior que em 2021.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          18
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+                             Ativo circulante - Estoques (50.000 + 200.00 +250.000) - 250.000
+                 LS 2020 =                              =
+                                 Passivo circulante                300.000 + 34.000
+                                      500.000 - 250.000 250.000
+                          LS 2020 =                    =         = 0,7485 ou 74,85%
+                                          334.000        334.000
+
+                             Ativo circulante - Estoques (70.000 + 300.00 +500.000)- 500.000
+                 LS 2021 =                              =
+                                 Passivo circulante                335.000 + 85.000
+                                      870.000 - 500.000 370.000
+                          LS 2021 =                    =         = 0,8809 ou 88,09%
+                                          420.000        420.000
+
+Veja que o índice de liquidez seca em 2020 foi menor do que em 2021.
+
+Item falso.
+
+( ) Em 2021 a entidade apresenta uma solvência geral maior que em 2020.
+
+                Ativo circulante + Ativo não circulante     50.000 + 200.000 + 250.000 + 600.000 + 400.000
+ SG 2020 =                                                =
+              Passivo circulante + Passivo não circulante             300.000 + 34.000 + 566.000
+                                                1.500.000
+                                    SG 2020 =             = 1,6666 ou 166,66%
+                                                 900.000
+
+                Ativo circulante + Ativo não circulante     70.000 + 300.000 + 500.000 + 500.000 + 350.000
+ SG 2021 =                                                =
+              Passivo circulante + Passivo não circulante             335.000 + 85.000 + 600.000
+                                                1.720.000
+                                    SG 2021 =             = 1,6862ou 168,62%
+                                                1.020.000
+
+Observa-se que o índice de solvência geral em 2021 foi maior do que em 2020.
+
+Item verdadeiro.
+
+( ) Não houve alteração do índice de endividamento geral
+
+              Passivo Circulante + Passivo Não Circulante             300.000 + 34.000 + 566.000
+ ET 2020 =                                                =
+                Ativo Circulante + Ativo Não Circulante     50.000 + 200.000 + 250.000 + 600.000 + 400.000
+                                                      900.000
+                                         ET 2020 =             =0,6 ou 60%
+                                                     1.500.000
+
+              Passivo Circulante + Passivo Não Circulante             335.000 + 85.000 + 600.000
+ ET 2021 =                                                =
+                Ativo Circulante + Ativo Não Circulante     70.000 + 300.000 + 500.000 + 500.000 + 350.000
+                                                  1.020.000
+                                      ET 2021 =             =0,593 ou 59,30%
+                                                  1.720.000
+
+Constatamos que houve uma diminuição.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          19
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Item falso
+
+Gabarito: D.
+
+16. Em matéria de análise das demonstrações contábeis, os índices de liquidez refletem a capacidade de
+    pagamento de uma entidade em relação às suas obrigações.
+Os índices seguintes consideram as disponibilidades nos seu cálculo, exceto:
+A liquidez imediata;
+B liquidez seca;
+C liquidez geral;
+D liquidez corrente;
+E liquidez comum
+
+Comentários:
+
+O Índice de Liquidez Imediata avalia a capacidade de a empresa pagar suas dívidas de imediato, com os
+valores que possui disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários,
+aplicações de curto prazo, etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em
+dinheiro sem alteração significativa do seu valor.
+
+O índice de liquidez imediata (também chamado de “Instantânea”) é calculado assim:
+
+                                                      Disponibilidades
+                                              LI =
+                                                     Passivo Circulante
+
+         Obs.: a liquidez corrente também é conhecida como liquidez comum.
+
+Gabarito: B.
+
+17. Em matéria de análise das demonstrações contábeis, os índices de liquidez refletem a capacidade de
+    pagamento de uma entidade em relação às suas obrigações.
+Os índices seguintes consideram os estoques nos seu cálculo, exceto:
+A liquidez imediata e liquidez seca;
+B liquidez seca e liquidez geral;
+C liquidez geral e liquidez Instantânea;
+D liquidez corrente e liquidez seca;
+E liquidez comum e liquidez imediata;
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                           20
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Comentários:
+
+   •   Liquidez seca
+
+O Índice de Liquidez Seca mede a capacidade de pagamento das dívidas de curto prazo, sem considerar os
+estoques.
+
+É um índice mais adequado para as empresas que operam com estoques de difícil realização financeira,
+geralmente em função do alto valor. Como exemplo podemos citar as empresas do setor imobiliário, nas
+quais a venda do estoque costuma ser mais lenta.
+
+O índice de liquidez seca (também chamado de “acid test” ou “teste ácido”) é calculado assim:
+
+                                                 Ativo circulante - Estoques
+                                          LS =
+                                                     Passivo circulante
+
+   •   Liquidez imediata
+
+O Índice de Liquidez Imediata avalia a capacidade de a empresa pagar suas dívidas de imediato, com os
+valores que possui disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários,
+aplicações de curto prazo, etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em
+dinheiro sem alteração significativa do seu valor.
+
+O índice de liquidez imediata (também chamado de “Instantânea”) é calculado assim:
+
+                                                         Disponibilidades
+                                                 LI =
+                                                        Passivo Circulante
+
+         Obs.1: a liquidez corrente também é conhecida como liquidez comum.
+
+         Obs.2: a liquidez imediata também é conhecida como liquidez Instantânea.
+
+Gabarito: A.
+
+18. Ao calcular alguns índices de liquidez de curto prazo muito utilizados no mercado, um analista
+    encontrou para a sua empresa em análise os seguintes resultados: 1; 0,7; 0,2. É sabido que a empresa
+   apresentava, além de outros ativos circulantes, disponibilidades e estoques positivos e diferentes de
+   zero no relatório contábil apresentado. Dessa maneira, é correto afirmar que o analista utilizou em
+   seus cálculos, respectivamente, os indicadores de liquidez conhecidos como:
+A corrente, seca, imediata;
+B corrente, imediata, seca;
+C imediata, seca, corrente;
+D seca, imediata, corrente;
+E seca, corrente, imediata.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                           21
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Comentários:
+
+   •   Liquidez Corrente
+
+É um índice muito utilizado e considerado como o melhor indicador da situação de liquidez da empresa. Este
+índice apresenta a capacidade da empresa pagar suas dívidas de curto prazo (passivo circulante) com os
+recursos de curto prazo (ativo circulante).
+
+O índice de liquidez corrente (também chamado de “Liquidez Comum”) é calculado assim:
+
+                                                         Ativo Circulante
+                                                 LC =
+                                                        Passivo Circulante
+
+   •   Liquidez Seca
+
+Trata-se de um índice de liquidez mais rigoroso que a Liquidez Corrente, pois exclui os estoques.
+
+O índice de liquidez seca (também chamado de “acid test” ou “teste ácido”) é calculado assim:
+
+                                                 Ativo circulante - Estoques
+                                          LS =
+                                                     Passivo circulante
+
+   •   Liquidez imediata
+
+É o mais rigoroso dos índices de liquidez. Avalia a capacidade de a empresa pagar suas dívidas de imediato,
+com os valores que possui disponíveis.
+
+O índice de liquidez imediata (também chamado de “Instantânea”) é calculado assim:
+
+                                                         Disponibilidades
+                                                 LI =
+                                                        Passivo Circulante
+
+Assim, podemos relacioná-los da seguinte forma:
+
+Liquidez Corrente = 1
+Liquidez Seca = 0,7
+Liquidez Imediata = 0,2
+
+Gabarito: A.
+
+19. Assinale a opção que indica o tipo mais adequado de entidade a ser analisada pelo Índice de Liquidez
+    Seca.
+A Entidades que efetuam muitas operações a prazo.
+B Entidades que operam com estoques de difícil realização financeira.
+C Entidades que possuem poucos investimentos.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          22
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+D Entidades que efetuam muitas operações à vista.
+E Entidades que possuem dependência de capital de terceiros.
+
+Comentários:
+
+É um índice mais adequado para as empresas que operam com estoques de difícil realização financeira,
+geralmente em função do alto valor. Como exemplo podemos citar as empresas do setor imobiliário, nas
+quais a venda do estoque costuma ser mais lenta.
+
+O índice de liquidez seca (também chamado de “acid test” ou “teste ácido”) é calculado assim:
+
+                                                 Ativo circulante - Estoques
+                                          LS =
+                                                     Passivo circulante
+
+Gabarito: B.
+
+
+
+Observe a tabela a seguir e responda à questão.
+                                    ATIVO          $   PASSIVO        $
+                                                       Circulante        200
+                                    Circulante    150
+                                                       Não Circulante 100
+                                    Não Circulante 450
+                                                       Patrimônio Líquido 300
+                                    TOTAL        600 TOTAL          600
+20. Considerando que o Ativo Circulante é composto por Disponibilidades no valor de $ 15, Clientes no
+    valor de $ 35 e o restante refere‐se a Estoque para venda, os índices de liquidez corrente, de liquidez
+    imediata e de liquidez seca são, respectivamente, de
+A 0,075; 0,25 e 0,75.
+B 0,75; 0,075 e 0,25.
+C 0,25; 0,75 e 0,075
+D 0,075; 0,025 e 0,0075
+E 0,75; 0,25 e 0,075
+
+Comentários:
+
+   •   Liquidez Corrente
+
+O Índice de Liquidez Corrente mede a capacidade da empresa pagar suas dívidas de curto prazo (passivo
+circulante) com os recursos de curto prazo (ativo circulante). É um índice muito utilizado e considerado como
+o melhor indicador da situação de liquidez da empresa.
+
+O índice de liquidez corrente (também chamado de “Liquidez Comum”) é calculado assim:
+
+                                                Ativo Circulante 150
+                                        LC =                     =    = 0,75
+                                               Passivo Circulante 200
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          23
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+   •   Liquidez imediata
+
+O Índice de Liquidez Imediata avalia a capacidade de a empresa pagar suas dívidas de imediato, com os
+valores que possui disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários,
+aplicações de curto prazo, etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em
+dinheiro sem alteração significativa do seu valor.
+
+O índice de liquidez imediata (também chamado de “Instantânea”) é calculado assim:
+
+                                               Disponibilidades   15
+                                       LI =                     =    = 0,075
+                                              Passivo Circulante 200
+
+   •   Liquidez seca
+
+O Índice de Liquidez Seca mede a capacidade de pagamento das dívidas de curto prazo, sem considerar os
+estoques.
+
+É um índice mais adequado para as empresas que operam com estoques de difícil realização financeira,
+geralmente em função do alto valor. Como exemplo podemos citar as empresas do setor imobiliário, nas
+quais a venda do estoque costuma ser mais lenta.
+
+O índice de liquidez seca (também chamado de “acid test” ou “teste ácido”) é calculado assim:
+
+                                                 Ativo circulante - Estoques
+                                          LS =
+                                                     Passivo circulante
+
+Antes, devemos calcular o valor do estoque:
+
+                           Ativo Circulante = Disponibilidades + Clientes + Estoques
+
+                                                 150 = 15 + 35 - Estoque
+
+                                                   150 = 50 - Estoque
+
+                                                Estoque = 150 - 50 = 100
+
+Substituindo na fórmula, temos:
+
+                                    Ativo circulante - Estoques 150-100 50
+                            LS =                               =       =     = 0,25
+                                        Passivo circulante        200    200
+
+Gabarito: B.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                           24
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+Observe o balanço patrimonial a seguir e responda as questões 21 a 22.
+                      Ativo                            Passivo
+                      Ativo Circulante 150.000         Passivo Circulante    100.000
+                      Ativo não Circulante 1.080.000   Passivo não Circulante 300.000
+                      Realizável a Longo Prazo 375.000 Patrimônio Líquido     830.000
+                      Investimentos 200.000
+                      Imobilizado 325.000
+                      Intangível 180.000
+O ativo circulante era composto por R$ 20.000 em Caixa, R$ 30.000 em Bancos e R$ 100.000 em Estoque.
+
+21. O índice de composição das exigibilidades e o índice de liquidez imediata são, respectivamente,
+A 0,25 e 0,50.
+B 0,24 e 1,50.
+C 0,081 e 1,00.
+D 0,75 e 1,18.
+E 0,67 e 1,18.
+
+Comentários:
+
+   •   Composição das exigibilidades
+
+Indica a participação das dívidas de curto prazo em relação ao endividamento total.
+
+A fórmula é a seguinte:
+
+                                  Passivo Circulante        100.000       100.000
+                          CE =                       =                  =         = 0,25
+                                    Exigível Total     100.000 + 300.000 400.000
+
+   •   Liquidez imediata
+
+O Índice de Liquidez Imediata avalia a capacidade de a empresa pagar suas dívidas de imediato, com os
+valores que possui disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários,
+aplicações de curto prazo, etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em
+dinheiro sem alteração significativa do seu valor.
+
+O índice de liquidez imediata (também chamado de “Instantânea”) é calculado assim:
+
+                                  Disponibilidades    20.000 + 30.000    50.000
+                          LI =                      =                 =         = 0,5
+                                 Passivo Circulante       100.000       100.000
+
+Gabarito: A.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                           25
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 10
+
+
+
+
+22. O índice de liquidez geral e o índice de liquidez seca são, respectivamente,
+A 0,50 e 0,50.
+B 0,37 e 1,50.
+C 1,25 e 1,00.
+D 0,93 e 1,18.
+E 1,31 e 0,50.
+
+Comentários:
+
+    •    Liquidez Geral
+
+O Índice de Liquidez Geral indica a capacidade da empresa de pagar suas dívidas de curto e longo prazo,
+usando os recursos do Ativo Circulante e do Ativo Realizável a Longo Prazo.
+
+O índice de liquidez geral (também chamado de “Liquidez Total”) é calculado assim:
+
+                     Ativo circulante + Ativo realizável a LP              150.000+ 375.000 525.000
+  LG =                                                                   =                 =        = 1,31
+         Passivo circulante + (Passivo não circulante - Receita diferida) 100.000 + 300.000 400.000
+
+    •    Liquidez seca
+
+O Índice de Liquidez Seca mede a capacidade de pagamento das dívidas de curto prazo, sem considerar os
+estoques.
+
+É um índice mais adequado para as empresas que operam com estoques de difícil realização financeira,
+geralmente em função do alto valor. Como exemplo podemos citar as empresas do setor imobiliário, nas
+quais a venda do estoque costuma ser mais lenta.
+
+O índice de liquidez seca (também chamado de “acid test” ou “teste ácido”) é calculado assim:
+
+                             Ativo circulante - Estoques 150.000-100.000 50.000
+                      LS =                              =               =         = 0,50
+                                 Passivo circulante          100.000      100.000
+
+Gabarito: E.
+
+23. Um auditor deseja analisar a estrutura das demonstrações contábeis da sociedade JULIOCELL. Seu foco
+    deve ser a análise
+A dos índices de rentabilidade.
+B dos índices de lucratividade.
+C dos índices de liquidez.
+D vertical.
+E horizontal
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+          www.estrategiaconcursos.com.br
+                                                                                                           26
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+Comentário:
+
+A análise vertical indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+Gabarito: D.
+
+24. Uma sociedade empresária apresenta liquidez corrente de 1,2. Isso significa que
+A a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a longo prazo.
+B a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a curto prazo, sem considerar
+os estoques.
+C a empresa possui R$ 1,20 reais em disponibilidades para cada real de dívida, a curto prazo.
+D a empresa possui R$ 1,20 reais no Ativo Circulante e no Ativo Realizável a Longo Prazo para cada real de
+dívida do Passivo Exigível
+E a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a curto prazo.
+
+Comentário:
+
+O índice de liquidez corrente apresenta a capacidade da empresa pagar suas dívidas de curto prazo
+(passivo circulante) com os recursos de curto prazo (ativo circulante). Se a LC da empresa for de 1,2 ou
+120%, podemos dizer que a empresa possui R$ 1,20 reais no ativo circulante para cada real de dívida, a
+curto prazo.
+
+Gabarito: E.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                           27
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 10
+
+
+
+
+Gabarito
+
+
+
+
+                                          Número da Questão Gabarito
+                                                   1                  C
+                                                   2                  D
+                                                   3                  D
+                                                   4                  C
+                                                   5                  E
+                                                   6                  D
+                                                   7                  A
+                                                   8                  D
+                                                   9                  C
+                                                   10                 C
+                                                   11                 B
+                                                   12                 B
+                                                   13                 C
+                                                   14                 C
+                                                   15                 D
+                                                   16                 B
+                                                   17                 A
+                                                   18                 A
+                                                   19                 B
+                                                   20                 B
+                                                   21                 A
+                                                   22                 E
+                                                   23                 D
+                                                   24                 E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis
+         www.estrategiaconcursos.com.br
+                                                                                                          28
+                                     https://t.me/KakashiAssinaturasBot
+

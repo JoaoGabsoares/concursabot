@@ -1,0 +1,443 @@
+                                                     Aula 06
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Estatística
+
+
+
+
+                                                          Autor:
+                                          Allan Maux Santana
+
+
+
+
+                                          05 de Setembro de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Allan Maux Santana
+      Aula 06
+
+
+
+
+                                                                                     Índice
+1) Simulado - Probabilidade
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                                                    2
+                www.estrategiaconcursos.com.br                                                                                                                                           12
+
+                                                             https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+
+                                                      SIMULADO
+ Sumário
+
+ Simulado s/ Comentários ..................................................................................................... 3
+
+ Simulado c/ Comentários ..................................................................................................... 4
+
+    Gabarito ............................................................................................................................ 9
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                  3
+      www.estrategiaconcursos.com.br                                                                                                          12
+
+                                          https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+
+                           CONSIDERAÇÕES INICIAIS
+ Fala, meus amigos, tudo bem com vocês?
+
+ Vamos nesse simulado tratar do aprofundamento acerca do assunto probabilidade.
+
+ A ideia do nosso simulado é de revisar os principais conteúdos com questões que abordem
+ suas partes importantes. Nada de questões muito longas e complicadas, ok?
+
+ Joguem duro.
+
+ Grande abraço,
+
+
+
+
+                                                                               Prof. Allan Maux
+
+
+
+
+                                                         2
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                      4
+      www.estrategiaconcursos.com.br                                                              12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+
+                            SIMULADO S/ COMENTÁRIOS
+ Q.01
+
+ Considere que uma empresa esteja negociando acordos comerciais com os parceiros
+ potenciais A e B, e que P seja uma probabilidade tal que P (X = 1) = P (Y = 1) = 0,7 e
+ P(X + Y = 0) = 0,3, em que as variáveis aleatórias X e Y estão assim definidas:
+
+
+ X = 1, se a negociação for bem sucedida junto a A;
+
+
+ X = 0, se a negociação não for bem sucedida junto a A;
+
+
+ Y = 1, se a negociação for bem sucedida junto a B;
+
+
+ Y = 0, se a negociação não for bem sucedida junto a B.
+ Com base nessas informações, julgue o item a seguir.
+ A covariância entre X e Y é superior a 0,20 e inferior a 0,25.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Q.02
+
+ Um vendedor de certo tipo de equipamento de telecomunicações pode visitar, em um
+ dia, um ou dois clientes, com probabilidades de 1/3 e 2/3, respectivamente. De cada
+ contato pode resultar a venda de um equipamento por R$ 50.000, com probabilidade
+ de 1/10, ou nenhuma venda, com probabilidade de 9/10. Considerando que V seja a
+ variável aleatória que indica o valor total de vendas diárias desse vendedor, em milhares
+ de reais, julgue o item que se segue.
+  O numeral 2 é um elemento do domínio da função de probabilidade de V, e indica o
+ fechamento de duas vendas.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Q.03
+
+ Sabendo que X é uma variável aleatória discreta, 0 < p < 1 e k, número natural, julgue o
+ item abaixo.
+
+
+                                                         3
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 5
+      www.estrategiaconcursos.com.br                                                         12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+ P(X ≤ k) = (1 - p) k é uma função de probabilidade acumulada.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Q.04
+
+ Considere O valor diário (em R$ mil) apreendido de contrabando em determinada
+ região do país é uma variável aleatória W que segue distribuição normal com média
+ igual a R$ 10 mil e desvio padrão igual a R$ 4 mil.
+ Nessa situação hipotética, se W1 e W2 forem duas cópias independentes e
+ identicamente distribuídas como W, então a soma W1 + W2 seguirá distribuição normal
+ com média igual a R$ 20 mil e desvio padrão igual a R$ 8 mil.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Q.05
+
+ Se as variáveis aleatórias X e Y seguem distribuições de Bernoulli, tais que P[X = 1] = P[Y
+ = 0] = 0,9, então
+  A média de Y é superior a 0,5.
+
+ CC – CERTO
+ EE – ERRADO
+
+
+                            SIMULADO C/ COMENTÁRIOS
+ Q.01
+
+ Considere que uma empresa esteja negociando acordos comerciais com os parceiros
+ potenciais A e B, e que P seja uma probabilidade tal que P (X = 1) = P (Y = 1) = 0,7 e
+ P(X + Y = 0) = 0,3, em que as variáveis aleatórias X e Y estão assim definidas:
+
+
+ X = 1, se a negociação for bem sucedida junto a A;
+
+
+ X = 0, se a negociação não for bem sucedida junto a A;
+
+
+ Y = 1, se a negociação for bem sucedida junto a B;
+
+
+
+                                                         4
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                   6
+      www.estrategiaconcursos.com.br                                                           12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+
+ Y = 0, se a negociação não for bem sucedida junto a B.
+ Com base nessas informações, julgue o item a seguir.
+ A covariância entre X e Y é superior a 0,20 e inferior a 0,25.
+
+ CC – CERTO
+ EE – ERRADO
+ Comentários:
+ Pelo enunciado da questão podemos dizer que para P (X + Y = 0) = 0,3, P (X = 0) = P
+ (Y = 0), logo para ambas assumirem o valor 0, temos P = 0,3 e para ambas assumirem
+ o valor 1, temos p = 0,7. Isso nos leva a crer que a probabilidade é nula para outras
+ combinações possíveis, como por exemplo, X = 1 e Y = 0. Desta forma, estamos lidando
+ com eventos de sucesso e falha, e podemos aplicar a distribuição de Bernoulli.
+ Em Bernoulli podemos dizer que a probabilidade de sucesso é p e a de falha seria q,
+ em que:
+                           P (X = 1) = P (Y = 1) = 1 – P (X = 0)
+                             P (X = 1) = P (Y = 1) = 1 – q = p
+                                          p = 0,7
+
+ Portanto, E(XY) = 0,7
+ Ora, se estamos diante de uma distribuição de Bernoulli, também podemos dizer que:
+ E(X) = E(Y) = p = 0,7
+
+ Logo,
+                  𝑪𝒐𝒗 𝑿, 𝒀 = 𝑬 𝑿𝒀 − 𝑬 𝑿 ×𝑬 𝒀 = 𝟎, 𝟕 − 𝟎, 𝟕 𝒙 𝟎, 𝟕 = 𝟎, 𝟐𝟏
+
+ Gabarito: Certo
+
+ Q.02
+
+ Um vendedor de certo tipo de equipamento de telecomunicações pode visitar, em um
+ dia, um ou dois clientes, com probabilidades de 1/3 e 2/3, respectivamente. De cada
+ contato pode resultar a venda de um equipamento por R$ 50.000, com probabilidade
+ de 1/10, ou nenhuma venda, com probabilidade de 9/10. Considerando que V seja a
+ variável aleatória que indica o valor total de vendas diárias desse vendedor, em milhares
+ de reais, julgue o item que se segue.
+  O numeral 2 é um elemento do domínio da função de probabilidade de V, e indica o
+ fechamento de duas vendas.
+
+ CC – CERTO
+ EE – ERRADO
+
+
+                                                         5
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 7
+      www.estrategiaconcursos.com.br                                                         12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+ Comentários:
+
+ Temos que os faturamentos podem assumir os valores de:
+
+ Em caso de nenhuma venda (v=0) = R$ 0,00
+
+ Em caso de uma venda (v=50) = R$ 50.000,00
+
+ Em caso de duas vendas (v=100) =R$ 100.000,00
+
+ A letra V está expressa em milhares de reais.
+
+ Portanto, se analisarmos os pontos de domínio que podem ser assumidos pela variável v
+ são: 0, 50 e 100.
+
+ Veja que o ponto 2 não pertence ao domínio. Assim, gabarito errado.
+
+ Gabarito: Errado
+
+ Q.03
+
+ Sabendo que X é uma variável aleatória discreta, 0 < p < 1 e k, número natural, julgue o
+ item abaixo.
+
+ P(X ≤ k) = (1 - p) k é uma função de probabilidade acumulada.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Comentários:
+
+ A questão trata de probabilidade acumulada decrescente, e sabemos que isso não pode
+ ocorrer.
+
+ Temos o valor de p definido, assim, quando K aumenta, a probabilidade acumulada
+ diminui, ou seja, esta informação esta incorreta.
+
+ Exemplificando:
+
+ p = 0,8.
+
+ Notem que:
+
+ P (X≤2) = 0,82 = 0,64
+
+ P (X≤3) = 0,83 = 0,51
+                                                         6
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                8
+      www.estrategiaconcursos.com.br                                                        12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+ Uma função que possui probabilidade acumulada não pode decrescer. Portanto, gabarito
+ errado.
+
+ Gabarito: Errado.
+
+ Q.04
+
+ Considere O valor diário (em R$ mil) apreendido de contrabando em determinada
+ região do país é uma variável aleatória W que segue distribuição normal com média
+ igual a R$ 10 mil e desvio padrão igual a R$ 4 mil.
+ Nessa situação hipotética, se W1 e W2 forem duas cópias independentes e
+ identicamente distribuídas como W, então a soma W1 + W2 seguirá distribuição normal
+ com média igual a R$ 20 mil e desvio padrão igual a R$ 8 mil.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Comentários:
+ A soma de W1 + W2 será uma distribuição normal. Pois a soma de variáveis independentes
+ também será normal.
+
+ Vamos calcular a média de W1 + W2.
+
+                                           E(W1+W2)=E(W1)+E(W2)
+
+                                           Média =10.000+10.000
+
+                                                Média =20.000
+
+ Até aqui, tudo correto, porém, ainda falta calcularmos o desvio padrão.
+
+                                           V(W1+W2)=V(W1)+V(W2)
+
+ Como cada variável tem desvio padrão de 8.000, a variância será de 64.000.000:
+
+                          V(W1+W2)=64.000.000+64.000.000=128.000.000
+
+                                                    =128×106
+
+ Sabemos que o desvio padrão de W1+W2 é dado pela raiz quadrada da variância:
+
+                                                     𝟏𝟐𝟖 ∙ 𝟏𝟎𝟔
+
+                                                     𝟏𝟐𝟖 ∙ 103
+
+
+
+                                                         7
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística              9
+      www.estrategiaconcursos.com.br                                                      12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+ Sabemos que 112 = 121, valor aproximado de 128. Então a raiz de 128 é um POUCO maior
+ que 11.
+
+                                                  ≅ 11×1.000
+
+                                                    ≅ 11.000
+
+ O desvio padrão será aproximadamente 11.000,00, diferente de 8.000 informado pela
+ questão.
+
+ Gabarito: Errado.
+
+ Q.05
+
+ Se as variáveis aleatórias X e Y seguem distribuições de Bernoulli, tais que P[X = 1] = P[Y
+                                                       ==219a34==
+
+
+
+
+ = 0] = 0,9, então
+  A média de Y é superior a 0,5.
+
+ CC – CERTO
+ EE – ERRADO
+
+ Comentários:
+
+ De acordo com o enunciado, para a variável Y, a chance de fracasso é de 90%, assim, resta
+ apenas 10% para a chance de sucesso.
+
+ Temos que: p = 0,1
+
+ Este parâmetro é a média da distribuição, ou seja, a média de Y é igual a 0,10, valor inferior
+ a 0,5 informado pela questão.
+
+ Gabarito: Errado
+
+
+
+
+                                                                    8
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                      10
+      www.estrategiaconcursos.com.br                                                              12
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 06
+
+
+
+
+ Gabarito
+
+
+
+
+                                  1          2           3          4           5
+                                 CC         EE          EE         EE          EE
+
+ CC – CERTO
+
+ EE - ERRADO
+
+
+
+
+                                                         9
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística        11
+      www.estrategiaconcursos.com.br                                                12
+
+                                   https://t.me/KakashiAssinaturasBot
+

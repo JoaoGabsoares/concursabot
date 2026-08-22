@@ -1,0 +1,2137 @@
+                                                    Aula 05
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                        Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                            27 de Junho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Pedrosa Lopes
+Aula 05
+
+
+
+
+                                                                 PYTHON
+   Sumário
+
+    Conteúdo ...................................................................................................................................... 1
+
+    ANÁLISE ESTATÍSTICA ....................................................................................................................... 2
+
+    Glossário de termos ..................................................................................................................... 2
+
+    Roteiro de revisão ........................................................................................................................ 4
+
+    Python .......................................................................................................................................... 4
+
+    Tipos de Dados e Variáveis ........................................................................................................... 5
+
+    Operadores ................................................................................................................................... 8
+
+    Estruturas de Seleção ................................................................................................................. 11
+
+    Estruturas de Repetição ............................................................................................................. 13
+
+    Funções....................................................................................................................................... 14
+
+    Questionário de revisão e aperfeiçoamento .............................................................................. 16
+
+    Questionário de revisão e aperfeiçoamento .............................................................................. 28
+
+    Perguntas.................................................................................................................................... 28
+
+    Perguntas e Respostas ............................................................................................................... 29
+
+    Lista de Questões Estratégicas ................................................................................................... 32
+
+    Gabaritos .................................................................................................................................... 37
+
+
+
+
+                                                               CONTEÚDO
+   Python. Tipos de dados. Variáveis. Operadores. Estruturas. Funções.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+      www.estrategiaconcursos.com.br
+
+                                             https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+                                          ANÁLISE ESTATÍSTICA
+      Inicialmente, convém destacar o percentual de incidência do assunto, dentro da disciplina
+      Programação em concursos/cargos similares. Quanto maior o percentual de cobrança de um
+      dado assunto, maior sua importância.
+
+      Obs.: um mesmo assunto pode ser classificado em mais de um tópico devido à
+      multidisciplinaridade de conteúdo.
+
+                      Assunto                        Relevância na disciplina em concursos similares
+
+       Linguagens de programação                 38.2 %
+
+       Python                                    14.5 %
+
+       JavaScript                                12.7 %
+
+       Java                                      3.6 %
+
+       VB Script                                 1.8 %
+
+       C Sharp                                   1.8 %
+
+       R                                         1.8 %
+
+       Web                                       5.5 %
+
+       Linguagens de marcação                    5.5 %
+
+       XML (Extensible Markup Language)          3.6 %
+
+       HTML (HyperText Markup Language)          1.8 %
+
+       CSS (Cascading Style Sheets)              3.6 %
+
+       Conceitos básicos de programação          1.8 %
+
+       Frameworks Java                           1.8 %
+
+       Hibernate                                 1.8 %
+
+
+
+
+                                         GLOSSÁRIO DE TERMOS
+      Faremos uma lista de termos que são relevantes ao entendimento do assunto desta aula. Caso
+      tenha alguma dúvida durante a leitura, esta seção pode lhe ajudar a esclarecer.
+
+      Python: Linguagem de programação de alto nível e fácil de aprender, utilizada em diversos tipos
+      de projetos, desde análise de dados até desenvolvimento web.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      Tipo de dado: Classificação dos valores que uma variável pode armazenar, como números,
+      strings, booleanos, listas, dicionários, tuplas e conjuntos.
+
+      Variável: Nome que representa um valor armazenado na memória do computador.
+
+      Número: Tipo de dado que representa valores numéricos, como inteiros e decimais.
+
+      String: Tipo de dado que representa sequências de caracteres.
+
+      Booleano: Tipo de dado que representa valores verdadeiro ou falso.
+
+      Lista: Tipo de dado que representa uma coleção ordenada de valores.
+
+      Dicionário: Tipo de dado que representa uma coleção de valores indexados por chaves.
+
+      Tupla: Tipo de dado que representa uma sequência ordenada e imutável de valores.
+
+      Conjunto: Tipo de dado que representa uma coleção desordenada de valores únicos.
+
+      Operador: Símbolo ou palavra reservada que realiza uma operação em um ou mais valores.
+
+      Operador aritmético: Operador que realiza operações matemáticas, como adição, subtração,
+      multiplicação e divisão.
+
+      Operador de comparação: Operador que compara dois valores e retorna um valor booleano
+      indicando se são iguais, diferentes, maiores ou menores.
+
+      Operador de atribuição: Operador que atribui um valor a uma variável.
+
+      Operador lógico: Operador que combina valores booleanos e retorna um valor booleano, como
+      and, or e not.
+
+      Operador de string: Operador que realiza operações em strings, como concatenação e busca de
+      caracteres.
+
+      Estrutura de seleção: Estrutura que permite ao programa tomar decisões com base em
+      condições, como if, else e if-elif-else.
+
+      Estrutura de repetição: Estrutura que permite ao programa repetir uma sequência de instruções
+      enquanto uma condição é verdadeira, como for e while.
+
+      Função: Bloco de código que executa uma tarefa específica e pode ser reutilizado em diferentes
+      partes do programa.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+                                           ROTEIRO DE REVISÃO
+      A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+      assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+
+                                                      Python
+
+      Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos e de
+      propósito geral. Foi criada no final dos anos 1980 por Guido van Rossum e desde então se tornou
+      uma das linguagens de programação mais populares do mundo.
+
+      Além de fácil de aprender, Python possui uma sintaxe clara e concisa, o que torna a codificação
+      mais rápida e eficiente. Ela é usada em diversas áreas, incluindo desenvolvimento web, ciência
+      de dados, inteligência artificial, automação de tarefas, jogos, entre outros.
+
+      Uma das principais características de Python é a sua comunidade ativa, que contribui para o
+      desenvolvimento de bibliotecas e frameworks para a linguagem. Isso faz com que seja fácil
+      encontrar recursos prontos para serem utilizados em projetos, reduzindo o tempo e o esforço de
+      desenvolvimento.
+
+
+                                                 Características
+
+
+      Entre as características que facilitaram a adoção em larga escala de Python, podemos citar o fato
+      dela ser de propósito geral, de alto nível e possuir uma excelente legibilidade. Veja cada uma a
+      seguir:
+
+      Propósito Geral: Python é uma linguagem de propósito geral, o que significa que pode ser
+      utilizada para desenvolver uma ampla variedade de aplicações. É possível criar desde pequenos
+      scripts e programas simples até sistemas complexos e aplicações de grande escala.
+
+      Linguagem de Alto Nível: Python é considerada uma linguagem de alto nível porque oferece
+      recursos que simplificam a codificação e reduzem a complexidade do código. Por exemplo, não
+      é necessário gerenciar manualmente a alocação de memória ou lidar com detalhes de baixo nível.
+      Além disso, Python possui uma sintaxe clara e concisa, o que torna o código mais legível e mais
+      fácil de entender.
+
+      Legibilidade: A legibilidade é uma das características mais importantes de Python. A sintaxe clara
+      e concisa da linguagem torna o código fácil de ler e entender, mesmo para aqueles que não estão
+      familiarizados com a linguagem. Além disso, Python possui uma ampla variedade de recursos de
+      documentação e comentários, o que torna mais fácil para os programadores documentarem seu
+      código e torná-lo mais acessível para outros desenvolvedores.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+                                                   Aplicações
+
+
+      Python pode ser utilizada em diversas áreas. Aqui estão algumas das suas principais aplicações:
+
+      Desenvolvimento Web: Python é amplamente utilizada no desenvolvimento web, especialmente
+      com o framework Django. Com o Django, é possível desenvolver rapidamente aplicações web
+      robustas e escaláveis. Além disso, o Flask é outro framework popular em Python para
+      desenvolvimento web.
+
+      Ciência de Dados: Com bibliotecas como o Pandas, Numpy e Matplotlib, é possível realizar
+      análises de dados complexas, visualizar dados e criar modelos de aprendizado de máquina.
+
+      Automação de Tarefas: a linguagem é uma excelente escolha para automação de tarefas
+      repetitivas e rotineiras. Com bibliotecas como o Selenium e o Beautiful Soup, é possível
+      automatizar tarefas como web scraping, testes de software, automação de processos e muito
+      mais.
+
+      Inteligência Artificial: Com bibliotecas como o TensorFlow, Keras e PyTorch, é possível criar
+      modelos de aprendizado de máquina para reconhecimento de voz, imagem, processamento de
+      linguagem natural, entre outros.
+
+      Bem, agora que já temos uma visão geral sobre as capacidades e características da linguagem,
+      vamos aprofundar os seus detalhes, ok?
+
+
+
+
+                                       Tipos de Dados e Variáveis
+
+      Os tipos de dados são os valores que podem ser armazenados em uma variável. Em Python, os
+      tipos de dados mais comuns são:
+
+      Números: representam valores numéricos, como inteiros, float (números com ponto flutuante) e
+      complexos.
+
+
+      idade = 23
+      altura = 1.75
+      salario = 5000.50
+      numero_complexo = 2 + 3j
+
+
+
+
+      String: representam texto, ou seja, uma sequência de caracteres. As strings são delimitadas por
+      aspas simples ('') ou duplas ("").
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      nome = 'Maria'
+      sobrenome = "Silva"
+
+
+
+
+      Booleanos: representam valores lógicos, Verdadeiro (True) ou Falso (False).
+
+
+      estudando = True
+      trabalhando = False
+
+
+
+
+      Listas: representam uma coleção ordenada de valores que podem ser de diferentes tipos de
+      dados. As listas são delimitadas por colchetes []
+
+
+      numeros = [1, 2, 3, 4, 5]
+      nomes = ['João', 'Maria', 'Pedro']
+
+
+
+
+      Dicionários: representam uma coleção de pares chave-valor. As chaves são únicas e são usadas
+      para acessar os valores associados. Os dicionários são delimitados por chaves {}.
+
+
+      pessoa = {'nome': 'João', 'idade': 30, 'cidade': 'São Paulo'}
+
+
+
+
+      Tupla: Uma tupla é uma coleção de valores ordenados e imutáveis que podem ser de diferentes
+      tipos de dados. As tuplas são semelhantes às listas, mas ao contrário delas, as tuplas são
+      imutáveis, ou seja, uma vez que uma tupla é criada, seus valores não podem ser alterados. As
+      tuplas são delimitadas por parênteses ().
+
+
+      tupla1 = (1, 2, 3)
+      tupla2 = ('João', 30, 1.75)
+
+
+
+
+      Conjunto: Um conjunto é uma coleção não ordenada e não indexada de elementos únicos. Os
+      conjuntos são usados quando é importante que os elementos sejam únicos, sem ordem
+      específica. Os conjuntos são delimitados por chaves {}.
+
+
+      conjunto1 = {1, 2, 3}
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      conjunto2 = {'a', 'b', 'c'}
+
+
+
+
+      Resumo dos tipos de dados (com exemplos):
+
+             Tipo       de
+                                    Descrição                                           Exemplo
+             Dado
+             Inteiro                Números inteiros, positivos ou negativos            10, -20, 0
+             Float                  Números com ponto flutuante                         3.14, -2.5, 1.0
+             Complexo               Números complexos no formato real +                 2+3j, -1+4j, 1j
+                                    imaginário*j
+             String                 Sequência de caracteres                             'Olá,
+                                                                                        mundo!', "Python"
+
+             Booleano               Valores lógicos Verdadeiro (True) ou                True, False
+                                    Falso (False)
+             Lista                  Coleção ordenada          de    valores    de       [1, 2, 3], ['maçã',
+                                    diferentes tipos                                    'banana']
+             Tupla                  Coleção ordenada imutável de valores de             (1, 2, 3), ('João',
+                                    diferentes tipos                                    30)
+             Dicionário             Coleção de pares chave-valor                        {'nome':     'João',
+                                                                                        'idade': 30}
+             Conjunto               Coleção não ordenada de elementos                   {1, 2, 3}, {'a', 'b',
+                                    únicos                                              'c'}
+
+
+
+
+                                                    Variáveis
+
+      Uma variável é um local de armazenamento na memória do computador que contém um valor.
+      Ela é utilizada para representar um valor específico que pode ser alterado ao longo do programa.
+      Cada variável tem um nome único que é usado para acessar e manipular o valor que ela contém.
+
+      Veja o exemplo:
+
+
+      nome = 'João'
+      idade = 30
+      altura = 1.75
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      Nesse exemplo, criamos três variáveis chamadas nome, idade e altura e atribuímos a elas os
+      valores 'João', 30 e 1.75, respectivamente. Essas variáveis podem ser usadas posteriormente no
+      código para realizar cálculos, exibir informações na tela, etc.
+
+      As variáveis em Python são dinamicamente tipadas, o que significa que não é necessário
+      especificar o tipo de dados ao declará-las. O tipo de dados da variável é determinado
+      automaticamente pelo valor atribuído a ela.
+
+
+
+
+                                                  Operadores
+
+      Operadores são símbolos que indicam uma operação a ser realizada entre dois ou mais valores
+      em uma expressão ou instrução. Em Python, há diversos tipos de operadores, que podem ser
+      utilizados para realizar operações aritméticas, lógicas, de comparação, de atribuição, entre
+      outras.
+
+
+                                           Operadores aritméticos
+
+
+      São utilizados para realizar operações matemáticas básicas, como adição (+), subtração (-),
+      multiplicação (*), divisão (/) e outros.
+
+                                Operador            Significado             Exemplo
+                                +                   Adição                  3+5=8
+                                -                   Subtração               7-2=5
+                                *                   Multiplicação           2*4=8
+                                /                   Divisão                 10 / 2 = 5
+                                %                   Módulo                  11 % 3 = 2
+
+                                **                  Potência                2 ** 3 = 8
+
+
+
+
+                                        Operadores de comparação
+
+
+      São utilizados para comparar dois valores e retornar um valor booleano Verdadeiro (True) ou
+      Falso (False).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+                              Operador             Significado              Exemplo
+                              ==                   Igualdade                3 == 5 → False
+                              !=                   Diferença                7 != 2 → True
+                              >                    Maior que                10 > 2 → True
+                              <                    Menor que                11 < 3 → False
+
+                              >=                   Maior ou igual a         5 >= 5 → True
+                              <=                   Menor ou igual a         8 <= 2 → False
+
+
+
+
+                                           Operadores de atribuição
+
+
+      São utilizados para atribuir um valor a uma variável. O operador de atribuição básico é o sinal de
+      igual (=), mas há também outros operadores de atribuição que podem ser combinados com
+      operações aritméticas, como soma (+=), subtração (-=), multiplicação (*=) e divisão (/=).
+
+                   Operador              Significado             Exemplo
+                   =                     Atribuição              x = 10
+                   +=                    Adição                  x += 5 (equivalente a x = x + 5)
+                   -=                    Subtração               x -= 2 (equivalente a x = x - 2)
+                   *=                    Multiplicação           x *= 3 (equivalente a x = x * 3)
+                   /=                    Divisão                 x /= 2 (equivalente a x = x / 2)
+                   %=                    Módulo                  x %= 3 (equivalente a x = x % 3)
+
+                   //=                   Divisão inteira         x //= 2 (equivalente a x = x // 2)
+                   **=                   Potência                x **= 2 (equivalente a x = x ** 2)
+
+
+
+
+                                              Operadores lógicos
+
+
+      Operadores lógicos são usados para combinar expressões booleanas e obter um resultado
+      booleano. Em Python, existem três operadores lógicos: and, or e not.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      O operador and retorna True se ambas as expressões forem verdadeiras. Caso contrário, retorna
+      False.
+
+      O operador or retorna True se pelo menos uma das expressões for verdadeira. Se ambas as
+      expressões forem falsas, retorna False.
+
+      O operador not inverte o valor da expressão, ou seja, se a expressão for True, retorna False, e se
+      for False, retorna True.
+
+      Aqui está uma tabela com exemplos de como esses operadores podem ser utilizados:
+
+            Expressão 1            Expressão 2           and            or              not (Expressão 1)
+            True                   True                  True           True            False
+            True                   False                 False          True            False
+            False                  True                  False          True            True
+
+            False                  False                 False          False           True
+
+      Na primeira e segunda colunas, temos as expressões booleanas que serão combinadas pelos
+      operadores lógicos. Na terceira, quarta e quinta colunas, temos o resultado da combinação das
+      expressões com os operadores lógicos and, or e not, respectivamente.
+
+      Por exemplo, na primeira linha da tabela, temos a combinação de duas expressões True com o
+      operador and. Como ambas as expressões são verdadeiras, o resultado também é verdadeiro. Na
+      segunda linha, temos a combinação de uma expressão True com uma expressão False com o
+      operador or. Como pelo menos uma das expressões é verdadeira, o resultado também é
+      verdadeiro. Na quinta linha, temos o operador not sendo aplicado a uma expressão False. Como
+      a expressão original é falsa, o resultado do operador not é verdadeiro.
+
+
+                                            Operadores de Strings
+
+      Em Python, os operadores sobre strings são usados para realizar várias operações, como
+      comparação, concatenação e busca de caracteres. Aqui estão alguns exemplos desses
+      operadores:
+
+      Operador de comparação: ==
+
+      O operador de comparação == é usado para comparar duas strings e verificar se elas são iguais.
+      Ele retorna True se as strings forem iguais e False caso contrário. Por exemplo:
+
+
+      string1 = "hello"
+      string2 = "hello"
+      string3 = "world"
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      print(string1 == string2)          # True
+      print(string1 == string3)          # False
+
+
+
+
+      Operador de concatenação: +
+
+      O operador de concatenação + é usado para unir duas strings em uma única string. Por exemplo:
+
+
+      string1 = "hello"
+      string2 = "world"
+
+      string3 = string1 + " " + string2
+      print(string3) # "hello world"
+
+
+
+
+      Operador de busca de caracteres: in
+
+      O operador in é usado para verificar se um determinado caractere ou substring está presente em
+      uma string. Ele retorna True se o caractere ou substring estiver presente e False caso contrário.
+      Por exemplo:
+
+
+      string1 = "hello"
+      string2 = "world"
+
+      print("h" in string1)         # True
+      print("o" in string2)         # True
+      print("x" in string1)         # False
+
+
+
+
+      Existem também outros operadores que podem ser usados para manipular strings em Python,
+      como o operador de multiplicação *, que é usado para criar uma nova string a partir da repetição
+      de uma string existente, e o operador de fatiamento [], que é usado para obter um subconjunto
+      de uma string com base em sua posição.
+
+
+
+
+                                           Estruturas de Seleção
+
+      As estruturas condicionais if, else e if-elif-else são usadas em Python para executar diferentes
+      blocos de código com base em uma condição.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      if:
+
+      O if é uma estrutura condicional simples que verifica uma condição e executa um bloco de
+      código somente se a condição for verdadeira. O formato básico do if é:
+
+
+      if condição:
+          bloco de código
+
+
+
+
+      Por exemplo:
+
+
+      idade = 20
+      if idade >= 18:
+          print("Você é maior de idade")
+
+
+
+
+      else:
+
+      O else é usado juntamente com o if para executar um bloco de código diferente quando a
+      condição do if não é verdadeira. O formato básico do else é:
+
+
+      if condição:
+          bloco de código se a condição for verdadeira
+      else:
+          bloco de código se a condição for falsa
+
+
+
+
+      Por exemplo:
+
+
+      idade = 16
+      if idade >= 18:
+          print("Você é maior de idade")
+      else:
+          print("Você é menor de idade")
+
+
+
+
+      if-elif-else:
+
+      O if-elif-else é uma estrutura condicional mais complexa que permite testar várias condições
+      diferentes e executar um bloco de código correspondente a cada condição. O formato básico do
+      if-elif-else é:
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+            www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      if condição1:
+          bloco de código se condição1 for verdadeira
+      elif condição2:
+          bloco de código se condição2 for verdadeira
+      elif condição3:
+          bloco de código se condição3 for verdadeira
+      else:
+          bloco de código se todas as condições forem falsas
+
+
+
+
+      Por exemplo:                                      ==219a34==
+
+
+
+
+      nota = 7
+      if nota >= 9:
+          print("Parabéns! Sua nota foi A")
+      elif nota >= 7:
+          print("Sua nota foi B")
+      elif nota >= 5:
+          print("Sua nota foi C")
+      else:
+          print("Infelizmente você foi reprovado")
+
+
+
+
+      As estruturas condicionais if, else e if-elif-else são muito importantes para o desenvolvimento de
+      programas em Python, pois permitem que o programa execute diferentes ações com base em
+      condições específica.
+
+
+
+
+                                         Estruturas de Repetição
+
+      As estruturas de repetição (também chamadas de laços ou loops) permitem que um trecho de
+      código seja executado várias vezes. Em Python, existem duas estruturas de repetição: o for e o
+      while.
+
+      A estrutura for é usada para iterar sobre uma sequência (como uma lista, tupla, string etc.) e
+      executar um bloco de código para cada item da sequência. A sintaxe básica é:
+
+
+      for item in sequência:
+          # código a ser executado para cada item
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      Já a estrutura while é usada para repetir um bloco de código enquanto uma determinada
+      condição for verdadeira. A sintaxe básica é:
+
+
+      while condição:
+          # código a ser repetido enquanto a condição for verdadeira
+
+
+
+
+      Segue abaixo uma tabela com exemplos de uso das estruturas de repetição em Python:
+
+             Estrutura           Exemplo                                     Descrição
+
+             for                 for i in range(5):                          Itera sobre a
+                                 print(i)                                    sequência range(5) e
+                                                                             imprime cada valor
+
+             for                 for letra in 'python':                      Itera sobre a
+                                 print(letra)                                string 'python' e imprime
+                                                                             cada letra
+
+             while               x = 0; while x < 5:                         Imprime os valores de x de 0
+                                 print(x); x += 1                            a4
+
+             while               while True: senha =                         Repete a solicitação de uma
+                                 input('Digite a senha:                      senha até que o valor digitado
+                                 '); if senha == '123':                      seja igual a '123'
+                                 break
+
+             for                 for x, y in zip(lista1,                     Itera simultaneamente sobre
+                                 lista2): print(x, y)                        duas listas
+                                                                             (lista1 e lista2) e imprime
+                                                                             os valores correspondentes
+
+
+      Esses são apenas alguns exemplos de como as estruturas de repetição podem ser utilizadas em
+      Python. É importante entender bem o funcionamento de cada uma delas para poder escolher a
+      melhor opção para cada caso específico.
+
+
+
+
+                                                     Funções
+
+      Em Python, funções são blocos de código que podem ser reutilizados várias vezes no programa.
+      Elas são uma parte fundamental da programação modular, que divide o programa em partes
+      menores e mais gerenciáveis.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      Uma função pode receber um ou mais argumentos de entrada e pode retornar um ou mais
+      valores de saída. Elas são declaradas usando a palavra-chave def seguida pelo nome da função,
+      parênteses e dois pontos. O bloco de código da função é indentado abaixo da declaração da
+      função.
+
+      Por exemplo, vamos criar uma função simples que recebe dois números e retorna a sua soma:
+
+
+      def soma(a, b):
+          resultado = a + b
+          return resultado
+
+
+
+
+      Agora podemos chamar a função soma com diferentes argumentos e obter o resultado da soma:
+
+
+      print(soma(2, 3)) # imprime 5
+      print(soma(10, 20)) # imprime 30
+
+
+
+
+      As funções são uma maneira poderosa de simplificar o código e torná-lo mais fácil de entender e
+      manter. Elas permitem que blocos de código sejam reutilizados várias vezes, reduzindo a
+      quantidade de código redundante no programa. Além disso, as funções permitem que o
+      programador abstraia a complexidade do código e trabalhe em níveis mais altos de abstração, o
+      que pode tornar o código mais fácil de entender e depurar.
+
+      Usando funções, é possível dividir um programa em partes menores, cada uma com sua própria
+      responsabilidade e funcionalidade, o que torna o programa mais fácil de entender, manter e
+      atualizar.
+
+                                Funções de usuário x Funções pré-definidas
+
+      Funções pré-definidas (também chamadas de funções built-in) são funções que já estão
+      disponíveis em Python, sem a necessidade de defini-las previamente. Elas são funções que já
+      foram criadas pelos desenvolvedores Python e estão disponíveis para serem utilizadas em
+      qualquer programa. Alguns exemplos de funções pré-definidas incluem print(), len(), str(), int(),
+      float(), entre outras.
+
+      Por outro lado, as funções de usuário são funções criadas pelo próprio programador para realizar
+      tarefas específicas em seu programa. Essas funções devem ser definidas pelo programador antes
+      de serem usadas.
+
+      Veja alguns exemplos de funções pré-definidas em Python:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+       Função        Descrição                                            Exemplo
+
+       print()       Imprime uma mensagem na tela                         print("Olá, mundo!")
+
+       len()         Retorna o tamanho de um objeto                       len("Python")
+
+       range()       Gera uma sequência de números                        range(0, 10)
+
+       type()        Retorna o tipo de um objeto                          type(10)
+
+       input()       Lê uma entrada do usuário                            nome = input("Qual é o seu
+                                                                          nome? ")
+
+       str()         Converte um objeto para uma string                   str(10)
+
+       int()         Converte um objeto para um inteiro                   int("10")
+
+       float()       Converte um objeto para um número de ponto           float("3.14")
+                     flutuante
+
+       max()         Retorna o maior valor em um objeto                   max([10, 20, 30])
+
+       min()         Retorna o menor valor em um objeto                   min([10, 20, 30])
+
+       sum()         Retorna a soma de todos os valores em um             sum([1, 2, 3, 4])
+                     objeto
+
+       sorted()      Retorna uma lista ordenada de valores em um          sorted([3, 1, 4, 1, 5, 9,
+                     objeto                                               2, 6, 5])
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+      Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+      estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+      para a sua prova e que, em conjunto, abordam os principais pontos do assunto
+
+      A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+      que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+     1. (IADES / ADASA – 2022) Na disciplina de ciência de dados, Python é uma das linguagens
+        de programação mais utilizadas. A esse respeito, é correto afirmar que a linguagem de
+        programação Python:
+
+         a) mostra-se ideal para desenvolvimento rápido e criação de scripts em razão de sua
+         natureza compilada.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         b) possui recursos para controle de fluxo, como if-else, switch-case, while e for em
+         todas as suas versões.
+
+         c) classifica-se como fracamente tipada.
+
+         d) foi desenvolvida com o intuito de substituir a linguagem de programação C por causa
+         de sua altíssima performance.
+
+         e) pode ser utilizada como uma linguagem de programação funcional.
+
+         Comentários:
+
+         (a) Errado, trata-se de uma linguagem de natureza interpretada e, não, compilada; (b)
+         Errado, switch-case só passou a existir a partir da versão 3.10 – agora é brincadeira a
+         banca cobrar esse tipo de coisa; (c) Errado, ela é considerada fortemente tipada; (d)
+         Errado, o intuito não era substituir o C e C frequentemente tem performance mais alta
+         que Python; (e) Correto, trata-se de uma linguagem multiparadigma, contemplando
+         inclusive o paradigma funcional.
+
+         Gabarito: E
+
+
+     2. (CESPE / DPE-RO – 2021) Na linguagem Python, são consideradas sequências mutáveis
+        as:
+
+         a) strings.
+         b) cadeias.
+         c) ranges.
+         d) tuplas.
+         e) listas.
+
+         Comentários:
+
+         (a) Errado, strings não são sequências; (b) Errado, cadeias são strings; (c) Errado, a
+         função range é utilizada para retornar uma sequência de números; (d) Errado, tuplas
+         são sequências imutáveis; (e) Correto, listas são sequências mutáveis.
+
+         Gabarito: E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+     3. (CESPE / PC-PB - 2022) Python é uma linguagem procedural que utiliza quatro tipos de
+        dados predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A
+        respeito desses tipos de dados, julgue os itens a seguir.
+
+         I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
+         II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é
+         realizada.
+         III A lista é um tipo de dados variável que permite a alteração de seus elementos após
+         a sua criação.
+
+         Assinale a opção correta.
+
+         a) Apenas o item I está certo.
+         b) Todos os itens estão certos.
+         c) Apenas o item II está certo.
+         d) Apenas os itens I e III estão certos.
+
+         Comentários:
+
+         (I) Correto. De fato, um conjunto (set) pode armazenar uma tupla, mas não pode
+         armazenar uma lista, isso ocorre porque os conjuntos são mutáveis, mas não podem
+         armazenar elementos mutáveis entre si; (II) Errado. Outra diferença é que uma tupla é
+         imutável, enquanto uma lista é mutável; (III) Correto, a lista realmente permite a
+         alteração de seus elementos após a sua criação.
+
+         Gabarito: D
+
+
+     4. (FCC / TRT-MG – 2015) Considere o código fonte Python abaixo.
+
+
+
+
+         Para que seja exibido [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89] a lacuna "I" precisa ser
+         preenchida corretamente com:
+
+         a) resultado.add(a)
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+             a, b = b, a+b
+         b) resultado.insert(a)
+             a, b = b, a+b
+         c) resultado.append(a)
+             a, b = b, a+b
+         d) resultado.add(a)
+             a, b = a, a+b
+         e) resultado.append(a)
+             a, b = a+b, b
+
+         Comentários:
+
+         Primeiro temos que saber que o correto a ser utilizado é o append, pois queremos
+         inserir valores a cada iteração sem perder os anteriores. Então, ficamos entre a letra
+         (c) e (e). Em (c), temos a, b = b, a+b equivale a a = b e b = a+b; e em (e), temos que a, b
+         = a+b, b equivale a a = a+b e b = b. Vamos testar a letra (e)! Antes de entrar na estrutura
+         de repetição while, nós temos que:
+
+         a=0
+         b=1
+
+         Depois, temos que:
+
+         a=a+b
+         b=b
+
+         Note que – se antes b = 1 e depois b = b – então b nunca vai mudar, b sempre será 1.
+         Como antes a = 0 e depois a = a + b, então a sempre aumentará em uma unidade. Logo,
+         resultado em uma sequência [1, 2, 3, 4, 5, 6, 8, 9, ...]. Dessa forma, a resposta é (c)!
+         Notem que ele se trata de uma Sequência de Fibonacci.
+
+         1ª iteração: resultado = [0]; a = 1; b = 1;
+         2ª iteração: resultado = [0, 1]; a = 1; b = 2;
+         3ª iteração: resultado = [0, 1, 1]; a = 2; b = 3;
+         4ª iteração: resultado = [0, 1, 1, 2]; a = 3; b = 5;
+         5ª iteração: resultado = [0, 1, 1, 2, 3]; a = 5; b = 8;
+         6ª iteração: resultado = [0, 1, 1, 2, 3, 5]; a = 8; b = 13;
+         7ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8]; a = 13; b = 21;
+         8ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13]; a = 21; b = 34;
+         9ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21]; a = 34; b = 55;
+         10ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]; a = 55; b = 89;
+         11ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55]; a = 89; b = 144;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         12ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]; a = 144; b = 233;
+
+         Gabarito: C
+
+
+     5. (FGV / FUNSAÚDE - 2021) Observe o código Python v2.7.
+
+         def F (a, b):
+                 while a != b:
+                       if a > b:
+                               a=a-b
+                       elif b > a:
+                               b -= a
+                 return a
+
+         Assinale o valor retornado para F (48,36).
+
+         a) 1
+         b) 12
+         c) 24
+         d) 36
+         e) 48
+
+         Comentários:
+
+         Vamos lá! A função F(a,b), foi invocada com a = 48 e b = 36. Antes de entrarmos nas
+         iterações, é bom apenas deixar claro que b -= a é o mesmo que b = b-a. Vamos agora
+         para as iterações:
+
+         48 != 36?
+
+         Sim, logo vamos para a próxima linha:
+
+         48>36? Sim, logo a = 48 – 36 = 12.
+
+         12 != 36?
+
+         Sim, logo vamos para a próxima linha:
+
+         12 > 36? Não, então 36 > 12? Sim, logo b = 36 – 12 = 24.
+
+         12 != 24?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         Sim, logo vamos para a próxima linha:
+
+         12 > 24? Não, então 24 > 12? Sim, logo b = 24 – 12 = 12.
+
+         12 != 12?
+
+         Não, 12 = 12. Logo, retornamos a, que é = 12.
+
+         Gabarito: B
+
+
+     6. (FGV – CM/Caruaru – 2015) Analise o código Python a seguir.
+
+         L1=[10,20,30]
+              L2=[40,50]
+              L1.append(L2)
+            print L1
+
+         Assinale a opção que descreve corretamente o que acontece quando esse programa é
+         executado no Python 2.7:
+
+         a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
+         b) Exibe “[10, 20, 30, [40, 50]]”.
+         c) Exibe “[10, 20, 30, 40, 50]”.
+         d) Exibe “[10, 20, 30], [40, 50]”.
+         e) Exibe “[]”.
+
+         Comentários:
+
+         O comando append inclui o valor da variável L2 na posição final do vetor L1. Como o
+         conteúdo da variável L2 é uma lista de tamanho 2 [40,50], ele que será incluído na 4ª
+         posição de L1. Professor, porque a resposta não é letra C? Muito bem observado,
+         padawan! O método append inclui a lista L2 como se fosse só um elemento, isto é, a
+         lista final tem 4 elementos ao invés de 5, pois L2 é tratado como se fosse uma coisa só!
+
+         Gabarito: B
+
+
+     7. (QUADRIX – COREN-RS / 2018) No que se refere à linguagem de programação
+        Python, assinale a alternativa correta.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio
+         framework e é incompatível com frameworks de terceiros.
+
+         b) A Python utiliza a duck typing (tipagem dinâmica), que nada mais é do que definir
+         um tipo para a variável, com as operações que podem ser aplicadas, antes mesmo de
+         ela ter sido criada, com base em conhecimento prévio do programa. Esta tarefa
+         é executada pelo interpretador.
+
+         c) O caractere “/” marca o início de comentário. Qualquer texto depois do “/”será
+         ignorado até o fim da linha.
+
+         d) A Python permite que os conteúdos das variáveis sejam sempre alterados, não
+         existindo, dessa forma, tipos imutáveis.
+
+         e) Pode ser utilizada como linguagem principal no desenvolvimento de sistemas
+         e também pode ser utilizada como linguagem script em vários softwares.
+
+         Comentários:
+
+         (a) Errado, ela realmente é uma linguagem de alto nível e robusta, mas seu framework
+         (coleção de pacotes e módulos de extensão) é totalmente compatível com frameworks
+         de terceiros; (b) Errado, ela realmente utiliza Duck Typing, mas não é necessário definir
+         um tipo para variável antes de ela ser criada – isso pode ser inferido pelo interpretador;
+         (c) Errado, comentários são inicializados por meio do caractere “#” e, não, “/”; (d)
+         Errado, tipos podem ser mutáveis ou imutáveis; (e) Correto, além de ser utilizado
+         como linguagem principal no desenvolvimento de sistemas, o Python também é
+         muito utilizado como linguagem script em vários softwares.
+
+         Gabarito: E
+
+
+     8. (IESES / IFC-SC – 2015) O conjunto correto de palavras reservadas para a construção
+        de uma estrutura de controle em Python 3.4.3 é:
+
+         a) “if”, “elsif” e “else”.
+         b) “if”, “else if” e “else”.
+         c) Somente “if”; o restante da estrutura de controle (“senão se” e “senão”) é realizado
+         simplesmente com indentação.
+         d) “if”, “elif” e “else”.
+
+         Comentários:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         A estrutura correta completa é: if, elif e else.
+
+         Gabarito: D
+
+
+     9. (CESPE / SERPRO – 2021) As tuplas, embora sejam semelhantes às listas, estão
+        limitadas a, no máximo, cinco níveis.
+
+         Comentários:
+
+         É possível incorporar uma tupla dentro da outra, permitindo a criação de hierarquias
+         com tuplas. As tuplas são imutáveis, o que significa que não é possível alterá-las. Você
+         pode criar uma tupla com o mesmo nome e modificá-la de algum modo, mas não pode
+         modificar uma já existente. As listas são mutáveis, o que significa que é possível alterá-
+         las. Assim, inicialmente uma tupla pode parecer uma desvantagem, mas a
+         imutabilidade tem várias vantagens, como ser mais segura e rápida. Além disso,
+         objetos imutáveis são mais fáceis de usar com vários processadores.
+
+         Ex: Tupla = (1, 2, 3, (4, 5, 6, (7, 8, 9))) é aninhada em três níveis de profundidade. O
+         primeiro nível consiste nos valores 1, 2, 3 e uma tupla. O segundo, nos valores 4, 5, 6 e
+         ainda outra tupla. O terceiro nível consiste nos valores 7, 8 e 9. No entanto, não existe
+         limitação de nenhuma delas em relação a quantidade máxima de níveis suportados.
+
+         Gabarito: E
+
+
+     10. (CESPE / ECT – 2012) A linguagem Python e seu interpretador estão disponíveis para
+         as mais diversas plataformas. Para que seja usado em determinado sistema
+         operacional não suportado, é possível gerar o Python a partir do programa fonte
+         utilizando um compilador C. Nesse caso, o código fonte é traduzido para o formato
+         bytecode, que é multiplataforma e pode ser distribuído de forma independente.
+
+         Comentários:
+
+         Ele realmente é multiplataforma. Além disso, permite que programas sejam
+         compilados para um formato portável chamado de bytecode. Essa característica faz
+         com que programas escritos nessa linguagem com uma biblioteca padrão sejam
+         executadas da mesma forma em diversos sistemas operacionais que possuam um
+         software interpretador de Python.
+
+         Gabarito: C
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+     11. (VUNESP - 2023 - TCM-SP - Auditor de Controle Externo - Especialidade: Tecnologia
+         da Informação) Considere o dicionário definido em Python 3 a seguir. x = {i+1: i for i in
+         range(10) if i % 3 == 0} O resultado de sum(x) é:
+
+         A) 18
+         B) 21
+         C) 22
+         D) 40
+         E) 42
+
+         Comentários:
+
+         A questão está pedindo o resultado da função sum() aplicada ao dicionário x.
+         Entretanto, há um detalhe importante que deve ser considerado: a função sum() em
+         Python, quando aplicada a um dicionário, somará apenas as chaves do dicionário, não
+         os valores.
+
+         O dicionário x é construído pela compreensão de dicionários (uma funcionalidade em
+         Python que permite a criação de dicionários de maneira mais intuitiva e menos
+         verbosa) com a seguinte lógica: para cada número no intervalo de 0 a 9 (por causa do
+         range(10)), se esse número for múltiplo de 3 (por causa do if i % 3 == 0), então o
+         dicionário recebe uma entrada cuja chave é o número mais um (i+1) e o valor é o
+         próprio número.
+
+         Portanto, para os números de 0 a 9, os múltiplos de 3 são 0, 3, 6 e 9. Seguindo a regra
+         da compreensão do dicionário, as chaves seriam 0+1, 3+1, 6+1 e 9+1, ou seja, 1, 4, 7 e
+         10. A soma desses números (1+4+7+10) é 22.
+
+         Portanto, o gabarito correto para a questão é a alternativa C) 22.
+
+         Gabarito: C
+
+
+     12. (VUNESP - 2022 - UNICAMP - Analista de Suporte Computacional)
+         Considere a declaração da lista a seguir na linguagem Python. a = [1, 2, 3, 4, 5, 6, ] Para
+         se obter a lista [2, 4] deve-se executar o código:
+
+
+         A) [x for x in a[-2:] if x % 2 == 0]
+         B) [x for x in a if x % 2 == 0]
+         C) [x for x in a if x % 2 != 0]
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         D) [x for x in a[:-2] if x % 2 == 0]
+         E) [x for x in a if x % 2 and x <= 4]
+
+         Comentários:
+
+         Esta questão diz respeito à compreensão de listas em Python, uma funcionalidade que
+         permite criar listas de maneira mais intuitiva e menos verbosa. Vamos analisar cada
+         alternativa:
+
+         A) [x for x in a[-2:] if x % 2 == 0]: A parte a[-2:] retorna os últimos dois elementos da
+         lista a, que são [5, 6]. A condição if x % 2 == 0 seleciona apenas os elementos pares
+         dessa sublista, que é [6]. Portanto, essa alternativa retornaria [6], que não é a lista
+         desejada [2, 4].
+
+         B) [x for x in a if x % 2 == 0]: Esta opção passa por todos os elementos da lista a e
+         seleciona aqueles que são pares (x % 2 == 0), que são [2, 4, 6]. Portanto, essa alternativa
+         não é correta.
+
+         C) [x for x in a if x % 2 != 0]: Esta opção seleciona todos os números ímpares da lista a,
+         que são [1, 3, 5], então, também não é a resposta correta.
+
+         D) [x for x in a[:-2] if x % 2 == 0]: Esta opção seleciona todos os elementos da lista a,
+         exceto os últimos dois (por causa do a[:-2]). Isso resulta na sublista [1, 2, 3, 4]. A
+         condição if x % 2 == 0 então seleciona apenas os elementos pares dessa sublista, que
+         são [2, 4]. Portanto, essa é a alternativa correta.
+
+         E) [x for x in a if x % 2 and x <= 4]: Esta opção seleciona todos os elementos ímpares
+         (por causa de x % 2) que são menores ou iguais a 4, que são [1, 3]. Portanto, essa
+         alternativa também não é a resposta correta.
+
+         Gabarito: D
+
+
+     13. (VUNESP - 2022 - UNICAMP - Administrador de Sistemas Operacionais )
+         Na linguagem de programação Python 3.x, para remover espaços em branco à direita
+         e à esquerda de uma cadeia de caracteres, deve-se utilizar o método:
+
+         A) strip()
+         B) trim()
+         C) nospace()
+         D) clear()
+         E) remove_spaces()
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         Comentários:
+
+         Na linguagem de programação Python, o método que remove espaços em branco no
+         início e no final de uma cadeia de caracteres é o método strip().
+
+         As opções B) trim(), C) nospace(), D) clear() e E) remove_spaces() não existem em
+         Python.
+
+         B) trim() é um método que existe em algumas outras linguagens de programação
+         (como Java e JavaScript), mas não em Python.
+         C) nospace() não é um método existente em Python.
+         D) clear() em Python é usado para limpar todos os elementos de um conjunto ou
+         dicionário, não para remover espaços em branco de strings.
+         E) remove_spaces() também não é um método existente em Python.
+
+         Gabarito: A
+
+
+     14. (VUNESP - 2022 - UNICAMP - Administrador de Sistemas Operacionais )
+         Na linguagem de programação Python 3.x, é inválida a sintaxe:
+
+         A) x = [1, 2, 3, 4, ]
+         B) x = def(y): y*2
+         C) x = 10 if 4 > 5 else 4
+         D) x = [i for i in range(10)]
+         E) x = y = z = 10
+
+         Comentários:
+
+         Nessa questão, precisamos identificar a alternativa com sintaxe inválida em Python.
+         Vamos analisar cada opção:
+
+         A) x = [1, 2, 3, 4, ]: Esta é uma atribuição válida de uma lista a uma variável. Em Python,
+         uma lista pode ser definida com uma vírgula final, então essa sintaxe é válida.
+
+         B) x = def(y): y*2: Esta sintaxe é inválida em Python. A palavra-chave def é usada para
+         definir uma função. Não podemos atribuir a definição de uma função a uma variável
+         dessa maneira.
+
+         C) x = 10 if 4 > 5 else 4: Esta é uma atribuição condicional válida em Python. Se a
+         condição (4 > 5) for verdadeira, x será 10, caso contrário, x será 4.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         D) x = [i for i in range(10)]: Esta é uma compreensão de lista válida em Python. Ela cria
+         uma lista de todos os números de 0 a 9 e a atribui a x.
+
+         E) x = y = z = 10: Esta é uma atribuição múltipla válida em Python. Ela atribui o valor 10
+         a todas as variáveis x, y e z.
+
+         Gabarito: B
+
+
+     15. (VUNESP - 2022 - UNICAMP - Administrador de Sistemas Operacionais )
+         Considere o trecho de código Python 3.x a seguir:
+
+            dados = ['x', 'y', 'z'] dados.pop ( )         print(dados)
+
+         Após a execução do último comando, será impresso na tela:
+
+
+         A) []
+         B) ['x', 'y']
+         C) ['y', 'z']
+         D) ['x', 'y', 'z']
+         E) NameError: name 'dados' is not defined
+
+         Comentários:
+
+         O método pop() em Python é usado para remover um elemento de uma lista. Se
+         nenhum índice é especificado, ele remove e retorna o último elemento da lista.
+
+         Neste caso, temos a lista dados = ['x', 'y', 'z']. Quando executamos dados.pop(), o último
+         elemento 'z' é removido da lista.
+
+         Então, quando o comando print(dados) é executado, ele imprime a lista dados após o
+         elemento 'z' ter sido removido. Isso resulta em ['x', 'y'].
+
+         Portanto, a alternativa correta é B) ['x', 'y'].
+
+         Gabarito: B
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+    A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+    proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+    perguntas que exigem respostas subjetivas.
+
+    São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+    resolução, como ocorre nas clássicas questões objetivas.
+
+    O objetivo é que você realize uma auto explicação mental de alguns pontos do conteúdo, para
+    consolidar melhor o que aprendeu ;)
+
+    Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim,
+    ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+    conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+
+    Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+    os diversos pontos do conteúdo, na medida do possível.
+
+    É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido
+    na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar
+    a resolução de questões objetivas típicas de concursos, ok?
+
+    Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+    Vamos ao nosso questionário:
+
+
+
+
+                                                    Perguntas
+
+    1. O que é Python?
+
+    2. O que são tipos de dados em Python?
+
+    3. O que é uma variável em Python?
+
+    4. O que são operadores em Python?
+
+    5. Qual a diferença entre uma tupla e um conjunto em Python?
+
+    6. O que é uma estrutura condicional em Python?
+
+    7. Por que devemos usar funções em Python?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+    8. Qual a diferença entre uma função pré-definida e uma função de usuário em Python?
+
+    9. O que é uma estrutura de repetição em Python?
+
+    10. Quais são os operadores lógicos em Python?
+
+    11. O que são operadores de string em Python?
+
+    12. O que são funções built-in em Python?
+
+    13. Quais são os principais tipos de dados em Python e qual a diferença entre eles?
+
+    14. Quais são os operadores de comparação em Python e quais os resultados possíveis?
+
+    15. Qual a diferença entre uma estrutura de seleção com "if" e uma estrutura de seleção com "if-
+    elif-else" em Python?
+
+    16. Por que devemos usar funções em Python?
+
+    17. O que são estruturas de repetição em Python e por que elas são importantes?
+
+    18. Explique a diferença entre o "for" e o "while" em Python.
+
+    19. O que é a precedência de operadores em Python?
+
+    20. O que é uma lista em Python e como ela é representada?
+
+    21. O que é um conjunto em Python e quais são suas características?
+
+    22. O que é um dicionário em Python e como ele é estruturado?
+
+
+
+
+                                          Perguntas e Respostas
+
+      1. O que é Python?
+
+      Resposta: Python é uma linguagem de programação de alto nível, interpretada e de propósito
+      geral.
+
+      2. O que são tipos de dados em Python?
+
+      Resposta: Os tipos de dados em Python são utilizados para representar os diferentes valores que
+      uma variável pode armazenar.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      3. O que é uma variável em Python?
+
+      Resposta: Uma variável em Python é um espaço de memória reservado para armazenar um valor.
+
+      4. O que são operadores em Python?
+
+      Resposta: Operadores em Python são símbolos ou palavras reservadas que são utilizados para
+      executar operações em variáveis e valores.
+
+      5. Qual a diferença entre uma tupla e um conjunto em Python?
+
+      Resposta: A principal diferença é que uma tupla é imutável, enquanto um conjunto é mutável.
+
+      6. O que é uma estrutura condicional em Python?
+
+      Resposta: Uma estrutura condicional em Python é uma estrutura de controle que permite que o
+      código execute diferentes ações com base em uma condição.
+
+      7. Por que devemos usar funções em Python?
+
+      Resposta: Funções em Python nos permitem reutilizar o código e torná-lo mais legível e
+      organizado.
+
+      8. Qual a diferença entre uma função pré-definida e uma função de usuário em Python?
+
+      Resposta: As funções pré-definidas são fornecidas pela linguagem Python, enquanto as funções
+      de usuário são criadas pelo programador.
+
+      9. O que é uma estrutura de repetição em Python?
+
+      Resposta: Uma estrutura de repetição em Python é uma estrutura de controle que permite que
+      o código execute repetidamente até que uma condição seja atendida.
+
+      10. Quais são os operadores lógicos em Python?
+
+      Resposta: Os operadores lógicos em Python são "and", "or" e "not".
+
+      11. O que são operadores de string em Python?
+
+      Resposta: Os operadores de string em Python permitem que as strings sejam concatenadas,
+      comparadas e acessadas.
+
+      12. O que são funções built-in em Python?
+
+      Resposta: Funções built-in em Python são funções pré-definidas que já estão disponíveis na
+      linguagem Python.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      13. Quais são os principais tipos de dados em Python e qual a diferença entre eles?
+
+      Resposta: Os principais tipos de dados em Python são inteiros (int), números de ponto flutuante
+      (float), strings (str), booleanos (bool), listas (list), dicionários (dict), tuplas (tuple) e conjuntos
+      (set). A diferença entre eles está na forma como os valores são armazenados e manipulados. Por
+      exemplo, as listas são mutáveis e podem armazenar vários valores, enquanto as tuplas são
+      imutáveis e contêm uma sequência fixa de valores.
+
+      14. Quais são os operadores de comparação em Python e quais os resultados possíveis?
+
+      Resposta: Os operadores de comparação em Python são == (igual), != (diferente), > (maior que),
+      < (menor que), >= (maior ou igual a) e <= (menor ou igual a). O resultado de uma comparação é
+      um valor booleano, ou seja, True (verdadeiro) se a comparação for verdadeira e False (falso) caso
+      contrário.
+
+      15. Qual a diferença entre uma estrutura de seleção com "if" e uma estrutura de seleção com "if-
+      elif-else" em Python?
+
+      Resposta: A estrutura "if" é utilizada para tomar decisões com base em uma única condição. Se
+      a condição for verdadeira, o bloco de código associado ao "if" é executado. Já a estrutura "if-elif-
+      else" permite avaliar várias condições em sequência. Se uma condição for verdadeira, o bloco de
+      código associado a essa condição é executado e as condições restantes não são verificadas.
+
+      16. Por que devemos usar funções em Python?
+
+      Resposta: Funções em Python nos permitem organizar o código de forma modular e reutilizável.
+      Elas dividem tarefas complexas em partes menores e mais gerenciáveis, facilitando a leitura,
+      manutenção e depuração do código. Além disso, as funções permitem que blocos de código
+      sejam executados várias vezes em diferentes partes do programa, evitando repetição de código.
+
+      17. O que são estruturas de repetição em Python e por que elas são importantes?
+
+      Resposta: As estruturas de repetição em Python permitem que um bloco de código seja
+      executado repetidamente até que uma determinada condição seja atendida. Elas são
+      importantes porque automatizam tarefas repetitivas, economizando tempo e esforço do
+      programador. As estruturas de repetição mais comuns em Python são o "for" e o "while".
+
+      18. Explique a diferença entre o "for" e o "while" em Python.
+
+      Resposta: O "for" em Python é usado para percorrer uma sequência de elementos, como uma
+      lista, tupla ou string. Ele executa um bloco de código para cada elemento na sequência. Já o
+      "while" é usado quando queremos repetir um bloco de código enquanto uma determinada
+      condição for verdadeira. A condição é verificada antes de cada iteração.
+
+      19. O que é a precedência de operadores em Python?
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+      Resposta: A precedência de operadores em Python determina a ordem em que as operações são
+      executadas em uma expressão. Alguns operadores têm prioridade sobre outros. Por exemplo, o
+      operador de multiplicação (*) tem uma precedência maior do que o operador de adição (+),
+      portanto, ele será executado primeiro.
+
+      20. O que é uma lista em Python e como ela é representada?
+
+      Resposta: Uma lista em Python é uma estrutura de dados que permite armazenar uma coleção
+      de valores. Ela pode conter elementos de diferentes tipos, como números, strings e até mesmo
+      outras listas. As listas são representadas por valores entre colchetes [], separados por vírgulas.
+
+      21. O que é um conjunto em Python e quais são suas características?
+
+      Resposta: Um conjunto em Python é uma coleção desordenada de elementos únicos. Ele não
+      permite duplicatas, o que o torna útil para operações de união, interseção e diferença entre
+      conjuntos. Os conjuntos são representados por valores entre chaves {}, separados por vírgulas.
+
+
+
+      22. O que é um dicionário em Python e como ele é estruturado?
+
+      Resposta: Um dicionário em Python é uma estrutura de dados que mapeia chaves a valores. Cada
+      valor é associado a uma chave única, permitindo um acesso eficiente aos dados. Os dicionários
+      são representados por pares de chave-valor, separados por vírgulas e delimitados por chaves {}.
+      Por exemplo: {"nome": "João", "idade": 30}.
+
+
+
+
+                                LISTA DE QUESTÕES ESTRATÉGICAS
+
+     1. (IADES / ADASA – 2022) Na disciplina de ciência de dados, Python é uma das linguagens
+        de programação mais utilizadas. A esse respeito, é correto afirmar que a linguagem de
+        programação Python:
+
+         a) mostra-se ideal para desenvolvimento rápido e criação de scripts em razão de sua
+         natureza compilada.
+
+         b) possui recursos para controle de fluxo, como if-else, switch-case, while e for em
+         todas as suas versões.
+
+         c) classifica-se como fracamente tipada.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         d) foi desenvolvida com o intuito de substituir a linguagem de programação C por causa
+         de sua altíssima performance.
+
+         e) pode ser utilizada como uma linguagem de programação funcional.
+
+     2. (CESPE / DPE-RO – 2021) Na linguagem Python, são consideradas sequências mutáveis
+        as:
+
+         a) strings.
+         b) cadeias.
+         c) ranges.
+         d) tuplas.
+         e) listas.
+
+     3. (CESPE / PC-PB - 2022) Python é uma linguagem procedural que utiliza quatro tipos de
+        dados predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A
+        respeito desses tipos de dados, julgue os itens a seguir.
+
+         I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
+         II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é
+         realizada.
+         III A lista é um tipo de dados variável que permite a alteração de seus elementos após
+         a sua criação.
+
+         Assinale a opção correta.
+
+         a) Apenas o item I está certo.
+         b) Todos os itens estão certos.
+         c) Apenas o item II está certo.
+         d) Apenas os itens I e III estão certos.
+
+     4. (FCC / TRT-MG – 2015) Considere o código fonte Python abaixo.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         Para que seja exibido [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89] a lacuna "I" precisa ser
+         preenchida corretamente com:
+
+         a) resultado.add(a)
+             a, b = b, a+b
+         b) resultado.insert(a)
+             a, b = b, a+b
+         c) resultado.append(a)
+             a, b = b, a+b
+         d) resultado.add(a)
+             a, b = a, a+b
+         e) resultado.append(a)
+             a, b = a+b, b
+
+     5. (FGV / FUNSAÚDE - 2021) Observe o código Python v2.7.
+
+         def F (a, b):
+                 while a != b:
+                       if a > b:
+                               a=a-b
+                       elif b > a:
+                               b -= a
+                 return a
+
+         Assinale o valor retornado para F (48,36).
+
+         a) 1
+         b) 12
+         c) 24
+         d) 36
+         e) 48
+
+     6. (FGV – CM/Caruaru – 2015) Analise o código Python a seguir.
+
+         L1=[10,20,30]
+              L2=[40,50]
+              L1.append(L2)
+            print L1
+
+         Assinale a opção que descreve corretamente o que acontece quando esse programa é
+         executado no Python 2.7:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
+         b) Exibe “[10, 20, 30, [40, 50]]”.
+         c) Exibe “[10, 20, 30, 40, 50]”.
+         d) Exibe “[10, 20, 30], [40, 50]”.
+         e) Exibe “[]”.
+
+     7. (QUADRIX – COREN-RS / 2018) No que se refere à linguagem de programação
+        Python, assinale a alternativa correta.
+
+         a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio
+         framework e é incompatível com frameworks de terceiros.
+
+         b) A Python utiliza a duck typing (tipagem dinâmica), que nada mais é do que definir
+         um tipo para a variável, com as operações que podem ser aplicadas, antes mesmo de
+         ela ter sido criada, com base em conhecimento prévio do programa. Esta tarefa
+         é executada pelo interpretador.
+
+         c) O caractere “/” marca o início de comentário. Qualquer texto depois do “/”será
+         ignorado até o fim da linha.
+
+         d) A Python permite que os conteúdos das variáveis sejam sempre alterados, não
+         existindo, dessa forma, tipos imutáveis.
+
+         e) Pode ser utilizada como linguagem principal no desenvolvimento de sistemas
+         e também pode ser utilizada como linguagem script em vários softwares.
+
+     8. (IESES / IFC-SC – 2015) O conjunto correto de palavras reservadas para a construção
+        de uma estrutura de controle em Python 3.4.3 é:
+
+         a) “if”, “elsif” e “else”.
+         b) “if”, “else if” e “else”.
+         c) Somente “if”; o restante da estrutura de controle (“senão se” e “senão”) é realizado
+         simplesmente com indentação.
+         d) “if”, “elif” e “else”.
+
+     9. (CESPE / SERPRO – 2021) As tuplas, embora sejam semelhantes às listas, estão
+        limitadas a, no máximo, cinco níveis.
+
+     10. (CESPE / ECT – 2012) A linguagem Python e seu interpretador estão disponíveis para
+         as mais diversas plataformas. Para que seja usado em determinado sistema
+         operacional não suportado, é possível gerar o Python a partir do programa fonte
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+         utilizando um compilador C. Nesse caso, o código fonte é traduzido para o formato
+         bytecode, que é multiplataforma e pode ser distribuído de forma independente.
+
+     11. (VUNESP - 2023 - TCM-SP - Auditor de Controle Externo - Especialidade: Tecnologia
+         da Informação) Considere o dicionário definido em Python 3 a seguir. x = {i+1: i for i in
+         range(10) if i % 3 == 0} O resultado de sum(x) é:
+
+         A) 18
+         B) 21
+         C) 22
+         D) 40
+         E) 42
+
+     12. (VUNESP - 2022 - UNICAMP - Analista de Suporte Computacional)
+         Considere a declaração da lista a seguir na linguagem Python. a = [1, 2, 3, 4, 5, 6, ] Para
+         se obter a lista [2, 4] deve-se executar o código:
+
+
+         A) [x for x in a[-2:] if x % 2 == 0]
+         B) [x for x in a if x % 2 == 0]
+         C) [x for x in a if x % 2 != 0]
+         D) [x for x in a[:-2] if x % 2 == 0]
+         E) [x for x in a if x % 2 and x <= 4]
+
+     13. (VUNESP - 2022 - UNICAMP - Administrador de Sistemas Operacionais )
+         Na linguagem de programação Python 3.x, para remover espaços em branco à direita
+         e à esquerda de uma cadeia de caracteres, deve-se utilizar o método:
+
+         A) strip()
+         B) trim()
+         C) nospace()
+         D) clear()
+         E) remove_spaces()
+
+     14. (VUNESP - 2022 - UNICAMP - Administrador de Sistemas Operacionais )
+         Na linguagem de programação Python 3.x, é inválida a sintaxe:
+
+         A) x = [1, 2, 3, 4, ]
+         B) x = def(y): y*2
+         C) x = 10 if 4 > 5 else 4
+         D) x = [i for i in range(10)]
+         E) x = y = z = 10
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 05
+
+
+
+
+     15. (VUNESP - 2022 - UNICAMP - Administrador de Sistemas Operacionais )
+         Considere o trecho de código Python 3.x a seguir:
+
+            dados = ['x', 'y', 'z'] dados.pop ( )         print(dados)
+
+         Após a execução do último comando, será impresso na tela:
+
+
+         A) []
+         B) ['x', 'y']
+         C) ['y', 'z']
+         D) ['x', 'y', 'z']
+         E) NameError: name 'dados' is not defined
+
+
+
+
+                                                    Gabaritos
+
+            1. E
+            2. E
+            3. D
+            4. C
+            5. B
+            6. B
+            7. E
+            8. D
+            9. E
+            10. C
+            11. C
+            12. D
+            13. A
+            14. B
+            15. B
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,1071 @@
+                                                     Aula 03
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Estatística
+
+
+
+
+                                                          Autor:
+                                          Allan Maux Santana
+
+
+
+
+                                              19 de Maio de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Allan Maux Santana
+      Aula 03
+
+
+
+
+                                                                                     Índice
+1) Simulado - Apresentação de dados, medidas de posição e de dispersão
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                                                    2
+                www.estrategiaconcursos.com.br                                                                                                                                           24
+
+                                                             https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+                                SIMULADO – ESTATÍSTICA
+          APRESENTAÇÃO DE DADOS, MEDIDAS DE
+                 DISPERSÃO E POSIÇÃO.
+ Sumário
+
+ Simulado s/ Comentários ..................................................................................................... 3
+
+    Gabarito ............................................................................................................................ 9
+
+ Simulado c/ Comentários ................................................................................................... 10
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                  3
+      www.estrategiaconcursos.com.br                                                                                                          24
+
+                                          https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+                          CONSIDERAÇÕES INICIAIS
+ Fala, meus amigos, tudo bem com vocês?
+
+ Acredito que a Estatística, principalmente a parte inferencial, seja a matéria mais difícil dos
+ concursos.
+
+ Mas, garanto-lhes que é melhor ter a sensação de que vai conseguir umas questões a mais
+ em sua prova do que ir totalmente zerado, sabemos, muito bem, que há questões fáceis
+ na órbita conceitual e, também, dos cálculos.
+
+ A ideia do nosso simulado é de revisar os principais conteúdos com questões que abordem
+ suas partes importantes. Nada de questões muito longas e complicadas, ok?
+
+ Joguem duro.
+
+ Grande abraço,
+
+
+
+
+                                       @ESTRATEGIACONCURSOS
+
+                                          @PASSOESTRATEGICO
+
+                                            @PROFALLANMAUX
+
+
+
+
+                                                         2
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                       4
+      www.estrategiaconcursos.com.br                                                               24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+                            SIMULADO S/ COMENTÁRIOS
+ Q.01
+
+ Um país, querendo proteger suas indústrias, cria uma taxa extra de importação de certo
+ produto proveniente de alguns países. Para a cobrança dessa taxa extra, deve-se,
+ inicialmente, determinar a média mensal do número de unidades vendidas no ano
+ anterior para, a seguir, cobrar a taxa sobre o valor excedente deste valor.
+
+ A quantidade de unidades vendidas por uma empresa sujeita a essa taxação no ano
+ anterior à sua decretação foi:
+
+        Mês     Jan. Fev. Mar. Abr. Mai. Jun. Jul. Ago. Set. Out. Nov. Dez.
+     Quantidade
+                 23 42     35   21  37    42 50 65       75 38     22   78
+     (Unidades)
+
+ A média mensal do número de unidades vendidas por essa empresa foi de:
+
+ a) 40.
+ b) 42.
+ c) 44.
+ d) 46.
+ e) 48.
+
+ Q.02
+
+ A média aritmética de um conjunto formado por vinte e sete números é 30. A nova
+ média quando for acrescentado os números 25, 22 e 23 é aproximadamente:
+
+  a) 28,5
+  b) 28,8
+  c) 29,1
+  d) 29,3
+
+ Q.03
+
+ No gráfico a seguir estão representados, em milhões de vagas, os saldos anuais (criação
+ menos fechamento) do número de postos de trabalho com carteira assinada no Brasil,
+ referentes aos anos de 2014 a 2018.
+
+
+
+
+                                                         3
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               5
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+  De acordo com os dados do gráfico, é correto afirmar que, no período considerado, o
+ valor da média aritmética dos saldos anuais de postos de trabalho representa o
+ fechamento de:
+
+  a) 957 000 vagas.
+  b) 764 200 vagas.
+  c) 574 200 vagas.
+  d) 479 000 vagas.
+  e) 384 200 vagas.
+
+ Q.04
+
+ Ao analisar os valores mensais pagos em impostos pelos contribuintes, percebeu-se
+ que um contribuinte em particular apresentava o maior desvio padrão de toda a base
+ de dados.
+
+ Isso significa que, em toda base de dados, os valores mensais pagos por esse
+ contribuinte eram os mais
+
+  a) altos.
+  b) baixos.
+  c) dispersos.
+  d) estranhos.
+  e) constantes.
+
+ Q.05
+
+ Considere a tabela-1 e o enunciado seguintes para responder a questão.
+
+
+
+
+                                                         4
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística            6
+      www.estrategiaconcursos.com.br                                                    24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+                                                    Tabela-1
+
+ A tabela-1 de distribuição de frequência mostra a organização e síntese de 18
+ dados ”xi” colhidos como amostra para um estudo estatístico, onde a coluna “ƒi” é a
+ que registra os valores das frequências, enquanto a coluna (xi - 𝑥 )2 contém os valores
+ dos quadrados dos desvios.                            ==219a34==
+
+
+
+
+  Entre os números a seguir, o que mais se aproxima da variância amostral é:
+
+     a) 5.
+     b) 3.
+     c) 1.
+     d) 7.
+     e) 9.
+
+ Q.06
+
+ Em uma avaliação na qual é atribuído grau de zero a dez, um hotel obteve média 8 em
+ quarenta e nove avaliações. O avaliador seguinte atribuiu ao hotel nota zero. Para que
+ a média de notas do hotel passe a ser maior que 8, será necessário, no mínimo, a
+ avaliação de mais quantos hóspedes?
+
+  a) 1
+  b) 2
+  c) 3
+  d) 4
+  e) 5
+
+ Q.07
+
+ Sabe-se que 30% dos clientes de um banco são do sexo masculino e os 70% restantes
+ são do sexo feminino. Entre os clientes do sexo masculino, a média do tempo de
+ vínculo com o banco é igual a 4 anos e, entre os clientes do sexo feminino, é igual a 6
+ anos.
+
+
+
+                                                                    5
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               7
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ Considerando-se todos os clientes, de ambos os sexos, qual é a média do tempo de
+ vínculo de cada um com o banco?
+
+  a) 5 anos
+  b) 5,3 anos
+  c) 6 anos
+  d) 5,4 anos
+  e) 5,7 anos
+
+ Q.08
+
+ Analise a tabela sobre o consumo diário de água dos habitantes de um município de
+ Pernambuco.
+
+
+
+
+ Selecionando de forma aleatória um indivíduo do município em questão, o valor
+ esperado para seu consumo diário de água será de:
+    a) 84,36 L.
+    b) 86,12 L.
+    c) 87,5 L.
+    d) 90 L.
+    e) 112 L.
+
+ Q.09
+
+ Uma variável aleatória discreta X tem função de probabilidade dada por:
+
+
+
+
+ A variância de X é igual a:
+    a) 0,16.
+    b) 0,64.
+    c) 1.
+    d) 1,2.
+    e) 1,8.
+
+ Q.10
+
+
+
+                                                         6
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística         8
+      www.estrategiaconcursos.com.br                                                 24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ A tabela a seguir representa pesquisa realizada em uma determinada praça do país,
+ para saber a faixa etária dos que por lá passavam, em um certo horário do dia.
+
+
+
+
+ Qual o valor da média, mediana e moda dessa distribuição, respectivamente?
+ a) 26, 25 e 32.
+ b) 26, 32 e 25.
+ c) 26, 25 e 25.
+ d) 26, 25 e 45.
+ e) 26, 45 e 25
+
+ Q.11
+
+ Ao longo de cinco meses, a quantidade de carros vendidos por uma concessionária foi
+ de 17, 23, 35, 27 e 13. Considerando a aproximação de uma casa decimal, qual a média
+ de carros vendidos e seu desvio padrão, a cada mês, respectivamente?
+ a) 23 e 7,7.
+ b) 23 e 6,4.
+ c) 24 e 7,2.
+ d) 24,5 e 6,5.
+ e) 6,5 e 24,5
+
+ Q.12
+
+ Abaixo encontram-se os dados do Instituto Nacional de Pesquisas Espaciais (INPE)
+ sobre o desmatamento na Amazônia Legal em 2024, apresentados em forma de uma
+ tabela, e, à direita, um gráfico que os representaria em forma de colunas, produzido
+ por alunos de uma escola.
+
+
+
+
+  A respeito do gráfico e da tabela apresentados, é possível concluir que, em 2024, o:
+ a) Estado do Pará foi responsável por mais de 50% do desmatamento da Amazônia
+     Legal.
+ b) Desmatamento no estado do Pará foi mais do que o triplo do ocorrido em Rondônia.
+
+                                                         7
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística             9
+      www.estrategiaconcursos.com.br                                                     24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ c) Gráfico não traduz fielmente os dados da tabela em relação a pelo menos um dos
+    estados.
+ d) Estado do Tocantins foi o que menos desmatou no Brasil.
+
+ Q.13
+
+ Em um conjunto de dados ordenados, a mediana é definida como:
+
+ a) A soma de todos os valores dividida pelo número total de observações.
+
+ b) O valor que mais se repete no conjunto de dados.
+
+ c) O valor central em um conjunto de dados ordenado.
+
+ d) A diferença entre o maior e o menor valor do conjunto.
+
+ e) A raiz quadrada da soma dos quadrados dos desvios em relação à média.
+
+ Q.14
+
+ Qual das seguintes variáveis é classificada corretamente como uma variável qualitativa
+ nominal?
+
+ a) Idade de uma pessoa.
+
+ b) Peso de um atleta.
+
+ c) Cor dos olhos de uma pessoa.
+
+ d) Temperatura em graus Celsius.
+
+ e) Rendimento mensal de um trabalhador.
+
+ Q.15
+
+ Dada a distribuição de notas de uma turma em uma prova (6, 7, 7, 8, 9), o desvio padrão
+ é uma medida que:
+
+ a) Indica o valor mais frequente na distribuição.
+
+ b) Mostra o valor central da distribuição.
+
+ c) Calcula a média dos valores mais altos.
+
+ d) Mede o grau de dispersão dos valores em torno da média.
+
+                                                         8
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               10
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ e) Indica a soma dos valores dividida pelo total de observações.
+
+
+ Gabarito
+
+
+
+
+    1      2         3     4       5      6       7      8       9      10     11   12   13   14   15
+    C      D         E     C       A      E       D      B       C      C      A    C    C    C    D
+
+
+
+
+                                                         9
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                            11
+      www.estrategiaconcursos.com.br                                                                    24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+                            SIMULADO C/ COMENTÁRIOS
+ Q.01
+
+ Um país, querendo proteger suas indústrias, cria uma taxa extra de importação de certo
+ produto proveniente de alguns países. Para a cobrança dessa taxa extra, deve-se,
+ inicialmente, determinar a média mensal do número de unidades vendidas no ano
+ anterior para, a seguir, cobrar a taxa sobre o valor excedente deste valor.
+
+ A quantidade de unidades vendidas por uma empresa sujeita a essa taxação no ano
+ anterior à sua decretação foi:
+
+        Mês     Jan. Fev. Mar. Abr. Mai. Jun. Jul. Ago. Set. Out. Nov. Dez.
+     Quantidade
+                 23 42     35   21  37    42 50 65       75 38     22   78
+     (Unidades)
+
+ A média mensal do número de unidades vendidas por essa empresa foi de:
+
+ a) 40.
+ b) 42.
+ c) 44.
+ d) 46.
+ e) 48.
+
+ Comentários:
+
+ Uma questão de aplicação direta do conceito de média aritmética, vamos somar os valores
+ e dividir pela quantidade de valores somados:
+
+                     23 + 42 + 35 + 21 + 37 + 42 + 50 + 65 + 75 + 38 + 22 + 78
+              𝑋=                                                               = 44
+                                                12
+
+ Gabarito: C
+
+ Q.02
+
+ A média aritmética de um conjunto formado por vinte e sete números é 30. A nova
+ média quando for acrescentado os números 25, 22 e 23 é aproximadamente:
+
+  a) 28,5
+  b) 28,8
+
+                                                        10
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               12
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+  c) 29,1
+  d) 29,3
+
+ Comentários:
+
+ Havia, inicialmente, 27 números cuja média é igual a 30, logo a soma de todos os 27
+ números é dada por: 27 ∙ 30 = 810.
+
+ Foram adicionados os valores 25, 22 e 23, logo a nova soma será de:
+
+                                           = 810 + 25 + 22 + 23 =
+
+                                                     = 880 =
+
+ E o total de números passou a ser 30, logo a nova média será de:
+
+                                                    𝟖𝟖𝟎
+                                               𝑋=       = 𝟐𝟗, 𝟑𝟑
+                                                     𝟑𝟎
+
+ Gabarito: D
+
+ Q.03
+
+ No gráfico a seguir estão representados, em milhões de vagas, os saldos anuais (criação
+ menos fechamento) do número de postos de trabalho com carteira assinada no Brasil,
+ referentes aos anos de 2014 a 2018.
+
+
+
+
+  De acordo com os dados do gráfico, é correto afirmar que, no período considerado, o
+ valor da média aritmética dos saldos anuais de postos de trabalho representa o
+ fechamento de:
+
+  a) 957 000 vagas.
+  b) 764 200 vagas.
+  c) 574 200 vagas.
+
+                                                        11
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               13
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+  d) 479 000 vagas.
+  e) 384 200 vagas.
+
+ Comentários:
+
+ Agora, temos uma questão de média com interpretação do gráfico de colunas, nada muda,
+ meus amigos. Bora somar e dividir pela quantidade. Percebam que o valor informado em
+ cada coluna já representa o saldo anuais dos postos de trabalho.
+
+                          𝟎, 𝟒𝟐𝟏 + (−𝟏, 𝟓𝟑𝟒) + (−𝟏, 𝟑𝟐𝟔) + (−𝟎, 𝟎𝟏𝟏) + 𝟎, 𝟓𝟐𝟗
+                     𝑋=                                                       =
+                                                   𝟓
+                                       𝑋 = −0,3844 𝑚𝑖𝑙ℎõ𝑒𝑠 =
+
+                                                 𝑋 = −384.200
+
+
+ Gabarito: E
+
+ Q.04
+
+ Ao analisar os valores mensais pagos em impostos pelos contribuintes, percebeu-se
+ que um contribuinte em particular apresentava o maior desvio padrão de toda a base
+ de dados.
+
+ Isso significa que, em toda base de dados, os valores mensais pagos por esse
+ contribuinte eram os mais
+
+  a) altos.
+  b) baixos.
+  c) dispersos.
+  d) estranhos.
+  e) constantes.
+
+ Comentários:
+
+ Sabemos que quanto maior o desvio padrão, mais disperso aquela variável estará das
+ demais.
+
+ Gabarito: C
+
+ Q.05
+
+ Considere a tabela-1 e o enunciado seguintes para responder a questão.
+
+
+
+                                                        12
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística             14
+      www.estrategiaconcursos.com.br                                                     24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+                                                    Tabela-1
+
+ A tabela-1 de distribuição de frequência mostra a organização e síntese de 18
+ dados ”xi” colhidos como amostra para um estudo estatístico, onde a coluna “ƒi” é a
+ que registra os valores das frequências, enquanto a coluna (xi - 𝑥 )2 contém os valores
+ dos quadrados dos desvios.
+
+  Entre os números a seguir, o que mais se aproxima da variância amostral é:
+
+     a) 5.
+     b) 3.
+     c) 1.
+     d) 7.
+     e) 9.
+
+ Comentários:
+
+ A variância de uma amostra {x1,...,xn} de “n” elementos é definida como a soma ao
+ quadrado dos desvios dos elementos em relação à sua média 𝑥 dividido por (n - 1).
+
+                                                          (𝑥" − 𝑥)!
+                                               𝑠! = E
+                                                            𝑛−1
+
+ Sabemos que a média é 5, logo:
+
+                                           A = 16, B = 0 e C = 16
+
+                                        16 ∙ 2 + 4 ∙ 4 + 0 ∙ 6 + 4 ∙ 4 + 16 ∙ 2
+                                 𝑠! =
+                                                        18 − 1
+
+                                                    = 5,64 =
+
+ Gabarito: A
+
+ Q.06
+
+
+
+
+                                                        13
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               15
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ Em uma avaliação na qual é atribuído grau de zero a dez, um hotel obteve média 8 em
+ quarenta e nove avaliações. O avaliador seguinte atribuiu ao hotel nota zero. Para que
+ a média de notas do hotel passe a ser maior que 8, será necessário, no mínimo, a
+ avaliação de mais quantos hóspedes?
+
+  a) 1
+  b) 2
+  c) 3
+  d) 4
+  e) 5
+
+ Comentários:
+
+ De imediato, sabemos que o total pontos atribuídos pelos 49 hóspedes é dado por:
+
+                                      Total de Pontos = 49 ∙ 8 = 392
+
+ Vamos dar uma lembrada na pergunta:
+
+ Para que a média de notas do hotel passe a ser maior que 8, será necessário, no mínimo,
+ a avaliação de mais quantos hóspedes?
+
+ Vejam que ele nos pediu a quantidade mínima de hóspedes para que a nota fosse superior
+ a 8,0, portanto, temos que considerar que os próximos hóspedes darão nota máxima 10,0,
+ ok?
+
+ Para ficar simples, e não trabalharmos com desigualdades (maior que / menor que), vamos
+ considerar uma quantidade de hóspedes para uma média exatamente igual a 8,0, a seguir,
+ basta somar a nota de mais 1 hóspede apenas e iremos ter uma média superior a 8,0.
+
+ Quantidade de Hóspedes adicionada a anterior para obter média 8,0: Q
+
+ Quantidade Total de novos Hóspedes: Q + 50 (fiquem atentos ao camarada que deu
+ nota zero, 49 + 1 = 50)
+
+ Novo Somatório de Pontos: 392 + 10Q
+
+ Cálculo p/ Média igual a 8,0:
+
+                                               𝟑𝟗𝟐 + 𝟏𝟎𝑸
+                                                         = 𝟖, 𝟎
+                                                 𝑸 + 𝟓𝟎
+
+                                           392 + 10Q = 8 (Q + 50)
+
+                                           392 + 10Q = 8Q + 400
+                                                        14
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               16
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+                                            10Q – 8Q = 400 – 392
+
+                                                     2Q = 8
+
+                                                      Q=4
+
+ Cuidado: 4 representa a quantidade adicionada para que a média fosse exatamente 8,0,
+ como a questão pediu a quantidade para que a média fosse superior a 8,0, precisaremos
+ de mais 1 hóspede, portanto, nossa resposta é 5.
+
+ Gabarito: E
+
+ Q.07
+
+ Sabe-se que 30% dos clientes de um banco são do sexo masculino e os 70% restantes
+ são do sexo feminino. Entre os clientes do sexo masculino, a média do tempo de
+ vínculo com o banco é igual a 4 anos e, entre os clientes do sexo feminino, é igual a 6
+ anos.
+
+ Considerando-se todos os clientes, de ambos os sexos, qual é a média do tempo de
+ vínculo de cada um com o banco?
+
+  a) 5 anos
+  b) 5,3 anos
+  c) 6 anos
+  d) 5,4 anos
+  e) 5,7 anos
+
+ Comentários:
+
+ Uma questão simples de Média Aritmética Ponderada.
+
+ Você pode até sugerir um valor absoluto igual a 100 para resolver a questão, como se no
+ banco houvesse 100 clientes e fazer as contas, ou calcular os percentuais de acordo com
+ as informações dadas, assim:
+
+     o 30% de sexo masculino: 0,3 ∙ 4 = 1,2
+     o 70% do sexo feminino: 0,7 ∙ 6 = 4,2
+
+ Somando-se os valores, temos: 1,2 + 4,2 = 5,4
+
+ Ou, resolvendo a questão com a sugestão de 100 clientes, teríamos o seguinte:
+
+
+
+
+                                                        15
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística               17
+      www.estrategiaconcursos.com.br                                                       24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+                                                           𝟑𝟎 ∙ 𝟒 + 𝟕𝟎 ∙ 𝟔
+                               𝑴é𝒅𝒊𝒂 𝑷𝒐𝒏𝒅𝒆𝒓𝒂𝒅𝒂 =                           = 𝟓, 𝟒
+                                                                𝟏𝟎𝟎
+
+ Gabarito: D
+
+ Q.08
+
+ Analise a tabela sobre o consumo diário de água dos habitantes de um município de
+ Pernambuco.
+
+
+
+
+ Selecionando de forma aleatória um indivíduo do município em questão, o valor
+ esperado para seu consumo diário de água será de:
+    a) 84,36 L.
+    b) 86,12 L.
+    c) 87,5 L.
+    d) 90 L.
+    e) 112 L.
+
+ Comentários
+
+ O valor esperado para seu consumo diário será encontrado pelo valor médio de uma
+ determinada experiência se ela for repetida muitas vezes, também, conhecido por
+ esperança matemática ou expectância.
+
+     o    13 x 5 = 65
+     o    20 x 7 = 140
+     o    38 x 8 = 304
+     o    50 x 10 = 500
+     o    64 x 9 = 576
+     o    83 x 11 = 913
+     o    90 x 11 = 990
+     o    112 x 12 = 1344
+     o    120 x 15 = 1800
+     o    163 x 10 = 1630
+     o    175 x 2 = 350
+
+ O cálculo do valor esperado requer que todos os valores acima sejam somados e,
+ posteriormente, divididos por 100.
+ Assim, o valor esperado é igual a 8612/100 = 86,12 L.
+
+                                                        16
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística         18
+      www.estrategiaconcursos.com.br                                                 24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ Gabarito: B
+
+ Q.09
+
+ Uma variável aleatória discreta X tem função de probabilidade dada por:
+
+
+
+
+ A variância de X é igual a:
+    a) 0,16.
+    b) 0,64.
+    c) 1.
+    d) 1,2.
+    e) 1,8.
+
+ Comentários:
+
+ Sabemos que a variância é calculada da seguinte forma:
+
+
+
+
+ Em que E[X] é o valor esperado (média) e pode ser calculado da seguinte forma:
+
+
+
+
+ Gabarito: C
+
+ Q.10
+
+ A tabela a seguir representa pesquisa realizada em uma determinada praça do país,
+ para saber a faixa etária dos que por lá passavam, em um certo horário do dia.
+
+
+
+
+                                                        17
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística         19
+      www.estrategiaconcursos.com.br                                                 24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+
+ Qual o valor da média, mediana e moda dessa distribuição, respectivamente?
+ a) 26, 25 e 32.
+ b) 26, 32 e 25.
+ c) 26, 25 e 25.
+ d) 26, 25 e 45.
+ e) 26, 45 E 25
+
+ Comentários:
+
+                                      Idade (xi)          fi     Fi xi ∙ fi
+                                            15           12  12         180
+                                            18           25  37         450
+                                            25           32  69         800
+                                            31           20  89         620
+                                            34           14 103         476
+                                            45           8  111         360
+                                           Total        111            2886
+
+ A Moda (Mo) é idade que possui a maior frequência, essa tá fácil: Mo = 25
+
+ Vejam que só nos restam as alternativas ou “B” ou “C” como certas. No entanto, o valor
+ da média é o mesmo em ambas, seria perca de tempo encontrar o valor da média, não
+ daria para eliminar a reposta errada, ok?
+
+ O jeito é determinarmos a Mediana (Md). Temos 111 idades, logo a posição da mediana
+          ###$#
+ será:      !
+                  = 56ª
+
+
+          Tranquilamente, dá para vermos o que termo 56ª é o 25.
+
+ Gabarito: C
+
+ Q.11
+
+ Ao longo de cinco meses, a quantidade de carros vendidos por uma concessionária foi
+ de 17, 23, 35, 27 e 13. Considerando a aproximação de uma casa decimal, qual a média
+ de carros vendidos e seu desvio padrão, a cada mês, respectivamente?
+ a) 23 e 7,7.
+
+                                                        18
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística              20
+      www.estrategiaconcursos.com.br                                                      24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+  b) 23 e 6,4.
+  c) 24 e 7,2.
+  d) 24,5 e 6,5.
+  e) 6,5 e 24,5
+
+ Comentários:
+
+                             !" $ %& $ &' $ %" $ !&
+ Nossa média será de:                               = 𝟐𝟑
+                                       '
+
+                       ((𝟏𝟕 , 𝟐𝟑)𝟐 $ (𝟐𝟑 , 𝟐𝟑)𝟐 $ (𝟑𝟓 , 𝟐𝟑)𝟐 $ (𝟐𝟕 , 𝟐𝟑)𝟐 $ (𝟏𝟑 , 𝟐𝟑)𝟐
+ Desvio Padrão =                                                                         = 7,7
+                                                        𝟓
+
+ Gabarito: A
+
+ Q.12
+
+ Abaixo encontram-se os dados do Instituto Nacional de Pesquisas Espaciais (INPE)
+ sobre o desmatamento na Amazônia Legal em 2024, apresentados em forma de uma
+ tabela, e, à direita, um gráfico que os representaria em forma de colunas, produzido
+ por alunos de uma escola.
+
+
+
+
+  A respeito do gráfico e da tabela apresentados, é possível concluir que, em 2024, o:
+ a) Estado do Pará foi responsável por mais de 50% do desmatamento da Amazônia
+     Legal.
+ b) Desmatamento no estado do Pará foi mais do que o triplo do ocorrido em Rondônia.
+ c) Gráfico não traduz fielmente os dados da tabela em relação a pelo menos um dos
+     estados.
+ d) Estado do Tocantins foi o que menos desmatou no Brasil.
+
+ Comentários:
+
+ Em questões de gráficos, geralmente, o aluno precisa verificar alternativa por alternativa
+ para determinar a resposta correta. Antes de tentar fazer qualquer tipo de cálculo, tentem
+ resolver os itens que dependam apenas de observações.
+
+ Vejam o que diz a alternativa “C”:
+
+
+
+
+                                                        19
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                     21
+      www.estrategiaconcursos.com.br                                                             24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+     Gráfico não traduz fielmente os dados da tabela em relação a pelo menos um dos
+                                         estados.
+
+ Veja que Amapá, de acordo com a tabela, foi responsável por 24 km2 no desmatamento,
+ e no gráfico está responsável por aproximadamente 1000 km2.
+
+ Gabarito: C
+
+ Q.13
+
+ Em um conjunto de dados ordenados, a mediana é definida como:
+
+ a) A soma de todos os valores dividida pelo número total de observações.
+
+ b) O valor que mais se repete no conjunto de dados.
+
+ c) O valor central em um conjunto de dados ordenado.
+
+ d) A diferença entre o maior e o menor valor do conjunto.
+
+ e) A raiz quadrada da soma dos quadrados dos desvios em relação à média.
+
+ Comentários:
+
+ A mediana é uma medida de posição que identifica o valor que ocupa a posição central
+ em um conjunto de dados organizado em ordem crescente ou decrescente.
+
+     o Se o número de observações for ímpar, é o valor do meio.
+     o Se for par, é a média dos dois valores centrais.
+
+ Gabarito: C
+
+ Q.14
+
+ Qual das seguintes variáveis é classificada corretamente como uma variável qualitativa
+ nominal?
+
+ a) Idade de uma pessoa.
+
+ b) Peso de um atleta.
+
+ c) Cor dos olhos de uma pessoa.
+
+ d) Temperatura em graus Celsius.
+
+
+                                                        20
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística              22
+      www.estrategiaconcursos.com.br                                                      24
+
+                                   https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 03
+
+
+
+ e) Rendimento mensal de um trabalhador.
+
+ Comentários:
+
+ A variável "cor dos olhos" é uma variável qualitativa nominal, pois representa uma
+ categoria que não possui ordem lógica entre seus valores (por exemplo, azul, verde,
+ castanho).
+
+ Variáveis qualitativas são categóricas e podem ser nominais (sem ordem) ou ordinais (com
+ ordem).
+
+ Gabarito: C
+
+ Q.15
+
+ Dada a distribuição de notas de uma turma em uma prova (6, 7, 7, 8, 9), o desvio padrão
+ é uma medida que:
+
+ a) Indica o valor mais frequente na distribuição.
+
+ b) Mostra o valor central da distribuição.
+
+ c) Calcula a média dos valores mais altos.
+
+ d) Mede o grau de dispersão dos valores em torno da média.
+
+ e) Indica a soma dos valores dividida pelo total de observações.
+
+ Comentários:
+
+ O desvio padrão é uma medida de dispersão que indica o quanto os valores de um
+ conjunto de dados estão afastados da média.
+
+ Quanto maior o desvio padrão, maior é a variação dos dados em relação à média.
+
+ Gabarito: D
+
+
+
+
+                                                        21
+      Receita Federal (Analista Tributário) Passo Estratégico de Estatística                23
+      www.estrategiaconcursos.com.br                                                        24
+
+                                   https://t.me/KakashiAssinaturasBot
+

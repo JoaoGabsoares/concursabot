@@ -1,0 +1,1971 @@
+                                                    Aula 06
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                        02 de Novembro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 06
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Operações Diversas - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - Operações Diversas
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - Operações Diversas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            22
+
+4) Questões Comentadas - Operações Diversas - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            23
+
+5) Questionário de Revisão - Operações Diversas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            31
+
+6) Lista de Questões - Operações Diversas - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            34
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           38
+
+                                                             https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+                                            APRESENTAÇÃO
+Olá! Hoje estudaremos as Operações Diversas. Representa um assunto mais avançado, mas que tem sido
+alvo de muitas cobranças em provas de concursos. Tenho certeza que vocês irão gostar.
+
+
+                     Faça contato conosco pelas redes sociais!
+
+                               @profjuliocardozo @filipemagalhaes30
+
+             O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise estatística refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV,
+exclusivamente para o nível superior.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                          Grau de incidência em
+                                                                                           concursos similares:
+                                       Assunto
+                                                                                                  FGV
+     Ajuste a Valor Presente                                                                      50%
+     Contas a receber e Perda com Créditos de Liquidação Duvidosa (PCLD)                          39%
+     Empréstimos e Financiamentos                                                                 26%
+     Ativos Decorrentes De Aplicações Financeiras                                                 21%
+     Duplicatas descontadas                                                                       11%
+     Juros sobre capital próprio                                                                   3%
+     Total                                                                                       100%
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                           3
+         www.estrategiaconcursos.com.br                                                                           38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+          ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                       MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao
+mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Operações Financeiras
+
+Comecemos a falar sobre as operações financeiras, como por exemplo, vendas a prazo com emissão de
+duplicatas, desconto de duplicatas, aplicações financeiras e contabilização de empréstimos.
+
+Venda A Prazo, Emissão De Duplicata
+
+A duplicata é o título de crédito emitido com base em obrigação proveniente de compra e venda comercial
+ou prestação de certos serviços. Rege-se pela Lei 5.474/1968.
+
+É conhecida por ser um título causal, ou seja, encontra-se vinculada à relação jurídica que lhe dá origem que
+é a compra e venda mercantil.
+
+Na contabilidade, como trabalhamos com o regime de competência, a receita de venda deve ser reconhecida
+na entrega da mercadoria, independentemente do recebimento, pois, neste momento, há a transferência
+da titularidade (a chamada tradição).
+
+Assim, quando realizamos uma venda a prazo (e entregamos as mercadorias), faremos alguns lançamentos
+contábeis.
+
+Por exemplo, venda por R$ 1.000,00 de mercadorias que custaram R$ 700,00, sem a incidência de tributos,
+para recebimento em 30 dias.
+
+    •   Pelo registro da venda:
+
+D – Clientes/Duplicatas a receber (ativo)                          1.000,00
+C – Receita de vendas (resultado)                                  1.000,00
+
+    •   Pela baixa no estoque:
+
+D – Custo da mercadoria vendida (resultado)                          700,00
+C – Estoque de mercadorias para revenda (ativo)                      700,00
+
+    •   Quando do recebimento da venda:
+
+D – Caixa/Bancos (ativo)                                           1.000,00
+C – Clientes/Duplicatas a receber (ativo)                          1.000,00
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   4
+         www.estrategiaconcursos.com.br                                                                   38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+- Duplicatas Descontadas
+
+A conta duplicatas descontadas é uma conta do passivo e não uma retificadora de clientes/duplicatas a
+receber.
+
+Descontar uma duplicata é, grosso modo, uma operação em que pegamos um adiantamento do valor das
+duplicatas com o banco, deixando-as em garantia.
+
+Vejamos a contabilização:
+
+Momento do desconto da duplicata:
+
+D - Bancos Conta Movimento (Ativo Circulante)
+D - Encargos Financeiros a Transcorrer (Ret. do Passivo Circulante)
+C - Duplicatas Descontadas (Passivo Circulante)
+
+Conforme o período da competência, lançaremos os juros:
+
+D - Despesa de Juros (Resultado)
+C - Encargos Financeiros a Transcorrer (Passivo exigível)
+
+Posteriormente, quando o cliente pagar:
+
+D - Duplicatas Descontadas (Passivo exigível)
+C - Duplicatas a Receber (Ativo circulante)
+
+Caso não pague, o banco vai devolver a duplicata para que o cliente se vire, e pegar o seu dinheiro de volta.
+O lançamento, neste caso, será:
+
+D – Duplicatas Descontadas (Passivo exigível)
+C – Caixa/Bancos (Diminuindo o caixa)
+
+- Operações Com Cheque
+
+O recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa. Todavia, o pagamento
+em cheque é feito através de crédito na conta bancos conta movimento.
+
+
+
+                                                    Pagamento                      Sai do banco
+                         Cheque
+                                                   Recebimento                    Entra no caixa
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                    5
+         www.estrategiaconcursos.com.br                                                                   38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+    Aula 06
+
+
+
+
+-    Empréstimos e Financiamentos:                                  Apropriação,           Principal,   Juros
+      Transcorridos e a Transcorrer.
+
+Atenção! Sempre que o valor total da carga de juros for conhecido quando da apropriação do empréstimo,
+lançaremos como encargos financeiros a transcorrer.
+
+A conta encargos financeiros a transcorrer registra não só o valor dos juros, mas quaisquer despesas
+incorridas e diretamente relacionadas à captação dos recursos, devendo ser apropriada pelo regime de
+competência. Vejamos a contabilização:
+
+Recebimento do principal
+
+D – Bancos conta movimento (ativo)
+D – Encargos financeiros a transcorrer (retificadora passivo)
+C – Empréstimos a pagar (passivo)
+
+Apropriação dos juros
+
+Com o transcurso de um período, lançaremos:
+
+D – Encargos financeiros (resultado)
+C – Encargos financeiros a transcorrer (retificadora passivo)
+
+Por fim, com o pagamento do principal (a conta encargos financeiros a transcorrer vai zerar com o tempo),
+lançaremos:
+
+D – Empréstimos a pagar (passivo)
+C – Bancos conta movimento (ativo)
+
+Indo mais fundo! Os encargos financeiros têm como contrapartida conta de despesa, exceto no caso de
+ativos qualificáveis.
+
+Ativos qualificáveis são aqueles que demandam substancial tempo para ficarem prontos para o uso que se
+pretende dar. Se, por exemplo, está sendo construído um grande navio, que necessita de recursos de
+financiamento para a sua fabricação, tendo juros embutidos no valor de R$ 50.000,00, lançaremos:
+
+D – Ativos em construção – encargos financeiros (ANC – Imob.) 50.000,00
+C – Financiamentos a pagar (PC ou PNC)                                       50.000,00
+
+Portanto, os encargos financeiros para ativos qualificáveis, que são aqueles que demoram um período de
+tempo substancial para ficarem pronto, devem ir para o custo do ativo e não para o resultado, como é a
+regra.
+
+Algumas definições são importantes, previstas no CPC 08 (R1) - Custos de Transação e Prêmios na Emissão
+de Títulos e Valores Mobiliários:
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   6
+          www.estrategiaconcursos.com.br                                                                   38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+Custos de transação são somente aqueles incorridos e diretamente atribuíveis às atividades necessárias
+exclusivamente à consecução das transações. São, por natureza, gastos incrementais, já que não existiriam
+ou teriam sido evitados se essas transações não ocorressem.
+
+          Exemplos de custos de transação são:
+
+          i) gastos com elaboração de prospectos e relatórios;
+
+           ii) remuneração de serviços profissionais de terceiros (advogados, contadores, auditores,
+          consultores, profissionais de bancos de investimento, corretores etc.);
+
+          iii) gastos com publicidade (inclusive os incorridos nos processos de road-shows);
+
+          iv) taxas e comissões;
+
+          v) custos de transferência;
+
+          vi) custos de registro etc.
+
+Custos de transação não incluem ágios ou deságios na emissão dos títulos e valores mobiliários, despesas
+financeiras, custos internos administrativos ou custos de carregamento.
+
+Despesas financeiras são os custos ou as despesas que representam o ônus pago ou a pagar como
+remuneração direta do recurso tomado emprestado do financiador derivado dos fatores tempo, risco,
+inflação, câmbio, índice específico de variação de preços e assemelhados.
+
+Incluem: juros, atualização monetária, variação cambial.
+
+Não incluem: taxas, descontos, prêmios, despesas administrativas, honorários.
+
+Encargos financeiros são a soma das despesas financeiras, dos custos de transação, prêmios, descontos,
+ágios, deságios e assemelhados, a qual representa a diferença entre os valores recebidos e os valores pagos
+(ou a pagar) a terceiros.
+
+Algumas observações:
+
+Valor Inicial = Captação Líquida do empréstimo
+Encargos do Período = Valor Inicial x Taxa Efetiva
+Saldo Final do período = Saldo Inicial + Encargos do Período – Pagamento Efetuado
+
+Algumas questões pedem quanto foi a despesa financeira do período, mas acabam pedindo os encargos
+financeiros do período (despesas financeiras + custos de transação).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  7
+         www.estrategiaconcursos.com.br                                                                 38
+
+                                        https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+- Variações Monetárias
+
+Os empréstimos representam obrigações da empresa. Contudo, sabemos lá da Matemática Financeira que
+o dinheiro não é moeda constante no tempo, isto é, sofre variações.
+
+Uma espécie desta variação é a atualização monetária. A variação monetária não deve ser tratada como
+encargo financeiro. Enquanto dissemos que os encargos financeiros são compostos pelos juros e demais
+despesas incorridas e diretamente relacionadas à captação de recursos, a variação monetária se trata, tão-
+somente, de atualização da dívida, caso essa condição tenha sido acordada.
+
+O reconhecimento da variação monetária será tido através do seguinte lançamento contábil:
+
+D – Variação monetária passiva (despesa no resultado)
+C – Empréstimos/Financiamentos a pagar
+
+Há que se ressaltar ainda que o registro é feito diretamente à conta que registra o valor do empréstimo. Não
+há necessidade de se separar em subgrupos, tal como fazemos com os encargos.
+
+- Variação Cambial
+
+Em algumas situações, as empresas podem efetuar operações em moeda estrangeira, como por exemplo, a
+aquisição de mercadorias à vista ou a prazo, a aquisição de ativos imobilizados, ou até mesmo, obter
+empréstimos ou financiamentos em outras moedas, tais como, dólar, euro, etc.
+
+Nesse sentido, podemos ter variações na taxa de câmbio nas operações envolvidas e precisamos conhecer
+o tratamento contábil adequado para essas situações.
+
+Antes de conhecermos o assunto, algumas definições previstas nas normas contábeis são importantes:
+
+          Variação cambial é a diferença resultante da conversão de um número específico de
+          unidades em uma moeda para outra moeda, a diferentes taxas cambiais.
+          Taxa de câmbio é a relação de troca entre duas moedas.
+
+Imaginem, por exemplo, que a Cia Endividada contraiu em 26/01/x0 um empréstimo de $ 1.000.000,00 (um
+milhão de dólares) a uma taxa de R$ 4,00. Agora, imaginem que no dia 31/12/x0, quando do fechamento
+das demonstrações contábeis, a taxa de câmbio tenha passado para R$ 5,00. Qual o tratamento contábil
+para essa variação? É o que veremos a seguir.
+
+Disponibilidades
+
+De acordo com o que prevê o FIPECAFI, se a empresa tiver valores de disponibilidades em moeda
+estrangeira, como por exemplo, dinheiro em espécie ou depósitos em bancos estrangeiros, eles devem ser
+controlados separadamente do valor em moeda nacional. Ocorrendo variações cambiais, negativas ou
+positivas, elas devem ser lançadas no resultado do exercício no grupo Despesas e Receitas Financeiras.
+Exemplo:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   8
+         www.estrategiaconcursos.com.br                                                                  38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+Percebam que a variação cambial pode trazer benefícios ou prejuízos para a entidade, isto é, pode ser uma
+receita ou uma despesa, de acordo com a variação ocorrida no câmbio. Em síntese:
+
+                                                                            Receita
+                                                     Positiva
+                                                                          Financeira
+                              Variação
+                              Cambial
+                                                                           Despesa
+                                                    Negativa
+                                                                          Financeira
+
+
+Passivos em Moeda Estrangeira
+
+Mas se ao invés de disponibilidades a empresa tivesse uma dívida em moeda estrangeira, como por exemplo,
+um empréstimo? Como deveríamos proceder? A Lei 6404/76 nos apresenta o seguinte:
+
+          Critérios de Avaliação do Passivo
+
+          Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes
+          critérios:
+
+          II - as obrigações em moeda estrangeira, com cláusula de paridade cambial, serão
+          convertidas em moeda nacional à taxa de câmbio em vigor na data do balanço;
+
+Ou seja, as obrigações que a empresa possui em moeda estrangeira devem ser convertidas em real usando
+a taxa de câmbio em vigor no momento do fechamento do balanço patrimonial.
+
+Para fecharmos o assunto, na aquisição de ativos do exterior em moeda estrangeira, como estoques e ativos
+imobilizados, também está sujeita à variação cambial.
+
+Apenas destacamos que a variação cambial ocorrida entre o intervalo de tempo da saída da mercadoria ou
+do imobilizado do exterior até o momento em que ocorra a sua chegada, desembaraço e o recebimento pela
+empresa deve ser incorporada ao seu custo de aquisição.
+
+Agora, depois desse momento, a variação cambial ocorrida não irá mais alterar o valor dos ativos, apenas o
+passivo com fornecedores e será lançada no resultado do exercício.
+
+                                                                Empresa assume o
+ Saída do ativo do Exterior                                         controle
+
+
+                                Variação Cambial = entra                                  Variação Cambial = não
+                                        no custo                                          afeta o custo (resultado)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                               9
+         www.estrategiaconcursos.com.br                                                                               38
+
+                                         https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+- Despesas E Receitas Financeiras
+
+Entre as receitas e despesas financeiras, destacam-se juros, descontos, atualizações monetárias, entre
+outras.
+
+As despesas ou receitas financeiras incluem os juros. Todavia, segundo o FIPECAFI a variação monetária deve
+ser classificada separadamente, exceto se for uma atualização monetária prefixada, hipótese em que será
+classificada como despesa ou receita financeira.
+
+          Curiosidade! Além disso, uma pegadinha recorrente em concursos é a conta juros sobre
+          capital próprio. Embora figure com o nome de juros, esta conta não é uma despesa
+          financeira, mas, sim, destinação do lucro, como forma de remuneração do capital dos
+          sócios.
+
+As principais contas de receita financeira são:
+
+1) Descontos obtidos: São aqueles provenientes de pagamentos antecipados de duplicatas. Por exemplo, a
+empresa ALFA tem uma duplicata de R$ 1.000,00 a pagar, e, caso liquide com 30 dias de antecedência, obterá
+um desconto de 10%.
+
+2) Juros ativos, juros recebidos, juros auferidos: São os juros que a empresa obtém de seus clientes, como
+remuneração de seu capital, que está sendo utilizado por terceiros ou atraso de pagamentos nas obrigações
+com a empresa.
+
+3) Receitas sobre outros investimentos temporários: Registra as receitas obtidas em investimentos como,
+por exemplo, letra de câmbio.
+
+4) Aluguéis ativos: Representa os aluguéis devidos à empresa.
+
+Já as principais contas de despesas financeiras são:
+
+1) Juros passivos, juros de empréstimos: representam os juros devidos em operações com terceiros.
+
+2) Descontos concedidos, desconto financeiro, desconto condicional concedido:
+
+Atenção! Não podemos confundir o desconto condicional com o incondicional.
+
+3) Comissões passivas e despesas bancárias: São despesas cobradas pelos bancos e instituições financeiras,
+sejam em operações de desconto, seja em concessões de crédito.
+
+Além destas, temos as variações monetárias, que podem ser ativas ou passivas. O FIPECAFI manda que sejam
+classificadas em grupo à parte, e não como despesa ou receita financeira. Todavia, as bancas não o fazem.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 10
+         www.estrategiaconcursos.com.br                                                                 38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+Ajuste a Valor Presente
+
+Ajustar algo a valor presente significa trazer um valor que está previsto para se realizar em data futura a
+termos monetários de hoje.
+
+As vendas e as compras, quando feitas a prazo, inserem no valor da operação, juros e encargos financeiros
+referentes à remuneração de um capital no futuro.
+
+Assim, a contabilização pelo valor nominal faz com que essas operações sejam demonstradas de forma
+superavaliada no Balanço Patrimonial. Fica difícil, também, diferenciar o resultado financeiro do resultado
+realmente apurado com operações da atividade empresarial. O ajuste a valor presente (AVP) veio para que
+possamos dirimir esse problema.
+
+                              Elementos    Período                      AVP?
+                                 Ativo  Não circulante        Ajustados a valor presente
+                                        Circulante            Se houver efeito relevante
+                                Passivo Não circulante        Ajustados a valor presente
+                                        Circulante            Se houver efeito relevante
+
+Objetivos do ajuste a valor presente:
+
+- Evitar que as demonstrações sejam superavaliadas.
+- Diferenciar o resultado financeiro do resultado com as operações da atividade.
+
+No segundo caso, a contabilização inclui uma parcela financeira, devido ao pagamento parcelado. Com isso,
+o preço do equipamento ficou inflado por despesas financeiras.
+
+Ajuste a valor presente x custo do estoque (ou imobilizado, ou intangível):
+
+Em diversos pronunciamentos do CPC (estoque, imobilizado, intangível), encontramos a seguinte
+determinação:
+
+          No caso de venda a prazo, os juros e despesas financeiras não devem integrar o custo do
+          estoque (ou imobilizado, ou intangível). Devem ser apropriados como despesas
+          financeiras ao longo do prazo da operação, exceto no caso de financiamento de ativos
+          qualificáveis.
+
+Mensuração contábil
+
+A mensuração contábil a valor presente deve ser aplicada no reconhecimento inicial de ativos e passivos.
+Depois disso, não mais se altera, a não ser que haja alguma renegociação, modificando as condições iniciais.
+
+Valor presente x Valor justo:
+
+Faz-se necessário observar que a aplicação do conceito de ajuste a valor presente nem sempre equipara o
+ativo ou o passivo a seu valor justo. Por isso, valor presente e valor justo não são sinônimos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  11
+         www.estrategiaconcursos.com.br                                                                  38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+     Aula 06
+
+
+
+Por exemplo, a compra financiada de um veículo por um cliente especial que, por causa dessa situação,
+obtenha taxa não de mercado para esse financiamento, faz com que a aplicação do conceito de valor
+presente com a taxa característica da transação e do risco desse cliente leve o ativo, no comprador, a um
+valor inferior ao seu valor justo; nesse caso prevalece contabilmente o valor calculado a valor presente,
+inferior ao valor justo, por representar melhor o efetivo custo de aquisição para o comprador. Em
+contrapartida o vendedor reconhece a contrapartida do ajuste a valor presente do seu recebível como
+redução da receita, evidenciando que, nesse caso, terá obtido um valor de venda inferior ao praticado no
+mercado.
+
+Lembramos que Valor justo é valor pelo qual um ativo pode ser negociado entre partes interessadas,
+conhecedoras do negócio e independentes entre si, com ausência de fatores que pressionem para a
+liquidação da transação ou que caracterizem uma transação compulsória. (definição usada nos
+pronunciamentos do CPC)
+
+Vamos ver como é feita a contabilização do AVP?
+
+Venda a Prazo:
+
+Passo a passo para a resolução:
+
+1) Encontrar o valor nominal (valor de venda), que conterá os juros.
+2) Encontrar juros e prazo (que devem estar na mesma unidade).
+3) Trazer a valor presente pela fórmula de juros compostos, da matemática financeira:
+
+                                       Valor nominal = Valor presente x (1 + i)n
+
+4) Fazer os lançamentos:
+
+Contabilização:
+
+•     No momento inicial
+
+D – Contas a Receber (RLP)
+C – Ajuste a VP (ANC – Realizável a LP – conta retificadora)
+C – Receita de Vendas (resultado)
+
+ •      Mês a mês
+
+Passado um mês, há a contabilização de uma receita financeira, apropriada por competência, e seguindo o
+método exponencial:
+
+D – Ajuste a VP (RLP)
+C – Receita Financiamento de vendas (Resultado)
+
+E assim mês a mês, até o recebimento.
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             12
+           www.estrategiaconcursos.com.br                                                             38
+
+                                        https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+    Aula 06
+
+
+
+
+Compra a Prazo:
+
+•    No momento inicial:
+
+D – Mercadoria (AC)
+D – Ajuste a valor presente sobre fornecedores (PNC - ELP)
+C – Fornecedores (PNC - ELP)
+
+•    Mês a mês
+
+Após um mês, apropriamos os encargos financeiros:
+
+D – Despesa Financeira – financiamento de compras (resultado)
+C - Ajuste a valor presente sobre fornecedores (PNC - ELP)
+
+Ao final dos meses, a conta “ajuste a valor presente sobre fornecedores” estará zerada, e todo o seu valor
+terá sido transferido para resultado.
+
+Vamos supor que, após um ano, as condições de mercado se alterem e a taxa de juros passe para 1% ao
+mês.
+
+Nesse caso, devemos alterar a taxa de juros que será utilizado no restante desta operação? Não. A taxa de
+juros é definida no início da operação, e não mais se altera, a não ser que haja uma renegociação.
+Naturalmente, as novas operações serão calculadas pela taxa de juros mais adequada na época do seu
+reconhecimento.
+
+
+Juros Sobre Capital Próprio
+
+Sabe-se que os dividendos representam a forma principal de remuneração do capital dos sócios. Ao término
+do exercício, a regra é que se distribua parcela do lucro aos acionistas, como forma de compensação por
+empregarem seu capital em determinada atividade de risco.
+
+Outra alternativa de remuneração às ações, como forma de atrair capital para a entidade, é o pagamento de
+juros sobre capital próprio (JSCP). Atualmente, os juros sobre capital próprio têm o mesmo tratamento que
+possuem os dividendos.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               13
+          www.estrategiaconcursos.com.br                                                               38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+    Aula 06
+
+
+
+
+Depósitos Judiciais
+
+A conta depósitos judiciais é uma conta do ativo. Vez ou outra aparece em provas.
+
+Conceitua-se esta conta como valores depositados por ordem judicial e que estejam subordinados ou
+vinculados a uma causa ainda não transitada em julgado, ou seja, que esteja em pendência.
+
+Suponha-se, assim, que a empresa ALFA seja devedora em determinada ação trabalhista. Como garantia o
+magistrado resolve realizar o bloqueio de alguns de seus bens, através do BACEN-JUD, no montante de R$
+15.000,00. O lançamento de tal situação ficará do seguinte modo:
+
+D – Bloqueio judicial/depósito judicial (AC ou ANC RLP)           15.000,00
+C – Bancos conta movimento (ativo)                                15.000,00
+
+Outro exemplo é o caso clássico da discussão de tributos em juízo. Na disputa, pode ou não haver o depósito
+do montante discutido. Suponha-se que a empresa ALFA foi autuada pelo fisco em R$ 2.000.000,00, levando
+a lide ao Poder Judiciário. Tal fato deverá ser contabilizado do seguinte modo:
+
+D – Despesas com multa tributárias (resultado)                2.000.000,00
+C – Obrigações tributárias a pagar(passivo)             2.000.000,00
+
+Existindo o depósito (para se esquivar do pagamento de juros de mora), contabilizaremos pelo seguinte
+lançamento:
+
+D – Depósitos judiciais (AC ou ANC-RLP)                     2.000.000,00
+C – Bancos conta movimento                                  2.000.000,00
+
+Com o julgamento do mérito, as decisões podem ser em dois sentidos.
+
+•   Favorável à empresa – nenhuma obrigação é devida
+
+Lançamentos:
+
+D – Bancos conta movimento                                2.000.000,00
+C – Depósitos judiciais                                   2.000.000,00
+D – Obrigações tributárias a pagar                        2.000.000,00
+C – Reversão de despesas com multas tributárias 2.000.000,00
+
+•   Desfavorável à empresa – a obrigação é devida
+
+Lançamentos:
+
+D – Obrigações tributárias a pagar                        2.000.000,00
+C – Depósitos judiciais                                   2.000.000,00
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                14
+          www.estrategiaconcursos.com.br                                                                38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+Aplicações Financeiras
+
+Veremos, a seguir, dois aspectos que costumam levantar dúvidas. O primeiro refere-se à contabilização dos
+rendimentos financeiros.
+
+Quando o valor dos juros já é conhecido no momento da aplicação (juros pré-fixados), devemos incluí-los
+na contabilização, como juros ativos a vencer (ou rendimentos a apropriar ou juros a apropriar).
+
+Juros pós–fixados: neste caso, não sabemos inicialmente qual será o valor dos rendimentos. Portanto, não
+usamos a conta retificadora “juros a transcorrer”.
+
+
+Ativos Decorrentes De Aplicações Financeiras
+
+Mapa dos investimentos/aplicações financeiras:
+                                                         SIM                                                  SIM
+                                                                                                                     Método da
+                                         É uma                    Ativo não       É coligada, controlada,
+                  Aplicação                                                                                         equivalência
+                                      participação               circulante -   sociedade do mesmo grupo
+                  financeira                                                                                        patrimonial
+                                     permanente?               Investimentos     ou sob controle comum?
+                                                                                                                       (MEP)
+
+
+                                   NÃO                                          NÃO
+
+
+                                    É de curto ou de
+                                                                                   Valor Justo ou custo
+                                      longo prazo?
+
+
+
+
+                                                               Longo prazo:
+                 Curto prazo:
+                                                                 Ativo não
+                Ativo circulante
+                                                                 cirulante
+
+                                                                                  Destinadas à negociação
+                                                                                imediata ou disponível para         Valor justo
+                                     Demais casos:
+                                                                                       venda futura?
+                                       Valor de
+                                    aquisição ou de
+                                      emissão (-)
+                                     Perda ao valor
+
+
+
+
+Os instrumentos financeiros são classificados em quatro grandes grupos:
+
+                                                       Empréstimos/Recebíveis normais
+    • Valor original - Ajuste perda - AVP
+                                   Ativos Financeiros Mensurados Ao Custo Amortizado
+    • Valor original + Encargos ou rendimentos
+             Ativo Financeiro Mensurado Ao Valor Justo Por Meio De Outros Resultados Abrangentes.
+    • Juros: Resultado . Ajuste a Valor justo no Patrimônio Líquido
+              Ativo Financeiro Mensurado Ao Valor Justo Por Meio Do Resultado (categoria residual)
+    • Encargos: resultado; Ajustes ao valor justo: Resultado
+
+Vamos examinar a avaliação e a contabilização, através do seguinte exemplo:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                            15
+         www.estrategiaconcursos.com.br                                                                                            38
+
+                                             https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+        Aula 06
+
+
+
+Suponha que uma determinada empresa adquiriu 3 títulos do Governo, ao valor unitário de 10.000 cada
+um, com a seguinte finalidade:
+
+    •    Título 1 – será avaliado ao custo amortizado.
+    •    Título 2 – será avaliado a “valor justo por meio de outros resultados abrangentes” (no Patrimônio Líquido
+         – PL).
+    •    Título 3 – será avaliado a “valor justo por meio de Resultado”.
+
+Lembramos que os títulos também podem ser chamados assim:
+
+•       Título 1 – para receber fluxo de caixa
+•       Título 2 – para receber fluxo de caixa e venda
+•       Título 3 – para negociação (categoria residual)
+
+Contabilização no momento da compra:
+
+D – Instrumentos financeiros – ao custo amortizado                    10.000
+D – Instr. Finan. – valor justo – resultado                           10.000
+D – Instr. Finan. – valor justo – resultados abrangentes              10.000
+C – Caixa                                                              30.000
+
+Situação 1: Valor Justo Maior Que O Valor Do Título
+
+No final do ano, tais títulos apresentam um rendimento de juros de 600 reais, os quais serão pagos no
+vencimento do título, e o seu valor justo (valor de mercado) é de 11.000 reais.
+
+Contabilização:
+
+1 – “Custo amortizado” ou “para receber fluxo de caixa”:
+
+D – Instrumentos financeiros ao custo amortizado 600
+C – Receita de juros (resultado)                                      600
+
+Neste caso, não há avaliação a valor justo. O título fica registrado “pela curva”, ou “pelo custo amortizado”,
+ou seja, pelo valor pago mais os rendimentos apropriados por competência.
+
+2 – Ao Valor Justo por meio de Resultado Abrangente (PL) ou “Para receber fluxo de caixa e venda”.
+
+    •    Pelo rendimento:
+
+D – Instr. Finan. ao valor justo – result. Abrangente                       600
+C – Receita de juros (resultado)                                            600
+
+
+
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   16
+              www.estrategiaconcursos.com.br                                                                   38
+
+                                           https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+    Aula 06
+
+
+
+Com este lançamento, o título fica registrado pelo valor de 10.600. Mas, como o valor justo é de 11.000,
+precisamos reconhecer uma receita de 400 reais, reconhecida em outros resultados abrangentes (no
+Patrimônio Líquido – PL), na conta Ajuste de Avaliação Patrimonial (AAP):
+
+•    Pela avaliação a valor justo:
+
+D – Instr. Finan. ao valor justo – result. Abrangente               400
+C – Ajuste de Avaliação Patrimonial (PL)                            400
+
+Vejam que nesta hipótese, a diferença vai para a conta ajuste de avaliação patrimonial no PL.
+
+Portanto, você pegará o valor principal, somará com os encargos e rendimentos. Feito isso, se o valor de
+mercado é maior do que o custo amortizado, você debita o título (aumentando o ativo) e credita a conta
+ajuste de avaliação patrimonial, que pertence ao patrimônio líquido.
+
+3 - Ao Valor Justo por meio de Resultado (DRE) ou “Para negociação” (também chamado de “Categoria
+Residual”).
+
+•    Pelo rendimento:
+
+D – Instr. Finan. – valor justo – resultado                       600
+C – Receita de juros (resultado)                                  600
+
+•    Pela avaliação a valor justo:
+
+D – Instr. Finan. – valor justo – resultado                       400
+C – Receita de juros (resultado)                                  400
+
+Situação 2: Valor Justo Menor Do Que O Valor Do Título.
+
+O valor justo pode ser menor que o valor do título. Por exemplo, vamos supor que o valor justo do exemplo
+anterior seja 10.500.
+
+1 – “Custo amortizado” ou “para receber fluxo de caixa”: Não há alteração, pois esta categoria não é avaliada
+pelo valor justo.
+2 - Ao Valor Justo por meio de Resultado Abrangente (PL) ou “Para receber fluxo de caixa e venda”.
+
+•    Pelo rendimento:
+
+D – Instr. Finan. ao valor justo – result. Abrangente             600
+C – Receita de juros (resultado)                                  600
+
+Com este lançamento, o título fica registrado pelo valor de 10.600. Mas, como o valor justo é de 10.500,
+precisamos reconhecer uma redução de 100 reais, na conta AAP (Ajuste de Avaliação Patrimonial), no PL:
+
+•    Pela avaliação a valor justo:
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  17
+          www.estrategiaconcursos.com.br                                                                  38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+    Aula 06
+
+
+
+D – Ajuste de Avaliação Patrimonial (PL)                                100
+C – Instr. Finan. ao valor justo – result. Abrangente                   100
+
+3 – Ao Valor Justo por meio de Resultado (DRE) ou “Para negociação” (também chamado de “Categoria
+Residual”).
+
+•    Pelo rendimento:
+
+D – Instr. Finan. – valor justo – resultado               600
+C – Receita de juros (resultado)                          600
+
+•    Pela avaliação a valor justo:
+
+D – Ajuste a valor justo (desp. Financeira) Resultado 100 ==219a34==
+
+
+
+
+C – Instr. Finan. – valor justo – resultado                            100
+
+
+Provisão Para Devedores Duvidosos (PDD)
+
+Sabemos que as empresas, para sobreviver, precisam realizar vendas a prazo. Todavia, nem sempre ela acaba
+por receber todo o valor vendido. Se uma entidade do varejo vende, por exemplo, R$ 1.000.000,00, é quase
+certo que ela levará algum calote.
+
+Por isso surge a provisão para devedores duvidosos. Esse nome, contudo, vem sendo substituído
+gradativamente em provas de concursos.
+
+A conta perdas estimadas com créditos de liquidação duvidosa é retificadora da conta clientes/duplicatas
+a receber.
+
+Contabilização:
+
+Uma empresa vendeu R$ 100.000,00 a prazo, e constitui provisão para devedores duvidosos de 3%.
+
+Na venda dos R$ 100.000,00:
+
+D – Clientes (ativo)                                                                100.000,00
+C – Receita de vendas (resultado)                                                   100.000,00
+
+Razonetes:
+
+                             C lientes (A tivo)                               Receita Vendas
+                           100.000,00                                                  100.000,00
+
+
+
+Na constituição da provisão para devedores duvidosos:
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              18
+          www.estrategiaconcursos.com.br                                                              38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+D – Despesa com provisão para devedores duvidosos (despesa) 3.000,00
+C – Provisão para devedores duvidosos (retificadora do ativo)                    3.000,00
+
+Razonetes:
+
+                             D espesa com PD D                      PD D (Ret. A tivo)
+                             3.000,00                                           3.000,00
+
+
+
+Primeira hipótese: perdeu exatamente os R$ 3.000,00 e recebeu R$ 97.000,00.
+
+D – Bancos (ativo)                                                               97.000,00
+D - Provisão para devedores duvidosos (retificadora do ativo)                     3.000,00
+C – Clientes (ativo)                                                            100.000,00
+
+Razonetes:
+
+                               C lientes (A tivo)                       PD D (Ret. A tivo)
+                           100.000,00       100.000,00                 3.000,00       3.000,00
+
+
+                              Bancos (A tivo)
+                          97.000,00
+
+
+
+Segunda hipótese: perdemos somente R$ 2.000,00, recebendo R$ 98.000,00.
+
+D – Bancos (ativo)                                                               98.000,00
+D - Provisão para devedores duvidosos (retificadora do ativo)                    2.000,00
+C – Clientes (ativo)                                                            100.000,00
+
+Razonetes:
+
+                                C lientes (A tivo)                      PD D (Ret. A tivo)
+                            100.000,00       100.000,00                2.000,00       3.000,00
+                                                                                      1.000,00
+
+                               Bancos (A tivo)
+                           98.000,00
+
+
+
+Vejam que sobrou na conta provisão para devedores duvidosos o valor de R$ 1.000,00.
+
+Assim, restam duas possibilidades para a empresa:
+
+1 – Método da complementação:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          19
+         www.estrategiaconcursos.com.br                                                          38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+Complementar o valor que faltar no próximo exercício. Assim, se ela vender R$ 50.000,00 no exercício
+seguinte, terá de constituir PDD de R$ 1.500,00 (3% de 50.000,00). Como já temos R$ 1.000,00 na conta
+PDD, constituiremos somente R$ 500,00.
+
+Lançamento:
+
+D – Despesa com provisão para devedores duvidosos (despesa) 500,00
+C – Provisão para devedores duvidosos (retificadora do ativo)               500,00
+
+Razonetes:
+
+                        D espesa com PD D                  PD D (Ret. A tivo)
+                          500,00                                       1.000,00 Saldo Inicial
+                                                                          500,00
+
+2 – Método da reversão:
+
+Reverter o valor que sobrou. Nesta hipótese, havendo sobra no período, revertemos todo o montante,
+constituindo nova provisão no exercício subsequente.
+
+Lançamento:
+
+D - Provisão para devedores duvidosos (retificadora do ativo)                    1.000,00
+C – Reversão da PDD (receita)                                                    1.000,00
+
+Razonetes:
+
+                               PD D (Ret. A tivo)                    Reversão da PD D
+                              2.000,00       3.000,00                          1.000,00
+                             1.000,00        1.000,00
+
+
+E no exercício subsequente
+
+D – Despesa com provisão para devedores duvidosos (despesa) 1.500,00
+C – Provisão para devedores duvidosos (retificadora do ativo)            1.500,00
+
+Razonetes:
+
+                                 D espesa com PD D                 PD D (Ret. A tivo)
+                                 1.500,00                                      1.500,00
+
+
+
+Terceira hipótese: perdeu R$ 5.000,00, recebendo somente R$ 95.000,00.
+
+Neste caso, a conta provisão para devedores duvidosos revela-se insuficiente para absorver o calote.
+Teremos de lançar uma perda, no resultado do exercício, no valor de R$ 2.000,00.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           20
+         www.estrategiaconcursos.com.br                                                           38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+D – Bancos (ativo)                                                               95.000,00
+D – Perdas com clientes (despesa)                                                2.000,00
+D - Provisão para devedores duvidosos (retificadora do ativo)              3.000,00
+C – Clientes (ativo)                                                           100.000,00
+
+
+
+Razonetes:
+
+       C lientes (A tivo)               PD D (Ret. A tivo)         Perda com clientes           Bancos (A tivo)
+    100.000,00      100.000,00         3.000,00       3.000,00     2.000,00                  95.000,00
+
+
+
+No balanço patrimonial, a conta PDD aparece no Ativo, embora tenha saldo credor (é retificadora do Ativo):
+
+Ativo
+Caixa
+Bancos
+Duplicatas a Receber                                             100.000
+Provisão para Devedores Duvidosos                                (4.000)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                           21
+         www.estrategiaconcursos.com.br                                                                           38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+
+                                                      APOSTA ESTRATÉGICA
+
+
+
+
+Pessoal, da aula de hoje nossa aposta é a respeito do tema "Operações diversas" vejam:
+
+                                                             Ativo Não Circulante e Passivo Não Circulante -> Ajustados a valor presente
+                     Ajuste a Valor Presente
+                                                             Ativo Circulante e Passivo Circulante -> Se houver efeito relevante
+
+
+              Duplicatas descontadas -> Passivo exigível
+              Encargos financeiros a Transcorrer -> Retificadora do passivo
+
+
+              Pagamento em cheque -> Sai do Banco
+              Recebimento em cheque -> entra no Caixa
+  RESUMÃO
+
+
+
+
+              Variação Cambial
+                   Positiva-> Receita Financeira
+                  Negaiva -> Despesa Financeira
+
+
+               Perdas estimadas com créditos de liquidação
+                     duvidosa é retificadora da conta
+                      clientes/duplicatas a receber.
+
+
+                                                      Empréstimos/Recebíveis normais -> Valor original - Ajuste perda - AVP
+
+
+                                               Ativos Financeiros Mensurados Ao Custo Amortizado -> Valor original + Encargos ou rendimentos
+
+
+                Ativo Financeiro               Ativo Financeiro Mensurado Ao Valor Justo Por Meio De Outros Resultados Abrangentes -> Juros: Resultado. Ajuste a Valor justo
+                                               no Patrimônio Líquido
+
+
+                                               Ativo Financeiro Mensurado Ao Valor Justo Por Meio Do Resultado (categoria residual) -> Encargos: resultado; Ajustes ao valor
+                                               justo: Resultado
+
+
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                     22
+            www.estrategiaconcursos.com.br                                                                                                                                     38
+
+                                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+
+                                QUESTÕES ESTRATÉGICAS
+Provisão Para Devedores Duvidosos (PDD)
+
+1. (FGV/PC AM/Perito Criminal/Contabilidade/2022) No ano de X0, uma entidade reconheceu
+receita de vendas de R$600.000. Do valor, 20% é previsto ser recebido no primeiro trimestre de
+X1. A entidade estima perdas com créditos de liquidação duvidosa de 4%. Em janeiro de X1, a
+entidade decidiu realizar apenas vendas à vista. No mês, ela recebeu R$116.000 de seus antigos
+clientes.
+Assinale a opção que indica a contabilização referente à inadimplência na Demonstração do Resultado
+do Exercício da entidade, em 31/01/X1.
+a) Reconhecimento de dedução da receita de R$4.000.
+b) Reconhecimento de despesa operacional de R$R$4.000.
+c) Reconhecimento de receita operacional de R$800.
+d) Reconhecimento de receita de vendas de R$800.
+e) Reconhecimento de reversão das perdas estimadas de R$800.
+Gabarito: E
+Comentários:
+Questão que trata da constituição das Perdas Estimadas com Clientes (PECLD). O enunciado fala que a
+empresa encerrou o exercício com R$ 600.000 a receber de clientes no exercício de X1. Ou seja, o saldo
+a receber de clientes é de 600.000 x 0,20 = R$ 120.000,00.
+A entidade estima ter perdas com créditos de liquidação duvidosa de 4%, isto é, 120.000 x 0,04 = R$
+4.800.
+Assim sendo, a empresa reconheceu uma despesa com perdas estimadas com clientes de 4.800.
+Todavia, a questão fala que, em janeiro de X1, a entidade decidiu realizar apenas vendas à vista e no
+mês, ela recebeu R$116.000 de seus antigos clientes.
+Vejam o que o examinador pediu: Assinale a opção que indica a contabilização referente à
+inadimplência na Demonstração do Resultado do Exercício da entidade
+Se ele está mencionando inadimplência, devemos entender que a empresa tinha R$ 120.000 a receber
+de clientes, recebeu 116.000 e o restante, 4.000, se tornou incobrável. Era o que deveríamos considerar.
+Como contabilizar isso:
+D - Bancos                                     R$ 116.000
+D - PCLD (retificadora do ativo)               R$ 4.000
+C - Clientes                                   R$ 120.000
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               23
+        www.estrategiaconcursos.com.br                                                               38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+Percebam que nenhuma alternativa tem essa opção de lançamento, então como devemos proceder?
+Tínhamos 4.800 de PECLD e usamos 4.000, ficando com saldo de 800. O que fazer?
+Percebam pessoal, que a empresa tinha uma estimativa inicial de receber dos clientes o valor de R$
+120.000 - R$ 4.800 = R$ 115.200,00. E recebeu um valor maior: R$ 116.000, assim sendo, tem que dar
+baixa do saldo de PECLD de 800 e reconhecer uma receita de reversão de R$ 800 para ajustarmos esse
+excedente.
+
+Gabarito: E
+
+Empréstimos e Financiamentos: Apropriação, Principal, Juros Transcorridos e a Transcorrer.
+
+2. (FGV/TCE-PI/Assistente de Administração/2021) O contador da empresa Beta precisa
+registrar o valor dos juros relativos a um empréstimo tomado pela empresa. De acordo com a
+lógica do regime de competência, o lançamento a débito deverá ser realizado em uma conta de:
+(A) caixa e equivalentes de caixa;
+(B) despesas com juros;
+(C) empréstimos;
+(D) encargos financeiros a transcorrer;
+(E) variações monetárias passivas.
+
+Comentários:
+
+Sempre que o valor total dos juros for conhecido quando da obtenção do empréstimo, lançaremos como
+encargos financeiros a transcorrer. Todavia, se ele for pós-fixado, contabilizaremos mês a mês sem
+utilizar essa conta.
+
+Conforme o período da competência, lançaremos os juros:
+
+D – Despesa com juros (Resultado)
+C – Empréstimos bancários (+passivo)
+
+Os juros, geralmente, são alocados ao saldo devedor dos empréstimos ou financiamentos e são pagos
+juntamente com as parcelas dos empréstimos. Também podem ser alocados em conta separada de Juros
+a Pagar, no Passivo.
+
+Gabarito: B
+
+Duplicata Descontadas
+
+3. (FGV/IMBEL/Supervisor Contábil/2021) Uma empresa vendeu, em março de X0, R$ 60.000
+em estoque, para recebimento em 90 dias. A empresa descontou as duplicatas no banco, que
+cobrou juros de R$ 5.000 pela antecipação.
+Assinale a opção que indica os lançamentos contábeis a serem feitos pela empresa, no momento de
+desconto das duplicatas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral         24
+        www.estrategiaconcursos.com.br                                                         38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+(A) D - disponibilidades: R$ 60.000;
+   C - duplicatas a receber: R$ 60.000.
+(B) D - disponibilidades: R$ 55.000;
+   D - despesa financeira: R$ 5.000;
+   C - duplicatas a receber: R$ 60.000.
+(C) D - disponibilidades: R$ 55.000;
+   D - despesa financeira: R$ 5.000;
+   C - duplicatas descontadas: R$ 60.000.
+(D) D - disponibilidades: R$ 55.000;
+   D - juros a apropriar: R$ 5.000;
+   C - duplicata a receber: R$ 60.000.
+(E) D - disponibilidades: R$ 55.000;
+   D - juros a apropriar: R$ 5.000;
+   C - duplicatas descontadas: R$ 60.000.
+
+Comentários:
+
+No momento inicial da operação desconto, não temos que reconhecer nenhuma despesa no resultado;
+trata-se de um fato permutativo. A empresa descontou uma duplicata de 60.000, incorrendo em juros
+de 5.000, todavia, entrou no caixa da empresa apenas 55.000. Portanto, a contabilização que devemos
+fazer é:
+
+D - disponibilidades: R$ 55.000;
+D - juros a apropriar (retificadora do passivo): R$ 5.000;
+C - duplicatas descontadas (passivo): R$ 60.000
+
+Gabarito: E
+
+Provisão Para Devedores Duvidosos (PDD)
+
+4. (FGV/IMBEL/Supervisor Contábil/2021) Uma empresa atacadista apresentava R$ 100.000
+em estoques em 02/01/X0. No mês, todo o estoque foi vendido por R$ 300.000, sendo que 20%
+do valor foi recebido no momento da venda e, o restante, deverá ser recebido em 90 dias. A
+empresa estima inadimplência de 3%. Assinale a opção que indica, na Demonstração do
+Resultado do Exercício, em 31/01/X0, a contabilização e o valor da conta da despesa com perdas
+estimadas com crédito de liquidação duvidosa.
+(A) Redutora de vendas - R$ 9.000.
+(B) Redutora de vendas - R$ 7.200.
+(C) Despesa operacional - R$ 9.000.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          25
+        www.estrategiaconcursos.com.br                                                          38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+(D) Despesa operacional - R$ 7.200.
+(E) Despesa financeira - R$ 9.000.
+
+Comentários:
+
+A despesa com perdas estimadas com clientes, pessoal, deve ser contabilizada com despesas
+operacionais na DRE. Além disso, ela deve ser calculada com base nos recebíveis que a empresa possui.
+
+Na nossa questão a empresa efetuou venda de 300.000, mas já recebeu 20%, ou seja, 60.000. Ainda deve
+receber 240.000 e desse valor ela estima inadimplência de 3%.
+
+Perdas estimadas com crédito de liquidação duvidosa = 240.000 x 3% = 7.200
+
+Contabilização:
+
+D - Despesas Operacionais - Perdas estimadas com crédito de liquidação duvidosa
+C - Perdas estimadas com crédito de liquidação duvidosa                                  R$ 7.200
+
+Gabarito: D
+
+Ajuste a Valor Presente
+
+5. (FGV/ALE-RO/Assistente Legislativo - Técnico em Contabilidade/2018) Algumas contas
+classificadas como “Contas a receber” devem ter seu montante ajustado a valor presente.
+Assinale a opção que indica o(s) critério(s) para ajuste a valor presente.
+a) O ativo deve ser de curto prazo.
+b) O ativo deve ser de longo prazo.
+c) O ativo deve causar efeito relevante.
+d) O ativo deve ser de longo prazo com efeito relevante ou de curto prazo.
+e) O ativo deve ser de curto prazo com efeito relevante ou de longo prazo.
+
+Comentários:
+
+Vimos que os elementos do ativo decorrentes de operações de longo prazo devem ser ajustados a valor
+presente independente do efeito relevante. Por outro lado, os ativos resultantes de transações de curto
+prazo somente serão ajustados a valor presente quando forem relevantes. Consoante a lei 6.404/76:
+
+         Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes
+         critérios:
+
+         VIII – os elementos do ativo decorrentes de operações de longo prazo serão ajustados
+         a valor presente, sendo os demais ajustados quando houver efeito relevante. (Incluído
+         pela Lei nº 11.638, de 2007)
+
+Gabarito: E
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              26
+        www.estrategiaconcursos.com.br                                                              38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+Duplicata Descontadas
+
+6. (FGV/SEFIN RO/Contador/2018) Uma sociedade empresária varejista vende um produto por
+R$ 100.000, emitindo uma duplicata com prazo de 30 dias.
+Por necessitar de recursos, a empresa desconta a duplicata em uma instituição financeira, recebendo
+R$ 98.000.
+Assinale a opção que indica o procedimento correto da empresa em relação ao desconto da duplicata.
+a) Baixar a duplicata de seu ativo por R$ 100.000.
+b) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma despesa de R$2.000.
+c) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma perda de R$2.000.
+d) Manter a duplicata em seu ativo por R$ 100.000.
+e) Manter a duplicata em seu ativo por R$ 98.000 e reconhecer uma despesa de R$ 2.000.
+                                                        ==219a34==
+
+
+
+
+Comentários:
+
+Na nossa questão, a contabilização fica assim:
+
+D - Bancos Conta Movimento (Ativo Circulante) 98.000,00
+D - Encargos Financeiros a Transcorrer (Ret. do Passivo Circulante) 2.000,00
+C - Duplicatas Descontadas (Passivo Circulante) 100.000,00
+
+Percebam que as duplicatas ainda permanecem no ativo e não reconhecemos despesas no momento da
+operação de desconto, somente ao longo da operação, por Competência.
+
+Gabarito: D
+
+Ativos Decorrentes De Aplicações Financeiras
+
+7. (FGV/COMPESA/Contador/2016.adaptada) A Cia. Beta investiu em um título de dívida
+emitido pela Cia. Alfa. A Cia. Beta tem a intenção de manter o título por um longo período, mas
+não irá mantê-lo até o vencimento.
+Assinale a opção que indica a correta contabilização da contrapartida do reconhecimento deste ativo a
+valor justo:
+a) Receita operacional.
+b) Receita financeira.
+c) Reserva de lucros.
+d) Ajustes de avaliação patrimonial.
+e) Ajuste de exercícios anteriores.
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            27
+        www.estrategiaconcursos.com.br                                                            38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+    Aula 06
+
+
+
+Estamos diante de um instrumento financeiro mensurado ao valor justo por meio de outros resultados
+abrangentes, já que ele possui as seguintes característica:
+
+•   Mantido para receber fluxo de caixa → “manter o título por um longo período”
+•   Mantido Para venda → “não irá não irá mantê-lo até o vencimento”
+
+Para os títulos mensuração ao valor justo por meio de outros resultados abrangentes, o valor dos
+rendimentos (juros) vai para o resultado; o ajuste a valor justo vai para o PL, na conta Ajuste de
+Avaliação Patrimonial.
+
+Gabarito: D
+
+Ativos Decorrentes De Aplicações Financeiras
+
+8. (FGV/Analista de Controle Interno/Recife/2014-ADAPTADA) Determinada empresa possuía,
+em 31/12/2013, instrumentos financeiros avaliados em R$ 200.000,00 e classificados como
+mantidos para receber fluxo de caixa e para venda. Na data, foi verificado que o valor justo destes
+era de R$ 180.000,00.
+A variação deve ser reconhecida, contabilmente, como
+a) ajuste no patrimônio líquido.
+b) receita financeira.
+c) receita a apropriar.
+d) variação monetária.
+e) despesa.
+
+Comentários:
+
+A empresa comprou títulos e os classificou como “mantido para receber fluxo de caixa e para venda”).
+Os títulos dessa categoria são atualizados pelos juros (“curva do papel”), os quais são contabilizados no
+resultado.
+
+Depois, sofrem o ajuste para o valor justo, e a diferença entre o valor justo e o valor atualizado pelos
+juros (“curva do papel”) vai para o Patrimônio Líquido, na conta Ajuste de Avaliação Patrimonial.
+
+          Obs.: atualmente é denominado como “instrumento financeiro mensurado ao valor
+          justo por meio de outros resultados abrangentes”
+
+Gabarito: A
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              28
+          www.estrategiaconcursos.com.br                                                              38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+Empréstimos e Financiamentos: Apropriação, Principal, Juros Transcorridos e a Transcorrer.
+
+9. (FGV/Contador/INEA/RJ/2013) Assinale a alternativa que indica a forma como uma empresa
+escritura o fato “débito na conta bancária de uma pessoa jurídica em razão do pagamento de
+empréstimos bancários acrescidos de juros da competência mensal não provisionados
+anteriormente”.
+(A) D = Empréstimos Bancários; D = Juros Passivos; C = Banco conta movimento.
+(B) D = Empréstimos Bancários; D = Juros a Pagar; C = Banco conta movimento.
+(C) D = Banco conta movimento; C = Empréstimos Bancários; C = Juros Passivos.
+(D) D = Banco conta movimento; C = Empréstimos Bancários; C = Juros a Pagar.
+(E) D = Banco conta movimento; C = Empréstimos Bancários;
+
+Comentários:
+
+Imagine que a entidade ALFA tenha um valor de R$ 1.000,00 a pagar. Os juros estipulados não são
+conhecidos quando da efetivação do empréstimo.
+
+Quando efetuamos o empréstimo, supondo que os juros não eram conhecidos quando da contratação,
+vamos lançar:
+
+D – Bancos conta movimento (ativo)                      1.000,00
+C – Empréstimos bancários (passivo)                     1.000,00
+
+Ora, por que estamos fazendo este lançamento? Pois estamos contraindo uma obrigação, a de pagar o
+empréstimo na data estipulada, e, ao mesmo tempo, está entrando dinheiro na nossa conta bancária.
+
+Na data do pagamento, sabemos que os juros serão de R$ 100,00, por exemplo. Contudo, os juros não
+estavam provisionados anteriormente (significa dizer que não haviam sido lançados).
+
+O lançamento apropriado, na quitação, será:
+
+D – Empréstimos bancários (Passivo – Reduz)                     1.000,00
+D – Despesa de juros (Resultado – Despesa)                      100,00
+C – Bancos conta movimento (Ativo circulante – Reduz) 1.100,00
+
+Gabarito: A
+
+Ajuste a Valor Presente
+
+10. (FGV/Auditor da Receita Estadual/SEFAZ/AP/2010) As regras contábeis e societárias
+vigentes determinam que os elementos do ativo decorrentes de operações de longo prazo serão:
+a) ajustados a valor custo.
+b) ajustados a valor futuro.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral        29
+        www.estrategiaconcursos.com.br                                                        38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+c) ajustados aos parâmetros da moeda.
+d) ajustados a juros de mercado.
+e) ajustados a valor presente.
+
+Comentários:
+
+Segundo a Lei 6.404/76:
+
+         Art. 183. VIII – os elementos do ativo decorrentes de operações de longo prazo serão
+         ajustados a valor presente, sendo os demais ajustados quando houver efeito relevante.
+         (Incluído pela Lei nº 11.638, de 2007)
+
+Gabarito: E
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           30
+        www.estrategiaconcursos.com.br                                                           38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+          QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de
+perguntas que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem
+como a memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e
+discursivas também).
+
+
+                                                    Perguntas
+
+1. Qual a classificação das contas Encargos financeiros a vencer ou a transcorrer (Juros passivos a vencer)?
+2. Quando devemos reconhecer os encargos financeiros?
+3. A provisão de devedores duvidosa pertente a qual grupo patrimonial?
+4. Quando devemos reconhecer a receita de vendas?
+5. Quais os objetivos do ajuste ao valor presente?
+6. Quando devemos ajustar ativos e passivos ao valor presente?
+7. Os juros incorridos no financiamento de ativos qualificáveis devem ser reconhecidos como?
+8. Como devemos contabilizar os recebimentos e pagamentos em cheque?
+9. A Variação cambial e a variação monetária são sinônimos?
+10. Os instrumentos financeiros são classificados em quantos grupos?
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  31
+         www.estrategiaconcursos.com.br                                                                  38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+
+                                          Perguntas com respostas
+
+1. Qual a classificação das contas Encargos financeiros a vencer ou a transcorrer (Juros passivos a vencer)?
+
+Contas passivas A VENCER representam despesas antecipadas, por isso, a regra é classificação no ativo. Mas
+no caso específico dos encargos financeiros a vencer ou a transcorrer (Juros passivos a vencer), elas ficam
+como retificadoras do passivo.
+
+2. Quando devemos reconhecer os encargos financeiros?
+
+Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando
+incorridas e independente do pagamento. Se a entidade pagou os juros, mas o fato gerador da despesa
+financeira não aconteceu. Ela contabilizará uma retificadora do passivo enquanto não apropriar a despesa
+de juros. Em síntese, os encargos financeiros devem ser reconhecidos como despesa ao longo do tempo, de
+                                                         ==219a34==
+
+
+
+
+acordo com o regime de competência!
+
+3. A provisão de devedores duvidosa pertente a qual grupo patrimonial?
+
+A PDD é uma estimativa de montante que não será recebido das vendas a prazo. Ela é retificadora da conta
+clientes/duplicatas a receber. Embora continue sendo chamada de Provisão, o nome tecnicamente mais
+correto seria perdas estimadas com devedores duvidosos, ou, se formos mais rigorosos, perdas estimadas
+com créditos de liquidação duvidosa. Assim, gravemos: Provisão Para Devedores Duvidosos = PDD = perdas
+estimadas com devedores duvidosos = perdas estimadas com créditos de liquidação duvidosa -> retificadora
+do ativo.
+
+4. Quando devemos reconhecer a receita de vendas?
+
+Na contabilidade, como trabalhamos com o regime de competência, a receita de venda deve ser reconhecida
+na entrega da mercadoria, independentemente do recebimento, pois, neste momento, há a transferência
+da titularidade (a chamada tradição).
+
+5. Quais os objetivos do ajuste ao valor presente?
+
+- Evitar que as demonstrações sejam superavaliadas.
+
+- Diferenciar o resultado financeiro do resultado com as operações da atividade
+
+6. Quando devemos ajustar ativos e passivos ao valor presente?
+
+                            Elementos          Período                           AVP?
+                               Ativo       Não circulante             Ajustados a valor presente
+                                           Circulante                 Se houver efeito relevante
+                              Passivo      Não circulante             Ajustados a valor presente
+                                           Circulante                 Se houver efeito relevante
+
+7. Os juros incorridos no financiamento de ativos qualificáveis devem ser reconhecidos como?
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  32
+         www.estrategiaconcursos.com.br                                                                  38
+
+                                        https://t.me/KakashiAssinaturasBot
+1.1.1.1    . Túlio Lages
+1.1.1.2    Aula 00
+   Filipe Magalhães,   Júlio Cardozo
+   Aula 06
+
+
+
+Os juros de empréstimos contratados para a construção ou aquisição de ativo qualificável (ativo que
+demanda um tempo substancial para ficar pronto para o seu uso ou venda pretendidos) devem ser
+capitalizados, ou seja, são contabilizados como custo do ativo qualificado.
+
+8. Como devemos contabilizar os recebimentos e pagamentos em cheque?
+
+O recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa. Todavia, o pagamento
+em cheque é feito através de crédito na conta bancos conta movimento.
+
+9. Variação cambial e variação monetária são sinônimos?
+
+Não são sinônimo, mas podemos entender que a variação cambial seria uma "espécie" de variação
+monetária. A variação cambial é aquela decorrente de alteração de taxas de câmbio, por exemplo, tenho um
+empréstimo em dólar e tenho valorização dessa moeda e temos que verificar o correto tratamento contábil.
+Agora, imagine que você tenha um financiamento que é corrigido regularmente por algum índice, como por
+exemplo, IGP-M. Essa correção do valor da moeda no tempo é um exemplo da correção monetária,
+
+10. Os instrumentos financeiros são classificados em quantos grupos?
+
+Os instrumentos financeiros são classificados em quatro grandes grupos:
+
+                                          Empréstimos/Recebíveis normais
+   • Valor original - Ajuste perda - AVP
+                                Ativos Financeiros Mensurados Ao Custo Amortizado
+   • Valor original + Encargos ou rendimentos
+             Ativo Financeiro Mensurado Ao Valor Justo Por Meio De Outros Resultados Abrangentes.
+   • Juros: Resultado . Ajuste a Valor justo no Patrimônio Líquido
+              Ativo Financeiro Mensurado Ao Valor Justo Por Meio Do Resultado (categoria residual)
+   • Encargos: resultado; Ajustes ao valor justo: Resultado
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              33
+         www.estrategiaconcursos.com.br                                                              38
+
+                                       https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+
+1. (FGV/PC AM/Perito Criminal/Contabilidade/2022) No ano de X0, uma entidade reconheceu
+   receita de vendas de R$600.000. Do valor, 20% é previsto ser recebido no primeiro trimestre
+   de X1. A entidade estima perdas com créditos de liquidação duvidosa de 4%. Em janeiro de
+   X1, a entidade decidiu realizar apenas vendas à vista. No mês, ela recebeu R$116.000 de seus
+   antigos clientes.
+Assinale a opção que indica a contabilização referente à inadimplência na Demonstração do Resultado
+do Exercício da entidade, em 31/01/X1.
+ a) Reconhecimento de dedução da receita de R$4.000.
+ b) Reconhecimento de despesa operacional de R$R$4.000.
+ c) Reconhecimento de receita operacional de R$800.
+ d) Reconhecimento de receita de vendas de R$800.
+ e) Reconhecimento de reversão das perdas estimadas de R$800.
+
+2. (FGV/TCE-PI/Assistente de Administração/2021) O contador da empresa Beta precisa
+registrar o valor dos juros relativos a um empréstimo tomado pela empresa. De acordo com a
+lógica do regime de competência, o lançamento a débito deverá ser realizado em uma conta de:
+(A) caixa e equivalentes de caixa;
+(B) despesas com juros;
+(C) empréstimos;
+(D) encargos financeiros a transcorrer;
+(E) variações monetárias passivas.
+
+3. (FGV/IMBEL/Supervisor Contábil/2021) Uma empresa vendeu, em março de X0, R$ 60.000
+em estoque, para recebimento em 90 dias. A empresa descontou as duplicatas no banco, que
+cobrou juros de R$ 5.000 pela antecipação.
+Assinale a opção que indica os lançamentos contábeis a serem feitos pela empresa, no momento de
+desconto das duplicatas.
+(A) D - disponibilidades: R$ 60.000;
+  C - duplicatas a receber: R$ 60.000.
+(B) D - disponibilidades: R$ 55.000;
+  D - despesa financeira: R$ 5.000;
+  C - duplicatas a receber: R$ 60.000.
+(C) D - disponibilidades: R$ 55.000;
+   D - despesa financeira: R$ 5.000;
+   C - duplicatas descontadas: R$ 60.000.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          34
+        www.estrategiaconcursos.com.br                                                          38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+(D) D - disponibilidades: R$ 55.000;
+  D - juros a apropriar: R$ 5.000;
+  C - duplicata a receber: R$ 60.000.
+(E) D - disponibilidades: R$ 55.000;
+   D - juros a apropriar: R$ 5.000;
+   C - duplicatas descontadas: R$ 60.000.
+
+4. (FGV/IMBEL/Supervisor Contábil/2021) Uma empresa atacadista apresentava R$ 100.000
+em estoques em 02/01/X0. No mês, todo o estoque foi vendido por R$ 300.000, sendo que 20%
+do valor foi recebido no momento da venda e, o restante, deverá ser recebido em 90 dias. A
+empresa estima inadimplência de 3%. Assinale a opção que indica, na Demonstração do
+Resultado do Exercício, em 31/01/X0, a contabilização e o valor da conta da despesa com perdas
+estimadas com crédito de liquidação duvidosa.
+(A) Redutora de vendas - R$ 9.000.
+(B) Redutora de vendas - R$ 7.200.
+(C) Despesa operacional - R$ 9.000.
+(D) Despesa operacional - R$ 7.200.
+(E) Despesa financeira - R$ 9.000.
+
+5. (FGV/ALE-RO/Assistente Legislativo - Técnico em Contabilidade/2018) Algumas contas
+classificadas como “Contas a receber” devem ter seu montante ajustado a valor presente.
+Assinale a opção que indica o(s) critério(s) para ajuste a valor presente.
+a) O ativo deve ser de curto prazo.
+b) O ativo deve ser de longo prazo.
+c) O ativo deve causar efeito relevante.
+d) O ativo deve ser de longo prazo com efeito relevante ou de curto prazo.
+e) O ativo deve ser de curto prazo com efeito relevante ou de longo prazo.
+
+6. (FGV/SEFIN RO/Contador/2018) Uma sociedade empresária varejista vende um produto por
+R$ 100.000, emitindo uma duplicata com prazo de 30 dias.
+Por necessitar de recursos, a empresa desconta a duplicata em uma instituição financeira, recebendo
+R$ 98.000.
+Assinale a opção que indica o procedimento correto da empresa em relação ao desconto da duplicata.
+a) Baixar a duplicata de seu ativo por R$ 100.000.
+b) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma despesa de R$2.000.
+c) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma perda de R$2.000.
+d) Manter a duplicata em seu ativo por R$ 100.000.
+e) Manter a duplicata em seu ativo por R$ 98.000 e reconhecer uma despesa de R$ 2.000.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           35
+        www.estrategiaconcursos.com.br                                                           38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+
+7. (FGV/COMPESA/Contador/2016.adaptada) A Cia. Beta investiu em um título de dívida
+emitido pela Cia. Alfa. A Cia. Beta tem a intenção de manter o título por um longo período, mas
+não irá mantê-lo até o vencimento.
+Assinale a opção que indica a correta contabilização da contrapartida do reconhecimento deste ativo a
+valor justo:
+a) Receita operacional.
+b) Receita financeira.
+c) Reserva de lucros.
+d) Ajustes de avaliação patrimonial.
+e) Ajuste de exercícios anteriores.
+
+8. (FGV/Analista de Controle Interno/Recife/2014-ADAPTADA) Determinada empresa possuía,
+                                                        ==219a34==
+
+
+
+
+em 31/12/2013, instrumentos financeiros avaliados em R$ 200.000,00 e classificados como
+mantidos para receber fluxo de caixa e para venda. Na data, foi verificado que o valor justo destes
+era de R$ 180.000,00.
+A variação deve ser reconhecida, contabilmente, como
+a) ajuste no patrimônio líquido.
+b) receita financeira.
+c) receita a apropriar.
+d) variação monetária.
+e) despesa.
+
+9. (FGV/Contador/INEA/RJ/2013) Assinale a alternativa que indica a forma como uma empresa
+escritura o fato “débito na conta bancária de uma pessoa jurídica em razão do pagamento de
+empréstimos bancários acrescidos de juros da competência mensal não provisionados
+anteriormente”.
+(A) D = Empréstimos Bancários; D = Juros Passivos; C = Banco conta movimento.
+(B) D = Empréstimos Bancários; D = Juros a Pagar; C = Banco conta movimento.
+(C) D = Banco conta movimento; C = Empréstimos Bancários; C = Juros Passivos.
+(D) D = Banco conta movimento; C = Empréstimos Bancários; C = Juros a Pagar.
+(E) D = Banco conta movimento; C = Empréstimos Bancários;
+
+10. (FGV/Auditor da Receita Estadual/SEFAZ/AP/2010) As regras contábeis e societárias
+vigentes determinam que os elementos do ativo decorrentes de operações de longo prazo serão:
+a) ajustados a valor custo.
+b) ajustados a valor futuro.
+c) ajustados aos parâmetros da moeda.
+d) ajustados a juros de mercado.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            36
+        www.estrategiaconcursos.com.br                                                            38
+
+                                     https://t.me/KakashiAssinaturasBot
+1.1.1.1 . Túlio Lages
+1.1.1.2    Aula 00 Júlio Cardozo
+   Filipe Magalhães,
+  Aula 06
+
+
+
+e) ajustados a valor presente.
+
+
+                                                GABARITO
+
+
+
+
+                                              QUESTÃO GABARITO
+                                                   1             E
+                                                   2             B
+                                                   3             E
+                                                   4             D
+                                                   5             E
+                                                   6             D
+                                                   7             D
+                                                   8             A
+                                                   9             A
+                                                  10             E
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral   37
+        www.estrategiaconcursos.com.br                                                   38
+
+                                     https://t.me/KakashiAssinaturasBot
+

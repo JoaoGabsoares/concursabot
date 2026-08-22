@@ -1,0 +1,2242 @@
+                                                    Aula 06
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                        Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                            27 de Junho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Pedrosa Lopes
+Aula 06
+
+
+
+
+                                                                          R
+   Sumário
+
+    Conteúdo ...................................................................................................................................... 2
+
+    ANÁLISE ESTATÍSTICA ....................................................................................................................... 2
+
+    Glossário de termos ..................................................................................................................... 3
+
+    Roteiro de revisão ........................................................................................................................ 4
+
+    Introdução .................................................................................................................................... 4
+
+    Características Gerais ................................................................................................................... 4
+
+    Aplicações ..................................................................................................................................... 5
+
+    Variáveis ....................................................................................................................................... 6
+
+    Tipos de Dados ............................................................................................................................. 7
+
+    Operações comuns com Strings (Character) ................................................................................ 8
+
+    Coleções ....................................................................................................................................... 9
+
+    Operadores ................................................................................................................................. 11
+
+    Estruturas de Seleção ................................................................................................................. 16
+
+    Estruturas de Repetição ............................................................................................................. 17
+
+    Funções....................................................................................................................................... 19
+
+    Questões Estratégicas ................................................................................................................. 21
+
+    Questionário de revisão e aperfeiçoamento .............................................................................. 31
+
+    Perguntas.................................................................................................................................... 31
+
+    Perguntas e Respostas ............................................................................................................... 32
+
+    Lista de Questões Estratégicas ................................................................................................... 36
+
+    Gabaritos .................................................................................................................................... 39
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+      www.estrategiaconcursos.com.br
+
+                                             https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+                                                  CONTEÚDO
+      R. Características Gerais. Aplicações. Variáveis. Tipos de Dados. Operações comuns. Coleções.
+      Operadores. Estruturas de Seleção. Estruturas de Repetição. Funções.
+
+
+
+
+                                          ANÁLISE ESTATÍSTICA
+      Inicialmente, convém destacar o percentual de incidência do assunto, dentro da disciplina
+      Programação em concursos/cargos similares. Quanto maior o percentual de cobrança de um
+      dado assunto, maior sua importância.
+
+      Obs.: um mesmo assunto pode ser classificado em mais de um tópico devido à
+      multidisciplinaridade de conteúdo.
+
+                      Assunto                        Relevância na disciplina em concursos similares
+
+       Linguagens de programação                 38.2 %
+
+       Python                                    14.5 %
+
+       JavaScript                                12.7 %
+
+       Java                                      3.6 %
+
+       VB Script                                 1.8 %
+
+       C Sharp                                   1.8 %
+
+       R                                         1.8 %
+
+       Web                                       5.5 %
+
+       Linguagens de marcação                    5.5 %
+
+       XML (Extensible Markup Language)          3.6 %
+
+       HTML (HyperText Markup Language)          1.8 %
+
+       CSS (Cascading Style Sheets)              3.6 %
+
+       Conceitos básicos de programação          1.8 %
+
+       Frameworks Java                           1.8 %
+
+       Hibernate                                 1.8 %
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+                                         GLOSSÁRIO DE TERMOS
+      Faremos uma lista de termos que são relevantes ao entendimento do assunto desta aula. Caso
+      tenha alguma dúvida durante a leitura, esta seção pode lhe ajudar a esclarecer.
+
+      R: Uma linguagem de programação de código aberto e gratuito, frequentemente utilizada em
+      análise estatística, mineração de dados e visualização de dados.
+
+      Variável: Um nome dado a um valor em um programa, que pode ser armazenado e manipulado
+      pelo programa.
+
+      Tipo de Dado: Uma classificação atribuída a um valor ou objeto em um programa, que determina
+      como ele pode ser manipulado.
+
+      Coleção: Uma estrutura de dados que permite armazenar múltiplos valores em uma única
+      variável.
+
+      Operador: Um símbolo ou palavra-chave em um programa que realiza uma operação específica
+      em um ou mais valores.
+
+      Operador aritmético: Um operador que executa uma operação matemática, como adição,
+      subtração, multiplicação ou divisão.
+
+      Operador de comparação: Um operador que compara dois valores e retorna um valor booleano
+      (verdadeiro ou falso) indicando se a comparação é verdadeira ou falsa.
+
+      Operador de atribuição: Um operador que atribui um valor a uma variável.
+
+      Operador lógico: Um operador que executa uma operação lógica em um ou mais valores
+      booleanos, como AND, OR ou NOT.
+
+      Operador de concatenação: Um operador que combina duas ou mais strings em uma única
+      string.
+
+      Operador de acesso: Um operador que permite acessar elementos individuais de uma coleção,
+      como uma matriz ou uma lista.
+
+      Estrutura de Seleção: Uma construção de programação que permite executar diferentes ações
+      com base em uma condição.
+
+      Estrutura de repetição: Uma construção de programação que permite executar um conjunto de
+      instruções repetidamente com base em uma condição.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Função: Um bloco de código que executa uma tarefa específica e pode ser reutilizado em
+      diferentes partes de um programa. As funções podem receber entradas (argumentos) e retornar
+      saídas.
+
+
+
+
+                                           ROTEIRO DE REVISÃO
+      A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+      assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+
+
+
+                                                   Introdução
+
+      R é uma linguagem de programação e um ambiente de desenvolvimento integrado (IDE) usada
+      principalmente para análise estatística e gráficos. Foi criada por Ross Ihaka e Robert Gentleman
+      na Universidade de Auckland, na Nova Zelândia, em meados da década de 1990.
+
+      Trata-se de uma linguagem de programação interpretada, o que significa que o código é
+      executado linha por linha, em vez de ser compilado em um programa executável. Ela suporta
+      muitas técnicas estatísticas, incluindo análise de regressão, teste de hipóteses, análise de séries
+      temporais e modelagem preditiva.
+
+      Uma das principais vantagens de R é a sua vasta coleção de pacotes, que fornecem funções para
+      realizar tarefas específicas, desde a importação de dados até a visualização de gráficos
+      complexos. Muitos desses pacotes são criados e mantidos pela comunidade de usuários de R e
+      estão disponíveis gratuitamente no Repositório CRAN (Comprehensive R Archive Network).
+
+      R é usado em muitos campos, incluindo ciências biológicas, economia, finanças, engenharia,
+      psicologia e muito mais. Hoje em dia, é uma das linguagens de programação mais populares entre
+      estatísticos e cientistas de dados.
+
+
+
+
+                                           Características Gerais
+
+      Existem várias características e vantagens de R em comparação com outras linguagens de
+      programação. Veja as principais a seguir.
+
+      Foco em análise estatística e gráficos: R foi projetada especificamente para análise estatística e
+      gráficos, o que a torna uma linguagem de programação eficaz para análise de dados. Ela oferece
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      uma ampla gama de funções estatísticas e gráficas integradas, além de ter uma vasta biblioteca
+      de pacotes desenvolvidos pela comunidade.
+
+      Open source e gratuito: R é uma linguagem de programação de código aberto e gratuito, o que
+      significa que qualquer pessoa pode baixar e usar R sem custo. Além disso, R é distribuído sob a
+      licença GNU, o que significa que os usuários têm a liberdade de modificar e distribuir o software.
+
+      Grande comunidade de usuários: R tem uma grande e ativa comunidade de usuários, ou seja, é
+      fácil encontrar ajuda, recursos e exemplos de código na internet. Além disso, muitos pacotes são
+      criados e mantidos por membros da comunidade, o que aumenta a variedade e qualidade das
+      ferramentas disponíveis.
+
+      Capacidade de lidar com grandes conjuntos de dados: R pode lidar com grandes conjuntos de
+      dados, o que a torna uma escolha popular para análise de dados em empresas e organizações
+      que trabalham com grandes quantidades de informações.
+
+      Integração com outras ferramentas: R pode ser integrada com outras ferramentas populares de
+      análise de dados, como SQL, Hadoop e Spark, o que aumenta sua flexibilidade e potencial de uso
+      em ambientes empresariais.
+
+      Reprodutibilidade: R permite a documentação e a reprodução de análises e gráficos por meio de
+      scripts, o que torna as análises mais transparentes e replicáveis.
+
+      Variedade de interfaces: R é uma linguagem de programação versátil, que pode ser usada por
+      meio de interfaces gráficas (como RStudio) ou em linha de comando, dependendo das
+      necessidades do usuário.
+
+
+
+
+                                                   Aplicações
+
+      R é uma linguagem de programação amplamente utilizada em diversas áreas, como ciências
+      biológicas, economia, finanças, engenharia, psicologia e muito mais. Abaixo estão alguns
+      exemplos de suas principais aplicações:
+
+      Análise de dados e estatísticas: R é amplamente utilizada para análise de dados e estatísticas em
+      diversas áreas, desde pesquisas acadêmicas até análises de mercado financeiro. Ela é capaz de
+      realizar análises descritivas, testes de hipóteses, modelagem preditiva, regressão, análise de
+      séries temporais, entre outros.
+
+      Visualização de dados: R possui bibliotecas de gráficos poderosas e fáceis de usar, permitindo
+      que os usuários criem gráficos personalizados e sofisticados. Além disso, R é capaz de gerar
+      gráficos interativos, o que torna a apresentação dos resultados mais dinâmica.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Machine Learning: R tem uma ampla variedade de pacotes para Machine Learning, incluindo
+      classificação, regressão, clustering, redes neurais, entre outros. Esses pacotes permitem aos
+      usuários construir modelos de Machine Learning e usar esses modelos para fazer previsões e
+      tomar decisões.
+
+      Bioinformática: R é uma ferramenta popular em bioinformática, permitindo que os
+      pesquisadores analisem grandes conjuntos de dados biológicos, desde análises genômicas até
+      estudos de expressão gênica. Ela possui pacotes para análise de sequências de DNA e proteínas,
+      identificação de mutações, modelagem de dados biológicos, entre outros.
+
+      Finanças: R é usada em finanças para análise de dados financeiros, como preços de ações, taxas
+      de juros e outras variáveis financeiras. Ela pode ser usada para criar modelos de precificação de
+      opções, gerenciamento de riscos e análise de portfólio.
+
+      Marketing e análise de clientes: R é usada para análise de dados de clientes e marketing,
+      permitindo que as empresas obtenham insights sobre o comportamento dos clientes,
+      segmentação de mercado, análise de sentimentos, entre outros.
+
+      Agora que já temos uma visão geral da linguagem, vamos conhecer alguns detalhes de sua sintaxe
+      e semântica, ok?
+
+
+
+
+                                                    Variáveis
+
+      Em R, uma variável é um objeto que armazena um valor ou um conjunto de valores. É possível
+      atribuir valores a uma variável usando o operador de atribuição "<-" ou "=" (embora a primeira
+      forma seja mais comumente usada).
+
+      Por exemplo, o código abaixo atribui o valor "Hello World!" à variável "x":
+
+
+      x <- "Hello World!"
+
+
+
+      Agora, sempre que "x" for chamado, o valor "Hello World!" será retornado.
+
+      As variáveis em R têm algumas características importantes:
+
+      Tipagem dinâmica: em R, as variáveis são de tipagem dinâmica, o que significa que o tipo de
+      dados da variável é determinado automaticamente pelo valor atribuído a ela. Por exemplo, se
+      uma variável é atribuída com um número inteiro, ela é do tipo "integer", se é atribuída com um
+      número decimal, ela é do tipo "numeric".
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Case sensitive: as variáveis em R são case sensitive (diferença entre maiúsculas e minúsculas), o
+      que significa que as variáveis "x" e "X" são diferentes.
+
+      Nomes de variáveis: os nomes de variáveis em R devem começar com uma letra ou ponto (.),
+      seguido de uma combinação de letras, números e pontos. Além disso, o nome da variável não
+      deve ser uma palavra-chave em R. Exemplos válidos de nomes de variáveis incluem "idade",
+      "nome.completo" e "quantidade_de_produtos".
+
+      Escopo: o escopo de uma variável em R é definido pelo ambiente no qual a variável foi criada.
+      Variáveis criadas dentro de uma função têm escopo local e não podem ser acessadas fora da
+      função. Variáveis criadas fora de uma função têm escopo global e podem ser acessadas em todo
+      o código.
+
+
+
+
+                                                Tipos de Dados
+
+      Em R, os tipos de dados definem o tipo de valores que podem ser armazenados em uma variável.
+      Cada tipo de dado tem suas próprias propriedades e métodos específicos que podem ser usados
+      para manipular os valores armazenados neles.
+
+      Os principais tipos de dados em R são: character, complex, integer, logical e numeric.
+
+      Segue uma tabela explicando cada tipo de dado:
+
+             Tipo       de
+                                    Descrição                                                  Exemplo
+             dado
+             Character              Armazena texto ou cadeias de caracteres.                   "Hello
+                                                                                               World"
+             Complex                Armazena números complexos (parte real e                   3 + 4i
+                                    imaginária).
+             Integer                Armazena números inteiros.                                 42
+
+             Logical                Armazena valores lógicos, que podem ser TRUE               TRUE
+                                    (verdadeiro) ou FALSE (falso).
+             Numeric                Armazena números reais (decimais).                         3.14
+
+      Veja exemplos de declarações desses tipos de variáveis e Resultado no Console ao imprimir
+      Respectivo tipo de cada uma:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      # Variáveis de diferentes tipos
+
+      # Real Numeric
+      myRealNumeric <- 10
+      class(myRealNumeric)
+
+      # Decimal Numeric
+      myDecimalNumeric <- 10.0
+      class(myDecimalNumeric)
+
+      # Character
+      myCharacter <- "10"
+      class(myCharacter)
+
+      # Logical
+      myBoolean <- TRUE
+      class(myBoolean)
+
+      # Integer
+      myInteger <- 0:10
+      class(myInteger)
+
+      #Complex
+      myComplex <- 5i
+      class(myComplex)
+
+
+
+
+                           Operações comuns com Strings (Character)
+
+      Em R, as strings são representadas por objetos do tipo "character". Existem várias operações
+      comuns que podem ser realizadas em strings em R. Abaixo, apresento três dessas operações:
+      nchar, paste e replicate.
+
+      nchar: a função nchar retorna o número de caracteres em uma string. Por exemplo:
+
+
+      texto <- "Hello World"
+      nchar(texto)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      # resultado: 11
+
+
+
+
+      paste: a função paste concatena duas ou mais strings em uma única string. Por exemplo:
+
+
+      nome <- "João"
+      sobrenome <- "Silva"
+      paste(nome, sobrenome)
+      # resultado: "João Silva"
+
+
+
+
+      Também é possível especificar um separador para ser usado entre as strings:
+
+
+      paste(nome, sobrenome, sep = "-")
+      # resultado: "João-Silva"
+
+
+
+
+      replicate: a função Replicate é usada para repetir uma string um determinado número de vezes.
+      Por exemplo:
+
+
+      texto <- "Olá"
+      replicate(3, texto)
+      # resultado: "Olá" "Olá" "Olá"
+
+
+
+
+                                                     Coleções
+
+      Em R, existem vários tipos de coleções que podem ser usados para armazenar conjuntos de
+      valores. Abaixo estão alguns dos tipos mais comuns:
+
+      Vetores: os vetores são o tipo mais básico de coleção em R. Eles podem armazenar um conjunto
+      de valores do mesmo tipo de dado (por exemplo, todos os valores em um vetor são do tipo
+      numérico). Existem dois tipos de vetores em R: vetores atômicos e vetores de lista.
+
+
+      # cria um vetor numérico
+      v <- c(1, 2, 3, 4, 5)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Matrizes: as matrizes são um tipo especial de vetor que podem armazenar valores em duas ou
+      mais dimensões. Todas as entradas em uma matriz devem ser do mesmo tipo de dado.
+
+
+      # cria uma matriz 2x2
+      m <- matrix(c(1, 2, 3, 4), nrow = 2, ncol = 2)
+
+
+
+
+      Listas: as listas podem armazenar valores de diferentes tipos de dados e são uma forma mais
+      flexível de armazenar dados do que os vetores. Cada elemento em uma lista pode ser um vetor,
+      matriz ou outro objeto em R.
+
+
+      # cria uma lista com um vetor numérico e uma matriz
+      lst <- list(c(1, 2, 3), matrix(c(4, 5, 6, 7), nrow = 2))
+
+
+
+
+      Data frames: os data frames são semelhantes às matrizes, mas cada coluna pode ter um tipo de
+      dado diferente. Eles são frequentemente usados para armazenar dados tabulares, como planilhas
+      ou bancos de dados.
+
+
+      # cria um data frame com duas colunas
+      df <- data.frame(coluna1 = c(1, 2, 3), coluna2 = c("a", "b", "c"))
+
+
+
+
+      Arrays: os arrays são semelhantes às matrizes, mas podem ter mais de duas dimensões.
+
+
+      # cria um array 2x2x2 com números inteiros
+      arr <- array(1:8, dim = c(2, 2, 2))
+
+
+
+
+      Fatores: os fatores são um tipo especial de vetor usado para representar dados categóricos. Eles
+      são úteis para análises estatísticas que envolvem variáveis categóricas, como a análise de
+      variância.
+
+
+      # cria um fator com três categorias
+      f <- factor(c("A", "B", "C", "A", "B", "C"), levels = c("A", "B", "C"))
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+                                                  Operadores
+
+      Em R, um operador é um símbolo especial que representa uma operação ou uma transformação
+      que é aplicada a um ou mais valores para produzir um novo resultado. Os operadores podem ser
+      usados para realizar cálculos matemáticos, comparar valores, atribuir valores a variáveis e muito
+      mais.
+
+
+                                           Operadores Aritméticos
+
+
+      São usados para realizar cálculos matemáticos em números. Os operadores aritméticos incluem
+      adição (+), subtração (-), multiplicação (*), divisão (/), exponenciação (^) e operador de módulo
+      (%%).
+
+      Veja exemplos:
+
+      # soma de dois números
+      2 + 3
+
+      # subtração de dois números
+      10 - 5
+
+      # multiplicação de dois números
+      2 * 4
+
+      # divisão de dois números
+      10 / 2
+
+      # exponenciação
+      2^3
+
+      # raiz quadrada
+      sqrt(9)
+
+      # valor absoluto
+      abs(-5)
+
+
+
+
+                                         Operadores de Comparação
+
+
+      São usados para comparar dois valores e retornar um valor lógico (verdadeiro ou falso) com base
+      na comparação. Os operadores de comparação incluem igualdade (==), desigualdade (!=), maior
+      que (>), menor que (<), maior ou igual a (>=) e menor ou igual a (<=).
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Veja exemplos:
+
+      # igualdade
+      5 == 5
+
+      # diferença
+      5 != 3
+
+      # maior que
+      5 > 3
+
+      # menor que
+      2 < 4
+
+      # maior ou igual a
+      5 >= 5
+
+      # menor ou igual a
+      3 <= 5
+
+
+
+
+                                          Operadores de Atribuição
+
+
+      São usados para atribuir um valor a uma variável. O operador de atribuição é representado pelo
+      sinal de igual (=) ou pelo operador de atribuição composto (+=, -=, *=, /=, etc.).
+
+      # atribuição de valor a uma variável
+      x <- 5
+
+      # atribuição do resultado de uma expressão a uma variável
+      y <- 2 + 3
+
+      # atribuição condicional (se x for maior que 5, atribui 10, caso contrário,
+      atribui 0)
+      z <- ifelse(x > 5, 10, 0)
+
+      # atribuição em vetor
+      vetor <- c(1, 2, 3)
+      vetor[2] <- 5
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+                                              Operadores Lógicos
+
+
+      São usados para combinar valores lógicos e retornar um valor lógico. Os operadores lógicos
+      incluem "e" lógico (&&), "ou" lógico (||) e negação lógica (!).
+
+      Veja exemplos:
+
+      a <- 5
+      b <- 6
+      a < b # retorna TRUE
+      b < a # retorna FALSE
+
+      a <- 5
+      b <- 6
+      b >= a    # retorna TRUE
+      a >= b    # retorna FALSE
+      a >= 5    # retorna TRUE
+
+      a <- 5
+      b <- 6
+      a <= b    # retorna TRUE
+      b <= a    # retorna FALSE
+      a <= 5    # retorna TRUE
+
+      a <- 5
+      b <- 6
+      c <- 7
+      a < b & b < c      # retorna TRUE
+      a < b & b > c      # retorna FALSE
+
+      a <- 5
+      b <- 6
+      c <- 7
+      a < b | b > c      # retorna TRUE
+      a > b | b > c      # retorna FALSE
+
+      a <- 5
+      b <- 6
+      !(a < b)     # retorna FALSE
+      !(a > b)     # retorna TRUE
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+                                        Operadores de Concatenação
+
+
+      São usados para unir strings, vetores e até data frames. O operador de concatenação é
+      representado pelo sinal de adição (+) no caso de Strings.
+
+      # Concatenando duas strings
+      string1 <- "Olá"
+      string2 <- "mundo!"
+      concatenada <- string1 + string2
+      print(concatenada)
+
+      # Concatenando dois vetores
+      vetor1 <- c(1, 2, 3)
+      vetor2 <- c(4, 5, 6)
+      concatenado <- c(vetor1, vetor2)
+      print(concatenado)
+
+      # Concatenando dois data frames
+      df1 <- data.frame(a = c(1, 2, 3), b = c("x", "y", "z"))
+      df2 <- data.frame(a = c(4, 5, 6), b = c("p", "q", "r"))
+      concatenado <- rbind(df1, df2)
+      print(concatenado)
+
+
+
+
+                                            Operadores de Acesso
+
+
+      São usados para acessar elementos em uma coleção de dados, como um vetor, matriz ou lista.
+      Os operadores de acesso incluem colchetes simples ([]) e duplos ([[]]).
+
+      # Acessando o primeiro elemento de um vetor
+      vetor <- c(1, 2, 3)
+      vetor[1] # retorna 1
+
+      # Acessando o elemento na terceira linha e segunda coluna de uma matriz
+      matriz <- matrix(1:9, ncol=3)
+      matriz[3,2] # retorna 6
+
+      # Acessando o segundo elemento de uma lista
+      lista <- list(1, "abc", TRUE)
+      lista[[2]] # retorna "abc"
+
+      # Acessando a primeira linha de um data frame
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      data_frame <- data.frame(a=c(1,2), b=c("a","b"))
+      data_frame[1,] # retorna a primeira linha como um data frame
+
+      # Acessando o valor da chave "b" de um vetor nomeado
+      vetor_nomeado <- c(a=1, b=2, c=3)
+      vetor_nomeado["b"] # retorna 2
+
+      # Acessando a coluna "name" de um data frame
+      data_frame <- data.frame(name=c("John", "Mary"), age=c(30,40))
+      data_frame$name # retorna uma vetor com os nomes "John" e "Mary"
+
+      Veja um resumo dos operadores em ação:
+                                                        ==219a34==
+
+
+
+
+             Tipo de operador                       Operador                        Exemplo
+             Operador aritmético                    Adição                          2+3=5
+             Operador aritmético                    Subtração                       5-2=3
+             Operador aritmético                    Multiplicação                   2*3=6
+             Operador aritmético                    Divisão                         6/3=2
+
+             Operador aritmético                    Exponenciação                   2^3 = 8
+             Operador aritmético                    Operador            de          5 %% 2 = 1
+                                                    módulo
+             Operador de comparação                 Igualdade                       2 == 2
+             Operador de comparação                 Desigualdade                    2 != 3
+             Operador de comparação                 Maior que                       3>2
+             Operador de comparação                 Menor que                       2<3
+             Operador de comparação                 Maior ou igual a                3 >= 3
+
+             Operador de comparação                 Menor ou igual a                2 <= 2
+             Operador lógico                        "E" lógico                      TRUE && FALSE = FALSE
+             Operador lógico                        "OU" lógico                     TRUE || FALSE = TRUE
+             Operador lógico                        Negação lógica                  !TRUE = FALSE
+             Operador de atribuição                 Atribuição                      x <- 5
+             Operador de atribuição                 Atribuição                      x += 2
+                                                    composta
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+             Operador                   de          Concatenação                    "hello" + "world"   =
+             concatenação                                                           "helloworld"
+             Operador de acesso                     Colchetes simples               x[3]
+             Operador de acesso                     Colchetes duplos                list[[1]]
+
+
+
+
+                                           Estruturas de Seleção
+
+      As estruturas condicionais em R são utilizadas para executar diferentes blocos de código com base
+      em uma condição lógica. Existem duas principais estruturas condicionais em R: "if" e "if-else".
+
+      A estrutura "if" permite que um bloco de código seja executado somente se uma determinada
+      condição lógica for verdadeira. A sintaxe básica do "if" é:
+
+
+      if (condição lógica) {
+        # bloco de código a ser executado se a condição for verdadeira
+      }
+
+
+
+
+      Por exemplo:
+
+
+      x <- 5
+      if (x > 3) {
+        print("x é maior do que 3")
+      }
+
+
+
+
+      Neste exemplo, se o valor de "x" for maior do que 3, o bloco de código dentro do "if" será
+      executado e a mensagem "x é maior do que 3" será impressa.
+
+      A estrutura "if-else" permite que diferentes blocos de código sejam executados com base em uma
+      condição lógica. A sintaxe básica do "if-else" é:
+
+
+      if (condição lógica) {
+        # bloco de código a ser executado se a condição for verdadeira
+      } else {
+        # bloco de código a ser executado se a condição for falsa
+      }
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Por exemplo:
+
+
+      x <- 2
+      if (x > 3) {
+        print("x é maior do que 3")
+      } else {
+        print("x é menor ou igual a 3")
+      }
+
+
+
+
+      Neste exemplo, se o valor de "x" for maior do que 3, o primeiro bloco de código será executado
+      e a mensagem "x é maior do que 3" será impressa. Se o valor de "x" for menor ou igual a 3, o
+      segundo bloco de código será executado e a mensagem "x é menor ou igual a 3" será impressa.
+
+      Existem também outras estruturas condicionais em R, como "if-else-if" e "switch", que permitem
+      criar condições mais complexas e executar diferentes blocos de código com base em múltiplas
+      condições lógicas.
+
+
+
+
+                                         Estruturas de Repetição
+
+      As estruturas de repetição, também chamadas de laços de repetição ou loops, são usadas em
+      programação para executar um bloco de código várias vezes. Em R, as duas principais estruturas
+      de repetição são "while" e "for".
+
+      A estrutura "while" executa um bloco de código enquanto uma determinada condição lógica for
+      verdadeira. A sintaxe básica do "while" é:
+
+
+      while (condição lógica) {
+        # bloco de código a ser repetido enquanto a condição for verdadeira
+      }
+
+
+
+
+      Por exemplo:
+
+
+      x <- 1
+      while (x <= 10) {
+        print(x)
+        x <- x + 1
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      }
+
+
+
+
+      Neste exemplo, o bloco de código dentro do "while" será repetido enquanto o valor de "x" for
+      menor ou igual a 10. A cada repetição do loop, o valor de "x" é impresso e depois incrementado
+      em 1.
+
+      A estrutura "for" é usada para executar um bloco de código um número específico de vezes. A
+      sintaxe básica do "for" é:
+
+
+      for (variável in sequência) {
+        # bloco de código a ser repetido para cada valor na sequência
+      }
+
+
+
+
+      Por exemplo:
+
+
+      for (i in 1:5) {
+        print(i)
+      }
+
+
+
+
+      Neste exemplo, o bloco de código dentro do "for" será executado cinco vezes, uma para cada
+      valor na sequência de 1 a 5. A cada repetição do loop, o valor da variável "i" é impresso.
+
+      Segue uma tabela com alguns exemplos de estruturas de repetição em R:
+
+       Estrutura Descrição                                                          Exemplo
+
+       while         Executa um bloco de código enquanto uma condição x <- 1 while (x <= 10) {
+                     lógica for verdadeira                            print(x) x <- x + 1 }
+
+       for           Executa um bloco de código um número específico de for (i in 1:5) { print(i) }
+                     vezes
+
+       repeat        Executa um bloco de código indefinidamente até que x <- 1 repeat { print(x) x <-
+                     uma condição lógica seja satisfeita                x + 1 if (x > 10) { break } }
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+       next         Pula para a próxima iteração de um loop                        for (i in 1:10) { if (i == 5) {
+                                                                                   next } print(i) }
+
+       break        Interrompe um loop imediatamente                               for (i in 1:10) { if (i == 5) {
+                                                                                   break } print(i) }
+
+
+
+
+                                                     Funções
+
+      Uma função é um bloco de código que pode ser chamado repetidamente a partir de diferentes
+      partes de um programa, permitindo que um programador crie um código modular, mais
+      organizado e mais fácil de manter. Em R, as funções são criadas usando a palavra-chave
+      "function".
+
+      As funções em R podem ter argumentos de entrada, que são valores que podem ser passados
+      para a função quando ela é chamada, e podem ter valores de retorno, que são valores que a
+      função retorna quando ela é executada.
+
+      As funções são importantes porque permitem que o código seja reutilizado em diferentes partes
+      de um programa, economizando tempo e esforço de programação. Além disso, as funções
+      também ajudam a manter o código organizado e legível, tornando-o mais fácil de entender e de
+      depurar.
+
+      Por exemplo, suponha que você precise calcular a média de uma lista de números em diferentes
+      partes do seu programa. Em vez de escrever o mesmo código para calcular a média em cada
+      ponto do seu programa, você pode criar uma função que calcula a média e, em seguida, chamá-
+      la sempre que precisar dessa operação. O código seria mais organizado, mais fácil de manter e,
+      se necessário, seria mais fácil modificar a função em um único local, em vez de fazer alterações
+      em todo o código.
+
+      Aqui está um exemplo de como criar e usar uma função simples em R para calcular a média de
+      uma lista de números:
+
+
+      # Define a função
+      mean_list <- function(x) {
+        mean(x)
+      }
+
+      # Usa a função
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      my_list <- c(1, 2, 3, 4, 5)
+      mean_of_my_list <- mean_list(my_list)
+      print(mean_of_my_list)
+
+
+
+
+      Neste exemplo, a função "mean_list" calcula a média de uma lista de números passada como
+      argumento. O argumento é passado para a função usando a variável "x". A função retorna a média
+      calculada usando a função "mean". Em seguida, a função é chamada com a lista "my_list" e o
+      valor de retorno é armazenado na variável "mean_of_my_list". Finalmente, o valor da média é
+      impresso usando a função "print".
+
+                                  Funções pré-definidas e funções de usuário
+
+
+      As funções pré-definidas em R são aquelas que já estão disponíveis na linguagem R, sem que o
+      programador precise criar ou definir uma nova função. Essas funções podem ser usadas
+      diretamente no código do programa, sem a necessidade de definir uma nova função para realizar
+      uma tarefa específica.
+
+      Por outro lado, as funções de usuário são criadas pelo programador para realizar tarefas
+      específicas e personalizadas que não estão disponíveis nas funções pré-definidas.
+
+      Algumas das funções pré-definidas mais comuns em R incluem:
+
+       •    sum: Calcula a soma dos elementos em um vetor ou matriz.
+       •    mean: Calcula a média dos elementos em um vetor ou matriz.
+       •    max: Retorna o valor máximo de um vetor ou matriz.
+       •    min: Retorna o valor mínimo de um vetor ou matriz.
+       •    length: Retorna o número de elementos em um vetor ou matriz.
+       •    sqrt: Calcula a raiz quadrada de um número ou vetor.
+       •    round: Arredonda um número ou vetor para um número inteiro ou um número com um
+            determinado número de casas decimais.
+       •    seq: Cria uma sequência de números em um intervalo específico.
+       •    rep: Repete um vetor ou valor específico várias vezes.
+
+      Além dessas funções, existem algumas funções para desenho de gráficos em R. Algumas das
+      principais funções de plotagem gráfica em R são:
+
+            •   plot: cria um gráfico de dispersão.
+            •   hist: cria um histograma.
+            •   boxplot: cria um boxplot.
+            •   barplot: cria um gráfico de barras.
+            •   pie: cria um gráfico de pizza.
+            •   plotly: cria gráficos interativos usando a biblioteca plotly.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+           www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+            •   ggplot2: cria gráficos sofisticados usando a biblioteca ggplot2.
+            •   lattice: cria gráficos em grade usando a biblioteca lattice.
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+      Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+      estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+      para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+      A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+      que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+     1. (CEBRASPE (CESPE)        - Analista de Previdência Complementar (FUNPRESP-
+         EXE)/Investimentos/2022) No programa R, a função aritmética básica (2+2)^2=16
+         pode ser calculada digitando-se > 2+2 ∧2.
+
+         Comentários:
+
+         No programa R, a função aritmética básica (2+2)^2=16 deve ser calculada digitando-se
+         > (2+2)^2. Em adição, a ordem das operações é importante. Se você não usar
+         parênteses para especificar que deseja somar 2 e 2 antes de elevar ao quadrado, como
+         em 2+2^2, o resultado seria 6, porque R realizaria a operação de exponenciação antes
+         da adição.
+
+         Portanto, a afirmação é errada.
+
+         Gabarito: E
+
+     2. (FGV - Analista (MPE SC)/Dados e Pesquisas/2022) No contexto da linguagem de
+        programação R, analise o código a seguir.
+
+         for (x in 1:10) {
+         if (x >= 4) {
+         print(x)
+         next }
+         if (x == 8) {break}
+         }
+
+         O número de linhas exibidas pela execução desse código é:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         a) 6;
+         b) 7;
+         c) 8;
+         d) 9;
+         e) 10.
+
+         Comentários:
+
+         No código R apresentado, um loop for é usado para iterar sobre o intervalo de números
+         de 1 a 10. Para cada número x nesse intervalo, o código faz o seguinte:
+
+         Verifica se x é maior ou igual a 4. Se sim, imprime o valor de x e em seguida pula para
+         a próxima iteração do loop (comando next). Neste caso, o segundo if (que verifica se x
+         é igual a 8) nunca é executado.
+
+         Se x não for maior ou igual a 4, o código passa para a segunda instrução if, que compara
+         x a 8. No entanto, como x não pode ser 8 se é menor que 4, essa condição também
+         nunca é verdadeira.
+
+         A consequência é que o comando break, que interromperia o loop, nunca é executado.
+         Entretanto, essa parte do código nem sequer é alcançada por causa do comando next
+         no primeiro if.
+
+         Então, a execução do código resultará na impressão dos números de 4 a 10, que são 7
+         números no total. Portanto, a resposta correta é b) 7.
+
+         Gabarito: B
+
+
+     3. (FGV - Analista (MPE SC)/Dados e Pesquisas/2022) No contexto da linguagem de
+        programação R, analise as afirmativas a seguir.
+
+         I. Vetores (vectors) são listas de itens que devem ter o mesmo tipo.
+         II. R trabalha com vários tipos de dados (data types), numéricos, lógicos e textuais, mas
+         as variáveis podem mudar de tipo mesmo depois da instanciação.
+         III. Os itens de uma lista (list) não podem ser substituídos. São permitidas apenas a
+         inserção e a remoção de itens.
+
+         Está correto somente o que se afirma em:
+
+         A) I;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         B) II;
+         C) III;
+         D) I e II;
+         E) II e III.
+
+         Comentários:
+
+         I. Vetores (vectors) são listas de itens que devem ter o mesmo tipo. - Correta. Em R, os
+         vetores devem conter elementos do mesmo tipo. Se você tentar combinar diferentes
+         tipos de dados em um vetor, R irá converter os elementos para o tipo mais flexível.
+
+         II. R trabalha com vários tipos de dados (data types), numéricos, lógicos e textuais, mas
+         as variáveis podem mudar de tipo mesmo depois da instanciação. - Correta. Em R, é
+         possível mudar o tipo de uma variável após a sua criação. Isso é chamado de coerção
+         de tipos.
+
+         III. Os itens de uma lista (list) não podem ser substituídos. São permitidas apenas a
+         inserção e a remoção de itens. - Incorreta. Em R, é possível substituir os elementos de
+         uma lista. Assim, você pode tanto inserir e remover elementos, quanto alterar
+         elementos existentes.
+
+         Portanto, as afirmações corretas são I e II, fazendo com que a alternativa correta seja
+         D) I e II.
+
+
+         Gabarito: D
+
+
+     4. (IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021) Função da linguagem
+        de programação R que permite fazer gráficos de dispersão. De acordo com a descrição,
+        a função é:
+
+         A) head
+         B) plot
+         C) grafhic
+         D) dispersion
+         E) mean
+
+         Comentários:
+
+         A função que permite fazer gráficos de dispersão na linguagem de programação R é a
+         função `plot()`.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         Vamos ver rapidamente o que as outras funções fazem:
+
+         A) head: A função `head()` retorna as primeiras n linhas de um objeto. Normalmente é
+         usada para ter uma rápida visualização dos primeiros elementos de um data frame ou
+         vetor.
+
+         B) plot: Esta é a função correta para criar gráficos de dispersão em R.
+
+         C) grafhic: Esta não é uma função reconhecida em R.
+
+         D) dispersion: Esta também não é uma função reconhecida em R.
+
+         E) mean: A função `mean()` calcula a média aritmética dos elementos de um vetor
+         numérico ou de um data frame.
+
+         Portanto, a alternativa correta é B) plot.
+
+         Gabarito: B
+
+
+     5. (CEBRASPE (CESPE) - Agente de Polícia Federal/2021) O resultado do código R
+        seguinte será "12".
+
+         f<- function(x) {
+            g <- function(y) {
+               y+z
+         }
+            z <- 4
+            x + g(x)
+         }
+         z <- 10
+         f (4)
+
+         Comentários:
+
+         Correto.
+
+         Vamos analisar o código R fornecido.
+
+         A função f recebe um valor de entrada x e define outra função g dentro dela. A função
+         g recebe um valor y e retorna y + z.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         Note que z é definido como 4 dentro da função f e como 10 fora da função. No entanto,
+         quando a função g é chamada dentro de f, o valor de z que é usado é o que foi definido
+         no mesmo ambiente, ou seja, dentro da função f. Assim, z será 4.
+
+         A função f então retorna x + g(x). Considerando que f(4) é chamado, x será 4. Então,
+         g(x) será g(4) que é 4 + 4 = 8.
+
+         Finalmente, a função f retorna 4 + 8 que é igual a 12.
+
+         Portanto, o resultado do código R será "12". A afirmação é correta.
+
+         Gabarito: C
+
+
+     6. (FGV - 2023 - Receita Federal - Analista-Tributário) Analise o código R a seguir.
+
+
+
+
+         Assinale os valores exibidos pela execução desse código, na ordem.
+
+         A) 45, 30, 18, 9, 3, 0
+         B) 63, 45, 30, 18, 9, 3
+         C) 0, 0, 0, 0, 0, 0
+         D) 0, 3, 9, 18, 30, 45
+         E) 3, 9, 18, 30, 45, 63
+
+         Comentários:
+
+         Neste caso, estamos lidando com uma função recursiva em R, que se chama a si mesma
+         até que uma condição de parada seja atingida. A função lista() verifica se o parâmetro
+         param é maior que -3. Se for, ela adiciona param ao resultado da chamada da própria
+         função lista() com param - 3. Se param for menor ou igual a -3, a função retorna 0, que
+         é a condição de parada da recursão.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         Aqui estão as chamadas que serão feitas e o que será impresso:
+
+         lista(15): temp = 15 + lista(12) -> impressão pendente
+         lista(12): temp = 12 + lista(9) -> impressão pendente
+         lista(9): temp = 9 + lista(6) -> impressão pendente
+         lista(6): temp = 6 + lista(3) -> impressão pendente
+         lista(3): temp = 3 + lista(0) -> impressão pendente
+         lista(0): temp = 0 + lista(-3) -> impressão pendente
+         lista(-3): retorna 0 (condição de parada da recursão)
+         Agora, a recursão desenrola:
+
+         lista(-3): retorna 0
+         lista(0): temp = 0 + 0 = 0, imprime 0
+         lista(3): temp = 3 + 0 = 3, imprime 3
+         lista(6): temp = 6 + 3 = 9, imprime 9
+         lista(9): temp = 9 + 9 = 18, imprime 18
+         lista(12): temp = 12 + 18 = 30, imprime 30
+         lista(15): temp = 15 + 30 = 45, imprime 45
+         Portanto, os valores impressos na ordem serão 0, 3, 9, 18, 30, 45
+
+         Gabarito: D
+
+
+     7. (CESPE / CEBRASPE - 2022 - ANP - Regulador de Novas Atribuições IV) Considere-se o
+        script R que se segue.
+
+         X <- c(0, 19, 205, 34, 506)
+
+         Y <- X
+
+         X[2] <- 91
+
+         Y[6] <- 71
+
+         print(X)
+
+         print(Y)
+
+         O resultado da execução desse script é o apresentado a seguir.
+
+            0 91 205 34 506
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+            0 19 205 34 506 71
+
+         Comentários:
+
+         Correto.
+
+         O código R primeiro cria um vetor `X` com os elementos (0, 19, 205, 34, 506). Então,
+         `Y` é definido como uma cópia de `X`. Isso significa que as mudanças em `X` não afetam
+         `Y` e vice-versa, porque R usa a semântica de passagem por valor para a atribuição de
+         vetores.
+
+         O código, em seguida, altera o segundo elemento de `X` para 91. Então, `X` se torna (0,
+         91, 205, 34, 506).
+
+         Finalmente, o código adiciona um sexto elemento a `Y` com o valor 71. Como `Y` foi
+         definido como uma cópia de `X` antes de `X` ter sido alterado, `Y` agora se torna (0, 19,
+         205, 34, 506, 71).
+
+         Portanto, o resultado da execução desse script é, de fato, o seguinte:
+
+         0 91 205 34 506
+
+         0 19 205 34 506 71
+
+         Logo, a afirmação é correta.
+
+         Gabarito: C
+
+
+     8. (CESPE / CEBRASPE - 2022 - ANP - Regulador de Novas Atribuições IV) A execução do
+        seguinte código R resulta em 1000.
+
+
+         sum(rep(5,20))+sum(seq(0,200,25))
+
+         Comentários:
+
+         Correto.
+
+         Vamos quebrar a expressão dada para entender o que cada função está fazendo:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         1. `rep(5,20)`: A função `rep()` em R é usada para replicar valores. Aqui, está replicando
+         o número 5 por 20 vezes, gerando um vetor com o número 5 repetido 20 vezes.
+
+         2. `sum(rep(5,20))`: A função `sum()` em R é usada para somar todos os elementos de
+         um vetor. Aqui, está somando todos os elementos do vetor criado na etapa 1. Como
+         cada elemento é 5 e existem 20 elementos, a soma será 5*20 = 100.
+
+         3. `seq(0,200,25)`: A função `seq()` em R é usada para gerar sequências de números.
+         Aqui, está gerando uma sequência de números que começam em 0, terminam em 200
+         (inclusive) e incrementam em 25 a cada passo. Isso gera o vetor (0, 25, 50, 75, 100,
+         125, 150, 175, 200).
+
+         4. `sum(seq(0,200,25))`: Aqui, a função `sum()` está somando todos os elementos do
+         vetor criado na etapa 3. A soma será 0 + 25 + 50 + 75 + 100 + 125 + 150 + 175 + 200 =
+         900.
+
+         5. `sum(rep(5,20))+sum(seq(0,200,25))`: Aqui, as somas calculadas nas etapas 2 e 4
+         estão sendo adicionadas juntas. Portanto, o resultado será 100 + 900 = 1000.
+
+         Portanto,    a    afirmação    de     que     a    execução                    do   código   R
+         `sum(rep(5,20))+sum(seq(0,200,25))` resulta em 1000 é correta.
+
+         Gabarito: C
+
+
+     9. (CESPE / CEBRASPE - 2022 - ANP - Regulador de Novas Atribuições IV) A execução do
+         seguinte código R retorna 10100 como resultado.
+
+
+
+
+         Comentários:
+
+         O código R fornecido define uma função chamada funcaoXX que usa a recursão para
+         imprimir a representação binária de um número. A função chama a si mesma
+         recursivamente com a metade do valor de n, depois imprime o resto da divisão de n
+         por 2.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         No caso de funcaoXX(20), a função imprimirá a representação binária de 20, que é
+         10100. No entanto, observe que a função cat() em R é usada para concatenação e
+         impressão. Não retorna um valor no sentido tradicional, mas imprime seus argumentos
+         na saída padrão.
+
+         Gabarito: C
+
+
+     10. (CESPE - 2018 - Polícia Federal - Agente de Polícia Federal) Considere o programa a
+         seguir, escrito em R.
+
+         x <- c (3, 5, 7)
+
+         y <- c (1, 9, 11)
+
+         print (x + y)
+
+         Após a execução do programa, será obtido o seguinte resultado.
+
+         [1] 36
+
+         Comentários:
+
+         Em R, a adição de vetores é feita elemento a elemento. O vetor x contém os elementos
+         (3, 5, 7) e o vetor y contém os elementos (1, 9, 11). Quando você executa a operação x
+         + y, o R adiciona o primeiro elemento de x ao primeiro elemento de y, o segundo
+         elemento de x ao segundo elemento de y, e assim por diante. Portanto, o resultado
+         seria um novo vetor com os elementos (3+1, 5+9, 7+11), ou seja, (4, 14, 18).
+
+         A função print() exibirá então o vetor resultante, portanto, após a execução do
+         programa, o resultado exibido será [1] 4 14 18, não 36.
+
+         Portanto, a afirmação é incorreta.
+
+         Gabarito: E
+
+
+
+     11. (VUNESP - 2023 - TCM-SP - Auditor de Controle Externo - Especialidade: Tecnologia
+         da Informação) Na linguagem de programação R, uma amostra aleatória
+         com 100 elementos normalmente distribuídos é obtida com a instrução:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         A) rnorm(100)
+         B) pmax(0, 100)
+         C) plot(1, 100)
+         D) runif(100)
+         E) c(0:100)
+
+         Comentários:
+
+         A alternativa correta é a A: `rnorm(100)`.
+
+         Vamos explicar as opções:
+
+         A) `rnorm(100)` - Esta é a função correta para gerar uma amostra de 100 elementos
+         que são distribuídos normalmente. A função `rnorm(n)` em R gera `n` números
+         aleatórios de uma distribuição normal padrão.
+
+         B) `pmax(0, 100)` - A função `pmax()` retorna o máximo paralelo de duas ou mais
+         vetores. Não gera números aleatórios.
+
+         C) `plot(1, 100)` - A função `plot()` é usada para criar um gráfico. Não gera números
+         aleatórios.
+
+         D) `runif(100)` - Esta função gera 100 números aleatórios de uma distribuição uniforme
+         contínua entre 0 e 1, não uma distribuição normal.
+
+         E) `c(0:100)` - A função `c()` combina seus argumentos em um vetor. Aqui, ela está
+         gerando uma sequência de inteiros de 0 a 100. Não são números aleatórios nem estão
+         normalmente distribuídos.
+
+         Portanto, a única opção que gera uma amostra de 100 elementos distribuídos
+         normalmente é a opção A: `rnorm(100)`.
+
+
+         Gabarito: A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+    A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+    proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+    perguntas que exigem respostas subjetivas.
+
+    São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+    resolução, como ocorre nas clássicas questões objetivas.
+
+    O objetivo é que você realize uma auto explicação mental de alguns pontos do conteúdo, para
+    consolidar melhor o que aprendeu ;)
+
+    Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim,
+    ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+    conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+
+    Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+    os diversos pontos do conteúdo, na medida do possível.
+
+    É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido
+    na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar
+    a resolução de questões objetivas típicas de concursos, ok?
+
+    Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+    Vamos ao nosso questionário:
+
+
+
+
+                                                    Perguntas
+
+    1. O que é R?
+
+    2. O que são variáveis em R?
+
+    3. Quais são os tipos de dados em R?
+
+    4. O que são coleções em R?
+
+    5. Quais são os operadores em R?
+
+    6. O que são estruturas de seleção em R?
+
+    7. O que são estruturas de repetição em R?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+    8. O que são funções em R?
+
+    9. Quais são as principais aplicações de R?
+
+    10. Quais são algumas funções pré-definidas comuns em R?
+
+    11. O que a função mean() faz em R?
+
+    12. Qual é a função da função median() em R?
+
+    13. O que é uma distribuição em R?
+
+    14. O que é um vetor em R?
+
+    15. O que é uma matriz em R?
+
+    16. O que é um array em R?
+
+    17. O que é um data frame em R?
+
+    18. O que a função sum() faz em R?
+
+    19. Qual é o propósito da função sd() em R?
+
+    20. O que a função max() faz em R?
+
+    21. Qual é a função da função min() em R?
+
+    22. O que é a função seq() em R?
+
+    23. O que a função paste() faz em R?
+
+    24. Qual é a função da função nchar() em R?
+
+    25. O que a função length() faz em R?
+
+
+
+
+                                          Perguntas e Respostas
+
+      1. O que é R?
+
+      Resposta: R é uma linguagem de programação de código aberto e gratuito, frequentemente
+      utilizada em análise estatística, mineração de dados e visualização de dados.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      2. O que são variáveis em R?
+
+      Resposta: Variáveis em R são nomes dados a valores em um programa, que podem ser
+      armazenados e manipulados pelo programa.
+
+      3. Quais são os tipos de dados em R?
+
+      Resposta: Os tipos de dados em R incluem character, complex, integer, logical e numeric.
+
+      4. O que são coleções em R?
+
+      Resposta: Coleções em R são estruturas de dados que permitem armazenar múltiplos valores em
+      uma única variável. Exemplos incluem vetores, matrizes, listas e arrays.
+
+      5. Quais são os operadores em R?
+
+      Resposta: Os operadores em R incluem operadores aritméticos, operadores de comparação,
+      operadores de atribuição, operadores lógicos, operadores de concatenação e operadores de
+      acesso.
+
+      6. O que são estruturas de seleção em R?
+
+      Resposta: Estruturas de seleção em R são construções de programação que permitem executar
+      diferentes ações com base em uma condição. Exemplos incluem if-else statements e switch
+      statements.
+
+      7. O que são estruturas de repetição em R?
+
+      Resposta: Estruturas de repetição em R são construções de programação que permitem executar
+      um conjunto de instruções repetidamente com base em uma condição. Exemplos incluem for
+      loops, while loops e repeat loops.
+
+      8. O que são funções em R?
+
+      Resposta: Funções em R são blocos de código que executam uma tarefa específica e podem ser
+      reutilizados em diferentes partes de um programa. As funções podem receber entradas
+      (argumentos) e retornar saídas.
+
+      9. Quais são as principais aplicações de R?
+
+      Resposta: R é frequentemente utilizado em análise estatística, mineração de dados e visualização
+      de dados, bem como em áreas como biologia, finanças e marketing.
+
+      10. Quais são algumas funções pré-definidas comuns em R?
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Resposta: Algumas funções pré-definidas comuns em R incluem sum, mean, sd, max, min, seq,
+      paste, nchar e length.
+
+      11. O que a função mean() faz em R?
+
+      Resposta: A função mean() é usada para calcular a média aritmética. de um conjunto de valores
+      numéricos em R.
+
+      12. Qual é a função da função median() em R?
+
+      Resposta: A função median() é usada para calcular a mediana de um conjunto de valores
+      numéricos em R. A mediana é uma medida estatística que representa o valor central de um
+      conjunto de dados ordenados. Para calcular a mediana, os dados são organizados em ordem
+      crescente ou decrescente, e o valor que se encontra exatamente no meio do conjunto é
+      selecionado. Se houver um número ímpar de dados, a mediana é o valor do meio. Se houver um
+      número par de dados, a mediana é a média dos dois valores do meio. A mediana é uma medida
+      de tendência central robusta, menos sensível a valores extremos em comparação com a média
+      aritmética. É frequentemente usada para resumir dados que não seguem uma distribuição
+      simétrica.
+
+      13. O que é uma distribuição em R?
+
+      Resposta: Em R, uma distribuição refere-se a um conjunto de valores de uma variável aleatória.
+      R oferece várias funções para trabalhar com diferentes distribuições de probabilidade, como a
+      distribuição normal, distribuição binomial, entre outras.
+
+      14. O que é um vetor em R?
+
+      Resposta: Em R, um vetor é uma estrutura de dados unidimensional que armazena elementos do
+      mesmo tipo. Ele pode conter números, caracteres, lógicos ou outros objetos em R. Os elementos
+      de um vetor são acessados por meio de índices numéricos.
+
+      15. O que é uma matriz em R?
+
+      Resposta: Em R, uma matriz é uma estrutura de dados bidimensional que contém elementos do
+      mesmo tipo. Ela é composta por linhas e colunas, e os elementos são organizados em uma grade
+      retangular. As matrizes em R são úteis para armazenar dados tabulares, como uma planilha.
+
+      16. O que é um array em R?
+
+      Resposta: Em R, um array é uma estrutura de dados multidimensional que pode conter
+      elementos do mesmo tipo. Ao contrário de matrizes que são restritas a duas dimensões, arrays
+      em R podem ter mais de duas dimensões. Eles são úteis para armazenar dados em várias
+      dimensões, como dados volumétricos ou dados de séries temporais multidimensionais.
+
+      17. O que é um data frame em R?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Resposta: Em R, um data frame é uma estrutura de dados tabular semelhante a uma tabela de
+      banco de dados ou uma planilha. Ele é composto por colunas que podem ter tipos de dados
+      diferentes, mas cada coluna deve ter o mesmo número de elementos. Os data frames são
+      frequentemente usados para armazenar dados reais, onde cada coluna representa uma variável
+      e cada linha representa uma observação ou caso.
+
+      18. O que a função sum() faz em R?
+
+      Resposta: A função sum() é usada para calcular a soma de um conjunto de valores numéricos em
+      R.
+
+      19. Qual é o propósito da função sd() em R?
+
+      Resposta: A função sd() é usada para calcular o desvio padrão de um conjunto de valores
+      numéricos em R. O desvio padrão é uma medida de dispersão que indica o quão distantes os
+      valores estão da média.
+
+      20. O que a função max() faz em R?
+
+      Resposta: A função max() é usada para encontrar o valor máximo em um conjunto de valores
+      numéricos em R.
+
+      21. Qual é a função da função min() em R?
+
+      Resposta: A função min() é usada para encontrar o valor mínimo em um conjunto de valores
+      numéricos em R.
+
+      22. O que é a função seq() em R?
+
+      Resposta: A função seq() é usada para gerar uma sequência de números em R. Você pode
+      especificar o valor inicial, final e o incremento da sequência.
+
+
+
+      23. O que a função paste() faz em R?
+
+      Resposta: A função paste() é usada para concatenar elementos de objetos em uma única
+      sequência de caracteres em R. Ela combina os elementos usando um separador especificado.
+
+      24. Qual é a função da função nchar() em R?
+
+      Resposta: A função nchar() é usada para contar o número de caracteres em uma sequência de
+      caracteres em R.
+
+      25. O que a função length() faz em R?
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+      Resposta: A função length() é usada para obter o comprimento de um objeto em R, ou seja, o
+      número de elementos em um vetor, matriz, lista ou outro objeto.
+
+
+                                LISTA DE QUESTÕES ESTRATÉGICAS
+
+     1. (CEBRASPE (CESPE)        - Analista de Previdência Complementar (FUNPRESP-
+         EXE)/Investimentos/2022) No programa R, a função aritmética básica (2+2)^2=16
+         pode ser calculada digitando-se > 2+2 ∧2.
+
+     2. (FGV - Analista (MPE SC)/Dados e Pesquisas/2022) No contexto da linguagem de
+        programação R, analise o código a seguir.
+
+         for (x in 1:10) {
+         if (x >= 4) {
+         print(x)
+         next }
+         if (x == 8) {break}
+         }
+
+         O número de linhas exibidas pela execução desse código é:
+
+         a) 6;
+         b) 7;
+         c) 8;
+         d) 9;
+         e) 10.
+
+     3. (FGV - Analista (MPE SC)/Dados e Pesquisas/2022) No contexto da linguagem de
+        programação R, analise as afirmativas a seguir.
+
+         I. Vetores (vectors) são listas de itens que devem ter o mesmo tipo.
+         II. R trabalha com vários tipos de dados (data types), numéricos, lógicos e textuais, mas
+         as variáveis podem mudar de tipo mesmo depois da instanciação.
+         III. Os itens de uma lista (list) não podem ser substituídos. São permitidas apenas a
+         inserção e a remoção de itens.
+
+         Está correto somente o que se afirma em:
+
+         A) I;
+         B) II;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         C) III;
+         D) I e II;
+         E) II e III.
+
+     4. (IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021) Função da linguagem
+        de programação R que permite fazer gráficos de dispersão. De acordo com a descrição,
+        a função é:
+
+         A) head
+         B) plot
+         C) grafhic
+         D) dispersion
+         E) mean
+
+     5. (CEBRASPE (CESPE) - Agente de Polícia Federal/2021) O resultado do código R
+        seguinte será "12".
+
+         f<- function(x) {
+            g <- function(y) {
+               y+z
+         }
+            z <- 4
+            x + g(x)
+         }
+         z <- 10
+         f (4)
+
+     6. (FGV - 2023 - Receita Federal - Analista-Tributário) Analise o código R a seguir.
+
+
+
+
+         Assinale os valores exibidos pela execução desse código, na ordem.
+
+         A) 45, 30, 18, 9, 3, 0
+         B) 63, 45, 30, 18, 9, 3
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         C) 0, 0, 0, 0, 0, 0
+         D) 0, 3, 9, 18, 30, 45
+         E) 3, 9, 18, 30, 45, 63
+
+     7. (CESPE / CEBRASPE - 2022 - ANP - Regulador de Novas Atribuições IV) Considere-se o
+        script R que se segue.
+
+         X <- c(0, 19, 205, 34, 506)
+
+         Y <- X
+
+         X[2] <- 91
+
+         Y[6] <- 71
+
+         print(X)
+
+         print(Y)
+
+         O resultado da execução desse script é o apresentado a seguir.
+
+            0 91 205 34 506
+
+            0 19 205 34 506 71
+
+     8. (CESPE / CEBRASPE - 2022 - ANP - Regulador de Novas Atribuições IV) A execução do
+        seguinte código R resulta em 1000.
+
+         sum(rep(5,20))+sum(seq(0,200,25))
+
+     9. (CESPE / CEBRASPE - 2022 - ANP - Regulador de Novas Atribuições IV) A execução do
+         seguinte código R retorna 10100 como resultado.
+
+
+
+
+     10. (CESPE - 2018 - Polícia Federal - Agente de Polícia Federal) Considere o programa a
+         seguir, escrito em R.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 06
+
+
+
+
+         x <- c (3, 5, 7)
+
+         y <- c (1, 9, 11)
+
+         print (x + y)
+
+         Após a execução do programa, será obtido o seguinte resultado.
+
+         [1] 36
+
+
+     11. (VUNESP - 2023 - TCM-SP - Auditor de Controle Externo - Especialidade: Tecnologia
+         da Informação) Na linguagem de programação R, uma amostra aleatória
+         com 100 elementos normalmente distribuídos é obtida com a instrução:
+
+         A) rnorm(100)
+         B) pmax(0, 100)
+         C) plot(1, 100)
+         D) runif(100)
+         E) c(0:100)
+
+
+
+
+                                                    Gabaritos
+
+     1. E
+     2. B
+     3. D
+     4. B
+     5. C
+     6. D
+     7. C
+     8. C
+     9. C
+     10. E
+     11. A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

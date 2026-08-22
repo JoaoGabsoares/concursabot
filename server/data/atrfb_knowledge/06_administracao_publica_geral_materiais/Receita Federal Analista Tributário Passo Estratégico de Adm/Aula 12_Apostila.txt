@@ -1,0 +1,868 @@
+                                                    Aula 11
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+
+
+                                                        Autor:
+                                              Abraão Pereira
+
+
+
+
+                                        20 de Dezembro de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+   Abraão Pereira
+   Aula 11
+
+
+
+
+                                                 SIMULADO
+Considerações iniciais .............................................................................................. 2
+Simulado ....................................................................................................................... 3
+  Simulado - sem comentários ................................................................................................ 3
+  Questão desafio – Sem comentário ................................................................................... 7
+  Gabarito do simulado .............................................................................................................. 9
+  Simulado - com comentários ............................................................................................. 10
+  Questão desafio – Comentada .......................................................................................... 18
+  Considerações Finais ............................................................................................................. 20
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                                           1
+          www.estrategiaconcursos.com.br                                                                                          20
+                                          https://t.me/KakashiAssinaturasBot
+ Abraão Pereira
+ Aula 11
+
+
+
+
+                                CONSIDERAÇÕES INICIAIS
+Olá, Turma!
+Prontos para o nosso terceiro simulado?
+
+Acreditamos, veementemente, na eficiência, para a sua prova, de um simulado bem
+elaborado pelos professores e bem executado pelos alunos.
+
+Nessa linha, apresentaremos para vocês questões inéditas, que passarão pelos
+pontos mais importantes das últimas aulas do nosso curso.
+
+Bem, montamos o simulado que servirá como um bom treino e revisão para vocês
+dos tópicos pertinentes à prova, por isso, resolva todas as questões sem consulta!
+
+O ideal é que vocês façam o simulado já treinando o tempo de execução.
+
+Ao final teremos uma questão desafio, discursiva, para testar seu conhecimento
+sobre outra ótica!
+
+
+
+                                                                                        Bom simulado!!!
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                2
+       www.estrategiaconcursos.com.br                                                               20
+                                   https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+                                                SIMULADO
+
+Simulado - sem comentários
+
+1. (Administração Geral / Passo Estratégico / 2024)
+Um gerente de projetos foi contratado para implementar uma nova solução de software
+em uma empresa. Durante a fase de planejamento, ele identificou que o escopo precisava
+ser bem definido devido à natureza específica do projeto, mas o ambiente da organização
+era altamente dinâmico, com frequentes mudanças de prioridades e recursos limitados.
+Considerando o Guia PMBOK, qual abordagem de ciclo de vida seria mais adequada para
+o projeto?
+a) Preditiva, devido à necessidade de planejamento detalhado no início do projeto.
+b) Adaptativa, pois o ambiente dinâmico exige entregas incrementais e flexíveis.
+c) Híbrida, para equilibrar planejamento detalhado inicial e adaptação contínua.
+d) Ágil, para eliminar a necessidade de definição de escopo no início.
+e) Tradicional, pois facilita a definição rígida de cronogramas e custos.
+
+
+2. (Administração Geral / Passo Estratégico / 2024)
+Considere que uma organização está implementando a 7ª edição do PMBOK para
+gerenciar um projeto complexo. Durante a reunião inicial, foram discutidos os seguintes
+pontos: comunicação com stakeholders, desenvolvimento da equipe, medição de
+resultados e gestão de incertezas. Esses elementos estão diretamente associados a quais
+domínios de desempenho, respectivamente?
+a) Comunicação, Recursos, Medição e Riscos.
+b) Partes Interessadas, Equipe, Medição e Incerteza.
+c) Planejamento, Equipe, Entrega e Trabalho do Projeto.
+d) Stakeholders, Riscos, Medição e Equipe.
+e) Comunicação, Trabalho do Projeto, Planejamento e Incerteza.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    3
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+3. (Administração Geral / Passo Estratégico / 2024)
+Uma equipe utilizou um gráfico que exibe a frequência acumulada de problemas ocorridos
+em um projeto, ordenando-os do mais frequente ao menos frequente. Essa ferramenta é
+essencial para priorizar ações corretivas. Qual é o nome dessa ferramenta?
+a) Diagrama de Ishikawa.
+b) Histograma.
+c) Gráfico de Controle.
+d) Diagrama de Pareto.
+e) Diagrama de Dispersão.
+
+
+4. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa enfrenta um risco significativo em um projeto, relacionado à dependência
+de um fornecedor exclusivo. Qual seria a melhor resposta ao risco, considerando as
+estratégias definidas no PMBOK?
+a) Aceitar o risco, monitorando continuamente o desempenho do fornecedor.
+b) Evitar o risco, alterando o fornecedor antes da execução do projeto.
+c) Mitigar o risco, negociando cláusulas de penalidade com o fornecedor.
+d) Transferir o risco, contratando um seguro para cobrir atrasos de entrega.
+e) Ignorar o risco, considerando-o de baixo impacto.
+
+
+5. (Administração Geral / Passo Estratégico / 2024)
+Um gestor implementou o Ciclo PDCA para melhorar o desempenho de uma linha de
+produção. Durante a fase "Check", ele verificou que o índice de defeitos não diminuiu
+conforme o esperado. Qual deveria ser o próximo passo dentro da metodologia?
+a) Repetir a fase "Plan", redefinindo objetivos e estratégias.
+b) Reiniciar o ciclo completo a partir de "Do".
+c) Corrigir as falhas diretamente na fase "Act".
+d) Revisar os dados coletados e ajustar o plano na fase "Check".
+e) Encerrar o ciclo, arquivando os resultados como aprendizado.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    4
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+6. (Administração Geral / Passo Estratégico / 2024)
+Uma organização enfrenta problemas relacionados à colaboração entre departamentos.
+Durante um treinamento, o gerente explicou que a diferença principal entre um grupo e
+uma equipe está na forma como os resultados são gerados. Considerando os conceitos
+discutidos, qual das alternativas abaixo melhor descreve essa diferença?
+a) Grupos têm resultados definidos apenas pela soma das contribuições individuais,
+enquanto equipes geram resultados sinérgicos que superam o somatório das partes.
+b) Grupos são formados por afinidade espontânea, enquanto equipes são sempre criadas
+pela organização com objetivos definidos.
+c) Grupos têm hierarquia informal, enquanto equipes são exclusivamente hierárquicas e
+organizadas verticalmente.
+d) Equipes possuem papéis claramente definidos e independentes, enquanto grupos têm
+funções sobrepostas sem delimitação clara de responsabilidades.
+e) Grupos e equipes não possuem diferenças significativas, sendo os termos utilizados de
+forma intercambiável em gestão organizacional.
+
+
+7. (Administração Geral / Passo Estratégico / 2024)
+Uma organização enfrenta problemas relacionados à colaboração entre departamentos.
+Durante um treinamento, o gerente explicou que a diferença principal entre um grupo e
+uma equipe está na forma como os resultados são gerados. Considerando os conceitos
+discutidos, qual das alternativas abaixo melhor descreve essa diferença?
+a) Grupos têm resultados definidos apenas pela soma das contribuições individuais,
+enquanto equipes geram resultados sinérgicos que superam o somatório das partes.
+b) Grupos são formados por afinidade espontânea, enquanto equipes são sempre criadas
+pela organização com objetivos definidos.
+c) Grupos têm hierarquia informal, enquanto equipes são exclusivamente hierárquicas e
+organizadas verticalmente.
+d) Equipes possuem papéis claramente definidos e independentes, enquanto grupos têm
+funções sobrepostas sem delimitação clara de responsabilidades.
+e) Grupos e equipes não possuem diferenças significativas, sendo os termos utilizados de
+forma intercambiável em gestão organizacional.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    5
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+8. (Administração Geral / Passo Estratégico / 2024)
+Um grupo em uma fábrica possui alto grau de coesão, mas as normas estabelecidas não
+incentivam alta produtividade. Qual será o impacto esperado no desempenho do grupo?
+a) Alta produtividade devido à elevada coesão, independentemente das normas.
+b) Produtividade moderada, pois a coesão compensa normas inadequadas.
+c) Baixa produtividade, uma vez que normas fracas resultam em desempenho inferior.
+d) Desempenho imprevisível, já que a coesão e as normas são variáveis independentes.
+e) Produtividade alta apenas em casos de pressão externa da liderança.
+
+
+9. (Administração Geral / Passo Estratégico / 2024)
+Em um grupo de trabalho, Maria constantemente atua como mediadora, ajudando a
+resolver conflitos e promovendo um ambiente colaborativo, mesmo sem ser oficialmente
+designada para isso. Esse comportamento caracteriza qual papel informal?
+a) Contribuinte
+b) Comunicador
+c) Desafiador
+d) Colaborador
+e) Facilitador
+
+
+10.    (Administração Geral / Passo Estratégico / 2024)
+Uma equipe de desenvolvimento de software foi reduzida de 12 para 6 membros para
+melhorar a comunicação e a tomada de decisão. Como essa mudança pode impactar a
+coesão e o desempenho?
+a) Aumentará a coesão e o desempenho, pois grupos menores favorecem interações
+eficazes.
+b) Diminuirá a coesão, mas aumentará o desempenho devido à redução de conflitos.
+c) Não afetará a coesão, mas reduzirá o desempenho devido à menor diversidade de ideias.
+d) Aumentará a coesão, mas reduzirá o desempenho por sobrecarga dos membros
+restantes.
+e) Diminuirá tanto a coesão quanto o desempenho, devido à perda de membros
+importantes.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    6
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+Questão desafio – Sem comentário
+
+(Administração Geral / Passo Estratégico / 2024)
+Uma grande empresa de tecnologia, a TechFlow Inc., está enfrentando desafios
+organizacionais em meio a um projeto crítico para o lançamento de um novo software. A
+equipe principal do projeto, formada por profissionais de diferentes departamentos, foi
+criada como uma força-tarefa temporária, mas conflitos internos e atrasos na entrega das
+tarefas estão comprometendo os prazos. Entre os principais problemas identificados estão:
+   • Conflitos interpessoais que dificultam a colaboração, com membros assumindo
+     papéis conflitantes.
+   • Falta de coesão na equipe, com membros questionando as metas do projeto e o
+     estilo de liderança.
+   • Recursos insuficientes, que geraram atrasos na entrega e aumento do estresse entre
+     os integrantes.
+   • Um dos líderes de equipe tenta aplicar técnicas de tomada de decisão em grupo,
+     como brainstorming, mas as discussões frequentemente se tornam improdutivas.
+   • O departamento de Gestão de Pessoas propôs implementar treinamento em soft
+     skills para melhorar a comunicação e criar uma cultura de feedback mais efetiva
+  Com base no caso, responda às seguintes perguntas:
+  1. Considerando os processos de gestão de pessoas, como a TechFlow pode abordar
+     os problemas de conflitos interpessoais e falta de coesão na equipe? Relacione sua
+     resposta aos processos de "Manter Pessoas" e "Desenvolver Pessoas".
+  2. Quais estratégias de desenvolvimento de equipes podem ser implementadas para
+     que a força-tarefa alcance maior sinergia e produtividade, com base nos modelos de
+     desenvolvimento de equipes apresentados por Chiavenato e Katzenbach & Smith?
+  3. Como o líder da equipe pode melhorar a aplicação de técnicas de tomada de decisão,
+     considerando os desafios descritos, e quais precauções ele deve tomar para evitar
+     problemas como "pensamento de grupo" e desequilíbrio na participação?
+RESPOSTA:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    7
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+ Abraão Pereira
+ Aula 11
+
+
+
+
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    8
+       www.estrategiaconcursos.com.br                                                   20
+                                   https://t.me/KakashiAssinaturasBot
+ Abraão Pereira
+ Aula 11
+
+
+
+
+Gabarito do simulado
+
+                                             MEU                                                 MEU
+  QUESTÃO               GABARITO                               QUESTÃO              GABARITO
+                                           GABARITO                                            GABARITO
+
+           1                  C                                      6                  A
+
+           2                  B                                      7                  B
+
+           3                  D                                      8                  C
+
+           4                  C                                      9                  B
+
+           5                  C                                     10                  A
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                 9
+       www.estrategiaconcursos.com.br                                                                20
+                                   https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+Simulado - com comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+Um gerente de projetos foi contratado para implementar uma nova solução de software
+em uma empresa. Durante a fase de planejamento, ele identificou que o escopo precisava
+ser bem definido devido à natureza específica do projeto, mas o ambiente da organização
+era altamente dinâmico, com frequentes mudanças de prioridades e recursos limitados.
+Considerando o Guia PMBOK, qual abordagem de ciclo de vida seria mais adequada para
+o projeto?
+a) Preditiva, devido à necessidade de planejamento detalhado no início do projeto.
+b) Adaptativa, pois o ambiente dinâmico exige entregas incrementais e flexíveis.
+c) Híbrida, para equilibrar planejamento detalhado inicial e adaptação contínua.
+d) Ágil, para eliminar a necessidade de definição de escopo no início.
+e) Tradicional, pois facilita a definição rígida de cronogramas e custos.
+Comentários:
+a) INCORRETA: A abordagem preditiva não se adapta bem a ambientes dinâmicos.
+
+b) INCORRETA: Apesar de atender ao dinamismo, a abordagem adaptativa não foca em
+planejamento inicial detalhado.
+
+c) CORRETA: O método híbrido equilibra a necessidade de planejamento inicial com a adaptação
+às mudanças.
+
+d) INCORRETA: A abordagem ágil não elimina a definição de escopo, mas prioriza entregas
+incrementais.
+
+e) INCORRETA: O método tradicional não se alinha a contextos dinâmicos.
+
+Gabarito: C
+
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+Considere que uma organização está implementando a 7ª edição do PMBOK para
+gerenciar um projeto complexo. Durante a reunião inicial, foram discutidos os seguintes
+pontos: comunicação com stakeholders, desenvolvimento da equipe, medição de
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   10
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+resultados e gestão de incertezas. Esses elementos estão diretamente associados a quais
+domínios de desempenho, respectivamente?
+a) Comunicação, Recursos, Medição e Riscos.
+b) Partes Interessadas, Equipe, Medição e Incerteza.
+c) Planejamento, Equipe, Entrega e Trabalho do Projeto.
+d) Stakeholders, Riscos, Medição e Equipe.
+e) Comunicação, Trabalho do Projeto, Planejamento e Incerteza.
+Comentários:
+a) INCORRETA: "Comunicação" não é domínio na 7ª edição do PMBOK.
+
+b) CORRETA: Estes elementos estão diretamente relacionados aos domínios mencionados.
+
+c) INCORRETA: Planejamento e Entrega não se alinham aos pontos discutidos.
+
+d) INCORRETA: Mistura conceitos de outros domínios, como "Trabalho do Projeto".
+
+e) INCORRETA: "Comunicação" não faz parte dos oito domínios.
+
+Gabarito: B
+
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+Uma equipe utilizou um gráfico que exibe a frequência acumulada de problemas ocorridos
+em um projeto, ordenando-os do mais frequente ao menos frequente. Essa ferramenta é
+essencial para priorizar ações corretivas. Qual é o nome dessa ferramenta?
+a) Diagrama de Ishikawa.
+b) Histograma.
+c) Gráfico de Controle.
+d) Diagrama de Pareto.
+e) Diagrama de Dispersão.
+Comentários:
+a) INCORRETA: O Diagrama de Ishikawa identifica causas de problemas, não frequências.
+
+b) INCORRETA: O histograma mostra a distribuição de dados, mas não prioriza ações.
+
+c) INCORRETA: Gráficos de controle monitoram variabilidade, não frequências acumuladas.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    11
+        www.estrategiaconcursos.com.br                                                    20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+d) CORRETA: O Diagrama de Pareto é ideal para priorização com base na regra 80/20.
+
+e) INCORRETA: Diagramas de dispersão analisam correlações, não frequências acumuladas.
+
+Gabarito: D
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa enfrenta um risco significativo em um projeto, relacionado à dependência
+de um fornecedor exclusivo. Qual seria a melhor resposta ao risco, considerando as
+estratégias definidas no PMBOK?
+a) Aceitar o risco, monitorando continuamente o desempenho do fornecedor.
+b) Evitar o risco, alterando o fornecedor antes da execução do projeto.
+c) Mitigar o risco, negociando cláusulas de penalidade com o fornecedor.
+d) Transferir o risco, contratando um seguro para cobrir atrasos de entrega.
+e) Ignorar o risco, considerando-o de baixo impacto.
+Comentários:
+
+a) INCORRETA: Aceitar o risco não reduz seu impacto ou probabilidade.
+
+b) INCORRETA: Trocar o fornecedor pode ser inviável dependendo do contexto.
+
+c) CORRETA: Negociar cláusulas reduz o impacto potencial do risco.
+
+d) INCORRETA: A transferência não resolve a dependência de um único fornecedor.
+
+e) INCORRETA: Ignorar o risco é inadequado para questões críticas.
+
+Gabarito: C
+
+
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+Um gestor implementou o Ciclo PDCA para melhorar o desempenho de uma linha de
+produção. Durante a fase "Check", ele verificou que o índice de defeitos não diminuiu
+conforme o esperado. Qual deveria ser o próximo passo dentro da metodologia?
+a) Repetir a fase "Plan", redefinindo objetivos e estratégias.
+b) Reiniciar o ciclo completo a partir de "Do".
+c) Corrigir as falhas diretamente na fase "Act".
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   12
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+d) Revisar os dados coletados e ajustar o plano na fase "Check".
+e) Encerrar o ciclo, arquivando os resultados como aprendizado.
+Comentários:
+
+a) INCORRETA: Repetir "Plan" sem corrigir falhas na "Act" compromete o ciclo.
+
+b) INCORRETA: Reiniciar o ciclo completo antes de corrigir falhas é ineficaz.
+
+c) CORRETA: A fase "Act" aplica correções com base nos resultados da fase "Check".
+
+d) INCORRETA: A revisão de dados ocorre no "Check", mas ações corretivas pertencem à "Act".
+
+e) INCORRETA: Encerrar o ciclo antes de ajustes impede a melhoria contínua.
+                                                       ==219a34==
+
+
+
+
+Gabarito: C
+
+
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Uma organização enfrenta problemas relacionados à colaboração entre departamentos.
+Durante um treinamento, o gerente explicou que a diferença principal entre um grupo e
+uma equipe está na forma como os resultados são gerados. Considerando os conceitos
+discutidos, qual das alternativas abaixo melhor descreve essa diferença?
+a) Grupos têm resultados definidos apenas pela soma das contribuições individuais,
+enquanto equipes geram resultados sinérgicos que superam o somatório das partes.
+
+
+b) Grupos são formados por afinidade espontânea, enquanto equipes são sempre criadas
+pela organização com objetivos definidos.
+c) Grupos têm hierarquia informal, enquanto equipes são exclusivamente hierárquicas e
+organizadas verticalmente.
+d) Equipes possuem papéis claramente definidos e independentes, enquanto grupos têm
+funções sobrepostas sem delimitação clara de responsabilidades.
+e) Grupos e equipes não possuem diferenças significativas, sendo os termos utilizados de
+forma intercambiável em gestão organizacional.
+Comentários:
+
+a) CORRETA: A principal diferença entre grupos e equipes está na sinergia gerada pelas equipes,
+que proporciona resultados superiores ao simples somatório das contribuições individuais.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     13
+        www.estrategiaconcursos.com.br                                                     20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+b) INCORRETA: Nem todos os grupos são espontâneos, pois existem grupos formais criados pela
+organização.
+
+c) INCORRETA: Equipes podem ser organizadas tanto horizontal quanto verticalmente.
+
+d) INCORRETA: Equipes tendem a ter papéis complementares, enquanto grupos podem ter
+sobreposição de funções, mas essa não é a diferença principal.
+
+e) INCORRETA: Grupos e equipes possuem diferenças estruturais e funcionais significativas.
+
+Gabarito: A
+
+
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa iniciou um projeto com uma nova equipe, composta por colaboradores de
+diferentes departamentos. Nas primeiras semanas, os membros estavam entusiasmados,
+mas conflitos surgiram ao longo do tempo, gerando dificuldades em alinhar expectativas e
+definir normas. Com base no modelo de Tuckman, qual etapa do desenvolvimento a
+equipe está enfrentando?
+a) Formação, onde os membros estão criando conexões iniciais e explorando os objetivos
+do grupo.
+b) Conflito (Tormenta), caracterizado por divergências em papéis, liderança e normas.
+c) Normalização, com fortalecimento das relações interpessoais e estabelecimento de
+normas.
+d) Desempenho, onde o grupo está altamente coeso e produtivo.
+e) Encerramento, com conclusão das tarefas e reflexão sobre os resultados.
+Comentários:
+
+a) INCORRETA: A formação ocorre no início, sem conflitos predominantes.
+
+b) CORRETA: A etapa de conflito (tormenta) é marcada por divergências sobre liderança, normas
+e papéis, como descrito no caso.
+
+c) INCORRETA: Normalização ocorre após os conflitos serem resolvidos.
+
+d) INCORRETA: Desempenho reflete a fase de maior maturidade e produtividade, não compatível
+com os conflitos descritos.
+
+e) INCORRETA: Encerramento ocorre apenas ao final do projeto.
+
+Gabarito: B
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       14
+        www.estrategiaconcursos.com.br                                                       20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+Um grupo em uma fábrica possui alto grau de coesão, mas as normas estabelecidas não
+incentivam alta produtividade. Qual será o impacto esperado no desempenho do grupo?
+a) Alta produtividade devido à elevada coesão, independentemente das normas.
+b) Produtividade moderada, pois a coesão compensa normas inadequadas.
+c) Baixa produtividade, uma vez que normas fracas resultam em desempenho inferior.
+d) Desempenho imprevisível, já que a coesão e as normas são variáveis independentes.
+e) Produtividade alta apenas em casos de pressão externa da liderança.
+Comentários:
+
+a) INCORRETA: A coesão elevada não garante produtividade alta se as normas forem
+fracas.
+
+b) INCORRETA: Normas inadequadas não são compensadas apenas pela coesão.
+
+c) CORRETA: A produtividade será baixa, pois o grupo tende a seguir as normas definidas,
+mesmo que elas não incentivem alta performance.
+
+d) INCORRETA: Coesão e normas são interdependentes, influenciando diretamente o
+desempenho.
+
+e) INCORRETA: A pressão externa pode gerar desempenho momentâneo, mas não
+sustentável.
+
+Gabarito: C
+
+
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+Em um grupo de trabalho, Maria constantemente atua como mediadora, ajudando a
+resolver conflitos e promovendo um ambiente colaborativo, mesmo sem ser oficialmente
+designada para isso. Esse comportamento caracteriza qual papel informal?
+a) Contribuinte
+b) Comunicador
+c) Desafiador
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   15
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+d) Colaborador
+e) Facilitador
+Comentários:
+
+a) INCORRETA: O contribuinte foca em alcançar objetivos por meio de tarefas específicas,
+não em resolver conflitos.
+
+b) CORRETA: O papel de comunicador é caracterizado por facilitar interações e resolver
+conflitos.
+
+c) INCORRETA: O desafiador questiona decisões e incentiva riscos, sem foco na mediação.
+
+d) INCORRETA: O colaborador propõe melhorias e amplia a visão do grupo, mas não
+necessariamente atua na mediação de conflitos.
+
+e) INCORRETA: O facilitador é similar ao comunicador, mas o termo não é amplamente
+aplicado nos estudos de papéis informais.
+
+Gabarito: B
+
+
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+Uma equipe de desenvolvimento de software foi reduzida de 12 para 6 membros para
+melhorar a comunicação e a tomada de decisão. Como essa mudança pode impactar a
+coesão e o desempenho?
+a) Aumentará a coesão e o desempenho, pois grupos menores favorecem interações
+eficazes.
+b) Diminuirá a coesão, mas aumentará o desempenho devido à redução de conflitos.
+c) Não afetará a coesão, mas reduzirá o desempenho devido à menor diversidade de ideias.
+d) Aumentará a coesão, mas reduzirá o desempenho por sobrecarga dos membros
+restantes.
+e) Diminuirá tanto a coesão quanto o desempenho, devido à perda de membros
+importantes.
+Comentários:
+a) CORRETA: Grupos menores tendem a ser mais coesos e produtivos devido à melhoria
+na comunicação e coordenação.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   16
+         www.estrategiaconcursos.com.br                                                   20
+                                     https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+b) INCORRETA: A coesão geralmente aumenta em grupos menores, especialmente em
+equipes bem geridas.
+
+c) INCORRETA: Grupos menores mantêm ou aumentam o desempenho quando bem
+equilibrados.
+
+d) INCORRETA: Sobrecarga pode ocorrer, mas não é regra em grupos menores bem
+estruturados.
+
+e) INCORRETA: Reduções planejadas geralmente mantêm membros essenciais,
+minimizando impactos negativos.
+
+Gabarito: A
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   17
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+Questão desafio – Comentada
+
+(Administração Geral / Passo Estratégico / 2024)
+Uma grande empresa de tecnologia, a TechFlow Inc., está enfrentando desafios
+organizacionais em meio a um projeto crítico para o lançamento de um novo software. A
+equipe principal do projeto, formada por profissionais de diferentes departamentos, foi
+criada como uma força-tarefa temporária, mas conflitos internos e atrasos na entrega das
+tarefas estão comprometendo os prazos. Entre os principais problemas identificados estão:
+   • Conflitos interpessoais que dificultam a colaboração, com membros assumindo
+     papéis conflitantes.
+   • Falta de coesão na equipe, com membros questionando as metas do projeto e o
+     estilo de liderança.
+   • Recursos insuficientes, que geraram atrasos na entrega e aumento do estresse entre
+     os integrantes.
+   • Um dos líderes de equipe tenta aplicar técnicas de tomada de decisão em grupo,
+     como brainstorming, mas as discussões frequentemente se tornam improdutivas.
+   • O departamento de Gestão de Pessoas propôs implementar treinamento em soft
+     skills para melhorar a comunicação e criar uma cultura de feedback mais efetiva
+  Com base no caso, responda às seguintes perguntas:
+  1. Considerando os processos de gestão de pessoas, como a TechFlow pode abordar
+     os problemas de conflitos interpessoais e falta de coesão na equipe? Relacione sua
+     resposta aos processos de "Manter Pessoas" e "Desenvolver Pessoas".
+  2. Quais estratégias de desenvolvimento de equipes podem ser implementadas para
+     que a força-tarefa alcance maior sinergia e produtividade, com base nos modelos de
+     desenvolvimento de equipes apresentados por Chiavenato e Katzenbach & Smith?
+  3. Como o líder da equipe pode melhorar a aplicação de técnicas de tomada de decisão,
+     considerando os desafios descritos, e quais precauções ele deve tomar para evitar
+     problemas como "pensamento de grupo" e desequilíbrio na participação.
+
+
+RESPOSTA:
+1. Considerando os processos de gestão de pessoas, como a TechFlow pode abordar os
+problemas de conflitos interpessoais e falta de coesão na equipe? Relacione sua resposta
+aos processos de "Manter Pessoas" e "Desenvolver Pessoas”.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   18
+        www.estrategiaconcursos.com.br                                                   20
+                                    https://t.me/KakashiAssinaturasBot
+  Abraão Pereira
+  Aula 11
+
+
+
+
+Manter Pessoas: Para abordar os conflitos interpessoais, a empresa pode promover sessões de
+mediação e incentivar práticas que melhorem a qualidade de vida no trabalho (QVT). Isso inclui
+oferecer suporte psicológico, promover um ambiente seguro para discussões construtivas e aplicar
+políticas que reduzam o estresse causado pela insuficiência de recursos.
+
+Desenvolver Pessoas: A implementação de um programa de treinamento em soft skills é essencial
+para melhorar a comunicação e a inteligência emocional dos membros da equipe. Além disso,
+pode-se investir em coaching para os líderes, auxiliando-os a gerenciar conflitos e criar um
+ambiente colaborativo mais efetivo.
+
+
+
+2. Quais estratégias de desenvolvimento de equipes podem ser implementadas para que
+a força-tarefa alcance maior sinergia e produtividade, com base nos modelos de
+desenvolvimento de equipes apresentados por Chiavenato e Katzenbach & Smith?
+Chiavenato: A equipe está provavelmente na fase de Experimentação e Aprendizado,
+caracterizada por conflitos e busca de alinhamento. Para avançar, a liderança deve reforçar normas
+e metas compartilhadas, promovendo debates sobre melhorias.
+
+Katzenbach & Smith: A equipe está em uma pseudo-equipe, sem foco coletivo. Estratégias para
+avançar incluem fortalecer a confiança e o compromisso mútuo, além de alinhar objetivos para
+alcançar o status de equipe real, com produtividade crescente.
+
+
+
+3. Como o líder da equipe pode melhorar a aplicação de técnicas de tomada de decisão,
+considerando os desafios descritos, e quais precauções ele deve tomar para evitar
+problemas como "pensamento de grupo" e desequilíbrio na participação?
+Para melhorar a aplicação de técnicas como brainstorming, o líder deve garantir que todos os
+membros tenham oportunidade de contribuir igualmente, adotando práticas como a técnica
+nominal de grupo, que prioriza a participação equitativa antes da discussão coletiva.
+
+Para evitar pensamento de grupo, é crucial estimular o pensamento crítico, designar um membro
+para desempenhar o papel de "advogado do diabo" e dividir a equipe em subgrupos para
+explorar alternativas diferentes.
+
+O líder também deve criar um ambiente de confiança, onde os membros sintam-se seguros para
+expressar opiniões divergentes sem temor de retaliação ou julgamento.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral        19
+        www.estrategiaconcursos.com.br                                                        20
+                                    https://t.me/KakashiAssinaturasBot
+ Abraão Pereira
+ Aula 11
+
+
+
+
+Considerações Finais
+
+
+Com a prática, chegaremos à excelência, mas precisamos perder o medo de nos
+testarmos, só assim iremos evoluir a cada dia.
+
+Vamos nos preparando sempre para uma prova bastante difícil e as nossas questões
+tentaram, ao máximo, seguir o nível da banca organizadora.
+
+Grande Abraço a todos!!
+
+
+
+Prof. Abraão Pereira
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   20
+       www.estrategiaconcursos.com.br                                                   20
+                                   https://t.me/KakashiAssinaturasBot
+

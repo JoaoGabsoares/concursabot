@@ -1,0 +1,3174 @@
+                                                    Aula 01
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                        Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                            20 de Junho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Pedrosa Lopes
+Aula 01
+
+
+
+
+                                                        DATA MINING
+   Sumário
+
+    Conteúdo ...................................................................................................................................... 1
+
+    ANÁLISE ESTATÍSTICA ....................................................................................................................... 2
+
+    Glossário de termos ..................................................................................................................... 3
+
+    Roteiro de revisão ........................................................................................................................ 6
+
+    Introdução e Motivação ............................................................................................................... 6
+
+    Conceitos e Definições ................................................................................................................. 7
+
+    Objetivos ...................................................................................................................................... 9
+
+    Processo de Mineração de Dados .............................................................................................. 10
+
+    Técnicas de Pré-Processamento (Preparação de Dados) ........................................................... 18
+
+    Técnicas de Mineração de Dados ............................................................................................... 24
+
+    Mineração de Texto ................................................................................................................... 29
+
+    Questões Estratégicas ................................................................................................................. 32
+
+    Questionário de revisão e aperfeiçoamento .............................................................................. 45
+
+    Perguntas.................................................................................................................................... 45
+
+    Perguntas e Respostas ............................................................................................................... 47
+
+    Lista de Questões Estratégicas ................................................................................................... 52
+
+    Gabaritos .................................................................................................................................... 59
+
+
+
+
+                                                               CONTEÚDO
+
+   Mineração de Dados. Conceitos fundamentais. Definições. Objetivos. Processos.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+      www.estrategiaconcursos.com.br
+
+                                             https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+                                          ANÁLISE ESTATÍSTICA
+
+      Inicialmente, convém destacar o percentual de incidência do assunto, dentro da disciplina Banco
+      de Dados e Business Intelligence em concursos/cargos similares. Quanto maior o percentual de
+      cobrança de um dado assunto, maior sua importância.
+
+      Obs.: um mesmo assunto pode ser classificado em mais de um tópico devido à
+      multidisciplinaridade de conteúdo.
+
+                                                                 Relevância na disciplina em concursos
+                              Assunto
+                                                                               similares
+
+       SQL                                                      21.6 %
+
+       BI (Business Intelligence)                               9.0 %
+
+       DW - Data Warehouse                                      7.2 %
+
+       SQL Server                                               7.2 %
+
+       Oracle                                                   6.3 %
+
+       Banco de Dados Multidimensionais                         5.4 %
+
+       Data Mining                                              5.4 %
+
+       Administração de banco de dados                          3.6 %
+
+       Banco de Dados                                           2.7 %
+
+       Formas normais                                           2.7 %
+
+       ETL (Extract Transform Load)                             2.7 %
+
+       Banco de Dados Relacionais                               2.7 %
+
+       Arquitetura de Banco de Dados                            1.8 %
+
+       SGBD - Sistema de Gerenciamento de Banco de              1.8 %
+       Dados
+
+       OLAP (On-line Analytical Processing)                     1.8 %
+
+       Segurança                                                1.8 %
+
+       MS-Access                                                1.8 %
+
+       Modelo relacional                                        1.8 %
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+       Metadados e Metainformação                               1.8 %
+
+       Álgebra relacional                                       0.9 %
+
+       Banco de Dados Paralelos e Distribuídos                  0.9 %
+
+       Gerência de Transações                                   0.9 %
+
+       Modelagem de dados                                       0.9 %
+
+       Gatilhos (Triggers)                                      0.9 %
+
+       DER - Diagrama de Entidade e Relacionamento              0.9 %
+
+       Visão (View)                                             0.9 %
+
+       Banco de Dados Textuais                                  0.9 %
+
+       Índices                                                  0.9 %
+
+       PostgreSQL                                               0.9 %
+
+       MySQL                                                    0.9 %
+
+       Big Data                                                 0.9 %
+
+
+
+
+                                         GLOSSÁRIO DE TERMOS
+
+      Faremos uma lista de termos que são relevantes ao entendimento do assunto desta aula. Caso
+      tenha alguma dúvida durante a leitura, esta seção pode lhe ajudar a esclarecer.
+
+      Mineração de dados: É a área da ciência da computação que tem como objetivo descobrir
+      padrões e informações úteis a partir de grandes volumes de dados.
+
+      Previsão: Técnica utilizada na mineração de dados para fazer estimativas ou projeções sobre um
+      evento ou resultado futuro com base em dados históricos.
+
+      Identificação: Processo de identificar características ou propriedades de um conjunto de dados,
+      com o objetivo de extrair informações úteis para tomada de decisões.
+
+      Classificação: Técnica de mineração de dados que consiste em separar um conjunto de dados em
+      diferentes categorias ou classes com base em características específicas.
+
+      Otimização: Processo de encontrar a melhor solução ou conjunto de soluções para um problema
+      específico de acordo com critérios definidos.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Processo de Mineração de Dados: Sequência de etapas seguidas para realizar uma tarefa de
+      mineração de dados, que inclui desde a seleção e preparação dos dados até a interpretação e
+      apresentação dos resultados. O processo de mineração de dados mais utilizado é o CRISP-DM,
+      que inclui seis etapas: entendimento do negócio, entendimento dos dados, preparação dos
+      dados, modelagem, avaliação e implantação.
+
+      Entendimento do Negócio (CRISP-DM): Etapa inicial do modelo CRISP-DM, onde são
+      identificados os objetivos do projeto e o contexto em que ele se insere. É importante entender
+      as necessidades dos usuários finais e definir as metas do projeto, para garantir que os resultados
+      da mineração de dados sejam relevantes e úteis.
+
+      Compreensão dos Dados (CRISP-DM): Etapa do CRISP-DM onde os dados são explorados e
+      analisados para entender melhor sua qualidade, estrutura e relacionamentos. A Compreensão
+      dos Dados ajuda a identificar problemas nos dados e a definir estratégias de pré-processamento
+      para melhorá-los e prepará-los para a fase de modelagem.
+
+      Preparação dos Dados (CRISP-DM): Etapa do modelo CRISP-DM onde os dados são preparados
+      para análise e modelagem, incluindo tarefas como seleção de variáveis, limpeza, transformação
+      e integração de dados. Essa etapa é crítica para garantir que os dados estejam em um formato
+      adequado para análise e que as suposições feitas pelo modelo sejam válidas.
+
+      Modelagem dos Dados (CRISP-DM): Etapa do CRISP-DM onde os modelos de mineração de
+      dados são construídos e avaliados. Isso inclui a escolha de algoritmos, definição de parâmetros,
+      ajuste do modelo e validação. O objetivo é desenvolver modelos precisos e robustos que possam
+      ser usados para fazer previsões ou identificar padrões nos dados.
+
+      Avaliação (CRISP-DM): Etapa final do modelo CRISP-DM, onde os modelos desenvolvidos na
+      etapa anterior são avaliados quanto à sua eficácia e eficiência. Isso inclui a análise de métricas
+      de desempenho e a comparação dos modelos com os objetivos do projeto. Os resultados dessa
+      avaliação podem levar à revisão do modelo ou à sua aceitação.
+
+      Entrega (CRISP-DM): Última etapa do modelo CRISP-DM, onde os resultados da mineração de
+      dados são entregues aos usuários finais. Isso inclui a apresentação dos resultados de forma clara
+      e compreensível, além da documentação do processo de mineração de dados para permitir a
+      replicação dos resultados. A Entrega é importante para garantir que os resultados da mineração
+      de dados sejam utilizados de forma efetiva e gerem valor para o negócio.
+
+      Incompletude: Falta de informação ou dados ausentes em uma base de dados.
+
+      Inconsistência: Conflitos ou discrepâncias entre os dados de uma base de dados, que podem ser
+      causados por erros humanos ou falhas no processo de coleta de dados.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Ruído: Dados que possuem erros aleatórios, que podem afetar negativamente a precisão da
+      análise dos dados.
+
+      Limpeza de dados (pré-processamento): Técnica de pré-processamento que visa remover
+      ruídos, inconsistências e dados incompletos de uma base de dados para prepará-la para análises
+      mais precisas.
+
+      Integração (pré-processamento): Técnica de pré-processamento que envolve a combinação de
+      múltiplas fontes de dados em uma única base de dados, com o objetivo de obter informações
+      mais abrangentes e completas.
+
+      Transformação (pré-processamento): Técnica de pré-processamento que envolve a modificação
+      dos dados em uma base de dados para torná-los mais adequados para análise, como por
+      exemplo, a normalização de valores numéricos.
+
+      Redução (pré-processamento): Técnica de pré-processamento que envolve a redução da
+      quantidade de dados em uma base de dados, removendo informações redundantes ou
+      irrelevantes.
+
+      Discretização (pré-processamento): Técnica de pré-processamento que envolve a
+      transformação de variáveis contínuas em variáveis discretas, para facilitar a análise e reduzir o
+      impacto do ruído nos dados.
+
+      Associação (técnica de mineração): Técnica de mineração de dados que visa descobrir relações
+      entre variáveis em uma base de dados, como por exemplo, a descoberta de produtos
+      frequentemente comprados juntos em um e-commerce.
+
+      Classificação (técnica de mineração): Técnica de mineração de dados que visa classificar objetos
+      em diferentes categorias, com base em suas características, como por exemplo, a classificação
+      de e-mails como spam ou não spam.
+
+      Agrupamento (técnica de mineração): Técnica de mineração de dados que visa agrupar objetos
+      em clusters ou grupos, com base em suas similaridades, como por exemplo, a segmentação de
+      clientes em grupos com base em suas preferências de compra.
+
+      Mineração de Texto (técnica de mineração): Técnica de mineração de dados que envolve a
+      análise de dados em formato de texto, como e-mails, posts em redes sociais ou artigos de
+      notícias.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Thesaurus (mineração de texto): Um thesaurus é um conjunto de palavras-chave organizadas
+      em categorias hierárquicas e relacionadas por sinônimos e antônimos, utilizado para melhorar a
+      precisão da busca e classificação de documentos em uma base de dados.
+
+      Case Folding (mineração de texto): Técnica de normalização de texto que converte todas as
+      letras de um texto para minúsculas, a fim de eliminar a diferenciação de palavras escritas com
+      letras maiúsculas e minúsculas.
+
+      Stop Words (mineração de texto): Palavras comuns em um idioma que são removidas durante a
+      análise de texto, pois não têm impacto significativo na análise, como por exemplo, artigos e
+      preposições em português.
+
+      Stemming (mineração de texto): Técnica de normalização de texto que reduz as palavras à sua
+      forma raiz, ou seja, a forma básica ou radical da palavra. Por exemplo, as palavras "amigo",
+      "amiga", "amigos" e "amigas" têm a mesma raiz "amig", portanto, seriam reduzidas a essa forma
+      raiz durante o processo de stemming.
+
+
+                                           ROTEIRO DE REVISÃO
+
+      A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+      assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+
+                                         Introdução e Motivação
+
+      Mineração de Dados, também conhecida como Descoberta de Conhecimento em Bancos de
+      Dados (KDD - Knowledge Discovery in Databases), é um processo que consiste em extrair
+      informações úteis e relevantes a partir de grandes conjuntos de dados, por meio de técnicas e
+      algoritmos de análise de dados.
+
+      A principal motivação vem da necessidade de lidar com o grande volume de dados gerados
+      diariamente por organizações, empresas e dispositivos eletrônicos, que são armazenados em
+      bancos de dados. Esses dados podem conter informações valiosas que podem ser usadas para
+      obter insights e tomar decisões mais informadas e precisas em diferentes áreas, como marketing,
+      finanças, saúde, segurança, entre outras.
+
+      A Mineração permite descobrir padrões, tendências e relacionamentos ocultos nos dados que
+      podem não ser perceptíveis à primeira vista. Essas descobertas ajudam empresas a identificar
+      oportunidades de negócios, antecipar tendências, prever comportamentos e melhorar a
+      eficiência dos processos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Por fim, pode ser útil para a detecção de fraudes, a identificação de ameaças à segurança e a
+      análise de riscos, entre outras aplicações, além de ser uma ferramenta para transformar grandes
+      quantidades de dados em informações úteis e práticas.
+
+
+
+
+                                          Conceitos e Definições
+
+    Mineração de dados é um processo automatizado de explorar e analisar grandes volumes de
+    dados com o objetivo de descobrir informações ocultas, padrões, correlações, tendências e
+    relações entre os dados que podem ser usados para obter insights e conhecimentos úteis.
+
+    O processo geralmente envolve várias etapas, como coleta de dados, pré-processamento,
+    transformação de dados, modelagem, avaliação e interpretação dos resultados. Cada uma dessas
+    etapas é projetada para lidar com os problemas específicos de trabalhar com grandes conjuntos
+    de dados e extrair informações úteis deles.
+
+    Durante o processo de mineração de dados, são utilizadas várias técnicas e algoritmos de análise
+    de dados, como classificação, agrupamento, associação, regressão e detecção de anomalias, para
+    identificar padrões e relações nos dados.
+
+    Sua utilização é amplamente aplicada em diversas áreas, como negócios, marketing, saúde,
+    finanças, governo, entre outras, para obter insights valiosos e tomar decisões mais informadas e
+    precisas com base nos dados disponíveis.
+
+    Veja outras definições de mineração de dados que já foram cobradas em prova:
+
+     Definição                                                             Palavras-chave
+
+     Data Mining é o processo de explorar grande quantidade de dados       exploração; informação       implícita
+     para extração não-trivial de informação implícita desconhecida.       desconhecida.
+
+     Data Mining é uso de teorias, métodos, processos e tecnologias para   teorias; métodos; processos;
+     organizar uma grande quantidade de dados brutos para identificar      tecnologias; organizar dados brutos;
+     padrões de comportamentos em determinados públicos.                   padrões de comportamentos.
+
+     Data Mining é a categoria de ferramentas de análise denominada        ferramenta de análise; open-end;
+     open-end e que permite ao usuário avaliar tendências e padrões não    tendências e padrões.
+     conhecidos entre os dados.
+
+     Data Mining é o processo de descoberta de novas correlações,          descoberta; correlações; padrões;
+     padrões e tendências entre as informações de uma empresa, por         tendências; reconhecimento de
+     meio da análise de grandes quantidades de dados armazenados em        padrões; estatística; matemática
+     bancos de dados usando técnicas de reconhecimento de padrões,
+     estatísticas e matemáticas.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     Data Mining constitui em uma técnica para a exploração e análise         exploração e análise de dados;
+     de dados, visando descobrir padrões e regras, a princípio ocultos,       padrões; regras; ocultos.
+     importantes à aplicação
+
+     Data Mining é o conjunto de ferramentas que permitem ao usuário          tendências; padrões; redes neurais;
+     avaliar tendências e padrões não conhecidos entre os dados. Esses        algoritmos genéticos; lógica nebulosa.
+     tipos de ferramentas podem utilizar técnicas avançadas de
+     computação como redes neurais, algoritmos genéticos e lógica
+     nebulosa (fuzzy), dentre outras.
+
+
+     Data Mining é um método computacional que permite extrair                Extração
+     informações a partir de grande quantidade de dados.
+
+
+     Data Mining é o processo de identificar, em dados, padrões válidos,      Utilidade
+     novos, potencialmente úteis e, ao final, compreensíveis.
+
+
+     Data Mining é o conjunto de ferramentas e técnicas de mineração          Ferramentas e técnicas
+     de dados que têm por objetivo buscar a classificação e o
+     agrupamento (clusterização) de dados, bem como identificar
+     padrões
+
+     Data Mining é o processo de explorar grandes quantidades de dados        padrões; relacionamentos.
+     à procura de padrões consistentes com o intuito de detectar
+     relacionamentos sistemáticos entre variáveis e novos subconjuntos
+     de dados.
+
+
+     Data Mining consiste em explorar um conjunto de dados visando a          exploração; padrões; regras;
+     extrair ou a ajudar a evidenciar padrões, como regras de associação      associação; sequência temporal;
+     ou sequências temporais, para detectar relacionamentos entre             detecção.
+     estes.
+
+
+     Data Mining são ferramentas que utilizam diversas técnicas de            estatística; análise de conglomerados;
+     natureza estatística, como a análise de conglomerados (cluster           agrupamento.
+     analysis), que tem como objetivo agrupar, em diferentes conjuntos
+     de dados, os elementos identificados como semelhantes entre si,
+     com base nas características analisadas.
+
+
+     Data Mining é o conjunto de técnicas que, envolvendo métodos             métodos matemáticos e estatístico;
+     matemáticos e estatísticos, algoritmos e princípios de inteligência      inteligência artificial;
+     artificial, tem o objetivo de descobrir relacionamentos significativos
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     entre dados armazenados em repositórios de grandes volumes e         relacionamentos; padrões;
+     concluir sobre padrões de comportamento de clientes de uma           comportamentos.
+     organização.
+
+
+     Data Mining é o processo de explorar grandes quantidades de dados    padrões; regras de associação;
+     à procura de padrões consistentes, como regras de associação ou      sequências temporais;
+     sequências temporais, para detectar relacionamentos sistemáticos     relacionamentos.
+     entre variáveis, detectando assim novos subconjuntos de dados.
+
+
+     Data Mining é o processo de explorar grandes quantidades de dados    exploração; padrões consistentes;
+     à procura de padrões consistentes, como regras de associação ou      regras de associação; sequência
+     sequências temporais.                                                temporal.
+
+
+     Data Mining é o processo de analisar de maneira semiautomática       padrões
+     grandes bancos de dados para encontrar padrões úteis.
+
+
+
+
+                                                    Objetivos
+
+    Ramez Elmasri e Shamkant B. Navathe, autores do livro "Sistemas de Banco de Dados", descrevem
+    os objetivos da Mineração de Dados como sendo:
+
+    Previsão: a previsão é usada para identificar e prever eventos futuros com base em padrões
+    históricos encontrados nos dados. É uma técnica comumente usada em áreas como finanças,
+    marketing e ciência de dados.
+
+    Identificação: a identificação é usada para descobrir padrões, relações e associações entre os
+    dados que podem não ser óbvias à primeira vista. Esses padrões podem ser usados para identificar
+    oportunidades de negócios, antecipar tendências e melhorar a eficiência dos processos.
+
+    Classificação: a classificação é usada para categorizar os dados em diferentes grupos com base em
+    características comuns. É uma técnica amplamente usada em áreas como marketing e análise de
+    risco, onde é necessário agrupar os dados em diferentes categorias para tomar decisões mais
+    informadas.
+
+    Otimização: a otimização é usada para encontrar o melhor valor possível de uma variável ou
+    conjunto de variáveis, sujeita a um conjunto de restrições. É uma técnica amplamente usada em
+    áreas como engenharia, finanças e logística, onde é necessário encontrar a solução mais eficiente
+    para um determinado problema.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+    Cada um desses objetivos pode ser alcançado por meio de diferentes técnicas e algoritmos de
+    análise de dados, dependendo dos dados disponíveis e dos objetivos do projeto.
+
+
+
+
+                                  Processo de Mineração de Dados
+
+    CRISP-DM (Cross Industry Standard Process for Data Mining) é um modelo de processo de
+    mineração de dados amplamente utilizado para guiar as equipes de projeto durante a execução de
+    projetos de mineração de dados. O modelo CRISP-DM é composto por seis etapas principais:
+
+
+
+     Etapa do CRISP-
+                                              Descrição                                  Exemplo
+           DM
+
+     Entendimento         Nesta etapa, a equipe de projeto define o             Uma empresa de comércio
+     do negócio           objetivo do projeto de mineração de dados,            eletrônico deseja prever a
+                          as questões a serem respondidas e os                  taxa de conversão dos
+                          requisitos do negócio. É importante garantir          usuários em compradores
+                          que os resultados da mineração de dados               para melhorar suas
+                          sejam relevantes e úteis para o negócio.              campanhas de marketing.
+
+     Entendimento         Nesta etapa, a equipe de projeto coleta e             A empresa coleta dados de
+     dos dados            explora os dados relevantes para o projeto            atividades de usuários,
+                          de mineração de dados. A análise dos dados            como tempo de sessão,
+                          é realizada para entender as características          páginas visitadas e produtos
+                          dos dados e identificar problemas de                  visualizados.
+                          qualidade.
+
+     Preparação dos       Nesta etapa, os dados são pré-processados,            A equipe remove dados
+     dados                limpos e transformados em um formato                  faltantes, transforma dados
+                          adequado para a modelagem. Isso pode                  categóricos em numéricos e
+                          envolver a seleção de recursos, a                     normaliza os dados de
+                          transformação de dados categóricos em                 tempo de sessão.
+                          numéricos e a normalização dos dados.
+
+     Modelagem            Nesta etapa, são aplicadas técnicas de                A equipe aplica um modelo
+                          modelagem de dados, como regressão,                   de regressão logística para
+                          classificação, clusterização e associação, para       prever a probabilidade de
+                          identificar padrões e tendências nos dados.           conversão dos usuários.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     Avaliação            Nesta etapa, os modelos são avaliados e               A equipe avalia o modelo
+                          validados para determinar sua precisão e              em um conjunto de dados
+                          eficácia. Isso pode incluir a avaliação do            de teste e compara o
+                          desempenho do modelo em dados de                      desempenho com outros
+                          treinamento e teste, a comparação de                  modelos de regressão.
+                          diferentes modelos e a análise de
+                          sensibilidade.
+
+     Implantação          Nesta etapa, os resultados da mineração de            A empresa integra as
+                          dados são implantados no ambiente de                  previsões de conversão em
+                          negócios e integrados aos processos de                suas campanhas de
+                          tomada de decisão.                                    marketing para segmentar
+                                                                                usuários com maior
+                                                                                probabilidade de converter
+                                                                                em compradores.
+
+
+      Veja a figura abaixo que representa as seis etapas do CRISP-DM:
+
+      Obs.: há um erro de tradução abaixo - a etapa "F" se chama "Deployment", que significa "Entrega"
+      (traduziram para "Development" que significa "Desenvolvimento" - outra coisa).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      É importante lembrar que o CRISP-DM é um processo iterativo, ou seja, as equipes de projeto
+      podem precisar revisitar as etapas anteriores à medida que novas informações e insights são
+      descobertos durante o processo de mineração de dados. O modelo é flexível e pode ser adaptado
+      para diferentes projetos e necessidades de negócios.
+
+      Além disso, a metodologia CRISP-DM costuma ser organizada em quatro níveis hierárquicos como
+      podemos visualizar na figura abaixo:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      No primeiro nível, o processo de mineração de dados é organizado em várias fases. Cada fase
+      consiste em várias tarefas genéricas de segundo nível.
+
+      O segundo nível é chamado genérico porque pretende ser geral o suficiente para cobrir todas as
+      situações possíveis de mineração de dados. As tarefas genéricas devem ser o mais completas e
+      estáveis possível. Por completos queremos dizer que abrangem todo o processo de mineração de
+      dados e todos os aplicativos possíveis de mineração de dados. Já estável significa que o modelo
+      deve ser válido para desenvolvimentos de modelos imprevisíveis, utilizando novas técnicas de
+      modelagem.
+
+      O terceiro nível, o nível de tarefa especializada, é o local para descrever como as ações das tarefas
+      genéricas devem ser realizadas em determinadas situações específicas. Por exemplo, no segundo
+      nível, pode haver uma tarefa genérica chamada limpeza dos dados. O terceiro nível descreveria
+      como essa tarefa é executada em diferentes situações, como limpeza de valores numéricos, de
+      valores categóricos.
+
+      A descrição de fases e tarefas como etapas discretas executadas em uma ordem específica
+      representa uma sequência idealizada de eventos. Na prática, muitas das tarefas podem ser
+      executadas em uma ordem diferente e, muitas vezes, será necessário voltar repetidamente às
+      tarefas anteriores e repetir determinadas ações. O modelo de processo não tenta capturar todas
+      essas rotas possíveis por meio do processo de mineração de dados, porque isso exigiria um
+      modelo de processo excessivamente complexo.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      O quarto, e último, nível, a instância do processo, é um registro das ações, decisões e resultados
+      de um compromisso real de mineração de dados. Uma instância do processo é organizada de
+      acordo com as tarefas definidas nos níveis mais altos, mas representa o que realmente aconteceu
+      em um determinado engajamento, e não o que acontece em geral.
+
+
+
+                              Entendimento do Negócio (CRISP-DM - Etapa 1)
+
+      Entendimento do Negócio (ou Business Understanding) é a primeira etapa do modelo CRISP-DM
+      e consiste em uma série de atividades para se obter um entendimento completo do problema
+      de negócio que se deseja abordar.
+
+      Nessa etapa, a equipe de mineração de dados deve trabalhar em estreita colaboração com os
+      especialistas em negócios para compreender completamente as metas, objetivos e requisitos do
+      projeto. É importante para a equipe identificar o escopo do problema de negócio, as necessidades
+      dos usuários, as restrições e limitações envolvidas, e a forma como o modelo de mineração de
+      dados pode ser usado para solucionar o problema.
+
+      Algumas das tarefas comuns realizadas durante esta etapa incluem:
+
+      Determinar os objetivos do projeto e as metas de negócios: Envolve identificar claramente o que
+      a empresa espera alcançar ao utilizar a mineração de dados, como redução de custos, aumento
+      de receita, aumento da eficiência, entre outros.
+
+      Avaliar a situação atual: Identificar as limitações técnicas, orçamentárias e de pessoal. Além
+      disso, a equipe deve entender o ambiente de negócios atual e como o projeto de mineração de
+      dados se encaixa nesse contexto.
+
+      Identificar os requisitos do projeto: Nesta etapa, a equipe deve identificar os requisitos
+      funcionais e não-funcionais do projeto, como necessidades de dados, requisitos de desempenho
+      e requisitos de segurança.
+
+      Definir as premissas do projeto: A equipe de mineração de dados deve estabelecer as premissas
+      do projeto, como os dados que estarão disponíveis, a qualidade desses dados e as limitações
+      técnicas.
+
+      Ao final dessa etapa, a equipe deve ter uma compreensão clara do problema de negócio, bem
+      como das expectativas e objetivos do projeto. A partir daí, a equipe pode começar a planejar a
+      abordagem de mineração de dados mais adequada para atingir esses objetivos.
+
+
+
+                               Compreensão dos Dados (CRISP-DM - Etapa 2)
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Compreensão dos Dados é a segunda etapa do processo CRISP-DM e é fundamental para a criação
+      de um modelo de mineração de dados preciso e eficaz. Essa etapa envolve a coleta e exploração
+      dos dados relevantes para o projeto.
+
+      A seguir estão as principais tarefas associadas à etapa de Compreensão dos Dados:
+
+      Descrever os dados: nesta tarefa, o objetivo é entender a natureza dos dados coletados. É
+      importante conhecer as características dos dados, como tamanho, formato, tipos de variáveis,
+      etc. Isso ajuda a identificar possíveis problemas ou limitações nos dados, como valores ausentes
+      ou dados inconsistentes.
+
+      Explorar os dados: aqui, o objetivo é explorar os dados coletados para entender melhor suas
+      características e padrões. Isso pode incluir a visualização dos dados em gráficos, a realização de
+      análises estatísticas simples e a identificação de relações entre as variáveis.
+
+      Verificar a qualidade dos dados: o objetivo é garantir que os dados coletados estejam limpos e
+      prontos para serem usados na criação do modelo de mineração de dados. Isso pode incluir a
+      verificação de valores ausentes, a remoção de dados duplicados ou inconsistentes e a correção
+      de erros nos dados.
+
+      Documentar os resultados: nesta tarefa, procura-se documentar todas as descobertas relevantes
+      na etapa de Compreensão dos Dados. Isso pode incluir a descrição dos dados coletados, os
+      principais padrões identificados e quaisquer limitações ou problemas nos dados.
+
+
+
+                                Preparação dos Dados (CRISP-DM - Etapa 3)
+
+      A etapa de Preparação dos Dados é a terceira fase do modelo CRISP-DM. Nessa fase, os dados
+      são preparados para serem usados nas próximas etapas do processo de mineração de dados.
+
+      Essa fase é importante porque muitas vezes os dados disponíveis não estão prontos para serem
+      usados diretamente. Os dados podem estar incompletos, conter erros, ser redundantes, estar em
+      formatos diferentes ou simplesmente não estar disponíveis em um formato adequado para a
+      mineração de dados.
+
+      Principais tarefas:
+
+      Coleta dos dados: Coletar os dados de diversas fontes, incluindo bancos de dados, arquivos e
+      sistemas.
+
+      Limpeza dos dados: Limpar os dados, removendo valores ausentes, valores duplicados, erros e
+      outliers.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Integração dos dados: Integrar os dados de diferentes fontes para criar uma visão única dos
+      dados.
+
+      Transformação dos dados: Transformar os dados para uma forma que seja adequada para a
+      análise. Por exemplo, converter dados categóricos em numéricos ou normalizar os dados para
+      eliminar discrepâncias de escala.
+
+      Seleção dos dados: Selecionar os dados que serão usados na análise, removendo os dados que
+      não são relevantes ou não são necessários para a análise.
+
+      Criação de dados derivados: Criar novos dados a partir dos dados existentes, como calcular
+      médias, desvios padrão ou criar novas variáveis com base nas existentes.
+
+      Formatação dos dados: Formatar os dados para uso em algoritmos específicos de mineração de
+      dados.
+
+      Ao final desta fase, espera-se que os dados estejam prontos para a próxima etapa, que é a
+      modelagem.
+
+
+
+                                Modelagem dos Dados (CRISP-DM - Etapa 4)
+
+      Modelagem dos Dados é a quarta etapa do CRISP-DM. Nesta etapa, os dados preparados na etapa
+      anterior são utilizados para criar modelos que permitam alcançar os objetivos definidos na etapa
+      de Entendimento do Negócio.
+
+      Os principais objetivos desta etapa são:
+
+            •   Selecionar a técnica de modelagem mais adequada para o problema em questão.
+            •   Gerar um ou mais modelos candidatos.
+            •   Avaliar os modelos gerados e selecionar aquele que melhor atende aos objetivos
+                definidos.
+
+      A seleção da técnica de modelagem depende dos objetivos do projeto, da natureza dos dados e
+      das habilidades da equipe responsável pelo projeto. Algumas técnicas de modelagem
+      amplamente utilizadas incluem: árvores de decisão, redes neurais, regressão, análise
+      discriminante, entre outras.
+
+      Após selecionar a técnica de modelagem, é necessário gerar um ou mais modelos candidatos.
+      Esses modelos são ajustados e refinados com base nos resultados obtidos em avaliações
+      subsequentes. Para avaliar os modelos gerados, são utilizadas técnicas como validação cruzada,
+      teste de conjunto de dados de treinamento e teste de conjunto de dados de validação.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      A escolha do melhor modelo é feita com base em métricas de desempenho, como precisão, recall,
+      F1-score, AUC-ROC, entre outras. A seleção do modelo final depende dos critérios definidos na
+      etapa de Entendimento do Negócio.
+
+      Uma vez selecionado o modelo final, ele é documentado e entregue aos usuários ou às equipes
+      responsáveis por implementá-lo em um ambiente de produção.
+
+                                        Avaliação (CRISP-DM - Etapa 5)
+
+      A etapa de Avaliação é onde se analisa os modelos gerados na etapa de Modelagem, a fim de
+      avaliar sua qualidade e identificar possíveis problemas. Nessa etapa, busca-se determinar se os
+      modelos criados são satisfatórios para resolver o problema de negócio identificado na etapa de
+      Entendimento do Negócio. Além disso, a avaliação dos modelos deve ser feita em relação aos
+      critérios estabelecidos na etapa de Compreensão dos Dados.
+
+      Algumas das atividades que podem ser realizadas na etapa de Avaliação são:
+
+      •     Avaliação da qualidade dos modelos gerados;
+      •     Análise dos resultados obtidos pelos modelos;
+      •     Comparação dos modelos gerados com outros modelos ou soluções já existentes;
+      •     Verificação de se o modelo está atendendo aos requisitos do negócio;
+      •     Identificação de possíveis problemas ou limitações do modelo.
+
+      Com base nas análises e avaliações realizadas nessa etapa, é possível decidir se é necessário
+      ajustar os modelos ou se eles estão prontos para serem implantados no ambiente de produção.
+      Caso seja necessário ajustar os modelos, é preciso retornar à etapa de Modelagem para fazer as
+      mudanças necessárias. Se o modelo estiver satisfatório, é possível implantá-lo no ambiente de
+      produção na etapa de Implementação.
+
+
+
+                                         Entrega (CRISP-DM - Etapa 6)
+
+      Entrega é a última fase do processo de mineração de dados, que envolve a implantação do
+      modelo desenvolvido para uso em um ambiente operacional e o monitoramento do seu
+      desempenho. Nesta fase, o modelo é entregue ao cliente ou usuário final.
+
+      As principais atividades da etapa de Entrega incluem:
+
+      Planejamento da implantação: nesta atividade, é definido o plano de implantação do modelo em
+      um ambiente de produção. Isso inclui a definição das configurações de hardware e software
+      necessárias, a identificação dos recursos necessários e a definição de prazos.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Preparação para a implantação: aqui são preparados todos os componentes necessários para a
+      implantação do modelo, como o código-fonte do modelo, scripts para instalação e configuração,
+      documentação e treinamento para os usuários.
+
+      Implantação do modelo: o modelo é instalado e configurado no ambiente de produção. É
+      importante garantir que todas as configurações estejam corretas e que o modelo seja capaz de
+      operar adequadamente.
+
+      Monitoramento do desempenho: o desempenho do modelo é monitorado em tempo real para
+      garantir que ele esteja funcionando corretamente e fornecendo resultados precisos. Qualquer
+      problema ou desvio do desempenho esperado deve ser identificado e corrigido o mais rápido
+      possível.
+
+      Manutenção e atualização: o modelo é mantido e atualizado conforme necessário. Isso inclui a
+      correção de problemas, a atualização de dados, a atualização de software e hardware e a
+      adaptação do modelo a novos requisitos ou necessidades do usuário.
+
+      Documentação e treinamento: nesta atividade, são criados e atualizados todos os documentos
+      e treinamentos necessários para ajudar os usuários a entender e utilizar o modelo de forma eficaz
+      e eficiente.
+
+      A entrega bem-sucedida do modelo é essencial para o sucesso de todo o processo de mineração
+      de dados, pois é aqui que o modelo é colocado em operação e começa a fornecer informações
+      úteis e acionáveis para o negócio.
+
+
+
+
+                  Técnicas de Pré-Processamento (Preparação de Dados)
+
+      Nesta parte da aula vamos apresentar algumas técnicas que nos permitem fazer ajustes nos
+      dados para facilitar a mineração, bem como para garantir que a síntese feita sobre os dados
+      produza alguma informação consistente.
+
+      Os dados no mundo real são “sujos”, ou seja, podem, por exemplo, estarem incompletos com
+      valores faltantes, atributos faltantes. Outra possibilidade é a existência de ruídos, que provocam
+      erros ou outliers sobre os dados. Por fim, podemos verificar a consistência entre atributos, por
+      exemplo, os atributos data de nascimento e idade precisam ser compatíveis. Uma pessoa que
+      nasceu em 1983 não pode ter, em 2017, 50 anos.
+
+      Problemas nos dados podem ter várias origens e causas. Entre as mais comuns, destacam-se a
+      incompletude, a inconsistência e o ruído:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      A incompletude refere-se à falta de informações em alguns registros ou atributos dos dados. Isso
+      pode ocorrer por vários motivos, como falhas na coleta, perda de informações ou mesmo a recusa
+      do usuário em fornecer determinados dados.
+
+      A inconsistência ocorre quando há conflitos entre os dados, ou seja, quando diferentes registros
+      ou atributos apresentam informações conflitantes ou incompatíveis entre si. Por exemplo, um
+      cadastro de clientes pode apresentar informações diferentes para um mesmo cliente, como
+      endereços diferentes em registros distintos.
+
+      O ruído refere-se à presença de informações irrelevantes ou incorretas nos dados. Isso pode ser
+      causado por vários fatores, como erros de digitação, falhas na coleta ou até mesmo a presença
+      de informações falsas ou intencionalmente manipuladas. O ruído pode prejudicar a qualidade
+      dos dados e dificultar a identificação de padrões e insights relevantes.
+
+      As técnicas de pré-processamento de dados são um conjunto de técnicas que visam preparar os
+      dados para serem utilizados em análises ou em modelos de mineração de dados. A motivação
+      para utilizar essas técnicas é a de melhorar a qualidade dos dados, eliminando problemas como
+      incompletude, inconsistência e ruído, bem como tornar os dados mais adequados para a análise
+      ou modelagem.
+
+      Entre os benefícios das técnicas de pré-processamento de dados, podemos destacar:
+
+      Melhoria da qualidade dos dados: As técnicas de pré-processamento permitem eliminar erros e
+      inconsistências nos dados, melhorando sua qualidade e confiabilidade.
+
+      Aumento da precisão dos modelos: Dados incompletos, inconsistentes ou ruidosos podem
+      prejudicar a precisão dos modelos de mineração de dados. O pré-processamento pode ajudar a
+      eliminar esses problemas e, consequentemente, melhorar a precisão dos modelos.
+
+      Redução do tempo de processamento: Dados desnecessários ou duplicados podem aumentar o
+      tempo de processamento. O pré-processamento permite eliminar esses dados, reduzindo o
+      tempo de processamento.
+
+      Maior eficiência na análise de dados: Dados bem-preparados e estruturados tornam a análise
+      mais eficiente e precisa, permitindo que sejam obtidas informações úteis a partir dos dados com
+      maior facilidade e rapidez.
+
+      Para alcançar esses benefícios, faz-se necessária a execução de um conjunto de tarefas de pré-
+      processamento de dados.
+
+      Vejamos:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+       Tarefa                 Descrição                               Exemplo
+
+       Limpeza de             Remoção de dados incompletos,           Remover registros com valores nulos
+       Dados                  inconsistentes ou com ruído             ou preencher valores faltantes com
+                                                                      uma estimativa adequada
+
+       Integração             Combinação de múltiplas fontes de       Combinar dados de vendas de
+                              dados em um único conjunto de           diferentes filiais de uma empresa em
+                              dados                                   um único conjunto de dados
+
+       Transformação          Conversão de dados brutos em            Normalização de valores numéricos
+                              uma forma mais adequada para            em uma escala comum para evitar
+                              mineração                               viés devido a unidades de medida
+                                                                      diferentes
+
+       Redução                Redução do tamanho do conjunto          Selecionar as características mais
+                              de dados, mantendo o máximo de          importantes dos dados para a
+                              informações relevantes                  análise de dados
+
+       Discretização          Transformação de atributos              Converter a idade de uma pessoa em
+                              numéricos em categóricos                grupos etários, como 20-30, 30-40,
+                                                                      40-50 anos
+
+
+
+                              Tratamento de Valores Faltantes (Preparação de Dados)
+
+      Tratamento de valores faltantes é uma técnica de pré-processamento de dados que lida com
+      dados ausentes em um conjunto de dados. Valores faltantes podem ocorrer por diferentes
+      motivos, como erros de coleta de dados, falhas de sensores, perda de dados durante a
+      transferência ou simplesmente porque algumas informações não foram registradas.
+
+      Lidar adequadamente com valores faltantes é importante para garantir que os dados sejam
+      confiáveis e adequados para análise. Existem diferentes abordagens para tratar valores faltantes,
+      dependendo da natureza dos dados e do contexto do problema. Alguns métodos comuns são:
+
+      Exclusão de registros ou atributos: uma abordagem simples é excluir os registros (linhas) que
+      possuem valores faltantes ou os atributos (colunas) que contêm uma quantidade significativa de
+      valores faltantes. Isso pode ser uma opção viável se os valores faltantes forem aleatórios e não
+      houver muita perda de informação. No entanto, essa abordagem pode levar à perda de dados
+      valiosos se os valores faltantes estiverem relacionados a outras variáveis importantes.
+
+      Preenchimento com valores médios ou medianos: nesse método, os valores faltantes são
+      substituídos pela média ou mediana dos valores existentes na mesma variável. Essa abordagem
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      é útil quando os dados estão distribuídos normalmente e não há muita variação nos valores. Por
+      exemplo, se estamos tratando a idade de uma pessoa em um conjunto de dados e alguns valores
+      estão faltando, podemos substituí-los pela média das idades conhecidas.
+
+      Preenchimento com valores interpolados: se os dados seguem uma tendência ou padrão,
+      podemos usar a interpolação para preencher os valores faltantes. Isso envolve estimar os valores
+      ausentes com base nos valores conhecidos próximos no tempo ou no espaço. Por exemplo, se
+      estamos trabalhando com dados de temperatura em diferentes horas do dia e um valor está
+      faltando, podemos usar a média entre os valores antes e depois do intervalo de tempo em
+      questão para preencher o valor ausente.
+
+      Preenchimento com modelos preditivos: em alguns casos, podemos usar modelos preditivos,
+      como regressão, para prever os valores faltantes com base em outros atributos do conjunto de
+      dados. Por exemplo, se estamos lidando com dados de vendas de produtos e o preço de alguns
+      produtos está faltando, podemos usar um modelo de regressão com base em outros atributos,
+      como categoria do produto e quantidade vendida, para estimar os preços ausentes.
+
+
+
+                                 Tratamento de Outliers (Preparação de Dados)
+
+      O tratamento de outliers é uma técnica de pré-processamento de dados que lida com valores
+      extremos ou discrepantes em um conjunto de dados. Outliers são valores que se desviam
+      significativamente da maioria dos outros valores e podem ter um impacto negativo nas análises
+      estatísticas ou nos modelos de aprendizado de máquina.
+
+      A presença de outliers pode distorcer as estatísticas descritivas, como média e desvio padrão,
+      afetar a normalidade dos dados e comprometer a precisão dos modelos. Portanto, é importante
+      identificar e tratar os outliers de forma adequada. Existem algumas abordagens comuns para lidar
+      com outliers:
+
+      Identificação visual: uma maneira inicial de identificar outliers é por meio de gráficos, como o
+      gráfico de dispersão (scatter plot) ou o box plot. Esses gráficos podem ajudar a identificar
+      observações que estão distantes da maioria dos outros pontos. Visualmente, os outliers podem
+      ser identificados como pontos fora dos intervalos esperados ou com comportamento anômalo
+      em relação aos demais dados.
+
+      Métodos estatísticos: existem várias técnicas estatísticas para identificar outliers. Alguns
+      exemplos incluem o cálculo do desvio padrão ou a aplicação de testes estatísticos, como o teste
+      de Grubbs ou o teste de Dixon. Esses métodos podem detectar valores que estão além de um
+      limite estatisticamente significativo em relação aos demais dados.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Transformação de dados: em alguns casos, é possível transformar os dados para reduzir o
+      impacto dos outliers. Por exemplo, aplicar uma transformação logarítmica nos dados pode ajudar
+      a reduzir a influência de valores extremos. No entanto, essa abordagem deve ser usada com
+      cautela, pois a interpretação dos resultados pode se tornar mais complexa após a transformação.
+
+      Substituição ou remoção dos outliers: dependendo do contexto e do objetivo da análise, é
+      possível substituir os valores extremos por valores mais realistas ou removê-los completamente.
+      A substituição pode ser feita, por exemplo, utilizando a média, mediana ou valor interpolado dos
+      dados não outliers. A remoção de outliers pode ser apropriada quando há evidências claras de
+      erros nos dados ou quando a análise é sensível a valores extremos.
+
+
+
+                                      Discretização (Preparação de Dados)
+
+      A discretização é uma técnica de pré-processamento de dados que transforma atributos
+      contínuos em atributos discretos, ou seja, agrupa valores contínuos em intervalos ou categorias
+      distintas. Essa técnica é útil quando desejamos simplificar a representação dos dados ou quando
+      um algoritmo de mineração de dados requer variáveis categóricas em vez de numéricas.
+
+      Discretização baseada em intervalos iguais: nesse método, o intervalo dos valores contínuos é
+      dividido em um número fixo de intervalos iguais. Por exemplo, se tivermos um atributo com
+      valores entre 0 e 100 e desejamos discretizá-lo em 5 intervalos, cada intervalo terá uma amplitude
+      de 20 unidades (0-20, 20-40, 40-60, 60-80, 80-100).
+
+      Discretização baseada em frequência: nessa abordagem, os intervalos são definidos com base
+      na frequência dos valores. Valores contínuos são agrupados em intervalos que contêm
+      aproximadamente o mesmo número de instâncias. Por exemplo, podemos agrupar valores em
+      quartis, onde cada intervalo contém 25% dos dados.
+
+      Discretização baseada em limites arbitrários: essa técnica envolve a definição de limites de
+      intervalo arbitrários com base no conhecimento do domínio ou em critérios específicos. Por
+      exemplo, podemos definir intervalos com base em faixas de idade (0-18, 18-30, 30-45, 45+), que
+      podem ser mais significativos em um contexto específico.
+
+      A discretização é útil em várias situações. Por exemplo, em análises de dados demográficos,
+      podemos discretizar a idade em faixas etárias para entender melhor os padrões demográficos.
+      Em dados financeiros, podemos discretizar a renda em categorias de baixa, média e alta para
+      análises de segmentação. Além disso, alguns algoritmos de mineração de dados, como árvores
+      de decisão, exigem atributos discretos em vez de contínuos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+                                      Normalização (Preparação de Dados)
+
+      A normalização é uma técnica de pré-processamento de dados que ajusta a escala dos atributos
+      de um conjunto de dados, de modo que eles estejam em uma faixa comum. Essa técnica é útil
+      quando os atributos têm escalas diferentes e é desejável que eles tenham a mesma ordem de
+      grandeza para evitar um viés nos modelos de mineração de dados.
+
+      Existem várias abordagens para a normalização de dados, algumas das quais incluem:
+
+      Normalização min-max (escala linear): nessa abordagem, os valores de um atributo são
+      ajustados para um intervalo específico, geralmente entre 0 e 1.
+
+      Isso é feito por meio da seguinte fórmula:
+
+      X_norm = (X - X_min) / (X_max - X_min)
+
+      Onde X_norm é o valor normalizado, X é o valor original do atributo, X_min é o valor mínimo do
+      atributo e X_max é o valor máximo do atributo. Essa técnica mantém a relação de ordem dos
+      dados, mas coloca todos os valores dentro do intervalo especificado.
+
+      Normalização Z-score: Nessa abordagem, os valores são transformados para terem uma média
+      de 0 e um desvio padrão de 1. Isso é feito subtraindo a média do atributo e dividindo pelo desvio
+      padrão.
+
+      A fórmula é a seguinte:
+
+      X_norm = (X - μ) / σ
+
+      Onde X_norm é o valor normalizado, X é o valor original do atributo, μ é a média do atributo e σ
+      é o desvio padrão do atributo. Essa técnica torna os valores comparáveis em termos de distância
+      em relação à média.
+
+      Normalização por decimal scaling: Nessa abordagem, os valores são ajustados dividindo-os por
+      uma potência de 10 adequada, de modo que o valor resultante esteja dentro de uma faixa
+      específica. Isso é útil quando se deseja manter a precisão dos dados em termos de número de
+      dígitos significativos. Por exemplo, podemos normalizar os valores dividindo-os por 10^d, onde d
+      é o número de dígitos necessário para colocar os valores dentro da faixa desejada.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+                                  Técnicas de Mineração de Dados
+
+      Técnicas de mineração de dados são métodos e algoritmos usados para explorar grandes
+      conjuntos de dados, a fim de descobrir padrões, relações e informações úteis para auxiliar na
+      tomada de decisões.
+
+      Essas técnicas são usadas em diversas áreas, como marketing, finanças, ciência, medicina, entre
+      outras, e são uma das principais ferramentas para a análise de dados em larga escala. Alguns
+      exemplos de técnicas de mineração de dados incluem associação, classificação, agrupamento
+      (clustering) e mineração de texto, entre outras. Cada técnica é aplicada de acordo com o objetivo
+      específico da análise de dados e as características dos dados em questão.
+
+
+
+                                                     Associação
+
+      A técnica de Associação é usada na mineração de dados para descobrir padrões frequentes em
+      dados transacionais, ou seja, dados que registram transações de um conjunto de itens ou
+      produtos. O objetivo da técnica é identificar associações ou relações frequentes entre esses
+      itens. É também conhecida como "análise de cesta de compras", pois é frequentemente utilizada
+      em dados de compras para identificar quais produtos tendem a ser comprados juntos.
+
+      O processo de Associação consiste em duas etapas principais: a geração de um conjunto de itens
+      frequentes (itemsets frequentes) e a geração de regras de associação.
+
+      Primeira etapa: itemsets frequentes
+
+      A primeira etapa envolve a identificação de itens que aparecem com frequência em conjunto nas
+      transações. Esses conjuntos de itens são chamados de itemsets frequentes. Por exemplo, em um
+      conjunto de transações de compras em um supermercado, pode-se identificar que o leite e o pão
+      são frequentemente comprados juntos, formando um itemset frequente. Já o leite e o arroz
+      podem não ser tão frequentes, portanto, não formariam um itemset frequente.
+
+      Segunda etapa: regras de associação
+
+      Na segunda etapa, são geradas regras de associação a partir dos itemsets frequentes
+      encontrados. Essas regras têm a forma "se X, então Y", onde X e Y são conjuntos de itens. As
+      regras são geradas a partir dos itemsets frequentes, usando um limiar de suporte e um limiar de
+      confiança.
+
+      O suporte é uma medida objetiva para avaliar o interesse de uma regra de associação. Representa
+      a porcentagem de transações (%) de um banco de dados de transações onde a regra se verifica.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      A medida de suporte responde a seguinte questão: quão frequente a regra acontece no banco de
+      dados?
+
+      A confiança é a probabilidade condicional de que Y seja comprado dado que X foi comprado. Por
+      exemplo, se a confiança de uma regra de associação "se leite e pão, então manteiga" for alta, isso
+      significa que, quando um cliente compra leite e pão, é provável que ele também compre
+      manteiga.
+
+      As regras de associação podem ser usadas em várias aplicações, como em recomendações de
+      produtos em lojas online. Por exemplo, se um cliente compra um livro sobre culinária, as regras
+      de associação podem ser usadas para recomendar outros livros relacionados à culinária ou itens
+      de cozinha. Outro exemplo é em análises de dados de saúde, onde as regras de associação podem
+      ser usadas para identificar relações entre certas doenças e fatores de risco, como hábitos
+      alimentares ou estilo de vida.
+
+                                                  Classificação
+
+      A técnica de classificação é uma técnica de aprendizagem supervisionada que visa identificar a
+      qual classe uma instância desconhecida pertence, a partir de um conjunto de instâncias
+      previamente rotuladas.
+
+      Em outras palavras, a partir de um conjunto de dados de treinamento com exemplos conhecidos,
+      a técnica de classificação é capaz de criar um modelo que aprende a relação entre as
+      características dos dados e suas classes correspondentes. Esse modelo pode ser então usado para
+      predizer a classe de novas instâncias.
+
+      Existem diferentes algoritmos de classificação, sendo que cada um deles utiliza uma abordagem
+      diferente para a construção do modelo. Alguns exemplos de algoritmos de classificação são:
+      árvores de decisão, regressão logística, Naive Bayes, k-nearest neighbors (KNN), Support Vector
+      Machines (SVM), redes neurais, entre outros.
+
+      Um exemplo de aplicação da técnica de classificação é a identificação de fraudes em cartões de
+      crédito. Para isso, são coletados dados de transações realizadas com os cartões, como valor da
+      transação, localização, horário, tipo de comércio, entre outros. A partir desses dados, é possível
+      criar um modelo de classificação que aprende a relação entre as características das transações e
+      se elas são fraudulentas ou não. Esse modelo pode então ser usado para analisar novas
+      transações e identificar aquelas que têm alta probabilidade de serem fraudes, permitindo que
+      ações preventivas sejam tomadas.
+
+      Algoritmo: Naive Bayes
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      O algoritmo Naive Bayes é um método de classificação supervisionada baseado no Teorema de
+      Bayes. O objetivo é classificar um novo exemplo em uma das categorias predefinidas, com base
+      na probabilidade condicional da ocorrência de cada atributo dado cada categoria.
+
+      O algoritmo assume que cada atributo é independente dos outros, o que é chamado de
+      independência condicional. Essa é uma suposição forte e nem sempre é verdadeira, mas permite
+      que o algoritmo seja computacionalmente eficiente e funcione bem em muitos casos.
+
+      O Naive Bayes utiliza o Teorema de Bayes para calcular a probabilidade de cada categoria dada as
+      evidências observadas nos atributos. O Teorema de Bayes é:
+
+                                           P(C|X) = (P(X|C) * P(C)) / P(X)
+
+      onde P(C|X) é a probabilidade da categoria C dado o exemplo X, P(X|C) é a probabilidade de X
+      dado C, P(C) é a probabilidade de C (antes de observar X) e P(X) é a probabilidade de X.
+
+      O algoritmo utiliza a probabilidade máxima a posteriori (MAP) para selecionar a categoria com
+      maior probabilidade condicional dada as evidências observadas. A MAP é calculada como:
+
+                                      argmax P(C|X) = argmax P(X|C) * P(C)
+
+      Naive Bayes pode ser aplicado a qualquer tipo de atributo, incluindo categóricos, binários e
+      contínuos. Para atributos contínuos, geralmente é necessário discretizá-los ou assumir uma
+      distribuição probabilística.
+
+      Um exemplo de uso do algoritmo é na classificação de e-mails como spam ou não-spam. Nesse
+      caso, os atributos podem ser a presença ou ausência de palavras-chave específicas, a frequência
+      de certas palavras ou caracteres, entre outros. O Naive Bayes é capaz de aprender a partir de
+      exemplos rotulados e classificar novos e-mails com alta precisão.
+
+      Outro exemplo é na classificação de notícias em diferentes categorias, como política, esportes,
+      entretenimento, etc. Nesse caso, os atributos podem ser as palavras-chave encontradas no título,
+      no corpo do texto ou em outros metadados. O Naive Bayes pode ser treinado em um conjunto
+      de notícias rotuladas e ser usado para classificar novas notícias com base em seus atributos.
+
+      Algoritmo: k-NN
+
+      O algoritmo k-Nearest Neighbors (k-NN) é um método de classificação baseado em instâncias, ou
+      seja, ele classifica novos pontos de dados com base em exemplos previamente rotulados,
+      chamados de vizinhos mais próximos. Ele é um algoritmo simples e não-paramétrico, o que
+      significa que ele não faz suposições sobre a distribuição dos dados e não tem um modelo pré-
+      construído para ajustar aos dados.
+
+      O algoritmo opera em três etapas principais:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      1. Calcular a distância: Para cada ponto de dados no conjunto de treinamento, calcula-se a
+      distância até o novo ponto de dados. A distância pode ser calculada de várias maneiras, como a
+      distância euclidiana ou a distância de Manhattan.
+
+      2. Encontrar os k vizinhos mais próximos: A seguir, os k pontos de dados mais próximos do novo
+      ponto de dados são selecionados com base na distância calculada anteriormente.
+
+      3. Atribuir uma classe: Finalmente, a classe do novo ponto de dados é atribuída com base nas
+      classes dos vizinhos mais próximos. Isso pode ser feito por meio de vários métodos, como voto
+      majoritário ou ponderação de vizinhos mais próximos por sua proximidade.
+
+      Exemplo:
+
+      Suponha que queremos classificar frutas em duas categorias: maçãs e laranjas, com base em sua
+      cor e diâmetro. Vamos considerar o diâmetro em centímetros e a cor em uma escala de 0 a 1,
+      onde 0 representa vermelho para maçãs e laranja claro para laranjas, e 1 representa verde para
+      maçãs e laranja escuro para laranjas.
+
+      Temos um conjunto de dados com as seguintes informações:
+
+                                       Fruta      Diâmetro (cm)      Cor
+
+                                       Maçã       8                  0.7
+
+                                       Maçã       7                  0.6
+
+                                       Laranja    9                  0.8
+
+                                       Laranja    6                  0.5
+
+
+
+      Suponha que queremos classificar uma nova fruta com diâmetro 8.5 e cor 0.75. Podemos usar o
+      algoritmo k-NN com k = 1 para encontrar a fruta mais próxima aos valores de diâmetro e cor da
+      nova fruta.
+
+      Para calcular a distância entre a nova fruta e as frutas existentes, podemos usar a distância
+      euclidiana. A distância euclidiana entre a nova fruta e cada uma das frutas existentes é calculada
+      da seguinte forma:
+
+      Distância entre a nova fruta e a primeira fruta de maçã:
+
+      d_1 = √((8.5-8)^2 + (0.75-0.7)^2) = 0.85
+
+      Distância entre a nova fruta e a segunda fruta de maçã:
+
+      d_2 = √((8.5-7)^2 + (0.75-0.6)^2) = 1.38
+
+      Distância entre a nova fruta e a primeira fruta de laranja:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      d_3 = √((8.5-9)^2 + (0.75-0.8)^2) = 0.58
+
+      Distância entre a nova fruta e a segunda fruta de laranja:
+
+      d_4 = √((8.5-6)^2 + (0.75-0.5)^2) = 2.24A fruta mais próxima à nova fruta é a primeira fruta de
+      laranja, que tem uma distância de 0,58. Portanto, classificamos a nova fruta como uma laranja.
+
+      Obs.: a notação x^y significa x elevado a y.
+
+
+
+                                        Agrupamento (Clusterização)
+
+      A técnica de agrupamento, também conhecida como clustering, é uma técnica de mineração de
+      dados não supervisionada utilizada para identificar grupos ou clusters de objetos que
+      compartilham características semelhantes entre si.
+
+      O objetivo do agrupamento é encontrar grupos ou segmentos de dados que são homogêneos
+      dentro de cada grupo e heterogêneos entre os grupos. Essa técnica é útil para explorar os dados
+      e descobrir padrões e relações desconhecidos previamente, sem a necessidade de conhecimento
+      prévio sobre a estrutura dos dados ou sobre as classes dos objetos.
+
+      Existem diferentes algoritmos de agrupamento, cada um com suas próprias abordagens e
+      critérios para a formação de clusters. Alguns dos algoritmos mais comuns são o k-means,
+      hierárquico, DBSCAN e mean-shift.
+
+      Por exemplo, imagine que você possui um conjunto de dados que representa clientes de um e-
+      commerce. Você pode aplicar a técnica de agrupamento para encontrar grupos de clientes com
+      comportamentos de compras semelhantes. Esses grupos podem ser utilizados para personalizar
+      campanhas de marketing, sugestões de produtos ou preços de acordo com o perfil de cada grupo.
+
+      Algoritmo: K-Means
+
+      O algoritmo K-Means é um dos algoritmos mais populares de agrupamento (clustering) em
+      mineração de dados. Sua função é agrupar objetos em um número pré-definido de clusters
+      (agrupamentos) de acordo com suas características, de forma que objetos semelhantes estejam
+      no mesmo grupo e objetos diferentes estejam em grupos diferentes.
+
+      O algoritmo K-Means funciona da seguinte forma:
+
+      1. Defina o número de clusters (K) que deseja-se encontrar.
+
+      2. Selecione K pontos aleatórios do conjunto de dados como centroides iniciais.
+
+      3. Atribua cada objeto do conjunto de dados ao centróide mais próximo.
+
+      4. Calcule a média dos objetos em cada cluster e mova o centróide para a nova média.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      5. Repita os passos 3 e 4 até que a configuração dos centróides não mude mais ou que um critério
+      de parada seja atingido.
+
+      O critério de parada pode ser o número máximo de iterações do algoritmo ou quando a variação
+      entre as posições dos centróides entre duas iterações consecutivas seja menor que um valor pré-
+      definido.
+
+      Vejamos um exemplo prático:
+
+      Suponha que queremos agrupar um conjunto de dados de 6 objetos em 3 clusters. Inicialmente,
+      escolhemos aleatoriamente 3 objetos como centroides iniciais. Em seguida, atribuímos cada
+      objeto ao centróide mais próximo. Com base nessa atribuição, recalculamos as médias dos
+      objetos em cada cluster e movemos os centróides para essas novas posições. Repetimos esse
+      processo até que a configuração dos centróides não mude mais.
+
+      O resultado final pode ser algo como a seguinte configuração de agrupamentos:
+
+      •     Cluster 1: objetos 1 e 2
+      •     Cluster 2: objetos 3 e 4
+      •     Cluster 3: objetos 5 e 6
+
+      O algoritmo K-Means é amplamente utilizado em diversas áreas, como marketing, biologia,
+      ciência da computação e outras, para agrupamento de dados e análise exploratória de dados.
+
+
+
+
+                                             Mineração de Texto
+
+      Mineração de Texto é uma técnica que consiste em aplicar algoritmos e técnicas de análise de
+      dados para extrair informações úteis de documentos de texto. Essa técnica é amplamente
+      utilizada em diversas áreas, como marketing, ciências sociais, análise de sentimentos, entre
+      outras.
+
+      O processo começa com a coleta de dados, que podem ser obtidos a partir de diversas fontes,
+      como redes sociais, fóruns de discussão, e-mails, blogs, entre outros. Em seguida, é feita a pré-
+      processamento dos dados, que inclui a limpeza, tokenização (separação em palavras individuais),
+      remoção de stop words (veja abaixo) e outras técnicas para transformar o texto bruto em um
+      formato que possa ser analisado pelos algoritmos.
+
+      Uma das técnicas mais comuns utilizadas na mineração de texto é a análise de frequência de
+      palavras, que consiste em contar a frequência de cada palavra nos documentos e identificar as
+      palavras mais frequentes. A partir disso, é possível identificar padrões de comportamento,
+      tópicos mais discutidos, sentimentos expressos, entre outros insights relevantes.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Outra técnica importante é a análise de sentimento, que consiste em identificar a polaridade de
+      um texto, ou seja, se ele é positivo, negativo ou neutro. Essa técnica é amplamente utilizada em
+      empresas para monitorar a opinião dos clientes em relação a seus produtos ou serviços.
+
+      Um exemplo de aplicação da mineração de texto é a análise de feedbacks de clientes em redes
+      sociais. Com a ajuda de algoritmos de mineração de texto, é possível identificar os principais
+      problemas relatados pelos clientes, a polaridade dos comentários, e as palavras mais frequentes
+      em relação a um produto ou serviço. Isso pode ajudar as empresas a tomar decisões estratégicas
+      e melhorar a satisfação do cliente.
+
+      No contexto da Mineração de Textos, podemos fazer uso de algumas técnicas/ferramentas que
+      ajudam no processamento de algoritmos. Dentre elas, as principais são: Thesaurus, Case Folding,
+      remoção de Stop Words e Stemming.
+
+                                                   Thesaurus
+
+      Thesaurus é um tipo de recurso lexical que consiste em uma lista organizada de termos
+      relacionados entre si, em que cada termo está associado a outros termos que compartilham
+      significado semelhante. Ele é usado para ajudar na tarefa de identificação de termos relevantes
+      em um documento e pode ser visto como um tipo de dicionário temático.
+
+      O principal objetivo de um Thesaurus é tornar mais eficiente a identificação de termos relevantes
+      em um texto, especialmente em casos em que o mesmo termo pode ser expresso de diferentes
+      formas ou quando um termo pode ter diferentes significados em contextos distintos. Ele ajuda a
+      mapear os termos relevantes em uma hierarquia organizada, permitindo assim que as técnicas
+      de mineração de textos possam identificar de forma mais precisa e completa os termos
+      relacionados ao assunto de interesse.
+
+      Por exemplo, imagine que estamos interessados em extrair informações relevantes sobre
+      medicamentos em um grande conjunto de documentos médicos. Usando um Thesaurus,
+      podemos mapear os diferentes termos que podem ser usados para se referir a medicamentos,
+      incluindo sinônimos e termos relacionados, como "remédios", "drogas", "medicamentos
+      prescritos", "comprimidos", "pílulas", entre outros. Isso nos permitiria identificar de forma mais
+      precisa e completa todas as ocorrências de termos relacionados a medicamentos nos
+      documentos de interesse.
+
+                                                  Case Folding
+
+      Case folding é um processo comum na mineração de textos que consiste em converter todas as
+      letras do texto em minúsculas ou maiúsculas. Essa técnica é usada para normalizar o texto,
+      reduzindo a variação de representação do mesmo termo em diferentes lugares do texto.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Por exemplo, imagine que estamos fazendo uma análise de sentimentos de avaliações de
+      produtos e temos a seguinte frase: "O produto é bom, mas muito CARO". Se aplicarmos o case
+      folding, o texto ficará todo em letras minúsculas ou maiúsculas, por exemplo: "o produto é bom,
+      mas muito caro". Isso é útil porque "caro" e "CARO" seriam tratados como termos diferentes se
+      não fosse aplicado o case folding.
+
+      O case folding é uma técnica simples e rápida de ser aplicada, mas pode haver alguns casos em
+      que a distinção entre letras maiúsculas e minúsculas é importante, por exemplo, em análises de
+      nomes próprios. Nesses casos, é preciso ter cuidado ao aplicar essa técnica.
+
+                                                  Stop Words
+
+      No contexto da mineração de textos, Stop Words são palavras consideradas irrelevantes para a
+      análise de um documento de texto. Essas palavras geralmente são artigos, preposições,
+      conjunções e outras palavras comuns que aparecem com frequência em um texto, mas que não
+      contêm informações úteis para a análise de conteúdo.
+
+      A remoção de Stop Words é uma técnica comum de pré-processamento de texto utilizada para
+      melhorar a eficiência da análise, reduzindo a quantidade de palavras a serem consideradas e
+      eliminando ruídos desnecessários. Por exemplo, se você estiver analisando um conjunto de
+      documentos de notícias em inglês, as palavras "the", "and", "a", "in" e "of" são algumas das Stop
+      Words mais comuns que provavelmente serão removidas.
+
+      No entanto, é importante notar que as Stop Words podem variar de acordo com o idioma e o
+      contexto em que o texto está sendo analisado. Em alguns casos, palavras que são Stop Words em
+      um idioma podem ser relevantes em outro. Por isso, é importante ter cuidado ao selecionar as
+      palavras que serão removidas como Stop Words em um determinado projeto de mineração de
+      texto.
+
+                                                   Stemming
+
+      Stemming é uma técnica de pré-processamento de texto que busca reduzir as palavras a sua
+      forma básica, eliminando suas variações morfológicas e mantendo apenas o radical. O objetivo é
+      reduzir a dimensionalidade do vocabulário e agrupar palavras semelhantes para simplificar a
+      análise de textos.
+
+      Por exemplo, as palavras "correr", "corrida", "corridas" e "correu" são variações morfológicas da
+      palavra "correr". Aplicando a técnica de stemming, obtemos a palavra raiz "corr".
+
+      Existem diversas técnicas de stemming disponíveis, como o Porter Stemming Algorithm, o
+      Snowball Stemming Algorithm e o Lancaster Stemming Algorithm, que implementam diferentes
+      abordagens para a identificação das raízes das palavras.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      No contexto da mineração de textos, a técnica de stemming é útil para lidar com a variabilidade
+      de palavras em textos e permitir que sejam agrupados ou comparados de forma mais eficiente.
+      No entanto, é importante lembrar que a técnica pode gerar resultados imprecisos em alguns
+      casos, como palavras que não possuem raízes claras ou palavras que possuem sentidos diferentes
+      dependendo do contexto.
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+      Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+      estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+      para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+      A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+      que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+     1. (FGV / TJDFT – 2022) Maria está explorando a seguinte tabela da base de dados de
+        vendas do mercado HortVega:
+
+
+
+
+         Utilizando técnicas de Mineração de Dados, Maria encontrou a seguinte informação:
+
+         Se um cliente compra Cacau, a probabilidade de ele comprar chia é de 50%. Cacau =>
+         Chia, suporte = 50% e confiança = 66,7%.
+
+         Para explorar a base de dados do HortVega, Maria utilizou a técnica de Mineração de
+         Dados:
+
+         a) normalização;
+         b) classificação;
+         c) regra de associação;
+         d) clusterização;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         e) redução de dimensionalidade.
+
+         Comentários:
+
+         Falou em suporte e confiança, devemos lembrar de Regras de Associação. Como uma
+         grande quantidade de regras de associação pode ser derivada a partir de uma base de
+         dados, mesmo que pequena, normalmente se objetiva a derivação de regras que
+         suportem um grande número de transações e que possuam uma confiança razoável
+         para as transações às quais elas são aplicáveis. Esses requisitos estão associados a dois
+         conceitos centrais em mineração de regras de associação:
+
+         Suporte: o suporte, ou cobertura, de uma regra de associação é o número de
+         transações para as quais ela faz a predição correta. Também pode ser entendida como
+         a utilidade de uma dada regra.
+
+         Confiança: a confiança, ou acurácia, de uma regra é o número de transações que ela
+         prediz corretamente proporcionalmente às transações para as quais ela se aplica.
+         Também pode ser entendida como a certeza de uma dada regra.
+
+         Gabarito: C
+
+   2. (FGV / SEFAZ-AM – 2022) Leia o fragmento a seguir. “CRISP-DM é um modelo de
+      referência não proprietário, neutro, documentado e disponível na Internet, sendo
+      amplamente utilizado para descrever o ciclo de vida de projetos de Ciência de Dados. O
+      modelo é composto por seis fases:
+
+       1. entendimento do negócio;
+       2. _____;
+       3. _____;
+       4. Modelagem;
+       5. _____ ; e
+       6. implantação”.
+
+       Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima,
+       na ordem apresentada.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+       a) modelagem do negócio – limpeza de dados – testagem.
+       b) modelagem de requisitos – raspagem de dados – execução.
+       c) modelagem do negócio – mineração de dados – reexecução.
+       d) compreensão dos dados – preparação dos dados – avaliação.
+       e) mapeamento de metadados – mineração de dados – testagem.
+
+       Comentários:
+
+
+        ENTENDIMENT       ENTENDIMENT          PREPARAÇÃO        CONSTRUÇÃO         TESTE E
+                                                                                               IMPLANTAÇÃO
+        O DO NEGÓCIO      O DOS DADOS           DOS DADOS         DO MODELO        AVALIAÇÃO
+
+
+
+      Os nomes variam um pouco, mas temos que: (2) Entendimento/Compreensão de Dados;
+      (3) Preparação dos Dados; (5) Teste e Avaliação.
+
+
+
+       Gabarito: D
+
+
+
+   3. (FGV / SEFAZ-AM – 2022) O tipo de aprendizado máquina, que consiste em treinar um
+      sistema a partir de dados que não estão rotulados e/ou classificados e utilizar algoritmos
+      que buscam descobrir padrões ocultos que agrupam as informações de acordo com
+      semelhanças ou diferenças, é denominado:
+
+       a) dinâmico.
+       b) sistêmico.
+       c) por reforço.
+       d) supervisionado.
+       e) não supervisionado.
+
+      Comentários:
+
+      O tipo de aprendizado máquina, que consiste em treinar um sistema a partir de dados
+      que não estão rotulados e/ou classificados é chamado de aprendizado não
+      supervisionado. Ora, se os dados não são previamente rotulados, então o aprendizado é
+      não-supervisionado.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      Gabarito: E
+
+
+
+   4. (FGV / SEFAZ-ES – 2021) Maria está preparando um relatório sobrea as empresas de
+      serviços de um município, de modo a identificar e estudar o porte dessas empresas com
+      vistas ao estabelecimento de políticas públicas de previsões de arrecadações. Maria
+      pretende criar nove grupos empresas, de acordo com os valores de faturamento, e
+      recorreu às técnicas usualmente empregadas em procedimentos de data mining para
+      estabelecer as faixas de valores de cada grupo. Assinale a opção que apresenta a técnica
+      diretamente aplicável a esse tipo de classificação:
+
+       a) Algoritmos de associação.
+       b) Algoritmos de clusterização.
+       c) Árvores de decisão.
+       d) Modelagem de dados.
+       e) Regressão linear.
+
+      Comentários:
+
+      Ora, se ela quer criar nove grupos e empresas de acordo com os valores de faturamento
+      e recorreu às técnicas de mineração de dados para estabelecer as faixas de valores de
+      cada grupo significa que ela não tinha as classes previamente definidas. Logo, ela utilizou
+      um algoritmo de aprendizado não supervisionado. No caso, trata-se claramente de
+      algoritmos de clusterização.
+
+      Gabarito: B
+
+
+
+     5. (FGV / Prefeitura de Niterói – 2018) Rafael aplicou um teste de múltipla escolha de
+        cem questões para um numeroso grupo de alunos e notou que houve uma variada
+        distribuição de notas.
+
+         Rafael resolveu trabalhar esses dados, e agrupar esses alunos de modo que cada um
+         ficasse no grupo mais adequado para a sua nota. Assim, poderia preparar atividades
+         específicas para cada grupo.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         Assinale a opção que indica o algoritmo mais adequado para essa tarefa.
+
+         a) Bubble sort;
+         b) K-means;
+         c) Monte Carlo.
+         d) Linear regression.
+         e) Logistic regression.
+
+         Comentários:
+
+         Vamos destacar as palavras-chave do enunciado: “grupo de alunos”, “agrupar esses
+         alunos”, “cada um ficasse no grupo mais adequado para a sua nota”.
+
+         (a) Errado, isso é um algoritmo para ordenação de dados; (b) Correto, trata-se de
+         algoritmo de clusterização; (c) Errado, esse é um método utilizado para estimar os
+         possíveis resultados de um evento incerto; (d) Errado, trata-se de um algoritmo de
+         regressão (predição) e Rafael precisa de um algoritmo de agrupamento (descrição); (e)
+         Errado, trata-se de um algoritmo de regressão (predição) e Rafael precisa de um
+         algoritmo de agrupamento (descrição).
+
+         Gabarito: B
+
+
+
+     6. (CESPE / TRT8 – 2022) Acerca de modelos preditivos e descritivos, assinale a opção
+        correta:
+
+         a) Com um modelo não supervisionado consegue-se construir um estimador a partir
+         de exemplos rotulados.
+
+         b) Um modelo supervisionado refere-se à identificação de informações relevantes nos
+         dados sem a presença de um elemento externo para orientar o aprendizado.
+
+         c) Com o uso de técnicas do modelo não supervisionado, consegue-se prever com
+         exatidão o resultado de uma eleição utilizando pesquisas como parâmetro.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         d) A análise de agrupamento pertence ao paradigma de aprendizado não
+         supervisionado, em que o aprendizado é dirigido aos dados, não requerendo
+         conhecimento prévio sobre as suas classes ou categorias.
+
+         e) Tendo como objetivo encontrar padrões ou tendências para auxiliar o entendimento
+         dos dados, deve-se usar técnicas do modelo supervisionado.
+
+         Comentários:
+
+         (a) Errado, os modelos não supervisionados não utilizam exemplos rotulados; (b)
+         Errado, esse seria o modelo não supervisionado; (c) Errado, modelos não preveem
+         dados com exatidão; (d) Correto, a análise de agrupamento realmente utiliza o
+         paradigma não supervisionado, isto é, aquele que não necessita de conhecimento
+         prévio de classes, categorias ou rótulos; (e) Errado, é possível utilizar técnicas do
+         modelo não supervisionado ou do modelo por esforço.
+
+         Gabarito: D
+
+
+
+     7. (CESPE / ISS-Aracaju – 2021) Em um projeto de data mining, a coleta do dado que será
+        garimpado ocorre no processo de:
+
+         a) mineração.
+         b) preparação.
+         c) aplicação.
+         d) associação.
+         e) classificação.
+
+         Comentários:
+
+         A etapa de preparação de dados é responsável por carregar os dados identificados e
+         prepará-los para análise por métodos de mineração de dados.
+
+         Gabarito: B
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     8. (CESPE / SEFAZ-CE – 2021) A classificação Naive Bayes parte da suposição de que as
+        variáveis envolvidas em machine learning são independentes entre si.
+
+         Comentários:
+
+         Perfeito! É justamente por conta dessa suposição de que as variáveis envolvidas são
+         independentes entre si que o nome do algoritmo é Classificação Naive Bayes (Ingênuo).
+
+         Gabarito: C
+
+
+
+     9. (CESPE / ISS-Aracaju – 2021) De acordo com o modelo CRSP-DM, a seleção das técnicas
+        que serão aplicadas nos dados selecionados ocorre na fase de:
+
+         a) modelagem.
+         b) entendimento dos dados.
+         c) entendimento do negócio.
+         d) avaliação.
+         e) preparação dos dados.
+
+         Comentários:
+
+         A etapa de Construção do Modelo (também chamada de Modelagem) é responsável
+         por selecionar e aplicar técnicas de modelagem a um conjunto de dados previamente
+         preparado. Detalhe: mais uma questão desleixada, visto que o nome do modelo é
+         CRISP-DM e, não, CRSP-DM!
+
+         Gabarito: A
+
+
+
+     10. (CESPE / APEX – 2021) Um data mining revela informações que consultas manuais não
+         poderiam revelar efetivamente. Por exemplo, em data mining, o algoritmo de
+         classificação permite:
+
+         a) dividir o banco de dados em segmentos cujos membros compartilhem
+         características iguais por meio de redes neurais.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         b) analisar os dados históricos armazenados em um banco de dados e gerar
+         automaticamente um modelo que possa prever comportamentos futuros.
+
+         c) mapear dados por meio da técnica estatística e, assim, obter um valor de previsão a
+         partir de técnicas de regressão linear e não linear.
+
+         d) estabelecer relações entre itens que estejam juntos em determinado registro, o que
+         é conhecido como análise de cesta de compras.
+
+         Comentários:
+
+         (a) Errado. Na classificação, os dados já são previamente segmentados/rotulados –
+         esse item trata de agrupamento; (b) Correto, a classificação nos leva à previsão; (c)
+         Errado, esse item trata da regressão; (d) Errado, esse item trata da associação.
+
+         Gabarito: B
+
+
+
+     11. (FCC / AL-AP – 2020) Uma financeira possui o histórico de seus clientes e o
+         comportamento destes em relação ao pagamento de empréstimos contraídos
+         previamente. Existem dois tipos de clientes: adimplentes e inadimplentes. Estas são as
+         categorias do problema (valores do atributo alvo). Uma aplicação de mining, neste
+         caso, consiste em descobrir uma função que mapeie corretamente os clientes, a partir
+         de seus dados (valores dos atributos previsores), em uma destas categorias. Tal função
+         pode ser utilizada para prever o comportamento de novos clientes que desejem
+         contrair empréstimos junto à financeira. Esta função pode ser incorporada a um
+         sistema de apoio à decisão que auxilie na filtragem e na concessão de empréstimos
+         somente a clientes classificados como bons pagadores. Trata-se de uma atividade
+         denominada:
+
+         a) sumarização.
+         b) descoberta de associações.
+         c) classificação.
+         d) descoberta de sequências.
+         e) previsão de séries temporais.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         Comentários:
+
+         Logo no início do enunciado, afirma-se que pré-existem duas categorias de problemas:
+         clientes adimplentes e clientes inadimplentes. Logo, trata-se de uma técnica de
+         aprendizado supervisionado. A aplicação de mineração de dados buscará descobrir
+         uma função que mapeie corretamente os clientes, a partir de seus dados, em uma
+         destas categorias, podendo ser usada para prever (predição) o comportamento de
+         novos clientes que desejem contrair empréstimos junto à financeira. Que técnica
+         utiliza aprendizado supervisionado para mapear classes/categorias pré-existentes a
+         fim de predizer comportamentos? Classificação!
+
+         Gabarito: C
+
+
+
+       12. (FCC / TRF4 – 2019) Um Tribunal pretende analisar fatos (fatores ambientais e perfis
+           profissionais, entre outros) que esclareçam por que alguns colaboradores se
+           destacam profissionalmente enquanto outros não se desenvolvem e acabam por se
+           desligar do órgão. Para facilitar essa análise, o Tribunal solicitou um auxílio
+           tecnológico que indique quais características nos fatos apresentam razões positivas
+           que justifiquem investimentos mais robustos no treinamento de colaboradores que
+           tendem a se destacar a médio e longo prazos. Para tanto, o Analista implantará um
+           processo de análise científica preditiva com base em dados estruturados, que
+           consiste na obtenção de padrões que expliquem e descrevam tendências futuras,
+           denominado:
+
+            a) snowflake.
+            b) drill over.
+            c) star schema.
+            d) slice accross.
+            e) data mining
+
+         Comentários:
+
+         O Tribunal pretende analisar fatos para esclarecer uma questão e, para tal, deseja
+         utilizar um auxílio tecnológico que indique quais características apresentam razões
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         positivas que justifiquem investimentos mais robustos no treinamento de
+         colaboradores que tendem a se destacar a médio e longo prazos. Galera... por que eu
+         gosto tanto dessa questão? Porque esse é um exemplo prático de como pode ser
+         utilizada a mineração de dados.
+
+         Ora, para que o Tribunal gaste dinheiro em treinamento com seus colaboradores, é
+         necessário que ela entenda quais serão os benefícios. O país está em crise e essas
+         iniciativas são importantíssimas: todas as decisões do alto escalão devem ser tomadas
+         baseadas em dados. Para tal, um analista realmente pode utilizar um processo de
+         análise científica preditiva com base em dados estruturados, que consiste na obtenção
+         de padrões que expliquem e descrevam tendências futuras.
+
+         Estamos falando de... Mineração de Dados (Data Mining). As outras opções não fazem
+         qualquer sentido lógico, portanto não se preocupem com isso!
+
+         Gabarito: E
+
+
+
+     13. (FCC / SANASA – 2019) Considere que a SANASA busca realizar a gestão de recursos
+         hídricos subterrâneos com base em parâmetros conhecidos que determinam a
+         poluição das águas subterrâneas. Um desses parâmetros, para exemplificar, seria o
+         nitrato, um indicador de poluição difusa de água subterrânea. Criando-se regras para
+         realizar o aprendizado supervisionado do sistema de Data Mining utilizando-se uma
+         certa técnica, chegar-se-á a um resultado que considera os diversos parâmetros para
+         se descobrir se um certo aquífero tem água potável ou não, comparando-se com uma
+         definição conhecida.
+
+         Nesse cenário, a técnica aplicada é denominada:
+
+         a) Associação.
+         b) Classificação.
+         c) Clustering.
+         d) Regressão.
+         e) Prediction.
+
+         Comentários:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         Regras para realizar o aprendizado supervisionado? Pronto, já sabemos que é
+         classificação!
+
+         Gabarito: B
+
+
+
+   14. (FCC / SABESP – 2018) O conceito de Data Mining descreve:
+
+       a) o uso de teorias, métodos, processos e tecnologias para organizar uma grande
+       quantidade de dados brutos para identificar padrões de comportamentos em
+       determinados públicos.
+
+       b) o conjunto de métodos, tecnologias e estratégias para atração voluntária de
+       visitantes, buscando a conversão consistente de leads em clientes (realização de
+       compra).
+
+       c) as atividades coordenadas de modo sistemático por uma determinada organização
+       para relacionamento com os seus distintos públicos, bem como com outras
+       organizações, sejam públicas, privadas ou não governamentais.
+
+       d) o conjunto de tarefas e processos, organizados e sistematizados, normalmente como
+       uso de uma plataforma tecnológica (hardware e software, ou até mesmo em cloud
+       computing) para a gestão do relacionamento com clientes.
+
+       e) o trabalho de produzir levantamento sobre os hábitos de consumo de mídia de um
+       determinado público, identificando horários, tempo gasto etc., associando ao perfil
+       socioeconômico, potencial de consumo, persuasão etc.
+
+
+
+         Comentários:
+
+         (a) Correto. Identifica padrões de comportamentos em uma grande quantidade de
+         dados brutos; (b) Errado. Einh? Esse item não faz nenhum sentido; (c) Errado. Não se
+         trata de uma atividade para relacionamento com públicos; (d) Errado. Não se trata de
+         gestão de relacionamento com clientes; (e) Errado. Não se trata de levantamento de
+         hábitos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         Gabarito: A
+
+   15. (IDECAN / TJ-PI – 2022) Machine Learning possui um grande conjunto de técnicas e
+       algoritmos consagrados. Por possuírem características específicas, essas técnicas e
+       algoritmos são adequados ou não para a solução de um problema, a depender do tipo
+       de aprendizagem que será utilizado. Marque a alternativa que indica o nome de um
+       algoritmo que NÃO faz parte dos utilizados em cenários onde a aprendizagem
+       supervisionada está presente:
+
+       a) KNN;
+       b) K-means;
+       c) Redes Neurais;
+       d) Árvore de Decisão;
+       e) SVM
+
+         Comentários:
+
+         O algoritmo K-means não faz parte dos algoritmos utilizados em cenários onde a
+         aprendizagem supervisionada está presente. O K-means é um algoritmo de
+         aprendizagem não supervisionada que é usado para agrupar dados em clusters com
+         base em suas características sem rótulos prévios.
+
+         Os demais algoritmos mencionados, como KNN, Redes Neurais, Árvore de Decisão e
+         SVM, são algoritmos comumente utilizados em cenários de aprendizagem
+         supervisionada, onde os dados de treinamento possuem rótulos ou respostas
+         conhecidas que são usadas para treinar o modelo.
+
+         Gabarito: B
+
+
+
+16. (VUNESP / TJ-PA – 2014) Uma das tarefas implementadas por uma ferramenta de Data
+    Mining consiste em realizar a determinação de um valor futuro de determinada
+    característica ou atributo de um registro ou conjunto de registros. Tal tarefa corresponde
+    à:
+
+    a) normalização.
+    b) indexação.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+    c) análise de afinidade.
+    d) predição.
+    e) análise de equivalência
+
+   Comentários:
+
+   Tarefa de mineração de dados que permite determinar o valor futuro de determinada
+   característica ou atributo de um registro é a predição, isto é, a técnica que busca descrever
+   a natureza de ocorrências futuras de certos eventos com base nos acontecimentos
+   passados.
+
+   Gabarito: D
+
+
+17. (VUNESP - 2014 - PRODEST-ES - Analista de Tecnologia da Informação - Desenvolvimento
+    de Sistemas) No data mining, uma das formas de se obter conhecimento é por meio das
+    Regras de Associação, que buscam eventuais associações entre 2 determinados produtos,
+    um denominado antecedente e o outro, consequente. Uma medida utilizada nesse tipo de
+    regra é denominada ‘suporte’, que representa
+
+    A) a fração da população-alvo que satisfaz o antecedente e o consequente.
+    B) a razão entre o produto antecedente e o consequente
+    C) a razão entre o produto consequente e o precedente.
+    D) o número absoluto da população-alvo que satisfaz o antecedente e o consequente
+    E) o número absoluto de produtos do tipo antecedente.
+
+      Comentários:
+
+      No data mining, as regras de associação são utilizadas para descobrir associações entre
+      itens ou produtos em um conjunto de dados. Essas regras consistem em um antecedente
+      (conjunto de itens) e um consequente (outro item).
+
+      O suporte é uma medida utilizada nas regras de associação e representa a fração da
+      população-alvo que satisfaz tanto o antecedente quanto o consequente da regra. Em
+      outras palavras, o suporte mede a frequência com que o antecedente e o consequente
+      ocorrem juntos em relação ao total de registros ou transações.
+
+      Gabarito: A
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+    A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+    proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+    perguntas que exigem respostas subjetivas.
+
+    São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+    resolução, como ocorre nas clássicas questões objetivas.
+
+    O objetivo é que você realize uma auto explicação mental de alguns pontos do conteúdo, para
+    consolidar melhor o que aprendeu ;)
+
+    Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim,
+    ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+    conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+
+    Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+    os diversos pontos do conteúdo, na medida do possível.
+
+    É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido
+    na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar
+    a resolução de questões objetivas típicas de concursos, ok?
+
+    Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+    Vamos ao nosso questionário:
+
+
+
+
+                                                    Perguntas
+
+    1. O que é Mineração de Dados?
+
+    2. O que é Previsão na Mineração de Dados?
+
+    3. O que é Identificação na Mineração de Dados?
+
+    4. O que é Classificação na Mineração de Dados?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+    5. O que é Otimização na Mineração de Dados?
+
+    6. Quais são as etapas do processo de Mineração de Dados utilizando a metodologia CRISP-DM?
+
+    7. O que é a etapa de Entendimento do Negócio no CRISP-DM?
+
+    8. Qual é o objetivo da etapa de Compreensão dos Dados no CRISP-DM?
+
+    9. O que é feito na etapa de Preparação dos Dados no CRISP-DM?
+
+    10. O que acontece na etapa de Modelagem dos Dados no CRISP-DM?
+
+    11. Qual é o objetivo da etapa de Avaliação no CRISP-DM?
+
+    12. O que é a etapa de Entrega no CRISP-DM?
+
+    13. O que é incompletude de dados?
+
+    14. O que é inconsistência de dados?
+
+    15. O que é ruído de dados?
+
+    16. O que é limpeza de dados no contexto da mineração de dados?
+
+    17. O que é integração de dados no contexto da mineração de dados?
+
+    18. O que é redução de dados no contexto da mineração de dados?
+
+    19. O que é discretização e qual é a sua importância na mineração de dados?
+
+    20. O que é análise de associação em mineração de dados?
+
+    21. O que é classificação em mineração de dados?
+
+    22. O que é agrupamento em mineração de dados?
+
+    23. O que é mineração de texto em mineração de dados?
+
+    24. O que é um Thesaurus no contexto da mineração de texto?
+
+    25. O que é Case Folding no contexto da mineração de texto?
+
+    25. O que são Stop Words no contexto da mineração de texto?
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+    27. O que é Stemming no contexto da mineração de texto?
+
+    28. O que é o algoritmo KNN (K-Nearest Neighbors)?
+
+    29. Como funciona o algoritmo K-Means?
+
+    30. O que é o classificador Naive Bayes?
+
+    31. Quais são as principais características do algoritmo KNN?
+
+    32. Em que tipo de problemas o algoritmo K-Means é comumente aplicado?
+
+    33. Qual é a principal suposição por trás do classificador Naive Bayes?
+
+
+
+
+                                          Perguntas e Respostas
+
+      1. O que é Mineração de Dados?
+
+      Resposta: A Mineração de Dados é uma área da ciência da computação que tem como objetivo
+      extrair informações valiosas e padrões de grandes volumes de dados.
+
+      2. O que é Previsão na Mineração de Dados?
+
+      Resposta: A Previsão é uma técnica de Mineração de Dados que utiliza dados históricos para fazer
+      estimativas ou projeções sobre eventos futuros.
+
+      3. O que é Identificação na Mineração de Dados?
+
+      Resposta: Identificação é o processo de identificar características ou propriedades de um
+      conjunto de dados, com o objetivo de extrair informações úteis para tomada de decisões.
+
+      4. O que é Classificação na Mineração de Dados?
+
+      Resposta: Classificação é uma técnica de Mineração de Dados que consiste em separar um
+      conjunto de dados em diferentes categorias ou classes com base em características específicas.
+
+      5. O que é Otimização na Mineração de Dados?
+
+      Resposta: Otimização é o processo de encontrar a melhor solução ou conjunto de soluções para
+      um problema específico de acordo com critérios definidos.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      6. Quais são as etapas do processo de Mineração de Dados utilizando a metodologia CRISP-DM?
+
+      Resposta: As seis etapas do processo de Mineração de Dados utilizando a metodologia CRISP-DM
+      são: entendimento do negócio, entendimento dos dados, preparação dos dados, modelagem,
+      avaliação e implantação.
+
+      7. O que é a etapa de Entendimento do Negócio no CRISP-DM?
+
+      Resposta: É a etapa em que se busca compreender os objetivos do projeto, os requisitos do
+      negócio e as metas a serem alcançadas com a mineração de dados.
+
+      8. Qual é o objetivo da etapa de Compreensão dos Dados no CRISP-DM?
+                                                        ==219a34==
+
+
+
+
+      Resposta: O objetivo é coletar e analisar os dados disponíveis para se ter uma melhor
+      compreensão da qualidade, relevância e disponibilidade desses dados para o projeto de
+      mineração de dados.
+
+      9. O que é feito na etapa de Preparação dos Dados no CRISP-DM?
+
+      Resposta: Nesta etapa, os dados são limpos, transformados e integrados para que possam ser
+      utilizados nas próximas etapas do processo de mineração de dados.
+
+      10. O que acontece na etapa de Modelagem dos Dados no CRISP-DM?
+
+      Resposta: É nessa etapa que são selecionados e aplicados os algoritmos de mineração de dados
+      para a criação de modelos que possam ser utilizados para a análise dos dados.
+
+      11. Qual é o objetivo da etapa de Avaliação no CRISP-DM?
+
+      Resposta: O objetivo é avaliar a qualidade dos modelos criados e determinar se eles atendem aos
+      objetivos do projeto de mineração de dados.
+
+      12. O que é a etapa de Entrega no CRISP-DM?
+
+      Resposta: É a etapa em que os resultados da mineração de dados são apresentados ao cliente ou
+      usuário final, incluindo os relatórios finais, modelos e outras informações relevantes.
+
+      13. O que é inconsistência de dados?
+
+      Resposta: Inconsistência é um problema em que os dados possuem informações conflitantes ou
+      contraditórias.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      14. O que é ruído de dados?
+
+      Resposta: Ruído é um problema em que os dados contêm informações irrelevantes ou incorretas.
+
+      15. O que é limpeza de dados no contexto da mineração de dados?
+
+      Resposta: A limpeza de dados é um processo de pré-processamento de dados que envolve a
+      remoção de dados inconsistentes, incompletos ou irrelevantes.
+
+      16. O que é integração de dados no contexto da mineração de dados?
+
+      Resposta: Integração de dados é o processo de combinar dados de várias fontes em um único
+      conjunto de dados.
+
+      17. O que é transformação de dados no contexto da mineração de dados?
+
+      Resposta: Transformação de dados é o processo de alterar a estrutura ou o formato dos dados
+      para torná-los mais adequados para análise.
+
+      18. O que é redução de dados no contexto da mineração de dados?
+
+      Resposta: Redução de dados é o processo de reduzir o tamanho ou a complexidade do conjunto
+      de dados, preservando ao mesmo tempo suas características essenciais.
+
+      19. O que é discretização e qual é a sua importância na mineração de dados?
+
+      Resposta: Discretização é o processo de transformar variáveis contínuas em variáveis discretas,
+      o que facilita o processo de análise de dados. A discretização é importante porque muitos
+      algoritmos de mineração de dados requerem dados discretos para funcionar corretamente.
+
+      20. O que é análise de associação em mineração de dados?
+
+      Resposta: A análise de associação é uma técnica de mineração de dados que busca descobrir
+      relações entre os itens em um conjunto de dados. Essa técnica procura por padrões frequentes
+      em um conjunto de dados e usa esses padrões para identificar associações entre os itens.
+
+      21. O que é classificação em mineração de dados?
+
+      Resposta: Classificação é uma técnica de mineração de dados que busca identificar a que classe
+      uma determinada instância pertence com base em um conjunto de dados de treinamento. A
+      classificação é usada em muitas aplicações, como reconhecimento de voz, reconhecimento de
+      padrões e diagnóstico médico.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      22. O que é agrupamento em mineração de dados?
+
+      Resposta: Agrupamento é uma técnica de mineração de dados que busca identificar grupos de
+      objetos similares em um conjunto de dados. Essa técnica é usada para segmentar clientes em
+      grupos de acordo com seu comportamento de compra, identificar fraudes em transações
+      financeiras e em muitas outras aplicações.
+
+      23. O que é mineração de texto em mineração de dados?
+
+      Resposta: Mineração de texto é uma técnica de mineração de dados que busca extrair
+      informações úteis de dados de texto não estruturados. Essa técnica é usada em muitas
+      aplicações, como análise de sentimento em redes sociais, detecção de spam em e-mails e
+      recuperação de informações em motores de busca.
+
+      24. O que é um Thesaurus no contexto da mineração de texto?
+
+      Resposta: Um Thesaurus é um conjunto de termos relacionados que podem ser usados para
+      expandir consultas de busca de texto, encontrando palavras sinônimas ou termos relacionados.
+
+      25. O que é Case Folding no contexto da mineração de texto?
+
+      Resposta: Case Folding é a técnica de converter todas as letras do texto em minúsculas ou
+      maiúsculas, para que o software possa reconhecer as palavras independentemente do uso de
+      letras maiúsculas ou minúsculas.
+
+      26. O que são Stop Words no contexto da mineração de texto?
+
+      Resposta: Stop Words são palavras comuns que geralmente são ignoradas durante a mineração
+      de texto, pois não têm significado próprio e podem ser encontradas com muita frequência em
+      qualquer texto, como "a", "o", "de", "em", etc.
+
+      27. O que é Stemming no contexto da mineração de texto?
+
+      Resposta: Stemming é a técnica de reduzir as palavras de um texto ao seu radical ou raiz, para
+      que palavras com a mesma raiz possam ser tratadas como iguais, independentemente das suas
+      formas flexionadas. Por exemplo, "corrida", "correria" e "corredor" seriam todas reduzidas para
+      a raiz "corr".
+
+      28. O que é o algoritmo KNN (K-Nearest Neighbors)?
+
+      Resposta: O algoritmo KNN é um método de aprendizado de máquina usado para classificação e
+      regressão. Ele classifica um novo exemplo com base nas classes dos k exemplos mais próximos
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+      em um conjunto de treinamento. A classe é determinada pela maioria das classes dos k vizinhos
+      mais próximos.
+
+      29. Como funciona o algoritmo K-Means?
+
+      Resposta: O algoritmo K-Means é um método de aprendizado de máquina não supervisionado
+      usado para agrupar dados em clusters. Ele divide os dados em k grupos com base na similaridade
+      entre eles. O algoritmo itera entre atribuir pontos ao cluster mais próximo e recalcular o
+      centroide de cada cluster até que a convergência seja alcançada.
+
+      30. O que é o classificador Naive Bayes?
+
+      Resposta: O classificador Naive Bayes é um método de aprendizado de máquina probabilístico
+      utilizado para classificação. Ele se baseia no Teorema de Bayes e na suposição de independência
+      condicional entre os atributos. O algoritmo calcula a probabilidade de um exemplo pertencer a
+      uma determinada classe com base nas probabilidades condicionais dos atributos.
+
+      31. Quais são as principais características do algoritmo KNN?
+
+      Resposta: O KNN é um algoritmo de aprendizado baseado em instâncias, que não requer
+      treinamento explícito. Ele é simples de implementar e eficaz para problemas com fronteiras de
+      decisão complexas. No entanto, ele pode ser computacionalmente caro para conjuntos de dados
+      grandes e requer um valor adequado de k.
+
+      32. Em que tipo de problemas o algoritmo K-Means é comumente aplicado?
+
+      Resposta: O K-Means é frequentemente aplicado em problemas de agrupamento de dados,
+      como segmentação de clientes, análise de imagens, reconhecimento de padrões e
+      processamento de dados não rotulados. Ele é eficaz quando os dados têm características
+      numéricas e quando o número de clusters é conhecido ou pode ser estimado.
+
+      33. Qual é a principal suposição por trás do classificador Naive Bayes?
+
+      Resposta: O classificador Naive Bayes assume independência condicional entre os atributos, o
+      que significa que cada atributo é considerado independentemente dos outros atributos, dado o
+      valor da classe. Embora essa suposição nem sempre seja verdadeira na prática, o classificador
+      Naive Bayes pode fornecer resultados satisfatórios em muitos casos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+                                LISTA DE QUESTÕES ESTRATÉGICAS
+
+       1. (FGV / TJDFT – 2022) Maria está explorando a seguinte tabela da base de dados de
+          vendas do mercado HortVega:
+
+
+
+
+         Utilizando técnicas de Mineração de Dados, Maria encontrou a seguinte informação:
+
+         Se um cliente compra Cacau, a probabilidade de ele comprar chia é de 50%. Cacau =>
+         Chia, suporte = 50% e confiança = 66,7%.
+
+         Para explorar a base de dados do HortVega, Maria utilizou a técnica de Mineração de
+         Dados:
+
+         a) normalização;
+         b) classificação;
+         c) regra de associação;
+         d) clusterização;
+         e) redução de dimensionalidade.
+
+   2. (FGV / SEFAZ-AM – 2022) Leia o fragmento a seguir. “CRISP-DM é um modelo de
+      referência não proprietário, neutro, documentado e disponível na Internet, sendo
+      amplamente utilizado para descrever o ciclo de vida de projetos de Ciência de Dados. O
+      modelo é composto por seis fases:
+
+       1. entendimento do negócio;
+       2. _____;
+       3. _____;
+       4. Modelagem;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+       5. _____ ; e
+       6. implantação”.
+
+       Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima,
+       na ordem apresentada.
+
+       a) modelagem do negócio – limpeza de dados – testagem.
+       b) modelagem de requisitos – raspagem de dados – execução.
+       c) modelagem do negócio – mineração de dados – reexecução.
+       d) compreensão dos dados – preparação dos dados – avaliação.
+       e) mapeamento de metadados – mineração de dados – testagem.
+
+   3. (FGV / SEFAZ-AM – 2022) O tipo de aprendizado máquina, que consiste em treinar um
+      sistema a partir de dados que não estão rotulados e/ou classificados e utilizar algoritmos
+      que buscam descobrir padrões ocultos que agrupam as informações de acordo com
+      semelhanças ou diferenças, é denominado:
+
+       a) dinâmico.
+       b) sistêmico.
+       c) por reforço.
+       d) supervisionado.
+       e) não supervisionado.
+
+   4. (FGV / SEFAZ-ES – 2021) Maria está preparando um relatório sobrea as empresas de
+      serviços de um município, de modo a identificar e estudar o porte dessas empresas com
+      vistas ao estabelecimento de políticas públicas de previsões de arrecadações. Maria
+      pretende criar nove grupos empresas, de acordo com os valores de faturamento, e
+      recorreu às técnicas usualmente empregadas em procedimentos de data mining para
+      estabelecer as faixas de valores de cada grupo. Assinale a opção que apresenta a técnica
+      diretamente aplicável a esse tipo de classificação:
+
+       a) Algoritmos de associação.
+       b) Algoritmos de clusterização.
+       c) Árvores de decisão.
+       d) Modelagem de dados.
+       e) Regressão linear.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     5. (FGV / Prefeitura de Niterói – 2018) Rafael aplicou um teste de múltipla escolha de
+        cem questões para um numeroso grupo de alunos e notou que houve uma variada
+        distribuição de notas.
+
+         Rafael resolveu trabalhar esses dados, e agrupar esses alunos de modo que cada um
+         ficasse no grupo mais adequado para a sua nota. Assim, poderia preparar atividades
+         específicas para cada grupo.
+
+         Assinale a opção que indica o algoritmo mais adequado para essa tarefa.
+
+         a) Bubble sort;
+         b) K-means;
+         c) Monte Carlo.
+         d) Linear regression.
+         e) Logistic regression.
+
+     6. (CESPE / TRT8 – 2022) Acerca de modelos preditivos e descritivos, assinale a opção
+        correta:
+
+         a) Com um modelo não supervisionado consegue-se construir um estimador a partir
+         de exemplos rotulados.
+
+         b) Um modelo supervisionado refere-se à identificação de informações relevantes nos
+         dados sem a presença de um elemento externo para orientar o aprendizado.
+
+         c) Com o uso de técnicas do modelo não supervisionado, consegue-se prever com
+         exatidão o resultado de uma eleição utilizando pesquisas como parâmetro.
+
+         d) A análise de agrupamento pertence ao paradigma de aprendizado não
+         supervisionado, em que o aprendizado é dirigido aos dados, não requerendo
+         conhecimento prévio sobre as suas classes ou categorias.
+
+         e) Tendo como objetivo encontrar padrões ou tendências para auxiliar o entendimento
+         dos dados, deve-se usar técnicas do modelo supervisionado.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     7. (CESPE / ISS-Aracaju – 2021) Em um projeto de data mining, a coleta do dado que será
+        garimpado ocorre no processo de:
+
+         a) mineração.
+         b) preparação.
+         c) aplicação.
+         d) associação.
+         e) classificação.
+
+     8. (CESPE / SEFAZ-CE – 2021) A classificação Naive Bayes parte da suposição de que as
+        variáveis envolvidas em machine learning são independentes entre si.
+
+     9. (CESPE / ISS-Aracaju – 2021) De acordo com o modelo CRSP-DM, a seleção das técnicas
+        que serão aplicadas nos dados selecionados ocorre na fase de:
+
+         a) modelagem.
+         b) entendimento dos dados.
+         c) entendimento do negócio.
+         d) avaliação.
+         e) preparação dos dados.
+
+     10. (CESPE / APEX – 2021) m data mining revela informações que consultas manuais não
+         poderiam revelar efetivamente. Por exemplo, em data mining, o algoritmo de
+         classificação permite:
+
+         a) dividir o banco de dados em segmentos cujos membros compartilhem
+         características iguais por meio de redes neurais.
+
+         b) analisar os dados históricos armazenados em um banco de dados e gerar
+         automaticamente um modelo que possa prever comportamentos futuros.
+
+         c) mapear dados por meio da técnica estatística e, assim, obter um valor de previsão a
+         partir de técnicas de regressão linear e não linear.
+
+         d) estabelecer relações entre itens que estejam juntos em determinado registro, o que
+         é conhecido como análise de cesta de compras.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     11. (FCC / AL-AP – 2020) Uma financeira possui o histórico de seus clientes e o
+         comportamento destes em relação ao pagamento de empréstimos contraídos
+         previamente. Existem dois tipos de clientes: adimplentes e inadimplentes. Estas são as
+         categorias do problema (valores do atributo alvo). Uma aplicação de mining, neste
+         caso, consiste em descobrir uma função que mapeie corretamente os clientes, a partir
+         de seus dados (valores dos atributos previsores), em uma destas categorias. Tal função
+         pode ser utilizada para prever o comportamento de novos clientes que desejem
+         contrair empréstimos junto à financeira. Esta função pode ser incorporada a um
+         sistema de apoio à decisão que auxilie na filtragem e na concessão de empréstimos
+         somente a clientes classificados como bons pagadores. Trata-se de uma atividade
+         denominada:
+
+         a) sumarização.
+         b) descoberta de associações.
+         c) classificação.
+         d) descoberta de sequências.
+         e) previsão de séries temporais.
+
+       12. (FCC / TRF4 – 2019) Um Tribunal pretende analisar fatos (fatores ambientais e perfis
+           profissionais, entre outros) que esclareçam por que alguns colaboradores se
+           destacam profissionalmente enquanto outros não se desenvolvem e acabam por se
+           desligar do órgão. Para facilitar essa análise, o Tribunal solicitou um auxílio
+           tecnológico que indique quais características nos fatos apresentam razões positivas
+           que justifiquem investimentos mais robustos no treinamento de colaboradores que
+           tendem a se destacar a médio e longo prazos. Para tanto, o Analista implantará um
+           processo de análise científica preditiva com base em dados estruturados, que
+           consiste na obtenção de padrões que expliquem e descrevam tendências futuras,
+           denominado:
+
+            a) snowflake.
+            b) drill over.
+            c) star schema.
+            d) slice accross.
+            e) data mining
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+     13. (FCC / SANASA – 2019) Considere que a SANASA busca realizar a gestão de recursos
+         hídricos subterrâneos com base em parâmetros conhecidos que determinam a
+         poluição das águas subterrâneas. Um desses parâmetros, para exemplificar, seria o
+         nitrato, um indicador de poluição difusa de água subterrânea. Criando-se regras para
+         realizar o aprendizado supervisionado do sistema de Data Mining utilizando-se uma
+         certa técnica, chegar-se-á a um resultado que considera os diversos parâmetros para
+         se descobrir se um certo aquífero tem água potável ou não, comparando-se com uma
+         definição conhecida.
+
+         Nesse cenário, a técnica aplicada é denominada:
+
+         a) Associação.
+         b) Classificação.
+         c) Clustering.
+         d) Regressão.
+         e) Prediction.
+
+   14. (FCC / SABESP – 2018) O conceito de Data Mining descreve:
+
+       a) o uso de teorias, métodos, processos e tecnologias para organizar uma grande
+       quantidade de dados brutos para identificar padrões de comportamentos em
+       determinados públicos.
+
+       b) o conjunto de métodos, tecnologias e estratégias para atração voluntária de
+       visitantes, buscando a conversão consistente de leads em clientes (realização de
+       compra).
+
+       c) as atividades coordenadas de modo sistemático por uma determinada organização
+       para relacionamento com os seus distintos públicos, bem como com outras
+       organizações, sejam públicas, privadas ou não governamentais.
+
+       d) o conjunto de tarefas e processos, organizados e sistematizados, normalmente como
+       uso de uma plataforma tecnológica (hardware e software, ou até mesmo em cloud
+       computing) para a gestão do relacionamento com clientes.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+       e) o trabalho de produzir levantamento sobre os hábitos de consumo de mídia de um
+       determinado público, identificando horários, tempo gasto etc., associando ao perfil
+       socioeconômico, potencial de consumo, persuasão etc.
+
+   15. (IDECAN / TJ-PI – 2022) Machine Learning possui um grande conjunto de técnicas e
+       algoritmos consagrados. Por possuírem características específicas, essas técnicas e
+       algoritmos são adequados ou não para a solução de um problema, a depender do tipo
+       de aprendizagem que será utilizado. Marque a alternativa que indica o nome de um
+       algoritmo que NÃO faz parte dos utilizados em cenários onde a aprendizagem
+       supervisionada está presente:
+
+       a) KNN;
+       b) K-means;
+       c) Redes Neurais;
+       d) Árvore de Decisão;
+       e) SVM
+
+18. (VUNESP / TJ-PA – 2014) Uma das tarefas implementadas por uma ferramenta de Data
+    Mining consiste em realizar a determinação de um valor futuro de determinada
+    característica ou atributo de um registro ou conjunto de registros. Tal tarefa corresponde
+    à:
+
+    a) normalização.
+    b) indexação.
+    c) análise de afinidade.
+    d) predição.
+    e) análise de equivalência
+
+19. (VUNESP - 2014 - PRODEST-ES - Analista de Tecnologia da Informação - Desenvolvimento
+    de Sistemas) No data mining, uma das formas de se obter conhecimento é por meio das
+    Regras de Associação, que buscam eventuais associações entre 2 determinados produtos,
+    um denominado antecedente e o outro, consequente. Uma medida utilizada nesse tipo de
+    regra é denominada ‘suporte’, que representa
+
+    A) a fração da população-alvo que satisfaz o antecedente e o consequente.
+    B) a razão entre o produto antecedente e o consequente
+    C) a razão entre o produto consequente e o precedente.
+    D) o número absoluto da população-alvo que satisfaz o antecedente e o consequente
+    E) o número absoluto de produtos do tipo antecedente.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 01
+
+
+
+
+                                                    Gabaritos
+
+            1. C
+            2. D
+            3. E
+            4. B
+            5. B
+            6. D
+            7. B
+            8. C
+            9. A
+            10. B
+            11. C
+            12. E
+            13. B
+            14. A
+            15. B
+            16. D
+            17. A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

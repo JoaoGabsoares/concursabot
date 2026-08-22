@@ -1,0 +1,2059 @@
+                                                    Aula 07
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                        Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                            27 de Junho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Pedrosa Lopes
+Aula 07
+
+
+
+
+                                        COMPUTAÇÃO EM NUVEM
+   Sumário
+
+    Conteúdo ...................................................................................................................................... 1
+
+    ANÁLISE ESTATÍSTICA ..................................................................................................................... 2
+
+    Glossário de termos ..................................................................................................................... 2
+
+    Roteiro de revisão ........................................................................................................................ 4
+
+    Introdução e Conceitos Básicos ................................................................................................... 4
+
+    Características de Computação em Nuvem ................................................................................. 8
+
+    Modelos de Serviço de Computação em Nuvem ....................................................................... 10
+
+    Modelos de Implantação de Computação em Nuvem .............................................................. 15
+
+    Questões Estratégicas ............................................................................................................... 20
+
+    Questionário de revisão e aperfeiçoamento ............................................................................. 30
+
+    Perguntas.................................................................................................................................... 31
+
+    Perguntas e Respostas ............................................................................................................... 32
+
+    Lista de Questões Estratégicas ................................................................................................... 34
+
+    Gabaritos .................................................................................................................................... 39
+
+
+
+
+                                                               CONTEÚDO
+
+   Conceitos básicos. Histórico. Definições. Características. Benefícios. Desafios e problemas.
+   Modelos de serviço. Modelos de implantação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+      www.estrategiaconcursos.com.br
+
+                                             https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+                                          ANÁLISE ESTATÍSTICA
+
+      Inicialmente, convém destacar o percentual de incidência do assunto, dentro da disciplina
+      Sistemas Operacionais em concursos/cargos similares. Quanto maior o percentual de cobrança
+      de um dado assunto, maior sua importância.
+
+      Obs.: um mesmo assunto pode ser classificado em mais de um tópico devido à
+      multidisciplinaridade de conteúdo.
+
+                   Assunto                          Relevância na disciplina em concursos similares
+
+       Clusters                            36.4 %
+
+       Cloud Computing                     27.3 %
+
+       Virtualização                       9.1 %
+
+       Gerência do Processador             4.5 %
+
+       Linux                               4.5 %
+
+       Windows                             4.5 %
+
+       Comandos                            4.5 %
+
+       Arquitetura de                      4.5 %
+       Computadores
+
+
+
+
+                                         GLOSSÁRIO DE TERMOS
+
+      Faremos uma lista de termos que são relevantes ao entendimento do assunto desta aula. Caso
+      tenha alguma dúvida durante a leitura, esta seção pode lhe ajudar a esclarecer.
+
+      Computação em nuvem: Modelo de computação que permite acesso on-demand a um conjunto
+      compartilhado de recursos de computação configuráveis, como servidores, armazenamento e
+      aplicativos, sem o gerenciamento direto pelo usuário.
+
+      Escalabilidade: Capacidade de um sistema lidar com a crescente quantidade de trabalho ou sua
+      capacidade de ser ampliado para acomodar esse crescimento.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+      Elasticidade: Capacidade de um sistema de se adaptar à carga de trabalho, aumentando ou
+      diminuindo a capacidade conforme necessário.
+
+      SaaS (Software as a Service): Modelo de distribuição de software onde um provedor de nuvem
+      hospeda aplicativos e os disponibiliza aos clientes pela internet.
+
+      PaaS (Platform as a Service): Modelo de entrega de computação em nuvem onde um provedor
+      oferece uma plataforma que inclui infraestrutura, middleware, ferramentas de desenvolvimento
+      e outros componentes de negócios.
+
+      IaaS (Infrastructure as a Service): Modelo de entrega de computação em nuvem em que um
+      provedor fornece recursos de infraestrutura, como servidores, redes e armazenamento, na
+      nuvem.
+
+      FaaS (Function as a Service): Modelo de computação em nuvem que permite a execução de
+      funções individuais na nuvem, que são acionadas por eventos e gerenciadas totalmente pelo
+      provedor de nuvem.
+
+      Nuvem Pública: Serviços de infraestrutura hospedados e operados por terceiros e
+      disponibilizados para usuários por meio da internet.
+
+      Nuvem Privada: Infraestrutura de nuvem dedicada a uma única organização, seja mantida no
+      local ou hospedada por um terceiro no exterior.
+
+      Nuvem Híbrida: Infraestrutura de computação em nuvem que combina elementos de nuvens
+      públicas e privadas, permitindo que dados e aplicativos sejam compartilhados entre elas.
+
+      Multicloud: Uso de vários serviços de nuvem, de mais de um provedor de nuvem, para atender
+      a diferentes necessidades de TI.
+
+      Google App Engine: Uma plataforma de computação em nuvem para desenvolver e hospedar
+      aplicativos na web gerenciada pela Google.
+
+      Microsoft Azure: Conjunto de serviços de computação em nuvem oferecido pela Microsoft, que
+      inclui soluções IaaS, PaaS e SaaS.
+
+      Heroku: Plataforma como serviço (PaaS) baseada em nuvem que permite aos desenvolvedores
+      construir, executar e operar aplicativos em praticamente qualquer linguagem de programação.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+      Salesforce: Empresa que oferece soluções de gestão de relacionamento com o cliente (CRM)
+      baseadas em nuvem, juntamente com outras aplicações empresariais focadas em serviço ao
+      cliente, marketing automation, analytics e desenvolvimento de aplicações.
+
+      AWS (Amazon Web Services): Plataforma de serviços de computação em nuvem oferecida pela
+      Amazon, que fornece uma variedade de serviços de infraestrutura, como capacidades de
+      computação, armazenamento e banco de dados.
+
+      Digital Ocean: Empresa americana que oferece serviços de infraestrutura em nuvem para
+      desenvolvedores.
+
+      Cluster: Conjunto de computadores conectados que trabalham juntos para que, em muitos
+      aspectos, eles possam ser vistos como um único sistema.
+
+      Grid: Tipo de infraestrutura de TI que permite a integração de computadores e recursos de TI
+      operando em diferentes localizações para alcançar um objetivo comum.
+
+      Balanceamento de Carga: Processo de distribuição de cargas de trabalho de rede em vários
+      servidores para garantir que nenhum dispositivo de rede individual seja sobrecarregado.
+
+
+
+
+                                           ROTEIRO DE REVISÃO
+
+      A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+      assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+
+
+
+                                    Introdução e Conceitos Básicos
+
+      Computação em nuvem é um modelo de fornecimento de serviços de TI que permite acesso sob
+      demanda a um conjunto de recursos compartilhados de computação. Isso inclui servidores,
+      armazenamento, aplicativos e serviços através da Internet, em vez de possuir sua própria
+      infraestrutura de hardware ou software físico.
+
+      Os recursos de computação normalmente são fornecidos e mantidos por provedores de serviços
+      em nuvem, como Amazon Web Services (AWS), Google Cloud Platform (GCP), e Microsoft Azure.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+      Usuários, ou seus aplicativos, podem acessar esses recursos conforme necessário, sem ter que
+      se preocupar com o planejamento, aquisição e manutenção do hardware subjacente.
+
+      A computação em nuvem desempenhou e continua desempenhando um papel significativo na
+      transformação da indústria de tecnologia e em outros setores que dependem de tecnologia para
+      suas operações. Veja alguns dos impactos que Cloud Computing gerou na indústria de TI:
+
+      Redução de custos: Cloud Computing permite que empresas evitem ou minimizem os custos
+      iniciais de investimento em hardware e software, bem como os custos de manutenção e
+      atualização contínuos.
+
+      Aceleração da inovação: As empresas podem implementar novas ideias mais rapidamente com
+      a computação em nuvem, uma vez que não precisam investir tempo e recursos na configuração
+      e gerenciamento de infraestrutura. Isso permitiu que as startups competissem efetivamente com
+      empresas estabelecidas, dando origem a uma onda de inovação.
+
+      Escalabilidade e Flexibilidade: Existe a capacidade de escalar (crescer ou diminuir) rapidamente
+      para cima e para baixo para atender às demandas do negócio. Isso oferece uma grande vantagem
+      para empresas que têm picos de demanda ou que estão crescendo rapidamente.
+
+      Mobilidade e Colaboração: Possibilidade de os usuários acessarem sistemas e dados de qualquer
+      lugar, facilitando o trabalho remoto e a colaboração entre equipes geograficamente dispersas.
+
+      Resiliência e recuperação de desastres: Com a computação em nuvem, empresas podem fazer
+      backup de seus dados em locais geograficamente separados, o que oferece proteção contra
+      falhas locais e desastres naturais. Além disso, muitos provedores de nuvem oferecem serviços
+      para recuperar rapidamente os sistemas em caso de falha.
+
+      Transformação digital: Cloud Computing atua como um facilitador da transformação digital nas
+      empresas, permitindo que elas ofereçam serviços digitais a clientes e automatizem processos
+      internos.
+
+      Sustentabilidade: Ao usar os recursos de computação compartilhados de um provedor de
+      nuvem, as empresas podem reduzir sua pegada de carbono, já que a infraestrutura da nuvem
+      tende a ser mais eficiente em termos de energia do que os data centers tradicionais.
+
+
+                                                       Histórico
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+      A computação em nuvem, como a conhecemos hoje, é o produto de muitos avanços tecnológicos
+      ao longo das últimas décadas. Segue uma breve visão geral do histórico da computação em
+      nuvem:
+
+      Anos 1960: O conceito de computação em nuvem realmente começou com a ideia de
+      "computação em tempo compartilhado". Na década de 1960, o cientista da computação John
+      McCarthy propôs a ideia de que os serviços de computação poderiam ser vendidos através do
+      princípio da utilidade, assim como água ou eletricidade.
+
+      Anos 1970 - 1990: Durante esse período, as empresas começaram a compartilhar o acesso a
+      recursos físicos de servidor para minimizar os custos e melhorar a eficiência. A virtualização, a
+      capacidade de executar múltiplos sistemas operacionais em um único servidor físico, se tornou
+      um elemento chave para o desenvolvimento da computação em nuvem.
+
+      Anos 1990: A computação em nuvem começou a tomar forma mais tangível com o advento da
+      internet comercial e a proliferação dos data centers. Empresas começaram a oferecer 'serviços
+      de aplicativos', essencialmente fornecendo infraestrutura de software e aplicativos através de
+      uma rede remota.
+
+      1999: A Salesforce foi pioneira no conceito de entregar aplicativos empresariais através de um
+      site simples. Isso marcou o começo do que agora conhecemos como SaaS (Software as a Service).
+
+      2002: A Amazon lançou a Amazon Web Services (AWS), que ofereceu um conjunto de serviços
+      baseados em nuvem, incluindo armazenamento, cálculo e até trabalho humano.
+
+      2006: A Amazon lançou o Elastic Compute Cloud (EC2), que foi o primeiro serviço de IaaS
+      (Infrastructure as a Service) disponível comercialmente. Permitiu que pequenas empresas e
+      indivíduos alugassem computadores nos quais pudessem executar seus próprios aplicativos.
+
+      2008: O Google lançou o Google App Engine, uma plataforma para desenvolver e hospedar
+      aplicativos da web.
+
+      2010: A Microsoft lançou o Azure, sua plataforma de serviços em nuvem, oferecendo um
+      conjunto de serviços, incluindo computação, análise e armazenamento.
+
+      A partir daí, a computação em nuvem continuou a crescer e a evoluir, com o surgimento de
+      outros grandes provedores de nuvem, como a IBM e a Oracle, e uma variedade cada vez maior
+      de serviços em nuvem disponíveis. Hoje, a computação em nuvem é uma parte essencial da
+      maioria das infraestruturas de TI, apoiando tudo, desde o processamento de dados até a entrega
+      de conteúdo para aplicativos móveis.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+                                                Terminologia Básica
+
+
+      Antes de adentrarmos nas características de Cloud Computing, é bom revisarmos três termos
+      importantes que são utilizados na computação distribuída, isto é, aquela que envolve vários
+      computadores trabalhando juntos para alcançar um objetivo. São os conceitos de Grid, Cluster e
+      Balanceamento de Carga:
+
+      Grid
+
+      Um grid de computadores é uma coleção de dispositivos de hardware e software distribuídos
+      que funcionam juntos para realizar tarefas grandes ou complexas. O grid pode ser composto por
+      computadores localizados em locais diferentes, mas todos estão conectados por uma rede. Os
+      grids são escaláveis e podem ser ampliados para incluir mais recursos conforme necessário.
+
+      Exemplo: O Large Hadron Collider (LHC) no CERN usa uma infraestrutura de grid para analisar os
+      vastos volumes de dados produzidos pelos experimentos do LHC. O grid consiste em dezenas de
+      milhares de servidores e storages localizados em centros de dados em todo o mundo.
+
+      Cluster:
+
+      Um cluster é um grupo de servidores ou computadores que trabalham juntos e podem ser vistos
+      como um único sistema. Os clusters são geralmente usados para melhorar o desempenho e a
+      disponibilidade sobre o que um único servidor poderia fornecer. Se um servidor falhar, os outros
+      no cluster podem assumir sua carga de trabalho sem interrupção.
+
+      Exemplo: Muitas empresas usam clusters de servidores em seus data centers para melhorar a
+      disponibilidade e o desempenho de seus sites e aplicações. Por exemplo, Google e Facebook
+      usam clusters massivos para lidar com a enorme quantidade de dados e solicitações que recebem
+      a cada dia.
+
+      Balanceamento de carga:
+
+      O balanceamento de carga é a prática de distribuir o trabalho entre vários recursos de
+      computação, como servidores ou discos rígidos, para obter o uso mais eficiente dos recursos,
+      maximizar o número de transações, minimizar o tempo de resposta e evitar a sobrecarga de
+      qualquer recurso único.
+
+      Exemplo: Os sites de comércio eletrônico populares, como Amazon e eBay, usam o
+      balanceamento de carga para distribuir o tráfego de rede e as solicitações de usuários entre
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+        servidores em um cluster. Isso garante que nenhum servidor individual seja sobrecarregado, o
+        que poderia degradar o desempenho e a experiência do usuário.
+
+
+
+
+                              Características de Computação em Nuvem
+
+        Cloud Computing tem várias características distintas que a diferenciam de outros métodos
+        tradicionais de fornecimento de serviços de TI. Veja algumas das principais:
+
+    •    Autoatendimento sob demanda: Usuários podem provisionar recursos de computação
+         conforme necessário, sem a necessidade de interação humana com o provedor de serviços.
+    •    Acesso à rede em larga escala: Recursos estão disponíveis na Internet e podem ser acessados
+         por qualquer dispositivo que tenha conexão à internet, seja ele um desktop, laptop,
+         smartphone ou tablet.
+    •    Agrupamento de recursos: Recursos de computação do provedor são agrupados para atender
+         a vários usuários, com diferentes recursos físicos e virtuais atribuídos e reatribuídos de acordo
+         com a demanda.
+    •    Elasticidade rápida: Recursos podem ser escalonados rapidamente para cima ou para baixo de
+         acordo com a demanda, dando a impressão de recursos infinitos.
+    •    Medido por serviço: O uso de computação é medido e monitorado pelo provedor, e os usuários
+         pagam apenas pelo que usam.
+    •    Serviços de múltiplos usuários: Com a virtualização e outras técnicas, vários usuários podem
+         compartilhar a mesma instância de um aplicativo, mantendo a segurança e a privacidade de
+         seus próprios dados.
+    •    Manutenção reduzida: Como os recursos de TI são mantidos pelo provedor, a necessidade de
+         manutenção de hardware e software pelos usuários é significativamente reduzida.
+
+        A tabela a seguir resume os benefícios de computação em nuvem:
+
+         Benefício                 Descrição
+
+         Custos Reduzidos          Elimina a necessidade de investir em infraestrutura de TI cara. O
+                                   modelo de pagamento conforme o uso permite que as empresas
+                                   paguem apenas pelos recursos que realmente usam.
+
+         Escalabilidade            Oferece a capacidade de aumentar ou diminuir os recursos de
+                                   computação conforme necessário. Útil para lidar com picos de
+                                   demanda ou crescimento do negócio.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+       Flexibilidade              Oferece a flexibilidade de trabalhar de qualquer lugar com uma
+                                  conexão à internet, facilitando o trabalho remoto.
+
+       Resiliência e              Mais resiliente a falhas físicas em comparação com um servidor local.
+       Recuperação de             A maioria dos provedores de serviços em nuvem oferece serviços de
+       Desastres                  recuperação de desastres e backup.
+
+       Atualizações               Os provedores de serviços em nuvem são responsáveis pela
+       automáticas                manutenção do sistema, incluindo atualizações de software, liberando
+                                  tempo significativo para a equipe de TI.
+
+       Colaboração                Com os dados armazenados na nuvem, os colaboradores podem
+       aprimorada                 trabalhar juntos no mesmo projeto ou documento em tempo real,
+                                  independentemente de sua localização geográfica.
+
+       Implementação mais         Uma nova aplicação ou serviço pode ser lançado na nuvem muito
+       rápida                     mais rapidamente do que em um ambiente de TI tradicional,
+                                  facilitando e acelerando a inovação.
+
+       Segurança                  Muitos provedores de nuvem oferecem uma gama de políticas,
+                                  tecnologias e controles que reforçam a segurança de seus dados,
+                                  ajudando a proteger os dados, aplicativos e a infraestrutura de
+                                  possíveis ameaças.
+
+
+
+
+                                          Desafios e Possíveis Problemas
+
+
+      Computação em nuvem oferece muitos benefícios, mas também existem problemas e desafios
+      importantes, tais como:
+
+      Segurança: Embora muitos provedores de nuvem ofereçam segurança robusta, a computação
+      em nuvem pode potencialmente abrir novas avenidas para ataques cibernéticos. Isso pode incluir
+      tudo, desde invasões de dados até ataques de negação de serviço. Segurança é frequentemente
+      vista como uma responsabilidade compartilhada entre o provedor de nuvem e o cliente.
+
+      Privacidade: Semelhante à segurança, a privacidade dos dados é uma preocupação crítica. Isso é
+      particularmente verdadeiro para dados sensíveis que estão sujeitos a regulamentações rigorosas,
+      como informações de saúde ou dados financeiros.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+      Disponibilidade: Apesar de os provedores de nuvem normalmente oferecerem alta
+      disponibilidade, ainda há riscos. Se um provedor de nuvem sofrer uma interrupção, isso pode
+      resultar em inatividade significativa para as empresas que usam seus serviços.
+
+      Conformidade regulatória: Dependendo do setor, as empresas podem estar sujeitas a uma série
+      de regulamentações de conformidade que podem afetar a forma como usam e armazenam
+      dados na nuvem. A LGPD no Brasil é um exemplo bem conhecido.
+
+      Gestão de múltiplos provedores de nuvem: À medida que as empresas adotam uma estratégia
+      de múltiplas nuvens, gerenciar vários provedores de serviços em nuvem pode se tornar um
+      desafio significativo.
+
+      Dependência do provedor: Também conhecida como "lock-in" do fornecedor, algumas empresas
+      podem achar difícil migrar de um provedor de nuvem para outro devido à compatibilidade de
+      software e hardware, contratos de longo prazo ou estruturas de preços complexas.
+
+      Complexidade de gerenciamento: A implementação e gerenciamento eficazes de uma
+      infraestrutura em nuvem podem ser complexos e requerem novas habilidades e conhecimentos.
+
+      Banda larga e conectividade: A computação em nuvem depende de uma conexão de internet
+      confiável. Problemas de largura de banda ou conectividade podem afetar seriamente a
+      capacidade de uma empresa de acessar seus serviços e dados na nuvem.
+
+
+
+
+                       Modelos de Serviço de Computação em Nuvem
+
+      Os modelos de serviço de computação em nuvem definem o tipo de serviço que os provedores
+      de nuvem oferecem aos seus clientes. Existem três principais modelos de serviço de computação
+      em nuvem:
+
+    1. Software as a Service (SaaS): Este é o modelo mais comum de computação em nuvem para
+       usuários finais. Com o SaaS, provedores hospedam e gerenciam um aplicativo de software e os
+       usuários finais o acessam pela Internet, geralmente através de um navegador da web. Os
+       exemplos mais comuns incluem Google Workspace, Microsoft 365, Salesforce, e muitos outros.
+    2. Platform as a Service (PaaS): Este modelo é mais comumente usado por desenvolvedores de
+       software e equipes de TI. Com o PaaS, provedores de nuvem hospedam e gerenciam todos os
+       aspectos do ambiente de TI, como infraestrutura de TI, middleware, ferramentas de
+       desenvolvimento, sistemas de gerenciamento de banco de dados, etc. Isso permite que os
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+       desenvolvedores se concentrem apenas no desenvolvimento e gerenciamento de seus
+       aplicativos. Exemplos de PaaS incluem Google App Engine, Microsoft Azure, Heroku e outros.
+    3. Infrastructure as a Service (IaaS): Este modelo oferece a máxima flexibilidade e controle
+       gerencial sobre os recursos de TI. Com o IaaS, provedores de nuvem hospedam e gerenciam a
+       infraestrutura de TI, incluindo servidores físicos, redes, etc., e os usuários gerenciam o sistema
+       operacional, middleware e aplicativos. Exemplos de IaaS incluem Amazon Web Services (AWS),
+       Google Compute Engine (GCE), Microsoft Azure e outros.
+
+        Além destes, há também uma extensão de IaaS conhecida como Function as a Service
+        (FaaS) ou serverless computing, onde os desenvolvedores podem construir, executar e gerenciar
+        aplicações sem pensar na infraestrutura. Aqui, o fornecedor da nuvem executa automaticamente
+        a infraestrutura em segundo plano.
+
+
+                                                           SaaS
+
+
+        Software as a Service, ou SaaS, é um modelo de distribuição de software em que um provedor
+        de serviços hospeda o aplicativo e o disponibiliza aos usuários pela internet. Geralmente, os
+        usuários pagam uma assinatura para acessar o software, embora alguns possam oferecer um
+        nível gratuito com recursos limitados. No modelo SaaS, o provedor é responsável pela
+        manutenção do software, incluindo qualquer atualização ou atualização necessária, bem como
+        a segurança e a disponibilidade do serviço.
+
+        Características:
+
+    •    Acessibilidade: SaaS é acessível de qualquer lugar com uma conexão à Internet, o que faz dele
+         conveniente para usuários remotos ou equipes distribuídas.
+    •    Atualizações e Manutenção: Como o software é hospedado pelo provedor de serviços, os
+         usuários não precisam se preocupar com a instalação de atualizações ou a manutenção do
+         software. Isso é feito automaticamente pelo provedor de serviços.
+    •    Custos: Em geral, SaaS pode reduzir os custos de TI, pois usuários não precisam investir em
+         hardware para executar o software ou manter uma equipe de TI para gerenciá-lo.
+    •    Escalabilidade: Serviços SaaS podem ser facilmente escalonados para atender às necessidades
+         do usuário, seja adicionando mais usuários ou adquirindo recursos adicionais.
+
+        Exemplos:
+
+    •    Google Workspace: Pacote de produtividade baseado em nuvem que inclui o Gmail, o Docs, o
+         Drive, o Calendar e outros aplicativos que muitos de nós usamos diariamente.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+    •    Salesforce: Plataforma de gerenciamento de relacionamento com o cliente (CRM) que permite
+         que empresas gerenciem suas vendas, atendimento ao cliente e marketing de um único
+         aplicativo baseado em nuvem.
+    •    Zoom: Serviço de videoconferência que se tornou especialmente popular durante a pandemia
+         COVID-19, permitindo que as pessoas trabalhassem e se socializassem remotamente.
+    •    Slack: Ferramenta de comunicação que permite a colaboração em tempo real entre equipes,
+         com salas de chat organizadas por tópico, privadas ou em grupo.
+    •    Microsoft 365: Pacote de produtividade que inclui versões baseadas em nuvem do Word, Excel,
+         PowerPoint e outras ferramentas de escritório da Microsoft.
+
+
+                                                          PaaS
+
+
+        Plataforma como Serviço (PaaS) é um modelo de computação em nuvem que fornece aos
+        usuários um ambiente na nuvem para desenvolver, executar e gerenciar aplicações sem a
+        complexidade de construir e manter a infraestrutura associada normalmente necessária para
+        desenvolver e lançar um aplicativo.
+
+        Características:
+
+    •    Ambiente de Desenvolvimento: PaaS fornece aos desenvolvedores as ferramentas e serviços
+         necessários para desenvolver e testar aplicativos em uma única plataforma integrada.
+    •    Gestão Automatizada de Recursos: A infraestrutura subjacente, como servidores e redes, é
+         mantida e gerenciada pelo provedor de PaaS. Isso libera os desenvolvedores para se concentrar
+         no código e na lógica de negócios, em vez de tarefas de gerenciamento de infraestrutura.
+    •    Escalabilidade: Permite aos desenvolvedores escalarem facilmente os recursos para atender às
+         demandas do aplicativo, seja aumentando a capacidade de processamento durante os períodos
+         de pico de demanda ou diminuindo-a durante os períodos de baixa demanda.
+    •    Integração e Compatibilidade: Os provedores de PaaS geralmente oferecem uma variedade de
+         soluções e serviços integrados, tornando mais fácil para os desenvolvedores usar tecnologias e
+         serviços específicos de acordo com as necessidades do projeto.
+
+        Exemplos:
+
+    1. Google App Engine: Plataforma que permite aos desenvolvedores criar, implantar e escalar
+       aplicações web e backend em linguagens de programação comuns, como Java, PHP, Node.js,
+       Python, C#, .Net, Ruby e Go, ou trazer suas próprias linguagens de programação.
+    2. Microsoft Azure: Além de fornecer capacidades de IaaS, o Azure também fornece uma série de
+       serviços PaaS que ajudam os desenvolvedores a desenvolver e gerenciar aplicações, como o
+       Azure App Service, Azure Functions e o Azure DevOps.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+    3. Heroku: Essa plataforma em nuvem oferece serviços e ferramentas integradas para
+       desenvolver, implantar, gerenciar e escalar aplicativos. Ela suporta várias linguagens de
+       programação, incluindo Java, Node.js, Scala, Clojure, Python, PHP e Go.
+
+
+                                                           IaaS
+
+
+        Infraestrutura como Serviço (IaaS) é um modelo de serviço de computação em nuvem que
+        oferece recursos computacionais básicos como servidores, armazenamento e redes em uma
+        base de "pay-as-you-go". O modelo fornece a maior flexibilidade e controle gerencial sobre os
+        recursos de TI em comparação com os outros modelos de serviço de nuvem (SaaS e PaaS). No
+        modelo IaaS, o provedor de serviços gerencia a infraestrutura física, enquanto o usuário é
+        responsável pelo provisionamento, instalação, configuração e gerenciamento de seu próprio
+        software, que pode incluir sistemas operacionais, middleware e aplicativos.
+
+        Características:
+
+    •    Flexibilidade e controle: Os usuários têm o controle total sobre sua infraestrutura de TI,
+         incluindo o sistema operacional, middleware e aplicativos.
+    •    Escalabilidade: Com IaaS, os usuários podem facilmente escalar seus recursos de TI para cima
+         ou para baixo, dependendo de suas necessidades.
+    •    Custo-efetivo: Com o modelo de pagamento conforme o uso, os usuários só pagam pelos
+         recursos que realmente usam.
+    •    Foco no core business: Como o provedor de IaaS gerencia a infraestrutura física, os usuários
+         podem se concentrar em suas operações principais, em vez de gerenciar a infraestrutura de TI.
+
+        Exemplos:
+
+    1. Amazon Web Services (AWS): A AWS oferece uma variedade de serviços IaaS, incluindo o
+       Amazon Elastic Compute Cloud (EC2) para serviços de computação, o Amazon Simple Storage
+       Service (S3) para armazenamento e o Amazon Virtual Private Cloud (VPC) para rede.
+    2. Microsoft Azure: O Azure oferece serviços de computação, armazenamento e rede, bem como
+       muitos outros recursos, como análise e machine learning, através de uma variedade de
+       serviços.
+    3. Google Cloud Platform (GCP): A GCP oferece serviços de computação, armazenamento e rede,
+       bem como machine learning, análise de dados e outras funcionalidades.
+    4. IBM Cloud: A IBM Cloud oferece uma gama de serviços IaaS, incluindo servidores virtuais e bare
+       metal, armazenamento em nuvem e serviços de rede.
+    5. DigitalOcean: DigitalOcean é conhecida por sua simplicidade e preço acessível, tornando-a
+       popular entre pequenas empresas e desenvolvedores independentes.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+                                                           FaaS
+
+
+        Função como Serviço (FaaS) é um tipo de computação em nuvem que permite aos usuários
+        desenvolver, executar e gerenciar aplicações sem a complexidade de construir e manter uma
+        infraestrutura. Este modelo é frequentemente referido como "computação sem servidor"
+        (serverless computing) porque os desenvolvedores podem simplesmente criar e carregar o
+        código, e o provedor de nuvem lida com todo o back-end.
+
+        Características:
+
+    •    Escalabilidade Automática: No FaaS, o código é executado em contêineres que são
+         automaticamente escalados para cima e para baixo para atender à demanda, sem que os
+         desenvolvedores precisem gerenciar manualmente a alocação de recursos.
+    •    Cobrança Baseada em Uso: Em vez de pagar pela infraestrutura contínua, os usuários são
+         cobrados apenas pelo tempo real que o código é executado.
+    •    Gerenciamento de Infraestrutura: O provedor de nuvem gerencia a infraestrutura, permitindo
+         que os desenvolvedores se concentrem apenas na lógica do aplicativo.
+    •    Event-driven: O código é normalmente projetado para ser executado em resposta a eventos
+         ou solicitações HTTP, o que significa que os servidores não precisam estar sempre em execução.
+
+        Exemplos:
+
+    •    AWS Lambda: Um dos serviços FaaS mais conhecidos, o Lambda da Amazon permite que os
+         desenvolvedores executem seu código em resposta a eventos, como alterações em dados em
+         um bucket do Amazon S3 ou uma atualização em uma tabela do Amazon DynamoDB.
+    •    Google Cloud Functions: Permite que os desenvolvedores criem aplicações leves que
+         respondem a eventos na nuvem do Google, como mensagens do Pub/Sub ou mudanças no
+         Firebase.
+    •    Microsoft Azure Functions: Permite que os desenvolvedores executem pequenos pedaços de
+         código (funções) em resposta a eventos, sem precisar provisionar ou gerenciar servidores.
+    •    IBM Cloud Functions: Baseado no Apache OpenWhisk, o IBM Cloud Functions é um serviço FaaS
+         que executa código em resposta a eventos ou solicitações HTTP.
+
+        A tabela a seguir resume as características e principais diferenças entre os modelos de serviço:
+
+            Modelo de                                                Responsabilidades do
+                                        Descrição                                           Exemplos
+             Serviço                                                       Usuário
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+       SaaS (Software      O provedor hospeda e mantém           Usar o software. Configurar   Google
+       as a Service)       todo o software e a                   opções do usuário.            Workspace,
+                           infraestrutura. Os usuários se                                      Salesforce,
+                           conectam e usam os aplicativos                                      Zoom, Slack,
+                           pela Internet.                                                      Microsoft
+                                                                                               365
+
+       PaaS (Platform      O provedor hospeda e mantém a         Desenvolver e gerenciar o     Google App
+       as a Service)       infraestrutura e o ambiente de        aplicativo. Configurar        Engine,
+                           desenvolvimento. Os usuários          opções do ambiente de         Microsoft
+                           desenvolvem e gerenciam seus          aplicativo.                   Azure,
+                           próprios aplicativos.                                               Heroku
+
+       IaaS                O provedor hospeda e mantém a         Gerenciar sistemas            Amazon Web
+       (Infrastructure     infraestrutura básica. Os usuários    operacionais,                 Services
+       as a Service)       gerenciam os sistemas                 armazenamento,                (AWS),
+                           operacionais, armazenamento,          aplicativos e,                Microsoft
+                           aplicativos e, possivelmente,         possivelmente, redes e        Azure,
+                           redes e servidores virtuais.          servidores virtuais.          Google Cloud
+                                                                                               Platform
+                                                                                               (GCP), IBM
+                                                                                               Cloud,
+                                                                                               DigitalOcean
+
+       FaaS (Function      O provedor hospeda e executa          Escrever e carregar o         AWS Lambda,
+       as a Service)       pedaços individuais de código em      código.                       Google Cloud
+                           resposta a eventos. Os usuários                                     Functions,
+                           apenas escrevem e carregam o                                        Microsoft
+                           código.                                                             Azure
+                                                                                               Functions,
+
+
+
+
+                   Modelos de Implantação de Computação em Nuvem
+
+      Na computação em nuvem, os modelos de implantação se referem à forma como as
+      infraestruturas de nuvem são hospedadas e a quem elas são disponibilizadas. Existem quatro
+      principais modelos de implantação de nuvem: nuvem pública, nuvem privada, nuvem híbrida e
+      multicloud.
+
+
+                                                    Nuvem Pública
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+        Nuvem Pública é um tipo de ambiente de computação em nuvem onde os serviços de
+        infraestrutura são hospedados por provedores de serviços públicos de nuvem e são
+        disponibilizados aos usuários através da Internet. Esses serviços podem incluir servidores,
+        armazenamento, banco de dados, redes, software e aplicativos.
+
+        Exemplos de provedores de serviços de nuvem pública incluem Amazon Web Services (AWS),
+        Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud e Oracle Cloud.
+
+        Vantagens:
+
+    •    Custo-efetivo: Não há necessidade de investir em hardware caro e na manutenção desse
+         hardware. Os usuários pagam somente pelos recursos que utilizam.
+    •    Escalabilidade e Flexibilidade: Os recursos podem ser rapidamente escalonados para cima ou
+         para baixo para atender às demandas do negócio. Permite uma grande flexibilidade e eficiência.
+    •    Atualizações e Manutenção: O provedor de serviços de nuvem gerencia, mantém e atualiza a
+         infraestrutura, eliminando a necessidade de os usuários realizarem essas tarefas.
+    •    Acesso Global: Como os serviços estão disponíveis através da Internet, eles podem ser
+         acessados de qualquer lugar do mundo, o que é particularmente útil para organizações com
+         equipes distribuídas globalmente.
+
+        Desvantagens:
+
+    •    Segurança e Privacidade: Como os dados são armazenados fora do local, podem existir
+         preocupações com a segurança e privacidade dos dados. Apesar de os provedores de nuvem
+         implementarem medidas de segurança robustas, o compartilhamento de recursos pode
+         apresentar riscos.
+    •    Dependência do Provedor: Existe o risco de ficar dependente do provedor de serviços de
+         nuvem escolhido, o que pode limitar a flexibilidade e a capacidade de migração no futuro.
+    •    Custos Inesperados: Embora a nuvem pública possa ser mais barata inicialmente, os custos
+         podem aumentar à medida que o uso aumenta. Se não for bem gerenciado, os custos de
+         utilização de recursos na nuvem podem se tornar significativos.
+    •    Possíveis Problemas de Desempenho: Em algumas situações, especialmente em aplicações que
+         exigem muita largura de banda ou processamento rápido, a nuvem pública pode não oferecer
+         o mesmo nível de desempenho que os sistemas no local.
+
+
+                                                    Nuvem Privada
+
+
+        A Nuvem Privada é um tipo de ambiente de computação em nuvem em que todos os recursos e
+        serviços de computação são mantidos e gerenciados para um único cliente ou organização. Na
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+        nuvem privada, os serviços de computação são entregues através de uma rede privada e segura,
+        não compartilhada com outras organizações.
+
+        Essas nuvens privadas podem ser mantidas e gerenciadas pela própria organização (nuvem
+        privada no local) ou por terceiros (nuvem privada hospedada).
+
+        Vantagens:
+
+    •    Controle e Personalização: Uma nuvem privada permite a uma organização mais controle sobre
+         seus dados e infraestrutura. Isso permite a personalização de recursos para atender às
+         necessidades específicas da organização.
+    •    Segurança e Privacidade: Como os recursos não são compartilhados com outros, os dados são
+         mantidos mais seguros. Isso é especialmente útil para organizações com requisitos de
+         conformidade rigorosos ou que lidam com dados sensíveis.
+    •    Desempenho e Eficiência: Uma nuvem privada pode ser otimizada para o desempenho de uma
+         organização específica, o que pode levar a maior eficiência.
+
+        Desvantagens
+
+    •    Custo: Geralmente requer um investimento significativo em hardware, software e pessoal
+         técnico. Esses custos podem ser proibitivos para algumas organizações.
+    •    Gerenciamento: A organização é responsável pela manutenção e gerenciamento da
+         infraestrutura, o que pode requerer recursos consideráveis.
+    •    Escalabilidade: Embora a nuvem privada permita uma certa escalabilidade, ela pode não ser
+         capaz de se igualar à escalabilidade rápida e eficiente que os serviços de nuvem pública podem
+         oferecer.
+    •    Recuperação de Desastres: Planejamento e implementação de recuperação de desastres
+         podem ser mais complexos e caros em uma nuvem privada, em comparação com a nuvem
+         pública.
+
+
+                                                     Nuvem Híbrida
+
+
+        Nuvem Híbrida é um modelo de computação em nuvem que combina uma nuvem privada com
+        uma ou mais nuvens públicas. Ela permite o compartilhamento de dados e aplicativos entre eles.
+        Isso proporciona às empresas maior flexibilidade para mover cargas de trabalho entre ambientes
+        de nuvem, conforme as necessidades e custos variam.
+
+        Vantagens:
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+    •    Flexibilidade: Uma nuvem híbrida permite que as organizações aproveitem o melhor dos dois
+         mundos (pública e privada). Elas podem usar a nuvem privada para dados sensíveis e a nuvem
+         pública para lidar com picos de demanda ou para serviços menos críticos.
+    •    Custo-efetivo: As empresas podem aproveitar a eficiência de custos da nuvem pública para
+         operações de rotina e escalar para a nuvem privada durante picos de demanda.
+    •    Segurança: Os dados sensíveis podem ser mantidos na nuvem privada, onde podem ser mais
+         seguros, enquanto outras informações podem ser armazenadas na nuvem pública.
+
+        Desvantagens:
+
+    •Complexidade: A gestão de um ambiente de nuvem híbrida pode ser complexa, pois implica a
+     gestão de múltiplas infraestruturas de nuvem, o que pode levar a dificuldades operacionais.
+   • Interoperabilidade: A integração entre nuvens privadas e públicas pode ser um desafio. Nem
+     todos os aplicativos e dados são adequados para o ambiente de nuvem híbrida.
+   • Custos ocultos: Embora uma nuvem híbrida possa parecer mais eficiente em termos de custos
+     à primeira vista, os custos associados à implementação, gestão e manutenção podem ser
+     significativos.
+
+
+                                                       Multicloud
+
+
+        O modelo Multicloud é uma estratégia de computação em nuvem que envolve o uso de mais de
+        uma plataforma de serviços de nuvem, seja pública, privada ou híbrida. A ideia por trás disso é
+        evitar a dependência de um único provedor de nuvem. Organizações podem escolher diferentes
+        serviços de nuvem de diferentes provedores, dependendo de quem oferece o melhor serviço
+        para uma tarefa específica.
+
+        Exemplos de implementações multicloud incluiriam o uso de AWS para computação, Google
+        Cloud para análise de dados e Azure para serviços de inteligência artificial, todos dentro da
+        mesma organização.
+
+        Vantagens:
+
+    •    Redução de Dependência: A organização não fica presa a um único provedor de nuvem. Isso
+         oferece mais flexibilidade para escolher os serviços que melhor atendem às suas necessidades.
+    •    Otimização de Custo e Desempenho: Diferentes provedores de nuvem podem oferecer preços
+         e desempenho variados para diferentes tipos de serviços. A estratégia multicloud permite que
+         as organizações otimizem tanto os custos quanto o desempenho, escolhendo o provedor mais
+         adequado para cada serviço.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+    •    Resiliência e Redundância: Em uma estratégia multicloud, se um provedor de nuvem enfrenta
+         interrupções, as operações podem continuar em uma plataforma de nuvem alternativa. Isso
+         aumenta a resiliência dos negócios.
+
+        Desvantagens
+
+    •    Complexidade de Gerenciamento: Gerenciar vários provedores de nuvem pode ser complexo,
+         pois cada um tem sua própria interface, linguagem de programação, serviços, modelos de
+         faturamento e assim por diante.
+    •    Segurança: Embora o modelo multicloud possa melhorar a resiliência, ele também pode
+         aumentar a superfície de ataque, pois os dados estão espalhados por várias plataformas.
+    •    Custos Inesperados: Ainda que a estratégia multicloud possa oferecer economias de custo,
+         também pode levar a custos inesperados se não for gerenciada corretamente. Por exemplo, a
+         transferência de dados entre diferentes provedores de nuvem pode gerar custos significativos.
+
+        A tabela a seguir resume as características e diferenças entre os diferentes modelos de serviço:
+
+         Modelo        Definição                           Vantagens                     Desvantagens
+
+         Nuvem         Serviços de infraestrutura          Custo-efetivo,                Preocupações de
+         Pública       hospedados por provedores           Escalabilidade,               segurança,
+                       de nuvem e disponibilizados         Flexibilidade,                Dependência do
+                       ao público através da               Atualizações                  provedor, Custos
+                       Internet.                           gerenciadas, Acesso           inesperados, Possíveis
+                                                           global                        problemas de
+                                                                                         desempenho
+
+         Nuvem         Ambiente de computação              Controle e                    Custo elevado,
+         Privada       em nuvem dedicado a uma             Personalização,               Gerenciamento
+                       única organização, mantido e        Segurança e                   necessário,
+                       gerenciado internamente ou          Privacidade,                  Escalabilidade limitada,
+                       por terceiros.                      Desempenho e                  Recuperação de
+                                                           Eficiência                    desastres mais
+                                                                                         complexa
+
+         Nuvem         Combina nuvem privada com           Flexibilidade, Custo-         Complexidade de
+         Híbrida       uma ou mais nuvens                  efetivo, Segurança            gerenciamento,
+                       públicas, permitindo                                              Problemas de
+                       compartilhamento de dados                                         Interoperabilidade,
+                       e aplicativos entre elas.                                         Custos ocultos
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+          www.estrategiaconcursos.com.br
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+       Multicloud     Uso de mais de uma                  Redução de                    Complexidade de
+                      plataforma de serviços de           dependência,                  gerenciamento,
+                      nuvem, pode ser um mix de           Otimização de custo e         Segurança, Custos
+                      públicas, privadas e híbridas.      desempenho,                   inesperados
+                                                          Resiliência e
+                                                          Redundância
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+
+      Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+      estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+      para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+      A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+      que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões
+
+     1. (FGV - 2023 - CGE-SC - Auditor do Estado - Ciências da Computação)
+        O desenvolvimento de aplicações nativas em nuvem é uma abordagem voltada para a
+        criação, execução e aprimoramento de aplicações com base em tecnologias e técnicas
+        reconhecidas de cloud computing. Uma aplicação nativa em nuvem
+        A) traz benefícios somente se executado no modelo “Serverless”, em que os
+        desenvolvedores não precisam provisionar servidores ou gerenciar a escala das
+        aplicações.
+        B) é uma maneira de criar e executar aplicações responsivas, escaláveis e tolerantes a
+        falhas, em qualquer ambiente, seja em nuvens públicas, privadas ou híbridas.
+        C) se concentra na modularidade da arquitetura, mas ainda apresenta grande
+        acoplamento e dependência de outros serviços.
+        D) é um conceito revolucionário que pode ajudar muitas empresas a acelerar a
+        inovação, mas necessita de alto investimento financeiro para seu desenvolvimento.
+        E) é um conjunto de serviços fortemente acoplados na nuvem pública, grandes e
+        independentes, projetadas para agregar valor reconhecido aos negócios.
+
+         Comentários:
+
+         Comentários para cada alternativa:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         A) traz benefícios somente se executado no modelo “Serverless”, em que os
+         desenvolvedores não precisam provisionar servidores ou gerenciar a escala das
+         aplicações. - Incorreta. Embora as aplicações nativas da nuvem possam se beneficiar
+         do modelo serverless, elas não estão restritas a ele. A computação serverless é apenas
+         uma das muitas técnicas que podem ser usadas no desenvolvimento de aplicações
+         nativas da nuvem.
+         B) é uma maneira de criar e executar aplicações responsivas, escaláveis e tolerantes
+         a falhas, em qualquer ambiente, seja em nuvens públicas, privadas ou híbridas. -
+         Correta. As aplicações nativas da nuvem são projetadas para tirar vantagem da
+         computação em nuvem, o que permite que elas sejam responsivas, escaláveis e
+         tolerantes a falhas. Além disso, essas aplicações podem ser executadas em qualquer
+         tipo de ambiente de nuvem.
+         C) se concentra na modularidade da arquitetura, mas ainda apresenta grande
+         acoplamento e dependência de outros serviços. - Incorreta. Uma das principais
+         características das aplicações nativas da nuvem é a baixa dependência e o acoplamento
+         fraco entre os serviços. Isso permite que cada serviço seja desenvolvido, implantado e
+         escalado independentemente.
+         D) é um conceito revolucionário que pode ajudar muitas empresas a acelerar a
+         inovação, mas necessita de alto investimento financeiro para seu desenvolvimento. -
+         Incorreta. Embora seja verdade que as aplicações nativas da nuvem possam ajudar as
+         empresas a acelerar a inovação, elas não necessariamente requerem um alto
+         investimento financeiro. Com a computação em nuvem, as empresas podem começar
+         pequeno e escalar conforme a necessidade.
+         E) é um conjunto de serviços fortemente acoplados na nuvem pública, grandes e
+         independentes, projetadas para agregar valor reconhecido aos negócios. - Incorreta.
+         As aplicações nativas da nuvem são caracterizadas por serviços fracamente acoplados,
+         e não fortemente acoplados. Além disso, esses serviços não precisam ser
+         necessariamente grandes; eles podem ser projetados para serem pequenos e focados,
+         ou seja, seguem a filosofia do microsserviço.
+
+         Gabarito: B
+
+     2. (FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual - Tecnologia da
+        Informação (Tarde)) ...
+        Você precisa implementar uma arquitetura de cloud para um sistema que terá picos
+        de uso sazonais, pensando em otimizar os custos com essa infraestrutura e garantir
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         que durante o pico de uso mais intenso, é necessário que o sistema tenha recursos
+         suficientes para manter a estabilidade e performance e que isso seja feito de forma
+         automatizada.
+
+            Nesse sentido, analise os conceitos de cloud a seguir.
+
+          I. Disponibilidade
+         II. Escalabilidade
+         III. Elasticidade
+         IV. Monitoramento
+         V. DevOps
+
+            Para o caso descrito, precisam ser implementados, respectivamente, os conceitos
+
+         A) I e II, apenas.
+         B) II e III, apenas.
+         C) III e IV, apenas.
+         D) IV e V, apenas.
+         E) I, II, III, IV e V.
+
+         Comentários:
+
+         Comentários para cada alternativa:
+
+         A) I e II, apenas. - Incorreta. Embora a Disponibilidade (I) seja importante para
+         qualquer sistema, ela não é especificamente relevante para a questão do pico de uso
+         sazonal. A Escalabilidade (II) é relevante porque permite ao sistema lidar com um
+         número maior de usuários, mas sozinha não resolve o problema, uma vez que o
+         aumento de recursos precisa ser feito de forma automatizada.
+         B) II e III, apenas. - Correta. A Escalabilidade (II) é importante para permitir que o
+         sistema acomode um aumento na demanda. A Elasticidade (III) é ainda mais crucial
+         neste caso, pois ela permite que o sistema ajuste automaticamente a quantidade de
+         recursos com base na demanda atual. Isso significa que durante os picos de uso, o
+         sistema pode aumentar automaticamente os recursos e, quando o pico passa, pode
+         reduzir os recursos para economizar custos.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         C) III e IV, apenas. - Incorreta. A Elasticidade (III) é crucial para este caso, como
+         explicado anteriormente, mas o Monitoramento (IV) sozinho não é suficiente. O
+         monitoramento pode ajudar a identificar quando os picos estão ocorrendo, mas não
+         ajustará automaticamente os recursos com base na demanda.
+         D) IV e V, apenas. - Incorreta. O Monitoramento (IV) e DevOps (V) são úteis em muitos
+         contextos de cloud computing, mas não são específicos para o problema de lidar com
+         picos de uso sazonais.
+         E) I, II, III, IV e V. - Incorreta. Embora todos esses conceitos sejam importantes em
+         diferentes contextos de cloud computing, a questão especificamente pergunta sobre
+         lidar com picos de uso sazonais de forma automatizada. Para isso, Escalabilidade (II) e
+         Elasticidade (III) são os conceitos mais relevantes.
+
+         Gabarito: B
+
+
+
+     3. (FGV - 2022 - Senado Federal - Analista Legislativo - Análise de Sistemas) ...
+        Nos últimos anos, a adoção de ambientes em nuvem cresceu expressivamente.
+        Modelos de serviço em nuvem facilitam a criação de soluções tecnológicas modernas
+        de maneiras diferentes.
+         A seguir, estão listadas algumas características de um desses modelos.
+
+         I. O provedor de nuvem fica responsável pelo gerenciamento da infraestrutura de
+         servidores, sistemas operacionais, atualizações e outras tarefas administrativas.
+         II. Acessível pela internet por meio do navegador web.
+         III. Permite equipes de desenvolvimento colaborarem em todo o ciclo de vida de um
+         aplicativo, incluindo codificação, integração, teste, entrega, implantação e feedback.
+
+            As características descritas referem-se a
+
+         A) IAC.
+         B) TaaS.
+         C) SaaS.
+         D) IaaS.
+         E) PaaS.
+
+         Comentários:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         (I) Essa característica serviria a qualquer modelo de serviço; (II) Essa característica
+         também serviria a qualquer modelo de serviço; (III) Essa característica menciona
+         colaboração no ciclo de vida de um aplicativo, desde codificação, integração, teste,
+         entrega, implantação, etc – todas essas são características de plataformas de
+         desenvolvimento de software, logo se referem ao PaaS.
+
+         Gabarito: E
+
+
+
+     4. (FGV - 2022 - SEFAZ-AM - Analista de Tecnologia da Informação da Fazenda Estadual
+        - Tarde) ...
+        O desenvolvimento e a disponibilização de serviços na nuvem é uma prática muito
+        comum. Sobre uma plataforma de streaming de filmes que cobra por assinatura,
+        assinale a opção que indica o modelo de serviço recebido do provedor de nuvem e o
+        que é entregue pelo desenvolvedor ao usuário final.
+
+         A) Recebe SaaS e entrega PaaS.
+         B) Recebe SaaS e entrega IaaS.
+         C) Recebe PaaS e entrega SaaS.
+         D) Recebe PaaS e entrega IaaS.
+         E) Recebe IaaS e entrega IaaS.
+
+         Comentários:
+
+         O provedor de nuvem entrega um PaaS, dado que oferece uma plataforma para
+         hospedagem de um software em nuvem. Já o usuário final recebe do desenvolvedor
+         um SaaS, dado que ele recebe um software hospedado em nuvem. Em outras palavras,
+         o desenvolvedor recebe um PaaS do provedor de nuvem e entrega um SaaS para o
+         usuário final.
+
+         Gabarito: C
+
+
+
+     5. (FGV - 2022 - SEFAZ-AM - Analista de Tecnologia da Informação da Fazenda Estadual
+        - Tarde) ...
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         Existem alguns benefícios na adoção de nuvens privadas em relação às nuvens
+         públicas. Assinale a opção que descreve apenas benefícios de uma nuvem privada.
+
+         A) Melhor nível de serviço, em oposição às diversas equipes especializadas que
+         operam nas nuvens públicas.
+         B) Melhor controle e estabilidade, em oposição ao compartilhamento de recursos
+         inerente às nuvens públicas.
+         C) Melhor contingenciamento, em oposição às nuvens públicas, que possuem Data
+         Centers distribuídos no mundo todo.
+         D) Menor custo de administração, em oposição aos altos custos iniciais dos serviços
+         das nuvens públicas.
+         E) Rápida atualização no menu de serviços, em oposição à escassez de serviços das
+         nuvens públicas.
+
+         Comentários:
+
+         (a) Errado. Nuvens privadas realmente possuem melhor nível de serviço, mas nuvens
+         públicas não possuem equipes especializadas e, sim, genéricas – quem possui equipes
+         especializadas são as nuvens privadas; (b) Correto. Nuvens privadas apresentam
+         melhor controle e estabilidade, dado que não são compartilhadas com outros clientes;
+         (c) Errado. Nuvens públicas possuem melhor contingenciamento, dado que os centros
+         de dados são distribuídos em todo mundo; (d) Errado. Nuvens privadas possuem maior
+         custo de administração, dado que os custos são distribuídos por vários clientes; (e)
+         Errado. Não há escassez de serviços em nuvens públicas.
+
+         Gabarito: B
+
+
+
+     6. (FGV - 2022 - SEFAZ-AM - Analista de Tecnologia da Informação da Fazenda Estadual
+        - Tarde) ...
+        O provisionamento de serviços em nuvem divide-se basicamente em: IaaS –
+        Infraestrutura como Serviço, PaaS – Plataforma como Serviço e SaaS – Software como
+        Serviço. Assinale a opção que indica o modelo de serviço que dá mais autonomia de
+        gerenciamento do ambiente ao cliente.
+
+         A) SaaS, porque o cliente é capaz de gerenciar o sistema operacional do serviço.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         B) PaaS, porque o cliente é capaz de gerenciar a virtualização do serviço.
+         C) IaaS, porque o cliente é capaz de gerenciar o sistema operacional, os dados e a
+         aplicação do serviço.
+         D) SaaS, porque o cliente é capaz de gerenciar a unidade de armazenamento do
+         serviço.
+         E) SaaS, porque o cliente é capaz de gerenciar a virtualização do serviço.
+
+         Comentários:
+
+
+
+
+         Em vermelho, temos aquilo que é gerenciado pelo provedor de nuvem e, em verde,
+         temos aquilo que é gerenciado pelo cliente. Note que o IaaS (Infrastructure as a
+         Service) é o modelo que dá mais autonomia ao cliente, que pode gerenciar sistema
+         operacional, middleware, ambiente de execução, dados e aplicações.
+
+         Gabarito: C
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+     7. (FGV - 2022 - MPE-GO - Assistente de Informática) A equipe de suporte de redes do
+        MP-GO decidiu modernizar seu parque computacional para otimizar a alocação dos
+        seus recursos implantando uma nuvem. Usando equipamentos próprios hospedados
+        internamente, a nuvem que a equipe de suporte deve implantar é
+
+         A) distribuída.
+         B) múltipla.
+         C) híbrida.
+         D) comunitária.
+         E) privada.
+
+         Comentários:
+
+         A) Distribuída - Incorreta. Uma nuvem distribuída envolve o uso de vários servidores
+         de diferentes locais físicos trabalhando juntos para formar uma rede. No entanto, a
+         questão menciona a utilização de equipamentos próprios hospedados internamente,
+         o que mais se alinha com o conceito de nuvem privada.
+         B) Múltipla - Incorreta. "Múltipla" não é um termo padrão usado para descrever um
+         tipo específico de modelo de implantação de nuvem.
+         C) Híbrida - Incorreta. A nuvem híbrida combina a nuvem pública e privada, permitindo
+         que os dados e aplicativos se movam entre as duas. No entanto, a questão especifica
+         que a equipe está usando equipamentos próprios hospedados internamente, o que
+         não se alinha com a definição de nuvem híbrida.
+         D) Comunitária - Incorreta. Uma nuvem comunitária é compartilhada por várias
+         organizações com objetivos semelhantes ou requisitos específicos. No entanto, a
+         questão menciona o uso de equipamentos próprios hospedados internamente, o que
+         não corresponde ao modelo de nuvem comunitária.
+         E) Privada - Correta. Uma nuvem privada é um tipo de nuvem que é construída,
+         gerenciada e usada por uma única organização. Os recursos são hospedados
+         internamente e não são compartilhados com outras organizações. Isso se alinha com a
+         descrição fornecida na questão.
+
+         Gabarito: E
+
+
+
+     8. (FGV - 2015 - Câmara Municipal de Caruaru - PE - Técnico Legislativo) ...
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         A computação em nuvem objetiva a utilização de servidores remotos, acessados por
+         meio da Internet, para a realização de processos computacionais, que antes eram
+         dependentes do hardware de cada usuário. De modo geral, a computação em nuvem
+         pode ser dividida em duas categorias, caracterizadas a seguir:
+
+         I. o processamento de dados está associado a programas que são acessados nos
+         servidores centrais e é, ainda, a forma menos utilizada de computação em nuvem. Com
+         as ferramentas disponíveis, é possível editar textos, planilhas, apresentações, tabelas,
+         gráficos e outros documentos sem precisar ter um programa instalado no seu
+         computador; porém, isso traz a necessidade de ter um navegador e uma conexão à
+         Internet. Os documentos ficam armazenados “em nuvem", podendo-se editar um
+         documento no computador pessoal, ou até mesmo por meio de um celular, sem
+         precisar de dispositivos como o pendrive, por exemplo.
+
+         II. o armazenamento de dados é a forma mais utilizada pelos usuários da Internet. Os
+         primeiros serviços de armazenamento de dados estavam ligados aos servidores online
+         de e-mails. Há necessidade de o usuário criar uma conta em algum servidor e enviar os
+         seus arquivos. Isso significa que esse usuário precisa identificar quais servidores
+         armazenam o tipo de arquivo que ele pretende salvar, além de avaliar se o servidor
+         oferece a capacidade de armazenamento de que precisa. A forma de envio dos
+         arquivos, assim como o tipo de arquivo a ser armazenado, varia de acordo com o
+         conjunto de serviços oferecidos por cada servidor remoto.
+
+         Nesse contexto, dois exemplos de recursos que suportam a
+         computação em nuvem são
+
+         A) DataStore e GoogleDocs.
+         B) DropBox e DataStore.
+         C) iCloud e DropBox.
+         D) Thunderbird e iCloud.
+         E) GoogleDocs e Thunderbird.
+
+         Comentários:
+
+         (a) Errado, desconheço ferramenta chamada DataStore; (b) Errado, desconheço
+         ferramenta chamada DataStore; (c) Correto, ambas são ferramentas de computação
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         em nuvem; (d) Errado, Thunderbird é um cliente de correio eletrônico; (e) Errado,
+         Thunderbird é um cliente de correio eletrônico.
+
+         Gabarito: C
+
+
+
+
+     9. (FGV - 2014 - Prefeitura de Osasco - SP - Oficial Administrativo)
+        Uma nova tendência surgida nos últimos anos é a “computação em nuvem”. Observe
+        as seguintes afirmativas sobre o uso de aplicativos por meio dessa modalidade. I.
+        Permite o uso de computadores locais com configurações de hardware mais simples e
+        econômicas. II. Permite acesso aos aplicativos por meio de outros computadores. III.
+        Não requer instalações de software sofisticadas nos computadores de onde é feito o
+        acesso. IV. O gerenciamento de pastas e arquivos dos aplicativos fica bastante
+        simplificado. V. Não requer o uso de senhas de acesso. NÃO está correta a afirmativa:
+
+         A) I;
+         B) II;
+         C) III;
+         D) IV;
+         E) V.
+
+         Comentários:
+
+         (I) Correto, uma vez que a maioria dos recursos serão disponibilizados pela nuvem, não
+         é necessário ter computadores locais com configurações de hardware potentes e
+         caras; (II) Correto, é realmente possível acessar aplicativos por meio de diversos
+         computadores, uma vez que o acesso é feito via navegador web; (III) Correto, uma vez
+         que é necessário apenas um simples navegador web; (IV) Correto, trata-se de um
+         gerenciamento simples; (V) Errado, é requerido – sim – o uso de senhas para que um
+         usuário autorizado se autentique e acesse a nuvem.
+
+         Gabarito: E
+
+     10. (VUNESP / PC-SP – 2018) O recurso de armazenamento na nuvem (Cloud Storage) é
+         bastante eficiente e útil para as necessidades de processamento e armazenamento de
+         dados. Entretanto, deve-se tomar alguns cuidados no uso desse recurso, como:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         a) acessar o sistema de armazenamento utilizando dispositivos móveis que permitem
+         a comunicação de vários lugares.
+         b) acessar o sistema de armazenamento utilizando uma conexão sem fio com WPA-2.
+         c) realizar backups próprios, uma vez que não há esquema de backup no
+         armazenamento na nuvem.
+         d) não realizar o compartilhamento dos arquivos, pois não há como configurar as
+         permissões de acesso no armazenamento na nuvem.
+         e) acessar o sistema de armazenamento utilizando os recursos de criptografia e
+         segurança da informação.
+
+         Comentários:
+
+         (a) Errado, não há qualquer ressalva quanto à utilização de dispositivos móveis para
+         acesso ao sistema de armazenamento em nuvem; (b) Errado, uma conexão sem fio
+         com WPA-2 é segura, criptografada e autenticada, logo também não é uma
+         preocupação específica; (c) Errado, há esquemas de backup no armazenamento em
+         nuvem; (d) Errado, é possível – sim – configurar permissões de acesso no
+         armazenamento em nuvem; (e) Correto, é realmente recomendável acessar o sistema
+         de armazenamento utilizando os recursos de criptografia e segurança da informação.
+
+         Gabarito: E
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+    A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+    proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+    perguntas que exigem respostas subjetivas.
+
+    São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+    resolução, como ocorre nas clássicas questões objetivas.
+
+    O objetivo é que você realize uma auto explicação mental de alguns pontos do conteúdo, para
+    consolidar melhor o que aprendeu ;)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+    Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim,
+    ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+    conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+
+    Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+    os diversos pontos do conteúdo, na medida do possível.
+
+    É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido
+    na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar
+    a resolução de questões objetivas típicas de concursos, ok?
+
+    Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+    Vamos ao nosso questionário:
+
+
+
+
+                                                    Perguntas
+
+        1. O que é computação em nuvem?
+        2. Quais são algumas das vantagens da computação em nuvem?
+        3. Quais são os principais desafios na adoção da computação em nuvem?
+        4. O que é Software como Serviço (SaaS)?
+        5. O que é Plataforma como Serviço (PaaS)?
+        6. O que é Infraestrutura como Serviço (IaaS)?
+        7. O que é Função como Serviço (FaaS)?
+        8. O que é uma nuvem pública?
+        9. O que é uma nuvem privada?
+        10. O que é uma nuvem híbrida?
+        11. O que é multicloud?
+        12. O que é Google App Engine?
+        13. O que é Microsoft Azure?
+        14. O que é Heroku?
+        15. O que é Salesforce?
+        16. O que é AWS?
+        17. O que é Digital Ocean?
+        18. O que é um cluster?
+        19. O que é um grid?
+        20. O que é balanceamento de carga?
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+                                          Perguntas e Respostas
+
+   1. O que é computação em nuvem?
+      Resposta: Computação em nuvem é um modelo de entrega de tecnologia onde os dados são
+      armazenados em servidores na Internet e podem ser acessados de qualquer lugar, a qualquer
+      momento, em qualquer dispositivo conectado à Internet.
+   2. Quais são algumas das vantagens da computação em nuvem?
+      Resposta: Algumas vantagens incluem a escalabilidade, flexibilidade, custo-eficiência, a
+      capacidade de trabalhar de qualquer lugar e a redução da necessidade de infraestrutura física.
+   3. Quais são os principais desafios na adoção da computação em nuvem?
+      Resposta: Os desafios incluem questões de segurança, privacidade, dependência do provedor
+      de serviços de nuvem, disponibilidade e complexidade de gerenciamento.
+   4. O que é Software como Serviço (SaaS)?
+      Resposta: SaaS é um modelo de entrega de software onde o software é hospedado por um
+      provedor de nuvem e acessado pelos usuários através da Internet, geralmente por meio de
+      um navegador web.
+   5. O que é Plataforma como Serviço (PaaS)?
+      Resposta: PaaS é um modelo de entrega de computação em nuvem onde um provedor
+      oferece uma plataforma incluindo infraestrutura, middleware, ferramentas de
+      desenvolvimento e outros componentes de negócios.
+   6. O que é Infraestrutura como Serviço (IaaS)?
+      Resposta: IaaS é um modelo de entrega de computação em nuvem em que um provedor
+      fornece recursos de infraestrutura, como servidores, redes e armazenamento, na nuvem.
+   7. O que é Função como Serviço (FaaS)?
+      Resposta: FaaS é um modelo de computação em nuvem que permite a execução de funções
+      individuais na nuvem, que são acionadas por eventos e totalmente gerenciadas pelo provedor
+      de nuvem.
+   8. O que é uma nuvem pública?
+      Resposta: Uma nuvem pública é um ambiente em que o provedor de serviços de nuvem
+      oferece recursos, como servidores e armazenamento, pela Internet a qualquer pessoa que
+      queira usar ou comprar.
+   9. O que é uma nuvem privada?
+      Resposta: Uma nuvem privada é um ambiente de computação em nuvem usado
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+       exclusivamente por uma única organização. A infraestrutura pode ser mantida no local ou
+       hospedada por um terceiro.
+   10. O que é uma nuvem híbrida?
+       Resposta: Uma nuvem híbrida é uma solução de infraestrutura que combina uma nuvem
+       privada com uma ou mais nuvens públicas, permitindo que dados e aplicativos sejam
+       compartilhados entre elas.
+   11. O que é multicloud?
+       Resposta: Multicloud é o uso de vários serviços de nuvem, de mais de um provedor de nuvem,
+       para atender a diferentes necessidades de TI.
+   12. O que é Google App Engine?
+       Resposta: Google App Engine é uma plataforma de computação em nuvem para desenvolver
+       e hospedar aplicativos na web gerenciada pela Google.
+   13. O que é Microsoft Azure?
+       Resposta: Microsoft Azure é um conjunto de serviços de computação em nuvem oferecido
+       pela Microsoft, que inclui soluções IaaS, PaaS e SaaS.
+   14. O que é Heroku?
+       Resposta: Heroku é uma plataforma como serviço (PaaS) baseada em nuvem que permite aos
+       desenvolvedores construir, executar e operar aplicativos em praticamente qualquer
+       linguagem de programação.
+   15. O que é Salesforce?
+       Resposta: Salesforce é uma empresa que oferece soluções de gestão de relacionamento com
+       o cliente (CRM) baseadas em nuvem, juntamente com outras aplicações empresariais focadas
+       em serviço ao cliente, marketing automation, analytics e desenvolvimento de aplicações.
+   16. O que é AWS?
+       Resposta: AWS (Amazon Web Services) é uma plataforma de serviços de computação em
+       nuvem oferecida pela Amazon, que fornece uma variedade de serviços de infraestrutura,
+       como capacidades de computação, armazenamento e banco de dados.
+   17. O que é Digital Ocean?
+       Resposta: Digital Ocean é uma empresa americana que oferece serviços de infraestrutura em
+       nuvem para desenvolvedores.
+   18. O que é um cluster?
+       Resposta: Um cluster é um conjunto de computadores conectados que trabalham juntos para
+       que, em muitos aspectos, eles possam ser vistos como um único sistema.
+   19. O que é um grid?
+       Resposta: Um grid é um tipo de infraestrutura de TI que permite a integração de
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+       computadores e recursos de TI operando em diferentes localizações para alcançar um
+       objetivo comum.
+   20. O que é balanceamento de carga?
+       Resposta: Balanceamento de carga é o processo de distribuição de cargas de trabalho de rede
+       em vários servidores para garantir que nenhum dispositivo de rede individual seja
+       sobrecarregado.
+
+
+
+
+                                LISTA DE QUESTÕES ESTRATÉGICAS
+
+     1. (FGV - 2023 - CGE-SC - Auditor do Estado - Ciências da Computação) ...
+        O desenvolvimento de aplicações nativas em nuvem é uma abordagem voltada para a
+        criação, execução e aprimoramento de aplicações com base em tecnologias e técnicas
+        reconhecidas de cloud computing. Uma aplicação nativa em nuvem
+        A) traz benefícios somente se executado no modelo “Serverless”, em que os
+        desenvolvedores não precisam provisionar servidores ou gerenciar a escala das
+        aplicações.
+        B) é uma maneira de criar e executar aplicações responsivas, escaláveis e tolerantes a
+        falhas, em qualquer ambiente, seja em nuvens públicas, privadas ou híbridas.
+        C) se concentra na modularidade da arquitetura, mas ainda apresenta grande
+        acoplamento e dependência de outros serviços.
+        D) é um conceito revolucionário que pode ajudar muitas empresas a acelerar a
+        inovação, mas necessita de alto investimento financeiro para seu desenvolvimento.
+        E) é um conjunto de serviços fortemente acoplados na nuvem pública, grandes e
+        independentes, projetadas para agregar valor reconhecido aos negócios.
+
+     2. (FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual - Tecnologia da
+        Informação (Tarde)) ...
+        Você precisa implementar uma arquitetura de cloud para um sistema que terá picos
+        de uso sazonais, pensando em otimizar os custos com essa infraestrutura e garantir
+        que durante o pico de uso mais intenso, é necessário que o sistema tenha recursos
+        suficientes para manter a estabilidade e performance e que isso seja feito de forma
+        automatizada.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+            Nesse sentido, analise os conceitos de cloud a seguir.
+
+          I. Disponibilidade
+         II. Escalabilidade
+         III. Elasticidade
+         IV. Monitoramento
+         V. DevOps
+
+            Para o caso descrito, precisam ser implementados, respectivamente, os conceitos
+
+         A) I e II, apenas.
+         B) II e III, apenas.
+         C) III e IV, apenas.
+         D) IV e V, apenas.
+         E) I, II, III, IV e V.
+
+     3. (FGV - 2022 - Senado Federal - Analista Legislativo - Análise de Sistemas) ...
+        Nos últimos anos, a adoção de ambientes em nuvem cresceu expressivamente.
+        Modelos de serviço em nuvem facilitam a criação de soluções tecnológicas modernas
+        de maneiras diferentes.
+         A seguir, estão listadas algumas características de um desses modelos.
+
+         I. O provedor de nuvem fica responsável pelo gerenciamento da infraestrutura de
+         servidores, sistemas operacionais, atualizações e outras tarefas administrativas.
+         II. Acessível pela internet por meio do navegador web.
+         III. Permite equipes de desenvolvimento colaborarem em todo o ciclo de vida de um
+         aplicativo, incluindo codificação, integração, teste, entrega, implantação e feedback.
+
+            As características descritas referem-se a
+
+         A) IAC.
+         B) TaaS.
+         C) SaaS.
+         D) IaaS.
+         E) PaaS.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+     4. (FGV - 2022 - SEFAZ-AM - Analista de Tecnologia da Informação da Fazenda Estadual
+        - Tarde) ...
+        O desenvolvimento e a disponibilização de serviços na nuvem é uma prática muito
+        comum. Sobre uma plataforma de streaming de filmes que cobra por assinatura,
+        assinale a opção que indica o modelo de serviço recebido do provedor de nuvem e o
+        que é entregue pelo desenvolvedor ao usuário final.
+
+         A) Recebe SaaS e entrega PaaS.
+         B) Recebe SaaS e entrega IaaS.
+         C) Recebe PaaS e entrega SaaS.
+         D) Recebe PaaS e entrega IaaS.
+         E) Recebe IaaS e entrega IaaS.
+
+     5. (FGV - 2022 - SEFAZ-AM - Analista de Tecnologia da Informação da Fazenda Estadual
+        - Tarde) ...
+        Existem alguns benefícios na adoção de nuvens privadas em
+        relação às nuvens públicas. Assinale a opção que descreve apenas benefícios de uma
+        nuvem privada.
+
+         A) Melhor nível de serviço, em oposição às diversas equipes especializadas que
+         operam nas nuvens públicas.
+         B) Melhor controle e estabilidade, em oposição ao compartilhamento de recursos
+         inerente às nuvens públicas.
+         C) Melhor contingenciamento, em oposição às nuvens públicas, que possuem Data
+         Centers distribuídos no mundo todo.
+         D) Menor custo de administração, em oposição aos altos custos iniciais dos serviços
+         das nuvens públicas.
+         E) Rápida atualização no menu de serviços, em oposição à escassez de serviços das
+         nuvens públicas.
+
+     6. (FGV - 2022 - SEFAZ-AM - Analista de Tecnologia da Informação da Fazenda Estadual
+        - Tarde) ...
+        O provisionamento de serviços em nuvem divide-se basicamente em: IaaS –
+        Infraestrutura como Serviço, PaaS – Plataforma como Serviço e SaaS – Software como
+        Serviço. Assinale a opção que indica o modelo de serviço que dá mais autonomia de
+        gerenciamento do ambiente ao cliente.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         A) SaaS, porque o cliente é capaz de gerenciar o sistema operacional do serviço.
+         B) PaaS, porque o cliente é capaz de gerenciar a virtualização do serviço.
+         C) IaaS, porque o cliente é capaz de gerenciar o sistema operacional, os dados e a
+         aplicação do serviço.
+         D) SaaS, porque o cliente é capaz de gerenciar a unidade de armazenamento do
+         serviço.
+         E) SaaS, porque o cliente é capaz de gerenciar a virtualização do serviço.
+
+     7. (FGV - 2022 - MPE-GO - Assistente de Informática) A equipe de suporte de redes do
+        MP-GO decidiu modernizar seu parque computacional para otimizar a alocação dos
+        seus recursos implantando uma nuvem. Usando equipamentos próprios hospedados
+        internamente, a nuvem que a equipe de suporte deve implantar é
+
+         A) distribuída.
+         B) múltipla.
+         C) híbrida.
+         D) comunitária.
+         E) privada.
+
+     8. (FGV - 2015 - Câmara Municipal de Caruaru - PE - Técnico Legislativo) ...
+        A computação em nuvem objetiva a utilização de servidores remotos, acessados por
+        meio da Internet, para a realização de processos computacionais, que antes eram
+        dependentes do hardware de cada usuário. De modo geral, a computação em nuvem
+        pode ser dividida em duas categorias, caracterizadas a seguir:
+
+         I. o processamento de dados está associado a programas que são acessados nos
+         servidores centrais e é, ainda, a forma menos utilizada de computação em nuvem. Com
+         as ferramentas disponíveis, é possível editar textos, planilhas, apresentações, tabelas,
+         gráficos e outros documentos sem precisar ter um programa instalado no seu
+         computador; porém, isso traz a necessidade de ter um navegador e uma conexão à
+         Internet. Os documentos ficam armazenados “em nuvem", podendo-se editar um
+         documento no computador pessoal, ou até mesmo por meio de um celular, sem
+         precisar de dispositivos como o pendrive, por exemplo.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         II. o armazenamento de dados é a forma mais utilizada pelos usuários da Internet. Os
+         primeiros serviços de armazenamento de dados estavam ligados aos servidores online
+         de e-mails. Há necessidade de o usuário criar uma conta em algum servidor e enviar os
+         seus arquivos. Isso significa que esse usuário precisa identificar quais servidores
+         armazenam o tipo de arquivo que ele pretende salvar, além de avaliar se o servidor
+         oferece a capacidade de armazenamento de que precisa. A forma de envio dos
+         arquivos, assim como o tipo de arquivo a ser armazenado, varia de acordo com o
+         conjunto de serviços oferecidos por cada servidor remoto.
+
+         Nesse contexto, dois exemplos de recursos que suportam a
+                                                        ==219a34==
+
+
+
+
+         computação em nuvem são
+
+         A) DataStore e GoogleDocs.
+         B) DropBox e DataStore.
+         C) iCloud e DropBox.
+         D) Thunderbird e iCloud.
+         E) GoogleDocs e Thunderbird.
+
+
+
+     9. (FGV - 2014 - Prefeitura de Osasco - SP - Oficial Administrativo)
+        Uma nova tendência surgida nos últimos anos é a “computação em nuvem”. Observe
+        as seguintes afirmativas sobre o uso de aplicativos por meio dessa modalidade. I.
+        Permite o uso de computadores locais com configurações de hardware mais simples e
+        econômicas. II. Permite acesso aos aplicativos por meio de outros computadores. III.
+        Não requer instalações de software sofisticadas nos computadores de onde é feito o
+        acesso. IV. O gerenciamento de pastas e arquivos dos aplicativos fica bastante
+        simplificado. V. Não requer o uso de senhas de acesso. NÃO está correta a afirmativa:
+
+         A) I;
+         B) II;
+         C) III;
+         D) IV;
+         E) V.
+
+   10. VUNESP / PC-SP – 2018) O recurso de armazenamento na nuvem (Cloud Storage) é
+       bastante eficiente e útil para as necessidades de processamento e armazenamento de
+       dados. Entretanto, deve-se tomar alguns cuidados no uso desse recurso, como:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 07
+
+
+
+
+         a) acessar o sistema de armazenamento utilizando dispositivos móveis que permitem
+         a comunicação de vários lugares.
+         b) acessar o sistema de armazenamento utilizando uma conexão sem fio com WPA-2.
+         c) realizar backups próprios, uma vez que não há esquema de backup no
+         armazenamento na nuvem.
+         d) não realizar o compartilhamento dos arquivos, pois não há como configurar as
+         permissões de acesso no armazenamento na nuvem.
+         e) acessar o sistema de armazenamento utilizando os recursos de criptografia e
+         segurança da informação.
+
+
+
+
+                                                    Gabaritos
+
+            1. B
+            2. B
+            3. E
+            4. C
+            5. B
+            6. C
+            7. E
+            8. C
+            9. E
+            10. E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

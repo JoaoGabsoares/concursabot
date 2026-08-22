@@ -1,0 +1,1271 @@
+                                                      Aula 16
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+
+
+                                                           Autor:
+                                                    Tulio Lages
+
+
+
+
+                                             31 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Tulio Lages
+      Aula 16
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Domínio Público - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - Domínio Público
+..............................................................................................................................................................................................4
+
+3) Aposta Estratégica - Bens Públicos - Classificação
+..............................................................................................................................................................................................
+                                                                                                                                                                                            11
+
+4) Questões Estratégicas - Domínio Público - FGV - Único
+..............................................................................................................................................................................................
+                                                                                                                                                                                            13
+
+5) Questionário de Revisão - Domínio Público
+..............................................................................................................................................................................................
+                                                                                                                                                                                            20
+
+6) Referências Bibliográficas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           28
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                      Tópico
+                                                                                                 FGV
+                              Conceito                                                          0,00%
+                            Classificação                                                      39,39%
+                           Características                                                     21,21%
+                       Afetação e Desafetação                                                   9,09%
+                      Espécies de bens públicos                                                 9,09%
+     Uso privativo de bens públicos por particulares (autorização,
+                                                                                               21,21%
+                       permissão e concessão)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   3
+        www.estrategiaconcursos.com.br                                                                      28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, compreender e
+memorizar os pontos a seguir:
+
+• Conceito de bem público – previsão legal: art. 98 do Código Civil:
+
+Código Civil, art. 98. São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de
+direito público interno; todos os outros são particulares, seja qual for a pessoa a que pertencerem.
+
+  Perceba que o Código Civil adotou o critério da titularidade, assim, são bens públicos,
+  independentemente de sua destinação, aqueles pertencentes às pessoas jurídicas de direito
+  público interno: União, Estados, DF e Municípios, bem como respectivas autarquias e
+  fundações públicas de direito público.
+
+  Todos os demais bens são privados, inclusive os pertencentes às empresas públicas,
+  sociedades de economia mista e fundações públicas de direito privado.
+
+  Cumpre frisar que há correntes doutrinárias que adotam o parâmetro da titularidade dos bens
+  para conceituar “bem público”, outras levam em consideração a finalidade a que se destinam
+  os bens e, outras, adotam um conceito que mescla os referidos critérios (titularidade e
+  finalidade), mas o parâmetro adotado pelo Código Civil (e que deve ser adotado em provas
+  de concursos) é o da titularidade.
+
+• Classificação dos bens públicos
+
+  - Quanto à titularidade – são subdivididos em:
+
+     - Federais: são os bens pertencentes à União e às respectivas entidades da administração
+     indireta de direito público. O art. 20 da CF apresenta uma lista exemplificativa desses bens.
+     Alguns critérios utilizados pelo constituinte para atribuir a propriedade do bem à União:
+     segurança nacional (quando a CF fala em “defesa das fronteiras”, “zonas limítrofes com
+     outros países” etc.), proteção à economia do país (“recursos naturais da plataforma
+     continental”, “potenciais de energia hidráulica” etc.), interesse público nacional (“terras
+     devolutas indispensáveis à preservação ambiental”, “sítios arqueológicos”) e extensão do
+     bem (“lagos, rios... que banhem mais de um Estado” etc.).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  4
+        www.estrategiaconcursos.com.br                                                                    28
+
+                                     https://t.me/KakashiAssinaturasBot
+Tulio Lages
+Aula 16
+
+
+
+
+   - Estaduais (ou distritais): são os bens pertencentes aos Estados (ou DF) e às respectivas
+   entidades da administração indireta de direito público. O art. 26 da CF apresenta uma lista
+   exemplificativa desses bens. Como regra, os bens estaduais listados na CF são residuais em
+   relação à União (veja que, se o bem não é considerando importante para i) a segurança
+   nacional, ii) a proteção da economia pátria, iii) o interesse público nacional ou se sua
+   extensão ou localização não justificam que seja de propriedade da União, será, em geral,
+   de propriedade do Estado).
+
+   - Municipais: são os bens pertencentes aos Municípios e às respectivas entidades da
+   administração indireta de direito público. Os Municípios não foram contemplados na
+   partilha constitucional de bens públicos, mas, em regra, as ruas, praças e jardins públicos a
+   eles pertencem, bem como os edifícios públicos em que funciona a administração
+   municipal. Também são bens dos municípios as ilhas marítimas (oceânicas e costeiras) que
+   contenham sede de municípios (CF, art. 20, IV).
+
+- Quanto à destinação – são subdivididos em:
+
+   - Bens de uso comum do povo: são aqueles utilizados pelos indivíduos em geral (destinação
+   pública), em igualdade de condições, em regra de forma gratuita (mas pode ocorrer de
+   forma onerosa) – vide arts. 99, I, 100 e 103 do Código Civil. Ex: rios, mares, ruas e praças.
+
+   - Bens de uso especial: são os bens móveis e imóveis destinados à execução dos serviços
+   administrativos e dos serviços públicos em geral – vide arts. 99, II, e 100 do Código Civil.
+   Ex: edifício destinado a estabelecimento da administração federal, veículos oficiais.
+
+   - Bens dominicais: são aqueles que não possuem destinação pública definida, constituindo
+   o patrimônio disponível do Estado (podem ser alienados) – vide arts. 99, III e parágrafo
+   único, e 101 do Código Civil. Constituem uma categoria residual de bens públicos. Ex:
+   terras devolutas, prédios públicos desativados.
+
+- Quanto à disponibilidade – são subdivididos em:
+
+   - Bens indisponíveis (por natureza): não ostentam natureza tipicamente patrimonial e, por
+   isso, não podem ser alienados ou onerados. Aqui se enquadram, como regra geral, os bens
+   de uso comum do povo (alguns deles, enquanto mantiverem essa destinação).
+
+   - Bens patrimoniais indisponíveis: ostentam natureza patrimonial, mas não podem ser
+   dispostos por estarem afetados a uma destinação pública. Aqui se enquadram os bens de
+   uso especial.
+
+   - Bens patrimoniais disponíveis: ostentam natureza patrimonial e, por não estarem afetados,
+   podem ser alienados nas condições estabelecidas pela lei. Aqui se enquadram os bens
+   dominicais em geral.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       5
+      www.estrategiaconcursos.com.br                                                         28
+
+                                   https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+• Principais características dos bens públicos
+
+  Os bens públicos estão sujeitos ao regime jurídico de direito público, enquanto os bens
+  privados estão sujeitos ao regime jurídico de direito privado.
+
+  O regime jurídico de direito público confere características aos bens públicos que são
+  verdadeiras regras de proteção, notadamente em razão do princípio da continuidade dos
+  serviços públicos.
+
+  Cumpre destacar que os bens das entidades administrativas de direito privado (empresas
+  públicas, sociedades de economia mista e fundações públicas de direito privado), bem como
+  os bens de concessionárias e permissionárias de serviços públicos, embora sejam bens
+  privados, caso estejam afetados a prestação de serviços públicos, se submetem as regras
+  características do regime jurídico dos bens públicos, notadamente a impenhorabilidade e a
+  não onerabilidade.
+
+  Seguem as características dos bens públicos:
+
+     - Inalienabilidade (relativa)
+
+        - Os bens de uso comum do povo e de uso especial são inalienáveis a particulares, mas
+        somente enquanto afetados a uma destinação pública (art. 110 do Código Civil). Assim,
+        o poder público, ao realizar a desafetação de tais bens, transforma-os em bens
+        dominicais, que podem ser alienados a particulares, observadas as condições da lei (art.
+        101 do Código Civil), notadamente os requisitos previstos na Lei de Licitações. A rigor,
+        são absolutamente inalienáveis apenas os bens indisponíveis por sua própria natureza.
+
+        - Os bens públicos, mesmo que afetados, podem ser alienados entre entidades estatais.
+
+     Impenhorabilidade
+
+        - O Estado paga suas dívidas, em regra, mediante a expedição de precatórios (art. 100
+        da CF), de modo que a garantia de pagamento ocorre via consignação de dotações no
+        orçamento, e não pela penhora de bens públicos.
+
+        - A impenhorabilidade recai, inclusive, sobre os bens dominicais.
+
+     Imprescritibilidade
+
+        - Os bens públicos, móveis e imóveis, são insuscetíveis de aquisição por decurso de
+        prazo, não estando sujeitos a usucapião (CF, arts. 183, § 3º e 191, parágrafo único e art.
+        102 do Código Civil).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       6
+        www.estrategiaconcursos.com.br                                                         28
+
+                                     https://t.me/KakashiAssinaturasBot
+    Tulio Lages
+    Aula 16
+
+
+
+
+          - A imprescritibilidade recai, inclusive, sobre os bens dominicais1.
+
+       Não onerabilidade
+
+          - O Estado paga suas dívidas, em regra, mediante a expedição de precatórios (art. 100
+          da CF), de modo que a garantia de pagamento ocorre via consignação de dotações no
+          orçamento, e não pela oneração de bens públicos.
+
+          - A não onerabilidade é relativa: há algumas situações em que é possível a oneração,
+          desde que não se tenha por fim a constituição de direito real de garantia.
+
+• Formas de aquisição de bens públicos
+
+     - Contratos (compra e venda, doação, permuta, dação em pagamento).
+
+     - Usucapião (por parte do poder público sobre bens privados).
+
+     - Desapropriação.
+
+     - Acessão.
+
+     - Aquisição causa mortis (arts. 1.822 e 1.844 do Código Civil).
+
+     - Arrematação (em praça ou leilão judicial).
+
+     - Adjudicação.
+
+     - Resgate da enfiteuse.
+
+     - Aquisição ex vi legis.
+
+• Afetação e desafetação
+
+     - Diz-se que o bem está afetado quando destinado a determinado fim público. Por outro lado,
+     quando não esteja sendo utilizado para qualquer destinação pública, diz-se que o bem está
+     desafetado.
+
+     Assim, quando o bem desafetado recebe uma destinação pública específica, ocorre a
+     chamada afetação. O processo inverso é chamado desafetação (quando é retirado a
+     destinação pública de um bem afetado).
+
+     - A afetação/desafetação pode ocorrer por lei, ato administrativo ou fato administrativo.
+
+
+
+1
+    STF – Súmula 340.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      7
+          www.estrategiaconcursos.com.br                                                         28
+
+                                       https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+  - Relação de afetação dos bens públicos
+
+  a) de uso comum = maior afetação
+
+  b) de uso especial = afetação média
+
+  c) dominicais = sem afetação
+
+• Uso privativo de bens públicos por particulares
+
+  Autorização de uso
+
+     - Formalizada por ato administrativo unilateral e discricionário.
+                                                        ==219a34==
+
+
+
+
+     - Título precário (pode ser revogada a qualquer tempo sem indenização, salvo se outorgada
+     com prazo ou condição).
+
+     - Caráter gratuito ou oneroso.
+
+     - Em regra, sem prazo (mas pode conter prazo).
+
+     - Há predomínio do interesse do particular.
+
+     - Incide, em regra, em situações transitórias, de curta duração.
+
+     - Não há necessidade de licitação prévia.
+
+     - O particular possui a faculdade de usar o bem.
+
+  Permissão de uso
+
+     - Formalizada por ato administrativo unilateral e discricionário.
+
+     - Título precário (pode ser revogada a qualquer tempo sem indenização, salvo se outorgada
+     com prazo ou condição).
+
+     - Caráter gratuito ou oneroso.
+
+     - Concedida por prazo indeterminado ou por prazo certo.
+
+     - Há maior interesse público se comparado à autorização.
+
+     - O prazo de utilização da permissão é geralmente maior que o da autorização.
+
+     - Em regra, deve ser precedida de licitação.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   8
+        www.estrategiaconcursos.com.br                                                      28
+
+                                     https://t.me/KakashiAssinaturasBot
+Tulio Lages
+Aula 16
+
+
+
+
+   - O particular deve usar obrigatoriamente o bem objeto da permissão.
+
+Concessão de uso
+
+   - Formalizada por contrato administrativo.
+
+   - Precedida de licitação, em regra.
+
+   - Caráter não precário.
+
+   - Sempre outorgada por prazo determinado.
+
+   - Só admite rescisão nas hipóteses legais (não comporta revogação).
+
+   - Caráter gratuito ou oneroso.
+
+   - O particular deve usar obrigatoriamente o bem objeto da concessão.
+
+Concessão de direito real de uso
+
+   - Formalizada por contrato
+
+   - Onerosa ou gratuita
+
+   - Prazo certo ou indeterminado
+
+   - Objeto: terrenos públicos ou respectivo espaço aéreo
+
+   - Finalidade: urbanização, industrialização, edificação, cultivo da terra, aproveitamento
+   sustentável das várzeas, preservação das comunidades tradicionais ou qualquer outra
+   exploração de interesse pessoal (Decreto-Lei 271/1967, art. 7º, caput).
+
+   - É relacionada diretamente ao bem, independentemente da pessoa que o possua (a
+   concessão simples confere direito de uso apenas ao titular da concessão).
+
+   - O direito real de uso se extingue caso ocorram determinadas hipóteses previstas em lei
+   ou contrato (ex: caso o concessionário dê destinação diversa da estabelecida em contrato).
+
+   - Deve ser precedida de licitação, em regra.
+
+Cessão de uso
+
+   - É sempre gratuita.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    9
+      www.estrategiaconcursos.com.br                                                      28
+
+                                   https://t.me/KakashiAssinaturasBot
+Tulio Lages
+Aula 16
+
+
+
+
+   - Pode ser concedida tanto a outros órgãos ou entidades públicas, como a particulares
+   (desde que sejam entidades privadas sem fins lucrativos).
+
+   - Objetivo: colaboração com outras entidades públicas ou até privadas para atender a
+   interesses coletivos.
+
+   - Formalizada por termo ou contrato.
+
+   - Não exige licitação.
+
+   - Se dá por prazo determinado.
+
+   - Deve ser autorizada por decreto do Presidente da República, competência que pode ser
+   delegada ao Ministro da Fazenda, sendo permitida a subdelegação (Lei 9.636/1998, art. 18,
+   §§ 3º e 4º).
+
+   - Objeto: bens dominicais (somente).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   10
+      www.estrategiaconcursos.com.br                                                      28
+
+                                   https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+                                                                 APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o histórico de questões da banca em provas
+de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “Bens Públicos”, o tópico “Classificação” é o ponto que acreditamos ser o que possui mais chances de ser cobrado pela
+banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                       11
+        www.estrategiaconcursos.com.br                                                                                                                          28
+
+                                                                  https://t.me/KakashiAssinaturasBot
+Tulio Lages
+Aula 16
+
+
+
+
+                                                      ==219a34==
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 12
+      www.estrategiaconcursos.com.br                                                                    28
+
+                                                                   https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar para a sua
+prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui, não é que você fixe o
+conteúdo por meio de uma bateria extensa de questões, mas que você faça uma boa revisão global do
+assunto a partir de, relativamente, poucas questões.
+
+
+
+
+1. (FGV/2024/TCE-GO/Auditor de Controle Externo) Marcela e Maíra estavam debatendo sobre o regime
+jurídico dos bens das autarquias e das sociedades de economia mista que atuam em regime de
+concorrência, distribuem lucro entre seus acionistas e não realizam serviços públicos, situação em que
+concluíram corretamente que
+
+a) os bens das autarquias podem ser usucapidos.
+
+b) os bens de ambas as mencionadas entidades administrativas são inalienáveis.
+
+c) os bens das referidas sociedades de economia mista são imprescritíveis.
+
+d) os bens dominicais das autarquias são passíveis de alienação, observadas as exigências legais.
+
+e) os bens das aludidas sociedades de economia mista são impenhoráveis.
+
+Comentários
+
+Letra A - incorreta. Os bens públicos não estão sujeitos a usucapião, conforme artigo 102 do Código Civil e
+Súmula 340 do STF:
+
+     Código Civil
+
+     Art. 102. Os bens públicos não estão sujeitos a usucapião.
+
+     STF
+
+     Desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem
+     ser adquiridos por usucapião.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               13
+        www.estrategiaconcursos.com.br                                                                  28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+Letra B - incorreta. Não se pode falar que são inalienáveis, uma vez que conforme o artigo 101 do Código
+Civil, os bens dominicais, que são aqueles que não possuem destinação pública definida, constituindo o
+patrimônio disponível do Estado, podem sim ser alienados, desde que observem as exigências legais:
+
+      Art. 101. Os bens públicos dominicais podem ser alienados, observadas as exigências da lei.
+
+Letras C e E - incorretas. Apenas os bens das entidades administrativas de direito privado (empresas
+públicas, sociedades de economia mista e fundações públicas de direito privado), que estejam afetados a
+prestação de serviços públicos, se submetem as regras características do regime jurídico dos bens públicos,
+logo não é o caso da sociedade de economia mista mencionada pela questão.
+
+Letra D - correta. Está de acordo com o afirmado na alternativa B.
+
+Gabarito: Letra D.
+
+
+
+
+2. (FGV/2024/Prefeitura de Caraguatatuba/Fiscal Municipal) Os bens públicos são tratados de forma
+distinta dos bens privados no ordenamento do jurídico. Uma dessas diferenças é a impossibilidade de
+usucapião, pois se trata de uma modalidade de prescrição aquisitiva.
+
+Essa característica do bem público é denominada
+
+a) imprescritibilidade.
+
+b) inalienabilidade.
+
+c) impenhorabilidade.
+
+d) desafetação.
+
+e) impossibilidade de oneração.
+
+Comentários
+
+A questão faz referência à característica denominada imprescritibilidade, letra A, a qual determina que os
+bens públicos, móveis e imóveis, são insuscetíveis de aquisição por decurso de prazo, não estando sujeitos
+a usucapião, conforme previsto no artigo 102 do Código Civil:
+
+      Art. 102. Os bens públicos não estão sujeitos a usucapião.
+
+A inalienabilidade determina que os bens de uso comum do povo e de uso especial são inalienáveis a
+particulares, mas somente enquanto afetados a uma destinação pública (art. 100 do Código Civil). Assim, o
+poder público, ao realizar a desafetação de tais bens, transforma-os em bens dominicais, que podem ser
+alienados a particulares, observadas as condições da lei (art. 101 do Código Civil), notadamente os
+requisitos previstos na Lei de Licitações. A rigor, são absolutamente inalienáveis apenas os bens
+indisponíveis por sua própria natureza.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               14
+        www.estrategiaconcursos.com.br                                                                  28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+A impenhorabilidade está ligada ao fato que o Estado paga suas dívidas, em regra, mediante a expedição
+de precatórios (art. 100 da CF), de modo que a garantia de pagamento ocorre via consignação de dotações
+no orçamento, e não pela penhora de bens públicos.
+
+Por fim a não onerabilidade se refere ao fato que o Estado paga suas dívidas, em regra, mediante a
+expedição de precatórios (art. 100 da CF), de modo que a garantia de pagamento ocorre via consignação
+de dotações no orçamento, e não pela oneração de bens públicos.
+
+Gabarito: Letra A.
+
+
+
+3. (FGV/2023/TCE-ES/Auditor de Controle Externo - Direito) O imóvel do Tribunal de Contas do Estado
+Beta, onde está instalada sua sede, de acordo com a doutrina de Direito Administrativo, em matéria de
+classificação de bens públicos quanto à sua destinação, é considerado bem:
+
+a) de uso comum do povo;
+
+b) de uso especial;
+
+c) dominical;
+
+d) desafetado;
+
+e) desconsagrado.
+
+Comentários
+
+Os bens públicos se dividem em três tipos, conforme artigo 99 do Código Civil:
+
+     Art. 99. São bens públicos:
+
+     I - os de uso comum do povo, tais como rios, mares, estradas, ruas e praças;
+
+     II - os de uso especial, tais como edifícios ou terrenos destinados a serviço ou estabelecimento
+     da administração federal, estadual, territorial ou municipal, inclusive os de suas autarquias;
+
+     III - os dominicais, que constituem o patrimônio das pessoas jurídicas de direito público, como
+     objeto de direito pessoal, ou real, de cada uma dessas entidades.
+
+O prédio onde se localiza o Tribunal de Contas do Estado Beta constitui bem de uso especial, pois é afetado
+a um serviço público específico, diferente dos bens de uso comum que são aqueles utilizados pelos
+indivíduos em geral (destinação pública), em igualdade de condições, ou bens dominicais, que são aqueles
+que não possuem destinação pública definida, no caso desafetados, constituindo o patrimônio disponível
+do Estado.
+
+Gabarito: Letra B.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               15
+        www.estrategiaconcursos.com.br                                                                  28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+4. (FGV/2024/TJ-SC/Analista) Ao estudar o tópico atinente aos bens públicos, previsto no conteúdo
+programático do concurso público para o qual estava se preparando, Marilene observou que, de acordo
+com o respectivo regime jurídico, tais bens são:
+
+a) impenhoráveis, imprescritíveis e inalienáveis quando dominicais;
+
+b) impenhoráveis, prescritíveis e inalienáveis quando afetados;
+
+c) penhoráveis, imprescritíveis e passíveis de alienação quando dominicais;
+
+d) impenhoráveis, imprescritíveis e passíveis de alienação quando dominicais;
+
+e) penhoráveis, prescritíveis e inalienáveis quando afetados.
+
+Comentários
+
+As principais características dos bens               públicos    são    a    inalienabilidade,   impenhorabilidade,
+imprescritibilidade e não onerabilidade.
+
+Em relação a inalienabilidade, ela é relativa, uma vez que os bens dominicais podem ser alienados
+atendendo as exigências legais, conforme determina o artigo 101 do Código Civil:
+
+     Art. 101. Os bens públicos dominicais podem ser alienados, observadas as exigências da lei.
+
+Dessa forma, a alternativa correta é a letra D. Vejamos os erros das demais:
+
+a) impenhoráveis, imprescritíveis e inalienáveis quando dominicais;
+
+b) impenhoráveis, prescritíveis e inalienáveis quando afetados;
+
+c) penhoráveis, imprescritíveis e passíveis de alienação quando dominicais;
+
+e) penhoráveis, prescritíveis e inalienáveis quando afetados.
+
+Gabarito: Letra D.
+
+
+5. (FGV/2025/CAGE-RS/Auditor do Estado) Depois que determinado evento climático adverso atingiu de
+forma severa o Estado Alfa, doações das mais variadas regiões do Brasil chegaram ao referido ente
+federativo, por meio de diferentes estradas. Além disso, foi possível constatar uma demanda elevada
+nos hospitais públicos da rede estadual.
+
+Nesse cenário, considerando a classificação dos bens públicos à luz do critério da afetação pública, é
+correto afirmar que
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                       16
+        www.estrategiaconcursos.com.br                                                                          28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+a) as estradas são bens públicos de uso comum do povo. Por outro lado, os hospitais públicos são bens
+públicos de uso especial.
+
+b) as estradas são bens públicos de uso especial. Por outro lado, os hospitais públicos são bens públicos de
+uso comum do povo.
+
+c) as estradas e os hospitais públicos são bens públicos de uso comum do povo.
+
+d) as estradas e os hospitais públicos são bens públicos de uso especial.
+
+e) as estradas e os hospitais públicos são bens públicos dominicais.
+
+Comentários
+
+A questão traz dois bens públicos: as estradas e os hospitais. As estradas são classificadas como bens de
+                                                        ==219a34==
+
+
+
+
+uso comum do povo, que são aqueles utilizados pelos indivíduos em geral (destinação pública), em
+igualdade de condições, em regra de forma gratuita (mas pode ocorrer de forma onerosa).
+
+Já os hospitais são classificados como bens de uso especial, que são os bens móveis e imóveis destinados à
+execução dos serviços administrativos e dos serviços públicos em geral.
+
+Assim, a alternativa que está de acordo com o explicado acima é a letra A.
+
+Gabarito: Letra A
+
+
+
+
+6. (FGV/2025/CGM Cuiabá/Auditor Público Interno) Marlon, servidor público do Município Ômega,
+passou a exercer atribuições relacionadas à gestão dos bens públicos do referido ente federativo, razão
+pela qual teve que aprofundar os seus conhecimentos acerca do respectivo regime jurídico.
+
+Tendo em conta a classificação dos bens públicos e as peculiaridades do respectivo regime jurídico, à luz
+do ordenamento pátrio, assinale a alternativa correta.
+
+a) Os bens de dominicais são os únicos que podem ser usucapidos, mas são considerados inalienáveis.
+
+b) Os bens de uso comum do povo são imprescritíveis e inalienáveis, mas podem ser penhorados no
+âmbito da execução contra a Fazenda Pública.
+
+c) Apenas os bens dominicais são considerados passíveis de alienação, preenchidos os demais requisitos
+legais, pois estão desafetados.
+
+d) Os bens de uso comum e os de uso especial podem ser usucapidos, sendo, no entanto, inviável a sua
+alienação enquanto mantida a respectiva destinação.
+
+e) Somente os bens de uso comum do povo não podem usucapidos, considerando a sua especial afetação.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                17
+        www.estrategiaconcursos.com.br                                                                   28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+Comentários
+
+Letras A, D e E - incorretas. Nenhum bem público está suscetível a usucapião, conforme o artigo 102 do
+Código Civil:
+
+     Art. 102. Os bens públicos não estão sujeitos a usucapião.
+
+Letra B - incorreta. Os bens públicos não estão sujeitos à penhora, tendo em vista que o Estado faz seus
+pagamentos mediante o regime de precatórios, conforme artigo 100 da CF/88:
+
+     Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e
+     Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica
+     de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de
+     casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este
+     fim.
+
+Letra C - correta. Está de acordo com os artigos 100 e 101 do Código Civil:
+
+     Art. 100. Os bens públicos de uso comum do povo e os de uso especial são inalienáveis,
+     enquanto conservarem a sua qualificação, na forma que a lei determinar.
+
+     Art. 101. Os bens públicos dominicais podem ser alienados, observadas as exigências da lei.
+
+Gabarito: Letra C
+
+
+7. (FGV/2024/ALETO/Policial Legislativo) No âmbito do domínio público, existem relevantes ditames do
+Código Civil, delimitando o conceito e indicando a classificação dos bens públicos quanto à afetação
+pública.
+
+Nesse contexto, assinale a opção que indica um exemplo de bem público, com a adequada classificação,
+pertencente à respectiva pessoa jurídica.
+
+a) A sede de uma prefeitura, que é bem de uso especial.
+
+b) A sede de uma fundação, que é bem de uso dominical.
+
+c) A sede de uma autarquia, que é bem de uso comum do povo.
+
+d) A sede de uma assembleia legislativa, que é bem dominical.
+
+e) A sede de uma empresa pública, que é bem de uso especial.
+
+Comentários
+
+Vejamos como o Código Civil define os bens públicos em seu artigo 99:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            18
+        www.estrategiaconcursos.com.br                                                               28
+
+                                     https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+     Art. 99. São bens públicos:
+
+     I - os de uso comum do povo, tais como rios, mares, estradas, ruas e praças;
+
+     II - os de uso especial, tais como edifícios ou terrenos destinados a serviço ou estabelecimento
+     da administração federal, estadual, territorial ou municipal, inclusive os de suas autarquias;
+
+     III - os dominicais, que constituem o patrimônio das pessoas jurídicas de direito público, como
+     objeto de direito pessoal, ou real, de cada uma dessas entidades.
+
+     Parágrafo único. Não dispondo a lei em contrário, consideram-se dominicais os bens
+     pertencentes às pessoas jurídicas de direito público a que se tenha dado estrutura de direito
+     privado.
+
+A alternativa correta, portanto, é a letra A. Vejamos os erros das demais:
+
+b) A sede de uma fundação, que é bem de uso dominical. Sendo a fundação pública, sua sede é
+classificada como bem de uso especial.
+
+c) A sede de uma autarquia, que é bem de uso comum do povo. A sede dessa autarquia é um bem de uso
+especial, que são os bens móveis e imóveis destinados à execução dos serviços administrativos e dos
+serviços públicos em geral.
+
+d) A sede de uma assembleia legislativa, que é bem dominical. Temos mais uma vez um bem de uso
+especial.
+
+e) A sede de uma empresa pública, que é bem de uso especial. Aqui o bem é classificado como dominical,
+pois entra na previsão do parágrafo único transcrito acima, já que a empresa pública detém
+personalidade jurídica de direito privado.
+
+Gabarito: Letra A
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               19
+        www.estrategiaconcursos.com.br                                                                  28
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 16
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas
+também).
+
+
+Perguntas
+
+1. Qual o critério adotado pelo legislador para conceituar bens públicos?
+2. Complete as lacunas a seguir, a respeito da titularidade dos bens públicos:
+2.1. São bens da __(a)__:
+2.1.1. os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
+2.1.2. as terras devolutas indispensáveis à defesa das __(b)__, das fortificações e construções
+militares, das __(c)__federais de comunicação e à preservação __(d)__, definidas em lei;
+2.1.3 os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem
+mais de um __(e)__, sirvam de limites com outros __(f)__, ou se estendam a território estrangeiro
+ou dele provenham, bem como os terrenos marginais e as praias fluviais;
+2.1.4. as ilhas fluviais e lacustres nas zonas limítrofes com outros __(g)__; as praias marítimas; as
+ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de __(h)__, exceto
+aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art.
+26, II, da CF/88;
+2.1.5. os recursos naturais da plataforma __(i)__e da zona econômica __(j)__;
+2.1.6. o mar territorial;
+2.1.7. os terrenos de marinha e seus acrescidos;
+2.1.8. os potenciais de energia __(k)__;
+2.1.9. os recursos __(l)__, inclusive os do subsolo;
+2.1.10. as cavidades naturais subterrâneas e os sítios __(m)__e pré-históricos;
+2.1.11. as terras tradicionalmente ocupadas pelos __(n)__.
+2.1.12. É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos
+Municípios a participação no resultado da exploração de __(o)__ou gás natural, de recursos
+hídricos para fins de geração de energia __(p)__e de outros recursos minerais no respectivo
+território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação
+__(q)__por essa exploração.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  20
+         www.estrategiaconcursos.com.br                                                                     28
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 16
+
+
+
+2.1.13. A faixa de até cento e __(r)__quilômetros de largura, ao longo das fronteiras terrestres,
+designada como faixa de __(s)__, é considerada fundamental para defesa do território nacional,
+e sua ocupação e utilização serão reguladas em lei.
+2.2. Incluem-se entre os bens dos __(t)__:
+2.2.1. as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas,
+neste caso, na forma da lei, as decorrentes de __(u)__da União;
+2.2.2. as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas
+sob domínio da União, __(v)__ou terceiros;
+2.2.3. as ilhas fluviais e lacustres não pertencentes à __(w)__;
+2.2.4. as terras devolutas não compreendidas entre as da __(x)__.
+3. Complete as lacunas a seguir, a respeito da classificação quanto à destinação dos bens
+públicos:
+3.1. São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito
+__(a)__interno; todos os outros são __(b)__, seja qual for a pessoa a que pertencerem.
+3.2. São bens públicos:
+3.2.1. os de uso __(c)__, tais como rios, mares, estradas, ruas e praças;
+3.2.2. os de uso __(d)__, tais como edifícios ou terrenos destinados a serviço ou estabelecimento
+da administração federal, estadual, territorial ou municipal, inclusive os de suas __(e)__;
+3.2.3. os __(f)__, que constituem o patrimônio das pessoas jurídicas de direito público, como
+objeto de direito pessoal, ou real, de cada uma dessas entidades.
+3.2.4. Não dispondo a lei em contrário, consideram-se dominicais os bens pertencentes às
+pessoas jurídicas de direito __(g)__a que se tenha dado estrutura de direito __(h)__.
+3.3. Os bens públicos de uso comum do povo e os de uso especial são __(i)__, enquanto
+conservarem a sua qualificação, na forma que a lei determinar.
+3.4. Os bens públicos __(j)__podem ser alienados, observadas as exigências da lei.
+3.5. Os bens públicos não estão sujeitos a __(k)__.
+3.6. O uso comum dos bens públicos pode ser gratuito ou __(l)__, conforme for estabelecido
+legalmente pela entidade a cuja administração pertencerem.
+4. O que é afetação e desafetação de um bem público?
+5. Suponha que uma concessionária municipal de transporte público, passando por
+dificuldades financeiras, tenha recebido ordem judicial de penhora de seu edifício-sede, em ação
+movida por um de seus principais credores.
+A decisão judicial foi acertada? Justifique.
+6. Com relação aos bens públicos de uso comum do povo, de uso especial e dominicais,
+informe qual(is) desses bens:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    21
+         www.estrategiaconcursos.com.br                                                       28
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 16
+
+
+
+a. são indisponíveis por natureza, como regra
+b. são patrimoniais indisponíveis
+c.    são patrimoniais disponíveis
+d. são inalienáveis
+e. são impenhoráveis
+f.    são imprescritíveis
+g. são não oneráveis
+7. Com relação à autorização, permissão e concessão de uso de bem público, informe qual
+dessas modalidades:
+a. É formalizada por ato administrativo
+b. É formalizada por contrato administrativo
+                                                           ==219a34==
+
+
+
+
+c.    Pode ser revogada a qualquer tempo
+d. Deve ser precedida de licitação
+e. Possui caráter gratuito
+f.    Possui caráter oneroso
+g. Sempre deve ser outorgada por prazo determinado
+
+
+Perguntas com respostas
+
+1. Qual o critério adotado pelo legislador para conceituar bens públicos?
+
+O critério utilizado pelo Código Civil foi o da titularidade, sendo bens públicos,
+independentemente de sua destinação, aqueles pertencentes às pessoas jurídicas de direito
+público interno e, todos os demais, bens são privados. Vejamos o teor do art. 98 do Código
+Civil:
+
+        Art. 98. São públicos os bens do domínio nacional pertencentes às pessoas jurídicas
+        de direito público interno; todos os outros são particulares, seja qual for a pessoa a
+        que pertencerem.
+
+2. Complete as lacunas a seguir, a respeito da titularidade dos bens públicos:
+2.1. São bens da __(a)__:
+2.1.1. os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
+2.1.2. as terras devolutas indispensáveis à defesa das __(b)__, das fortificações e construções
+militares, das __(c)__federais de comunicação e à preservação __(d)__, definidas em lei;
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     22
+           www.estrategiaconcursos.com.br                                                        28
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 16
+
+
+
+2.1.3 os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem
+mais de um __(e)__, sirvam de limites com outros __(f)__, ou se estendam a território estrangeiro
+ou dele provenham, bem como os terrenos marginais e as praias fluviais;
+2.1.4. as ilhas fluviais e lacustres nas zonas limítrofes com outros __(g)__; as praias marítimas; as
+ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de __(h)__, exceto
+aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art.
+26, II, da CF/88;
+2.1.5. os recursos naturais da plataforma __(i)__e da zona econômica __(j)__;
+2.1.6. o mar territorial;
+2.1.7. os terrenos de marinha e seus acrescidos;
+2.1.8. os potenciais de energia __(k)__;
+2.1.9. os recursos __(l)__, inclusive os do subsolo;
+2.1.10. as cavidades naturais subterrâneas e os sítios __(m)__e pré-históricos;
+2.1.11. as terras tradicionalmente ocupadas pelos __(n)__.
+2.1.12. É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos
+Municípios a participação no resultado da exploração de __(o)__ou gás natural, de recursos
+hídricos para fins de geração de energia __(p)__e de outros recursos minerais no respectivo
+território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação
+__(q)__por essa exploração.
+2.1.13. A faixa de até cento e __(r)__quilômetros de largura, ao longo das fronteiras terrestres,
+designada como faixa de __(s)__, é considerada fundamental para defesa do território nacional,
+e sua ocupação e utilização serão reguladas em lei.
+2.2. Incluem-se entre os bens dos __(t)__:
+2.2.1. as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas,
+neste caso, na forma da lei, as decorrentes de __(u)__da União;
+2.2.2. as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas
+sob domínio da União, __(v)__ou terceiros;
+2.2.3. as ilhas fluviais e lacustres não pertencentes à __(w)__;
+2.2.4. as terras devolutas não compreendidas entre as da __(x)__.
+ (a) União               (b) fronteiras           (c) vias                 (d) ambiental     (e) Estado
+ (f) países              (g) países               (h) Municípios           (i) continental   (j) exclusiva
+ (k) hidráulica          (l) minerais             (m) arqueológicos        (n) índios        (o) petróleo
+ (p) elétrica            (q) financeira           (r) cinquenta            (s) fronteira     (t) Estados
+ (u) obras               (v) Municípios           (w) União                (x) União
+3. Complete as lacunas a seguir, a respeito da classificação quanto à destinação dos bens
+públicos:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   23
+         www.estrategiaconcursos.com.br                                                                      28
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 16
+
+
+
+3.1. São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito
+__(a)__interno; todos os outros são __(b)__, seja qual for a pessoa a que pertencerem.
+3.2. São bens públicos:
+3.2.1. os de uso __(c)__, tais como rios, mares, estradas, ruas e praças;
+3.2.2. os de uso __(d)__, tais como edifícios ou terrenos destinados a serviço ou estabelecimento
+da administração federal, estadual, territorial ou municipal, inclusive os de suas __(e)__;
+3.2.3. os __(f)__, que constituem o patrimônio das pessoas jurídicas de direito público, como
+objeto de direito pessoal, ou real, de cada uma dessas entidades.
+3.2.4. Não dispondo a lei em contrário, consideram-se dominicais os bens pertencentes às
+pessoas jurídicas de direito __(g)__a que se tenha dado estrutura de direito __(h)__.
+3.3. Os bens públicos de uso comum do povo e os de uso especial são __(i)__, enquanto
+conservarem a sua qualificação, na forma que a lei determinar.
+3.4. Os bens públicos __(j)__podem ser alienados, observadas as exigências da lei.
+3.5. Os bens públicos não estão sujeitos a __(k)__.
+3.6. O uso comum dos bens públicos pode ser gratuito ou __(l)__, conforme for estabelecido
+legalmente pela entidade a cuja administração pertencerem.
+ (a) público             (b) particulares         (c) comum do povo        (d) especial       (e) autarquias
+ (f) dominicais          (g) público              (h) privado              (i) inalienáveis   (j) dominicais
+ (k) usucapião           (l) retribuído
+4. O que é afetação e desafetação de um bem público?
+
+Afetação é a atribuição, por lei, ato administrativo ou fato administrativo, de uma destinação
+pública específica a um bem, sendo a desafetação o processo inverso.
+
+5. Suponha que uma concessionária municipal de transporte público, passando por
+dificuldades financeiras, tenha recebido ordem judicial de penhora de seu edifício-sede, em ação
+movida por um de seus principais credores.
+A decisão judicial foi acertada? Justifique.
+
+Não. Ainda que o bem em questão pertença a uma entidade de direito privado, encontra-se
+afetado à prestação de um serviço público, de modo que se submete às regras características do
+regime jurídico dos bens públicos, entre as quais a impenhorabilidade.
+
+
+
+
+6. Com relação aos bens públicos de uso comum do povo, de uso especial e dominicais,
+informe qual(is) desses bens:
+a. são indisponíveis por natureza, como regra
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                     24
+         www.estrategiaconcursos.com.br                                                                        28
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 16
+
+
+
+Bens de uso comum do povo.
+
+b. são patrimoniais indisponíveis
+
+Bens de uso especial.
+
+c.    são patrimoniais disponíveis
+
+Bens dominicais.
+
+d. são inalienáveis
+
+Bens de uso comum do povo e de uso especial (estes são inalienáveis a particulares, mas
+alienáveis entre entidades estatais).
+
+e. são impenhoráveis
+
+Bens de uso comum do povo, de uso especial e dominicais.
+
+f.    são imprescritíveis
+
+Bens de uso comum do povo, de uso especial e dominicais.
+
+g. são não oneráveis
+
+Bens de uso comum do povo, de uso especial e dominicais.
+
+7. Com relação à autorização, permissão e concessão de uso de bem público, informe qual
+dessas modalidades:
+a. É formalizada por ato administrativo
+
+Autorização de uso e permissão de uso.
+
+b. É formalizada por contrato administrativo
+
+Concessão de uso.
+
+c.    Pode ser revogada a qualquer tempo
+
+Autorização de uso e permissão de uso.
+
+d. Deve ser precedida de licitação
+
+Permissão de uso (em regra) e concessão de uso.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   25
+           www.estrategiaconcursos.com.br                                                      28
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 16
+
+
+
+e. Possui caráter gratuito
+
+Todas as três modalidades podem ser gratuitas.
+
+f.    Possui caráter oneroso
+
+Todas as três modalidades podem ser onerosas.
+
+g. Sempre deve ser outorgada por prazo determinado
+
+Concessão de uso. A autorização de uso e a permissão de uso podem possuir prazo
+determinado ou não.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   26
+           www.estrategiaconcursos.com.br                                                      28
+
+                                        https://t.me/KakashiAssinaturasBot
+  Tulio Lages
+  Aula 16
+
+
+
+
+                           REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para
+concursos. 2. ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+                                                        ==219a34==
+
+
+
+
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            27
+        www.estrategiaconcursos.com.br                                                               28
+
+                                     https://t.me/KakashiAssinaturasBot
+

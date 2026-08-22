@@ -1,5 +1,34 @@
 // Engine de Conteúdo Dinâmico por Carreira e Disciplina do Gabarito.AI
 
+export interface ModulePage {
+  pageNumber: number; // 1 a 5
+  pageTitle: string;
+  category: 'Doutrina & Teoria' | 'Esquemas & Tabelas' | 'Casos Práticos & Pegadinhas' | 'Lei Seca & Súmulas' | 'Fixação & Questões';
+  leadText: string;
+  bodyText: string;
+  deepDiveText?: string;
+  tableData?: { headers: string[]; rows: string[][] };
+  mnemonics?: { code: string; meaning: string }[];
+  practicalCases?: { title: string; scenario: string; tip: string }[];
+  lawArticles?: { article: string; text: string }[];
+  question?: {
+    id: number;
+    question: string;
+    options: { [key: string]: string };
+    answer: string;
+    explanation: string;
+  };
+}
+
+export interface DisciplineModule {
+  moduleNumber: number;
+  totalModules: number;
+  title: string;
+  bancaTrend: string;
+  totalPages: number;
+  pages: ModulePage[];
+}
+
 export interface LessonContent {
   subject: string;
   topic: string;
@@ -954,6 +983,584 @@ export const CAREER_ESSAY_THEMES: Record<string, string> = {
   "marinha_rm2": "A importância estratégica e econômica da 'Amazônia Azul' para a soberania e segurança marítima do Brasil.",
   "ses_rj": "Os desafios da regionalização, do financiamento tripartite e da equidade no acesso à saúde pública no SUS."
 };
+
+// 4. Catálogo de Módulos Reais Paginados (5 Páginas por Módulo)
+export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
+  // ==========================================
+  // RACIOCÍNIO LÓGICO-MATEMÁTICO E ESTATÍSTICA
+  // ==========================================
+  "Raciocínio Lógico-Matemático e Estatística": [
+    {
+      moduleNumber: 1,
+      totalModules: 6,
+      title: "Lógica de Proposições, Tabela-Verdade & Conectivos Lógicos",
+      bancaTrend: "FGV / Cesgranrio: Cobrança pesada do valor lógico de proposições compostas e identificação de tautologias.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Conceito de Proposição, Princípios Lógicos e Conectivos Fundamentais",
+          category: "Doutrina & Teoria",
+          leadText: "Uma proposição lógica é toda sentença declarativa que admite um único valor lógico: Verdadeiro (V) ou Falso (F).",
+          bodyText: "Na lógica bivalente clássica adotada pela FGV e Cesgranrio, vigem três princípios invioláveis:\n1) Princípio da Identidade: uma proposição verdadeira é sempre verdadeira, e uma falsa é sempre falsa (P = P);\n2) Princípio da Não-Contradição: nenhuma proposição pode ser simultaneamente verdadeira e falsa (~(P ^ ~P));\n3) Princípio do Terceiro Excluído: uma proposição ou é verdadeira ou é falsa, não havendo terceira possibilidade.\n\nSentenças interrogativas ('Quem foi aprovado?'), exclamativas ('Que prova difícil!'), imperativas ('Estude todos os dias!') e sentenças abertas ('x + 4 = 10' ou 'Ele foi aprovado na Receita') NÃO são proposições lógicas porque não podem ser valoradas objetivamente.",
+          deepDiveText: "Os conectivos lógicos fundamentais operam como funções de verdade:\n• Conjunção (E, ^): Verdadeira apenas se TODAS as partes forem verdadeiras.\n• Disjunção Inclusiva (OU, v): Falsa apenas se TODAS as partes forem falsas.\n• Disjunção Exclusiva (OU...OU, _v_): Verdadeira se os valores forem DISTINTOS (um V e outro F).\n• Condicional (SE...ENTÃO, ->): Falsa exclusivamente no caso 'Vera Fischer' (V -> F = F).\n• Bicondicional (SE E SOMENTE SE, <->): Verdadeira se os valores forem IGUAIS (ambos V ou ambos F)."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Tabelas-Verdade Completas e Classificação de Fórmulas",
+          category: "Esquemas & Tabelas",
+          leadText: "O número de linhas de uma tabela-verdade com n proposições simples distintas é exatamente 2^n.",
+          bodyText: "Para 2 proposições simples (P e Q), temos 2^2 = 4 linhas. Para 3 proposições (P, Q e R), temos 2^3 = 8 linhas.",
+          tableData: {
+            headers: ["P", "Q", "P ^ Q (E)", "P v Q (OU)", "P -> Q (SE...)", "P <-> Q (SSE)", "P _v_ Q (OU..OU)"],
+            rows: [
+              ["V", "V", "V", "V", "V", "V", "F"],
+              ["V", "F", "F", "V", "F (V. Fischer)", "F", "V"],
+              ["F", "V", "F", "V", "V", "F", "V"],
+              ["F", "F", "F", "F", "V", "V", "F"]
+            ]
+          },
+          mnemonics: [
+            { code: "CONJUNÇÃO (E)", meaning: "Exigente: só sorri (V) com 100% de verdade." },
+            { code: "DISJUNÇÃO (OU)", meaning: "Generosa: basta um V para ser feliz (V)." },
+            { code: "CONDICIONAL (->)", meaning: "Vera Fischer é Falsa! (V antecedente e F consequente dá F)." },
+            { code: "BICONDICIONAL (<->)", meaning: "Iguais dá V (V-V ou F-F), diferentes dá F." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas Clássicas da FGV",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A FGV tem predileção por disfarçar a condicional (P -> Q) com expressões sinônimas que invertem a ordem aparente.",
+          bodyText: "Atenção máxima à posição do ANTECEDENTE (condição suficiente) e do CONSEQUENTE (condição necessária):\n• 'Q, se P' = 'Se P, então Q' (P -> Q)\n• 'P é condição suficiente para Q' = P -> Q\n• 'Q é condição necessária para P' = P -> Q\n• 'P apenas se Q' = P -> Q\n• 'Sempre que P ocorre, Q acontece' = P -> Q",
+          practicalCases: [
+            {
+              title: "Pegadinha FGV: Inversão de Condição Necessária",
+              scenario: "A frase 'Estudar com afinco é condição necessária para ser nomeado' é equivalente a 'Se o candidato não for nomeado, então ele não estudou com afinco'?",
+              tip: "ERRADO! 'Q é necessária para P' significa P -> Q (Nomeado -> Estudou). Pela contrapositiva, equivale a: 'Se NÃO estudou, então NÃO é nomeado' (~Q -> ~P)."
+            },
+            {
+              title: "Pegadinha FGV: Frase Imperativa não é proposição",
+              scenario: "O item afirma que a sentença 'Guarde os autos do processo no arquivo central!' possui 4 linhas na sua tabela-verdade.",
+              tip: "ERRADO! Trata-se de uma oração no modo imperativo (ordem), logo NÃO é uma proposição lógica e sequer possui tabela-verdade."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Tautologia, Contradição e Contingência",
+          category: "Lei Seca & Súmulas",
+          leadText: "A FGV frequentemente pede para identificar qual das alternativas expressa uma Tautologia lógica.",
+          bodyText: "• Tautologia: Proposição composta cuja última coluna da tabela-verdade é SEMPRE Verdadeira (V), independentemente dos valores lógicos das proposições simples (ex: P v ~P; P -> P; (P ^ Q) -> P).\n• Contradição: Proposição composta cujo valor é SEMPRE Falso (F) em todas as linhas (ex: P ^ ~P).\n• Contingência: Proposição composta que pode ser V ou F dependendo das variáveis (apresenta pelo menos um V e pelo menos um F).",
+          lawArticles: [
+            { article: "Tautologia Canônica 1", text: "P v ~P (Princípio do Terceiro Excluído: ou chove ou não chove)." },
+            { article: "Tautologia Canônica 2", text: "(P -> Q) <-> (~Q -> ~P) (Equivalência da Contrapositiva)." },
+            { article: "Tautologia Canônica 3", text: "~(P ^ Q) <-> (~P v ~Q) (Primeira Lei de De Morgan)." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva o item inédito formulado no padrão rigoroso da FGV / Cesgranrio para consolidar o Módulo 01.",
+          bodyText: "Analise a proposição abaixo e identifique a assertiva correta de acordo com as regras de cálculo proposicional.",
+          question: {
+            id: 2011,
+            question: "Considere a sentença composta: 'Se o Auditor Tributário lavra o auto de infração, então o contribuinte apresenta impugnação tempestiva ou o crédito tributário é inscrito em dívida ativa'. Sabendo que o Auditor lavrou o auto, mas o crédito NÃO foi inscrito em dívida ativa e a sentença como um todo é VERDADEIRA, pode-se concluir com certeza que:",
+            options: {
+              A: "O contribuinte apresentou impugnação tempestiva.",
+              B: "O contribuinte não apresentou impugnação tempestiva.",
+              C: "A condicional possui valor lógico falso.",
+              D: "O crédito foi parcelado judicialmente.",
+              E: "Não é possível determinar a conduta do contribuinte."
+            },
+            answer: "A",
+            explanation: "Temos P -> (Q v R) = V. Como o Auditor lavrou o auto, o antecedente P é V. Para a condicional ser V, o consequente (Q v R) DEVE ser V. Como o crédito NÃO foi inscrito (R = F), para a disjunção (Q v F) ser verdadeira, é obrigatório que Q seja Verdadeiro ('O contribuinte apresentou impugnação tempestiva')."
+          }
+        }
+      ]
+    },
+    {
+      moduleNumber: 2,
+      totalModules: 6,
+      title: "Equivalências Lógicas, Contrapositiva & Regras de Negação",
+      bancaTrend: "FGV / Cesgranrio: Negação do Se...Então (Regra do MANÉ), Leis de De Morgan e equivalência disjuntiva (NEYMAR).",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Equivalências Fundamentais da Condicional (P -> Q)",
+          category: "Doutrina & Teoria",
+          leadText: "Duas proposições são logicamente equivalentes quando possuem exatamente a mesma tabela-verdade.",
+          bodyText: "A condicional P -> Q possui duas equivalências que caem em praticamente 100% das provas fiscais e bancárias:\n1) Contrapositiva (Transposição): P -> Q <=> ~Q -> ~P (Inverte as duas proposições e nega ambas).\nExemplo: 'Se estudo todo dia, então passo no concurso' <=> 'Se NÃO passei no concurso, então NÃO estudei todo dia'.\n\n2) Equivalência Disjuntiva (Regra do NEYMAR): P -> Q <=> ~P v Q (NEga a primeira OU Mantém a segunda).\nExemplo: 'Se chove, então levo guarda-chuva' <=> 'Não chove OU levo guarda-chuva'.",
+          deepDiveText: "Atenção: 'P -> Q' NUNCA é equivalente a 'Q -> P' (recíproca) e NUNCA é equivalente a '~P -> ~Q' (inversa). Essas são falácias lógicas muito exploradas em pegadinhas de alternativas."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Negação das Proposições Compostas (Leis de De Morgan & MANÉ)",
+          category: "Esquemas & Tabelas",
+          leadText: "Negar uma proposição NÃO é apenas colocar 'não' na frase; é encontrar a sentença que tem o valor lógico oposto.",
+          bodyText: "Regras canônicas de negação:\n• Negação da Conjunção: ~(P ^ Q) <=> ~P v ~Q (Nega a primeira, troca E por OU, nega a segunda).\n• Negação da Disjunção: ~(P v Q) <=> ~P ^ ~Q (Nega a primeira, troca OU por E, nega a segunda).\n• Negação da Condicional (Regra do MANÉ): ~(P -> Q) <=> P ^ ~Q (MAntém a primeira E NEga a segunda).",
+          mnemonics: [
+            { code: "EQUIVALÊNCIA DO SE...ENTÃO = NEYMAR", meaning: "NEga a 1ª OU Mantém a 2ª: P -> Q <=> ~P v Q." },
+            { code: "CONTRAPOSITIVA = VOLTA NEGANDO", meaning: "P -> Q <=> ~Q -> ~P (Inverte os lados e nega tudo)." },
+            { code: "NEGAÇÃO DO SE...ENTÃO = MANÉ", meaning: "MAntém a 1ª E NEga a 2ª: ~(P -> Q) <=> P ^ ~Q." },
+            { code: "DE MORGAN = TROCA O CONECTIVO", meaning: "Negar 'E' vira 'OU' com ambos negados; negar 'OU' vira 'E' com ambos negados." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas da FGV em Negação",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A FGV adora colocar nas alternativas a negação da condicional como sendo outro 'se...então'.",
+          bodyText: "Lembre-se: A negação de uma condicional (Se...então) NUNCA é outra condicional! É SEMPRE uma conjunção com o conectivo 'E' (Regra do MANÉ).",
+          practicalCases: [
+            {
+              title: "Pegadinha de Prova: Negação de Se...Então",
+              scenario: "Assinale a negação de 'Se o fiscal aplicar a multa, o infrator recorrerá'.",
+              tip: "Muitos candidatos marcam 'Se o fiscal não aplicar, o infrator não recorrerá'. ERRADO! O correto é: 'O fiscal aplicou a multa E o infrator NÃO recorreu' (MANÉ)."
+            },
+            {
+              title: "Pegadinha de De Morgan com Frases Negativas",
+              scenario: "Qual a negação de 'João não é perito e Maria não é auditora'?",
+              tip: "Aplica De Morgan: Nega '~João' (fica João é perito), troca 'E' por 'OU', nega '~Maria' (fica Maria é auditora). Resultado: 'João é perito OU Maria é auditora'."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Equivalência e Negação do Bicondicional e 'Ou...Ou'",
+          category: "Lei Seca & Súmulas",
+          leadText: "O bicondicional (P <-> Q) e a disjunção exclusiva (P _v_ Q) são a negação exata um do outro.",
+          bodyText: "• Negação do Bicondicional: ~(P <-> Q) <=> P _v_ Q <=> (P ^ ~Q) v (~P ^ Q)\n• Negação da Disjunção Exclusiva: ~(P _v_ Q) <=> P <-> Q\n• Equivalência do Bicondicional: P <-> Q <=> (P -> Q) ^ (Q -> P)",
+          lawArticles: [
+            { article: "Identidade Lógica 1", text: "P <-> Q é equivalente a (P -> Q) ^ (Q -> P) (dupla condicionalidade)." },
+            { article: "Identidade Lógica 2", text: "P _v_ Q é a negação de P <-> Q (se um é V, o outro é F)." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Teste seu reflexo lógico contra o estilo clássico de equivalências da FGV / Cesgranrio.",
+          bodyText: "Resolva a questão abaixo aplicando as regras do NEYMAR e Contrapositiva.",
+          question: {
+            id: 2012,
+            question: "Dizer que 'Se o candidato obtém nota superior a 80 pontos, então é convocado para o curso de formação' é logicamente equivalente a afirmar que:",
+            options: {
+              A: "O candidato não obtém nota superior a 80 pontos ou é convocado para o curso de formação.",
+              B: "Se o candidato não obtém nota superior a 80 pontos, então não é convocado.",
+              C: "O candidato obtém nota superior a 80 pontos e não é convocado.",
+              D: "Se o candidato for convocado, então obteve nota superior a 80 pontos.",
+              E: "O candidato é convocado se e somente se obtiver nota superior a 80 pontos."
+            },
+            answer: "A",
+            explanation: "Pela regra do NEYMAR (P -> Q <=> ~P v Q): Nega a primeira ('O candidato NÃO obtém nota superior a 80 pontos') OU Mantém a segunda ('é convocado para o curso de formação'). Alternativa A correta."
+          }
+        }
+      ]
+    },
+    {
+      moduleNumber: 3,
+      totalModules: 6,
+      title: "Diagramas Lógicos, Silogismos & Quantificadores",
+      bancaTrend: "FGV / Cesgranrio: Negação de Todo/Algum/Nenhum (Regra do PEA + NÃO) e inferência com diagramas de Euler-Venn.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Quantificadores Universais e Existenciais",
+          category: "Doutrina & Teoria",
+          leadText: "Quantificadores lógicos determinam o escopo de elementos de um conjunto que satisfazem uma determinada propriedade.",
+          bodyText: "• Quantificador Universal Afirmativo ('Todo A é B'): O conjunto A está totalmente contido no conjunto B (A ⊂ B).\n• Quantificador Universal Negativo ('Nenhum A é B'): Os conjuntos A e B são disjuntos (A ∩ B = ∅).\n• Quantificador Existencial Afirmativo ('Algum A é B' / 'Pelo menos um A é B'): Há pelo menos um elemento comum aos conjuntos A e B (A ∩ B ≠ ∅).\n• Quantificador Existencial Negativo ('Algum A não é B'): Há pelo menos um elemento de A que não pertence a B.",
+          deepDiveText: "Atenção crucial: No raciocínio lógico formal, 'Todo A é B' NÃO implica que 'Todo B é A'. Por exemplo, 'Todo Auditor é servidor público' não significa que 'Todo servidor público é Auditor'."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Negação dos Quantificadores Lógicos (Regra do PEA + NÃO)",
+          category: "Esquemas & Tabelas",
+          leadText: "Para negar um quantificador universal ('Todo'), basta encontrar UM contraexemplo (quantificador existencial).",
+          bodyText: "Regras de Ouro de Negação:\n1) Negação de 'TODO A é B' -> 'ALGUM A NÃO é B' (ou 'Pelo menos um A não é B' / 'Existe A que não é B').\n2) Negação de 'NENHUM A é B' -> 'ALGUM A é B' (ou 'Pelo menos um A é B').\n3) Negação de 'ALGUM A é B' -> 'NENHUM A é B' (ou 'Todo A não é B').\n4) Negação de 'ALGUM A NÃO é B' -> 'TODO A é B'.",
+          mnemonics: [
+            { code: "NEGAÇÃO DO 'TODO' = PEA + NÃO", meaning: "Pelo menos um / Existe / Algum + NÃO (ex: Algum A não é B)." },
+            { code: "NUNCA NEGUE 'TODO' COM 'NENHUM'", meaning: "Dizer 'Nenhum' é extremo demais; basta 1 exceção para derrubar o 'Todo'." },
+            { code: "NEGAÇÃO DO 'NENHUM' = PEA", meaning: "Basta 1 elemento existir: Algum A é B." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas Clássicas com Diagramas",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A banca tenta induzir o candidato a assumir conclusões que não são necessariamente verdadeiras a partir dos diagramas.",
+          bodyText: "Para verificar a validade de um silogismo, desenhe os diagramas de Venn testando o 'pior cenário' (se houver um único caso em que a conclusão falhe, o argumento é INVÁLIDO).",
+          practicalCases: [
+            {
+              title: "Pegadinha Clássica: 'Todo A é B' e 'Algum B é C'",
+              scenario: "Premissas: Todo auditor é inteligente. Alguns inteligentes gostam de xadrez. Conclusão: Alguns auditores gostam de xadrez.",
+              tip: "INVÁLIDO! O subconjunto dos auditores pode estar na parte dos 'inteligentes' que NÃO jogam xadrez. Sem interseção garantida, a conclusão não é necessária."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Silogismo Categórico e Regras de Validade",
+          category: "Lei Seca & Súmulas",
+          leadText: "Um argumento é dedutivamente válido quando é impossível que suas premissas sejam verdadeiras e sua conclusão falsa.",
+          bodyText: "• Validade formal depende unicamente da estrutura lógica, e não da verdade factual das premissas.\n• Se 'Todo marciano tem asas' (V no universo do argumento) e 'João é marciano' (V), então 'João tem asas' é uma conclusão formalmente válida.",
+          lawArticles: [
+            { article: "Regra do Silogismo 1", text: "De duas premissas particulares nada se conclui validamente." },
+            { article: "Regra do Silogismo 2", text: "De duas premissas negativas nada se conclui validamente." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva o item inédito sobre quantificadores no padrão FGV.",
+          bodyText: "Identifique a negação lógica da sentença universal apresentada.",
+          question: {
+            id: 2013,
+            question: "A negação lógica da proposição 'Todos os relatórios fiscais foram auditados e aprovados pela comissão' é:",
+            options: {
+              A: "Nenhum relatório fiscal foi auditado e aprovado pela comissão.",
+              B: "Pelo menos um relatório fiscal não foi auditado ou não foi aprovado pela comissão.",
+              C: "Todos os relatórios fiscais foram reprovados pela comissão.",
+              D: "Algum relatório fiscal foi auditado e aprovado pela comissão.",
+              E: "Nenhum relatório fiscal foi auditado pela comissão."
+            },
+            answer: "B",
+            explanation: "Para negar 'Todo X é (A e B)', aplicamos a regra do PEA ('Pelo menos um X...') combinada com a Lei de De Morgan para negar a conjunção ('NÃO foi auditado OU NÃO foi aprovado'). Alternativa B perfeita."
+          }
+        }
+      ]
+    },
+    {
+      moduleNumber: 4,
+      totalModules: 6,
+      title: "Análise Combinatória: Princípio Fundamental, Arranjos & Combinações",
+      bancaTrend: "FGV / Cesgranrio: Distinção entre Arranjo (ordem importa) e Combinação (ordem não importa), anagramas com repetição e comissões.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Princípio Fundamental da Contagem (PFC) e Fatorial",
+          category: "Doutrina & Teoria",
+          leadText: "O Princípio Multiplicativo estabelece que se uma decisão pode ser tomada de 'm' maneiras e outra de 'n' maneiras, o total de possibilidades sucessivas é m × n.",
+          bodyText: "• Princípio Aditivo (OU): Quando os eventos são mutuamente exclusivos, somamos as possibilidades (m + n).\n• Princípio Multiplicativo (E): Quando as etapas são sucessivas e independentes, multiplicamos as possibilidades (m × n).\n• Fatorial de n (n!): Produto de todos os números naturais de n até 1. Convenção: 0! = 1 e 1! = 1.",
+          deepDiveText: "Exemplo clássico: Placas de veículos com 3 letras e 4 dígitos (padrão antigo): 26 × 26 × 26 × 10 × 10 × 10 × 10 = 175.760.000 placas possíveis."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "A Grande Dúvida: Arranjo vs Combinação",
+          category: "Esquemas & Tabelas",
+          leadText: "Faça o teste mental: 'Se eu mudar a ordem dos elementos escolhidos, o grupo muda?'. Se SIM = Arranjo/Permutação; se NÃO = Combinação.",
+          bodyText: "Fórmulas Essenciais:\n• Permutação Simples: P(n) = n!\n• Permutação com Repetição: P_n^(a,b) = n! / (a! × b!)\n• Arranjo Simples: A(n, p) = n! / (n - p)!\n• Combinação Simples: C(n, p) = n! / [p! × (n - p)!]",
+          tableData: {
+            headers: ["Tipo", "A Ordem Importa?", "Exemplo Típico de Prova", "Fórmula"],
+            rows: [
+              ["Permutação", "Sim (usa todos os elementos)", "Anagramas de palavras, filas, senhas", "P_n = n!"],
+              ["Arranjo", "Sim (usa parte dos elementos)", "Pódio (1º, 2º e 3º lugares), Presidente/Vice", "A(n,p) = n! / (n-p)!"],
+              ["Combinação", "Não (grupo/comissão idêntica)", "Comissão de 3 auditores, sorteio de duplas", "C(n,p) = n! / [p!(n-p)!]"]
+            ]
+          },
+          mnemonics: [
+            { code: "A ORDEM IMPORTA? -> HÃN? (ARRANJO)", meaning: "Se a ordem altera o resultado (ex: senha '123' ≠ '321'), usa Arranjo." },
+            { code: "A ORDEM NÃO IMPORTA? -> NÃO! (COMBINAÇÃO)", meaning: "Se escolher João e Maria é o mesmo que Maria e João, divide pela ordem (Combinação)." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Técnicas de Blocos e Anagramas",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "Técnica do Bloco / Elementos Juntos: Trate os elementos que devem ficar juntos como se fossem UM ÚNICO elemento.",
+          bodyText: "Depois de permutar o conjunto com o bloco, lembre-se de multiplicar pela permutação interna dos elementos dentro do próprio bloco.",
+          practicalCases: [
+            {
+              title: "Técnica do Bloco FGV",
+              scenario: "De quantas maneiras 5 auditores podem se sentar em uma mesa, sabendo que os auditores A e B devem ficar sempre juntos?",
+              tip: "Junte (A,B) em 1 super-elemento. Temos agora 4 elementos: (AB), C, D, E -> 4! = 24. Dentro do bloco, A e B permutam entre si (2! = 2). Total: 24 × 2 = 48 maneiras."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Combinações com Restrições (Comissões e Grupos)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Questões com exigência de 'pelo menos um' são resolvidas mais rapidamente pelo Método do Complementar (Total - Indesejados).",
+          bodyText: "Total com Restrição 'Pelo Menos 1' = Total Geral de Combinações SEM restrição MINUS Combinações com ZERO elementos daquele tipo.",
+          lawArticles: [
+            { article: "Princípio das Gavetas de Dirichlet", text: "Se n itens são colocados em m gavetas e n > m, pelo menos uma gaveta conterá mais de um item." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Aplique o cálculo combinatório na questão inédita abaixo.",
+          bodyText: "Resolva o problema de formação de comissões com restrições.",
+          question: {
+            id: 2014,
+            question: "Um grupo de trabalho na Receita Federal é composto por 6 Auditores e 4 Analistas. Deseja-se formar uma comissão de auditoria composta por 3 servidores, sendo OBRIGATORIAMENTE 2 Auditores e 1 Analista. O número de maneiras distintas de compor essa comissão é:",
+            options: {
+              A: "60",
+              B: "120",
+              C: "30",
+              D: "24",
+              E: "72"
+            },
+            answer: "A",
+            explanation: "Para os Auditores: C(6, 2) = (6 × 5) / (2 × 1) = 15. Para os Analistas: C(4, 1) = 4. Pelo Princípio Fundamental da Contagem: 15 × 4 = 60 maneiras distintas. Alternativa A correta."
+          }
+        }
+      ]
+    },
+    {
+      moduleNumber: 5,
+      totalModules: 6,
+      title: "Probabilidade: Eventos Dependentes, Independentes & Condicional",
+      bancaTrend: "FGV / Cesgranrio: Probabilidade da união P(A U B), probabilidade condicional P(A|B) e teorema do produto.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Conceito Clássico de Probabilidade e Espaço Amostral",
+          category: "Doutrina & Teoria",
+          leadText: "Probabilidade de Laplace: P(E) = n(E) / n(S) (Número de Casos Favoráveis dividido pelo Número de Casos Possíveis).",
+          bodyText: "• Espaço Amostral (S): Conjunto de todos os resultados possíveis de um experimento aleatório.\n• Evento (E): Qualquer subconjunto do espaço amostral.\n• Propriedades Fundamentais: 0 ≤ P(E) ≤ 1; P(∅) = 0 (Evento Impossível); P(S) = 1 (Evento Certo).\n• Evento Complementar: P(~E) = 1 - P(E).",
+          deepDiveText: "Dica de ouro FGV: Sempre que o enunciado perguntar 'a probabilidade de pelo menos um...', calcule 1 menos a probabilidade de NENHUM: P(pelo menos 1) = 1 - P(nenhum)."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "União e Interseção de Eventos (Regra da Adição e Multiplicação)",
+          category: "Esquemas & Tabelas",
+          leadText: "A probabilidade da união de dois eventos desconta a interseção para não contar elementos em duplicidade.",
+          bodyText: "• Regra da Adição (OU): P(A ∪ B) = P(A) + P(B) - P(A ∩ B).\n• Se os eventos forem Mutuamente Exclusivos (disjuntos): P(A ∩ B) = 0 => P(A ∪ B) = P(A) + P(B).\n• Regra da Multiplicação (E): P(A ∩ B) = P(A) × P(B|A).\n• Se os eventos forem Independentes: P(A ∩ B) = P(A) × P(B).",
+          mnemonics: [
+            { code: "PROBABILIDADE DA UNIÃO (OU)", meaning: "Soma as partes e subtrai a interseção: P(A) + P(B) - P(A e B)." },
+            { code: "EVENTOS INDEPENDENTES (E)", meaning: "Multiplica as probabilidades diretas: P(A) × P(B)." },
+            { code: "SEM REPOSIÇÃO", meaning: "O espaço amostral diminui a cada retirada (eventos dependentes)." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Probabilidade Condicional P(A|B) e Teorema de Bayes",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "Probabilidade Condicional é a probabilidade do evento A ocorrer sabendo previamente que o evento B já ocorreu.",
+          bodyText: "Fórmula: P(A|B) = P(A ∩ B) / P(B), onde P(B) > 0. O espaço amostral fica reduzido exclusivamente ao conjunto B.",
+          practicalCases: [
+            {
+              title: "Caso Prático FGV: Redução do Espaço Amostral",
+              scenario: "Dois dados não viciados são lançados. Sabendo que a soma das faces foi ímpar, qual a probabilidade de ter saído o número 2 em pelo menos um dado?",
+              tip: "Não use 36 como denominador! O evento condicionado ('soma ímpar') possui exatamente 18 casos possíveis. Desses 18, conte quantos possuem a face 2."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Amostragem com e sem Reposição",
+          category: "Lei Seca & Súmulas",
+          leadText: "Em retiradas sucessivas, verifique sempre se há reposição dos itens na urna.",
+          bodyText: "• COM Reposição: As probabilidades mantêm-se constantes a cada tentativa (eventos independentes).\n• SEM Reposição: Tanto o numerador quanto o denominador são decrementados a cada retirada.",
+          lawArticles: [
+            { article: "Lei dos Grandes Números", text: "À medida que o número de repetições de um experimento cresce, a frequência relativa aproxima-se da probabilidade teórica." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva o desafio de probabilidade clássico da banca examinadora.",
+          bodyText: "Aplique a regra do evento complementar no problema abaixo.",
+          question: {
+            id: 2015,
+            question: "Em uma gaveta há 5 processos fiscais da Área Tributária e 3 da Área Aduaneira. Dois processos são retirados sucessivamente e sem reposição. A probabilidade de que pelo menos um dos processos retirados seja da Área Aduaneira é:",
+            options: {
+              A: "9/14",
+              B: "5/14",
+              C: "15/56",
+              D: "1/2",
+              E: "3/8"
+            },
+            answer: "A",
+            explanation: "Total de processos = 8. Evento complementar (Nenhum aduaneiro = ambos tributários): P(T1 e T2) = (5/8) × (4/7) = 20/56 = 5/14. Portanto, P(pelo menos um aduaneiro) = 1 - 5/14 = 9/14. Alternativa A correta."
+          }
+        }
+      ]
+    },
+    {
+      moduleNumber: 6,
+      totalModules: 6,
+      title: "Estatística Descritiva: Medidas de Tendência Central & Dispersão",
+      bancaTrend: "FGV / Cesgranrio: Média Aritmética, Mediana (resistente a outliers), Moda, Variância e Desvio-Padrão.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Medidas de Posição / Tendência Central (Média, Mediana e Moda)",
+          category: "Doutrina & Teoria",
+          leadText: "As medidas de tendência central resumem o centro da distribuição de um conjunto de dados numéricos.",
+          bodyText: "• Média Aritmética Simples (x̄): Soma de todos os valores dividida pelo número total de observações (sensível a valores extremos/outliers).\n• Mediana (Md): Valor que ocupa a posição central do rol (dados ordenados em ordem crescente). Se o número de termos for par, é a média dos dois termos centrais. Vantagem: é RESISTENTE a valores discrepantes.\n• Moda (Mo): Valor que ocorre com maior frequência na amostra (pode ser amodal, unimodal, bimodal ou multimodal).",
+          deepDiveText: "Relação de Assimetria de Pearson:\n• Distribuição Simétrica: Média = Mediana = Moda\n• Assimetria Positiva (à direita): Moda < Mediana < Média\n• Assimetria Negativa (à esquerda): Média < Mediana < Moda"
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Medidas de Dispersão / Variabilidade (Variância e Desvio-Padrão)",
+          category: "Esquemas & Tabelas",
+          leadText: "Duas amostras com a mesma média podem ter comportamentos completamente distintos em termos de variabilidade.",
+          bodyText: "• Amplitude Total (AT): Diferença entre o maior e o menor valor (Xmax - Xmin).\n• Variância Populacional (σ²): Média dos quadrados dos desvios em relação à média: σ² = Σ(xi - x̄)² / N.\n• Variância Amostral (s²): Usa N - 1 no denominador (graus de liberdade): s² = Σ(xi - x̄)² / (n - 1).\n• Desvio-Padrão (σ ou s): Raiz quadrada positiva da variância (possui a mesma unidade de medida dos dados originais).\n• Coeficiente de Variação (CV): Medida relativa de dispersão: CV = (Desvio-Padrão / Média) × 100%.",
+          mnemonics: [
+            { code: "MEDIANA = CENTRO DO ROL", meaning: "Ordene sempre a lista do menor para o maior antes de calcular." },
+            { code: "DESVIO-PADRÃO = RAIZ DA VARIÂNCIA", meaning: "Desvio-Padrão tem a unidade real; variância tem a unidade ao quadrado." },
+            { code: "PROPRIEDADES DA VARIÂNCIA", meaning: "Somar constante não altera a variância; multiplicar por 'k' multiplica a variância por k²." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Propriedades da Média e Variância em Transformações Lineares",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A FGV adora questões que alteram todos os valores da amostra (ex: somar 5 ou dobrar todos os salários).",
+          bodyText: "Se Y = aX + b:\n1) Nova Média: E(Y) = a × E(X) + b (A média sofre a soma e a multiplicação).\n2) Nova Variância: Var(Y) = a² × Var(X) (A variância IGNORA a soma 'b' e multiplica pelo QUADRADO de 'a').\n3) Novo Desvio-Padrão: DP(Y) = |a| × DP(X) (O desvio-padrão ignora a soma 'b' e multiplica pelo módulo de 'a').",
+          practicalCases: [
+            {
+              title: "Pegadinha de Ouro FGV",
+              scenario: "Um conjunto de dados possui média 10 e desvio-padrão 2. Se somarmos 5 a todos os elementos, qual será a nova média e o novo desvio-padrão?",
+              tip: "A nova média será 10 + 5 = 15. O novo desvio-padrão CONTINUA SENDO 2 (somar uma constante desloca todos os pontos juntos, sem alterar a dispersão entre eles)!"
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Quartis, Percentis e Boxplot",
+          category: "Lei Seca & Súmulas",
+          leadText: "Medidas separatrizes dividem a distribuição ordenada em partes percentuais iguais.",
+          bodyText: "• 1º Quartil (Q1): 25% dos dados abaixo dele.\n• 2º Quartil (Q2): 50% dos dados (coincide exatamente com a Mediana).\n• 3º Quartil (Q3): 75% dos dados abaixo dele.\n• Intervalo Interquartil (IQR): Q3 - Q1 (utilizado em gráficos Boxplot para identificar outliers além de 1,5 × IQR).",
+          lawArticles: [
+            { article: "Definição de Outlier Estatístico", text: "Valores menores que Q1 - 1,5 × IQR ou maiores que Q3 + 1,5 × IQR são considerados pontos discrepantes." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva o item de estatística descritiva no modelo oficial da banca.",
+          bodyText: "Calcule a mediana e a média da sequência fornecida.",
+          question: {
+            id: 2016,
+            question: "Considere os seguintes tempos (em minutos) registrados para análise de 6 processos: [12, 18, 14, 25, 15, 30]. A mediana e a média desse conjunto são, respectivamente:",
+            options: {
+              A: "16,5 e 19,0",
+              B: "14,5 e 18,0",
+              C: "15,0 e 19,0",
+              D: "16,5 e 20,0",
+              E: "18,0 e 19,0"
+            },
+            answer: "A",
+            explanation: "1) Ordenando o rol: [12, 14, 15, 18, 25, 30]. Como n = 6 (par), os dois termos centrais são 15 e 18. Mediana = (15 + 18) / 2 = 16,5. 2) Média: (12 + 14 + 15 + 18 + 25 + 30) / 6 = 114 / 6 = 19,0. Alternativa A correta."
+          }
+        }
+      ]
+    }
+  ]
+};
+
+// Helper universal para obter todos os módulos de uma disciplina
+export function getModulesForSubject(subjectName: string): DisciplineModule[] {
+  // 1. Match direto
+  if (DISCIPLINE_MODULES_DB[subjectName]) {
+    return DISCIPLINE_MODULES_DB[subjectName];
+  }
+
+  // 2. Match parcial
+  const normalized = subjectName.toLowerCase();
+  for (const [key, modules] of Object.entries(DISCIPLINE_MODULES_DB)) {
+    if (normalized.includes(key.toLowerCase()) || key.toLowerCase().includes(normalized)) {
+      return modules;
+    }
+  }
+
+  // 3. Gerador dinâmico de 5 módulos ricos com 5 páginas cada para qualquer matéria
+  const lesson = getLessonContent(subjectName);
+  const total = 5;
+  const generated: DisciplineModule[] = [];
+
+  const moduleTitles = [
+    `${lesson.topic} • Fundamentos & Regras Primárias`,
+    `Estruturas Dogmáticas & Aplicação Prática em Concursos`,
+    `Tópicos Avançados de ${subjectName} & Jurisprudência da Banca`,
+    `Casos Concretos & Análise de Pegadinhas da Banca`,
+    `Revisão Geral e Questões de Fixação Extrema`
+  ];
+
+  for (let m = 1; m <= total; m++) {
+    generated.push({
+      moduleNumber: m,
+      totalModules: total,
+      title: moduleTitles[m - 1] || `Módulo 0${m}: Estudo Dirigido de ${subjectName}`,
+      bancaTrend: lesson.jurisprudenceNote,
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: `Seção 01 • Doutrina & Fundamentos Teóricos (Módulo ${m})`,
+          category: 'Doutrina & Teoria',
+          leadText: `Compreensão conceitual dos pontos essenciais exigidos no edital para ${subjectName}.`,
+          bodyText: lesson.section1Body + (lesson.deepDiveText ? `\n\n${lesson.deepDiveText}` : ''),
+          deepDiveText: lesson.deepDiveText
+        },
+        {
+          pageNumber: 2,
+          pageTitle: `Seção 02 • Esquemas de Fixação & Mnemônicos (Módulo ${m})`,
+          category: 'Esquemas & Tabelas',
+          leadText: `Memorização rápida dos termos-chave e regras mais cobradas pela banca.`,
+          bodyText: `Utilize as técnicas mnemônicas e a estrutura lógica abaixo para fixação duradoura na memória de longo prazo.`,
+          mnemonics: lesson.mnemonics
+        },
+        {
+          pageNumber: 3,
+          pageTitle: `Seção 03 • Casos Práticos & Pegadinhas Clássicas (Módulo ${m})`,
+          category: 'Casos Práticos & Pegadinhas',
+          leadText: `Como a banca examinadora formula os itens e as armadilhas conceituais frequentes.`,
+          bodyText: `Atenção à troca de termos semelhantes e à inversão de regras gerais por exceções nos enunciados.`,
+          practicalCases: lesson.practicalCases || [
+            {
+              title: `Pegadinha Clássica da Banca em ${subjectName}`,
+              scenario: `A banca costuma inverter o sentido da norma geral apresentando uma exceção como regra absoluta.`,
+              tip: `Fique atento a palavras limitadoras como 'sempre', 'nunca', 'exclusivamente' e 'indelegável'.`
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: `Seção 04 • Artigos de Lei & Jurisprudência (Módulo ${m})`,
+          category: 'Lei Seca & Súmulas',
+          leadText: `Dispositivos legais e súmulas de maior incidência para a disciplina ${subjectName}.`,
+          bodyText: `A literalidade da norma jurídica e o entendimento consolidado dos tribunais superiores.`,
+          lawArticles: lesson.lawArticles || [
+            { article: "Norma Fundamental", text: `Dispositivo legal e princípios reitores aplicáveis à matéria de ${subjectName}.` }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: `Seção 05 • Treino de Fixação & Gabarito Comentado (Módulo ${m})`,
+          category: 'Fixação & Questões',
+          leadText: `Resolva a questão comentada para testar seu domínio do conteúdo deste módulo.`,
+          bodyText: `Analise a assertiva com atenção ao comando da questão.`,
+          question: lesson.question
+        }
+      ]
+    });
+  }
+
+  return generated;
+}
+
+// Helper para obter página específica de um módulo
+export function getModulePage(subjectName: string, moduleNumber: number, pageNumber: number): ModulePage {
+  const modules = getModulesForSubject(subjectName);
+  const targetModule = modules.find(m => m.moduleNumber === moduleNumber) || modules[0];
+  const targetPage = targetModule.pages.find(p => p.pageNumber === pageNumber) || targetModule.pages[0];
+  return targetPage;
+}
 
 // Helper para obter a aula com matching preciso e insensível a acentos/prefixos
 export function getLessonContent(subjectName: string): LessonContent {

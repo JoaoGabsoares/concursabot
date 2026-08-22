@@ -1,0 +1,5426 @@
+                                                    Aula 09
+                          Receita Federal (Analista Tributário)
+                     Passo Estratégico de Raciocínio Lógico
+                                                   Matemático
+
+
+
+                                                         Autor:
+                                         Allan Maux Santana
+
+
+
+
+                                         26 de Fevereiro de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Allan Maux Santana
+      Aula 09
+
+
+
+
+                                                                                     Índice
+1) Análise FGV - RFB - Pós Edital
+..............................................................................................................................................................................................3
+
+2) Medias de Tendência Central (Posição)
+..............................................................................................................................................................................................4
+
+3) Medidas de Dispersão (Variabilidade)
+..............................................................................................................................................................................................
+                                                                                                                                                                                            65
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                          101
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                    ANÁLISE ESTATÍSTICA
+Inicialmente, convém destacar os percentuais de incidência de todos os assuntos previstos em
+nosso curso – quanto maior o percentual de incidência de um determinado assunto, maior será sua
+importância para nosso certame. Nossa análise será executada tendo em vista concursos realizados
+no período de 2018 a 2022.
+Temos um total de 55 questões de RLM distribuídas nos concursos realizados pela FGV, nível
+superior na área fiscal.
+                                                                                                   Grau de
+                                          ASSUNTOS
+                                                                                                  incidência
+
+                  ESTRUTURAS LÓGICAS / DIAGRAMAS LÓGICOS                                          25,45%
+
+                    ANÁLISE COMBINATÓRIA / PROBABILIDADE                                          21,82%
+
+              PORCENTAGEM / OPERACÕES COM NÚMEROS REAIS                                           16,36%
+
+            LÓGICA DE ARGUMENTAÇÃO / RACIOCÍNIO SEQUENCIAL                                        14,55%
+
+    NOÇOES DE GEOMETRIA / TRIGONOMETRIA / GEOMETRIA ANALÍTICA                                      7,27%
+
+        RAZÃO / PROPORÇÃO / REGRA DE TRÊS SIMPLES E COMPOSTA                                       5,45%
+
+      MATRIZES / DETERMINANTES / SISTEMAS DE EQUAÇÕES LINEARES                                     5,45%
+
+                   MODA / MÉDIA / MEDIANA / DESVIO PADRÃO                                          3,64%
+
+                                             TOTAL                                                 100,0%
+
+
+A quantidade de questões para o curso do Passo Estratégico é por volta de 5, desde que envolvam
+todo o conteúdo. No entanto, para o que material fique mais rico em exercícios para vocês, resolvi
+elaborar os PDFs com uma quantidade maior de questões de bancas diversas também.
+
+
+        A PEDIDO DOS ALUNOS, ESTOU COMEÇANDO, AGORA
+        EM 2023, UM NOVO PROJETO DE AULAS EM VÍDEO,
+        SIGAM:
+
+
+
+                                                Prof. Allan Maux
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático              3
+        www.estrategiaconcursos.com.br                                                                      101
+
+                                    https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 09
+
+
+
+
+                                             MEDIDAS DE POSIÇÃO /
+                                                        SEPARATRIZES
+Sumário
+
+Medidas de Posição / ....................................................................................................................... 1
+
+Separatrizes ...................................................................................................................................... 1
+
+   O que é mais cobrado dentro do assunto .................................................................................... 3
+
+Roteiro de revisão e pontos do assunto que merecem destaque .................................................... 3
+
+Medidas de Tendência Central ........................................................................................................ 3
+
+   Média Aritmética 𝑿 ....................................................................................................................... 3
+
+   Moda ............................................................................................................................................. 6
+
+   Mediana ...................................................................................................................................... 11
+
+Questões estratégicas .................................................................................................................... 15
+
+   Questões FGV ............................................................................................................................. 15
+
+   Questões CEBRASPE .................................................................................................................. 21
+
+   Questões FCC ............................................................................................................................. 31
+
+Lista de Questões Estratégicas ....................................................................................................... 33
+
+   Questões FGV ............................................................................................................................. 33
+
+   Gabarito - FGV ............................................................................................................................ 35
+
+   Questões CEBRASPE .................................................................................................................. 36
+
+   Gabarito - CEBRASPE ................................................................................................................. 39
+
+   Questões FCC ............................................................................................................................. 39
+
+   Gabarito - FCC ............................................................................................................................ 40
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                                  4
+           www.estrategiaconcursos.com.br                                                                                                         101
+
+                                               https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 09
+
+
+
+Medidas Separatrizes...................................................................................................................... 41
+
+   Quartil ......................................................................................................................................... 41
+
+   Decil ............................................................................................................................................ 46
+
+   Percentil ...................................................................................................................................... 48
+
+Box Plot .......................................................................................................................................... 50
+
+Questões estratégicas .................................................................................................................... 50
+
+Lista de Questões Estratégicas ....................................................................................................... 58
+
+   Gabarito ...................................................................................................................................... 61
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                                   5
+           www.estrategiaconcursos.com.br                                                                                                          101
+
+                                                https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+O que é mais cobrado dentro do assunto
+
+Vamos analisar agora como se comporta a incidência dos sub assuntos da nossa aula de hoje.
+Assim, você será melhor direcionado nos seus estudos, vejam:
+
+                                                                                                   Grau de
+                             MEDIDAS DE POSIÇÃO
+                                                                                                  incidência
+                                     MEDIANA                                                        39,0%
+                                      MÉDIA                                                         36,2%
+                                      MODA                                                          20,6%
+                                   SEPARATRIZES                                                      4,2%
+                                      TOTAL                                                        100,00%
+
+
+
+
+ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE MERECEM
+                                               DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto
+e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a seguir:
+
+
+                       MEDIDAS DE TENDÊNCIA CENTRAL
+Sabemos que essas medidas possuem como objetivo representar da melhor forma possível uma
+determinada população como um todo. A finalidade principal da Estatística é a tomada de
+decisões. Portanto, essas medidas de tendência central precisam ser confiáveis para que sua
+representatividade esteja muito próxima da realidade.
+
+Iremos estudar as três medidas de tendência central a seguir:
+
+                                     Média, Moda e Mediana
+
+Média Aritmética 𝑿
+
+Sabemos que esse conceito é bem simples e as provas não costuma complicar muito nas questões.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                 6
+        www.estrategiaconcursos.com.br                                                                         101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                              !"#$ &"' ($)"*+'
+                            𝑋 = Média Aritmética =
+                                                          ,-$./0&$&+ &+ ($)"*+'
+
+Uma observação importante é no cálculo da Média Aritmética da Dados Agrupados em Classes.
+Vamos pegar o nosso exemplo da aula 00. Vejam:
+
+                                                   FREQUÊNCIA
+                            IDADES                                        PONTO MÉDIO (PM)
+                                                  ABSOLUTA (fi)
+                            0 ⊢10                     12                    5 = (0 + 10)/2
+                           10 ⊢ 20                     5                   15 = (10 + 20)/2
+                           20 ⊢ 30                    13                   25 = (20 + 30)/2
+                           30 ⊢ 40                     5                   35 = (30 + 40)/2
+                           40 ⊢ 50                     6                   45 = (40 + 50)/2
+                           50 ⊢ 60                     9                   55 = (50 + 60)/2
+
+É bem intuitivo a gente usar o Ponto Médio de cada classe como nosso valor de referência para o
+cálculo da Média Aritmética, correto? Logo, nossa Média Aritmética será dada por:
+
+                                            23∙5 6 5∙25 6 27∙35 6 5∙75 6 8∙95 6 :∙55
+              𝑋 = Média Aritmética =                                                              = 28
+                                                                   5;
+
+ou seja: Média Arimética da Dados Agrupados em Classes é dada por:
+
+                                                      ∑     𝑓! ∙ 𝑃𝑀
+                                                𝑋=
+                                                            𝑛
+
+A galera geralmente não gosta dessa simbologia toda...rsrsrs, muita gente odeia ESTATÍSTICA
+por conta desse excesso de símbolos. Mas, vejam apenas como uma maneira de resumir a fórmula.
+O importante aqui é você saber como faz, ok?
+
+Pessoal, temos algumas Propriedades da Média Aritmética que são importantes para a nossa
+prova, ok?
+
+Se você achar que são muitas propriedades e que não vai conseguir entender todas, então deem
+atenção, primeiramente, a essas duas:
+
+
+                         Propriedades Importantes da
+
+                                     Média Aritmética
+ Ao somar, ou subtrair, uma constante “k”   Ao multiplicar, ou dividir, uma constante
+  a cada elemento do conjunto, a média     “k” a cada elemento do conjunto, a média
+  será aumentada, ou subtraída, de “k”       será multiplicada, ou dividida, por “k”
+ Dá para perceber que as duas propriedades acima poderiam se resumir a apenas uma?
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático           7
+        www.estrategiaconcursos.com.br                                                                   101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+      AO SOMAR, SUBTRAIR, MULTIPLICAR, OU DIVIDIR, uma constante “k” a cada
+                                 elemento...
+
+Vejam um exemplo simples:
+
+A média entre 3 e 5 é 4, ok?
+
+Somando 1 a cada elemento, temos a média entre 4 e 6 que é 5, ok?
+
+Ou seja, somando 1 a cada elemento da média, a nova média passa a ser a anterior (4) + 1 = 5.
+
+O mesmo vale para as demais operações, ok?
+
+CUIDADO: essas propriedades não se aplicam à potenciação e à radiciação.
+
+Uma terceira Propriedade simples de ser constatada é a da Soma dos Desvios.
+
+Ainda sobre o nosso exemplo anterior, sabemos que a Média foi de 4 para os elementos 3 e 5, ok?
+
+Tomando a média como referência, vemos que:
+
+Desvio1 = 3 – 4 = -1
+
+Desvio2 = 5 – 4 = 1
+
+Somando os Desvios, eles se anulam: -1 + 1 = 0
+
+
+
+
+        Desvio em relação à media nada mais é do que a diferença entre cada
+        elemento de um conjunto de valores e sua média aritmética.
+
+                            A soma do Desvios será NULA.
+
+
+Uma quarta Propriedade, obviamente, decorrente do conceito de Média Aritmética, é a seguinte:
+
+A Média entre 3 e 5 é 4, ok?
+
+E se adicionarmos mais um elemento a esse conjunto de valores, o que ocorrerá?
+
+Situação 1: Se o elemento for igual à média (4), nada mudará em relação à Média.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático    8
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                        A Média entre {3, 4 e 5} é 4.
+
+Situação 2: Se o elemento for menor do que a média, então a média diminuirá;
+
+Situação 3: Se o elemento for maior do que a média, então a média aumentará.
+
+
+
+
+Moda
+
+A moda é uma medida de posição e de tendência central. Essa medida mostra o valor que mais
+se repete em um conjunto de observações. Sendo que, um conjunto de observações pode
+apresentar mais de uma ou até nenhuma moda. Logo, podemos ter um conjunto unimodal (uma
+moda), bimodal (duas modas), multimodal (mais de duas modas) e amodal (sem moda).
+
+   ● Moda para Dados Não Agrupados
+
+Quando temos um conjunto de valores não agrupados, a moda é o valor que aparece com maior
+frequência, mas como dito antes, pode haver mais de uma ou até nenhuma moda. Observem os
+exemplos abaixo.
+
+Amodal         Todos os elementos do conjunto apresentam a mesma frequência. Ex: {1, 2, 3,
+               4, 5}
+Unimodal       Um elemento do conjunto apresenta a maior frequência. Ex: {1, 2, 2, 3, 4, 5}
+Bimodal        Dois elementos do conjunto com a mesma frequência de observações.
+
+               Ex: {1, 2, 2, 3, 3, 4, 5}
+Multimoda      Três ou mais elementos do conjunto com a mesma frequência de observações.
+l
+               Ex: {1, 2, 2, 3, 3, 4, 5, 5}
+
+   ● Moda para Dados Agrupados sem intervalo de classe
+
+Quando temos um conjunto de valores agrupados, a moda será o valor que apresentar a maior
+frequência absoluta. Observem a tabela abaixo.
+
+                                                                FREQUÊNCIA
+                                         IDADES
+                                                                ABSOLUTA (fi)
+                                              10                    12
+                                              20                     5
+                                              30                    13
+                                              40                     5
+                                              50                     6
+                                              60                     9
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático    9
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Vejam que nesse exemplo, a moda será 30 anos, pois é o valor que apresenta a maior frequência
+absoluta (13).
+
+   ● Moda para Dados Agrupados em classes
+
+Quando os dados são agrupados em classes de mesma amplitude, a moda será o valor da classe
+que apresenta a maior frequência. Essa classe será chamada de classe modal. Existem alguns
+métodos de se calcular a moda em dados agrupados em classes. Esses métodos são os seguintes:
+
+   a) Moda de Czuber
+
+       A moda é calculada através da seguinte expressão:
+
+                                                              ∆%
+                                            𝑀" = 𝑙!#$ + -           /.ℎ
+                                                            ∆% + ∆&
+
+       Onde:
+
+       ∆% = 𝑑𝑖𝑓𝑒𝑟𝑒𝑛ç𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 = 𝑓'" − 𝑓%#(
+
+       𝑓'" = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙
+
+       𝑓%#( = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙
+
+       ∆& = 𝑑𝑖𝑓𝑒𝑟𝑒𝑛ç𝑎 𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 = 𝑓'" − 𝑓&")(
+
+       𝑓&")( = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙
+
+       ℎ = 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙 = 𝑙)*& − 𝑙!#$
+
+       𝑙!#$ = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙
+
+       𝑙)*& = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑠𝑢𝑝𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙
+
+
+
+
+        Se a classe modal for a primeira ou a última. A 𝑓%#( será zero (se for a primeira) ou
+        𝑓&")( será zero (se for a última).
+
+       Exemplo: Qual a moda das Idades de uma grupo de pessoas?
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   10
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 09
+
+
+
+                                                               FREQUÊNCIA
+                                       IDADES
+                                                               ABSOLUTA (fi)
+                                        0 ⊢10                      12
+                                       10 ⊢ 20                      5
+                                       20 ⊢ 30                     13
+                                       30 ⊢ 40                      5
+                                       40 ⊢ 50                      6
+                                       50 ⊢ 60                      9
+
+     Nesse exemplo, temos que a frequência absoluta da classe modal é 13. Sabendo disso, a
+     primeira coisa a ser feita é calcular as diferenças anteriores e posteriores.
+
+                         ∆% = 𝑑𝑖𝑓𝑒𝑟𝑒𝑛ç𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 = 𝑓'" − 𝑓%#( = 13 − 5 = 8
+
+                        ∆& = 𝑑𝑖𝑓𝑒𝑟𝑒𝑛ç𝑎 𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 = 𝑓'" − 𝑓&")( = 13 − 5 = 8
+
+     Além disso, temos que os limites e amplitude são os seguintes:
+
+                                                   𝑙!#$ = 20
+
+                                                   𝑙)*& = 30
+
+                                      ℎ = 𝑙)*& − 𝑙!#$ = 30 − 20 = 10
+
+     Aplicando a fórmula de Czuber:
+
+                           ∆%                   8               8
+            𝑀" = 𝑙!#$ + -        / . ℎ = 20 + I   J . 10 = 20 + . 10 = 20 + 5 = 25
+                         ∆% + ∆&               8+8             16
+
+
+
+
+ b) Moda de King
+
+     A moda é calculada da seguinte forma:
+
+                                                        𝑓&")(
+                                        𝑀" = 𝑙!#$ + -             /.ℎ
+                                                     𝑓%#( + 𝑓&")(
+
+     Vejam que o cálculo da moda de King é semelhante ao da moda de Czuber. Sendo que, ao
+     invés de se utilizar as diferenças anterior e posterior, utilizamos as frequências.
+
+     Exemplo: Qual a moda das Idades de um grupo de pessoas?
+
+                                                               FREQUÊNCIA
+                                       IDADES
+                                                               ABSOLUTA (fi)
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   11
+      www.estrategiaconcursos.com.br                                                            101
+
+                                  https://t.me/KakashiAssinaturasBot
+Allan Maux Santana
+Aula 09
+
+
+
+                                        0 ⊢10                       12
+                                       10 ⊢ 20                       5
+                                       20 ⊢ 30                      13
+                                       30 ⊢ 40                       5
+                                       40 ⊢ 50                       6
+                                       50 ⊢ 60                       9
+
+     Nesse exemplo, temos que a frequência absoluta da classe modal é 13. Temos as seguintes
+     informações:
+
+     𝑓%#( = 5
+
+     𝑓&")( = 5
+
+     𝑙!#$ = 20
+
+     ℎ = 𝑙)*& − 𝑙!#$ = 30 − 20 = 10
+
+     Aplicando a fórmula de King, teremos o seguinte:
+
+                                    𝑓&")(                    5               5
+                 𝑀" = 𝑙!#$ + -                / . ℎ = 20 + I    J . 10 = 20 + . 10 = 25
+                                 𝑓%#( + 𝑓&")(               5+5              10
+
+     Coincidentemente, como as frequências anterior e posterior foram iguais, os valores da
+     moda de King foi igual a moda de Czuber. Mas isso nem sempre ocorre.
+
+
+
+
+      Se a classe modal for a primeira ou a última. A 𝑓%#( será zero (se for a primeira) ou
+      𝑓&")( será zero (se for a última).
+
+
+
+
+ c) Moda de Pearson (pouco explorado em prova)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   12
+      www.estrategiaconcursos.com.br                                                            101
+
+                                   https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+       A moda é calculada através de uma relação empírica. Para isso, temos que conhecer o valor
+       da média L𝑋M e da mediana (𝑀+ ). A expressão dessa relação é dada por:
+
+                                               𝑀" = 3 . 𝑀+ − 2 . 𝑋
+
+
+
+
+        A fórmula de Pearson só poderá ser utilizada quando a questão expressamente
+        pedir a moda de Pearson.
+
+   d) Moda bruta (raro em prova)
+
+       A moda é obtida através do ponto médio da classe modal, isto é, a média entre limite
+       inferior (linf) e o limite superior (lsup) da classe modal.
+
+                                                        𝑙!#$ + 𝑙)*&
+                                                 𝑀" =
+                                                             2
+
+Pessoal, assim como a Média Aritmética, também temos duas importantes Propriedades para
+Moda.
+
+
+                         Propriedades Importantes da
+
+                                                Moda
+  Ao somar, ou subtrair, uma constante “k”  Ao multiplicar, ou dividir, uma constante
+ a cada elemento do conjunto, a moda será “k” a cada elemento do conjunto, a moda
+      aumentada, ou subtraída, de “k”        será multiplicada, ou dividida, por “k”
+ Dá para perceber que as duas propriedades acima poderiam se resumir a apenas uma?
+
+      AO SOMAR, SUBTRAIR, MULTIPLICAR, OU DIVIDIR, uma constante “k” a cada
+                                 elemento...
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   13
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Mediana
+
+A Mediana é a medida de posição que se encontra no centro de um conjunto de observações.
+Sendo que, os valores do conjunto devem estar ordenados.
+
+    ● Mediana para Dados em Rol
+
+Considere os seguintes dados bruto:
+
+1, 2, 9,12, 5, 2, 6, 3, 5, 9, 4
+
+A primeira coisa a ser feita é organizar esses dados em um Rol.
+
+{1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12 }
+
+Nesse caso, temos um número ímpar. E a mediana será exatamente o valor central (5). Mas nem
+sempre é fácil encontrar esse valor. Logo, podemos encontrar valor central da seguinte forma:
+
+                                          𝑛+1
+                                              (𝑝𝑜𝑠𝑖çã𝑜 𝑑𝑎 𝑚𝑒𝑑𝑖𝑎𝑛𝑎)
+                                           2
+
+No nosso conjunto de dados temos 11 elementos.
+
+                                            11 + 1 12
+                                                  =   = 6° 𝑝𝑜𝑠𝑖çã𝑜
+                                              2     2
+
+Se tivermos um número par de elementos, a mediana será a média dos dois valores centrais.
+
+{10, 20, 30, 40, 50, 60}
+
+Nesse caso, fazendo a média dos elementos centrais temos que a mediana é 35. Sendo que,
+também podemos utilizar uma expressão para encontrar os elementos centrais.
+
+                              #
+Primeira posição central: ,
+
+                               #
+Segunda posição central: , + 1
+
+No nosso exemplo, temos o seguinte:
+
+                                                𝑛 6
+                                                 = = 3° 𝑝𝑜𝑠𝑖çã𝑜
+                                                2 2
+                                           𝑛      6
+                                             + 1 = + 1 = 4° 𝑝𝑜𝑠𝑖çã𝑜
+                                           2      2
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   14
+         www.estrategiaconcursos.com.br                                                            101
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Fazendo a média dessas duas posições encontramos o valor da mediana:
+
+                                                  30 + 40 70
+                                           𝑀+ =          =   = 35
+                                                     2     2
+
+   ● Mediana para Dados agrupados por valor
+
+Para encontrar a mediana temos que utilizar a frequência acumulada.
+
+                                                   FREQUÊNCIA                FREQUÊNCIA
+                            IDADES
+                                                  ABSOLUTA (fi)            ACUMULADA (fac)
+                              10                      12                         12
+                              20                       5                         17
+                              30                      13                         30
+                              40                       5                         35
+                              50                       6                         41
+                              60                       9                         50
+                            TOTAL                     50
+
+Para encontrar a posição da mediana, basta utilizar a seguinte expressão:
+
+                                                         𝑛
+                                                         2
+
+Também precisamos nos preocupar com número par ou ímpar de elementos. Aqui o “n” é 50 (par).
+Logo,
+
+                                             𝑛 50
+                                               =   = 25° 𝑝𝑜𝑠𝑖çã𝑜
+                                             2   2
+
+                                         𝑛     50
+                                           +1=    + 1 = 26° 𝑝𝑜𝑠𝑖çã𝑜
+                                         2      2
+
+Portanto, observando a coluna das frequência acumuladas, podemos ver que as posições 25 e 26
+correspondem a 30 anos cada. Fazendo a média teremos a mediana igual 30 anos.
+
+                                               30 + 30 60
+                                                      =   = 30
+                                                  2     2
+
+   ● Mediana para Dados Agrupados em Classes
+
+   Para encontrar a mediana também utilizamos a frequência acumulada.
+
+                                                   FREQUÊNCIA                FREQUÊNCIA
+                            IDADES
+                                                  ABSOLUTA (fi)            ACUMULADA (fac)
+                            0 ⊢10                     12                         12
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   15
+        www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                           10 ⊢ 20                       5                         17
+                           20 ⊢ 30                      13                         30
+                           30 ⊢ 40                       5                         35
+                           40 ⊢ 50                       6                         41
+                           50 ⊢ 60                       9                         50
+                            TOTAL                       50
+
+
+
+
+De posse da coluna da frequência acumulada, a primeira coisa a ser feita é encontrar a classe
+mediana. Para isso, não precisamos nos preocupar com elementos par ou ímpar. Basta utilizar a
+seguinte expressão:
+
+                                                         𝑛
+                                                         2
+
+No nosso exemplo, o “n” é igual a 50. Logo, teremos a posição 25 e essa posição fica na classe
+de 20 a 30. Sabendo a classe modal, basta calcular a mediana através da fórmula.
+
+A fórmula da mediana é a seguinte:
+
+                                                        𝑛
+                                                       U2V − 𝑓%-!"#
+                                         𝑀+ = 𝑙!#$ + T              W.ℎ
+                                                            𝑓!
+
+
+Onde:
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+𝑙!#$ = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+𝑓%-!"# = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑐𝑢𝑚𝑢𝑙𝑎𝑑𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 à 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+𝑓! = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑠𝑖𝑚𝑝𝑙𝑒𝑠 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+ℎ = 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑒𝑑𝑖𝑎𝑛𝑎 = 𝑙)*& − 𝑙!#$
+
+
+
+Aplicando a fórmula no exemplo, teremos o seguinte:
+
+                    𝑛                          50
+                   U2V − 𝑓%-!"#               U 2 − 17V                 25 − 17               8
+      𝑀+ = 𝑙!#$ + T             W . ℎ = 20 + T          W . 10 = 20 + I         J . 10 = 20 + . 10
+                        𝑓!                        13                      13                 13
+
+                                            𝑀+ = 20 + 6,15 = 26,15
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático      16
+        www.estrategiaconcursos.com.br                                                               101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Pessoal, assim como a Média Aritmética, também temos duas importantes Propriedades para
+Mediana.
+
+
+                         Propriedades Importantes da
+
+                                             Mediana
+                                            Ao multiplicar, ou dividir, uma constante
+ Ao somar, ou subtrair, uma constante “k”
+                                              “k” a cada elemento do conjunto, a
+ a cada elemento do conjunto, a mediana
+                                             mediana será multiplicada, ou dividida,
+   será aumentada, ou subtraída, de “k”
+                                                             por “k”
+ Dá para perceber que as duas propriedades acima poderiam se resumir a apenas uma?
+
+      AO SOMAR, SUBTRAIR, MULTIPLICAR, OU DIVIDIR, uma constante “k” a cada
+                                 elemento...
+
+
+
+
+        Apenas a Média Aritmética é afetada por valores extremos.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   17
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+Questões FGV
+
+Q.01 (FGV / SEFAZ-ES / 2022)
+
+As notas de nove candidatos num certo exame foram:
+
+
+                                     54, 48, 46, 51, 38, 50, 44, 58, 32.
+
+A mediana dessas notas é igual a
+
+   a) 44.
+   b) 46.
+   c) 48.
+   d) 50.
+   e) 51.
+
+Comentários:
+
+O erro mais frequente cometido pelo candidato, nas questões que envolvem a mediana, é não
+organizar os dados brutos em Rol, ou seja, em ordem crescente ou decrescente. Felizmente, nessa
+questão, o examinador não colocou como opção nas alternativas o 38, senão alguns candidatos
+mais desatenciosos poderiam marcar essa opção, visto que o termo central é o 5º.
+
+                                     32, 38, 44, 46, 48, 50, 51, 54, 58
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   18
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+CONSELHO: Sugiro que o candidato escreva todos os termos e não apenas até o 5º porque
+você pode esquecer de algum deles e perder a questão.
+
+Gabarito: C
+
+Q.02 (FGV / SEFAZ-ES / 2022)
+
+Uma amostra de idades de usuários de determinado serviço forneceu os seguintes dados:
+
+                                   23; 34; 30; 22; 34; 53; 34; 28; 30; 22
+
+A soma dos valores da média, da moda e da mediana desses dados é igual a
+
+   a) 93.
+   b) 94.
+   c) 95.
+   d) 96.
+   e) 97.
+
+Comentários:
+
+Vamos colocá-los em ordem crescente:
+
+                                   22, 22, 23, 28, 30, 30, 34, 34, 34, 53
+
+Para o cálculo da Mediana, precisaremos calcular a média aritmética entre o 5º e o 6º termos, pois
+a quantidade de termos é par, logo não existe um termo central.
+
+                                  22, 22, 23, 28, 30, 30, 34, 34, 34, 53
+
+Mediana: 30
+
+Moda: 34 (o termo mais frequente)
+
+Média: 310/10 = 31
+
+A soma da Mediana, da Moda e da Média: 30 + 34 + 31 = 95
+
+Gabarito: C
+
+Q.03 (FGV / Pref. Salvador - BA /2019)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   19
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Em uma pequena empresa, a média salarial dos 12 funcionários era de R$2400,00. Lúcio Mauro,
+que ganhava R$3000,00, se aposentou e para ocupar sua vaga foi contratado Felipe, com um
+salário de R$1800,00.
+
+Assinale a opção que indica a nova média salarial dos 12 funcionários dessa empresa.
+
+   a) R$2350,00.
+   b) R$2300,00.
+   c) R$2280,00.
+   d) R$2250,00.
+   e) R$2200,00.
+
+Comentários:
+
+Pessoal, a soma de todos os salários é igual a:
+
+                               Soma dos Salários = 12 x 2400,00 =R$ 28800,00
+
+Após a aposentadoria de Lúcio Mauro, que ganhava R$ 3000,00, a soma passou a ser de R$
+28.800,00 – R$ 3.000,00 = R$ 25.800,00.
+
+No entanto, entrou Felipe com um salário de R$ 1.800,00 que será somado aos R$ 25.800,00,
+perfazendo um total de R$ 27.600,00. Logo, a nova média será de:
+
+                                                 27.600,00
+                                            𝑋=             = 𝑅$ 2.300,00
+                                                     12
+
+Gabarito: B
+
+Q.04 (FGV/Analista de Patologia Clínica (FunSaúde CE) /2021)
+
+Em um conjunto de 12 números, a média de 4 deles é 15 e a média dos outros 8 é 18.
+A média dos 12 números é
+
+a) 17.
+
+b) 16,8.
+
+c) 16,5.
+
+d) 16.
+
+e) 15,5.
+
+Comentários:
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   20
+           www.estrategiaconcursos.com.br                                                            101
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Pessoal, a banca quer saber a média do conjunto de 12 números. Para tanto, ela dar a média de 4
+e 8 deles. Podemos resolver essa questão de duas formas.
+
+Primeira forma:
+
+                                                    𝑋. + 𝑋, + ⋯ + 𝑋#
+                                            𝑋]# =
+                                                            𝑛
+
+Encontrar o somatório do conjunto de 4.
+
+𝑋]/ = 15
+
+                                                    𝑋. + 𝑋, + 𝑋0 + 𝑋/
+                                            𝑋]/ =
+                                                            𝑛
+                                                    𝑋. + 𝑋, + 𝑋0 + 𝑋/
+                                            15 =
+                                                            4
+
+
+
+                                           𝑋. + 𝑋, + 𝑋0 + 𝑋/ = 15 . 4
+
+                                            𝑋. + 𝑋, + 𝑋0 + 𝑋/ = 60
+
+Encontrar o somatório do conjunto de 8.
+
+𝑋]1 = 18
+
+                                       𝑋2 + 𝑋3 + 𝑋4 + 𝑋1 +𝑋5 + 𝑋.6 + 𝑋.. + 𝑋.,
+                               𝑋]1 =
+                                                          𝑛
+                                       𝑋2 + 𝑋3 + 𝑋4 + 𝑋1 +𝑋5 + 𝑋.6 + 𝑋.. + 𝑋.,
+                               18 =
+                                                          8
+
+                             𝑋2 + 𝑋3 + 𝑋4 + 𝑋1 +𝑋5 + 𝑋.6 + 𝑋.. + 𝑋., = 18 . 8
+
+                              𝑋2 + 𝑋3 + 𝑋4 + 𝑋1 +𝑋5 + 𝑋.6 + 𝑋.. + 𝑋., = 144
+
+
+
+Por fim, utilizar os dois somatórios para encontras a média do conjunto de 12 números.
+
+
+
+                         (𝑋. + 𝑋, + 𝑋0 + 𝑋/ ) + (𝑋2 + 𝑋3 + 𝑋4 + 𝑋1 +𝑋5 + 𝑋.6 + 𝑋.. + 𝑋., )
+                𝑋]., =
+                                                         𝑛
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   21
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                       60 + 144 204
+                                              𝑋]., =           =
+                                                          12     12
+
+                                                       𝑋]., = 17
+
+Segunda forma: É a que faria na prova.
+
+Utilizaria o conceito de média global.
+
+                                                    ]]]. + 𝑛, ]]]
+                                                 𝑛. 𝑋         𝑋, + ⋯ + 𝑛# ]𝑋]]#]
+                                         𝑋]7 =
+                                                       𝑛. + 𝑛, + ⋯ + 𝑛#
+
+Para nossa questão podemos escrever a equação da seguinte forma:
+
+                                                          𝑛/ ]]]
+                                                             𝑋/ + 𝑛1 ]]]
+                                                                     𝑋1
+                                                 𝑋]., =
+                                                             𝑛/ + 𝑛1
+
+Onde,
+
+𝑛/ = 4 (conjunto de 4 números);
+
+𝑛1 = 8 (conjunto de 4 números);
+
+]]]
+𝑋/ = 15 (média do conjunto de 4 números);
+
+]]]
+𝑋1 = 18 (média do conjunto de 8 números);
+
+                                             4 . 15 + 8 . 18 60 + 144 204
+                                    𝑋]., =                  =        =
+                                                  4+8           12     12
+
+                                                       𝑋]., = 17
+
+Gabarito: A
+
+Q.05 (FGV/Auxiliar Técnico Administrativo (IMBEL)/Almoxarife/2021)
+
+A lista a seguir representa a quantidade de itens de certo produto vendidos por uma loja nos
+6 dias de certa semana, organizados em ordem crescente:
+
+N, 14, 15, 17, 20, 2N.
+
+Sabe-se que a média desses números é 1 unidade maior que a mediana deles.
+
+O número N é elemento do conjunto
+
+a) {1, 2, 3}.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   22
+         www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+b) {4, 5, 6}.
+
+c) {7, 8, 9}.
+
+d) {10, 11}.
+
+e) {12, 13}.
+
+Comentários:
+
+Essa questão traz a lista quantidade de itens de certo produto vendidos em 6 dias. Além disso, diz
+que a lista está em ondem crescente.
+
+                                              N, 14, 15, 17, 20, 2N
+
+Na questão também foi informado que a média é uma unidade maior que a mediana.
+
+                                                      𝑋] = 𝑀+ + 1
+
+Vejam que temos um ROL com um número par de elementos. Logo, temos que encontrar os dois
+números centrais e fazer a média deles para descobrir a 𝑀+ .
+
+                                              N, 14, 15, 17, 20, 2N
+
+                                                      15 + 17 32
+                                            𝑀+ =             =   = 16
+                                                         2     2
+
+Agora basta encontrar a média.
+
+                                                 𝑋] = 16 + 1 = 17
+
+De posse da média podemos encontrar o valor do “N” através do somatório da fórmula da média.
+
+                                                      𝑋. + 𝑋, + ⋯ + 𝑋#
+                                              𝑋]# =
+                                                              𝑛
+                                              𝑁 + 14 + 15 + 17 + 20 + 2𝑁
+                                       17 =
+                                                           6
+
+                                                 3𝑁 + 66 = 17 . 6
+
+                                                  3𝑁 = 102 − 66
+
+                                                       3𝑁 = 36
+
+                                                        𝑁 = 12
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   23
+         www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+A questão quer saber qual conjunto o “N” pertence. Portanto, resposta alternativa “E” {12, 13}.
+
+Gabarito: E
+
+
+Questões CEBRASPE
+
+Q.01 (CESPE - CEBRASPE / Financiadora de Estudos e Projetos / 2009)
+
+Um levantamento efetuado entre os 100 jovens inscritos em um projeto de inclusão social
+desenvolvido por uma instituição mostra a seguinte distribuição etária.
+
+
+
+
+Com base nessas informações, assinale a opção incorreta.
+
+   a) A mediana da distribuição etária é igual a 17,5 anos.
+   b) A variável X apresentada na tabela de frequências é uma variável discreta.
+   c) A média das idades dos jovens observados no levantamento é igual a 17 anos.
+   d) A moda da distribuição etária é igual a 16 anos.
+   e) Dos jovens inscritos no referido projeto de inclusão social, 30% possuem idades maiores
+      ou iguais a 18 anos.
+
+Comentários:
+
+Alternativa A: Errada
+
+                         A mediana da distribuição etária é igual a 17,5 anos.
+
+Nossa população amostral é de 100 elementos, a mediana é a média da posição 50 e 51.
+
+
+
+
+O elemento 50º é 17 e o 51º é 17 então a mediana é:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   24
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                          !"#!"
+                                                   Md =
+                                                            $
+
+                                                 Md = 17 anos
+
+
+
+
+Alternativa B: Correta
+
+            A variável X apresentada na tabela de frequências é uma variável discreta.
+
+
+
+
+Vamos colocar nossa tabelinha para lembrarmos as diferenças entre as variáveis:
+
+
+
+
+                                                Variáveis
+
+
+
+                             Quantitativas                    Qualitativas
+
+
+                                       Discretas                      Nominais
+
+                                         (conta)                      (s/ ordem)
+                                       Contínuas                         Ordinais
+
+                                         (mede)                       (c/ ordem)
+
+A idade além de ser uma variável quantitativa, também, é discreta.
+
+Alternativa C: Correta
+
+        A média das idades dos jovens observados no levantamento é igual a 17 anos.
+
+                       %& ∙!)#*&∙!"#$&∙!+#!&∙!,
+Média Aritmética =                              = 17
+                                  !&&
+
+Alternativa D: Correta
+
+                            A moda da distribuição etária é igual a 16 anos.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   25
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Observando nossa tabela de frequências absolutas, vemos, facilmente, que a idade 16 anos é a
+nossa moda, visto que é o elemento com a maior frequência.
+
+Alternativa E: Correta
+
+ Dos jovens inscritos no referido projeto de inclusão social, 30% possuem idades maiores ou
+                                       iguais a 18 anos.
+
+Maiores ou iguais a 18 anos são alunos com 18 ou 19 anos, que nesse caso somam (20 + 10) = 30
+anos. Logo, 30 de um total de 100, equivale a 30%.
+
+Gabarito: A
+
+Q.02 (CESPE - CEBRASPE / ABIN / 2010)
+
+Sabendo que X é variável aleatória discreta que pode assumir valores inteiros não negativos,
+julgue o próximo item.
+
+A média de X é não negativa.
+
+C - Certo.
+
+E – Errado.
+
+Comentários:
+
+Não é possível representar quantidade de filhos com números fracionários ou negativos, logo
+temos uma variável quantitativa discreta. Nessa linha, a média de uma variável discreta não pode
+assumir valores negativos.
+
+Gabarito: Certa
+
+Q.03 (CESPE - CEBRASPE / Tribunal de Contas - RJ / 2021)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   26
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Considerando que a tabela precedente mostra a distribuição de frequências de uma variável
+quantitativa X, julgue o item a seguir.
+
+
+
+
+A moda e a mediana da variável X são, respectivamente, iguais a 2 e 1,5
+
+C - Certo.
+
+E - Errado.
+
+Comentários:
+
+Pessoal, de imediato, sabemos que, dentre todas as medidas de tendência central, a mais simples
+de ser calcula é a Moda.
+
+Na nossa questão a Moda (mo) é 2, visto que é o valor com maior frequência (20), logo, até então,
+nosso item está correto.
+
+Vamos agora atrás da Mediana (md).
+
+Um erro bastante frequente no cálculo da Mediana (md) é o de não organizar os dados em ordem
+crescente ou decrescente, mas que não será nosso caso, visto que as informações já estão na tabela
+de frequências.
+
+A quantidade de dados é par (50), logo precisaremos determinar a média aritmética dos valores
+centrais, ou seja: o 25º e 26º termos.
+
+Para o cálculo das posições dos valores centrais, basta dividirmos a quantidade de termos por 2,
+sendo o primeiro termo central (25º), e, em seguida, para determinar o 2º termo, somar 1 (26º).
+
+Portanto, na tabela de frequências, vamos encontrar o 25º e 26º termos.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   27
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Se você não se sente seguro, para fazer a sequencia de forma mental, reescreva os termos até
+chegar no 25º e 26º, o que vale é ganhar o ponto da questão. Mas, se você está de boa com sua
+mente, então, para ser mais rápido, vamos fazer assim:
+
+                                 0 – 05 vezes / 1 – 10 vezes / 2 – 20 vezes
+
+Como as variáveis 0 e 1 já somam 15 termos, e há 20 termos na 2, logo o 25º e 26º termos serão
+o número 2. Logo, sua Md será a Média Aritmética entre eles, Md = 2.
+
+Gabarito: Errado
+
+Q.04 (CESPE - CEBRASPE / SEFAZ - DF / 2020)
+
+A partir de uma amostra aleatória simples de tamanho “n”, sabe-se que a média aritmética de
+uma variável X foi igual a 3. Considerando que os valores possíveis para a variável X sejam -1 e
++4, julgue os itens que se seguem.
+
+A distribuição da variável X é simétrica em torno da sua média amostral.
+
+C - Certo.
+
+E - Errado.
+
+Comentários:
+
+A questão faz parte de uma sequência de 4 assertivas. Por isso, precisamos de informações
+constantes nas questões anteriores.
+
+Considere a seguinte tabela:
+
+                                  Valores de X              Frequência Absoluta
+                                       -1                          0,2n
+                                        4                          0,8n
+                                      Total                         n
+
+Sabemos que uma distribuição será simétrica quando a Média Aritmética, a Moda e a Mediana
+forem iguais, ok?
+
+Mas, Allan, não sabemos o valor de “n”, e agora?
+
+Meus caros, para ficar mais simples a resolução, devemos sugerir um valor qualquer para “n”,
+lógico que faremos isso de forma que a solução fique mais simples, por isso irei considerar n = 10,
+ok?
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   28
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Logo:
+
+                                     Valores de             Frequência
+                                         X                   Absoluta
+                                         -1                      2
+                                          4                      8
+                                       Total                    10
+
+
+
+                                                                 /8/
+                                              ● Mediana = , = 4
+                                                 ● Moda = 4
+                                                            ,∙(;.)81∙/
+                                             ● Média =          .6
+                                                                         =3
+
+Sendo assim, nossa distribuição NÃO é simétrica.
+
+Gabarito: ERRADO
+
+Q.05 (CESPE - CEBRASPE/ SEFAZ-DF / 2020)
+
+A partir de uma amostra aleatória simples de tamanho “n”, sabe-se que a média aritmética de
+uma variável X foi igual a 3. Considerando que os valores possíveis para a variável X sejam -1 e
++4, julgue o item que se segue.
+
+A mediana amostral da variável X foi igual a 2,5.
+
+C - Certo.
+
+E - Errado.
+
+Comentários:
+
+A questão faz parte de uma sequência de 4 assertivas. Por isso, precisamos de informações
+constantes nas questões anteriores.
+
+Considere a seguinte tabela:
+
+                                  Valores de X              Frequência Absoluta
+                                       -1                          0,2n
+                                        4                          0,8n
+                                     Total                          n
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   29
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Meus caros, para ficar mais simples a resolução, devemos sugerir um valor qualquer para “n”,
+lógico que faremos isso de forma que a solução fique mais simples, por isso irei considerar n = 10,
+ok?
+
+Logo:
+
+                                  Valores de X              Frequência Absoluta
+                                       -1                            2
+                                        4                            8
+                                     Total                          10
+
+
+
+                                                                 /8/
+                                              ● Mediana =         ,
+                                                                       =4
+
+Gabarito: ERRADO
+
+Q.06 (CEBRASPE / Tribunal de Justiça do Pará / Analista Judiciário / 2019)
+
+Uma amostra aleatória dos registros de furto no município de Abaetetuba, no ano de 2017,
+apresenta os valores 245, 247, 238, 282 e 261. Uma estimativa não tendenciosa e eficiente para
+a média de furtos ocorridos em Abaetetuba no ano de 2017, considerando os dados
+apresentados na amostra, é
+
+   a) 238,0.
+   b) 254,6.
+   c) 260,0.
+   d) 282,7.
+   e) 308,5.
+
+Comentários:
+
+Uma questão que trata do assunto Média Aritmética, ok?
+
+                                 245 + 247 + 238 + 282 + 261 1273
+                           𝑋=                               =     = 254,6
+                                              5                5
+
+
+
+
+               Pessoal, existe um método prático para efetuarmos uma divisão por 5.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   30
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+        1º: Basta dobrar o número a ser dividido: 1273 x 2 = 2546
+
+        2º: Agora, divida o resultado obtido na multiplicação por 10: 254,6
+
+Gabarito: B
+
+Q.07 (CEBRASPE / IPHAN / Analista / 2018)
+
+Define-se estatística descritiva como a etapa inicial da análise utilizada para descrever e resumir
+dados. Em relação às medidas descritivas, julgue o item a seguir.
+
+A mediana é o valor que ocupa a posição central da série de observações de uma variável,
+dividindo-se o conjunto de valores ordenados em partes assimétricas desiguais.
+
+C - Certo.
+
+E - Errado.
+
+Comentários:
+
+A mediana, conforme vimos em aula, é o valor que ocupa a posição central da série de
+observações de uma variável. Porém a mesma divide o conjunto de valores em partes
+simétricas iguais.
+
+Gabarito: Errado
+
+Q.08 (CEBRASPE / IPHAN / Analista / 2018)
+
+Uma pesquisa a respeito das quantidades de teatros em cada uma de 11 cidades brasileiras
+selecionadas apresentou o seguinte resultado: {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}.
+
+
+Com referência a esses dados, julgue o item seguinte.
+
+A mediana do conjunto é igual a 3.
+
+C - Certo.
+
+E - Errado.
+
+Comentários:
+
+Meus caros, mediana é o valor que separa a metade maior da metade menor de uma amostra,
+uma população ou uma distribuição de probabilidade.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   31
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+A mediana pode ser o valor do meio de um conjunto de dados, caso a quantidade de dados seja
+um valor ímpar. No entanto, se houver um número par de observações, não há um único valor do
+meio. Portanto, a mediana é definida como a média dos dois valores centrais.
+
+Como temos 11 observações em nossa questão, a mediana da amostra estará no 6º termo, sendo
+igual a 3, por representar o termo central.
+
+                                      {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+Gabarito: Certo
+
+Q.09 (CEBRASPE / Prof. Pref São Cristóvão /2019)
+
+A tabela seguinte mostra a distribuição das idades dos 30 alunos da turma A do quinto ano de
+uma escola de ensino fundamental.
+
+                                     Idade (em anos)             9 10 11 12 13 14
+                              Quantidade de estudantes 6 22 0 1 0 1
+
+A partir dessa tabela, julgue o item.
+
+Se, em outra turma B, as frequências das idades fossem respectivamente iguais ao dobro das
+frequências da turma A, então a média aritmética das idades da turma B seria igual ao dobro
+da média da turma A.
+
+C - CERTO
+
+E - ERRADO
+
+Comentários:
+
+Pessoal, a banca forneceu uma tabela como os valores das idades e a quantidade (frequência) de
+um grupo de alunos da turma A e questiona sobre a média aritmética de outra turma, a turma B.
+Para isso, diz que a frequência será o dobro da turma A e que nesse caso a média aritmética de B
+seria o dobro de A.
+
+A tabela apresentada da questão é a seguinte.
+
+                                                X         f      f∙X
+                                                 9       6       54
+                                                10       22      220
+                                                11       0        0
+                                                12       1       12
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   32
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                                13        0         0
+                                                14        1        14
+                                               Tota
+                                                          30      300
+                                                 l
+
+Onde “f” é a quantidade de alunos e “X” é a idade. A primeira coisa a ser feita é calcular a média
+da turma A, para isso temos que construir uma coluna f ∙ X (ver tabela acima) e em seguida fazer o
+somatório. Temos que a média pode ser obtida da seguinte forma:
+
+                                                      ∑        𝑓 ∙ 𝑋!
+                                                 𝑋=
+                                                              𝑛
+                                                        300
+                                                 𝑋= =       = 10
+                                                         30
+
+De posse dessa média, calculamos a média da turma B (com as frequências em dobro) e fazemos
+a comparação para saber se será o dobro como afirma a banca.
+
+                                                X          f      f ∙X
+                                                 9        12      108
+                                                10        44      440
+                                                11        0         0
+                                                12        2        24
+                                                13        0         0
+                                                14        4        28
+                                               Tota                60
+                                                          60
+                                                 l                  0
+
+                                                        600
+                                                 𝑋> =       = 10
+                                                        60
+
+Vejam que as médias são iguais. Nessa questão nem precisaríamos fazer conta alguma, pois se a
+frequência for dobrada em consequência será dobrada a quantidade de alunos e o valor de f ∙ X.
+Desta forma, os valores se anulam e as médias ficam iguais. Portanto, errada a questão.
+
+A banca tentou enganar o candidato com as propriedades da média. Como sabemos a média é
+afetada pelas quatros operações. Se a banca afirmasse que ao invés da frequência fosse dobrada
+as idades, aí sim teríamos a média das idades em dobro. Senão vejamos.
+
+Tabela com as idades em dobro:
+
+                                                X          f      f ∙X
+                                                18        6       108
+                                                20        22      440
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   33
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                                22                    0     0
+                                                24                    1    24
+                                                26                    0     0
+                                                28                    1    28
+                                               Tota                        60
+                                                                     30
+                                                 l                          0
+
+                                                                    600
+                                                  𝑋=                    = 20
+                                                                     30
+
+Gabarito: Errado
+
+
+                                                       ==219a34==
+
+
+
+
+Questões FCC
+
+Q.01 (FCC / TRT – 18ª / Oficial de Justiça / 2023)
+
+Em uma turma de 60 alunos, 10 foram reprovados. Sabendo-se que a média dos alunos
+aprovados foi 8,5 e a média dos alunos reprovados foi de 3,4, a média da turma foi
+
+   a) 8,35
+   b) 7,65
+   c) 7,95
+   d) 6,95
+   e) 7,05
+
+Comentários:
+
+   o Total de Alunos: 60
+   o Reprovados: 10
+   o Aprovados: 50
+
+Para determinarmos a média da turma basta somarmos todas as notas dos aprovados com as dos
+reprovados e dividirmos pelo total de alunos.
+
+Apesar de não termos as notas de cada um, o enunciado nos informou as respectivas médias, logo:
+
+   o Somatório dos Aprovados: 50 x 8,5 = 425
+   o Somatório dos Reprovados: 10 x 3,4 = 34
+
+Logo, a média será dada por:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   34
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                    425 + 34
+                                             𝑋] =            = 7,65
+                                                       60
+
+Gabarito: B
+
+Q.02 (FCC / COPERGÁS / Analista / 2023)
+
+Quatro trabalhadores executam uma tarefa em tempos diferentes. Os tempos gastos para
+realizar essa tarefa foram 1h35min, 1h40min, 1h33min e 1h43min. Um novo trabalhador,
+sabendo do tempo de seus colegas, garante que o tempo médio para realizar essa tarefa será
+de 1h35min com a sua participação. O tempo desse novo trabalhador é
+
+   a) 1h22min.
+   b) 1h34min.
+   c) 1h24min.
+   d) 1h20min.
+   e) 1h30min
+
+Comentários:
+
+Tempo do novo trabalhador: “x”
+
+Vamos transformar todos os intervalos de tempo para minutos, assim ficará mais fácil:
+
+                                            95 + 100 + 93 + 103 + 𝑋
+                                     𝑋] =                           = 95
+                                                       5
+
+                                                391 + X = 95 ∙ 5
+
+                                                  X = 475 – 391
+
+                                  X = 84 minutos que equivale a 1h24min
+
+Gabarito: C
+
+Q.03 (FCC / Procuradoria – PGE-AM / Analista / 2022)
+
+Uma ginasta executa três vezes uma determinada prova. Suas notas, na primeira e segunda
+tentativas foram, respectivamente, metade e dois terços da nota da terceira tentativa. A média
+aritmética das notas das três tentativas foi de 32,5 pontos. A nota da primeira prova foi
+
+   a) 20,5 pontos.
+   b) 30,0 pontos.
+   c) 22,5 pontos.
+   d) 45,0 pontos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   35
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+   e) 20,0 pontos.
+
+Comentários:
+
+A ideia aqui é representar a terceira nota por uma incógnita, ok?
+
+Geralmente a chamamos de “X”. Mas, dessa vez, vamos fazer diferente:
+
+   o 3ª Nota: 6X
+   o 1ª Nota: 1/2 de 6X = 3X
+   o 2ª Nota: 2/3 de 6X = 4X
+
+Ao determinarmos o valor de “6X” para a 3ª nota evitamos frações indesejáveis para efetuarmos
+as nossas contas, beleza?
+
+                                                 6𝑋 + 3𝑋 + 4𝑋
+                                          𝑋] =                = 32,5
+                                                       3
+
+                                                 13 X = 3 ∙ 32,5
+
+                                                   13 X = 97,5
+
+                                                      X = 7,5
+
+A NOTA DA 1ª PRIMEIRA PROVA É DADA POR:
+
+                                                      = 3X =
+
+                                                    = 3 ∙ 7,5 =
+
+                                                     = 22,5 =
+
+Gabarito: C
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+
+
+Questões FGV
+
+Q.01 (FGV / SEFAZ-ES / 2022)
+
+As notas de nove candidatos num certo exame foram:
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   36
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                     54, 48, 46, 51, 38, 50, 44, 58, 32.
+
+A mediana dessas notas é igual a
+
+   a) 44.
+   b) 46.
+   c) 48.
+   d) 50.
+   e) 51.
+
+Q.02 (FGV / SEFAZ-ES / 2022)
+
+Uma amostra de idades de usuários de determinado serviço forneceu os seguintes dados:
+
+                                   23; 34; 30; 22; 34; 53; 34; 28; 30; 22
+
+A soma dos valores da média, da moda e da mediana desses dados é igual a
+
+   a) 93.
+   b) 94.
+   c) 95.
+   d) 96.
+   e) 97.
+
+Q.03 (FGV / Pref. Salvador - BA /2019)
+
+Em uma pequena empresa, a média salarial dos 12 funcionários era de R$2400,00. Lúcio Mauro,
+que ganhava R$3000,00, se aposentou e para ocupar sua vaga foi contratado Felipe, com um
+salário de R$1800,00.
+
+Assinale a opção que indica a nova média salarial dos 12 funcionários dessa empresa.
+
+   a) R$2350,00.
+   b) R$2300,00.
+   c) R$2280,00.
+   d) R$2250,00.
+   e) R$2200,00.
+
+Q.04 (FGV/Analista de Patologia Clínica (FunSaúde CE) /2021)
+
+Em um conjunto de 12 números, a média de 4 deles é 15 e a média dos outros 8 é 18.
+A média dos 12 números é
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   37
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+    a) 17.
+    b) 16,8.
+    c) 16,5.
+    d) 16.
+    e) 15,5.
+
+Q.05 (FGV/Auxiliar Técnico Administrativo (IMBEL)/Almoxarife/2021)
+
+A lista a seguir representa a quantidade de itens de certo produto vendidos por uma loja nos
+6 dias de certa semana, organizados em ordem crescente:
+
+                                             N, 14, 15, 17, 20, 2N.
+
+Sabe-se que a média desses números é 1 unidade maior que a mediana deles.
+
+O número N é elemento do conjunto
+
+a) {1, 2, 3}.
+
+b) {4, 5, 6}.
+
+c) {7, 8, 9}.
+
+d) {10, 11}.
+
+e) {12, 13}.
+
+
+
+
+Gabarito - FGV
+
+
+
+
+                                    1          2          3          4          5
+                                    C          C          A          C          E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   38
+         www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Questões CEBRASPE
+
+Q.01 (CESPE - CEBRASPE / Financiadora de Estudos e Projetos / 2009)
+
+Um levantamento efetuado entre os 100 jovens inscritos em um projeto de inclusão social
+desenvolvido por uma instituição mostra a seguinte distribuição etária.
+
+
+
+
+Com base nessas informações, assinale a opção incorreta.
+
+   a) A mediana da distribuição etária é igual a 17,5 anos.
+   b) A variável X apresentada na tabela de frequências é uma variável discreta.
+   c) A média das idades dos jovens observados no levantamento é igual a 17 anos.
+   d) A moda da distribuição etária é igual a 16 anos.
+   e) Dos jovens inscritos no referido projeto de inclusão social, 30% possuem idades maiores
+      ou iguais a 18 anos.
+
+Q.02 (CESPE - CEBRASPE / ABIN / 2010)
+
+Sabendo que X é variável aleatória discreta que pode assumir valores inteiros não negativos,
+julgue o próximo item.
+
+A média de X é não negativa.
+
+C - Certo.
+
+E – Errado.
+
+Q.03 (CESPE - CEBRASPE / Tribunal de Contas - RJ / 2021)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   39
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Considerando que a tabela precedente mostra a distribuição de frequências de uma variável
+quantitativa X, julgue o item a seguir.
+
+
+
+
+A moda e a mediana da variável X são, respectivamente, iguais a 2 e 1,5
+
+C - Certo.
+
+E - Errado.
+
+Q.04 (CESPE - CEBRASPE / SEFAZ - DF / 2020)
+
+A partir de uma amostra aleatória simples de tamanho “n”, sabe-se que a média aritmética de
+uma variável X foi igual a 3. Considerando que os valores possíveis para a variável X sejam -1 e
++4, julgue os itens que se seguem.
+
+A distribuição da variável X é simétrica em torno da sua média amostral.
+
+C - Certo.
+
+E - Errado.
+
+Q.05 (CESPE - CEBRASPE/ SEFAZ-DF / 2020)
+
+A partir de uma amostra aleatória simples de tamanho “n”, sabe-se que a média aritmética de
+uma variável X foi igual a 3. Considerando que os valores possíveis para a variável X sejam -1 e
++4, julgue o item que se segue.
+
+A mediana amostral da variável X foi igual a 2,5.
+
+C - Certo.
+
+E - Errado.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   40
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Q.06 (CEBRASPE / Tribunal de Justiça do Pará / Analista Judiciário / 2019)
+
+Uma amostra aleatória dos registros de furto no município de Abaetetuba, no ano de 2017,
+apresenta os valores 245, 247, 238, 282 e 261. Uma estimativa não tendenciosa e eficiente para
+a média de furtos ocorridos em Abaetetuba no ano de 2017, considerando os dados
+apresentados na amostra, é
+
+   a) 238,0.
+   b) 254,6.
+   c) 260,0.
+   d) 282,7.
+   e) 308,5.
+
+Q.07 (CEBRASPE / IPHAN / Analista / 2018)
+
+Define-se estatística descritiva como a etapa inicial da análise utilizada para descrever e resumir
+dados. Em relação às medidas descritivas, julgue o item a seguir.
+
+A mediana é o valor que ocupa a posição central da série de observações de uma variável,
+dividindo-se o conjunto de valores ordenados em partes assimétricas desiguais.
+
+C - Certo.
+
+E - Errado.
+
+Q.08 (CEBRASPE / IPHAN / Analista / 2018)
+
+Uma pesquisa a respeito das quantidades de teatros em cada uma de 11 cidades brasileiras
+selecionadas apresentou o seguinte resultado: {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}.
+
+
+Com referência a esses dados, julgue o item seguinte.
+
+A mediana do conjunto é igual a 3.
+
+C - Certo.
+
+E - Errado.
+
+Q.09 (CEBRASPE / Prof. Pref São Cristóvão /2019)
+
+A tabela seguinte mostra a distribuição das idades dos 30 alunos da turma A do quinto ano de
+uma escola de ensino fundamental.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   41
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                       Idade (em anos)           9 10 11 12 13 14
+                              Quantidade de estudantes 6 22 0 1 0 1
+
+A partir dessa tabela, julgue o item.
+
+Se, em outra turma B, as frequências das idades fossem respectivamente iguais ao dobro das
+frequências da turma A, então a média aritmética das idades da turma B seria igual ao dobro
+da média da turma A.
+
+C - CERTO
+
+E - ERRADO
+
+
+
+
+Gabarito - CEBRASPE
+
+
+
+
+             1          2          3          4           5          6         7          8       9
+             E          E          B          E           C          E         B          A       E
+
+
+
+
+Questões FCC
+
+Q.01 (FCC / TRT – 18ª / Oficial de Justiça / 2023)
+
+Em uma turma de 60 alunos, 10 foram reprovados. Sabendo-se que a média dos alunos
+aprovados foi 8,5 e a média dos alunos reprovados foi de 3,4, a média da turma foi
+
+   a) 8,35
+   b) 7,65
+   c) 7,95
+   d) 6,95
+   e) 7,05
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       42
+        www.estrategiaconcursos.com.br                                                                101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Q.02 (FCC / COPERGÁS / Analista / 2023)
+
+Quatro trabalhadores executam uma tarefa em tempos diferentes. Os tempos gastos para
+realizar essa tarefa foram 1h35min, 1h40min, 1h33min e 1h43min. Um novo trabalhador,
+sabendo do tempo de seus colegas, garante que o tempo médio para realizar essa tarefa será
+de 1h35min com a sua participação. O tempo desse novo trabalhador é
+
+   a) 1h22min.
+   b) 1h34min.
+   c) 1h24min.
+   d) 1h20min.
+   e) 1h30min
+
+Q.03 (FCC / Procuradoria – PGE-AM / Analista / 2022)
+
+Uma ginasta executa três vezes uma determinada prova. Suas notas, na primeira e segunda
+tentativas foram, respectivamente, metade e dois terços da nota da terceira tentativa. A média
+aritmética das notas das três tentativas foi de 32,5 pontos. A nota da primeira prova foi
+
+   a) 20,5 pontos.
+   b) 30,0 pontos.
+   c) 22,5 pontos.
+   d) 45,0 pontos.
+   e) 20,0 pontos.
+
+
+Gabarito - FCC
+
+
+
+
+                                              1          2          3
+                                              B          C          C
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   43
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                 MEDIDAS SEPARATRIZES
+Sabemos que as medidas separatrizes servem para dividir o conjunto de dados ordenados
+(crescente ou decrescente) em duas ou mais partes. O nome da medida separatriz é definido de
+acordo com a quantidade de partes em que o conjunto de dados é dividido.
+
+As principais medidas separatrizes as seguintes: mediana, quartis, decis e percentis.
+
+Iremos estudar as três medidas de separatrizes a seguir:
+
+                                     Quartil, Decil e Percentil
+
+A mediana já foi estudada em aula anterior.
+
+
+Quartil
+
+Os quartis dividem os dados em quatro partes de mesma frequência. Desta forma, teremos sempre
+três quartis e cada um deles corresponderá a 25% do conjunto de dados. Observem a figura
+abaixo.
+
+
+
+
+        Observações importantes:
+
+        1) Q1 = primeiro quartil = valor situado de tal forma que uma quarta parte (25%)
+        dos dados é menor que ele e as três quartas partes restantes (75%) são os maiores;
+
+        2) Q2 = segundo quartil = coincide com a mediana e separa os 50% menores dos
+        50% maiores;
+
+        3) Q3 = terceiro quartil = valor situado de tal forma que as três quartas partes (75%)
+        dos dados é menor que ele e uma quarta parte restante (25%) é maior;
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   44
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+         4) Q1 será a mediana dos valores que sobraram à esquerda da mediana (Q2);
+
+         5) Q3 será a mediana dos valores que sobraram à direita da mediana (Q2);
+
+         6) A amplitude interquartílica é dada por: 𝑄0 − 𝑄.
+
+                                                                                            ?$ ;?%
+         7) A amplitude semi-interquartílica ou desvio quartílico é dado por:                 ,
+
+
+Considere o seguinte o conjunto de dados {1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12}. Calcule os quartis?
+
+Primeira forma: calculando primeiro a mediana e depois disso utilizar as observações 4 e 5.
+
+Nesse caso, temos um número ímpar. Logo, podemos encontrar valor central da seguinte forma:
+
+                                          𝑛+1
+                                              (𝑝𝑜𝑠𝑖çã𝑜 𝑑𝑎 𝑚𝑒𝑑𝑖𝑎𝑛𝑎)
+                                           2
+
+No nosso conjunto de dados temos 11 elementos.
+
+                                            11 + 1 12
+                                                  =   = 6° 𝑝𝑜𝑠𝑖çã𝑜
+                                              2     2
+
+{1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12}
+
+Portanto, a mediana é 5 e consequentemente Q2 também será 5.
+
+Utilizando a observação (4) podemos encontrar Q1, achando a mediana dos elementos que
+sobraram à esquerda mediana que encontramos. Nesse caso, temos 5 elementos no conjunto de
+dados.
+
+{1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12}
+
+Temos um número ímpar novamente.
+
+                                             5+1 6
+                                                = = 3° 𝑝𝑜𝑠𝑖çã𝑜
+                                              2  2
+
+{1, 2, 2, 3, 4}
+
+Portanto, Q1 será 2.
+
+Utilizando a observação (5) podemos encontrar Q3, achando a mediana dos elementos que
+sobraram à direita mediana que encontramos. Neste caso, temos 5 elementos no conjunto de
+dados.
+
+{1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12}
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático     45
+         www.estrategiaconcursos.com.br                                                              101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Temos um número ímpar novamente.
+
+                                            5+1 6
+                                               = = 3° 𝑝𝑜𝑠𝑖çã𝑜
+                                             2  2
+
+{5, 6, 9, 9, 12}
+
+Portanto, Q3 será 9.
+
+Desta forma, para Rol em análise temos as seguintes quantis.
+
+
+
+
+Observação: se o número de elementos for par, temos que utilizar as seguintes expressões para
+encontrar a mediana.
+
+                             #
+Primeira posição central: ,
+
+                              #
+Segunda posição central: , + 1
+
+Depois é só fazer a média das duas posições.
+
+Segunda forma: aqui utilizamos a seguinte expressão para calcular a posição dos quatis:
+
+                                                            𝑘
+                                                    𝑃?@ =     .𝑛
+                                                            4
+
+Onde:
+
+k pode assumir o valor 1, 2 ou 3. Vai depender do quartil que se deseja calcular.
+
+n é o número de elementos do conjunto de dados
+
+Pessoal, se o valor da posição não der um valor exato, temos que arredondar para cima.
+
+Considere o seguinte o conjunto de dados {1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12}. Calcule a posição dos
+quantis?
+
+1) Cálculo de 𝑃?.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   46
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                               1
+                                       𝑃?. =     . 11 = 2,75 ≈ 3° 𝑝𝑜𝑠𝑖çã𝑜
+                                               4
+
+
+
+2) Cálculo de 𝑃?,
+
+                                               2
+                                       𝑃?, =     . 11 = 5,5 ≈ 6° 𝑝𝑜𝑠𝑖çã𝑜
+                                               4
+
+2) Cálculo de 𝑃?0
+
+                                               3
+                                       𝑃?0 =     . 11 = 8,25 ≈ 9° 𝑝𝑜𝑠𝑖çã𝑜
+                                               4
+
+Superada essa parte, temos que aprender a calcular os quartis para dados agrupados e agrupados
+em classes. A forma de se calcular é semelhante ao cálculo da mediana (vista em aula anterior).
+
+   ● Quartil para Dados agrupados por valor
+
+Para encontrar os quartis temos que utilizar a frequência acumulada.
+
+                                                   frequência               Frequência
+                            idades
+                                                   Absoluta (fi)          Acumulada (fac)
+                              10                       12                       12
+                              20                        5                       17
+                              30                       13                       30
+                              40                        5                       35
+                              50                        6                       41
+                              60                        9                       50
+                             Total                     50
+
+Para encontrar a posição dos quartis, basta utilizar a seguinte expressão:
+
+                                                            𝑘
+                                                    𝑃?@ =     .𝑛
+                                                            4
+
+Onde:
+
+k pode assumir o valor 1, 2 ou 3. Vai depender do quartil que se deseja calcular.
+
+n é o número de elementos do conjunto de dados.
+
+Para Q2 temos o seguinte:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   47
+        www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                              1
+                                      𝑃?. =     . 50 = 12,5 ≈ 13°𝑝𝑜𝑠𝑖çã𝑜
+                                              4
+
+Portanto, observando a coluna das frequências acumuladas, podemos ver que a posição 13
+corresponde a 20 anos. Logo, Q1 corresponde a 20 anos.
+
+Para Q2 temos o seguinte:
+
+                                                  2
+                                          𝑃?, =     . 50 = 25° 𝑝𝑜𝑠𝑖çã𝑜
+                                                  4
+
+Portanto, observando a coluna das frequências acumuladas, podemos ver que a posição 25
+corresponde a 30 anos. Logo, Q2 corresponde a 30 anos.
+
+Para Q3 temos o seguinte:
+
+                                              3
+                                      𝑃?0 =     . 50 = 37,5 ≈ 38° 𝑝𝑜𝑠𝑖çã𝑜
+                                              4
+
+Portanto, observando a coluna das frequências acumuladas, podemos ver que a posição 38
+corresponde a 50 anos. Logo, Q2 corresponde a 50 anos.
+
+   ● Quartil para Dados Agrupados em Classes
+
+   Para encontrar os quartis também utilizamos a frequência acumulada.
+
+                                                   frequência               Frequência
+                            idades
+                                                   Absoluta (fi)          Acumulada (fac)
+                            0 ⊢10                      12                       12
+                           10 ⊢ 20                      5                       17
+                           20 ⊢ 30                     13                       30
+                           30 ⊢ 40                      5                       35
+                           40 ⊢ 50                      6                       41
+                           50 ⊢ 60                      9                       50
+                            Total                      50
+
+De posse da coluna das frequências acumulada, a primeira coisa a ser feita é encontrar a posição
+da classe do quartil desejado. Para isso, basta utilizar a seguinte expressão:
+
+                                                            𝑘
+                                                    𝑃?@ =     .𝑛
+                                                            4
+
+A fórmula do quartil é a seguinte:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   48
+        www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                       𝑘
+                                                      U4 . 𝑛V − 𝑓%-!"#
+                                        𝑄@ = 𝑙!#$ + T                  W.ℎ
+                                                             𝑓!
+
+
+Onde:
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+𝑙!#$ = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑞𝑢𝑎𝑟𝑡𝑖𝑙
+
+𝑓%-!"# = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑐𝑢𝑚𝑢𝑙𝑎𝑑𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 à 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑞𝑢𝑎𝑟𝑡𝑖𝑙
+
+𝑓! = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑠𝑖𝑚𝑝𝑙𝑒𝑠 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑞𝑢𝑎𝑟𝑡𝑖𝑙
+
+ℎ = 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑞𝑢𝑎𝑟𝑡𝑖𝑙 = 𝑙)*& − 𝑙!#$
+
+𝑘 = (1, 2 𝑜𝑢 3), 𝑣𝑎𝑖 𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑟 𝑑𝑜 𝑞𝑢𝑎𝑟𝑡𝑖𝑙 𝑑𝑒𝑠𝑒𝑗𝑎𝑑𝑜
+
+Para exemplificar, iremos calcular o Q2. No nosso exemplo, o “n” é igual a 50 e “h” é 10.
+
+A posição de Q2 será a seguinte:
+
+                                                  2
+                                          𝑃?, =     . 50 = 25° 𝑝𝑜𝑠𝑖çã𝑜
+                                                  4
+
+Desta forma, a classe do Q2 fica entre 20 e 30. Sendo, portanto, 13 o valor da frequência absoluta
+simples e 17 a frequência acumulada anterior a classe do quartil. Aplicando a fórmula, ficamos com
+o seguinte:
+
+
+
+                          2                              2
+                         U4 . 𝑛V − 𝑓%-!"#               U4 . 50 − 17V               25 − 17
+            𝑄, = 𝑙!#$ + T                 W . ℎ = 20 + T             W . 10 = 20 + I       J . 10𝑄
+                                𝑓!                            13                      13
+
+                                                             8
+                                                𝑄, = 20 +       . 10
+                                                             13
+
+                                            𝑀+ = 20 + 6,15 = 26,15
+
+
+Decil
+
+Os decis dividem os dados em dez partes de mesma frequência. Desta forma, teremos sempre
+nove decis e cada um deles corresponderá a 10% do conjunto de dados. Observem a figura abaixo.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático      49
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+        D5 = quinto decil = coincide com a mediana e separa os 50% menores dos 50%
+        maiores;
+
+   ● Decil para Dados em Rol ou Agrupados
+
+Os cálculos dos decis são semelhantes aos dos quartis. Logo, para calcular a posição do decil,
+utilizamos a seguinte expressão:
+
+                                                           𝑘
+                                                   𝑃A@ =      .𝑛
+                                                           10
+
+Onde:
+
+k pode assumir o valor 1, 2, 3, ..., 9. Vai depender do decil que se deseja calcular.
+
+n é o número de elementos do conjunto de dados.
+
+   ● Quartil para Dados agrupados em classe
+
+Os cálculos são semelhantes aos do quantis. Sendo a posição do decil encontrada pela seguinte
+expressão:
+
+                                                           𝑘
+                                                   𝑃A@ =      .𝑛
+                                                           10
+
+k pode assumir o valor 1, 2, 3, ..., 9. Vai depender do decil que se deseja calcular.
+
+n é o número de elementos do conjunto de dados.
+
+De posse, da posição do decil podemos localizar a classe do decil e com isso calcular ele através
+da seguinte fórmula:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   50
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                     𝑘
+                                                    U10 . 𝑛V − 𝑓%-!"#
+                                       𝐷@ = 𝑙!#$ + T                  W.ℎ
+                                                           𝑓!
+
+
+Onde:
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+𝑙!#$ = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑑𝑒𝑐𝑖𝑙
+
+𝑓%-!"# = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑐𝑢𝑚𝑢𝑙𝑎𝑑𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 à 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑑𝑒𝑐𝑖𝑙
+
+𝑓! = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑠𝑖𝑚𝑝𝑙𝑒𝑠 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑑𝑒𝑐𝑖𝑙
+
+ℎ = 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑑𝑒𝑐𝑖𝑙 = 𝑙)*& − 𝑙!#$
+
+𝑘 = (1, 2, 3, … ,9), 𝑣𝑎𝑖 𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑟 𝑑𝑜 𝑑𝑒𝑐𝑖𝑙 𝑑𝑒𝑠𝑒𝑗𝑎𝑑𝑜
+
+
+Percentil
+
+Os percentis (ou centil) dividem os dados em 100 partes de mesma frequência. Desta forma,
+teremos sempre noventa e nove percentis e cada um deles corresponderá a 1% do conjunto de
+dados. Observem a figura abaixo.
+
+
+
+
+        P50 = quinquagésimo decil = coincide com a mediana e separa os 50% menores
+        dos 50% maiores;
+
+   ● Percentil para Dados em Rol ou Agrupados
+
+Os cálculos dos decis são semelhantes aos dos quartis. Logo, para calcular a posição do decil,
+utilizamos a seguinte expressão:
+
+                                                           𝑘
+                                                  𝑃B@ =       .𝑛
+                                                          100
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   51
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Onde:
+
+k pode assumir o valor 1, 2, 3, ..., 99. Vai depender do decil que se deseja calcular.
+
+n é o número de elementos do conjunto de dados.
+
+   ● Percentil para Dados agrupados em classe
+
+Os cálculos são semelhantes aos do quantis. Sendo a posição do decil encontrada pela seguinte
+expressão:
+
+                                                           𝑘
+                                                  𝑃B@ =       .𝑛
+                                                          100
+
+k pode assumir o valor 1, 2, 3, ..., 99. Vai depender do decil que se deseja calcular.
+
+n é o número de elementos do conjunto de dados.
+
+De posse, da posição do decil podemos localizar a classe do decil e com isso calcular ele através
+da seguinte fórmula:
+
+
+                                                     𝑘
+                                                   U100 . 𝑛V − 𝑓%-!"#
+                                      𝑃@ = 𝑙!#$ + T                   W.ℎ
+                                                           𝑓!
+
+
+Onde:
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+𝑙!#$ = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑝𝑒𝑟𝑐𝑒𝑛𝑡𝑖𝑙
+
+𝑓%-!"# = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑐𝑢𝑚𝑢𝑙𝑎𝑑𝑎 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 à 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑝𝑒𝑟𝑐𝑒𝑛𝑡𝑖𝑙
+
+𝑓! = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑎𝑏𝑠𝑜𝑙𝑢𝑡𝑎 𝑠𝑖𝑚𝑝𝑙𝑒𝑠 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑝𝑒𝑟𝑐𝑒𝑛𝑡𝑖𝑙
+
+ℎ = 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑑𝑜 𝑝𝑒𝑟𝑐𝑒𝑛𝑡𝑖𝑙 = 𝑙)*& − 𝑙!#$
+
+𝑘 = (1, 2, 3, … , 99), 𝑣𝑎𝑖 𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑟 𝑑𝑜 𝑝𝑒𝑟𝑐𝑒𝑛𝑡𝑖𝑙 𝑑𝑒𝑠𝑒𝑗𝑎𝑑𝑜
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   52
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                                BOX PLOT
+Pessoal, o box plot (diagrama de caixas) é um gráfico que utiliza os quartis para representar o
+conjunto de dados. Sua representação pode ser tanto horizontal como vertical. Observem a figura
+abaixo.
+
+
+
+
+De posse de uma box plot, podemos encontrar as seguintes medidas:
+
+   ●   Limite inferior = valor mínimo;
+   ●   Limite superior = valor máximo;
+   ●   Valores discrepantes = outliers;
+   ●   Os quatis (Q1, Q2=Md e Q3);
+   ●   Amplitude interquartílica = 𝑄0 − 𝑄.
+                                                                         ?$ ;?%
+   ● Amplitude semi- interquartílica ou desvio quartílico =                ,
+
+
+
+                                QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+Q.01 (IBFC/Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   53
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Marcos pretende determinar a mediana referente aos dados brutos coletados e relacionados
+abaixo:
+
+                                                23 - 22 - 21 - 22 - 32 - 33
+
+                                                41 - 21 - 20 - 32 - 42 - 38
+
+De acordo com os dados, o resultado encontrado por Marcos é igual a:
+
+a) 37.
+
+b) 33.
+
+c) 41.
+
+d) 27,5.
+
+e) 28.
+
+
+
+
+Comentários:
+
+Pessoal, aqui a banca dar dados brutos é pede a mediana. A primeira coisa a ser feita é organizar
+os dados em um Rol.
+
+{20, 21, 21, 22, 22, 23, 32, 32, 33, 38, 41, 42}
+
+Temos 12 elementos nesse Rol, logo um número par de elementos. Desta forma, temos que
+encontrar as duas posições centrais.
+
+                              #    .,
+Primeira posição central: , = , = 6° 𝑝𝑜𝑠𝑖çã𝑜
+
+                               #           .,
+Segunda posição central: , + 1 = , + 1 = 7° 𝑝𝑜𝑠𝑖çã𝑜
+
+Portanto, a mediana será a média dessas duas posições centrais.
+
+{20, 21, 21, 22, 22, 23, 32, 32, 33, 38, 41, 42}
+
+
+
+
+                                                       23 + 32 55
+                                                𝑀+ =          =   = 27,5
+                                                          2     2
+
+Gabarito: D
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   54
+         www.estrategiaconcursos.com.br                                                            101
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Q.02 (CEBRASPE - Analista de Controle Externo (TCE-RJ)/Controle Externo/Tecnologia da
+Informação/2021)
+
+
+
+
+Considerando que uma variável quantitativa discreta X se distribui conforme o diagrama
+boxplot anterior, julgue o item seguinte.
+
+A mediana da variável X é igual a 4.
+
+   C – CERTO
+
+   E - ERRADO
+
+Comentários:
+
+Pessoal, nessa questão temos que conhecer a estrutura do box plot. Conforme estudado na aula,
+podemos facilmente observar que está errado. Pois, o valor da mediana corresponde a 2. O valor
+4 corresponde ao Q3. Façam uma comparação da figura apresentada pela banca com a que vimos
+na aula.
+
+
+
+
+Gabarito: Errado
+
+Q.03 (CEBRASPE - Analista de Controle Externo (TCE-RJ)/Controle Externo/Tecnologia da
+Informação/2021)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   55
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Considerando que uma variável quantitativa discreta X se distribui conforme o diagrama
+boxplot anterior, julgue o item seguinte.
+
+O diagrama boxplot indica que o intervalo interquartil (ou interquartílico) da distribuição da
+variável X é igual a 3.
+
+   C – CERTO
+
+   E - ERRADO
+
+Comentários:
+
+A amplitude interquartílica é dada pela diferença entre Q3 e Q1. Logo,
+
+Q1 = 1
+
+Q3 = 4
+
+amplitude interquartílica = Q3 - Q1 = 4 – 1 = 3
+
+Portanto, correto o item.
+
+Gabarito: Certo
+
+Q.04 (COMPERVE (UFRN) - Profissional Analista Superior (CRECI 17 RN)/Agente Fiscal/2021)
+
+O quadro abaixo descreve os cinco imóveis comerciais de um mesmo dono, mostrando os
+valores, em reais, dos aluguéis de apenas quatro deles.
+
+
+
+
+Se a mediana dos valores dos aluguéis desses cinco imóveis é 1,7 mil reais, conclui-se que
+
+a) o valor do aluguel do Imóvel 5 é 3 mil reais.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   56
+         www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+b) o Imóvel 5 é aquele cujo aluguel tem maior valor.
+
+c) o valor do aluguel do Imóvel 5 é, no máximo, 1,7 mil reais.
+
+d) o aluguel do Imóvel 5 custa mais de 2,5 mil reais.
+
+Comentários:
+
+Pessoal, nessa questão a banca dá um quadro com os valores de aluguéis de 5 imóveis e quer
+saber o valor do aluguel do imóvel 5. Além disso, diz que o valor da média é 1.700. Com base
+nessas informações, podemos organizar os dados da seguinte forma:
+
+                                                1.700                   2.500                4.300
+                                            Medina = imóvel            Imóvel 1             Imóvel 2
+                                                  4
+
+Vejam que com as informações que temos não podemos afirmar que o imóvel 3 (1.250) irá ocupar
+a posição 1 ou 2.
+
+Fazendo uma análise nas alternativas, podemos observar que a única resposta possível é a Letra
+C, pois o valor do imóvel 5, com certeza, será um valor, no máximo, igual a 1.700.
+
+Gabarito: C
+
+Q.05 (CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Estatística/2020)
+
+
+
+
+Considerando que o desenho esquemático (boxplot ) antecedente se refere a uma variável
+quantitativa X, assinale a opção correta.
+
+a) O intervalo interquartil é igual a 65.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático        57
+        www.estrategiaconcursos.com.br                                                                 101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+b) Metade da distribuição da variável X se encontra entre os valores 20 e 40.
+
+c) Os valores da variável X que se encontram no intervalo [5;10] representam 5% da distribuição
+de X.
+
+d) A mediana de X é igual a 25.
+
+e) O primeiro quartil da distribuição de X é igual a 10.
+
+Comentários:
+
+Pessoal, nessa questão iremos analisar cada alternativa tendo como base o boxplot dado. Além
+disso, essa questão exige o conhecimento da estrutura de uma boxplot. Logo, iremos comparar a
+gráfico dado na questão como o gráfico abaixo:
+
+
+
+
+Letra (A) – Errada
+
+A amplitude interquartílica é dada pela diferença entre Q3 e Q1. Logo,
+
+Q1 = 10
+
+Q3 = 40
+
+amplitude interquartílica = Q3 - Q1 = 40 – 10 = 30
+
+Letra (B) – Errada, pois como a mediana é 20, metade encontra-se entre 5 e 20 e outra metade
+entre 20 e 70.
+
+Letra (C) – Errada. Pois, entre 5 e 10 temos 25% dos dados. Nesse intervalo, temos os valores
+inferiores ao Q1.
+
+Letra (D) – Errada. Podemos observar que a mediana é 20. Md = Q2.
+
+Letra (E) – Correta. Pois, o Q1 é igual a 10.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   58
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Gabarito: E
+
+Q.06 (CEBRASPE / Prefeitura de Imbé / 2019)
+
+Uma pesquisa a respeito das quantidades de teatros em cada uma de 11 cidades brasileiras
+selecionadas apresentou o seguinte resultado: {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}.
+
+Com referência a esses dados, julgue o item seguinte.
+
+O valor do primeiro quartil do conjunto de dados (Q1/4) é igual a 3.
+
+   C – CERTO
+
+   E - ERRADO
+
+Comentários:
+
+       𝟏𝟏8𝟏
+Md =          = 6º termo {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+         𝟐
+
+
+O elemento de 6ª posição é o número 3, o qual será o nosso 2º quartil.
+
+Logo, o nosso primeiro quartil será representado pelo número 2:
+
+{1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+Ou:
+
+                                      𝒏8𝟏
+Posição do quartil inferior (Q1) =      𝟒
+
+
+O conjunto de dados do enunciado é:
+
+{1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+O conjunto possui 11 elementos, portanto n = 11. Assim,
+
+                                       𝟏𝟏8𝟏
+Posição do quartil inferior (Q1) =      𝟒
+                                              = 3º termo {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+Portanto, Q1 é o elemento cuja posição no conjunto (ordenado) é 3.
+
+Logo, Q(1/4) = 2
+
+Gabarito: Errado
+
+Q.07 (CEBRASPE / IPHAN / Analista / 2018)
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   59
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Uma pesquisa a respeito das quantidades de teatros em cada uma de 11 cidades brasileiras
+selecionadas apresentou o seguinte resultado: {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}.
+
+Com referência a esses dados, julgue o item seguinte.
+
+O valor do terceiro quartil do conjunto de dados (Q3/4) é igual a 4.
+
+   C – CERTO
+
+   E - ERRADO
+
+Comentários:
+
+Pessoal, se você conhece o conceito de Quartil, não será necessário nem fazer conta.
+
+Percebe-se, visualmente, que o (Q3/4) será o número 4, ok?
+
+Mas, vamos à solução técnica:
+
+O segundo quartil é a mediana da sequência apresentada.
+
+Sequência = {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+Como o número de elementos é ímpar (11), para descobrir a posição do elemento que será a
+mediana, adicionamos 1 e dividimos o resultado por dois.
+
+Md = 11+12 = 6º termo {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+O elemento de 6ª posição é o número 3, o qual será o nosso 2º quartil.
+
+O 3º quartil pode ser obtido pela mediana dos números que estiverem à direita do 2º quartil.
+
+{1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+Como há 5 elementos:
+
+Md = 5+12 = 3 {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}
+
+Logo, Q (3/4) = 4
+
+Gabarito: Certo
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   60
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+Q.01 (IBFC/Supervisor de Pesquisas (IBGE) /Suporte Gerencial/2021)
+
+Marcos pretende determinar a mediana referente aos dados brutos coletados e relacionados
+abaixo:
+
+                                           23 - 22 - 21 - 22 - 32 - 33
+
+                                           41 - 21 - 20 - 32 - 42 - 38
+
+De acordo com os dados, o resultado encontrado por Marcos é igual a:
+
+a) 37.
+
+b) 33.
+
+c) 41.
+
+d) 27,5.
+
+e) 28.
+
+
+
+
+Q.02 (CEBRASPE - Analista de Controle Externo (TCE-RJ)/Controle Externo/Tecnologia da
+Informação/2021)
+
+
+
+
+Considerando que uma variável quantitativa discreta X se distribui conforme o diagrama
+boxplot anterior, julgue o item seguinte.
+
+A mediana da variável X é igual a 4.
+
+   C – CERTO
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   61
+         www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+   E - ERRADO
+
+
+
+
+Q.03 (CEBRASPE - Analista de Controle Externo (TCE-RJ)/Controle Externo/Tecnologia da
+Informação/2021)
+
+
+
+
+Considerando que uma variável quantitativa discreta X se distribui conforme o diagrama
+boxplot anterior, julgue o item seguinte.
+
+O diagrama boxplot indica que o intervalo interquartil (ou interquartílico) da distribuição da
+variável X é igual a 3.
+
+   C – CERTO
+
+   E - ERRADO
+
+
+
+
+Q.04 (COMPERVE (UFRN) - Profissional Analista Superior (CRECI 17 RN)/Agente Fiscal/2021)
+
+O quadro abaixo descreve os cinco imóveis comerciais de um mesmo dono, mostrando os
+valores, em reais, dos aluguéis de apenas quatro deles.
+
+
+
+
+Se a mediana dos valores dos aluguéis desses cinco imóveis é 1,7 mil reais, conclui-se que
+
+a) o valor do aluguel do Imóvel 5 é 3 mil reais.
+
+b) o Imóvel 5 é aquele cujo aluguel tem maior valor.
+
+c) o valor do aluguel do Imóvel 5 é, no máximo, 1,7 mil reais.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   62
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+d) o aluguel do Imóvel 5 custa mais de 2,5 mil reais.
+
+Q.05 (CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Estatística/2020)
+
+
+
+
+Considerando que o desenho esquemático (boxplot) antecedente se refere a uma variável
+quantitativa X, assinale a opção correta.
+
+a) O intervalo interquartil é igual a 65.
+
+b) Metade da distribuição da variável X se encontra entre os valores 20 e 40.
+
+c) Os valores da variável X que se encontram no intervalo [5;10] representam 5% da distribuição
+de X.
+
+d) A mediana de X é igual a 25.
+
+e) O primeiro quartil da distribuição de X é igual a 10.
+
+Q.06 (CEBRASPE / Prefeitura de Imbé / 2019)
+
+Uma pesquisa a respeito das quantidades de teatros em cada uma de 11 cidades
+brasileiras selecionadas apresentou o seguinte resultado: {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}.
+
+Com referência a esses dados, julgue o item seguinte.
+
+O valor do primeiro quartil do conjunto de dados (Q1/4) é igual a 3.
+
+   C – CERTO
+
+   E – ERRADO
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   63
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Q.07 (CEBRASPE / IPHAN / Analista / 2018)
+
+Uma pesquisa a respeito das quantidades de teatros em cada uma de 11 cidades brasileiras
+selecionadas apresentou o seguinte resultado: {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4}.
+
+Com referência a esses dados, julgue o item seguinte.
+
+O valor do terceiro quartil do conjunto de dados (Q3/4) é igual a 4.
+
+C – CERTO
+
+E - ERRADO
+
+
+Gabarito
+
+
+
+
+   1          2         3           4          5          6          7          8          9      10
+   D          E         C           C          E          E          C          *          *       *
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático        64
+        www.estrategiaconcursos.com.br                                                                 101
+
+                                    https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 09
+
+
+
+
+                    VARIABILIDADE / MEDIDAS DE DISPERSÃO
+
+Sumário
+
+variabilidade / Medidas de Dispersão.............................................................................................. 1
+
+   O que é mais cobrado dentro do assunto .................................................................................... 2
+
+Roteiro de revisão e pontos do assunto que merecem destaque ................................................... 2
+
+Medidas de Variabilidade ................................................................................................................ 2
+
+Medidas de Dispersão Absoluta ...................................................................................................... 3
+
+   Amplitude Total ............................................................................................................................ 3
+
+   Amplitude Interquartílica .............................................................................................................. 4
+
+   Desvios em Relação à Média Aritmética e Mediana .................................................................... 5
+
+   Desvio Absoluto Médio ................................................................................................................ 6
+
+   Variância e Desvio-Padrão ............................................................................................................ 9
+
+Medidas de Dispersão Absoluta .................................................................................................... 13
+
+   Coeficiente de Variação e Variância Relativa .............................................................................. 13
+
+Questões estratégicas .................................................................................................................... 14
+
+   Questões CEBRASPE .................................................................................................................. 15
+
+   Questões VUNESP ...................................................................................................................... 21
+
+   Questões Bancas Diversas .......................................................................................................... 24
+
+   Questões FGV ............................................................................................................................. 26
+
+Lista de Questões Estratégicas ...................................................................................................... 30
+
+   Questões CEBRASPE .................................................................................................................. 30
+
+   Questões VUNESP ...................................................................................................................... 32
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                           65
+           www.estrategiaconcursos.com.br                                                                                                    101
+
+                                              https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+  Questões Bancas Diversas .......................................................................................................... 33
+
+  Questões FGV ............................................................................................................................. 34
+
+  Gabarito ...................................................................................................................................... 36
+
+
+
+
+O que é mais cobrado dentro do assunto
+
+Vamos analisar agora como se comporta a incidência dos sub assuntos da nossa aula de hoje.
+Assim, você será melhor direcionado nos seus estudos, vejam:
+
+                                    MEDIDAS DE DISPERSÃO                                                              Grau de incidência
+                                DESVIO PADRÃO E VARIÂNCIA                                                                       73,5%
+             COEFICIENTES DE VARIAÇÃO / VARIAÇÃO RELATIVA                                                                     20,9%
+                      INTERVALO INTERQUARTÍLICO                                                                                2,8%
+                              AMPLITUDE                                                                                        2,8%
+                                TOTAL                                                                                        100,00%
+
+
+
+
+          ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                               MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto
+e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a
+seguir:
+
+
+                                     MEDIDAS DE VARIABILIDADE
+Pessoal, as Medidas de Variabilidade ou Medidas de Dispersão têm a finalidade de medir a
+dispersão dos valores de um conjunto em torno de um valor médio. Essas medidas são divididas
+em dois grupos: Medidas de dispersão Absoluta e Medida de dispersão Relativa.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                               66
+          www.estrategiaconcursos.com.br                                                                                                       101
+
+                                              https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                       MEDIDAS DE DISPERSÃO ABSOLUTA
+
+Amplitude Total
+
+A Amplitude total é a diferença entre os valores extremos de um conjunto de dados. Essa medida
+é muito pobre, pois não mostra o grau de dispersão existente no conjunto de dados, pois apenas
+leva em conta o valor máximo e mínimo.
+
+                                               𝐴𝑇 = 𝑋%á' − 𝑋%í*
+
+
+
+Portanto, como são desconsiderados os valores entre os extremos, essa medida pode nos levar a
+uma conclusão errada dos dados em análise. Além disso, é sensível ao tamanho da amostra, uma
+vez que, pode apresentar muita variação de uma amostra para outra, isso considerando uma
+mesma população.
+
+A tabela abaixo mostra exemplos do cálculo da Amplitude Total.
+
+                                     Amplitude Total em dados
+  Amplitude Total em dados                                                Amplitude Total em dados
+                                     agrupados sem intervalo de
+       não agrupados                                                        agrupados em classe
+                                              classe
+
+
+
+                                               Frequência Absoluta                          Frequência
+                                      Idades                                  Idades
+                                                        (fi)                                Absoluta (fi)
+                                       10               12                    0 ⊢10               12
+{1, 2, 2, 3, 4, 5, 5, 6, 9, 9, 12}                                           10 ⊢ 20              5
+                                       20                5
+                                       30               13                   20 ⊢ 30              13
+                                       40                5                   30 ⊢ 40              5
+                                       50                6                   40 ⊢ 50              6
+                                       60                9                   50 ⊢ 60              9
+                                                                                  Duas formas:
+
+                                                                           1) Diferença entre o limite
+                                                                          superior da última classe e o
+                                                                            limite inferior da primeira
+   Diferença entre o valor           Diferença entre o           valor
+                                                                                       classe.
+    máximo e o mínimo.               máximo e o mínimo.
+
+                                                                          2) Diferença entre o ponto
+                                                                          médio da última classe e o
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático             67
+        www.estrategiaconcursos.com.br                                                                      101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                                           ponto médio da primeira
+                                                                                    classe.
+                                                                              1) 𝐴𝑇 = 𝑙345 − 𝑙6*7
+
+      𝐴𝑇 = 𝑋%á' − 𝑋%í*                     𝐴𝑇 = 𝑋%á' − 𝑋%í*                     𝐴𝑇 = 60 − 0 = 60
+
+      𝐴𝑇 = 12 − 1 = 11                    𝐴𝑇 = 60 − 10 = 50                 2) 𝐴𝑇 = 𝑃𝑀ú;< − 𝑃𝑀5=6*
+
+                                                                                𝐴𝑇 = 55 − 5 = 50
+
+
+
+
+Propriedades da Amplitude Total
+
+   ● A soma ou subtração de uma constante “k” a todos os valores de um conjunto de dados, a
+     Amplitude Total não se altera;
+   ● A multiplicação ou divisão de uma constante “k” a todos os valores de um conjunto de
+     dados, a Amplitude Total fica multiplicada ou dividida por essa constante.
+
+
+Amplitude Interquartílica
+
+A Amplitude Interquartílica, assim como a Amplitude Total, é uma medida de dispersão pobre.
+Como sabemos, os quartis dividem os dados em quatro partes de mesma frequência. Desta forma,
+teremos sempre três quartis e cada um deles corresponderá a 25% do conjunto de dados.
+Observem a figura abaixo.
+
+
+
+
+   A Amplitude interquartílica é dada pela diferença entre o terceiro quartil (Q3) e o primeiro quartil
+   (Q1).
+
+   Amplitude interquartílica = 𝑄? − 𝑄@
+
+   Além disso, a metade dessa amplitude é chamada de Amplitude semi-interquartílica ou desvio
+   quartílico.
+
+                                           AB CAD
+   Amplitude semi-interquartílica =
+                                             E
+
+
+Propriedades da Amplitude Interquartílica
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático      68
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+   ● A soma ou subtração de uma constante “k” a todos os valores de um conjunto de dados, a
+     Amplitude Interquartílica não se altera;
+   ● A multiplicação ou divisão de uma constante “k” a todos os valores de um conjunto de
+     dados, a Amplitude Interquartílica fica multiplicada ou dividida por essa constante.
+
+
+
+
+        Fiquem atentos, pois as fórmulas da Amplitude Interquartílica e semi-interquartílica
+        são semelhantes.
+
+        As propriedades da Amplitude Interquartílica e Amplitude Total são iguais.
+
+
+Desvios em Relação à Média Aritmética e Mediana
+
+Pessoal, um desvio é a distância entre qualquer observação de um conjunto de dados e uma
+medida descritiva desse conjunto. Normalmente, calcula-se os desvios em relação à média e à
+mediana.
+
+                                                    𝑑6 = 𝑋 − 𝑋
+
+                                                         ou
+
+                                                   𝑑6 = 𝑋 − 𝑀G
+
+Onde,
+
+𝑋 é a média.
+
+𝑀G é a mediana.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   69
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+        Quando os desvios em relação a uma medida descritiva são pequenos, e como as
+        observações estão concentradas em torno dessa medida, a variabilidade dos
+        dados é pequena.
+
+        Quando os desvios em relação a uma medida descritiva são maiores, as
+        observações estão mais dispersas, a variabilidade dos dados é grande.
+
+Propriedades dos Desvios em Relação à Média Aritmética e Mediana
+
+   ● A soma dos desvios em relação à média é nula;
+   ● A soma dos quadrados dos desvios da sequência de números, em relação a número “k”, é
+     mínima se “k” for a média aritmética dos números;
+   ● A soma dos desvios absolutos de uma sequência de números, em relação a um número “k”,
+     é mínima quando “k” é a mediana dos números.
+
+
+
+
+Desvio Absoluto Médio
+
+O Desvio Absoluto Médio ou Desvio Médio, mede a dispersão entre os valores da distribuição e a
+média dos dados calculados.
+
+Pessoal, se tivermos uma distribuição muito grande e quiséssemos calcular os desvios, teríamos
+que calcular desvios para cada número dessa distribuição e depois tirar conclusões desses valores
+encontrados. Logo, isso não seria viável.
+
+Desta forma, uma solução seria calcular um único número que representasse toda a distribuição.
+Para isso, poderíamos calcular a média de todos os desvios, isto é, somar todos os desvios e dividir
+pela quantidade de observações (n). Sendo que, temos desvios positivos, negativos e nulos. Os
+positivos anulam os negativos e o resultado da soma será sempre zero.
+
+                                                *
+                                                6H@     𝑋6 − 𝑋  0
+                                         𝑑=                    = =0
+                                                       𝑛        𝑛
+
+Portanto, uma solução para esse problema seria colocar cada desvio em módulo, surgindo assim
+o Desvio Absoluto Médio ou Desvio Médio.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   70
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                      *
+                                                      6H@     𝑋6 − 𝑋
+                                              𝑑=
+                                                             𝑛
+
+O Desvio Médio é uma medida de dispersão mais robusta do que a Amplitude Total e a Amplitude
+interquartílica, pois são considerados todos os valores da distribuição.
+
+Para dados agrupados, a fórmula é a seguinte:
+
+                                                   *
+                                                   6H@      𝑋6 − 𝑋 . 𝑓6
+                                            𝑑=
+                                                               𝑓6
+
+Onde:
+
+𝑓6 é a frequência absoluta simples.
+
+Já para dados agrupados em classe, a fórmula é a seguinte:
+
+                                                   *
+                                                   6H@      𝑃𝑀 − 𝑋 . 𝑓6
+                                           𝑑=
+                                                               𝑓6
+
+Onde:
+
+𝑃𝑀 é o ponto médio.
+
+Iremos fazer um exemplo para os dados agrupados em classe, para exemplificar o cálculo do
+Desvio Médio.
+
+Exemplo: Calcule o desvio médio das idades de um conjunto de pessoas:
+
+A primeira coisa a ser feita é calcular os pontos médios e em seguida a média.
+
+                                               frequência                     PM.fi
+                                 idades                             PM
+                                               Absoluta (fi)
+                                 0 ⊢10             12               5          60
+                                10 ⊢ 20             5               15         75
+                                20 ⊢ 30            13               25         325
+                                30 ⊢ 40             5               35         175
+                                40 ⊢ 50             6               45         270
+                                50 ⊢ 60             9               55         495
+                                 Total             50                         1.400
+
+Logo, a média será
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   71
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                                    𝑃𝑀 . 𝑓6        1.400
+                                       𝑋=                     =          = 28
+                                                         𝑓6          50
+
+De posse da média, podemos calcular o módulo do desvio em relação à média.
+
+                                       frequência                       PM.fi        𝑃𝑀 − 𝑥
+                         idades                               PM
+                                       Absoluta (fi)
+                         0 ⊢10             12                 5          60           23
+                        10 ⊢ 20             5                 15         75           13
+                        20 ⊢ 30            13                 25         325          3
+                        30 ⊢ 40             5                 35         175          7
+                        40 ⊢ 50             6                 45         270          17
+                        50 ⊢ 60             9                 55         495          27
+                         Total             50                           1.400         90
+
+Agora, basta multiplicar os módulos dos desvios pela frequência absoluta simples.
+
+                              frequência                       PM.fi        𝑃𝑀 − 𝑥         𝑃𝑀
+                 idades                            PM
+                              Absoluta (fi)                                                − 𝑥 . 𝑓6
+                 0 ⊢10            12                5           60              23          276
+                10 ⊢ 20            5                15          75              13           65
+                20 ⊢ 30           13                25          325             3            39
+                30 ⊢ 40            5                35          175             7            35
+                40 ⊢ 50            6                45          270             17          102
+                50 ⊢ 60            9                55          495             27          243
+                 Total            50                           1.400                        760
+
+Aplicando a fórmula, teremos o seguinte:
+
+                                          *
+                                          6H@     𝑃𝑀 − 𝑋 . 𝑓6          760
+                                   𝑑=                              =       = 15,2
+                                                         𝑓6             50
+
+Propriedades do Desvio Médio
+
+   ● A soma ou subtração de uma constante “k” a todos os valores de um conjunto de dados, o
+     desvio médio não se altera;
+   ● A multiplicação ou divisão de uma constante “k” a todos os valores de um conjunto de
+     dados, o desvio médio fica multiplicado ou dividido por essa constante.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       72
+        www.estrategiaconcursos.com.br                                                                101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+        As propriedades da Amplitude Interquartílica, Amplitude Total e Desvio Médio são
+        iguais.
+
+
+Variância e Desvio-Padrão
+
+Quando introduzimos o assunto desvios médios observamos que não era viável calcular uma
+medida de dispersão que simplesmente calcula a média dos desvios, pois essa medida sempre
+seria zero.
+
+Para resolver esse problema, calculamos a média do módulo dos desvios. Sendo que, outra forma
+de ser resolvido esse problema é calcular, ao invés de calcular a média do módulo dos desvios, à
+média do quadrado dos desvios. Com isso, obteremos a variância, isto é, a média aritmética do
+quadrado dos desvios.
+
+                                                      *
+                                               E      6H@     𝑋6 − 𝜇 E
+                                             𝜎 =
+                                                             𝑛
+
+Onde:
+
+𝜇 é a média populacional
+
+𝑋6 é a variável em análise
+
+𝑛 é o número de elementos da população
+
+Pessoal, como os desvios são elevados ao quadrado, a unidade da variável em análise também é
+elevada ao quadrado. Por exemplo, se estivermos calculando a variância das idades (anos) de um
+conjunto de pessoas, essa medida ficará anos ao quadrado (anos2). Logo, essa medida não terá
+sentido físico. Para acabar com esse inconveniente, utilizamos o conceito de Desvio-Padrão, que
+nada mais é que a raiz quadrada da variância.
+
+                                                      *
+                                                      6H@     𝑋6 − 𝜇 E
+                                             𝜎=
+                                                             𝑛
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   73
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+É importante salientar que temos variância e desvio-padrão populacional e amostral. O que
+tratamos até o momento é o populacional. Logo, para o amostral temos que fazer uma modificação
+na fórmula, ficando da seguinte forma:
+
+                                 T             X
+                                        WCW
+Variância amostral: 𝑆 E =        UVD
+                                       *C@
+
+
+                                         T               X
+                                                   WCW
+Desvio-padrão amostral: 𝑆 =              UVD
+                                               *C@
+
+
+Outra forma de calcular a variância populacional é através da seguinte fórmula:
+
+                                                                       E
+                                                         𝜎E = 𝑋E − 𝑋
+
+Onde:
+
+𝑋 E é a média dos quadrados.
+
+     E
+ 𝑋       é o quadrado da média.
+
+Para uma amostra essa fórmula fica da seguinte forma:
+
+                                                              𝑛           E
+                                                   𝑆E =          . 𝑋E − 𝑋
+                                                             𝑛−1
+
+
+
+
+           Variância e Desvio-Padrão
+
+               A variância/desvio-padrão de um conjunto será zero quando todos os
+               elementos forem iguais;
+               Sempre será maior ou igual a zero;
+               No cálculo da variância/desvio-padrão haverá uma pequena diferença entre o
+               cálculo populacional e amostral.
+
+Para dados agrupados, as fórmulas são as seguintes:
+
+1) Populacional
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   74
+           www.estrategiaconcursos.com.br                                                            101
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                         *
+                                                         6H@      𝑋6 − 𝜇 E . 𝑓6
+                                           𝜎E =
+                                                                   𝑛
+
+                                                                ou
+
+                                                                          *
+                                                  *                                 𝑋6 . 𝑓6 E
+                                                              𝑋6E −       6H@
+                                      𝜎E =
+                                                  6H@                           𝑛
+                                                                      𝑛
+
+2) Amostral
+
+                                                        *                       E
+                                             E          6H@      𝑋6 − 𝑋             . 𝑓6
+                                           𝑆 =
+                                                                 𝑛−1
+
+                                                                ou
+
+                                                                            *
+                                             *                                              𝑋6 . 𝑓6 E
+                                                         𝑋6E . 𝑓6 −         6H@
+                                    𝑆E =
+                                             6H@                                        𝑛
+                                                                 𝑛−1
+
+Onde:
+
+𝑓6 é a frequência absoluta simples.
+
+Pessoal, para calcular o desvio-padrão, basta encontrar a raiz quadrada da variância.
+
+Já para dados agrupados em classe, a fórmula é a seguinte:
+
+1) Populacional
+
+                                                        *
+                                            E           6H@      𝑃𝑀6 − 𝜇 E . 𝑓6
+                                           𝜎 =
+                                                                  𝑛
+
+                                                                ou
+
+                                                                          *
+                                                *                                   𝑃𝑀6 . 𝑓6 E
+                                                         𝑃𝑀6E −           6H@
+                                    𝜎E =
+                                                6H@                                 𝑛
+                                                                      𝑛
+
+2) Amostral
+
+                                                      *                             E
+                                                      6H@        𝑃𝑀6 − 𝑋                . 𝑓6
+                                           𝑆E =
+                                                                 𝑛−1
+
+                                                                ou
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático         75
+        www.estrategiaconcursos.com.br                                                                  101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                                    *
+                                          *                                   𝑃𝑀6 . 𝑓6 E
+                                                  𝑃𝑀6E . 𝑓6 −       6H@
+                                  𝑆E =
+                                          6H@                                 𝑛
+                                                              𝑛−1
+
+Onde:
+
+𝑃𝑀 é o ponto médio.
+
+Pessoal, para calcular o desvio-padrão, basta encontrar a raiz quadrada da variância.
+
+Iremos fazer um exemplo para os dados agrupados em classe, para exemplificar o cálculo da
+Variância e Desvio-Padrão.
+
+Exemplo: Calcule a variância amostral e desvio padrão amostral das idades de um conjunto de
+pessoas:
+
+A primeira coisa a ser feita é calcular os pontos médios e em seguida a média.
+
+                                                frequência                          PM.fi
+                                 idades                              PM
+                                                Absoluta (fi)
+                                 0 ⊢10              12                   5           60
+                                10 ⊢ 20              5                   15          75
+                                20 ⊢ 30             13                   25          325
+                                30 ⊢ 40              5                   35          175
+                                40 ⊢ 50              6                   45          270
+                                50 ⊢ 60              9                   55          495
+                                 Total              50                              1.400
+
+Logo, a média será
+
+                                                    𝑃𝑀 . 𝑓6        1.400
+                                       𝑋=                      =         = 28
+                                                         𝑓6          50
+
+De posse da média, podemos calcular os quadrados dos desvios em relação à média.
+
+                                                                                                     E
+                              frequência                        PM.fi           𝑃𝑀 − 𝑥      𝑃𝑀 − 𝑥
+                 idades                            PM
+                              Absoluta (fi)
+                 0 ⊢10            12                5              60              -23       529
+                10 ⊢ 20            5                15             75              -13       169
+                20 ⊢ 30           13                25             325              -3        9
+                30 ⊢ 40            5                35             175               7        49
+                40 ⊢ 50            6                45             270              17       289
+                50 ⊢ 60            9                55             495              27       729
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático          76
+        www.estrategiaconcursos.com.br                                                                   101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                  Total                50                           1.400                      1.774
+
+Agora, basta multiplicar os quadrados dos desvios em relação à média pela frequência absoluta
+simples.
+
+                                                                                           E                E
+                       frequência                       PM.fi         𝑃𝑀 − 𝑥      𝑃𝑀 − 𝑥          𝑃𝑀 − 𝑥 . 𝑓6
+       idades                               PM
+                       Absoluta (fi)
+        0 ⊢10              12               5            60             -23         529                 6.348
+       10 ⊢ 20              5               15           75             -13         169                  845
+       20 ⊢ 30             13               25           325             -3          9                   117
+       30 ⊢ 40              5               35           175              7          49                  245
+       40 ⊢ 50              6               45           270             17         289                 1.734
+       50 ⊢ 60              9               55           495             27         729                 6.561
+        Total              50                           1.400                                          15.850
+
+Aplicando a fórmula, teremos o seguinte:
+
+                               *                   E
+                         E     6H@      𝑃𝑀6 − 𝑋        . 𝑓6       15.850 15.850
+                        𝑆 =                                   =          =      ≈ 324 𝑎𝑛𝑜𝑠 E
+                                        𝑛−1                       50 − 1   49
+
+O desvio-padrão será a raiz desse valor. Logo,
+
+                                            𝑆=    𝑆 E = 324 = 18 𝑎𝑛𝑜𝑠
+
+Propriedades do Variância e Desvio-Padrão
+
+   ● A soma ou subtração de uma constante “k” a todos os valores de um conjunto de dados,
+     variância e o desvio padrão não se alteram;
+   ● A multiplicação ou divisão de uma constante “k” a todos os valores de um conjunto de
+     dados, a variância fica multiplicada ou dividida pelo quadrado dessa constante.
+   ● A multiplicação ou divisão de uma constante “k” a todos os valores de um conjunto de
+     dados, o desvio-padrão fica multiplicado ou dividido por essa constante.
+
+
+
+
+                       MEDIDAS DE DISPERSÃO ABSOLUTA
+
+Coeficiente de Variação e Variância Relativa
+
+O Coeficiente de Variação é uma medida de dispersão que relaciona o desvio-padrão com a
+média.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                 77
+        www.estrategiaconcursos.com.br                                                                          101
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                             𝜎
+                                                      𝐶𝑉 =
+                                                             𝜇
+
+Isso para uma população. Se for uma amostra a fórmula é a seguinte:
+
+                                                             𝑆
+                                                      𝐶𝑉 =
+                                                             𝑋
+
+
+
+
+        Coeficiente de Variação
+
+            É uma medida adimensional, pois o desvio-padrão e média possuem a mesma
+            unidade;
+            Normalmente é expresso em porcentagem;
+            Quanto menor o CV, mais homogêneo será o conjunto de dados, ou seja,
+            menor será a dispersão em torno da média.
+
+Outra medida de dispersão relativa é a Variância Relativa. Essa medida é simplesmente o quadrado
+do CV.
+
+                                                         𝜎 E 𝜎E
+                                                𝑉𝑅 =        = E
+                                                         𝜇   𝜇
+
+Isso para uma população. Se for uma amostra a fórmula é a seguinte:
+
+                                                             E
+                                                     𝑆            𝑆E
+                                                𝑉𝑅 =             = E
+                                                     𝑋            𝑋
+
+
+                                QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   78
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+Questões CEBRASPE
+
+Q.01 (CEBRASPE (CESPE) /ACE (TCE-RJ) / Controle Externo/TI/2021)
+
+                                              X                         frequência
+                                                                         absoluta
+                                              0        ==219a34==
+
+
+
+
+                                                                             5
+                                              1                             10
+                                              2                             20
+                                              3                             15
+                                            total                           50
+
+Considerando que a tabela precedente mostra a distribuição de frequências de uma variável
+quantitativa X, julgue o item a seguir.
+
+A variância amostral de X é superior a 0,89.
+
+   C - CERTO
+
+   E – ERRADO
+
+Comentários:
+
+Nessa questão a banca que saber se a variância amostral é superior a 0,89. Para isso, temos que
+saber a fórmula da variância. Aqui utilizaremos a seguinte:
+
+                                                                                              E
+                                      1                                               𝑓. 𝑋6
+                                𝑆E =                                𝑓. 𝑋6E   −
+                                     𝑛−1                                             𝑛
+
+
+Para resolver essa questão teremos que calcular duas colunas, a “f.X” e a “f.X2” e em seguida fazer
+o somatório delas.
+
+                                                  Frequênci
+                                          X           a                      f.X   f.X2
+                                                  Absoluta
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   79
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+
+                                        0        5              0          0
+                                        1        10             10         10
+                                        2        20             40         80
+                                        3        15             45         135
+                                        tota     50             95         225
+                                        l
+
+Aplicando os valores na fórmula teremos o seguinte:
+
+                                             E
+                                                 1          95E
+                                           𝑆 =        225 −
+                                               50 − 1       50
+
+                                                       1       9025
+                                             𝑆E =        225 −
+                                                      49        50
+
+                                                       1
+                                             𝑆E =        225 − 180,5
+                                                      49
+
+                                                             44,5
+                                                      𝑆E =
+                                                              49
+
+                                                      𝑆 E = 0,908
+
+Logo, a variância foi superior a 0,89 como diz a questão. Correta a questão.
+
+Gabarito: Certo
+
+Q.02 (CEBRASPE (CESPE) / Profissional de Tecnologia da Informação (ME) /2020)
+
+Considerando que R representa uma variável quantitativa cuja média, mediana e variância são,
+                                                                    c
+respectivamente, iguais a 70, 80 e 100, e que 𝑈 =                        − 7, julgue o próximo item, acerca das
+                                                                    @d
+variáveis U e R.
+
+
+
+
+O desvio padrão da variável U é igual a 1.
+
+   C - CERTO
+
+   E - ERRADO
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático             80
+        www.estrategiaconcursos.com.br                                                                      101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Aqui a banca traz os valores da média, mediana e variância de uma variável R e pede o valor do
+desvio padrão da U. Sendo U obtido da seguinte forma:
+
+                                                         𝑅
+                                                   𝑈=       −7
+                                                         10
+
+Como desejamos o valor do desvio padrão e nos foi dada a variância de R. Basta calcular o desvio
+padrão de R e em seguida aplicar a expressão dada.
+
+Variância de R = 100.
+
+𝑆 = 𝑆E
+
+Desvio padrão de R = 10.
+
+O Desvio padrão é afetado pela multiplicação e pela divisão. Logo, a expressão fica da seguinte
+forma:
+
+                                                           𝑅
+                                                      𝑈=
+                                                           10
+
+Aplicando o valor de R, ficamos com o seguinte:
+
+                                                           10
+                                                      𝑈=
+                                                           10
+
+                                                       𝑈=1
+
+Desta forma, o desvio padrão é igual a 1 como afirma a banca.
+
+Gabarito: Certo
+
+Q.03 (CEBRASPE (CESPE) / Professor (Pref São Cristóvão)/Matemática/Educação Básica/2019)
+
+A tabela seguinte mostra a distribuição das idades dos 30 alunos da turma A do quinto ano de
+uma escola de ensino fundamental.
+
+                                                                    1 1 1 1 1
+                                    idade (em anos)             9
+                                                                    0 1 2 3 4
+                                    quantidade de                   2
+                                                                6     0 1 0 1
+                                    estudantes                      2
+
+A partir dessa tabela, julgue o item.
+
+O desvio padrão das idades é inferior a 1ano.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   81
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+C - Certo.
+
+E – Errado.
+
+Comentários:
+
+Pessoal, a banca forneceu uma tabela com os valores das idades e a quantidade (frequência) de
+um grupo de alunos da turma A e pergunta se o desvio padrão das idade é inferior a 1 ano.
+
+A tabela apresentada da questão é a seguinte.
+
+                                                X         f         f∙X
+                                                9         6          54
+                                                10       22         220
+                                                11        0          0
+                                                12        1          12
+                                                13        0          0
+                                                14        1          14
+                                               Tota
+                                                         30         300
+                                                 l
+
+Onde “f” é a quantidade de alunos e “X” é a idade. A primeira coisa a ser feita é calcular a média
+da turma A, para isso temos que construir uma coluna f ∙ X (ver tabela acima) e em seguida fazer o
+somatório. Temos que a média pode ser obtida da seguinte forma:
+
+                                                        *
+                                                        6H@       𝑋6 . 𝑓
+                                                𝑋=
+                                                              𝑛
+                                                       300
+                                                  𝑋=       = 10
+                                                        30
+
+De posse da média, podemos calcular os quadrados dos desvios em relação a média e depois multiplicar
+pela frequência.
+
+                                                                              E           E
+                        X        f      f∙X       𝑋6 − 𝑋             𝑋6 − 𝑋       𝑋6 − 𝑋 . 𝑓6
+                        9        6       54      9-10=-1                 1             6
+                        10      22      220      10-10=0                 0             0
+                        11       0       0       11-10=1                 1             0
+                        12       1       12      12-10=2                 4             4
+                        13       0       0       13-10=3                 9             0
+                        14       1       14      14-10=4                16            16
+                       Tota                                                           26
+                                30      300
+                         l
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   82
+        www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+O desvio padrão é dado por:
+
+                                      *                E
+                                      6H@    𝑋6 − 𝑋        . 𝑓6         26       26
+                             𝑆=                                   =          =      <1
+                                             𝑛−1                      30 − 1     29
+
+Para tirar a prova, podemos elevar ao quadrado, os dois lados.
+                                                            E
+                                                     26
+                                                                < 1 E
+                                                     29
+
+                                                      26
+                                                         <1
+                                                      29
+
+                                                     0,89 < 1
+
+Portanto, certa a questão.
+
+Gabarito: Certa
+
+Q.04 (CEBRASPE / IPHAN / Analista / 2018)
+
+Cinco municípios de um estado brasileiro possuem as seguintes quantidades de patrimônios
+históricos: {2, 3, 5, 3, 2}.
+
+Admitindo que a média e o desvio-padrão desse conjunto de valores sejam iguais a 3 e 1,2,
+respectivamente, julgue o item seguinte.
+
+O coeficiente de variação é superior a 0,3 e inferior a 0,5.
+
+   C – CERTO
+
+   E – ERRADO
+
+Comentários:
+
+Vamos lá.
+
+   ● Média = 3
+   ● Desvio Padrão = 1,2
+
+                                  0,3 < Coeficiente de Variação < 0,5
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   83
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                                           𝐷𝑒𝑠𝑣𝑖𝑜 𝑃𝑎𝑑𝑟ã𝑜 1,2
+                       𝐶𝑜𝑒𝑓𝑖𝑐𝑖𝑒𝑛𝑡𝑒 𝑑𝑒 𝑉𝑎𝑟𝑖𝑎çã𝑜 =                        =    = 0,4
+                                                              𝑀é𝑑𝑖𝑎       3
+
+Gabarito: Certo
+
+Q.05 (CEBRASPE / IPHAN / Analista / 2018)
+
+Cinco municípios de um estado brasileiro possuem as seguintes quantidades de patrimônios
+históricos: {2, 3, 5, 3, 2}.
+
+Admitindo que a média e o desvio-padrão desse conjunto de valores sejam iguais a 3 e 1,2,
+respectivamente, julgue o item seguinte.
+
+Para esse conjunto de valores, a variância é igual a 3.
+
+   C – CERTO
+
+   E – ERRADO
+
+Comentários:
+
+Opa!!
+
+Cuidado aí para não vacilar e perder um tempo precioso, hein!!
+
+A variância corresponde ao quadrado do desvio padrão. Como o DP foi fornecido no
+enunciado da questão. Logo:
+
+                                           𝑉𝑎𝑟𝑖â𝑛𝑐𝑖𝑎 = 1,2E = 1,44
+
+Gabarito: Errado
+
+Q.06 (CEBRASPE - Analista (SERPRO) /Ciência de Dados/2021)
+
+Considerando que o número X de erros registrados em determinado tipo de código
+computacional siga uma distribuição binomial com média igual a 4 e variância igual a 3, julgue o
+item a seguir.
+
+O coeficiente de variação da distribuição de erros X é igual a 3.
+
+   C – CERTO
+
+   E – ERRADO
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   84
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Comentários:
+
+Os dados fornecidos na questão são os seguintes:
+
+Média = 4
+
+Variância =3
+
+E a banca deseja saber se o coeficiente de variação é 3.
+
+                                                     𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜
+                                              𝐶𝑉 =
+                                                        𝑚é𝑑𝑖𝑎
+
+O desvio padrão é 3 ≈ 1,73. Logo,
+
+                                                       1,73
+                                                𝐶𝑉 =        = 0,43
+                                                         4
+
+Gabarito: Errado
+
+Questões VUNESP
+
+Q.07 (VUNESP - Analista Administrativo (EBSERH HC-UFU) / Estatística/2020)
+
+Um aluno tirou as seguintes notas ao longo do semestre: 4, 8, 6, 1 e 6. A média, a mediana e o
+desvio padrão foram, respectivamente:
+
+a) 5; 6 e 5,6.
+
+b) 5; 5 e 5,6.
+
+c) 5; 6 e 2,4.
+
+d) 5; 6 e 31,6.
+
+e) 6; 6 e 5,6.
+
+Comentários:
+
+Pessoal, os dados fornecidos na questão foram os seguintes:
+
+4, 8, 6, 1 e 6
+
+A primeira coisa a ser feita é ordenar em um ROL.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   85
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+{1, 4, 6, 6, 8}
+
+Temos 5 elementos e facilmente podemos observar que a mediana é 6.
+
+{1, 4, 6, 6, 8}
+
+Com isso, podemos eliminar a alternativa B.
+
+Agora iremos calcular a média, para isso, basta somar todos os valores e dividir por 5.
+
+                                              1 + 4 + 6 + 6 + 8 25
+                                        𝑋=                     =   =5
+                                                      5          5
+
+Com isso, podemos eliminar a alternativa E e ficamos com as letras A, C e D.
+
+Para calcular o desvio padrão, temos que encontrar a média dos quadrados dos desvios em relação
+à média.
+
+                                                                               E
+                                         X         𝑋6 − 𝑋             𝑋6 − 𝑋
+                                         1         1-5=-4                16
+                                         4         4-5=-1                 1
+                                         6         6-5=1                  1
+                                         6         6-5=1                  1
+                                         8         8-5=3                  9
+                                        Tota                             28
+                                          l
+
+
+
+
+                                             *                E
+                                             6H@     𝑋6 − 𝑋             28
+                                    𝜎=                            =        =       5,6
+                                                     𝑛                  5
+
+Analisando as alternativas A, C e D. Podemos perceber que a resposta só pode ser a letra C.
+
+                                                       𝜎 ≈ 2,4
+
+Gabarito: C
+
+Q.08 (VUNESP - Analista de Gestão (FITO) /Contabilidade/2020)
+
+Na análise de um conjunto de valores, é muito importante calcular as medidas de tendência central
+e de dispersão, para se ter uma ideia das características dessa distribuição de dados. Em relação a
+essas medidas, é correto afirmar que
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   86
+         www.estrategiaconcursos.com.br                                                            101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+a) a moda, a média aritmética e a mediana nunca coincidem em valor.
+
+b) se somarmos uma constante arbitrária maior que zero a cada elemento desse conjunto de
+valores, a média aritmética e a variância ficam inalteradas.
+
+c) se multiplicarmos uma constante arbitrária maior que zero a cada elemento desse conjunto de
+valores, a nova variância fica multiplicada pelo quadrado dessa constante.
+
+d) a soma dos desvios de cada valor do conjunto em relação à média apresenta normalmente um
+valor maior que zero.
+
+e) se dividirmos cada elemento desse conjunto de valores por uma constante arbitrária maior que
+zero, o novo desvio padrão fica dividido pelo valor da constante ao quadrado.
+
+Comentários:
+
+Pessoal, essa é uma questão de propriedade das medidas de tendência central e de dispersão.
+
+Vamos analisar cada alternativa:
+
+Letra a) a moda, a média aritmética e a mediana nunca coincidem em valor.
+
+Errada, pois eles podem sim coincidir, basta lembrar, por exemplo, de uma distribuição simétrica
+em que a média e mediana são iguais.
+
+Letra b) se somarmos uma constante arbitrária maior que zero a cada elemento desse conjunto de
+valores, a média aritmética e a variância ficam inalteradas.
+
+Errada em relação à média. A média aritmética ficará somada a essa variável, mas a variância ficará
+inalterada.
+
+Letra c) se multiplicarmos uma constante arbitrária maior que zero a cada elemento desse conjunto
+de valores, a nova variância fica multiplicada pelo quadrado dessa constante.
+
+Correta, pois a variância fica multiplicada pelo quadrado da constante.
+
+Letra d) a soma dos desvios de cada valor do conjunto em relação à média apresenta normalmente
+um valor maior que zero.
+
+Errada, pois sabemos que a soma dos desvios em relação à média é sempre zero.
+
+Letra e) se dividirmos cada elemento desse conjunto de valores por uma constante arbitrária maior
+que zero, o novo desvio padrão fica dividido pelo valor da constante ao quadrado.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   87
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Errada, pois o desvio padrão ficará dividido pela constante. Quem fica dividido pela constante ao
+quadrado é a variância.
+
+Gabarito: C
+
+
+Questões Bancas Diversas
+
+Q.09 (IBFC - Supervisor de Pesquisas (IBGE) /Suporte Gerencial/2021)
+
+Em dois grupos formados pela mesma quantidade de pessoas constatou-se que a média de idade
+do primeiro grupo é igual a 25 com variância de 16, e a média de idade do segundo grupo é igual
+a 40, com variância de 36. Nessas condições, é correto afirmar que o coeficiente de variação:
+
+a) do primeiro grupo é maior que o do segundo grupo.
+
+b) do primeiro grupo é menor que o do segundo grupo.
+
+c) é igual para ambos os grupos.
+
+d) é igual a 0,64 para o primeiro grupo e igual a 0,90 para o segundo grupo.
+
+e) é igual a 1,6 para o primeiro grupo e igual a 1,5 para o segundo grupo.
+
+Comentários:
+
+Pessoal, essa é uma questão para comparar o coeficiente de variação de dois grupos.
+
+                                                     𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜
+                                              𝐶𝑉 =
+                                                        𝑚é𝑑𝑖𝑎
+
+Grupo 1:
+
+Média = 25
+
+Variância = 16
+
+Desvio padrão = 𝑣𝑎𝑟𝑖â𝑛𝑐𝑖𝑎 = 16 = 4
+
+                                                            4
+                                             𝐶𝑉‹=45Œ @ =      = 0,16
+                                                           25
+
+Grupo 2:
+
+Média = 40
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   88
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 09
+
+
+
+Variância = 36
+
+Desvio padrão = 𝑣𝑎𝑟𝑖â𝑛𝑐𝑖𝑎 = 36 = 6
+
+                                                              6
+                                               𝐶𝑉‹=45Œ E =      = 0,15
+                                                             40
+
+Analisando as alternativas podemos observar que a resposta é a letra A, pois o CV foi maior para
+o primeiro grupo.
+
+Gabarito: A
+
+Q.10 (IBADE - Analista Público de Gestão (Pref Vila Velha)/Economista/2020)
+
+Exemplos comuns de medidas de dispersão estatística são:
+
+I – média;
+
+II – mediana;
+
+III – variância;
+
+IV - desvio padrão;
+
+V - amplitude interquartil.
+
+Está(ão) correta(s):
+
+a) somente V.
+
+b) somente V e IV.
+
+c) somente V, IV e III.
+
+d) somente V, IV, III e II.
+
+e) l, ll, lll, lV e V.
+
+Comentários:
+
+Pessoal, a média e a mediana são medidas de tendência central. Já a variância, desvio padrão e
+amplitude interquartil são medidas de dispersão absoluta, como vimos em aula. Logo, a letra C é
+a resposta.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   89
+          www.estrategiaconcursos.com.br                                                            101
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Gabarito: C
+
+
+Questões FGV
+
+Q.11 (FGV/ Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Uma variável aleatória discreta X tem os seguintes valores possíveis e probabilidades associadas:
+
+                                        x            -1            1           3
+                                       p(x)          0,4          0,2         0,4
+
+A variância de X é igual a
+
+a) 2,0.
+
+b) 2,4.
+
+c) 2,8.
+
+d) 3,2.
+
+e) 3,6.
+
+Comentários:
+
+Considere a seguinte tabela:
+
+
+
+
+                                                     X        P(X)
+                                                     -1       0,4
+                                                     1        0,2
+                                                     3        0,4
+                                                     Total    1,0
+
+A primeira a ser feita é construir a coluna de X.P(X) e em seguida calcular a média.
+
+
+
+
+                                              X        P(X)     X.P(X)
+                                              -1       0,4      -0,4
+                                              1        0,2      0,2
+                                              3        0,4      1,2
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   90
+          www.estrategiaconcursos.com.br                                                            101
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+                                            Total 1,0             1,0
+
+
+
+                                                   *
+
+                                            𝑋=          𝑋6 . 𝑃(𝑋6 ) = 1,0
+                                                  6H@
+
+
+
+
+Para calcular a variância utilizaremos a seguinte fórmula.
+
+
+
+                                                        *
+
+                                          𝑉𝑎𝑟(𝑋) =           𝑋6 E . 𝑃(𝑋6 ) − 𝑋 E
+                                                       6H@
+
+
+                                  X        P(X)    X.P(X)          X2      X2. P(X)
+                                  -1       0,4     -0,4            12=1    0,4
+                                  1        0,2     0,2             12=1    0,2
+                                  3        0,4     1,2             32=9    3,6
+                                  Total    1,0     1,0                     4,2
+
+Portanto, a variância será
+
+                                              𝑉𝑎𝑟(𝑋) = 4,2 − 1,0E
+
+                                               𝑉𝑎𝑟(𝑋) = 4,2 − 1,0
+
+                                                  𝑉𝑎𝑟(𝑋) = 𝟑, 𝟐
+
+Gabarito: D
+
+Q.12 (FGV/ Estatístico (SUSAM) / 2014)
+
+Uma variável aleatória X tem média 4 e desvio padrão igual a 2. Se Y = 3X – 2 então a média e o
+desvio padrão de Y são, respectivamente,
+
+a) 12 e 16.
+
+b) 12 e 4.
+
+c) 10 e 18.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   91
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+d) 10 e 6.
+
+e) 10 e 36.
+
+Comentários:
+
+Aqui temos uma questão de transformação de variável. Para resolver essa questão é bom ter o
+conhecimento das propriedades da média e desvio padrão.
+
+As propriedades para a média:
+
+   •   A soma ou subtração de uma variável aleatória “k” a todos os valores de um conjunto de
+       dados, a média ficará somada ou subtraída por essa constante;
+   •   A multiplicação ou divisão uma variável aleatória “k” a todos os valores de um conjunto de
+       dados, a média fica multiplicado ou dividida por essa constante.
+
+As propriedades para o desvio padrão:
+
+   •   A soma ou subtração de uma constante “k” a todos os valores de um conjunto de dados, o
+       desvio padrão não se alteram;
+   •   A multiplicação ou divisão de uma constante “k” a todos os valores de um conjunto de
+       dados, o desvio padrão fica multiplicado ou dividida por essa constante.
+
+A variável X tem as seguintes medidas:
+
+Média = 4
+
+Desvio padrão = 2
+
+A variável Y é a seguinte:
+
+                                                   𝒀 = 𝟑𝑿 – 𝟐
+
+Para encontrar a média e o desvio padrão de Y, basta utilizar as propriedades.
+
+A média é afetada pelas 4 operações matemáticas.
+
+                                  𝑀é𝑑𝑖𝑎 𝑑𝑒 𝑌 = 3 . 4 – 2 = 12 – 2 = 𝟏𝟎
+
+
+
+O desvio padrão é afetado apenas pela multiplicação e divisão.
+
+                                 𝐷𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜 𝑑𝑒 𝑌 = 3 . 2 – 2 = 6 = 𝟔
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   92
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Gabarito: D
+
+Q.13 (FGV / Analista Judiciário / 2022)
+
+Os dados a seguir são uma amostra de idades:
+
+                                            26 28 30 32 32 34 36 38
+
+O desvio padrão dessas idades é igual a
+
+   a) 2.
+   b) 3.
+   c) 4.
+   d) 5.
+   e) 6.
+
+Comentários:
+
+Percebam que a distribuição 26 28 30 32 32 34 36 38 é simétrica, portanto a Média é o termo
+central (ou os termos centrais), logo a nossa média é 32.
+
+Ou simplesmente:
+
+                                       E˜™Eš™?d™?E™?E™?›™?˜™?š
+                                 𝑋=                                          = 32
+                                                         š
+
+Fiquem atentos ao fato de termos uma AMOSTRA, portanto, para o cálculo do desvio padrão,
+precisaremos dividir por (n – 1).
+
+           (26 − 32)E + (28 − 32)E + (30 − 32)E + (32 − 32)E + (32 − 32)E + (34 − 32)E + (36 − 32)E + (38 − 32)E
+    𝑆E =
+                                                           8−1
+
+                                                     𝑆 E = 16
+
+                                                       𝑠=4
+
+Gabarito: C
+
+Q.14 (FGV / Pref. Paulínia / 2021)
+
+Em uma turma de 10 alunos, as notas dos alunos em uma avaliação foram:
+
+                                          6 7 7 8 8 8 8 9 9 10
+
+O desvio padrão dessa lista de notas é, aproximadamente,
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                    93
+        www.estrategiaconcursos.com.br                                                                             101
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+   a) 0,8.
+   b) 0,9.
+   c) 1,1.
+   d) 1,3.
+   e) 1,5.
+
+Comentários:
+
+Sabemos que o desvio padrão é a raiz quadrada da variância, ok?
+
+A Média Aritmética das notas é igual 8.
+
+          (6 − 8)E + (7 − 8)E + (7 − 8)E + (8 − 8)E + (8 − 8)E + (8 − 8)E + (8 − 8)E + (9 − 8)E + (9 − 8)E +(10 − 8)E
+   𝑆E =
+                                                               10
+
+                                                       𝑆 E = 1,2
+
+                                                        𝑆 = 1,1
+
+Gabarito: C
+
+
+                         LISTA DE QUESTÕES ESTRATÉGICAS
+
+
+
+
+Questões CEBRASPE
+
+Q.01 (CEBRASPE (CESPE) /ACE (TCE-RJ) / Controle Externo/TI/2021)
+
+                                                X              frequência
+                                                                absoluta
+                                                0                   5
+                                                1                  10
+                                                2                  20
+                                                3                  15
+                                              total                50
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                       94
+          www.estrategiaconcursos.com.br                                                                                101
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Considerando que a tabela precedente mostra a distribuição de frequências de uma variável
+quantitativa X, julgue o item a seguir.
+
+A variância amostral de X é superior a 0,89.
+
+   C - CERTO
+
+   E – ERRADO
+
+Q.02 (CEBRASPE (CESPE) / Profissional de Tecnologia da Informação (ME) /2020)
+
+Considerando que R representa uma variável quantitativa cuja média, mediana e variância são,
+                                                                   c
+respectivamente, iguais a 70, 80 e 100, e que 𝑈 =                       − 7, julgue o próximo item, acerca das
+                                                                   @d
+variáveis U e R.
+
+
+
+
+O desvio padrão da variável U é igual a 1.
+
+   C - CERTO
+
+   E - ERRADO
+
+Q.03 (CEBRASPE (CESPE) / Professor (Pref São Cristóvão)/Matemática/Educação Básica/2019)
+
+A tabela seguinte mostra a distribuição das idades dos 30 alunos da turma A do quinto ano de
+uma escola de ensino fundamental.
+
+                                                                   1 1 1 1 1
+                                    idade (em anos)            9
+                                                                   0 1 2 3 4
+                                    quantidade de                  2
+                                                               6     0 1 0 1
+                                    estudantes                     2
+
+A partir dessa tabela, julgue o item.
+
+O desvio padrão das idades é inferior a 1ano.
+
+C - Certo.
+
+E – Errado.
+
+Q.04 (CEBRASPE / IPHAN / Analista / 2018)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático            95
+        www.estrategiaconcursos.com.br                                                                     101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Cinco municípios de um estado brasileiro possuem as seguintes quantidades de patrimônios
+históricos: {2, 3, 5, 3, 2}.
+
+Admitindo que a média e o desvio-padrão desse conjunto de valores sejam iguais a 3 e 1,2,
+respectivamente, julgue o item seguinte.
+
+O coeficiente de variação é superior a 0,3 e inferior a 0,5.
+
+   C – CERTO
+
+   E – ERRADO
+
+Q.05 (CEBRASPE / IPHAN / Analista / 2018)
+
+Cinco municípios de um estado brasileiro possuem as seguintes quantidades de patrimônios
+históricos: {2, 3, 5, 3, 2}.
+
+Admitindo que a média e o desvio-padrão desse conjunto de valores sejam iguais a 3 e 1,2,
+respectivamente, julgue o item seguinte.
+
+Para esse conjunto de valores, a variância é igual a 3.
+
+   C – CERTO
+
+   E – ERRADO
+
+Q.06 (CEBRASPE - Analista (SERPRO) /Ciência de Dados/2021)
+
+Considerando que o número X de erros registrados em determinado tipo de código
+computacional siga uma distribuição binomial com média igual a 4 e variância igual a 3, julgue o
+item a seguir.
+
+O coeficiente de variação da distribuição de erros X é igual a 3.
+
+   C – CERTO
+
+   E – ERRADO
+
+
+Questões VUNESP
+
+Q.07 (VUNESP - Analista Administrativo (EBSERH HC-UFU) / Estatística/2020)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   96
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+Um aluno tirou as seguintes notas ao longo do semestre: 4, 8, 6, 1 e 6. A média, a mediana e o
+desvio padrão foram, respectivamente:
+
+a) 5; 6 e 5,6.
+
+b) 5; 5 e 5,6.
+
+c) 5; 6 e 2,4.
+
+d) 5; 6 e 31,6.
+
+e) 6; 6 e 5,6.
+
+Q.08 (VUNESP - Analista de Gestão (FITO) /Contabilidade/2020)
+
+Na análise de um conjunto de valores, é muito importante calcular as medidas de tendência central
+e de dispersão, para se ter uma ideia das características dessa distribuição de dados. Em relação a
+essas medidas, é correto afirmar que
+
+a) a moda, a média aritmética e a mediana nunca coincidem em valor.
+
+b) se somarmos uma constante arbitrária maior que zero a cada elemento desse conjunto de
+valores, a média aritmética e a variância ficam inalteradas.
+
+c) se multiplicarmos uma constante arbitrária maior que zero a cada elemento desse conjunto de
+valores, a nova variância fica multiplicada pelo quadrado dessa constante.
+
+d) a soma dos desvios de cada valor do conjunto em relação à média apresenta normalmente um
+valor maior que zero.
+
+e) se dividirmos cada elemento desse conjunto de valores por uma constante arbitrária maior que
+zero, o novo desvio padrão fica dividido pelo valor da constante ao quadrado.
+
+
+Questões Bancas Diversas
+
+Q.09 (IBFC - Supervisor de Pesquisas (IBGE) /Suporte Gerencial/2021)
+
+Em dois grupos formados pela mesma quantidade de pessoas constatou-se que a média de idade
+do primeiro grupo é igual a 25 com variância de 16, e a média de idade do segundo grupo é igual
+a 40, com variância de 36. Nessas condições, é correto afirmar que o coeficiente de variação:
+
+a) do primeiro grupo é maior que o do segundo grupo.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   97
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 09
+
+
+
+b) do primeiro grupo é menor que o do segundo grupo.
+
+c) é igual para ambos os grupos.
+
+d) é igual a 0,64 para o primeiro grupo e igual a 0,90 para o segundo grupo.
+
+e) é igual a 1,6 para o primeiro grupo e igual a 1,5 para o segundo grupo.
+
+Q.10 (IBADE - Analista Público de Gestão (Pref Vila Velha)/Economista/2020)
+
+Exemplos comuns de medidas de dispersão estatística são:
+
+I – média;
+
+II – mediana;
+
+III – variância;
+
+IV - desvio padrão;
+
+V - amplitude interquartil.
+
+Está(ão) correta(s):
+
+a) somente V.
+
+b) somente V e IV.
+
+c) somente V, IV e III.
+
+d) somente V, IV, III e II.
+
+e) l, ll, lll, lV e V.
+
+
+Questões FGV
+
+Q.11 (FGV/ Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Uma variável aleatória discreta X tem os seguintes valores possíveis e probabilidades associadas:
+
+                                        x            -1            1           3
+                                       p(x)          0,4          0,2         0,4
+
+A variância de X é igual a
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   98
+          www.estrategiaconcursos.com.br                                                            101
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+a) 2,0.
+
+b) 2,4.
+
+c) 2,8.
+
+d) 3,2.
+
+e) 3,6.
+
+Q.12 (FGV/ Estatístico (SUSAM) / 2014)
+
+Uma variável aleatória X tem média 4 e desvio padrão igual a 2. Se Y = 3X – 2 então a média e o
+desvio padrão de Y são, respectivamente,
+
+a) 12 e 16.
+
+b) 12 e 4.
+
+c) 10 e 18.
+
+d) 10 e 6.
+
+e) 10 e 36.
+
+Q.13 (FGV / Analista Judiciário / 2022)
+
+Os dados a seguir são uma amostra de idades:
+
+                                             26 28 30 32 32 34 36 38
+
+O desvio padrão dessas idades é igual a
+
+   a) 2.
+   b) 3.
+   c) 4.
+   d) 5.
+   e) 6.
+
+Q.14 (FGV / Pref. Paulínia / 2021)
+
+Em uma turma de 10 alunos, as notas dos alunos em uma avaliação foram:
+
+                                           6 7 7 8 8 8 8 9 9 10
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   99
+          www.estrategiaconcursos.com.br                                                            101
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 09
+
+
+
+O desvio padrão dessa lista de notas é, aproximadamente,
+
+   a) 0,8.
+   b) 0,9.
+   c) 1,1.
+   d) 1,3.
+   e) 1,5.
+
+
+
+
+Gabarito
+
+
+
+
+   1          2          3          4          5           6        7           8          9      10
+  CC         CC         CC         CC         ERR        ERR        C          C          A       C
+  11         12         13         14          15         16        17         18         19      20
+  D          D          C           C
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático        100
+        www.estrategiaconcursos.com.br                                                                 101
+
+                                    https://t.me/KakashiAssinaturasBot
+

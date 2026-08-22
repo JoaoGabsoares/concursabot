@@ -1,0 +1,1111 @@
+                                                    Aula 08
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                         Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                             25 de Julho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+    Aula 08
+
+
+
+
+                                                                    SIMULADO
+Simulado ............................................................................................................................................................ 1
+
+Introdução .......................................................................................................................................................... 1
+
+Questões Inéditas .............................................................................................................................................. 1
+
+Gabarito ............................................................................................................................................................. 6
+
+Questões Comentadas ...................................................................................................................................... 6
+
+
+
+
+                                                                 INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+PLN, Python, R e Computação em Nuvem
+Pronto para testar seu conhecimento?!
+
+
+                                                       QUESTÕES INÉDITAS
+
+                                                                                 PLN
+
+       1. O que é Processamento de Linguagem Natural (PLN) e qual é seu objetivo principal?
+
+             A) PLN é uma subárea da Inteligência Artificial que tem como objetivo traduzir textos em diferentes
+             idiomas.
+             B) PLN é uma subárea da Inteligência Artificial que tem como objetivo permitir que os computadores
+             compreendam a linguagem dos humanos e se comuniquem em linguagem de máquina.
+             C) PLN é uma subárea da Inteligência Artificial que tem como objetivo permitir que os computadores
+             compreendam, interpretem e gerem a linguagem natural de uma maneira compreensível pelos
+             humanos.
+             D) PLN é uma subárea da Inteligência Artificial que tem como objetivo o ensino de linguagens de
+             programação.
+             E) PLN é uma subárea da Inteligência Artificial que tem como objetivo a geração automática de
+             textos literários.
+
+       2. o contexto de PLN, o que é tokenização?
+
+             A) É o processo de converter uma sequência de texto em uma sequência de números.
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                                                                                     1
+             www.estrategiaconcursos.com.br
+
+                                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         B) É o processo de converter uma sequência de texto em unidades menores chamadas tokens.
+         C) É o processo de remoção de palavras irrelevantes de um texto.
+         D) É o processo de tradução de um texto para outro idioma.
+         E) É o processo de correção gramatical de um texto.
+
+     3. O que é um n-Grama no contexto de PLN??
+
+         A) É um modelo de representação de texto que considera a ordem das palavras.
+         B) É um modelo de representação de texto que considera a frequência de co-ocorrência de palavras.
+         C) São combinações contíguas de n itens de uma determinada amostra de texto ou fala.
+         D) É um modelo de representação de texto que considera a semântica das palavras.
+         E) É um modelo de representação de texto que considera a gramática das palavras.
+
+     4. No contexto de PLN, qual é a diferença entre Stemming e Lemmatization?
+
+         A) Stemming refere-se à redução de palavras inflexionadas ao seu radical, enquanto a
+         Lemmatization reduz as palavras à sua forma de dicionário .
+         B) Stemming e Lemmatization são sinônimos e referem-se ao mesmo processo.
+         C) Stemming é o processo de remoção de Stopwords, enquanto Lemmatization é o processo de
+         Tokenização.
+         D) Stemming é usado para análise semântica, enquanto Lemmatization é usado para análise
+         sintática.
+         E) Stemming é uma técnica de pré-processamento de texto, enquanto Lemmatization é uma técnica
+         de pós-processamento.
+
+     5. Quais são as principais diferenças entre os métodos de representação de texto Bag of Words
+        (BoW) e TF-IDF?
+
+         A) O BoW considera a frequência das palavras, enquanto o TF-IDF considera a frequência inversa do
+         documento.
+         B) O BoW considera a ordem das palavras, enquanto o TF-IDF não.
+         C) O TF-IDF é um método de representação binária, enquanto o BoW considera a frequência das
+         palavras.
+         D) O BoW é um método de representação baseado em vetores, enquanto o TF-IDF é baseado em
+         matrizes.
+         E) O TF-IDF considera a semântica das palavras, enquanto o BoW não.
+
+
+                                                       Python
+
+     6. Assinale a alternativa que define corretamente o tipo de dado das variáveis a, b e c,
+        respectivamente:
+
+         a = ["alice", "bob", "charles"]
+         b = ("alice", "bob", "charles")
+         c = {"alice", "bob", "charles"}
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        2
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         A) Tupla, Lista, Conjunto
+         B) Conjunto, Lista, Tupla
+         C) Lista, Conjunto, Tupla
+         D) Tupla, Conjunto, Lista
+         E) Lista, Tupla, Conjunto
+
+     7. Qual dos caracteres a seguir é usado para fazer comentários de uma única linha em Python??
+
+         A) //
+         B) #
+         C) !
+         D) /*
+         E) $
+
+     8. Qual é o resultado da seguinte expressão em Python? 4 + 3 % 5?
+
+         A) 7
+         B) 2
+         C) 4
+         D) 1
+         E) 0
+
+     9. Acerca da linguagem de programação Python, assinale a alternativa INCORRETA?
+
+         A) Python suporta os paradigmas orientado a objetos e estruturado para programação.
+         B) Python é uma linguagem que diferencia maiúsculas e minúsculas na definição de variáveis.
+         C) O código Python, em sua implementação padrão, é compilado para linguagem de máquina antes
+         de ser executado, o que permite um melhor desempenho do código.
+         D) As palavras-chave que representam valores booleanos em python são True e False, com iniciais
+         maiúsculas.
+         E) Ao se definir uma função dentro de uma classe, o primeiro parâmetro sempre é uma referência
+         à instância atual da classe e é usado para acessar variáveis que pertencem à classe. Não existe a
+         obrigação deste parâmetro ser nomeado "self" necessariamente.
+
+     10. Qual é o valor final da variável "soma" após a execução do seguinte código em Python?
+
+         numeros = [1, 2, 3, 4, 5]
+         soma = 0
+         for num in numeros:
+           soma += num
+         print(soma)
+
+         A) 0
+         B) 5
+         C) 10
+         D) 15
+         E) 25
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        3
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+
+                                                           R
+
+     11. No contexto da linguagem de programação R, o que são estruturas de seleção?
+
+         A) São estruturas que permitem executar um conjunto de instruções repetidamente com base em
+         uma condição
+         B) São construções de programação que permitem executar diferentes ações com base em uma
+         condição
+         C) São construções de programação que permitem acessar elementos de uma coleção
+         D) São estruturas que permitem armazenar múltiplos valores em uma única variável
+         E) São estruturas que permitem criar uma interface gráfica para o usuário
+
+     12. Na linguagem de programação R, o que são vetores?
+
+         A) São estruturas de dados tridimensionais que podem conter elementos de tipos diferentes
+         B) São estruturas de dados bidimensionais que contêm elementos do mesmo tipo
+         C) São estruturas de dados unidimensionais que armazenam elementos do mesmo tipo
+         D) São estruturas de dados bidimensionais que podem conter elementos de tipos diferentes
+         E) São estruturas de dados tridimensionais que contêm elementos do mesmo tipo
+
+     13. Na linguagem de programação R, o que a função paste() faz?
+
+         A) Conta o número de caracteres em uma sequência de caracteres
+         B) Calcula a média aritmética de um conjunto de valores numéricos
+         C) Concatena elementos de objetos em uma única sequência de caracteres
+         D) Gera uma sequência de números
+         E) Calcula a soma de um conjunto de valores numéricos
+
+     14. Considerando a seguinte linha de código em R:
+
+         x <- c(2, 4, 6, 8, 10)
+
+         O que esse código faz??
+
+         A) Cria um vetor chamado 'x' com cinco elementos: 2, 4, 6, 8 e 10
+         B) Atribui o valor 10 à variável 'x'
+         C) Cria uma função chamada 'x' que retorna um vetor com cinco elementos: 2, 4, 6, 8 e 10
+         D) Cria uma matriz 2x5 chamada 'x'
+         E) Cria um vetor chamado 'x' com dois elementos: 2 e 10
+
+     15. Considere o seguinte código R:
+
+         data <- c(1, 3, 5, 7, 9, 11)
+         result <- sum(data[1:4])
+
+         Qual será o valor da variável 'result'?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                     4
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+
+         A) 40
+         B) 20
+         C) 24
+         D) 36
+         E) 16
+
+                                              Computação em Nuvem
+
+     16. Qual dos seguintes é um benefício da computação em nuvem?
+
+         A) Maior necessidade de infraestrutura física.
+         B) Menor escalabilidade.
+         C) Redução de custos operacionais.
+         D) Menor flexibilidade.                        ==219a34==
+
+
+
+
+         E) Dependência de uma conexão à Internet.
+
+     17. Qual dos seguintes modelos de serviço de computação em nuvem permite aos usuários evitar a
+         gestão do sistema operacional e se concentrar apenas no desenvolvimento e gerenciamento de
+         suas aplicações?
+
+         A) SaaS (Software como Serviço)
+         B) PaaS (Plataforma como Serviço)
+         C) IaaS (Infraestrutura como Serviço)
+         D) FaaS (Função como Serviço)
+         E) Nuvem Privada
+
+     18. Qual dos seguintes é um exemplo de uma nuvem híbrida?
+
+         A) Uso de AWS para todos os serviços de TI.
+         B) Uso de um data center no local para todas as operações de TI.
+         C) Uso de AWS para operações diárias e Microsoft Azure para backup e recuperação de desastres.
+         D) Uso de AWS para operações diárias e um data center no local para backup e recuperação de
+         desastres.
+         E) Uso de um único serviço de nuvem para todas as operações de TI.
+
+     19. ual dos seguintes cenários melhor representa o uso do conceito de "elasticidade" em computação
+         em nuvem?
+
+         A) Uma empresa aumenta o número de instâncias de servidor durante os períodos de pico de
+         demanda e as reduz durante períodos de baixa demanda.
+         B) Uma empresa reduz o número de instâncias de servidor durante os períodos de pico de demanda
+         para economizar custos.
+         C) Uma empresa mantém o mesmo número de instâncias de servidor rodando em todos os
+         momentos, independentemente da demanda.
+         D) Uma empresa usa um único servidor poderoso para lidar com todas as requisições.
+         E) Uma empresa usa servidores dedicados para cada uma de suas diferentes operações.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                     5
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+
+     20. Qual dos seguintes exemplos melhor representa o modelo de serviço de Infraestrutura como
+         Serviço (IaaS)?
+
+           A) Um usuário utiliza o Google Docs para escrever e editar documentos.
+           B) Um desenvolvedor usa o Heroku para desenvolver, executar e gerenciar aplicações.
+           C) Uma empresa usa o Dropbox para armazenar e compartilhar arquivos.
+           D) Um usuário utiliza o Salesforce para gerenciar suas relações com o cliente.
+           E) Uma empresa usa o Microsoft Azure para alugar servidores virtuais nos quais instala e gerencia
+           seu próprio software.
+
+
+
+
+                                                   GABARITO
+    1. C                      2. B                    3. C                    4. A          5. A
+
+    6. E                      7. B                    8. A                    9. C          10. D
+
+    11. B                     12. C                   13. C                   14. A         15. E
+
+    16. C                     17. B                   18. D                   19. A         20. E
+
+
+
+                                      QUESTÕES COMENTADAS
+
+                                                             PLN
+
+     1. O que é Processamento de Linguagem Natural (PLN) e qual é seu objetivo principal?
+
+           A) PLN é uma subárea da Inteligência Artificial que tem como objetivo traduzir textos em diferentes
+           idiomas.
+           B) PLN é uma subárea da Inteligência Artificial que tem como objetivo permitir que os computadores
+           compreendam a linguagem dos humanos e se comuniquem em linguagem de máquina.
+           C) PLN é uma subárea da Inteligência Artificial que tem como objetivo permitir que os computadores
+           compreendam, interpretem e gerem a linguagem natural de uma maneira compreensível pelos
+           humanos.
+           D) PLN é uma subárea da Inteligência Artificial que tem como objetivo o ensino de linguagens de
+           programação.
+           E) PLN é uma subárea da Inteligência Artificial que tem como objetivo a geração automática de
+           textos literários.
+
+           Comentários:
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                            6
+           www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         A) Incorreta - Enquanto a tradução de textos é uma das aplicações do PLN, não é seu principal
+         objetivo. O PLN é mais amplo e inclui a compreensão, interpretação e geração de linguagem natural.
+         B) Incorreta - Essa alternativa é parcialmente verdadeira, já que um dos objetivos do PLN é permitir
+         que os computadores compreendam a linguagem natural. No entanto, não se limita apenas à
+         comunicação em linguagem de máquina, mas também à geração de linguagem natural que os
+         humanos podem entender.
+         C) Correta - Esta é a definição mais completa de PLN, abrangendo a compreensão, interpretação e
+         geração de linguagem natural de maneira que seja compreensível para os humanos.
+         D) Incorreta - O ensino de linguagens de programação não é o objetivo do PLN. O PLN se concentra
+         na compreensão, interpretação e geração de linguagem natural, não de linguagens de programação.
+         E) Incorreta - Embora a geração de texto seja uma aplicação do PLN, o objetivo principal do PLN não
+         é a geração automática de textos literários. O PLN é mais abrangente e visa permitir que os
+         computadores compreendam, interpretem e gerem linguagem natural de maneira que seja
+         compreensível para os humanos.
+
+         Gabarito: C
+
+
+     2. No contexto de PLN, o que é tokenização?
+
+         A) É o processo de converter uma sequência de texto em uma sequência de números.
+         B) É o processo de converter uma sequência de texto em unidades menores chamadas tokens.
+         C) É o processo de remoção de palavras irrelevantes de um texto.
+         D) É o processo de tradução de um texto para outro idioma.
+         E) É o processo de correção gramatical de um texto.
+
+         Comentários:
+
+         A) Incorreta - Embora possa haver etapas no PLN onde o texto é convertido em números (como
+         codificação de texto para modelos de aprendizado de máquina), este não é o processo de
+         tokenização. A tokenização refere-se especificamente ao processo de dividir o texto em unidades
+         menores chamadas tokens.
+         B) Correta - A tokenização é o processo de dividir um texto em unidades menores chamadas tokens.
+         Os tokens podem ser palavras, frases ou outros segmentos, dependendo do contexto.
+         C) Incorreta - A remoção de palavras irrelevantes de um texto é referida como "remoção de
+         stopwords", não como tokenização.
+         D) Incorreta - A tradução de um texto para outro idioma é uma aplicação de PLN, mas não é a
+         tokenização. A tokenização é o processo de dividir o texto em unidades menores.
+         E) Incorreta - A correção gramatical é outra aplicação do PLN, mas não é o que é referido como
+         tokenização. A tokenização é a divisão do texto em unidades menores, não a correção do texto.
+
+         Gabarito: B
+
+
+     3. O que é um n-Grama no contexto de PLN??
+
+         A) É um modelo de representação de texto que considera a ordem das palavras.
+         B) É um modelo de representação de texto que considera a frequência de co-ocorrência de palavras.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                           7
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         C) São combinações contíguas de n itens de uma determinada amostra de texto ou fala.
+         D) É um modelo de representação de texto que considera a semântica das palavras.
+         E) É um modelo de representação de texto que considera a gramática das palavras.
+
+         Comentários:
+
+         A) Incorreta - Embora n-gramas possam ajudar a preservar alguma ordem sequencial das palavras,
+         essa descrição não fornece uma definição completa do que é um n-grama.
+         B) Incorreta - A frequência de co-ocorrência de palavras pode ser um aspecto considerado quando
+         se trabalha com n-gramas, mas a alternativa não captura a essência do que é um n-grama, que é a
+         combinação contígua de n itens em um texto.
+         C) Correta - Esta é a definição mais precisa de n-gramas no contexto do PLN. n-gramas são
+         combinações contíguas de n itens (geralmente palavras) de uma determinada amostra de texto ou
+         fala.
+         D) Incorreta - Enquanto a semântica das palavras pode ser parcialmente preservada em n-gramas
+         maiores (como bigramas ou trigramas), a definição de n-grama não se concentra na semântica das
+         palavras, mas em combinações contíguas de palavras.
+         E) Incorreta - O n-Grama não se baseia diretamente na gramática das palavras. Em vez disso, é uma
+         forma de representar um texto ou uma fala como combinações contíguas de n itens, geralmente
+         palavras.
+
+         Gabarito: C
+
+
+     4. No contexto de PLN, qual é a diferença entre Stemming e Lemmatization?
+
+         A) Stemming refere-se à redução de palavras inflexionadas ao seu radical, enquanto a
+         Lemmatization reduz as palavras à sua forma de dicionário .
+         B) Stemming e Lemmatization são sinônimos e referem-se ao mesmo processo.
+         C) Stemming é o processo de remoção de Stopwords, enquanto Lemmatization é o processo de
+         Tokenização.
+         D) Stemming é usado para análise semântica, enquanto Lemmatization é usado para análise
+         sintática.
+         E) Stemming é uma técnica de pré-processamento de texto, enquanto Lemmatization é uma técnica
+         de pós-processamento.
+
+         Comentários:
+
+         A) Correta - Stemming é o processo de reduzir palavras inflexionadas (ou às vezes derivadas) ao seu
+         tronco, base ou raiz, que é geralmente uma forma escrita aproximada da palavra. Lemmatization,
+         por outro lado, leva em consideração a análise morfológica das palavras e reduz as palavras à sua
+         forma básica ou raiz que está presente no dicionário, conhecida como lemma.
+         B) Incorreta - Stemming e Lemmatization não são sinônimos e não se referem ao mesmo processo.
+         Ambos são técnicas de normalização de texto usadas no PLN, mas operam de maneira diferente,
+         como explicado na alternativa A.
+         C) Incorreta - Nem Stemming nem Lemmatization têm a ver com remoção de Stopwords ou
+         Tokenização. Estes são processos diferentes no pré-processamento de texto.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                          8
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         D) Incorreta - Ambas, Stemming e Lemmatization, podem ser usadas para análise semântica e
+         sintática. Eles são técnicas de normalização que não estão restritas a um tipo específico de análise.
+         E) Incorreta - Tanto Stemming quanto Lemmatization são técnicas de pré-processamento, não de
+         pós-processamento. Ambos são usados para normalizar o texto antes de aplicar outras técnicas de
+         PLN ou modelos de aprendizado de máquina.
+
+         Gabarito: A
+
+
+     5. Quais são as principais diferenças entre os métodos de representação de texto Bag of Words
+        (BoW) e TF-IDF?
+
+         A) O BoW considera a frequência das palavras, enquanto o TF-IDF considera a frequência inversa do
+         documento.
+         B) O BoW considera a ordem das palavras, enquanto o TF-IDF não.
+         C) O TF-IDF é um método de representação binária, enquanto o BoW considera a frequência das
+         palavras.
+         D) O BoW é um método de representação baseado em vetores, enquanto o TF-IDF é baseado em
+         matrizes.
+         E) O TF-IDF considera a semântica das palavras, enquanto o BoW não.
+
+         Comentários:
+
+         A) Correta - Bag of Words (BoW) cria um "saco" de palavras onde a ordem das palavras não importa,
+         apenas a frequência com que cada palavra aparece no texto. Por outro lado, TF-IDF (Term
+         Frequency-Inverse Document Frequency) leva em consideração não apenas a frequência da palavra
+         no texto (Term Frequency), mas também o quão exclusiva é a palavra em todo o conjunto de dados
+         (Inverse Document Frequency).
+
+         B) Incorreta - Tanto o BoW quanto o TF-IDF não consideram a ordem das palavras. Ambos são
+         métodos de representação de texto que ignoram a estrutura da sentença.
+         C) Incorreta - TF-IDF não é uma representação binária, mas um valor que reflete a importância de
+         uma palavra em um documento em relação ao conjunto de dados completo. BoW, por outro lado,
+         representa um texto como a contagem de palavras, sem considerar a sua ordem.
+         D) Incorreta - Tanto BoW quanto TF-IDF resultam em representações baseadas em vetores. A
+         diferença é que TF-IDF leva em conta a importância relativa das palavras, enquanto BoW se
+         concentra apenas na frequência das palavras.
+         E) Incorreta - Nem o TF-IDF nem o BoW consideram a semântica das palavras. Ambos são técnicas
+         de representação de texto que se baseiam na frequência das palavras, com TF-IDF adicionando um
+         componente que pondera palavras que são únicas em todo o conjunto de dados.
+
+         Gabarito: A
+
+
+
+
+                                                       Python
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                            9
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+     6. Assinale a alternativa que define corretamente o tipo de dado das variáveis a, b e c,
+        respectivamente:
+
+         a = ["alice", "bob", "charles"]
+         b = ("alice", "bob", "charles")
+         c = {"alice", "bob", "charles"}
+
+         A) Tupla, Lista, Conjunto
+         B) Conjunto, Lista, Tupla
+         C) Lista, Conjunto, Tupla
+         D) Tupla, Conjunto, Lista
+         E) Lista, Tupla, Conjunto
+
+         Comentários:
+
+         Lista: uma coleção de dados que pode ser acessada sequencialmente (não há a necessidade de
+         serem todos do mesmo tipo). Tupla: uma coleção de dados que não pode ser modificada (tuplas são
+         imutáveis). Conjunto: coleção de dados únicos (não repetidos) não necessariamente em ordem.
+
+         Gabarito: E
+
+
+     7. Qual dos caracteres a seguir é usado para fazer comentários de uma única linha em Python??
+
+         A) //
+         B) #
+         C) !
+         D) /*
+         E) $
+
+         Comentários:
+
+         Para escrever comentários de uma única linha em Python, use o "jogo da velha" no início da linha.
+         Para escrever comentários de várias linhas, feche o texto entre aspas triplas: ### assim ###
+
+         Gabarito: B
+
+
+     8. Qual é o resultado da seguinte expressão em Python? 4 + 3 % 5?
+
+         A) 7
+         B) 2
+         C) 4
+         D) 1
+         E) 0
+
+         Comentários:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                       10
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         A) Correta. A expressão 4 + 3 % 5 equivale a 4 + (3 % 5), e o operador % representa o operador de
+         resto ou módulo. Nesse caso, 3 % 5 resulta em 3, portanto, 4 + 3 é igual a 7.
+
+         Todas as outras alternativas contêm resultados que não correspondem ao código apresentado.
+
+         Gabarito: A
+
+
+     9. Acerca da linguagem de programação Python, assinale a alternativa INCORRETA?
+
+         A) Python suporta os paradigmas orientado a objetos e estruturado para programação.
+         B) Python é uma linguagem que diferencia maiúsculas e minúsculas na definição de variáveis.
+         C) O código Python, em sua implementação padrão, é compilado para linguagem de máquina antes
+         de ser executado, o que permite um melhor desempenho do código.
+         D) As palavras-chave que representam valores booleanos em python são True e False, com iniciais
+         maiúsculas.
+         E) Ao se definir uma função dentro de uma classe, o primeiro parâmetro sempre é uma referência
+         à instância atual da classe e é usado para acessar variáveis que pertencem à classe. Não existe a
+         obrigação deste parâmetro ser nomeado "self" necessariamente.
+
+         Comentários:
+
+         Letra C - na implementação padrão, o código python é compilado para "bytecode" que, por sua vez,
+         é interpretado por alguma máquina virtual.
+
+         Gabarito: C
+
+
+     10. Qual é o valor final da variável "soma" após a execução do seguinte código em Python?
+
+         numeros = [1, 2, 3, 4, 5]
+         soma = 0
+         for num in numeros:
+           soma += num
+         print(soma)
+
+         A) 0
+         B) 5
+         C) 10
+         D) 15
+         E) 25
+
+         Comentários:
+
+         Neste código, uma lista chamada "numeros" é definida com os valores [1, 2, 3, 4, 5]. Em seguida,
+         uma variável chamada "soma" é inicializada com o valor zero.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                       11
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         Através de um loop "for", o código percorre cada elemento da lista "numeros" e, em cada iteração,
+         adiciona o valor do elemento à variável "soma" usando o operador de atribuição composto "+=".
+         Isso significa que o valor do elemento é somado ao valor atual da variável "soma".
+
+         Após o término do loop, o valor final da variável "soma" é impresso na tela usando a função "print".
+         Neste caso, o código está calculando a soma de todos os números presentes na lista "numeros" e
+         exibindo o resultado final. No exemplo dado, a saída seria o valor 15, que é a soma de 1 + 2 + 3 + 4
+         + 5.
+
+         Gabarito: D
+
+
+
+
+                                                           R
+
+     11. No contexto da linguagem de programação R, o que são estruturas de seleção?
+
+         A) São estruturas que permitem executar um conjunto de instruções repetidamente com base em
+         uma condição
+         B) São construções de programação que permitem executar diferentes ações com base em uma
+         condição
+         C) São construções de programação que permitem acessar elementos de uma coleção
+         D) São estruturas que permitem armazenar múltiplos valores em uma única variável
+         E) São estruturas que permitem criar uma interface gráfica para o usuário
+
+         Comentários:
+
+         A) Incorreta. A alternativa descreve estruturas de repetição, como loops for e while, que permitem
+         executar um bloco de código repetidamente com base em uma condição, e não estruturas de
+         seleção.
+         B) Correta. Estruturas de seleção em R, como if-else e switch, permitem executar diferentes blocos
+         de código com base no resultado de uma condição. Isso é precisamente o que é afirmado nesta
+         alternativa
+         C) Incorreta. A alternativa está descrevendo o acesso a elementos de coleções, como vetores, listas,
+         matrizes, entre outras. Isso não tem relação direta com as estruturas de seleção.
+         D) Incorreta. Esta alternativa descreve as características de estruturas de dados como vetores, listas,
+         matrizes ou arrays, que permitem armazenar múltiplos valores em uma única variável. Isso não é
+         uma descrição adequada de estruturas de seleção.
+         E) Incorreta. A alternativa está descrevendo a criação de interfaces gráficas, que é um aspecto
+         completamente diferente da programação e não está relacionado às estruturas de seleção na
+         linguagem R.
+
+         Gabarito: B
+
+
+     12. Na linguagem de programação R, o que são vetores?
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                            12
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         A) São estruturas de dados tridimensionais que podem conter elementos de tipos diferentes
+         B) São estruturas de dados bidimensionais que contêm elementos do mesmo tipo
+         C) São estruturas de dados unidimensionais que armazenam elementos do mesmo tipo
+         D) São estruturas de dados bidimensionais que podem conter elementos de tipos diferentes
+         E) São estruturas de dados tridimensionais que contêm elementos do mesmo tipo
+
+         Comentários:
+
+         A) Incorreta. A descrição corresponde a um array multidimensional em R, não a um vetor. Vetores
+         em R são unidimensionais e contêm elementos do mesmo tipo.
+         B) Incorreta. A alternativa está descrevendo uma matriz, não um vetor. Matrizes em R são estruturas
+         de dados bidimensionais que contêm elementos do mesmo tipo.
+         C) Correta. Vetores em R são exatamente estruturas de dados unidimensionais que armazenam
+         elementos do mesmo tipo.
+
+         D) Incorreta. A descrição corresponde a um data frame em R, que é bidimensional e pode conter
+         elementos de tipos diferentes. Vetores em R armazenam elementos do mesmo tipo.
+         E) Incorreta. Vetores em R são estruturas unidimensionais, não tridimensionais. A descrição se
+         assemelha mais a um array tridimensional que contém elementos do mesmo tipo.
+
+         Gabarito: C
+
+
+     13. Na linguagem de programação R, o que a função paste() faz?
+
+         A) Conta o número de caracteres em uma sequência de caracteres
+         B) Calcula a média aritmética de um conjunto de valores numéricos
+         C) Concatena elementos de objetos em uma única sequência de caracteres
+         D) Gera uma sequência de números
+         E) Calcula a soma de um conjunto de valores numéricos
+
+         Comentários:
+
+         A) Incorreta. A função que conta o número de caracteres em uma sequência de caracteres em R é
+         nchar(), não paste().
+         B) Incorreta. A função que calcula a média aritmética de um conjunto de valores numéricos em R é
+         mean(), não paste().
+         C) Correta. A função paste() em R é usada para concatenar elementos de objetos em uma única
+         sequência de caracteres.
+         D) Incorreta. A função que gera uma sequência de números em R é seq(), não paste().
+         E) Incorreta. A função que calcula a soma de um conjunto de valores numéricos em R é sum(), não
+         paste().
+
+         Gabarito: C
+
+
+     14. Considerando a seguinte linha de código em R:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                         13
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+         x <- c(2, 4, 6, 8, 10)
+
+         O que esse código faz??
+
+         A) Cria um vetor chamado 'x' com cinco elementos: 2, 4, 6, 8 e 10
+         B) Atribui o valor 10 à variável 'x'
+         C) Cria uma função chamada 'x' que retorna um vetor com cinco elementos: 2, 4, 6, 8 e 10
+         D) Cria uma matriz 2x5 chamada 'x'
+         E) Cria um vetor chamado 'x' com dois elementos: 2 e 10
+
+         Comentários:
+
+         A) Correta. A linha de código cria um vetor chamado 'x' e atribui a ele cinco elementos: 2, 4, 6, 8 e
+         10.
+         B) Incorreta. A linha de código não está atribuindo o valor 10 à variável 'x', mas sim um vetor de
+         cinco elementos.
+         C) Incorreta. Embora a sintaxe para criar funções em R também utilize o operador <-, neste caso o
+         código está criando um vetor, não uma função.
+         D) Incorreta. A linha de código cria um vetor, não uma matriz. A função c() em R é usada para criar
+         vetores.
+         E) Incorreta. A linha de código cria um vetor com cinco elementos, não apenas dois.
+
+         Gabarito: A
+
+
+     15. Considere o seguinte código R:
+
+         data <- c(1, 3, 5, 7, 9, 11)
+         result <- sum(data[1:4])
+
+         Qual será o valor da variável 'result'?
+
+         A) 40
+         B) 20
+         C) 24
+         D) 36
+         E) 16
+
+         Comentários:
+
+         Este é um código R simples que realiza algumas operações com vetores e a função de soma.
+
+         Primeiro, um vetor chamado `data` é criado usando a função `c()`. Este vetor contém seis elementos:
+         1, 3, 5, 7, 9 e 11.
+
+         data <- c(1, 3, 5, 7, 9, 11)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                           14
+         www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         Na próxima linha, o código `data[1:4]` é usado para subconjunto do vetor `data` pegando os quatro
+         primeiros elementos. Em R, você pode usar o operador `[]` para acessar elementos específicos de
+         um vetor. O código `1:4` cria um vetor de quatro elementos com os números de 1 a 4, então
+         `data[1:4]` retorna os primeiros quatro elementos do vetor `data`, ou seja, 1, 3, 5 e 7.
+
+         Depois, a função `sum()` é aplicada a esse subconjunto para calcular a soma dos quatro primeiros
+         elementos do vetor `data`. O resultado desta soma (16) é então armazenado na variável `result`.
+
+         result <- sum(data[1:4])
+
+         Finalmente, o valor armazenado na variável `result` é impresso no console usando a função `print()`.
+         Nesse caso, o código imprimirá o número 16.
+
+         print(result)
+
+         Gabarito: E
+
+
+
+
+                                              Computação em Nuvem
+
+     16. Qual dos seguintes é um benefício da computação em nuvem?
+
+         A) Maior necessidade de infraestrutura física.
+         B) Menor escalabilidade.
+         C) Redução de custos operacionais.
+         D) Menor flexibilidade.
+         E) Dependência de uma conexão à Internet.
+
+         Comentários:
+
+         A) Incorreta. A computação em nuvem na verdade diminui a necessidade de infraestrutura física,
+         pois os recursos computacionais são fornecidos através da Internet.
+         B) Incorreta. Uma das principais vantagens da computação em nuvem é a sua alta escalabilidade.
+         Os usuários podem facilmente aumentar ou diminuir a quantidade de recursos de que precisam,
+         dependendo das suas necessidades.
+         C) Correta. A computação em nuvem pode reduzir significativamente os custos operacionais. Isso
+         se deve à economia de escala, pois os provedores de nuvem têm grandes quantidades de recursos
+         e podem oferecer a seus clientes a um custo menor do que se os clientes tivessem que comprar e
+         manter sua própria infraestrutura.
+         D) Incorreta. A computação em nuvem proporciona maior flexibilidade. Os usuários podem acessar
+         aplicações e dados de qualquer lugar a qualquer momento, desde que tenham uma conexão à
+         Internet.
+         E) Incorreta. Embora seja verdade que a maioria dos serviços de computação em nuvem requer uma
+         conexão à Internet, isso não é um benefício. Na verdade, pode ser visto como uma desvantagem,
+         pois a interrupção da Internet pode levar a interrupções no acesso aos recursos da nuvem.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                          15
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         Gabarito: C
+
+     17. Qual dos seguintes modelos de serviço de computação em nuvem permite aos usuários evitar a
+         gestão do sistema operacional e se concentrar apenas no desenvolvimento e gerenciamento de
+         suas aplicações?
+
+         A) SaaS (Software como Serviço)
+         B) PaaS (Plataforma como Serviço)
+         C) IaaS (Infraestrutura como Serviço)
+         D) FaaS (Função como Serviço)
+         E) Nuvem Privada
+
+         Comentários:
+
+         A) Incorreta. No modelo SaaS, os usuários têm acesso a um software completo hospedado na
+         nuvem. Eles não precisam se preocupar com o sistema operacional ou o desenvolvimento de
+         aplicações, pois tudo isso já é cuidado pelo provedor do serviço.
+         B) Correta. No modelo PaaS, o provedor de nuvem gerencia a infraestrutura, incluindo o sistema
+         operacional, permitindo aos usuários se concentrarem apenas no desenvolvimento e
+         gerenciamento de suas aplicações.
+         C) Incorreta. No modelo IaaS, os usuários têm controle sobre o sistema operacional, além de outros
+         aspectos da infraestrutura, como servidores e redes. Isso dá aos usuários mais flexibilidade, mas
+         também requer mais gerenciamento por parte deles.
+         D) FaaS é um subtipo de PaaS, onde o desenvolvedor fornece o código para executar uma "função"
+         e o provedor de nuvem executa esse código em resposta a eventos. Embora isso evite que os
+         usuários tenham que gerenciar o sistema operacional, o foco está na execução de funções
+         individuais e não na criação e gestão de aplicações completas.
+         E) Incorreta. Nuvem privada se refere à implementação de recursos de computação em nuvem em
+         uma rede privada. O modelo de serviço (SaaS, PaaS, IaaS ou FaaS) que é implementado em uma
+         nuvem privada pode variar.
+
+         Gabarito: B
+
+
+     18. Qual dos seguintes é um exemplo de uma nuvem híbrida?
+
+         A) Uso de AWS para todos os serviços de TI.
+         B) Uso de um data center no local para todas as operações de TI.
+         C) Uso de AWS para operações diárias e Microsoft Azure para backup e recuperação de desastres.
+         D) Uso de AWS para operações diárias e um data center no local para backup e recuperação de
+         desastres.
+         E) Uso de um único serviço de nuvem para todas as operações de TI.
+
+         Comentários:
+
+         A) Incorreta. Isso é um exemplo de uma estratégia de nuvem pública, onde todos os serviços de TI
+         são hospedados por um único provedor de nuvem.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        16
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         B) Incorreta. Isso é um exemplo de uma infraestrutura de TI tradicional, onde todas as operações
+         de TI são gerenciadas internamente.
+         C) Incorreta. Isso é um exemplo de uma estratégia de multicloud, onde diferentes serviços de nuvem
+         são usados para diferentes funções.
+         D) Correta. Isso é um exemplo de uma estratégia de nuvem híbrida, onde uma combinação de
+         serviços de nuvem e infraestrutura de TI no local são usados.
+         E) Incorreta. Assim como a alternativa A, isso é um exemplo de uma estratégia de nuvem pública,
+         onde um único provedor de serviços de nuvem é usado para todas as operações de TI.
+
+         Gabarito: D
+
+
+     19. Qual dos seguintes cenários melhor representa o uso do conceito de "elasticidade" em
+         computação em nuvem?
+
+         A) Uma empresa aumenta o número de instâncias de servidor durante os períodos de pico de
+         demanda e as reduz durante períodos de baixa demanda.
+         B) Uma empresa reduz o número de instâncias de servidor durante os períodos de pico de demanda
+         para economizar custos.
+         C) Uma empresa mantém o mesmo número de instâncias de servidor rodando em todos os
+         momentos, independentemente da demanda.
+         D) Uma empresa usa um único servidor poderoso para lidar com todas as requisições.
+         E) Uma empresa usa servidores dedicados para cada uma de suas diferentes operações.
+
+         Comentários:
+
+         A) Correta. Este é um exemplo clássico do conceito de "elasticidade" em computação em nuvem.
+         Elasticidade refere-se à habilidade de um sistema de se adaptar rapidamente à mudança de
+         demanda, escalando os recursos para cima ou para baixo conforme necessário.
+         B) Incorreta. Reduzir os recursos durante os períodos de pico de demanda provavelmente resultaria
+         em uma performance pobre do sistema, já que o sistema não teria recursos suficientes para lidar
+         com a demanda.
+         C) Incorreta. Este é um exemplo de um sistema não-elástico. O sistema não se ajusta à demanda, o
+         que pode resultar em uso ineficiente dos recursos.
+         D) Incorreta. Este cenário também não representa o uso do conceito de elasticidade. Se a demanda
+         exceder a capacidade do servidor, a performance do sistema provavelmente será comprometida.
+         E) Incorreta. Este é um exemplo de um sistema distribuído, mas não demonstra o conceito de
+         elasticidade. Cada servidor é dedicado a uma única operação, independentemente da demanda.
+
+         Gabarito: A
+
+
+     20. Qual dos seguintes exemplos melhor representa o modelo de serviço de Infraestrutura como
+         Serviço (IaaS)?
+
+         A) Um usuário utiliza o Google Docs para escrever e editar documentos.
+         B) Um desenvolvedor usa o Heroku para desenvolver, executar e gerenciar aplicações.
+         C) Uma empresa usa o Dropbox para armazenar e compartilhar arquivos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        17
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 08
+
+
+
+         D) Um usuário utiliza o Salesforce para gerenciar suas relações com o cliente.
+         E) Uma empresa usa o Microsoft Azure para alugar servidores virtuais nos quais instala e gerencia
+         seu próprio software.
+
+         Comentários:
+
+         A) Incorreta. O Google Docs é um exemplo de Software como Serviço (SaaS), onde o software
+         completo é entregue ao usuário através da internet.
+         B) Incorreta. Heroku é um exemplo de Plataforma como Serviço (PaaS), onde a plataforma para
+         desenvolver, executar e gerenciar aplicações é fornecida como um serviço.
+         C) Incorreta. O Dropbox é outro exemplo de Software como Serviço (SaaS), pois os usuários têm
+         acesso a um software completo de compartilhamento e armazenamento de arquivos.
+         D) Incorreta. Salesforce é mais um exemplo de Software como Serviço (SaaS), que oferece uma
+         solução completa de gerenciamento de relacionamento com o cliente.
+         E) Correta. Este é um exemplo de Infraestrutura como Serviço (IaaS), onde a infraestrutura de TI
+         básica como servidores, armazenamento e rede são fornecidos como um serviço. O usuário tem o
+         controle sobre o sistema operacional, armazenamento e aplicativos implantados.
+
+         Gabarito: E
+
+
+
+
+                                Prof. Fernando Pedrosa
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                       18
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

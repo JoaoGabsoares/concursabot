@@ -1,0 +1,423 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ADMINISTRAÇÃO FINANCEIRA
+
+                                           Paulo Portinho
+
+
+
+      https://t.me/KakashiAssinaturasBot
+CAPITAL DE GIRO OPERACIONAL E
+FINANCEIRO
+
+
+                                               Paulo Portinho
+
+
+
+          https://t.me/KakashiAssinaturasBot
+        Capital de giro
+         A teoria sobre Administração Financeira de Curto Prazo não é
+          muito grande, mas a variação de exercícios pode ser enorme. É
+          muito comum termos que usar a diferenciação entre ativos e
+          passivos   financeiros  e   operacionais,  principalmente para
+          exercícios envolvendo necessidade de capital de giro.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                             https://t.me/KakashiAssinaturasBot
+        Ativo operacional e financeiro
+         Ativo circulante operacional ou ativo cíclico é aquele que
+          guarda relação direta com a operação da Companhia, é diretamente
+          influenciado pelo volume de vendas ou produção, sendo composto
+          por estoques, contas a receber e outros ativos circulantes que
+          tenham natureza relacionada à operação.
+         O ativo circulante financeiro é aquele relacionado com itens de
+          liquidez de curtíssimo prazo do ativo circulante, que não têm
+          ligação com as operações da empresa, ainda que tenham vindo da
+          própria operação, como caixa, bancos e aplicações financeiras.
+         Entre os diversos autores, encontram-se diversos termos
+          utilizados com o mesmo significado, como exemplo ativo
+          circulante operacional, ativo errático ou de curto prazo e ativo
+          cíclico ou operacional, e ativo flutuante ou financeiro, sendo
+          que o mesmo ocorre com o passivo circulante.
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Passivo operacional e financeiro
+         O passivo circulante operacional está representado pelos itens
+          do passivo circulante relacionados ao ciclo operacional da
+          companhia, tais como fornecedores, salários, encargos, impostos,
+          taxas etc..
+         Já o passivo circulante financeiro corresponde aos itens que não
+          têm vinculação direta com a parte operacional da companhia e
+          são, entre outros, os empréstimos, financiamentos que não estão
+          relacionados diretamente com o core business da empresa.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Passivo e ativo permanente
+         O passivo permanente seria formado pelas contas do passivo
+          exigível a longo prazo e patrimônio líquido e representa as
+          fontes fixas de recursos, ou seja, aquelas das quais não se
+          espera GIRO.
+         Ativo permanente (ou fixo) é formado pelos recebíveis a longo
+          prazo e pelo ativo fixo (imobilizado, intangível, aquele do qual
+          não se espera giro).
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Necessidade de capital de giro
+         Também chamada de necessidade de investimento em capital de giro
+          – NIG, a NCG (necessidade de capital de giro, ou capital de giro
+          operacional) é calculada SEM os ativos e passivos circulantes
+          financeiros, da seguinte forma:
+         NCG ou NIG=AC operacional-PC operacional
+         Algumas bancas levam o termo de forma literal (vai depender da
+          questão e das opções).
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Saldo em Tesouraria
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+        Necessidade de capital de giro
+         CCL=ativo circulante -passivo circulante=260.000-225.000=35.000
+         Essa questão poderia parar por aqui, pois a única opção é A,
+          dado que ST = CCL-NCG.
+         Porém é importante ressaltar que adiantamento a fornecedores é
+          um DIREITO operacional (ativo) e Adiantamento DE Clientes é uma
+          OBRIGAÇÃO operacional (está errado o "a clientes"), portanto um
+          passivo. Dessa forma, o AC operacional é de 200.000 e o PC
+          operacional é 180.000
+         NCG ou NIG=AC operacional-PC operacional=200.000-180.000=20.000
+         ST=AC Financeiro   (Errático)-PC                Financeiro   (Errático)=60.000-
+          45.000=15.000
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Necessidade de capital de giro
+         FGV - Analista da Defensoria Pública (DPE RO)/Analista
+          Contábil/2015. Uma empresa possui necessidade de capital de giro
+          negativa quando:
+         a)   o saldo em valores monetários de fornecedores é menor que
+          o de clientes;
+         b)   os empréstimos e financiamento de capital                   de   giro   são
+          inferiores ao saldo de caixa e equivalente caixa;
+         c)           o fluxo de caixa operacional é inferior ao financeiro;
+         d)   o tempo somado de estocagem e de recebimento de clientes é
+          inferior ao de pagamento de fornecedores;
+         e)   as aplicações de recursos são superiores às origens de
+          recursos.
+Competência
+Prof. Paulo Portinho
+                                      https://t.me/KakashiAssinaturasBot
+        Necessidade de capital de giro
+         O item a está errado, pois faz inferência a apenas 2 itens da
+          NCG; o item b está errado pois trata de itens não operacionais;
+          o item c está errado pelo mesmo motivo; o item e está errado,
+          pois origens e aplicações deveriam ser iguais.
+         Uma outra forma de ver a necessidade de capital de giro é:
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+EFEITO TESOURA E MODELO
+FLEURIET
+
+
+                                               Paulo Portinho
+
+
+
+          https://t.me/KakashiAssinaturasBot
+        Efeito Tesoura
+         Também é conteúdo raro em provas de administração financeira. Em
+          concursos que trazem administração financeira junto com análise
+          de balanços, o risco de cair aumenta.
+         A sugestão ao aluno é prestar atenção e estudar bem o tópico se
+          estiver explícito no edital. Caso contrário, a chance de cair é
+          bem pequeno, pois é tópico bem específico de gestão de
+          tesouraria.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Efeito Tesoura
+         Na gestão de fluxo de caixa queremos evitar o Efeito Tesoura,
+          que é o decréscimo ao longo do tempo do Saldo em Tesouraria.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                             https://t.me/KakashiAssinaturasBot
+        Efeito Tesoura
+         A figura abaixo mostra razoavelmente o que ocorre quando, ao
+          longo do tempo, as necessidades de capital de giro (diferença
+          entre o Ativo Circulante Operacional e o Passivo Circulante
+          Operacional) crescem mais do que que o Capital Circulante
+          Líquido (diferença entre Ativo Circulante e Passivo Circulante).
+          Isso faz com que, eventualmente no futuro, o Saldo de Tesouraria
+          fique negativo.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Motivos para o Efeito Tesoura
+         • Aumento de vendas acima do esperado: se passamos a vender mais
+          de forma inesperada, tendemos a precisar de mais capital de
+          giro, e isso pode aumentar a necessidade de uso de caixa,
+          diminuindo o saldo em tesouraria.
+         • Flexibilização e aumento de prazos para clientes: isso também
+          aumenta a necessidade de capital de giro, pois precisamos
+          investir mais e recebemos com defasagem maior.
+         • Ampliação de estoques mal planejado: se os estoques aumentam
+          muito, por exemplo, sem a correspondência nas vendas, isso
+          aumenta nossa necessidade de capital de giro para bancar o que
+          não vendemos.
+         • Redução de prazo junto aos fornecedores: significa que
+          precisamos pagar antes, o que vai pressionar também o capital de
+          giro.
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Exercícios
+                       Ano: 2022 Banca: CESPE / CEBRASPE Órgão: DPE-RO Prova: CESPE /
+                       CEBRASPE - 2022 - DPE-RO - Analista da Defensoria Pública -
+                       Contabilidade
+                       O efeito tesoura necessariamente está presente quando
+                       A) o saldo em tesouraria cresce, mas é negativo.
+                       B) existe crescente disponibilidade de capital de giro.
+                       C) o saldo em tesouraria se apresenta crescentemente positivo ou, pelo
+                       menos, estável.
+                       D) os ativos circulantes são sempre maiores que os passivos circulantes.
+                       E) a necessidade de capital de giro supera a disponibilidade e cresce.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                                            https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Modelo Fleuriet
+         Uma derivação direta do Efeito Tesoura, que compara as variações
+          do NCG e do CCL (e consequentemente do saldo em tesouraria) é o
+          modelo Fleuriet. Para fins de concurso, não é necessário
+          aprofundamento no modelo, apenas entender como ele relaciona as
+          condições de caixa com a solvência das empresas. Basta saber
+          como a situação melhora ou se deteriora com as variações no NCG,
+          no CCL e no ST.
+         Pode-se resumir as condições financeiras das empresas, a partir
+          do NCG, CCL e ST com base na divisão proposta pelos professores
+          Marques e Braga na Revista de Administração de Empresas, de maio
+          de 1995
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Modelo Fleuriet
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Modelo Fleuriet
+         1 – Excelente. É uma situação que a empresa possui alto nível de
+          liquidez, sendo garantido pelo ST e CCL positivo e NCC negativo.
+         2 – Sólido. É a classificação onde se encontra a maior parte das
+          empresas.
+         3 – Insatisfatório. Situação na qual o ST é negativo,
+          evidenciando que o CCL não é suficiente para cobrir a NCG.
+         4 – Péssimo. Acontece quando o CCL é negativo, sinalizando que
+          as empresas que estão nessa classificação utilizam fontes do
+          curto prazo para investimentos no longo prazo.
+         6– Alto Risco. São as empresas que possuem saldo de tesouraria
+          positivo, isso acontece devido a companhia possuir uma
+          necessidade de capital de giro menor do que o capital de giro.
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+PONTO DE EQUILÍBRIO
+
+
+
+                                                Paulo Portinho
+
+
+
+           https://t.me/KakashiAssinaturasBot
+        Ponto de equilíbrio
+         Ponto de equilíbrio é daqueles tópicos que deveriam estar mais
+          na parte de administração de produção que em administração
+          financeira.
+         Ocorre que é muito comum caírem questões que envolvam margem de
+          contribuição, que está intimamente relacionada com o ponto de
+          equilíbrio.
+         O principal motivo de o ponto de equilíbrio ser considerado
+          matéria de administração da produção é que é uma medida de
+          quantidade a produzir, mas todo o resto é financeiro.
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Ponto de equilíbrio
+         De forma muito simplificada, achar o ponto de equilíbrio é achar
+          a quantidade que deve ser vendida para que haja equilíbrio entre
+          a receita e os custos.
+         Normalmente os custos estão associados apenas à produção, que é
+          o custo da mercadoria vendida (associado diretamente com a
+          produção, portanto variáveis com a quantidade produzida/vendida)
+          e custos fixos, que não variam com a produção.
+         Vejamos as fórmulas a seguir:
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                              https://t.me/KakashiAssinaturasBot
+        Ponto de equilíbrio
+                                                   𝑅𝑒𝑐𝑒𝑖𝑡𝑎 = 𝑃𝑟𝑒ç𝑜 𝑥 𝑄𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒
+
+                                         𝐶𝑢𝑠𝑡𝑜 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙 = 𝐶𝑀𝑉 𝑝𝑜𝑟 𝑢𝑛𝑖𝑑𝑎𝑑𝑒 𝑥 𝑄𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒
+
+                                      𝐿𝑢𝑐𝑟𝑜 𝐵𝑟𝑢𝑡𝑜 = 𝑅𝑒𝑐𝑒𝑖𝑡𝑎 − 𝐶𝑢𝑠𝑡𝑜 𝑉𝑎𝑟𝑖á𝑣𝑒𝑙 − 𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+
+                       𝑃𝑜𝑛𝑡𝑜 𝑑𝑒 𝑒𝑞𝑢𝑖𝑙í𝑏𝑟𝑖𝑜 é 𝑎 𝑞𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒 𝑣𝑒𝑛𝑑𝑖𝑑𝑎 𝑞𝑢𝑒 𝑡𝑜𝑟𝑛𝑎 𝑜 𝐿𝑢𝑐𝑟𝑜 𝐵𝑟𝑢𝑡𝑜 é 𝑍𝐸𝑅𝑂, 𝑝𝑜𝑟𝑡𝑎𝑛𝑡𝑜:
+
+                                   𝑅𝑒𝑐𝑒𝑖𝑡𝑎 = 𝐶𝑢𝑠𝑡𝑜𝑠 𝑡𝑜𝑡𝑎𝑖𝑠 ∴ 𝑃𝑟𝑒ç𝑜 𝑥 𝑄 = 𝐶𝑀𝑉 𝑥 𝑄 + 𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+
+                                                               𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+                                               𝑄=
+                                                     𝑃𝑟𝑒ç𝑜 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜 − 𝐶𝑀𝑉 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                                                https://t.me/KakashiAssinaturasBot
+        Ponto de equilíbrio
+         Com um exemplo fica fácil entender a dinâmica.
+         Uma empresa apresenta as seguintes informações relevantes:
+         • P: Preço de venda médio por unidade, igual a R$ 4,50;
+         • V: Custo variável por unidade, igual a R$ 2,50;
+         • F: Custos operacionais fixos, no valor de R$ 30.000,00.
+         Considerando-se os dados apresentados, o ponto de equilíbrio, em
+          unidades, é de?
+                                𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜     30.000
+                          𝑄=               =             = 15.000
+                               𝑃𝑟𝑒ç𝑜 − 𝐶𝑀𝑉   4,50 − 2,50
+
+
+
+Competência
+Prof. Paulo Portinho
+                                https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+        Exercícios
+
+
+
+
+Competência
+Prof. Paulo Portinho
+                       https://t.me/KakashiAssinaturasBot
+OBRIGADO!
+                                          Paulo Portinho
+
+
+
+     https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

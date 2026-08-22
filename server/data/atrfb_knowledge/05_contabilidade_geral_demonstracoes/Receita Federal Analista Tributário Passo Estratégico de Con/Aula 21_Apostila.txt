@@ -1,0 +1,1761 @@
+                                                    Aula 20
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                         07 de Setembro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 20
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - CPC 25 - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - CPC 25
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - CPC 25
+..............................................................................................................................................................................................
+                                                                                                                                                                                            15
+
+4) Questões Comentadas - CPC 25 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            16
+
+5) Questionário de Revisão - CPC 25
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+6) Lista de Questões - CPC 25 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            30
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           35
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 20
+
+
+
+
+                                          APRESENTAÇÃO
+Olá! Estudaremos um dos Pronunciamentos Contábeis mais importantes: CPC 25 - Provisões, Passivos
+Contingentes e Ativos Contingentes. Representa um assunto mais avançado, mas que tem sido alvo de
+muitas cobranças em provas de concursos. Temos certeza de que vocês irão gostar.
+
+
+                   Faça contato conosco pelas redes sociais!
+
+                            @profjuliocardozo @filipemagalhaes30
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise estatística refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV,
+exclusivamente para o nível superior.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+      Assunto                                     Grau de incidência em concursos similares: FGV
+      Critérios de Reconhecimento de Provisões                         21%
+      Tratamento Contábil de Provisões                                 20%
+      Ativos contingentes                                              13%
+      Passivos contingentes                                            13%
+      Melhor estimativa                                                 9%
+      Mudança na provisão                                               9%
+      Reestruturação                                                    7%
+      Exemplos: reconhecimento (Apêndice C)                             2%
+      Provisão x "Provisões" para contas do ativo                       2%
+      Reembolso                                                         2%
+      Contrato oneroso                                                  2%
+      Valor presente                                                    2%
+      Total                                                          100,00%
+
+
+Comentários sobre a FGV
+
+Pessoal, sobre a banca FGV, como de praxe, estaremos diante das questões mais complexas desse assunto
+já cobradas. Mais uma vez, a Fundação Getúlio Vargas não fica apenas em conceitos superficiais, mas
+consegue aprofundar e muito a cobrança do CPC 25.
+
+É muito comum encontrarmos questões com textos muito grandes e com muitas informações, e precisamos
+utilizar julgamento correto para definir se haverá reconhecimento ou não das provisões.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               3
+        www.estrategiaconcursos.com.br                                                               35
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 20
+
+
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+CPC 25 - Provisões, Passivos Contingentes e Ativos Contingentes
+
+Objetivo
+
+O objetivo é estabelecer que sejam aplicados critérios de reconhecimento e bases de mensuração
+apropriados a provisões e a passivos e ativos contingentes e que seja divulgada informação suficiente nas
+notas explicativas para permitir que os usuários entendam a sua natureza, oportunidade e valor.
+
+Alcance
+
+Este pronunciamento deve ser aplicado por todas as entidades na contabilização de provisões, e de passivos
+e ativos contingentes, exceto:
+
+(a) os que resultem de contratos a executar, a menos que o contrato seja oneroso; e
+
+(b) os cobertos por outro pronunciamento.
+
+Contratos a executar são contratos pelos quais nenhuma parte cumpriu qualquer das suas obrigações ou
+ambas as partes só tenham parcialmente cumprido as suas obrigações em igual extensão.
+
+Este Pronunciamento Técnico não se aplica a contratos a executar a menos que eles sejam onerosos.
+
+Quando outro pronunciamento tratar de um tipo específico de provisão ou de passivo ou ativo contingente,
+a entidade deve aplicar esse pronunciamento em vez do presente pronunciamento.
+
+ATENÇÃO: antigamente atribuíam o termo “provisão” para contas do ativo (como provisão para
+depreciação acumulada, provisão para devedores duvidosos, provisão para perdas em estoque), mas repare
+que esse valor não será pago a ninguém. Apenas reflete uma desvalorização ocorrida. Essa nomenclatura
+não é a ideal, visto que provisão é um passivo de prazo ou valor incerto.
+
+ Nesse sentido, o item 7 desse CPC define provisão como passivo de prazo ou valor incertos. Adicionalmente,
+ressalva que em alguns países o termo “provisão” é também usado no contexto de itens tais como
+depreciação, redução ao valor recuperável de ativos e créditos de liquidação duvidosa: estes são ajustes dos
+valores contábeis de ativos e não são tratados neste Pronunciamento Técnico
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   4
+        www.estrategiaconcursos.com.br                                                                   35
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 20
+
+
+
+
+Definições
+
+Os seguintes termos são usados neste Pronunciamento, com os significados especificados:
+
+Provisão é um passivo de prazo ou de valor incertos.
+
+Passivo1 é uma obrigação presente da entidade, derivada de eventos já ocorridos, cuja liquidação se espera
+que resulte em saída de recursos da entidade capazes de gerar benefícios econômicos.
+
+Evento que cria obrigação é um evento que cria uma obrigação legal ou não formalizada que faça com que
+a entidade não tenha nenhuma alternativa realista senão liquidar essa obrigação.
+
+Obrigação legal é uma obrigação que deriva de:
+
+(a) contrato (por meio de termos explícitos ou implícitos);
+(b) legislação; ou
+(c) outra ação da lei.
+
+Obrigação não formalizada é uma obrigação que decorre das ações da entidade em que:
+
+(a) por via de padrão estabelecido de PRÁTICAS PASSADAS, de POLÍTICAS PUBLICADAS ou de DECLARAÇÃO
+ATUAL SUFICIENTEMENTE ESPECÍFICA, a entidade tenha indicado a outras partes que aceitará certas
+responsabilidades; e
+
+(b) em consequência, a entidade CRIA UMA EXPECTATIVA VÁLIDA NESSAS OUTRAS PARTES de que cumprirá
+com essas responsabilidades.
+
+
+                                                                              Contrato
+
+
+                                                          Legal              Legislação
+
+
+                                                                             Ação da Lei
+                                  Evento que
+                                     cria o
+                                   obrigação                                   Padrão
+                                                                              Práticas
+                                                                              Passadas
+                                                          Não                 Políticas
+                                                       formalizada           Publicadas
+                                                                             Declaração
+                                                                               atual
+                                                                             específica
+
+
+
+
+1 A definição de passivo neste Pronunciamento não foi revisada após a revisão da definição de passivo no CPC 00 – Estrutura
+
+Conceitual para Relatório Financeiro (Alterada pela Revisão CPC 14).
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                 5
+         www.estrategiaconcursos.com.br                                                                                 35
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+Passivo contingente é:
+
+(a) uma obrigação possível que resulta de eventos passados e cuja existência será confirmada apenas pela
+ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da entidade; ou
+
+(b) uma obrigação presente que resulta de eventos passados, mas que não é reconhecida porque:
+
+(i) não é provável que uma saída de recursos que incorporam benefícios econômicos seja exigida para
+liquidar a obrigação; ou
+
+(ii) o valor da obrigação não pode ser mensurado com suficiente confiabilidade.
+
+                                                                                                                não totalmente
+                                                                                              eventos futuros
+                                                                      Possível                                  sob controle da
+                                                                                                 INCERTO
+                                                         ==219a34==
+                                                                                                                   entidade
+   Passivo
+                              Obrigação
+ CONTINGENTE
+                                                                                                                Não é Provável
+                                                                                              Mas que não é
+                                                            Presente                           reconhecia
+                                                                                                 porque          Não pode ser
+                                                                                                                  mensurado
+
+
+Ativo contingente é um ativo possível que resulta de eventos passados e cuja existência será confirmada
+apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da
+entidade.
+
+Contrato oneroso é um contrato em que os custos inevitáveis de satisfazer as obrigações do contrato
+excedem os benefícios econômicos que se esperam sejam recebidos ao longo do mesmo contrato.
+
+
+                                Contrato                                Custos      excedem
+                                                                                               Benefícios
+                                Oneroso                               Inevitáveis             Econômicos
+
+
+
+
+Reestruturação é um programa planejado e controlado pela administração e que altera materialmente:
+
+(a) o âmbito de um negócio empreendido por entidade; ou
+
+(b) a maneira como o negócio é conduzido.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                    6
+         www.estrategiaconcursos.com.br                                                                                   35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+Provisão e Outros Passivos
+
+Chamada de maneira corriqueira na Contabilidade de "provisão para férias", você já ouviu esse nome?
+Contudo, os passivos gerados pela apropriação de despesas por competência, como 13º salário, férias, são
+chamados de accruals. Portanto, não devemos reconhecer aqui provisões, mas Passivos a Pagar.
+
+Embora algumas vezes seja necessário estimar o valor ou prazo desses passivos, a incerteza é geralmente
+muito menor do que nas provisões.
+
+O item 11 do CPC 25 fala expressamente que as provisões podem ser distintas de outros passivos tais como
+contas a pagar e passivos derivados de apropriações por competência (accruals) porque há incerteza sobre
+o prazo ou o valor do desembolso futuro necessário para a sua liquidação.
+
+Relação entre Provisão e Passivo Contingente
+
+Provisões: São reconhecidas como passivo (presumindo-se que possa ser feita uma estimativa confiável)
+porque são obrigações presentes e é provável que uma saída de recursos que incorporam benefícios
+econômicos seja necessária para liquidar a obrigação
+
+O item 13 dessa norma explica que os passivos contingentes não são reconhecidos como passivo porque
+são obrigações possíveis ou obrigações presentes que não satisfazem os critérios de reconhecimento deste
+Pronunciamento.
+
+Reconhecimento Das Provisões
+
+Uma provisão deve ser reconhecida quando:
+
+(a) a entidade tem uma obrigação presente (legal ou não formalizada) como resultado de evento passado;
+
+(b) seja provável que será necessária uma saída de recursos que incorporam benefícios econômicos para
+liquidar a obrigação; e
+
+(c) possa ser feita uma estimativa confiável do valor da obrigação.
+
+O pronunciamento exige que todos os critérios sejam satisfeitos: Obrigação presente+ provável+ Estimativa
+confiável.
+
+Obrigação presente
+
+Em casos raros não é claro se existe ou não uma obrigação presente. Nesses casos, presume-se que um
+evento passado dá origem a uma obrigação presente se, levando em consideração toda a evidência
+disponível, é mais provável que sim do que não que existe uma obrigação presente na data do balanço.
+
+Em quase todos os casos será claro se um evento passado deu origem a uma obrigação presente. Em casos
+raros – como em um processo judicial, por exemplo –, pode-se discutir tanto se certos eventos ocorreram
+quanto se esses eventos resultaram em uma obrigação presente. Nesse caso, a entidade deve determinar
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                7
+         www.estrategiaconcursos.com.br                                                               35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+se a obrigação presente existe na data do balanço ao considerar toda a evidência disponível incluindo, por
+exemplo, a opinião de peritos.
+
+A evidência considerada inclui qualquer evidência adicional proporcionada por eventos após a data do
+balanço.
+
+Evento passado
+
+Um evento passado que conduz a uma obrigação presente é chamado de um evento que cria obrigação. Para
+um evento ser um evento que cria obrigação, é necessário que a entidade não tenha qualquer alternativa
+realista senão liquidar a obrigação criada pelo evento.
+
+Nenhuma provisão é reconhecida para despesas que necessitam ser incorridas para operar no futuro. Os
+únicos passivos reconhecidos no balanço da entidade são os que já existem na data do balanço.
+
+Uma obrigação envolve sempre outra parte a quem se deve a obrigação. Não é necessário, porém, saber
+a identidade da parte a quem se deve a obrigação – na verdade, a obrigação pode ser ao público em geral.
+
+Um evento que não gera imediatamente uma obrigação pode gerá-la em data posterior, por força de
+alterações na lei ou porque um ato da entidade (por exemplo, uma declaração pública suficientemente
+específica) dá origem a uma obrigação não formalizada.
+
+Quando os detalhes de nova lei proposta ainda tiverem de ser finalizados, a obrigação surgirá somente
+quando for praticamente certo que a legislação será promulgada conforme a minuta divulgada.
+
+Saída provável de recursos que incorporam benefícios econômicos
+
+Uma saída de recursos ou outro evento é considerado como provável se o evento for mais provável que sim
+do que não de ocorrer, isto é, se a probabilidade de que o evento ocorrerá for maior do que a probabilidade
+de isso não acontecer. Em termos matemáticos, a probabilidade de ocorrer deve ser superior a 50%.
+
+No tocante há obrigações semelhantes (por exemplo, garantias sobre produtos ou contratos semelhantes),
+devemos analisar a probabilidade do tipo de obrigação como um todo e não a pequena probabilidade de
+um item isoladamente. Se for provável que alguma saída de recursos ocorra para o tipo de obrigação, então
+uma provisão é reconhecida (se os outros critérios para reconhecimento forem atendidos).
+
+Estimativa confiável da obrigação
+
+O uso de estimativas é uma parte essencial da elaboração de demonstrações contábeis e não prejudica a
+sua confiabilidade.
+
+Nos casos extremamente raros em que nenhuma estimativa confiável possa ser feita, existe um passivo que
+não pode ser reconhecido. Esse passivo é divulgado como passivo contingente.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                  8
+         www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+Passivo contingente
+
+No tocante a possibilidade de saída de recursos:
+      Possibilidade de saída de
+
+
+
+
+                                                                           Contabilizada no
+                                  Provável           Provisão
+                                                                               Passivo
+               recursos
+
+
+
+
+                                                      Passivo
+                                  Possível                                 Não contabiliza        Divulga em NE
+                                                    contingente
+                                                      Passivo                                          Divulgação
+                                  Remota                                   Não contabiliza
+                                                    contingente                                        dispensada
+
+
+
+A entidade não deve reconhecer um passivo contingente.
+
+A PROVISÃO DEVE SER RECONHECIDA NAS DEMONSTRAÇÕES CONTÁBEIS DO PERÍODO NO QUAL OCORRE
+A MUDANÇA NA ESTIMATIVA DA PROBABILIDADE.
+
+De acordo com o FIPECAFI, a diferença entre provisão e passivo contingente fica bem clara no caso de
+responsabilidade conjunta e solidária onde a parte da obrigação que se “espera seja liquidada por terceiros
+é tratada como passivo contingente, sendo “reconhecida a provisão apenas para a parte que cabe à
+entidade liquidar, a não “ser que haja evidência de que os terceiros não responderão por sua parcela.”
+
+Ativo contingente
+
+Os ativos contingentes surgem normalmente de evento não planejado ou de outros não esperados que dão
+origem à possibilidade de entrada de benefícios econômicos para a entidade.
+
+                                                                                      Contabiliza e
+                                                            Praticamente
+                                                                                    divulga um ativo
+                                                                certo
+                                                                                        "normal"
+
+                                         ATIVO                                      Não contabiliza
+                                                                Provável
+                                      CONTINGENTE                                     e divulga
+
+                                                                                    Não contabiliza,
+                                                                Remoto
+                                                                                     nem divulga
+
+
+A entidade não deve reconhecer um ativo contingente.
+
+Os ativos contingentes são avaliados periodicamente para garantir que os desenvolvimentos sejam
+apropriadamente refletidos nas demonstrações contábeis.
+
+O ativo e o correspondente ganho são reconhecidos nas demonstrações contábeis do período em que
+ocorrer a mudança de estimativa para praticamente certo.
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                      9
+                www.estrategiaconcursos.com.br                                                                      35
+
+                                             https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+Mensuração
+
+Melhor estimativa
+
+O valor reconhecido como provisão deve ser a melhor estimativa do desembolso exigido para liquidar a
+obrigação presente na data do balanço.
+
+A melhor estimativa do desembolso exigido para liquidar a obrigação presente é o valor que a entidade
+racionalmente pagaria para liquidar a obrigação na data do balanço ou para transferi-la para terceiros
+nesse momento.
+
+As incertezas que rodeiam o valor a ser reconhecido como provisão são tratadas por vários meios de acordo
+com as circunstâncias. Quando a provisão a ser mensurada envolve uma grande população de itens, a
+obrigação deve ser estimada ponderando-se todos os possíveis desfechos pelas suas probabilidades
+associadas. O nome para esse método estatístico de estimativa é “valor esperado”. Portanto, a provisão
+será diferente dependendo de a probabilidade da perda de um dado valor ser, por exemplo, de 60 por cento
+ou de 90 por cento. Quando houver uma escala contínua de desfechos possíveis, e cada ponto nessa escala
+é tão provável como qualquer outro, é usado o ponto médio da escala.
+
+         Exemplo A entidade vende bens com uma garantia segundo a qual os clientes estão
+         cobertos pelo custo da reparação de qualquer defeito de fabricação que se tornar evidente
+         dentro dos primeiros seis meses após a compra. Se forem detectados defeitos menores em
+         todos os produtos vendidos, a entidade irá incorrer em custos de reparação de 1 milhão.
+         Se forem detectados defeitos maiores em todos os produtos vendidos, a entidade irá
+         incorrer em custos de reparação de 4 milhões. A experiência passada da entidade e as
+         expectativas futuras indicam que, para o próximo ano, 75 por cento dos bens vendidos não
+         terão defeito, 20 por cento dos bens vendidos terão defeitos menores e 5 por cento dos
+         bens vendidos terão defeitos maiores. De acordo com o item 24, a entidade avalia a
+         probabilidade de uma saída para as obrigações de garantias como um todo.
+
+         O valor esperado do custo das reparações é: (75% x 0) + (20% x $ 1 milhão) + (5% de $ 4
+         milhões) = $ 400.000.
+
+A provisão deve ser mensurada antes dos impostos.
+
+Risco e incerteza
+
+Os riscos e incertezas que inevitavelmente existem em torno de muitos eventos e circunstâncias devem ser
+levados em consideração para se alcançar a melhor estimativa da provisão.
+
+É preciso ter cuidado ao realizar julgamentos em condições de incerteza, para que as receitas ou ativos
+não sejam superavaliados e as despesas ou passivos não sejam subavaliados.
+
+É necessário cuidado para evitar duplicar ajustes de risco e incerteza com a consequente superavaliação da
+provisão.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                10
+         www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+Valor presente
+
+As provisões são descontadas (sujeito a ajuste com base em valor presente), quando o efeito do valor do
+dinheiro no tempo é MATERIAL.
+
+A taxa de desconto deve ser a TAXA ANTES DOS IMPOSTOS que reflita as atuais avaliações de mercado.
+
+A taxa de desconto não deve refletir os riscos relativamente aos quais as estimativas de fluxos de caixa
+futuros tenham sido ajustadas.
+
+Evento futuro
+
+Os eventos futuros que possam afetar o valor necessário para liquidar a obrigação devem ser refletidos no
+valor da provisão quando houver evidência objetiva suficiente de que eles ocorrerão.
+
+Os eventos futuros esperados podem ser particularmente importantes ao mensurar as provisões. Por
+exemplo, a entidade pode acreditar que o custo de limpar um local no fim da sua vida útil será reduzido em
+função de mudanças tecnológicas futuras. Porém, a entidade não deve antecipar o desenvolvimento da
+tecnologia completamente nova de limpeza a menos que isso seja apoiado por evidência objetiva suficiente.
+
+O efeito de possível legislação nova deve ser considerada na mensuração da obrigação existente quando
+existe evidência objetiva suficiente de que a promulgação da lei é praticamente certa.
+
+Em muitos casos não existe evidência objetiva suficiente até que a nova legislação seja promulgada.
+
+Alienação esperada de ativo
+
+Os ganhos da alienação esperada de ativos não devem ser levados em consideração ao mensurar a provisão.
+
+Reembolso
+
+São caracterizados em situações nas quais se espera que parte ou todo o desembolso necessário para
+liquidar a provisão seja reembolsado por outra parte.
+
+Situação 1: A entidade não tem obrigação em relação à parcela do desembolso a ser reembolsado
+pela outra parte.
+
+A entidade não tem passivo em relação ao valor a ser reembolsado e nenhuma divulgação é exigida.
+
+Situação 2: O passivo relativo ao valor que se espera ser reembolsado permanece com a entidade
+e é praticamente certo que o reembolso será recebido se a entidade liquidar a provisão.
+
+O direito a reembolso será classificado no Ativo. Seria o caso de contratos de seguro, cláusulas de
+indenização ou garantias de fornecedores. O valor reconhecido para o reembolso não deve ultrapassar o
+valor da provisão.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                11
+         www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+Na demonstração do resultado, a despesa relativa a uma provisão PODE SER apresentada líquida do valor
+reconhecido de reembolso.
+
+Situação 3: O passivo relativo ao valor que se espera ser reembolsado permanece com a entidade
+e não é praticamente certo que o reembolso será recebido se a entidade liquidar a provisão.
+
+O reembolso esperado não é reconhecido como ativo e o reembolso esperado é divulgado
+
+Mudança na Provisão
+
+As provisões devem ser reavaliadas em cada data de balanço e ajustadas para refletir a melhor estimativa
+corrente.
+
+Lançamento (Constituição):
+
+D - Despesa com Provisões (Conta de Resultado)
+C - Provisões (Conta Patrimonial: Passivo)
+
+Se já não for mais provável que seja necessária uma saída de recursos que incorporam benefícios econômicos
+futuros para liquidar a obrigação, a provisão deve ser revertida.
+
+Lançamento (Reversão):
+
+D - Provisões (Conta Patrimonial: Passivo)
+C - Reversão de Provisões (Conta de Resultado: Ganho)
+
+Quando for utilizado o desconto a valor presente, o valor contábil da provisão aumenta a cada período para
+refletir a passagem do tempo. Esse aumento deve ser reconhecido como despesa financeira.
+
+Lançamento (Apropriação da despesa financeira):
+
+D - Despesa financeira (Conta de Resultado)
+C - Provisões (Conta Patrimonial: Passivo)
+
+Ou
+
+D - Despesa financeira (Conta de Resultado)
+C - Ajuste a valor presente ou Encargos Financeiros a transcorrer (Conta Patrimonial: Retificadora do Passivo)
+
+Uso de Provisão
+
+Uma provisão deve ser usada somente para os desembolsos para os quais a provisão foi originalmente
+reconhecida.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                    12
+         www.estrategiaconcursos.com.br                                                                    35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+Somente os desembolsos que se relacionem com a provisão original são compensados com a mesma
+provisão. Reconhecer os desembolsos contra uma provisão que foi originalmente reconhecida para outra
+finalidade esconderia o impacto de dois eventos diferentes.
+
+Aplicações de Regra de Reconhecimento e de Mensuração
+
+Perda Operacional Futura
+
+Provisões para perdas operacionais futuras não devem ser reconhecidas.
+
+As perdas operacionais futuras não satisfazem à definição de passivo, nem os critérios gerais de
+reconhecimento das provisões.
+
+A expectativa de perdas operacionais futuras é uma indicação de que certos ativos da unidade operacional
+podem não ser recuperáveis. A entidade deve testar esses ativos quanto à recuperabilidade.
+
+Contrato Oneroso
+
+Se a entidade tiver um contrato oneroso, a obrigação presente de acordo com o contrato deve ser
+reconhecida e mensurada como provisão.
+
+Reestruturação
+
+A decisão de reestruturar as operações e fechar uma fábrica não gera uma provisão. A empresa pode mudar
+de ideia e desistir do fechamento da fábrica. Não existe ainda uma “obrigação presente, derivada de eventos
+já ocorridos”.
+
+A situação muda quando a empresa inicia a reestruturação ou quando comunicar a sua decisão e gerar
+expectativas válidas nas outras partes. Nesse caso, a empresa deve efetuar uma provisão, pois a decisão se
+torna obrigação não formalizada.
+
+No tocante aos exemplos de eventos que podem se enquadrar na definição de reestruturação, o CPC 25 cita
+os seguintes:
+
+   •   venda ou extinção de linha de negócios;
+   •   fechamento de locais de negócios de um país ou região ou a realocação das atividades de negócios
+       de um país ou região para outro;
+   •   mudanças na estrutura da administração, por exemplo, eliminação de um nível de gerência; e
+   •   reorganizações fundamentais que tenham efeito material na natureza e no foco das operações da
+       entidade
+
+A provisão para reestruturação deve incluir SOMENTE os desembolsos diretos decorrentes da
+reestruturação, que simultaneamente sejam: necessariamente ocasionados pela reestruturação; e não
+associados às atividades em andamento da entidade.
+
+A provisão para reestruturação não inclui custos como
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 13
+         www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+(a) novo treinamento ou remanejamento da equipe permanente;
+(b) marketing; ou
+(c) investimento em novos sistemas e redes de distribuição.
+
+Adicionalmente, explica que esses desembolsos se relacionam com a conduta futura da empresa e não são
+passivos de reestruturação na data do balanço. Tais desembolsos devem ser reconhecidos da mesma forma
+que o seriam se surgissem independentemente da reestruturação.
+
+Uma provisão para custos de reestruturação deve ser reconhecida somente quando são cumpridos os
+critérios gerais de reconhecimento de provisões.
+
+Perdas operacionais futuras, identificáveis até a data da reestruturação não devem ser incluídas em uma
+provisão, a menos que se relacionem a contrato oneroso.
+
+Divulgação
+
+Para cada classe de provisão, a entidade deve divulgar:
+
+(a) o valor contábil no início e no fim do período;
+(b) provisões adicionais feitas no período, incluindo aumentos nas provisões existentes;
+(c) valores utilizados (ou seja, incorridos e baixados contra a provisão) durante o período;
+(d) valores não utilizados revertidos durante o período; e
+(e) o aumento durante o período no valor descontado a valor presente proveniente da passagem do tempo
+e o efeito de qualquer mudança na taxa de desconto.
+
+Não é exigida informação comparativa.
+
+Reserva para contingência x Provisão para contingência
+
+             Reserva para contingência                        Provisões para contingências
+    Compensação de perda em exercício futuro         Cobertura de perda em que já houve fato
+                                                     gerador
+    Segrega no PL parcela de lucros que poderia ir Constituída independente do lucro ou prejuízo
+    para dividendos                                  do exercício
+    É revertida para lucros acumulados (ocorrendo ou Não há reversão de valores, em regra.
+    não o evento), integrando BC dos dividendos
+    Conta do PL, reserva de lucros. Não afeta Conta do passivo e contrapartida em despesa no
+    resultado                                        resultado.
+    Exemplos: geadas, inundações, secas, empresas Exemplos:          indenizações       contratuais,
+    que operam com períodos altamente lucrativos e contingências fiscais, trabalhistas
+    depois com baixa lucratividade
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                14
+         www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 20
+
+
+
+
+                                                        APOSTA ESTRATÉGICA
+Temas mais cobrados: Provável, Possível e Remoto
+Possibilidade de saída de
+
+
+
+
+                                                                                           Contabilizada no
+                                      Provável                     Provisão                                      Divulga em NE
+                                                                                               Passivo
+         recursos
+
+
+
+
+                                      Possível               Passivo contingente            Não contabiliza      Divulga em NE
+
+
+                                       Remota                Passivo contingente
+                                                                            ==219a34==
+                                                                                            Não contabiliza   Divulgação dispensada
+
+
+
+
+                            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                       15
+                            www.estrategiaconcursos.com.br                                                                       35
+
+                                                         https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 20
+
+
+
+
+                                  QUESTÕES ESTRATÉGICAS
+Ativos e Passivos Contingentes
+
+1. (FGV/Auditor Fiscal de Tributos Municipais/SJC/2024) Em relação aos ativos contingentes, é correto
+   afirmar que
+A resultam de eventos futuros.
+B surgem, normalmente, de evento planejado ou esperado.
+C devem ser reconhecidos no Balanço Patrimonial apenas quando a entrada de recursos é provável.
+D quando a entrada de recursos é provável, é reconhecida uma Receita Operacional na Demonstração do
+Resultado do Exercício.
+E são avaliados periodicamente para garantir que os desenvolvimentos sejam apropriadamente refletidos
+nas demonstrações contábeis.
+
+  Comentários:
+
+  De acordo com o CPC 25, os ativos contingentes surgem normalmente de evento não planejado ou de
+  outros não esperados que dão origem à possibilidade de entrada de benefícios econômicos para a
+  entidade. Um exemplo é uma reivindicação que a entidade esteja reclamando por meio de processos legais,
+  em que o desfecho seja incerto.
+
+  Como consequência da aplicação do conceito de prudência ou conservadorismo, os ativos contingentes
+  não são reconhecidos nas demonstrações contábeis, uma vez que pode tratar-se de resultado que nunca
+  venha a ser realizado;
+
+  Vamos analisar as alternativas:
+
+  (A)   resultam de eventos futuros.
+
+  Errado, os ativos contingentes resultam de eventos passados e não futuros.
+
+  (B)   surgem, normalmente, de evento planejado ou esperado.
+
+  Errado, é exatamente o contrário, pois geralmente surgem de eventos não planejados ou não esperados.
+
+  (C)   devem ser reconhecidos no Balanço Patrimonial apenas quando a entrada de recursos é provável.
+
+  Errado, ativos contingentes não são reconhecidos nas demonstrações contábeis.
+
+  (D) quando a entrada de recursos é provável, é reconhecida uma Receita Operacional na Demonstração
+  do Resultado do Exercício.
+
+  Errado, realização do ganho é praticamente certa, então o ativo relacionado não é um ativo contingente e
+  o seu reconhecimento é adequado.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                16
+         www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+ (E) são avaliados periodicamente para garantir que os desenvolvimentos sejam apropriadamente
+ refletidos nas demonstrações contábeis.
+
+ Correto, conforme previsão do item 35 do CPC 25.
+
+ Gabarito: E
+
+Classificação de eventos como Provável, Possível e Remoto
+
+2. (FGV/TCE-BA/Auditor Estadual de Controle Externo/2023) Em 12 de dezembro de 2023, uma empresa
+decide encerrar uma divisão que fabricava painéis solares. Em 20 de dezembro de 2023, foi finalizado o
+plano detalhado de encerramento da divisão. Cartas foram enviadas aos clientes alertando-os para
+procurarem uma fonte alternativa de fornecimento e avisos de rescisão foram enviados ao pessoal da
+divisão.
+A empresa estima que terá 675 mil reais em gastos, detalhados em:
+
+
+
+
+Considerando-se as informações apresentadas, a empresa deve reconhecer um montante de provisões de
+reestruturação de:
+(A) R$ 25.000;
+(B) R$ 75.000;
+(C) R$ 300.000;
+(D) R$ 600.000;
+(E) R$ 675.000.
+
+Comentários:
+
+Questão bem interessante. Já sabemos como tratar os passivos contingentes, de acordo com o probabilidade
+de ocorrer um desembolso:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              17
+         www.estrategiaconcursos.com.br                                                              35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+   Possibilidade de saída de
+
+
+
+
+                                                                                        Contabilizada no
+                                      Provável                   Provisão
+                                                                                            Passivo
+            recursos
+
+
+
+
+                                      Possível             Passivo contingente          Não contabiliza    Divulga em NE
+
+                                                                                                            Divulgação
+                                      Remota               Passivo contingente          Não contabiliza
+                                                                                                            dispensada
+
+
+
+
+Mas a questão pede o valor da provisão de reestruturação.                 ==219a34==
+
+
+
+
+                           80. A provisão para reestruturação deve incluir somente os desembolsos diretos
+                           decorrentes da reestruturação, que simultaneamente sejam:
+
+                           (a) necessariamente ocasionados pela reestruturação; e
+
+                           (b) não associados às atividades em andamento da entidade.
+
+                           81. A provisão para reestruturação não inclui custos como:
+
+                           (a) novo treinamento ou remanejamento da equipe permanente;
+
+                           (b) marketing; ou
+
+                           (c) investimento em novos sistemas e redes de distribuição.
+
+                           Esses desembolsos relacionam-se com a conduta futura da empresa e não são passivos de
+                           reestruturação na data do balanço. Tais desembolsos devem ser reconhecidos da mesma
+                           forma que o seriam se surgissem independentemente da reestruturação.
+
+Assim, temos:
+
+Provisão de reestruturação                                             Probabilidade   Valor
+Rescisão de funcionários relacionados diretamente com a reestruturação   Provável    50.000,00
+Penalidades de rescisão de arrendamento                                  Provável    250.000,00
+Total                                                                                300.000,00
+
+Gabarito: C.
+
+
+
+
+                          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   18
+                          www.estrategiaconcursos.com.br                                                                   35
+
+                                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+Critérios de Reconhecimento de Provisões
+
+3. (FGV/MPE GO/Analista Contábil/2022) Em 02/01/X0, uma loja foi acionada na justiça por um
+funcionário que reclamava R$15.000 por danos morais. A administração da loja julgava que a perda da
+causa era provável e estimava que o valor a ser pago seria de R$10.000. Assinale a opção que indica o
+lançamento contábil em 02/01/X0.
+a) D- Despesa operacional R$10.000
+   C- Passivo contingente R$10.000
+b) D- Despesa operacional R$10.000
+   C- Provisão para contingências R$10.000
+c) D- Despesa operacional R$15.000
+   C- Provisão para contingências R$15.000
+d) D- Despesa operacional R$15.000
+   C- Causa a pagar R$10.000
+   C - Provisão para perdas R$5.000
+e) Não deve haver contabilização
+
+Comentários:
+
+Questão que trata do reconhecimento de Provisões. Provisão é um passivo de prazo ou de valor incertos.
+
+Esquematizemos:
+
+                                                     Provisão
+                                         Prazo         OU             Valor
+                                                     Incerto
+
+Segundo o pronunciamento CPC 25:
+
+         14. Uma provisão deve ser reconhecida quando:
+
+         (a) a entidade tem uma obrigação presente (legal ou não formalizada) como resultado de
+         evento passado;
+
+         (b) seja provável que será necessária uma saída de recursos que incorporam benefícios
+         econômicos para liquidar a obrigação; e
+
+         (c) possa ser feita uma estimativa confiável do valor da obrigação.
+
+A questão nos fala que a empresa foi acionada judicialmente por um funcionário, a perda da causa era
+provável e estimava que o valor a ser pago seria de R$10.000, ou seja, temos uma estimativa confiável de
+perda.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               19
+         www.estrategiaconcursos.com.br                                                               35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 20
+
+
+
+Portanto, temos que contabilizar uma provisão com base nessa estimativa:
+
+D- Despesa com provisões - Despesa operacional R$10.000
+C- Provisão para contingências R$10.000
+
+Destacamos que na estrutura da DRE prevista no Manual de Contabilidade Societária (FIPECAFI), as despesas
+com provisões são classificadas como despesas operacionais.
+
+Gabarito: B
+
+Classificação de eventos como Provável, Possível e Remoto
+
+4. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) Uma loja foi acionada na justiça por um
+cliente que diz ter sido constrangido por seus funcionários. O cliente apresenta provas, de modo que os
+advogados da loja julgam que é provável a saída de recursos como indenização ao cliente. No entanto,
+apesar do esforço, não foi possível estimar de modo confiável o valor da obrigação.
+Assinale a opção correta em relação ao tratamento da causa pela loja, de acordo com o Pronunciamento
+Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes.
+a) Divulgação como passivo contingente.
+b) Reconhecimento como contas a pagar.
+c) Reconhecimento como provisão para contingências.
+d) Reconhecimento como ajuste do patrimônio líquido.
+e) Não é requerido reconhecimento e nem divulgação.
+
+Comentários:
+
+Para questões de CPC 25 - Provisões, precisamos ter sempre esse esquema em mente:
+  Possibilidade de saída de
+
+
+
+
+                                                                                              Contabilizada no
+                                         Provável                    Provisão
+                                                                                                  Passivo
+           recursos
+
+
+
+
+                                         Possível               Passivo contingente           Não contabiliza    Divulga em NE
+
+                                                                                                                  Divulgação
+                                         Remota                 Passivo contingente           Não contabiliza
+                                                                                                                  dispensada
+
+
+
+
+A questão fala que a empresa foi acionada na justiça e é provável que ela terá perda, todavia, não foi possível
+efetuarmos uma estimativa confiável da mensuração. Vejam o que o CPC 25, nos apresenta:
+
+
+
+
+                              Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                     20
+                              www.estrategiaconcursos.com.br                                                                     35
+
+                                                           https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+         14. Uma provisão deve ser reconhecida quando:
+
+         (a) a entidade tem uma obrigação presente (legal ou não formalizada) como resultado de
+         evento passado;
+
+         (b) seja provável que será necessária uma saída de recursos que incorporam benefícios
+         econômicos para liquidar a obrigação; e
+
+         (c) possa ser feita uma estimativa confiável do valor da obrigação.
+
+Diante do exposto, não vamos constituir uma provisão, mas trata-se de passivo contingente que não é
+contabilizado nas demonstrações contábeis, mas apresentado em notas explicativas.
+
+Gabarito: A
+
+Critérios de Reconhecimento de Provisões
+
+5. (FGV/SEFAZ- AM/ Assistente Administrativo/SEFAZ/2022) Em relação às provisões, de acordo com o
+Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes, assinale a
+afirmativa correta.
+a) Têm prazo ou valor incertos.
+b) Derivam de eventos que ainda irão ocorrer.
+c) Representam contas redutoras do ativo.
+d) Representam obrigações possíveis cuja existência será confirmada.
+e) Não são contabilizadas nas demonstrações contábeis, mas evidenciadas em notas explicativas.
+
+Comentários:
+
+De acordo com o CPC 25 - provisão é um passivo de prazo ou de valor incertos.
+
+Esquematizemos:
+
+                                                     Provisão
+                                         Prazo         OU             Valor
+                                                     Incerto
+
+Segundo o pronunciamento CPC 25:
+
+         14. Uma provisão deve ser reconhecida quando:
+
+         (a) a entidade tem uma obrigação presente (legal ou não formalizada) como resultado de
+         evento passado;
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           21
+         www.estrategiaconcursos.com.br                                                           35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+         (b) seja provável que será necessária uma saída de recursos que incorporam benefícios
+         econômicos para liquidar a obrigação; e
+
+         (c) possa ser feita uma estimativa confiável do valor da obrigação.
+
+Se essas condições não forem satisfeitas, nenhuma provisão deve ser reconhecida.
+
+Esquematizemos:
+
+                                        Provisão reconhecida quando
+                        Obrigação                     Estimativa                     Provável
+                         presente                      confiável                 saída de recurso
+
+Gabarito: A
+
+Classificação de eventos como Provável, Possível e Remoto
+
+6. (FGV/FunSaúde CE/Técnico Contabilidade/2021) O empregado de uma sociedade empresária foi
+demitido e entrou na justiça pedindo uma indenização. Os advogados da sociedade empresária julgaram
+que a probabilidade de perda e a consequente saída de recursos, é remota.
+Assinale a opção que indica o posicionamento da contabilidade da sociedade empresária em relação à causa.
+A Deve reconhecer uma provisão e divulgar o fato em nota explicativa.
+B Deve reconhecer uma provisão, mas não divulgar o fato em nota explicativa.
+C Deve divulgar o fato em nota explicativa, mas não reconhecer uma provisão.
+D Deve reconhecer a despesa na Demonstração do Resultado, mas não reconhecer uma provisão.
+E Não deve reconhecer uma provisão e nem divulgar o fato em nota explicativa.
+
+Comentários:
+
+A empresa deve provisionar as ações nas quais seja provável que ocorre desembolso (possibilidade de
+perda).
+
+Se a possibilidade de perda for possível, a empresa divulga nas notas explicativas, mas não provisiona.
+
+Se a possibilidade de perda for remota, não precisa contabilizar e nem divulgar.
+
+Gabarito: E
+
+Classificação de eventos como Provável, Possível e Remoto
+
+7. (FGV/IMBEL/Analista Contábil/2021) Um grupo de empregados acionou uma empresa na justiça,
+pedindo uma indenização no valor de R$ 100.000. Os advogados da empresa consideravam que a perda
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   22
+         www.estrategiaconcursos.com.br                                                                   35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+da causa na justiça era provável. Assinale a opção que indica o correto tratamento contábil do caso nas
+demonstrações contábeis da empresa.
+(A) Constituição de provisão para contingências.
+(B) Constituição de reserva para contingências.
+(C) Constituição de passivo contingente.
+(D) Diminuição do caixa.
+(E) Nada deve ser feito.
+
+Comentários:
+
+Quais as condições necessárias para o reconhecimento de uma provisão?
+
+Segundo o pronunciamento CPC 25:
+
+         14. Uma provisão deve ser reconhecida quando:
+
+         (a) a entidade tem uma obrigação presente (legal ou não formalizada) como resultado de
+         evento passado;
+
+         (b) seja provável que será necessária uma saída de recursos que incorporam benefícios
+         econômicos para liquidar a obrigação; e
+
+         (c) possa ser feita uma estimativa confiável do valor da obrigação.
+
+         Se essas condições não forem satisfeitas, nenhuma provisão deve ser reconhecida.
+
+Como a perda foi julgada provável pelos advogados, devemos constituir uma provisão.
+
+Lançamento Contábil
+
+D - Despesas com Provisões (aumento de despesas)
+C - Provisões para contingências (aumento do passivo)
+
+Gabarito: A
+
+Critérios de Reconhecimento de Provisões
+
+8. (FGV/MPE AL/Contador/2018) Assinale a opção que indica a existência de um passivo contingente.
+a) Uma entidade é notificada na justiça por não ter pago férias a um de seus empregados, e considera
+provável a chance de perder.
+b) Uma entidade estima que serão utilizadas 20% das garantias oferecidas sobre seus produtos.
+c) Uma entidade contabiliza mensalmente, a partir de janeiro, o 13º salário a ser pago para seus empregados
+no mês de dezembro.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 23
+         www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+d) Uma entidade inicia uma reestruturação, tendo um plano formal para tal.
+e) Uma entidade é processada por uma pessoa pública por uso indevido de imagem, e considera possível a
+chance de perder.
+
+Comentários:
+
+a) Uma entidade é notificada na justiça por não ter pago férias a um de seus empregados, e considera
+provável a chance de perder.
+b) Uma entidade estima que serão utilizadas 20% das garantias oferecidas sobre seus produtos.
+c) Uma entidade contabiliza mensalmente, a partir de janeiro, o 13º salário a ser pago para seus empregados
+no mês de dezembro.
+d) Uma entidade inicia uma reestruturação, tendo um plano formal para tal.
+
+Errados, trata-se de uma provisão. Lembre-se: PROVisão → PROVável
+
+e) Uma entidade é processada por uma pessoa pública por uso indevido de imagem, e considera possível a
+chance de perder.
+
+Esse é o nosso gabarito. Fique atento a palavra-chave: “Possível”
+
+Tome nota! Passivo Contingente -> Possível -> Não contabiliza -> divulgar em notas explicativas
+
+Gabarito: E.
+
+Classificação de eventos como Provável, Possível e Remoto
+
+9. (FGV/ALE-RO/Assistente Legislativo/Técnico em Contabilidade/2018) Em 01/02/2018, um antigo
+funcionário da Cia. K entrou na justiça alegando ter sido mal tratado na empresa e pedindo indenização
+por danos morais.
+Os advogados da Cia. K julgaram que a perda da causa seria provável. No entanto, não conseguiram estimar
+o valor que poderiam perder, uma vez que o caso é inédito na empresa.
+Assinale a opção correta em relação ao procedimento da Cia. K frente ao caso, de acordo com o
+Pronunciamento Técnico CPC 25, Provisões, Passivos Contingentes e Ativos Contingentes.
+a) Constituição de provisão.
+b) Divulgação em nota explicativa.
+c) Constituição de provisão e divulgação em nota explicativa.
+d) Divulgação no relatório da administração.
+e) Nada deve ser feito.
+
+Comentários:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 24
+         www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+Embora a perda tenha sido julgada provável pelos advogados, não devemos reconhecer provisão, já que o
+pronunciamento exige que atenda todos os critérios. Ou seja, Obrigação presente+ provável+ Estimativa
+confiável. Nesse caso, o pronunciamento permite que se dê o mesmo tratamento dos passivos contingentes.
+Ou melhor, divulguem em notas explicativas.
+
+         26. Nos casos extremamente raros em que NENHUMA ESTIMATIVA CONFIÁVEL POSSA
+         SER FEITA, existe um passivo que não pode ser reconhecido. Esse passivo É DIVULGADO
+         COMO PASSIVO CONTINGENTE (ver item 86).
+
+Gabarito: B
+
+Itens do CPC 25
+
+10. (FGV/TCM SP/2015) A Cia. Delta é uma corporação de grande porte, com negócios em diversos países.
+Nos últimos anos a companhia tem sido duramente criticada por políticos e ativistas, pois adota uma
+estrutura societária que lhe permite reduzir a carga de impostos recolhidos ao Fisco do país que constitui
+seu principal mercado de atuação. A repercussão dessas críticas junto aos consumidores prejudicou
+severamente a reputação da companhia, tendo forte impacto em seus negócios. A fim de mitigar esses
+danos, em 2015 a Cia. Delta voluntariamente aderiu a um código de conduta empresarial,
+comprometendo-se a destinar a entidades de assistência social, anualmente, o equivalente a no mínimo
+um terço a mais de recursos do que sua principal concorrente neste país. Ao final do exercício de 2015,
+para que a Cia. Delta reconheça uma provisão relativa a esse compromisso, é necessário que ela tenha:
+(A) criado expectativas válidas em terceiros de que cumprirá esse compromisso;
+(B) identificado as entidades assistenciais para as quais pretende destinar esses recursos;
+(C) se comprometido através de contratos com as entidades assistenciais para as quais pretende destinar
+esses recursos;
+(D) ciência do montante exato que destinará a essas entidades;
+(E) estabelecido um cronograma para o pagamento desses valores.
+
+Comentários:
+
+A resposta está no Pronunciamento CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes.
+
+         Provisão é um passivo de prazo ou de valor incertos.
+
+         Passivo é uma obrigação presente da entidade, derivada de eventos já ocorridos, cuja
+         liquidação se espera que resulte em saída de recursos da entidade capazes de gerar
+         benefícios econômicos.
+
+         Evento que cria obrigação é um evento que cria uma obrigação legal ou não formalizada
+         que faça com que a entidade não tenha nenhuma alternativa realista senão liquidar essa
+         obrigação.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                25
+         www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+         Obrigação legal é uma obrigação que deriva de:
+
+         (a) contrato (por meio de termos explícitos ou implícitos);
+
+         (b) legislação; ou
+
+         (c) outra ação da lei.
+
+         Obrigação não formalizada é uma obrigação que decorre das ações da entidade em que:
+
+         (a) por via de padrão estabelecido de práticas passadas, de políticas publicadas ou de
+         declaração atual suficientemente específica, a entidade tenha indicado a outras partes que
+         aceitará certas responsabilidades; e
+
+         (b) em consequência, a entidade cria uma expectativa válida nessas outras partes de que
+         cumprirá com essas responsabilidades.
+
+Muito bem. Nessa questão, o evento que cria obrigação é uma obrigação não formalizada. É o fato que de a
+Cia. Delta voluntariamente aderiu a um código de conduta empresarial, comprometendo-se a destinar a
+entidades de assistência social, anualmente, o equivalente a no mínimo um terço a mais de recursos do que
+sua principal concorrente neste país.
+
+Para que a Cia. Delta reconheça uma provisão relativa a esse compromisso, é necessário que ela tenha criado
+expectativas válidas em terceiros de que cumprirá esse compromisso.
+
+Gabarito: A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 26
+         www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+ Filipe Magalhães, Júlio Cardozo
+ Aula 20
+
+
+
+
+        QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+Perguntas sem respostas
+
+  1.   Qual a definição de Provisão?
+  2.   Qual a definição Passivo Contingente?
+  3.   O que é Ativo Contingente?
+  4.   Conforme previsão do CPC 25, como pode surgir uma obrigação presente para a entidade?
+  5.   Quando uma provisão deve ser reconhecida?
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          27
+       www.estrategiaconcursos.com.br                                                          35
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 20
+
+
+
+
+Perguntas com respostas
+
+   1. Qual a definição de Provisão?
+
+Provisão é um passivo de prazo ou de valor incertos.
+
+   2. Qual a definição Passivo Contingente?
+
+Passivo contingente é: uma obrigação possível que resulta de eventos passados e cuja existência será
+confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob
+controle da entidade. Também pode ser uma obrigação presente que resulta de eventos passados, mas
+que não é reconhecida porque não é provável que uma saída de recursos que incorporam benefícios
+econômicos seja exigida para liquidar a obrigação; ou o valor da obrigação não pode ser mensurado com
+suficiente confiabilidade.                               ==219a34==
+
+
+
+
+   3. O que é Ativo Contingente?
+
+Ativo contingente é um ativo possível que resulta de eventos passados e cuja existência será confirmada
+apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da
+entidade
+
+   4. Conforme previsão do CPC 25, como pode surgir uma obrigação presente para a entidade?
+
+A obrigação presente pode surgir através de duas sortes de eventos:
+
+Obrigação legal é uma obrigação que deriva de:
+
+       (a) contrato (por meio de termos explícitos ou implícitos);
+
+       (b) legislação; ou
+
+       (c) outra ação da lei.
+
+Obrigação não formalizada é uma obrigação que decorre das ações da entidade em que:
+
+       (a) por via de padrão estabelecido de práticas passadas, de políticas publicadas ou de declaração
+       atual suficientemente específica, a entidade tenha indicado a outras partes que aceitará certas
+       responsabilidades; e
+
+       (b) em consequência, a entidade cria uma expectativa válida nessas outras partes de que
+       cumprirá com essas responsabilidades
+
+   5. Quando uma provisão deve ser reconhecida?
+
+Uma provisão deve ser reconhecida quando:
+
+(a) a entidade tem uma obrigação presente (legal ou não formalizada) como resultado de evento
+passado;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              28
+         www.estrategiaconcursos.com.br                                                              35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 20
+
+
+
+(b) seja provável que será necessária uma saída de recursos que incorporam benefícios econômicos
+para liquidar a obrigação; e
+(c) possa ser feita uma estimativa confiável do valor da obrigação.
+Pessoal, encerramos aqui a nossa aula de hoje. Espero que vocês tenham gostado da nossa abordagem
+e do conteúdo apresentado. Com certeza essas informações irão te auxiliar na sua jornada de estudos!
+
+Grande abraço e bons estudos!
+
+      “Se enxerguei mais longe, foi porque me apoiei sobre os ombros de gigantes..”
+
+                                                 (Isaac Newton)
+
+                                           Julio Cardozo
+                                    https://www.facebook.com/profjuliocardozo/
+
+                                    Insta: www.instagram.com/profjuliocardozo
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            29
+         www.estrategiaconcursos.com.br                                                            35
+
+                                      https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 20
+
+
+
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/Auditor Fiscal de Tributos Municipais/SJC/2024) Em relação aos ativos contingentes, é correto
+   afirmar que
+A resultam de eventos futuros.
+B surgem, normalmente, de evento planejado ou esperado.
+C devem ser reconhecidos no Balanço Patrimonial apenas quando a entrada de recursos é provável.
+D quando a entrada de recursos é provável, é reconhecida uma Receita Operacional na Demonstração do
+Resultado do Exercício.
+E são avaliados periodicamente para garantir que os desenvolvimentos sejam apropriadamente refletidos
+nas demonstrações contábeis.
+
+2. (FGV/TCE-BA/Auditor Estadual de Controle Externo/2023) Em 12 de dezembro de 2023, uma empresa
+decide encerrar uma divisão que fabricava painéis solares. Em 20 de dezembro de 2023, foi finalizado o
+plano detalhado de encerramento da divisão. Cartas foram enviadas aos clientes alertando-os para
+procurarem uma fonte alternativa de fornecimento e avisos de rescisão foram enviados ao pessoal da
+divisão.
+A empresa estima que terá 675 mil reais em gastos, detalhados em:
+
+
+
+
+Considerando-se as informações apresentadas, a empresa deve reconhecer um montante de provisões de
+reestruturação de:
+(A) R$ 25.000;
+(B) R$ 75.000;
+(C) R$ 300.000;
+(D) R$ 600.000;
+(E) R$ 675.000.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            30
+         www.estrategiaconcursos.com.br                                                            35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+3. (FGV/MPE GO/Analista Contábil/2022) Em 02/01/X0, uma loja foi acionada na justiça por um
+funcionário que reclamava R$15.000 por danos morais. A administração da loja julgava que a perda da
+causa era provável e estimava que o valor a ser pago seria de R$10.000. Assinale a opção que indica o
+lançamento contábil em 02/01/X0.
+a) D- Despesa operacional R$10.000
+   C- Passivo contingente R$10.000
+b) D- Despesa operacional R$10.000
+   C- Provisão para contingências R$10.000
+c) D- Despesa operacional R$15.000
+   C- Provisão para contingências R$15.000
+d) D- Despesa operacional R$15.000
+   C- Causa a pagar R$10.000
+   C - Provisão para perdas R$5.000
+e) Não deve haver contabilização
+
+4. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) Uma loja foi acionada na justiça por um
+cliente que diz ter sido constrangido por seus funcionários. O cliente apresenta provas, de modo que os
+advogados da loja julgam que é provável a saída de recursos como indenização ao cliente. No entanto,
+apesar do esforço, não foi possível estimar de modo confiável o valor da obrigação.
+Assinale a opção correta em relação ao tratamento da causa pela loja, de acordo com o Pronunciamento
+Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes.
+a) Divulgação como passivo contingente.
+b) Reconhecimento como contas a pagar.
+c) Reconhecimento como provisão para contingências.
+d) Reconhecimento como ajuste do patrimônio líquido.
+e) Não é requerido reconhecimento e nem divulgação.
+
+5. (FGV/SEFAZ- AM/ Assistente Administrativo/SEFAZ/2022) Em relação às provisões, de acordo com o
+Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes, assinale a
+afirmativa correta.
+a) Têm prazo ou valor incertos.
+b) Derivam de eventos que ainda irão ocorrer.
+c) Representam contas redutoras do ativo.
+d) Representam obrigações possíveis cuja existência será confirmada.
+e) Não são contabilizadas nas demonstrações contábeis, mas evidenciadas em notas explicativas.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             31
+         www.estrategiaconcursos.com.br                                                             35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+6. (FGV/FunSaúde CE/Técnico Contabilidade/2021) O empregado de uma sociedade empresária foi
+demitido e entrou na justiça pedindo uma indenização. Os advogados da sociedade empresária julgaram
+que a probabilidade de perda e a consequente saída de recursos, é remota.
+Assinale a opção que indica o posicionamento da contabilidade da sociedade empresária em relação à causa.
+A Deve reconhecer uma provisão e divulgar o fato em nota explicativa.
+B Deve reconhecer uma provisão, mas não divulgar o fato em nota explicativa.
+C Deve divulgar o fato em nota explicativa, mas não reconhecer uma provisão.
+D Deve reconhecer a despesa na Demonstração do Resultado, mas não reconhecer uma provisão.
+E Não deve reconhecer uma provisão e nem divulgar o fato em nota explicativa.
+
+7. (FGV/IMBEL/Analista Contábil/2021) Um grupo de empregados acionou uma empresa na justiça,
+pedindo uma indenização no valor de R$ 100.000. Os advogados da empresa consideravam que a perda
+                                                         ==219a34==
+
+
+
+
+da causa na justiça era provável. Assinale a opção que indica o correto tratamento contábil do caso nas
+demonstrações contábeis da empresa.
+(A) Constituição de provisão para contingências.
+(B) Constituição de reserva para contingências.
+(C) Constituição de passivo contingente.
+(D) Diminuição do caixa.
+(E) Nada deve ser feito.
+
+8. (FGV/MPE AL/Contador/2018) Assinale a opção que indica a existência de um passivo contingente.
+a) Uma entidade é notificada na justiça por não ter pago férias a um de seus empregados, e considera
+provável a chance de perder.
+b) Uma entidade estima que serão utilizadas 20% das garantias oferecidas sobre seus produtos.
+c) Uma entidade contabiliza mensalmente, a partir de janeiro, o 13º salário a ser pago para seus empregados
+no mês de dezembro.
+d) Uma entidade inicia uma reestruturação, tendo um plano formal para tal.
+e) Uma entidade é processada por uma pessoa pública por uso indevido de imagem, e considera possível a
+chance de perder.
+
+9. (FGV/ALE-RO/Assistente Legislativo/Técnico em Contabilidade/2018) Em 01/02/2018, um antigo
+funcionário da Cia. K entrou na justiça alegando ter sido mal tratado na empresa e pedindo indenização
+por danos morais.
+Os advogados da Cia. K julgaram que a perda da causa seria provável. No entanto, não conseguiram estimar
+o valor que poderiam perder, uma vez que o caso é inédito na empresa.
+Assinale a opção correta em relação ao procedimento da Cia. K frente ao caso, de acordo com o
+Pronunciamento Técnico CPC 25, Provisões, Passivos Contingentes e Ativos Contingentes.
+a) Constituição de provisão.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                 32
+         www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+b) Divulgação em nota explicativa.
+c) Constituição de provisão e divulgação em nota explicativa.
+d) Divulgação no relatório da administração.
+e) Nada deve ser feito.
+
+10. (FGV/TCM SP/2015) A Cia. Delta é uma corporação de grande porte, com negócios em diversos países.
+Nos últimos anos a companhia tem sido duramente criticada por políticos e ativistas, pois adota uma
+estrutura societária que lhe permite reduzir a carga de impostos recolhidos ao Fisco do país que constitui
+seu principal mercado de atuação. A repercussão dessas críticas junto aos consumidores prejudicou
+severamente a reputação da companhia, tendo forte impacto em seus negócios. A fim de mitigar esses
+danos, em 2015 a Cia. Delta voluntariamente aderiu a um código de conduta empresarial,
+comprometendo-se a destinar a entidades de assistência social, anualmente, o equivalente a no mínimo
+um terço a mais de recursos do que sua principal concorrente neste país. Ao final do exercício de 2015,
+para que a Cia. Delta reconheça uma provisão relativa a esse compromisso, é necessário que ela tenha:
+(A) criado expectativas válidas em terceiros de que cumprirá esse compromisso;
+(B) identificado as entidades assistenciais para as quais pretende destinar esses recursos;
+(C) se comprometido através de contratos com as entidades assistenciais para as quais pretende destinar
+esses recursos;
+(D) ciência do montante exato que destinará a essas entidades;
+(E) estabelecido um cronograma para o pagamento desses valores.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                33
+         www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 20
+
+
+
+
+                                                 GABARITO
+                                                Questões Gabarito
+                                                   1        E
+                                                   2        C
+                                                   3        B
+                                                   4        A
+                                                   5        A
+                                                   6        E
+                                                   7        A
+                                                   8        E
+                                                   9        B
+                                                  10        A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral   34
+         www.estrategiaconcursos.com.br                                                   35
+
+                                      https://t.me/KakashiAssinaturasBot
+

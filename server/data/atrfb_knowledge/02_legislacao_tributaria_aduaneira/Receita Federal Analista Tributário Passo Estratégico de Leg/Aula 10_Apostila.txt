@@ -1,0 +1,872 @@
+                                                Aula 09
+                      Receita Federal (Analista Tributário)
+                           Passo Estratégico de Legislação
+                                                Aduaneira
+
+
+
+                                                    Autor:
+                         Raphael Rabelo Parreira, Bruno
+                                                  Bezerra
+
+
+                                     11 de Novembro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Raphael Rabelo Parreira, Bruno Bezerra
+      Aula 09
+
+
+
+
+                                                                                     Índice
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................4
+
+..............................................................................................................................................................................................
+                                                                                                                                                                                            10
+
+..............................................................................................................................................................................................
+                                                                                                                                                                                            11
+
+..............................................................................................................................................................................................
+                                                                                                                                                                                            15
+
+..............................................................................................................................................................................................
+                                                                                                                                                                                            18
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                                                                                           2
+                www.estrategiaconcursos.com.br                                                                                                                                           21
+
+                                                                   https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+Considerando os tópicos que compõem assunto dessa aula, possuímos a seguinte distribuição percentual:
+
+                                                                                  % de cobrança (Cebraspe -
+                                  Tópico
+                                                                                 2021 a 2025 - nível superior)
+
+                       Conceito e terminologia                                             19,30%
+
+                Características dos Direitos Humanos                                       17,54%
+
+                 Dimensões dos Direitos Humanos                                            16,67%
+
+            Proteção Internacional dos Direitos Humanos                                    15,79%
+
+             Afirmação Histórica dos Direitos Humanos                                       9,65%
+
+                         Estrutura Normativa                                                7,02%
+
+            Direitos Humanos e Responsabilização Estatal                                    6,13%
+
+                Fundamentos dos Direitos Humanos                                            4,39%
+
+                 Classificação dos Direitos Humanos                                         1,75%
+
+     Mecanismos de Implementação dos Direitos Humanos                                       0,88%
+
+                     Polícia e Direitos Humanos                                             0,88%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                          3
+        www.estrategiaconcursos.com.br                                                                       21
+                                                                                                                 2
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Processo administrativo para aplicação da pena de perdimento
+A pena de perdimento é manifestação do poder de polícia: o Estado expropria o bem do infrator e o
+incorpora ao seu patrimônio como sanção por ato ilícito. Tem caráter repressivo-compensatório, visando
+neutralizar os efeitos da infração.
+A peça inicial é o auto de infração, acompanhado de termo de apreensão e, se necessário, termo de guarda
+fiscal. Esses documentos formalizam a retenção do bem e instruem o processo. “A peça inicial do processo para
+aplicação da pena de perdimento é o auto de infração, acompanhado de termo de apreensão e, se for o
+caso, de termo de guarda fiscal.” Esses autos são indispensáveis ao processamento.
+No perdimento de moeda, aplica-se a sanção sobre o montante que exceder o equivalente a US$
+10.000,00 quando a moeda, em espécie, ingressa ou sai do país portada por viajante. O valor até esse limite
+pode ser liberado após a anotação na retenção; não há liberação quando houver indícios de infração que
+exijam a retenção do total. O rito segue as mesmas regras do perdimento de mercadorias e veículos.
+Pegadinhas: a) instância. O processo de aplicação da pena de perdimento é decidido em instância única;
+não confundir com os processos de sanções administrativas, que admitem recurso.
+Processo para aplicação de penalidades pelo transporte rodoviário de mercadoria sujeita à pena de
+perdimento
+Se o veículo pertence ao responsável pela infração, ele próprio pode sofrer perdimento. Não evidenciada a
+responsabilidade do proprietário, aplica-se a multa do art. 731 do Regulamento Aduaneiro ao
+transportador: R$ 15.000,00 nas hipóteses de transporte de mercadoria sujeita a perdimento sem
+identificação do proprietário ou com volume/características que evidenciem a irregularidade; R$
+30.000,00 na reincidência com o mesmo veículo ou quando houver modificações estruturais para ocultação.
+A multa implica retenção do veículo, ainda que o infrator não seja seu proprietário. A exigência da multa e
+a retenção são formalizadas em um só processo por auto de infração e termo de retenção. O autuado é
+cientificado e tem 20 dias para impugnar; a decisão é em instância única pelo titular da unidade da RFB
+responsável pela retenção. Mantida a multa, o transportador deve recolhê-la em 45 dias a partir da ciência
+da decisão; se não o fizer, aplica-se o perdimento do veículo, com fundamento no art. 688, VII.
+Regra especial: considera-se abandonado o veículo quando não recolhida a multa no prazo de 45 dias da
+aplicação ou da ciência da decisão que julgou improcedente a impugnação. Isso autoriza a decretação do
+perdimento.
+Diagrama do fluxo decisório (transporte rodoviário)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                   4
+        www.estrategiaconcursos.com.br                                                                    21
+                                                                                                           4
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+
+Pegadinha: retenção ocorre mesmo quando o infrator não é o proprietário.
+
+Processo para sanções administrativas
+Intervenientes de comércio exterior podem ser punidos com advertência, suspensão, cancelamento ou
+cassação de registro, licença, autorização, credenciamento ou habilitação. A instauração se dá por auto de
+infração acompanhado de termo de constatação da hipótese do art. 735 do Regulamento Aduaneiro.
+A intimação pode ser pessoal, postal, eletrônica ou por edital. A falta de impugnação em 20
+dias implica revelia; se por edital, considera-se feita 15 dias após a publicação. Apresentada impugnação,
+a autoridade preparadora tem 15 diaspara remeter o processo a julgamento, prorrogáveis para diligências
+ou perícias.
+Competências: advertência e suspensão cabem ao titular da unidade da RFB que apura a
+infração; cancelamento ou cassação cabem à autoridade que habilita procedimentos simplificados, regimes
+ou atividades correlatas. Da decisão cabe recurso à autoridade imediatamente superior, em 30 dias,
+com efeito suspensivo. Nos processos contra despachantes aduaneiros e ajudantes, o recurso é julgado
+pelo Superintendente da RFB.
+Pegadinha: há instância recursal em sanções administrativas; não é instância única.
+
+Processo administrativo fiscal
+O PAF federal está disciplinado no Decreto 70.235/1972. Ele rege a determinação e exigência dos créditos
+tributários da União e o processo de consulta sobre a legislação tributária federal. Outros entes federativos
+podem editar leis próprias para seus processos administrativos fiscais.
+Início do procedimento fiscal e seus efeitos:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                   5
+        www.estrategiaconcursos.com.br                                                                    21
+                                                                                                           5
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+“Art. 7º O procedimento fiscal tem início com: I: o primeiro ato de ofício, escrito, praticado por servidor
+competente, cientificado o sujeito passivo; II: a apreensão de mercadorias, documentos ou livros; III: o começo de
+despacho aduaneiro de mercadoria importada. § 1º O início do procedimento exclui a espontaneidade do sujeito
+passivo em relação aos atos anteriores e, independentemente de intimação, a dos demais envolvidos.” A regra
+atinge todos os coenvolvidos.
+A exigência do crédito e a penalidade isolada são formalizadas em autos de infração ou notificações de
+lançamento, distintos por tributo ou penalidade, instruídos com provas indispensáveis. Autos relativos
+ao mesmo sujeito passivo podem tramitar em um único processo quando dependentes dos mesmos
+elementos de prova.
+Prazos no PAF são contínuos, exclui-se o dia do início e inclui-se o do vencimento; o início do
+procedimento exclui a espontaneidade do sujeito passivo em relação aos atos anteriores. Servidor sem
+competência para formalizar a exigência deve representar ao chefe imediato.
+Pegadinhas: a) contagem de prazos não é em dias úteis; b) espontaneidade fica excluída desde o início do
+procedimento, inclusive para demais envolvidos.
+
+Processo de consulta
+A consulta versa sobre interpretação da legislação tributária aplicável a fato determinado; seus resultados
+são formalizados em Solução de Consulta e, havendo divergência entre soluções sobre a mesma matéria,
+cabe Recurso Especial de Divergência à COSIT. Esses atos têm número, assunto, ementa e
+dispositivos publicados e divulgadosem ambiente externo.
+A consulta é ineficaz quando o objeto seja matéria litigiosa em que o consulente é parte, pendente de
+decisão definitiva na esfera administrativa ou judicial. Não se declara ineficácia se houver litígio em que o
+consulente não seja parte.
+Pegadinhas: a) não confundir ineficácia por litigiosidade com indeferimento; b) há instância especial de
+divergência, ainda que sem efeito suspensivo.
+
+Processo para Medidas de Salvaguarda
+Salvaguardas são medidas de defesa comercial para mitigar surto de importações que causem ou
+ameacem prejuízo grave à indústria doméstica, desde que exista nexo causal. A SECEX/SDCOM conduz
+a investigação; a CAMEXdecide sobre a aplicação.
+Provisórias: cabíveis quando houver provas claras do nexo e a demora na investigação puder causar dano
+de difícil reparação; duração máxima de 200 dias; forma obrigatória de elevação do Imposto de
+Importação via adicional à TEC (alíquota ad valorem, específica ou ambas).
+Definitivas: aplicadas após a investigação, na extensão necessária para prevenir ou reparar o prejuízo e
+facilitar o ajustamento; podem ser elevação do Imposto de Importação via adicional à TEC ou restrições
+quantitativas; vigência de até 4 anos, prorrogável uma vez por 4 anos; países em desenvolvimento podem
+prorrogar por mais 2 anosadicionais. A exigência de créditos por infração a salvaguardas segue o PAF.
+Tabela-resumo: salvaguarda provisória x definitiva
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                        6
+        www.estrategiaconcursos.com.br                                                                         21
+                                                                                                                6
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+
+  Aspecto                        Provisória.                                          Definitiva.
+
+ Momento.                No curso da investigação.                        Após a conclusão da investigação.
+
+   Forma.              Apenas adicional à TEC no II.                  Adicional à TEC ou restrição quantitativa.
+
+                                                                     Até 4 anos, prorrogáveis por 4 e, para PED,
+  Duração.                  Máximo de 200 dias.
+                                                                                      +2 anos.
+
+               Provas claras de nexo e risco de dano de difícil Prejuízo grave ou ameaça, com nexo causal
+Pressuposto.
+                                 reparação.                                    comprovado.
+
+Pegadinhas: a) provisória não pode ser cota; b) definitiva pode; c) a aplicação compete à CAMEX.
+
+Processo para Antidumping e Compensatórios
+Dumping: venda para o Brasil a preço inferior ao praticado no mercado do exportador. Subsídio:
+contribuição financeira governamental específica a setor/empresa. A SECEX/SDCOM conduz a investigação,
+e a CAMEX decide a aplicação dos direitos antidumping ou compensatórios.
+Base de cálculo e natureza:
+“Art. 785. Os direitos antidumping e os direitos compensatórios, provisórios ou definitivos, serão aplicados
+mediante a cobrança de importância, em real, que corresponderá a percentual da margem de dumping ou do
+montante de subsídios, apurados em processo administrativo, nos termos da legislação específica, suficientes para
+sanar dano ou ameaça de dano à indústria doméstica.” Cobrados independentemente de outras obrigações
+tributárias.
+Margens: absoluta = valor normal − preço de exportação; relativa = margem absoluta ÷ preço de
+exportação. Direitos podem ser ad valorem ou específicos; não podem assumir restrições quantitativas. De
+minimis: se a margem relativa for inferior a 2%, não se aplicam medidas antidumping.
+Medidas antidumping provisórias: duração de até 4 meses, prorrogável até 6; exigem investigação aberta,
+oportunidade de manifestação, determinação preliminar positiva de dumping, dano e nexo, e juízo
+de necessidadepara impedir dano durante a investigação. Ao final, se não houver dumping/dano, a garantia
+ou os valores são devolvidos.
+Petição, sigilo e tramitação: a SDCOM analisa a admissibilidade da petição em 15 dias do protocolo.
+Informações confidenciais integram autos confidenciais; partes devem apresentar resumo restrito que
+permita compreensão. O acesso a autos restritos é limitado às partes interessadas e representantes.
+Dumping: prova de dano: considera-se dano em sentido amplo: dano material, ameaça de dano ou atraso
+materialna implantação da indústria doméstica. A avaliação objetiva examina: volume das importações
+objeto de dumping, efeitos sobre preços no mercado interno e impacto na indústria doméstica. Volume
+é insignificante se < 3% do total importado de produto similar, salvo se origens < 3% somadas > 7%.
+Compensatórios (subsídios): classificação em recorríveis (acionáveis), proibidos e irrecorríveis; dano
+significa dano material, ameaça ou atraso material. A investigação conclui em 12 meses. Provisórias exigem
+determinação preliminar positiva e podem ser aplicadas para evitar dano durante a
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                            7
+        www.estrategiaconcursos.com.br                                                                             21
+                                                                                                                    7
+                                           https://t.me/KakashiAssinaturasBot
+   Raphael Rabelo Parreira, Bruno Bezerra
+   Aula 09
+
+
+
+investigação; vigência não superior a 4 meses. Definitivas admitem aplicação retroativa até 90 dias antes
+da aplicação da medida provisória, quando houver importações volumosas em curto prazo que comprometam
+a eficácia do direito; não se cobra retroativamente antes do início da investigação. Permanecem vigentes
+enquanto necessário para neutralizar o dano.
+Extinção (sunset) no antidumping: todo direito definitivo se extingue em até 5 anos de sua aplicação ou
+da mais recente revisão, podendo ser prorrogado mediante requerimento da indústria se a extinção levar à
+retomada do dumping e do dano.
+Quadro-síntese: antidumping x compensatórios
+
+       Aspecto                            Antidumping.                                   Compensatórios.
+
+      Conduta
+                                 Venda a preço de dumping.                       Concessão de subsídio específico.
+     combatida.
+                                                         ==1fde2==
+
+
+
+
+                            Alíquota ad valorem e/ou específica;
+ Forma do direito.                                                                      Idem; vedada cota.
+                                       vedada cota.
+
+                                                                                 Avaliação por materialidade do
+     De minimis.           Margem relativa < 2% afasta medida.
+                                                                                            subsídio.
+
+     Provisórias.              Até 4 meses, prorrogáveis até 6.            Até 4 meses, com requisitos cumulativos.
+
+   Retroatividade.                Regra: sem retroatividade.                     Até 90 dias, em condições estritas.
+
+                                                                           Enquanto necessário para neutralizar o
+      Vigência.                 Até 5 anos, com sunset review.
+                                                                                          dano.
+
+Pegadinhas frequentes: a) direitos são cobrados em real, não em moeda estrangeira; b) não existe “direito
+antidumping por cota”; c) provas confidenciais exigem resumo público; a falta pode levar
+à desconsideração.
+Observações finais de risco de erro
+• Instâncias: perdimento instância única; sanções administrativas com recurso e efeito suspensivo.
+• Prazos: atenção aos 20 dias para impugnar no transporte com retenção e aos 45 dias para pagar a multa
+e evitar o perdimento.
+• Salvaguardas: provisória nunca é cota; definitiva pode ser cota ou adicional à TEC.
+• Antidumping: de minimis 2%; direitos podem ser ad valorem ou específicos, mas não quantitativos.
+Artigos legais citados (ipsis litteris)
+
+      Art. 7º O procedimento fiscal tem início com: I: o primeiro ato de ofício, escrito, praticado por servidor
+      competente, cientificado o sujeito passivo; II: a apreensão de mercadorias, documentos ou livros; III:
+      o começo de despacho aduaneiro de mercadoria importada. § 1º O início do procedimento exclui a
+      espontaneidade do sujeito passivo em relação aos atos anteriores e, independentemente de intimação,
+      a dos demais envolvidos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                               8
+         www.estrategiaconcursos.com.br                                                                                21
+                                                                                                                        8
+                                            https://t.me/KakashiAssinaturasBot
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 09
+
+
+
+   Art. 785. Os direitos antidumping e os direitos compensatórios, provisórios ou definitivos, serão
+   aplicados mediante a cobrança de importância, em real, que corresponderá a percentual da margem
+   de dumping ou do montante de subsídios, apurados em processo administrativo, nos termos da
+   legislação específica, suficientes para sanar dano ou ameaça de dano à indústria doméstica. Parágrafo
+   único. Os direitos antidumping e os direitos compensatórios serão cobrados independentemente de
+   quaisquer obrigações de natureza tributária relativas à importação dos produtos afetados.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                      9
+      www.estrategiaconcursos.com.br                                                                       21
+                                                                                                            9
+                                         https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+
+                                       APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova,
+considerando o histórico de questões da banca em provas de nível semelhante à nossa, bem como a experiência
+do professor.
+Dentro do assunto “Legislação Aduaneira”, o tópico “Prazos processuais no PAF (contagem de prazos e prazo
+de impugnação)” é o ponto que acreditamos ser o que possui mais chances de ser cobrado pela banca,
+conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+                                                                      Base Legal /
+         Tópico                  Aspectos Principais                  Observações                    Efeitos Jurídicos
+                                                                      Importantes
+
+                           • Os prazos são contínuos, exclui-se
+                           o dia do início e inclui-se o do
+                           vencimento.                                                   •          A           impugnação
+                                                                                         tempestiva suspende a exigibilidade
+                         • Só começam ou vencem em dia de Art. 5º e 16 do Decreto nº do crédito tributário.
+Prazos processuais no
+                         expediente normal no órgão 70.235/1972.
+PAF (contagem e prazo de                                                                 • Se não apresentada, há revelia, e
+                         competente.                       Art. 151, III, do CTN (efeito
+impugnação)                                                                              o processo é remetido à PGFN para
+                         • O contribuinte tem 30 dias para suspensivo).                  inscrição em dívida ativa após 30
+                         apresentar impugnação ao auto de                                dias de cobrança amigável.
+                         infração    ou    notificação  de
+                         lançamento.
+
+                           • O julgamento em 1ª instância é
+                           feito pelas DRJ, e o recurso vai
+                           ao CARF.
+                                                              Arts. 33, 34 e 35 do Decreto • Depósito prévio é inconstitucional.
+                           • Há recurso de ofício quando a    nº     70.235/1972.Súmula
+                                                                                           • A decisão do CARF encerra a
+Recursos no PAF (recurso decisão exonera o contribuinte       Vinculante        21/STF: “É
+                                                                                           instância administrativa (coisa
+de    ofício,  voluntário, acima do limite fixado ou deixa de inconstitucional a exigência
+                                                                                           julgada administrativa).
+depósito prévio e efeito aplicar perdimento.                  de depósito ou arrolamento
+suspensivo)                • O recurso voluntário cabe ao     prévios de dinheiro ou bens • Após a decisão definitiva
+                           contribuinte    contra     decisão para admissibilidade de contrária, reabre-se o prazo de 30
+                           desfavorável, no prazo de 30 dias. recurso administrativo.”     dias para pagamento amigável.
+
+                           •Ambos suspendem a exigibilidade
+                           do crédito.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                                      10
+         www.estrategiaconcursos.com.br                                                                                       21
+                                                                                                                              10
+                                            https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas estrategicamente: são
+questões com nível de dificuldade semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+abordam os principais pontos do assunto. A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria
+extensa de questões, mas que você faça uma boa revisão global do assunto a partir de, relativamente, poucas
+questões.
+1. (FADESP/2022/SEFAZ-PA/Auditor Fiscal de Receitas Estaduais) A Secretaria de Fazenda do Estado
+Westville, ao rever sua lei de processo administrativo fiscal, cria um projeto de lei que insere um artigo
+exigindo o depósito administrativo de 20% do valor do crédito tributário que o contribuinte deseje discutir
+em grau recursal, e você, como auditor fiscal, é indicado para emitir parecer sobre o novo dispositivo
+legal. Ao ler o dispositivo, você imediatamente identifica que o novo artigo é
+a) constitucional porque está de acordo com os julgamentos mais recentes do Supremo Tribunal Federal,
+geradores da Súmula Vinculante 21.
+b) constitucional porque o Estado é quem tem competência para legislar sobre o processo administrativo fiscal
+no âmbito de sua atuação.
+c) inconstitucional porque a Súmula Vinculante 21 prevê não ser possível esse tipo de exigência.
+d) inconstitucional porque apenas Lei Federal pode versar sobre processo administrativo fiscal.
+e) inconstitucional porque o Decreto 70.235/1972, recepcionado pela Constituição Federal como norma
+definidora do Processo Administrativo Fiscal, é quem regula a matéria.
+Comentários:
+Alternativa A: ERRADA. A orientação vinculante do STF é no sentido oposto: é inconstitucional condicionar a
+admissibilidade de recurso administrativo a depósito/ arrolamento prévios.
+Súmula Vinculante 21 (STF):
+
+     É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para
+     admissibilidade de recurso administrativo.
+     Além disso, a exigência viola o direito de petição (art. 5º, XXXIV, “a”, CF/88):
+     São a todos assegurados, independentemente do pagamento de taxas, o direito de petição aos
+     Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.
+
+Alternativa B: ERRADA. Embora Estados possam legislar sobre seu processo administrativo (competência
+legislativa concorrente/suplementar e competência residual), não podem fazê-lo contrariando a Constituição
+e a jurisprudência vinculante do STF. A exigência de depósito prévio fere a SV 21 e o art. 5º, XXXIV, “a”,
+CF/88.
+
+     Art. 24, I e § 2º, CF/88:
+     Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre: I – direito
+     tributário, (...).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                    11
+        www.estrategiaconcursos.com.br                                                                     21
+                                                                                                           11
+                                           https://t.me/KakashiAssinaturasBot
+   Raphael Rabelo Parreira, Bruno Bezerra
+   Aula 09
+
+
+
+        § 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar
+        dos Estados.
+
+Alternativa C: CERTA. A SV 21 veda expressamente a exigência de depósito/ arrolamento prévios como
+condição de admissibilidade de recurso administrativo. (Súmula Vinculante 21, STF – transcrição acima.)
+Alternativa D: ERRADA. Não é correta a afirmação de que apenas lei federal pode dispor sobre processo
+administrativo fiscal. A Constituição admite competência concorrente e suplementar dos Estados para legislar
+em matéria de direito tributário e, no que toca à organização do respectivo processo administrativo, há
+competência residual dos Estados (art. 24, I e § 2º, e art. 25, § 1º, CF/88).
+Alternativa E: ERRADA. O Decreto nº 70.235/1972 disciplina o processo administrativo fiscal da União; não
+é norma geral nacional vinculante para Estados e Municípios. A inconstitucionalidade do depósito prévio
+decorre da SV 21 e de garantias constitucionais (art. 5º, XXXIV, “a”, CF/88), não do fato de o Decreto federal
+“regular a matéria”.
+                                                           ==1fde2==
+
+
+
+
+Gabarito: Letra C.
+
+
+2. (FGV/2022/Senado Federal/Consultor Legislativo) O Decreto nº 70.235 dispõe sobre o processo
+administrativo fiscal (PAF) no âmbito federal. Sobre o PAF e à luz desse Decreto, analise as afirmativas a
+seguir.
+i. Os prazos do PAF são contados em dias úteis, excluindo-se na sua contagem o dia do início e incluindo-
+se o do vencimento.
+II. É nula, por vício formal, a notificação de lançamento que não contenha a identificação da autoridade
+que a expediu.
+III. Enquanto não houver decisão final de impugnação ou recurso no PAF, o crédito ali discutido não
+constituirá óbice à emissão de certidão positiva com efeitos de negativa.
+Está correto o que se afirma em:
+a) I e II, apenas.
+b) I, II e III.
+c) I e III, apenas.
+d) II e III, apenas.
+e) II, apenas.
+Comentários:
+Item I: ERRADO. No PAF federal, os prazos são contínuos (não “em dias úteis”).
+Decreto nº 70.235/1972, art. 5º (caput):
+Os prazos são contínuos, excluindo-se na sua contagem o dia do início e incluindo-se o do vencimento.
+Item II: CERTO. A notificação de lançamento deve conter, entre outros elementos essenciais,
+a identificação/assinatura da autoridade competente (com cargo/função e matrícula). Sua falta compromete
+a validade do ato. (Decreto nº 70.235/1972, art. 11, IV.)
+
+
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                  12
+            www.estrategiaconcursos.com.br                                                                   21
+                                                                                                             12
+                                            https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+Item III: CERTO. Enquanto pendentes reclamações/recursos administrativos, a exigibilidade do crédito fica
+suspensa, possibilitando a emissão de certidão positiva com efeitos de negativa (CPEN).
+CTN, art. 151, III:
+
+      Suspende-se a exigibilidade do crédito tributário: III – as reclamações e os recursos, nos termos das
+      leis reguladoras do processo tributário administrativo.
+
+CTN, art. 206:
+
+      Será fornecida certidão positiva com efeitos de negativa quando houver créditos cuja exigibilidade
+      esteja suspensa.
+
+Gabarito: Letra D.
+
+
+3. (CEBRASPE/2021/APEX-Brasil/Analista I)Considerando os mecanismos e instrumentos adotados nas
+práticas comerciais, assinale a opção correta.
+a) Medidas antidumping somente podem ser adotadas se a autoridade governamental competente demonstrar
+nexo causal.
+b) Alterações no imposto de importação produzem efeitos a partir do ano fiscal subsequente.
+c) Não é possível a adoção de medidas antidumping provisórias.
+d) As medidas antidumping são estabelecidas pelo Conselho Monetário Nacional.
+Comentários:
+Alternativa A: CERTA. A aplicação de medidas antidumping requer a verificação conjunta
+de dumping, dano à indústria doméstica e nexo causal entre ambos, conforme o Acordo Antidumping (OMC)
+e a legislação brasileira (Lei nº 9.019/1995 e Decreto nº 8.058/2013).
+Alternativa B: ERRADA. O Imposto de Importação é exceção às anterioridades.
+
+      Art. 150, § 1º, CF/88:
+      A vedação do inciso III, b (anterioridade anual) não se aplica aos impostos previstos no art. 153, I, II,
+      IV e V (...).
+      (Além disso, o II também não se submete à noventena, de modo que suas alterações podem produzir
+      efeitos imediatos.)
+
+Alternativa C: ERRADA. Admite-se a imposição de direitos antidumping provisórios, uma vez preenchidos os
+requisitos legais (Lei nº 9.019/1995, art. 7º; Acordo Antidumping, art. 7).
+Alternativa D: ERRADA. No Brasil, a investigação é conduzida pela Secretaria de Comércio Exterior
+(SDCOM/SECEX) e a aplicação dos direitos antidumping é decidida no âmbito do Poder Executivo federal
+(CAMEX/GECEX), não pelo Conselho Monetário Nacional (Lei nº 9.019/1995; Decreto nº 8.058/2013).
+Gabarito: Letra A.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                          13
+         www.estrategiaconcursos.com.br                                                                           21
+                                                                                                                  13
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+4. (INSTITUTO SELECON/2021/EMGEPRON/Analista Técnico) Na hipótese de um empresário vender seus
+produtos num país estrangeiro por preço inferior ao praticado em seu próprio país, provocando distorções
+na livre concorrência, ele estaria realizando:
+a) desembaraço aduaneiro
+b) inconterms
+c) embaraço aduaneiro
+d) dumping
+Comentários:
+CERTA a letra D. “Dumping” é a prática desleal de exportar a preço inferior ao valor normal (tipicamente,
+inferior ao praticado no mercado interno do exportador).
+Acordo Antidumping (OMC), art. 2.1:
+Considera-se que existe dumping quando um produto é introduzido no comércio de outro país a preço inferior
+ao seu valor normal.
+Gabarito: Letra D.
+
+
+5. (OBJETIVA/2020/Prefeitura de Sentinela do Sul-RS/Fiscal) Segundo o Decreto nº 70.235/1972,
+considerando-se o processo administrativo fiscal, analisar os itens abaixo:
+i. O início do procedimento exclui a espontaneidade do sujeito passivo em relação aos atos anteriores e,
+independentemente de intimação, a dos demais envolvidos nas infrações verificadas.
+II. O servidor que verificar a ocorrência de infração à legislação tributária federal e não for competente
+para formalizar a exigência não comunicará o fato a ninguém.
+a) Os itens I e II estão corretos.
+b) Somente o item I está correto.
+c) Somente o item II está correto.
+d) Os itens I e II estão incorretos.
+Comentários:
+
+Item I: CERTO.
+Decreto nº 70.235/1972, art. 7º, § 1º:
+O início do procedimento exclui a espontaneidade do sujeito passivo em relação aos atos anteriores e,
+independentemente de intimação, a dos demais envolvidos nas infrações verificadas.
+Item II: ERRADO. O servidor que constatar infração e não for competente para formalizar a exigência deve
+comunicar o fato a seu chefe imediato, mediante representação circunstanciada.
+Decreto nº 70.235/1972, art. 12:
+O servidor que verificar a ocorrência de infração à legislação tributária federal e não for competente para
+formalizar a exigência, comunicará o fato, em representação circunstanciada, a seu chefe imediato (...).
+Gabarito: Letra B.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                14
+         www.estrategiaconcursos.com.br                                                                 21
+                                                                                                        14
+                                           https://t.me/KakashiAssinaturasBot
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 09
+
+
+
+
+            QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas
+também).
+
+Perguntas
+      1.  A retenção do veículo transportador depende de o infrator ser o proprietário?
+      2.  Qual é o valor da multa ao transportador que carregar mercadoria sujeita à pena de perdimento?
+      3.  Em quais situações a multa ao transportador passa a ser de R$ 30.000,00?
+      4.  Qual é o prazo para recolher a multa aplicada ao transportador e o que ocorre se não houver
+          pagamento?
+      5. Quando o veículo é considerado abandonado no contexto da multa do art. 731?
+      6. Quais sanções administrativas podem ser aplicadas a intervenientes em operações de comércio
+          exterior?
+      7. Qual é o prazo para impugnação no processo de sanções administrativas e quando começa a contar
+          se a intimação for por edital?
+      8. Qual é o prazo e o efeito do recurso contra sanção administrativa aplicada a interveniente?
+      9. Quais são os dois objetos do Processo Administrativo Fiscal (PAF) federal?
+      10. Como se contam os prazos no PAF?
+      11. Quais atos iniciam o procedimento fiscal no PAF?
+      12. Qual é o efeito do início do procedimento fiscal sobre a espontaneidade do sujeito passivo?
+      13. Por quanto tempo valem, para fins de exclusão da espontaneidade, os atos de início do
+          procedimento referidos nos incisos I e II do art. 7º?
+      14. Qual é o prazo para o sujeito passivo apresentar impugnação à exigência no PAF?
+      15. Quem julga o PAF em 1ª e 2ª instâncias administrativas?
+      16. Pode ser exigido depósito prévio para admissibilidade de recurso administrativo fiscal?
+      17. O que ocorre com o PAF se o contribuinte ajuizar ação judicial com o mesmo objeto?
+      18. Os processos de consulta na Receita Federal são solucionados em quantas instâncias?
+      19. Qual é o efeito de uma Solução de Consulta para a Receita Federal e para o contribuinte?
+      20. Como podem ser aplicadas as medidas de salvaguarda e quem conduz a investigação e a aplicação?
+
+Perguntas com respostas
+1.         A retenção do veículo transportador depende de o infrator ser o proprietário?
+Não. A retenção ocorre mesmo que o infrator não seja o proprietário (art. 781, § 1º, Regulamento Aduaneiro).
+2.         Qual é o valor da multa ao transportador que carregar mercadoria sujeita à pena de perdimento?
+R$ 15.000,00 (art. 731, Regulamento Aduaneiro).
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                  15
+           www.estrategiaconcursos.com.br                                                                   21
+                                                                                                            15
+                                              https://t.me/KakashiAssinaturasBot
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 09
+
+
+
+3.        Em quais situações a multa ao transportador passa a ser de R$ 30.000,00?
+Na reincidência com o mesmo veículo ou quando houver modificações na estrutura/características do veículo
+para transportar/ocultar mercadoria (art. 731, Regulamento Aduaneiro).
+4.   Qual é o prazo para recolher a multa aplicada ao transportador e o que ocorre se não houver
+pagamento?
+45 dias da aplicação da multa ou da ciência da decisão contrária; não pago, aplica-se a pena de perdimento
+do veículo (art. 688, VII, Regulamento Aduaneiro).
+5.        Quando o veículo é considerado abandonado no contexto da multa do art. 731?
+Quando a multa não é recolhida em 45 dias da aplicação ou da ciência da decisão que julgou improcedente
+a impugnação (art. 688, VII, Regulamento Aduaneiro).
+6.     Quais sanções administrativas podem ser aplicadas a intervenientes em operações de comércio
+                                                           ==1fde2==
+
+
+
+
+exterior?
+Advertência; suspensão; cancelamento ou cassação de registro, licença, autorização, credenciamento ou
+habilitação (Regulamento Aduaneiro).
+7.      Qual é o prazo para impugnação no processo de sanções administrativas e quando começa a contar
+se a intimação for por edital?
+20 dias; se por edital, conta 15 dias após a publicação (Regulamento Aduaneiro).
+8.        Qual é o prazo e o efeito do recurso contra sanção administrativa aplicada a interveniente?
+30 dias à autoridade imediatamente superior, com efeito suspensivo e julgamento em instância final
+administrativa (art. 783, § 4º, Regulamento Aduaneiro).
+9.        Quais são os dois objetos do Processo Administrativo Fiscal (PAF) federal?
+Determinação e exigência de créditos tributários da União; e consultas sobre a aplicação da legislação
+tributária federal (Decreto 70.235/72).
+10.       Como se contam os prazos no PAF?
+São contínuos; exclui-se o dia do início e inclui-se o do vencimento; iniciam e vencem em dia de expediente do
+órgão (art. 5º, Decreto 70.235/72).
+11.       Quais atos iniciam o procedimento fiscal no PAF?
+(i) Primeiro ato de ofício, escrito, com ciência do sujeito passivo; (ii) apreensão de mercadorias, documentos ou
+livros; (iii) começo de despacho aduaneiro de mercadoria importada (art. 7º, Decreto 70.235/72).
+12.       Qual é o efeito do início do procedimento fiscal sobre a espontaneidade do sujeito passivo?
+Exclui a espontaneidade quanto aos atos anteriores (art. 7º, § 1º, Decreto 70.235/72).
+13.    Por quanto tempo valem, para fins de exclusão da espontaneidade, os atos de início do
+procedimento referidos nos incisos I e II do art. 7º?
+Por 60 dias, prorrogáveis sucessivamente por igual período mediante outro ato escrito que indique o
+prosseguimento (art. 7º, § 2º, Decreto 70.235/72).
+14.       Qual é o prazo para o sujeito passivo apresentar impugnação à exigência no PAF?
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                    16
+           www.estrategiaconcursos.com.br                                                                     21
+                                                                                                              16
+                                              https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+30 dias, contados da intimação da exigência (Decreto 70.235/72).
+15.    Quem julga o PAF em 1ª e 2ª instâncias administrativas?
+DRJ (colegiada) em 1ª instância e CARF (paritário) em 2ª instância (Decreto 70.235/72).
+16.    Pode ser exigido depósito prévio para admissibilidade de recurso administrativo fiscal?
+Não. A exigência é inconstitucional (Súmula Vinculante 21, STF).
+17.    O que ocorre com o PAF se o contribuinte ajuizar ação judicial com o mesmo objeto?
+Há renúncia tácita à instância administrativa, com não conhecimento da impugnação/recursos (art. 1º, § 2º,
+Decreto-Lei 1.737/79).
+18.    Os processos de consulta na Receita Federal são solucionados em quantas instâncias?
+Em instância única (art. 790, Regulamento Aduaneiro).
+19.    Qual é o efeito de uma Solução de Consulta para a Receita Federal e para o contribuinte?
+Tem efeito vinculante para a RFB e respalda o sujeito passivo que a aplicar, ainda que não seja o consulente,
+a partir da publicação (IN RFB 2.058/21; IN RFB 2.057/21).
+20.    Como podem ser aplicadas as medidas de salvaguarda e quem conduz a investigação e a
+aplicação?
+Provisórias: apenas por adicional à TEC (II); definitivas: por adicional à TEC ou por restrições quantitativas; a
+SECEX/SDCOM investiga e a CAMEX aplica (Decreto 1.488/95; arts. 770 e 773, Regulamento Aduaneiro).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira                       17
+        www.estrategiaconcursos.com.br                                                                        21
+                                                                                                              17
+                                           https://t.me/KakashiAssinaturasBot
+   Raphael Rabelo Parreira, Bruno Bezerra
+   Aula 09
+
+
+
+
+                           LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FADESP/2022/SEFAZ-PA/Auditor Fiscal de Receitas Estaduais) A Secretaria de Fazenda do Estado
+Westville, ao rever sua lei de processo administrativo fiscal, cria um projeto de lei que insere um artigo
+exigindo o depósito administrativo de 20% do valor do crédito tributário que o contribuinte deseje discutir
+em grau recursal, e você, como auditor fiscal, é indicado para emitir parecer sobre o novo dispositivo
+legal. Ao ler o dispositivo, você imediatamente identifica que o novo artigo é
+a) constitucional porque está de acordo com os julgamentos mais recentes do Supremo Tribunal Federal,
+geradores da Súmula Vinculante 21.
+b) constitucional porque o Estado é quem tem competência para legislar sobre o processo administrativo fiscal
+no âmbito de sua atuação.
+c) inconstitucional porque a Súmula Vinculante 21 prevê não ser possível esse tipo de exigência.
+d) inconstitucional porque apenas Lei Federal pode versar sobre processo administrativo fiscal.
+e) inconstitucional porque o Decreto 70.235/1972, recepcionado pela Constituição Federal como norma
+definidora do Processo Administrativo Fiscal, é quem regula a matéria.
+
+
+2. (FGV/2022/Senado Federal/Consultor Legislativo) O Decreto nº 70.235 dispõe sobre o processo
+administrativo fiscal (PAF) no âmbito federal. Sobre o PAF e à luz desse Decreto, analise as afirmativas a
+seguir.
+i. Os prazos do PAF são contados em dias úteis, excluindo-se na sua contagem o dia do início e incluindo-
+se o do vencimento.
+II. É nula, por vício formal, a notificação de lançamento que não contenha a identificação da autoridade
+que a expediu.
+III. Enquanto não houver decisão final de impugnação ou recurso no PAF, o crédito ali discutido não
+constituirá óbice à emissão de certidão positiva com efeitos de negativa.
+Está correto o que se afirma em:
+a) I e II, apenas.
+b) I, II e III.
+c) I e III, apenas.
+d) II e III, apenas.
+e) II, apenas.
+
+
+3. (CEBRASPE/2021/APEX-Brasil/Analista I)Considerando os mecanismos e instrumentos adotados nas
+práticas comerciais, assinale a opção correta.
+a) Medidas antidumping somente podem ser adotadas se a autoridade governamental competente demonstrar
+nexo causal.
+b) Alterações no imposto de importação produzem efeitos a partir do ano fiscal subsequente.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira               18
+            www.estrategiaconcursos.com.br                                                                21
+                                                                                                          18
+                                            https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 09
+
+
+
+c) Não é possível a adoção de medidas antidumping provisórias.
+d) As medidas antidumping são estabelecidas pelo Conselho Monetário Nacional.
+
+
+4. (INSTITUTO SELECON/2021/EMGEPRON/Analista Técnico) Na hipótese de um empresário vender seus
+produtos num país estrangeiro por preço inferior ao praticado em seu próprio país, provocando distorções
+na livre concorrência, ele estaria realizando:
+a) desembaraço aduaneiro
+b) inconterms
+c) embaraço aduaneiro
+d) dumping
+
+                                                        ==1fde2==
+
+
+
+
+5. (OBJETIVA/2020/Prefeitura de Sentinela do Sul-RS/Fiscal) Segundo o Decreto nº 70.235/1972,
+considerando-se o processo administrativo fiscal, analisar os itens abaixo:
+i. O início do procedimento exclui a espontaneidade do sujeito passivo em relação aos atos anteriores e,
+independentemente de intimação, a dos demais envolvidos nas infrações verificadas.
+II. O servidor que verificar a ocorrência de infração à legislação tributária federal e não for competente
+para formalizar a exigência não comunicará o fato a ninguém.
+a) Os itens I e II estão corretos.
+b) Somente o item I está correto.
+c) Somente o item II está correto.
+d) Os itens I e II estão incorretos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira               19
+         www.estrategiaconcursos.com.br                                                                21
+                                                                                                       19
+                                           https://t.me/KakashiAssinaturasBot
+ Raphael Rabelo Parreira, Bruno Bezerra
+ Aula 09
+
+
+
+
+                                              GABARITO
+1-C
+2-D
+3-A
+4-D
+5-B
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira   20
+       www.estrategiaconcursos.com.br                                                    21
+                                                                                         20
+                                          https://t.me/KakashiAssinaturasBot
+

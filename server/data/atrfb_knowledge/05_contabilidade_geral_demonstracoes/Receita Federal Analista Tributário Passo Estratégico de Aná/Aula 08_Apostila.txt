@@ -1,0 +1,1262 @@
+                                                    Aula 07
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                          28 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 07
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - ADC - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - ADC - Parte 3
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - ADC - Parte 3
+..............................................................................................................................................................................................
+                                                                                                                                                                                            10
+
+4) Questões Estratégicas - ADC - Parte 3 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            11
+
+5) Questionário de Revisão - ADC - Parte 3
+..............................................................................................................................................................................................
+                                                                                                                                                                                            20
+
+6) Lista de Questões Estratégicas - ADC - Parte 3 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            22
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           27
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 07
+
+
+
+
+INTRODUÇÃO (CONCEITO, USUÁRIOS, INTERESSES E TIPOS
+  DE ANÁLISE), ANÁLISE VERTICAL E HORIZONTAL DAS
+DEMONSTRAÇÕES CONTÁBEIS, ÍNDICES DE RENTABILIDADE
+ E LUCRATIVIDADE, EBIT E EBITDA, ECONOMIC VALUE
+           ADED – EVA (LUCRO RESIDUAL)
+
+O que é mais cobrado dentro do assunto?
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a distribuição percentual conforme
+tabela abaixo.
+
+Critérios da amostra de questões: banca FGV; anos 2025 a 2021; concursos de nível superior
+
+Quantidade de questões da amostra: 36
+
+                                                                                          Grau de incidência em
+                                       Assunto                                             concursos similares
+
+                                                                                                     FGV
+              Análise Vertical e Horizontal das Demonstrações Contábeis                            58,33%
+                       Índices de Rentabilidade e Lucratividade                                    38,89%
+                                     EBIT e EBITDA                                                  3,00%
+            Introdução (Conceito, Usuários, Interesses e Tipos de Análise)                         <1,00%
+                     Economic Value Aded – EVA (Lucro Residual)                                    <1,00%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis        3
+        www.estrategiaconcursos.com.br                                                                       27
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 07
+
+
+
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+Endividamento (Índices de Estrutura):
+
+Os índices de endividamento (também chamados de quocientes de estrutura de capital) mostram a relação
+entre o capital próprio (Patrimônio Líquido) e o capital de terceiros (passível exigível). Indicam a política de
+obtenção de recursos da empresa, e a dependência da empresa com relação a capital de terceiros.
+
+Endividamento Geral
+
+O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos
+totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros (capital de
+terceiros)
+
+A fórmula é a seguinte:
+
+                                                               Exigível total
+                                     Endividamento total =
+                                                                Ativo total
+
+Também podemos reescrevê-la das seguintes formas:
+
+   •   Detalhando os subgrupos
+
+                                             Passivo Circulante + Passivo Não Circulante
+                   Endividamento total =
+                                               Ativo Circulante + Ativo Não Circulante
+
+   •   Substituindo "Ativo Total" por "Passivo + PL" (Aqui trabalhando com a fórmula da equação
+       fundamental da contabilidade)
+
+                                            Passivo Circulante + Passivo Não Circulante
+                Endividamento total =
+                                          Passivo Circulante + Passivo Não Circulante + PL
+
+Intepretação: quanto menor, melhor.
+
+Podemos considerar os termos como equivalentes: Endividamento Geral = Endividamento Total =
+Participação de capitais de terceiros sobre os recursos totais à disposição da empresa = Debt Ratio.
+
+Grau de Endividamento
+
+O índice de Garantia do Capital de Terceiros ou Grau de Endividamento indica a garantia proporcionada ao
+capital de terceiros em função da existência de capital próprio.
+
+A fórmula é a seguinte:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis       4
+        www.estrategiaconcursos.com.br                                                                       27
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+                                                                      Exigível total
+                                    Grau de Endividamento =
+                                                                           PL
+
+É possível reescrevê-la detalhando os subgrupos:
+
+                                                   Passivo Circulante + Passivo Não Circulante
+                   Grau de Endividamento =
+                                                                        PL
+
+Considere como equivalentes: Índice de Participação do Capital de Terceiros = Grau de Endividamento =
+Garantia do Capital de Terceiros = Relação entre as fontes de recursos
+
+Intepretação: quanto menor, melhor.
+
+Composição do endividamento
+                                                         ==219a34==
+
+
+
+
+A composição do endividamento também conhecida com perfil da dívida é a razão entre o passivo circulante
+o exigível total da empresa.
+
+A fórmula é a seguinte:
+
+                                                      Passivo Circulante
+                                               CE =
+                                                           Passivo
+
+Além disso, conseguimos ajustar a fórmula por meio dos subgrupos:
+
+                                                    Passivo Circulante
+                                CE =
+                                       Passivo Circulante + Passivo Não Circulante
+
+Podemos considerar os termos como equivalentes: Qualidade do endividamento = Composição do
+endividamento = Perfil da dívida = Composição das exigibilidades
+
+Intepretação: quanto menor, melhor.
+
+Endividamento Oneroso
+
+Quando limitamos nossa análise ao passivo oneroso (empréstimos e financiamentos), estamos, na verdade,
+utilizando o indicador de endividamento oneroso:
+
+                                                                        Passivo Oneroso
+                            Índice de Endividamento Oneroso =
+                                                                           Ativo total
+
+Ele mostra a participação das fontes onerosas de capital no financiamento dos investimentos totais da
+empresa, revelando sua dependência de instituições financeiras.
+
+Intepretação: quanto menor, melhor.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   5
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+    Aula 07
+
+
+
+
+Índice de Cobertura
+
+Índices de cobertura refletem a capacidade da empresa de pagar determinados encargos fixos, como por
+exemplo, juros.
+
+Cobertura de Juros
+
+O índice de cobertura de juros mede o percentual dos lucros que estão comprometidos com o pagamento
+dos juros. Também pode ser interpretado como a capacidade da empresa para pagamento dos juros.
+
+A fórmula é a seguinte:
+
+                                                                          LAJIR
+                             Índice de Cobertura dos Juros (ICJ) =
+                                                                     Despesa de Juros
+
+Intepretação:
+
+•    Maior que 1: situação da empresa é satisfatória em relação ao total das dívidas que contraiu.
+•    Menor que 1: situação da empresa é insatisfatória/ruim/preocupante em relação ao total das dívidas
+     que contraiu.
+
+Cobertura Total
+
+O índice de cobertura de total mede quantas vezes o fluxo das operações consegue pagar as dívidas da
+empresa.
+
+A fórmula é a seguinte:
+
+                                                         Fluxo de Caixa Operacional
+                              Cobertura de Dívidas =
+                                                                Passivo Total
+
+Intepretação:
+
+     •   Fluxo das operações permite pagar x % das dívidas da empresa.
+     •   Fluxo das operações permite pagar x vezes as dívidas da empresa.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   6
+          www.estrategiaconcursos.com.br                                                                   27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+
+Alavancagem Financeira
+
+A alavancagem financeira consiste essencialmente em aumentar o retorno para o acionista, ou seja,
+aumentar o retorno sobre o Patrimônio Líquido.
+
+Na alavancagem financeira, verificamos o aumento de Retorno do PL em função do retorno do Ativo ser
+maior que o custo do capital de terceiros.
+
+A fórmula é a seguinte:
+
+                                                     Lucro líquido
+                                                   Patrimônio líquido
+                                    GAF =
+                                          (Lucro líquido + Despesa financeira)
+                                                          Ativo
+
+Nota-se que o numerador da fórmula do GAF é a rentabilidade do PL. Já o denominador, é o retorno sobre
+o ativo:
+
+                                            Rentabilidade do Patrimônio Líquido
+                                    GAF =
+                                                  Retorno sobre o ativo
+
+Assim, eles são diretamente proporcionais ao retorno do capital próprio e inversamente proporcionais ao
+retorno sobre o ativo.
+
+A intepretação é a seguinte:
+
+   •   ALAVANCAGEM FINANCEIRA MAIOR QUE 1: se a empresa se utilizar do capital de terceiros, ainda
+       terá rentabilidade no patrimônio líquido. Conclui-se que a alavancagem é considerada como sendo
+       favorável, positiva.
+   •   ALAVANCAGEM FINANCEIRA IGUAL A 1: se a empresa se utilizar do capital de terceiros, será
+       indiferente, pois não há aumento da rentabilidade do patrimônio líquido.
+   •   ALAVANCAGEM FINANCEIRA MENOR DO QUE 1: se a empresa se utilizar do capital de terceiros, terá
+       a rentabilidade do PL diminuída. Conclui-se que a alavancagem é considerada desfavorável, negativa.
+
+No tocante ao risco, temos o seguinte: quanto MAIOR a alavancagem financeira, MAIOR é o risco financeiro
+assumido pela empresa. Isto é, são diretamente proporcionais.
+
+Indo Além! É possível encontrar as seguintes variações de fórmulas:
+
+   •   Substituindo "Ativo Total" por "Passivo + PL" (Aqui trabalhando com a fórmula da equação
+       fundamental da contabilidade)
+
+                                                     Lucro líquido
+                                                   Patrimônio líquido
+                                    GAF =
+                                          (Lucro líquido + Despesa financeira)
+                                                PL + Passivo Exigível
+
+   •   Alguns autores usam a seguinte fórmula:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   7
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+                                                     Lucro líquido
+                                              Patrimônio líquido médio
+                                    GAF =
+                                          (Lucro líquido + Despesa financeira)
+                                                      Ativo médio
+
+   •   Outra forma de calcular o GAF:
+
+                                  Lucro Antes dos Juros e Impostos de Renda   LAJIR
+                          GAF =                                             =
+                                      Lucro Antes do Imposto de Renda         LAIR
+
+Alavancagem Operacional ou Grau de Alavancagem Operacional
+
+A Alavancagem Operacional indica o aumento no lucro resultante de um determinado aumento no Volume.
+A fórmula da Alavancagem (também chamada de “Grau de Alavancagem Operacional”) fica assim:
+
+                                           Porcentagem de acréscimo no lucro
+                                  GAO =
+                                          Porcentagem de acréscimo no volume
+
+O Grau de Alavancagem Operacional (GAO) ou simplesmente Alavancagem Operacional também pode ser
+calculado assim:
+
+                                               Margem de contribuição total
+                                       GAO =
+                                                      Lucro total
+
+Margem de Contribuição
+
+A Margem de Contribuição de um produto é o que resta após diminuir os custos variáveis e as despesas
+variáveis. É a quantia com a qual o produto contribui para amortizar os custos fixos mais as despesas fixas, e
+para formar o lucro.
+
+A fórmula é a seguinte:
+
+             Margem de contribuição = Preço de venda (–) custos variáveis e despesas variáveis
+
+                          Margem de Contribuição Total = MCU x quantidade vendida
+
+Pontos de Equilíbrio
+
+Ponto de Equilíbrio é o ponto em que o lucro da empresa é zero, ou seja, é o ponto no qual a receita total é
+igual aos custos e despesas totais. Também chamado de Break-even Point ou Ponto de Ruptura ou Ponto
+Crítico.
+
+A fórmula é a seguinte:
+
+                           Ponto de equilíbrio =      (Custo fixos + despesas fixas)
+                                                     Margem de contribuição unitária
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     8
+         www.estrategiaconcursos.com.br                                                                    27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 07
+
+
+
+
+Alavancagem Total ou Alavancagem Combinada
+
+A Alavancagem Total é o resultado da multiplicação da Alavancagem Operacional pela Alavancagem
+Financeira. É a combinação da estrutura dos ativos operacionais (que irá resultar na alavancagem
+operacional) com a estrutura de capital (estrutura financeira ou estrutura do passivo, que irá resultar na
+Alavancagem Financeira).
+
+Podemos calcular facilmente multiplicando o Grau de Alavancagem Operacional (GAO) pelo Grau de
+Alavancagem Financeira:
+
+                                      Grau de Alavancagem Total = GAO x GAF
+
+Por meio dessa fórmula podemos chegar na seguinte:
+
+        % Aumento Lajir                       % Aumento LAIR                % aumento LAIR
+GAT = --------------------------- x    ------------------------------ =   -------------------------------
+        % Aumento vendas                  % Aumento Lajir                  % Aumento Vendas
+
+
+Também pode ser usado o Lucro por Ação, ao invés do LAIR:
+
+                             GAT = % aumento Lucro por Ação / % aumento vendas
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     9
+         www.estrategiaconcursos.com.br                                                                     27
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 07
+
+
+
+
+                                    APOSTA ESTRATÉGICA
+Estes índices são importantíssimos:
+
+--- Endividamento total = Exigível total / Exigível total + PL
+
+--- Garantia de capital de terceiros = Exigível total / PL
+
+--- Composição do endividamento = Passivo Circulante / Exigível total
+
+--- Índice de Endividamento Oneroso = Passivo Oneroso /Ativo total
+
+--- Indice de Cobertura dos Juros = LAJIR/Despesa de Juros
+                                                       ==219a34==
+
+
+
+
+                                 LL
+--- Alavancagem Financeira =     PL
+                             (LL + DF)
+                                 A
+
+--- Alavancagem Operacional = Porcentagem de acréscimo no lucro / Porcentagem de acréscimo no volume
+
+--- Alavancagem Total = GAO x GAF
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   10
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 07
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+Estrutura de capital e Índices de endividamento
+
+  (FGV/MPE SC/Analista Contabilidade/2022) Quando se deseja analisar a composição do endividamento
+   de um ente ao final de um exercício, é necessário usar informações apresentadas no Balanço
+   Patrimonial para apurar este quociente, incluído nos indicadores de análise da estrutura de capital.
+No caso do quociente de composição do endividamento, uma conta cujo saldo impacta apenas o
+denominador desse indicador é:
+A caixa e equivalentes de caixa;
+B despesas antecipadas;
+C financiamentos (longo prazo);
+D fornecedores (curto prazo);
+
+Comentários:
+
+A composição das exigibilidades, também conhecida com perfil da dívida é a razão entre o passivo circulante
+o exigível total da empresa.
+
+                           Passivo Circulante                Passivo Circulante
+                    CE =                      =
+                                Passivo         Passivo Circulante + Passivo Não Circulante
+
+O quesito solicitou uma conta que impacte apenas o denominador dessa fórmula, ou seja, que afete somente
+o Passivo. Como o numerador é o Passivo Circulante e o denominador o Passivo (esse representado pela
+soma do Passivo Circulante + Passivo Não Circulante), então precisamos de uma conta que afete somente o
+Passivo Não Circulante. Diante das alternativas, a única que faz parte do PNC são os financiamentos (longo
+prazo).
+
+Gabarito: C
+
+Estrutura de capital e Índices de endividamento
+
+  (FGV/SEMSA Manaus/Especialista em Saúde/Contador/2022) No ano de X0, uma entidade apresentou
+   endividamento geral de 0,3. O indicador significa que a entidade
+A é financiada, principalmente, por recursos próprios.
+B é financiada, principalmente, por recursos de terceiros.
+C possui mais obrigações com terceiros de curto prazo do que de longo prazo.
+D possui mais obrigações com terceiros de longo prazo do que de curto prazo.
+E tem mais passivos onerosos do que não onerosos.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   11
+        www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos
+totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros.
+
+A fórmula é a seguinte:
+
+                                                       Exigível total
+                                                 ET=
+                                                        Ativo total
+
+                                                        Exigível total
+                                                0,3 =
+                                                         Ativo total
+
+                                          0,3 x Ativo Total = Exigível Total
+
+Isso significa que 30% do Ativo total é financiada com recursos de terceiros. Consequentemente, 70% do
+Ativo Total é financiada com recursos próprios.
+
+                                           Exigível Total = 0,3 Ativo Total
+
+                                                PL = 0,7 Ativo Total
+
+No ano de X0, uma entidade apresentou endividamento geral de 0,3. O indicador significa que a entidade é
+financiada, principalmente, por recursos próprios.
+
+Gabarito: A
+
+Estrutura de capital e Índices de endividamento
+
+   (FGV/Sefaz AM/Auditor de Finanças e Controle do Tesouro Estadual/2022) O contador de uma entidade
+    deseja elaborar projeções para os períodos seguintes. Para isso, deseja avaliar o grau de dependência
+    dos empréstimos e financiamentos da entidade com as instituições financeiras.
+Assinale a opção que apresenta o indicador apropriado para a análise, frente ao objetivo.
+A Liquidez geral.
+B Endividamento geral.
+C Composição das exigibilidades.
+D Endividamento oneroso.
+E Composição do endividamento oneroso.
+
+Comentários:
+
+O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos
+totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros.
+
+A fórmula é a seguinte:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   12
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+                                                       Exigível total
+                                                 ET=
+                                                        Ativo total
+
+Todavia, quando limitamos nossa análise ao passivo oneroso (empréstimos e financiamentos), estamos, na
+verdade, utilizando o indicador de endividamento oneroso:
+
+                                                                        Passivo Oneroso
+                            Índice de Endividamento Oneroso =
+                                                                           Ativo total
+
+Gabarito: D
+
+Estrutura de capital e Índices de endividamento
+
+   (FGV/ALERO/Consultor Legislativo/Assessoramento em Orçamentos/2018) Em 31/12/2017, uma
+    empresa apresentava o seguinte balanço patrimonial:
+
+
+
+
+Sobre os índices de endividamento da empresa, assinale a afirmativa correta.
+A O endividamento geral é de 0,46.
+B A composição do endividamento é de 0,12.
+C O endividamento oneroso é de 0,23.
+D A composição do endividamento oneroso é de 0,71.
+E A imobilização do patrimônio líquido é de 0,43.
+
+Comentários:
+
+                                              Exigível total 70.000 + 110.000 180.000
+            índice de Endividamento Total =                 =                =         = 0,32
+                                               Ativo total       570.000       570.000
+                                            Passivo Circulante        70.000       70.000
+       Composição do endividamento =                           =                 =        = 0,39
+                                                 Passivo         70.000 + 110.000 180.000
+
+                                               Passivo Oneroso 50.000 + 80.000 130.000
+      Índice de Endividamento Oneroso =                       =               =         = 0,23
+                                                  Ativo total      570.000      570.000
+
+                                                            Passivo Oneroso CP      50.000
+            Composição do endividamento oneroso=                               =
+                                                          Endividamento Oneroso 50.000 + 80.000
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   13
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+                                                                         50.000       50.000
+               Composição do endividamento oneroso =                                =        = 0,38
+                                                                     50.000 + 80.000 130.000
+
+                                                     Ativo não circulante − Realizável a Longo Prazo
+        Imobilização do patrimônio líquido =
+                                                                    Patrimônio Líquido
+
+                                                                     245.000 − 0 245.000
+                  Imobilização do patrimônio líquido =                          =         = 0,63
+                                                                       390.000    390.000
+
+Gabarito: C
+
+Estrutura de capital e Índices de endividamento
+
+   (FGV/SEFIN-RO/Auditor Fiscal de Tributos Estaduais/2018) Um banco tem como política emprestar
+    dinheiro apenas para sociedades empresárias que tenham índice de endividamento geral igual ou
+                                                        ==219a34==
+
+
+
+
+    menor que 70%, sem considerar o efeito do dinheiro do empréstimo no ativo.
+Uma sociedade empresária solicitou empréstimo de um banco. Seu balanço patrimonial era o seguinte:
+
+
+
+
+Assinale a opção que indica o limite estabelecido pelo banco para o empréstimo solicitado.
+a) R$ 5.000.
+b) R$ 55.000.
+c) R$ 205.000.
+d) R$ 325.000.
+e) R$ 335.000.
+
+Comentários:
+
+Endividamento Total (ED) ou Debt Ratio
+
+                                                       Exigível total
+                                                 ET=
+                                                        Ativo total
+
+Vamos chamar a quantia máxima que a empresa poderá obter de empréstimo de “x”. Para que o
+endividamento total da empresa seja no máximo de 70%, ela poderá tomar de empréstimo a seguinte
+quantia:
+
+                                 Exigível Total        120.000+130.000+x
+                                                =0,70→                   =0,70
+                                     Ativo                  650.000
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   14
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+                               250.000+x
+                                         =0,70→250.000+x=455.000→x=205.000
+                                650.000
+
+Gabarito: C
+
+Alavancagem Operacional
+
+   (FGV/Sefaz AM/Auditor de Finanças e Controle do Tesouro Estadual/2022) Uma sociedade empresária
+    que fabricava e vendia bonecas apresenta em determinado ano alavancagem operacional de 5,00.
+Isso significa que
+A a receita aumenta em 5% a cada aumento de 1% nas vendas.
+B o lucro aumenta em 5% a cada aumento de 1% nas vendas.
+C a receita aumenta em 1% a cada aumento de 5% nas vendas.
+D o lucro aumenta em 1% a cada aumento de 5% nas vendas.
+E o caixa aumenta em 5% a cada aumento de 1% na receita.
+
+Comentário:
+
+A Alavancagem Operacional (também conhecido como grau de alavancagem operacional - GAO) indica o
+aumento no lucro resultante de um determinado aumento no Volume.
+
+A fórmula é a seguinte:
+
+Alavancagem Operacional = Porcentagem de acréscimo no lucro / Porcentagem de acréscimo no volume
+
+Dado que o GAO é de 5, então:
+
+              5 = Porcentagem de acréscimo no lucro / Porcentagem de acréscimo no volume
+
+Repare que, com um aumento de 1% no volume, o lucro aumentou 5 %:
+
+                                    5 = Porcentagem de acréscimo no lucro / 1%
+
+                               Porcentagem de acréscimo no lucro = 5 X 1% = 5%
+
+E esse é o conceito de Alavancagem Operacional.
+
+Gabarito: B
+
+Alavancagem financeira
+
+   (FGV/BANESTES/Analista Econômico-Financeiro/Gestão Financeira/2018) À medida que uma empresa
+   se utiliza da captação de capital de terceiros oneroso para aumentar seu ativo total, mantendo o seu
+   montante de capital próprio constante, ela:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   15
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+    Aula 07
+
+
+
+A aumentará sua alavancagem financeira e poderá aumentar a rentabilidade de seu patrimônio líquido;
+B aumentará sua alavancagem financeira e diminuirá a rentabilidade de seu patrimônio líquido;
+C aumentará sua alavancagem financeira e manterá a rentabilidade de seu patrimônio líquido;
+D diminuirá sua alavancagem financeira e diminuirá a rentabilidade de seu patrimônio líquido;
+E diminuirá sua alavancagem financeira e manterá a rentabilidade de seu patrimônio líquido.
+
+Comentário:
+
+O conceito de alavancagem financeira consiste em aumentar o retorno para o acionista, nos casos em que a
+rentabilidade da empresa seja maior que o custo de empréstimos de terceiros. As seguintes relações podem
+ser estabelecidas, conforme explicado no decurso da aula:
+
+•   ALAVANCAGEM FINANCEIRA MAIOR QUE 1: se a empresa se utilizar do capital de terceiros, ainda terá
+    rentabilidade no patrimônio líquido. Conclui-se que a alavancagem é considerada como sendo favorável,
+    positiva.
+•   ALAVANCAGEM FINANCEIRA IGUAL A 1: se a empresa se utilizar do capital de terceiros, será indiferente,
+    pois não há aumento da rentabilidade do patrimônio líquido.
+•   ALAVANCAGEM FINANCEIRA MENOR DO QUE 1: se a empresa se utilizar do capital de terceiros, terá a
+    rentabilidade do PL diminuída. Conclui-se que a alavancagem é considerada desfavorável, negativa.
+
+A fórmula é a seguinte:
+
+                                                            LL
+                                                  GAF =     PL
+                                                        (LL + DF)
+                                                            A
+
+Nota-se que o numerador da fórmula do GAF é a rentabilidade do PL. Assim, eles são diretamente
+proporcionais:
+
+                                          ↑ Rentabilidade do Patrimônio Líquido
+                                GAF ↑=
+                                                  Retorno sobre o ativo
+
+Assim, já podemos eliminar as alternativas com variações contrarias entre GAF e Rentabilidade do PL:
+
+B aumentará sua alavancagem financeira e diminuirá a rentabilidade de seu patrimônio líquido;
+C aumentará sua alavancagem financeira e manterá a rentabilidade de seu patrimônio líquido;
+D diminuirá sua alavancagem financeira e diminuirá a rentabilidade de seu patrimônio líquido;
+E diminuirá sua alavancagem financeira e manterá a rentabilidade de seu patrimônio líquido.
+
+Agora, ficamos com as alternativas A e D. Ressaltamos que o aumento da rentabilidade do PL não é suficiente
+para aumentar o GAF, ou seja, não basta analisar só a rentabilidade do PL. Ainda seria necessário verificar o
+efeito no denominador da fórmula, ou seja, do retorno sobre o ativo. Diante do exposto, o mais correto é
+afirmar que a rentabilidade do PL poderá aumentar.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   16
+          www.estrategiaconcursos.com.br                                                                   27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+Gabarito: A
+
+Alavancagem financeira
+
+   (FGV/CGE MA/Auditor do Estado/2014) A Cia. Cars comprou um terreno por R$ 10.000,00 para utilizar
+    como estacionamento. Para isso, contraiu um financiamento de terceiros no valor de R$ 6.000,00, com
+    uma taxa de juros de 10% ao ano e complementou o restante com recursos próprios.
+A empresa projeta que o ativo irá gerar receitas anuais de R$ 1.000,00.
+Considerando esta projeção de receita e desconsiderando os efeitos tributários, o grau de alavancagem
+financeira da Cia. Cars é de
+A 0,10.
+B 0,90.
+C 1,00.
+D 1,20.
+E 1,50.
+
+Comentário:
+
+O conceito de alavancagem financeira consiste em aumentar o retorno para o acionista, nos casos em que a
+rentabilidade da empresa seja maior que o custo de empréstimos de terceiros.
+
+A fórmula é a seguinte:
+
+                                                                Lucro líquido
+                                                              Patrimônio líquido
+                    Grau de alavancagem financeira =
+                                                     (Lucro líquido + Despesa financeira)
+                                                                     Ativo
+
+A seguir, vejamos a situação apresentada no quesito:
+
+                           Ativo                10.000                Passivo                  6.000
+                                                                        PL                     4.000
+
+                          Lucro antes juros                           1.000
+                          Despesa de juros                      600 (6.000 X 10%)
+                          Lucro após juros                             400
+
+Substituindo na fórmula, temos:
+
+                                        LL        400       400
+                                        PL       4.000     4.000    0,1
+                              GAF =          =           =        =     = 1,00
+                                    (LL + DF) (400 + 600) 1.000     0,1
+                                        A       10.000     10.000
+
+Como o GAF é igual a 1, a captação de novos empréstimos é indiferente, não afeta o retorno para o acionista.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   17
+          www.estrategiaconcursos.com.br                                                                   27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+Gabarito: C
+
+Alavancagem Total ou Alavancagem Combinada
+
+   (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um analista recebeu a incumbência de
+    encontrar o Grau de Alavancagem Total (GAT) de determinada empresa que atua no mercado. Ele
+    calculou corretamente o Grau de Alavancagem Operacional (GAO) e o Grau de Alavancagem Financeira
+    (GAF) dessa empresa, encontrando, respectivamente, valores iguais a 2,00 e a 1,50. Dessa maneira, ele
+    está prestes a encontrar o GAT da empresa, que é igual a:
+A -0,50;
+B 0,50;
+C 1,33;
+D 3,00;
+E 3,50.
+
+Comentário:
+
+O Grau de Alavancagem Total (GAT) pode ser calculado pela multiplicação do Grau de Alavancagem
+Operacional (GAO) pelo Grau de Alavancagem Financeira (GAF).
+
+                                        GAT = GAO x GAF = 2,00 x 1,50 = 3,00
+
+Gabarito: D
+
+Alavancagem Total ou Alavancagem Combinada
+
+   (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um analista estratégico, preocupado
+   com o risco operacional ao qual uma empresa está submetida, começou sua análise calculando alguns
+   indicadores de alavancagem. Ele encontrou, para o último ano de análise, um crescimento percentual
+   do lucro líquido da empresa igual ao crescimento percentual de suas vendas. Considerando que o Grau
+   de Alavancagem Financeira (GAF) da empresa é igual a 1,00, ele está prestes a concluir que o Grau de
+   Alavancagem Operacional (GAO) da empresa é igual a:
+A 1,00;
+B 2,00;
+C 3,00;
+D 4,00;
+E 5,00.
+
+Comentário:
+
+Vimos que Grau de Alavancagem Total = GAO x GAF. Por meio dessa fórmula podemos chegar na seguinte:
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   18
+           www.estrategiaconcursos.com.br                                                                   27
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 07
+
+
+
+        % Aumento Lajir                       % Aumento LAIR                % aumento LAIR
+GAT = --------------------------- x    ------------------------------ =   -------------------------------
+        % Aumento vendas                  % Aumento Lajir                  % Aumento Vendas
+
+Dado que ele encontrou, para o último ano de informações contábeis disponíveis, um crescimento
+percentual das vendas três vezes maior que o crescimento percentual do lucro líquido, então:
+
+                                                 % aumento LAIR  1
+                                       GAT=                     = =1
+                                                % Aumento Vendas 1
+
+Como o quesito solicitou o GAO, vamos calculá-lo por meio da fórmula:
+
+                                      Grau de Alavancagem Total = GAO x GAF
+                                                       1 = GAO x 1
+                                                         GAO = 1
+
+Gabarito: A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis     19
+         www.estrategiaconcursos.com.br                                                                     27
+
+                                      https://t.me/KakashiAssinaturasBot
+ Filipe Magalhães, Júlio Cardozo
+ Aula 07
+
+
+
+
+        QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+Perguntas
+
+  1. O que evidenciamos através dos Índices de Estrutura ou Índices de Endividamento?
+  2. Qual a função do Índice de Endividamento Total?
+  3. Qual a função do ÍNDICE DE GARANTIA DO CAPITAL DE TERCEIROS (GCT) OU GRAU DE
+     ENDIVIDAMENTO?
+  4. Qual a função do Índice de Composição do Endividamento?
+
+
+
+                                                     ==219a34==
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   20
+       www.estrategiaconcursos.com.br                                                                   27
+
+                                   https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+
+Perguntas com respostas
+
+       O que evidenciamos através dos Índices de Estrutura ou Índices de Endividamento?
+
+Os índices de endividamento (também chamados de quocientes de estrutura de capital) mostram a relação
+entre o capital próprio (Patrimônio Líquido) e o capital de terceiros (passível exigível). Indicam a política de
+obtenção de recursos da empresa, e também a dependência da empresa com relação a capital de terceiros.
+
+   Qual a função do Índice de Endividamento Total?
+
+O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos
+totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros
+
+   Qual a função do ÍNDICE DE GARANTIA DO CAPITAL DE TERCEIROS (GCT) OU GRAU DE ENDIVIDAMENTO?
+
+Indica a garantia proporcionada ao capital de terceiros em função da existência de capital próprio.
+
+   Qual a função do Índice de Composição do Endividamento?
+
+Também conhecido como "perfil da dívida" indica a participação das dívidas de curto prazo em relação ao
+endividamento total.
+
+Pessoal, encerramos aqui a nossa aula de hoje. Espero que vocês tenham gostado da nossa abordagem e
+do conteúdo apresentado. Com certeza essas informações irão te auxiliar na sua jornada de estudos!
+
+Grande abraço e bons estudos!
+
+        “Se enxerguei mais longe, foi porque me apoiei sobre os ombros de gigantes..”
+
+                                                 (Isaac Newton)
+
+                                            Julio Cardozo
+                                    https://www.facebook.com/profjuliocardozo/
+
+                                     Insta: www.instagram.com/profjuliocardozo
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis      21
+         www.estrategiaconcursos.com.br                                                                      27
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 07
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+   (FGV/MPE SC/Analista Contabilidade/2022) Quando se deseja analisar a composição do endividamento
+    de um ente ao final de um exercício, é necessário usar informações apresentadas no Balanço
+    Patrimonial para apurar este quociente, incluído nos indicadores de análise da estrutura de capital.
+No caso do quociente de composição do endividamento, uma conta cujo saldo impacta apenas o
+denominador desse indicador é:
+A caixa e equivalentes de caixa;
+B despesas antecipadas;
+C financiamentos (longo prazo);
+D fornecedores (curto prazo);
+
+   (FGV/SEMSA Manaus/Especialista em Saúde/Contador/2022) No ano de X0, uma entidade apresentou
+   endividamento geral de 0,3. O indicador significa que a entidade
+A é financiada, principalmente, por recursos próprios.
+B é financiada, principalmente, por recursos de terceiros.
+C possui mais obrigações com terceiros de curto prazo do que de longo prazo.
+D possui mais obrigações com terceiros de longo prazo do que de curto prazo.
+E tem mais passivos onerosos do que não onerosos.
+
+   (FGV/Sefaz AM/Auditor de Finanças e Controle do Tesouro Estadual/2022) O contador de uma entidade
+    deseja elaborar projeções para os períodos seguintes. Para isso, deseja avaliar o grau de dependência
+    dos empréstimos e financiamentos da entidade com as instituições financeiras.
+Assinale a opção que apresenta o indicador apropriado para a análise, frente ao objetivo.
+A Liquidez geral.
+B Endividamento geral.
+C Composição das exigibilidades.
+D Endividamento oneroso.
+E Composição do endividamento oneroso.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   22
+        www.estrategiaconcursos.com.br                                                                   27
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+
+   (FGV/ALERO/Consultor Legislativo/Assessoramento em Orçamentos/2018) Em 31/12/2017, uma
+    empresa apresentava o seguinte balanço patrimonial:
+
+
+
+
+Sobre os índices de endividamento da empresa, assinale a afirmativa correta.
+A O endividamento geral é de 0,46.
+B A composição do endividamento é de 0,12.
+C O endividamento oneroso é de 0,23.
+D A composição do endividamento oneroso é de 0,71.
+E A imobilização do patrimônio líquido é de 0,43.
+
+   (FGV/SEFIN-RO/Auditor Fiscal de Tributos Estaduais/2018) Um banco tem como política emprestar
+    dinheiro apenas para sociedades empresárias que tenham índice de endividamento geral igual ou
+    menor que 70%, sem considerar o efeito do dinheiro do empréstimo no ativo.
+Uma sociedade empresária solicitou empréstimo de um banco. Seu balanço patrimonial era o seguinte:
+
+
+
+
+Assinale a opção que indica o limite estabelecido pelo banco para o empréstimo solicitado.
+a) R$ 5.000.
+b) R$ 55.000.
+c) R$ 205.000.
+d) R$ 325.000.
+e) R$ 335.000.
+
+   (FGV/Sefaz AM/Auditor de Finanças e Controle do Tesouro Estadual/2022) Uma sociedade empresária
+    que fabricava e vendia bonecas apresenta em determinado ano alavancagem operacional de 5,00.
+Isso significa que
+A a receita aumenta em 5% a cada aumento de 1% nas vendas.
+B o lucro aumenta em 5% a cada aumento de 1% nas vendas.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   23
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+C a receita aumenta em 1% a cada aumento de 5% nas vendas.
+D o lucro aumenta em 1% a cada aumento de 5% nas vendas.
+E o caixa aumenta em 5% a cada aumento de 1% na receita.
+
+   (FGV/BANESTES/Analista Econômico-Financeiro/Gestão Financeira/2018) À medida que uma empresa
+   se utiliza da captação de capital de terceiros oneroso para aumentar seu ativo total, mantendo o seu
+   montante de capital próprio constante, ela:
+A aumentará sua alavancagem financeira e poderá aumentar a rentabilidade de seu patrimônio líquido;
+B aumentará sua alavancagem financeira e diminuirá a rentabilidade de seu patrimônio líquido;
+C aumentará sua alavancagem financeira e manterá a rentabilidade de seu patrimônio líquido;
+D diminuirá sua alavancagem financeira e diminuirá a rentabilidade de seu patrimônio líquido;
+E diminuirá sua alavancagem financeira e manterá a rentabilidade de seu patrimônio líquido.
+                                                         ==219a34==
+
+
+
+
+   (FGV/CGE MA/Auditor do Estado/2014) A Cia. Cars comprou um terreno por R$ 10.000,00 para utilizar
+    como estacionamento. Para isso, contraiu um financiamento de terceiros no valor de R$ 6.000,00, com
+    uma taxa de juros de 10% ao ano e complementou o restante com recursos próprios.
+A empresa projeta que o ativo irá gerar receitas anuais de R$ 1.000,00.
+Considerando esta projeção de receita e desconsiderando os efeitos tributários, o grau de alavancagem
+financeira da Cia. Cars é de
+A 0,10.
+B 0,90.
+C 1,00.
+D 1,20.
+E 1,50.
+
+   (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um analista recebeu a incumbência de
+    encontrar o Grau de Alavancagem Total (GAT) de determinada empresa que atua no mercado. Ele
+    calculou corretamente o Grau de Alavancagem Operacional (GAO) e o Grau de Alavancagem Financeira
+    (GAF) dessa empresa, encontrando, respectivamente, valores iguais a 2,00 e a 1,50. Dessa maneira, ele
+   está prestes a encontrar o GAT da empresa, que é igual a:
+A -0,50;
+B 0,50;
+C 1,33;
+D 3,00;
+E 3,50.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   24
+           www.estrategiaconcursos.com.br                                                                   27
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+
+   (FGV/CODEMIG/Analista de Desenvolvimento Econômico/2015) Um analista estratégico, preocupado
+   com o risco operacional ao qual uma empresa está submetida, começou sua análise calculando alguns
+   indicadores de alavancagem. Ele encontrou, para o último ano de análise, um crescimento percentual
+   do lucro líquido da empresa igual ao crescimento percentual de suas vendas. Considerando que o Grau
+   de Alavancagem Financeira (GAF) da empresa é igual a 1,00, ele está prestes a concluir que o Grau de
+   Alavancagem Operacional (GAO) da empresa é igual a:
+A 1,00;
+B 2,00;
+C 3,00;
+D 4,00;
+E 5,00.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   25
+          www.estrategiaconcursos.com.br                                                                   27
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 07
+
+
+
+
+                                                GABARITO
+                                                Questão Gabarito
+                                                   1       C
+                                                   2       A
+                                                   3       D
+                                                   4       C
+                                                   5       C
+                                                   6       B
+                                                   7       A
+                                                   8       C
+                                                   9       D
+                                                  10       A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   26
+         www.estrategiaconcursos.com.br                                                                   27
+
+                                     https://t.me/KakashiAssinaturasBot
+

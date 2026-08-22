@@ -1,0 +1,240 @@
+                                                    Aula 08
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                             19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 08
+
+
+
+
+                                                                                     Índice
+1) Peguinhas de ADC
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                            7
+
+                                                             https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 08
+
+
+
+
+                 CADERNO DE "PEGUINHAS" INTELIGENTES
+
+         Querido aluno, cada assertiva abaixo contém uma "casca de banana" – será que você vai
+         escorregar em alguma? (rs)
+
+         A ideia aqui é induzi-lo levemente a cometer erros, não com o intuito de desanimá-lo, mas
+         para que você aumente a retenção do conteúdo estudado!
+
+         Vamos lá?
+
+
+               ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS
+
+“Peguinhas” sem respostas
+
+1. Determinada entidade possui R$ 0,80 em disponibilidades para cada real de dívida, a curto prazo. Assim,
+   apresenta liquidez seca de 0,80.
+
+2. Determinada entidade possui R$ 1,80 no Ativo Circulante e no Ativo Não Circulante para cada real de
+   dívida do Passivo Exigível. Assim, apresenta liquidez geral de 1,80.
+
+3. A liquidez imediata é mais rigorosa do que a liquidez corrente e menos rigorosa do que a liquidez seca.
+
+4. Se a entidade aumentar seu capital social em dinheiro, então o índice de liquidez imediata diminuirá.
+
+5. Se a empresa comprar estoques à vista, então o índice de liquidez comum diminuirá.
+
+6. Se a empresa realizar um adiantamento de férias concedido a funcionário, então o índice de liquidez
+   instantânea aumentará.
+
+7. Se a empresa comprar a prazo um ativo imobilizado, então o índice de liquidez total não sofrerá alteração.
+
+8. Para realizar uma análise da estrutura das demonstrações contábeis. O foco deve ser a análise Horizontal.
+
+9. Para analisar a evolução do ativo de uma sociedade empresária. O foco deve ser a análise Vertical.
+
+10. Na análise vertical da Demonstração do Resultado, usa-se a Receita Bruta como base (Índice 100).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis      3
+         www.estrategiaconcursos.com.br                                                                      7
+                                                                                                             1
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 08
+
+
+
+
+“Peguinhas” com respostas
+
+1. Determinada entidade possui R$ 0,80 em disponibilidades para cada real de dívida, a curto prazo.
+   Assim, apresenta liquidez seca de 0,80.
+
+Determinada entidade possui R$ 0,80 reais em disponibilidades para cada real de dívida, a curto prazo. Assim,
+apresenta liquidez IMEDIATA de 0,8.
+
+2. Determinada entidade possui R$ 1,80 no Ativo Circulante e no Ativo Não Circulante para cada real de
+   dívida do Passivo Exigível. Assim, apresenta liquidez geral de 1,80.
+
+Determinada entidade possui R$ 1,80 no Ativo Circulante e no ATIVO REALIZÁVEL A LONGO PRAZO para
+cada real de dívida do Passivo Exigível. Assim, apresenta liquidez geral de 1,80.
+
+3. A liquidez imediata é mais rigorosa do que a liquidez corrente e menos rigorosa do que a liquidez seca.
+
+A liquidez imediata é mais rigorosa do que a liquidez corrente e MAIS rigorosa do que a liquidez seca.
+
+A liquidez seca é mais rigorosa que a Liquidez Corrente, pois exclui os estoques. Já a liquidez imediata é o
+mais rigoroso dos índices de liquidez. Ela considera apenas as disponibilidades.
+
+4. Se a entidade aumentar seu capital social em dinheiro, então o índice de liquidez imediata diminuirá.
+
+Se a entidade aumentar seu capital social em dinheiro, então o índice de liquidez imediata AUMENTARÁ
+
+A contabilização é a seguinte:
+
+D – Disponibilidades (+Ativo Circulante)
+C – Capital Social (+PL)
+
+Vejamos o efeito desse fato contábil nos indicadores de liquidez:
+
+                                                     Disponibilidades↑
+                                             LI ↑=
+                                                     Passivo Circulante
+
+5. Se a empresa comprar estoques à vista, então o índice de liquidez comum diminuirá.
+
+Se a empresa comprar estoques à vista, então o índice de liquidez corrente (também chamado de “Liquidez
+Comum”) NÃO SOFRERÁ ALTERAÇÃO.
+
+A contabilização da aquisição de estoque à vista é a seguinte:
+
+D – Estoque (Ativo Circulante)
+C – Caixa (Ativo Circulante)
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   4
+         www.estrategiaconcursos.com.br                                                                   7
+                                                                                                           2
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 08
+
+
+
+Não houve alteração do ativo circulante, apenas troca de saldos entre contas do ativo circulante.
+
+6. Se a empresa realizar um adiantamento de férias concedido a funcionário, então o índice de liquidez
+   instantânea aumentará.
+
+Se a empresa realizar um adiantamento de férias concedido a funcionário, então o índice de liquidez imediata
+(também chamado de “Instantânea”) DIMINUIRÁ.
+
+Lançamento:
+
+D – Adiantamento de férias a funcionário (Ativo Circulante)
+C – Disponibilidades (Ativo Circulante)
+
+O valor do Ativo Circulante não se altera, todavia a conta disponibilidade diminuiu e, consequentemente a
+                                                         ==219a34==
+
+
+
+
+liquidez imediata irá diminuir.
+
+                                                      Disponibilidades↓
+                                              LI ↓=
+                                                      Passivo Circulante
+
+7. Se a empresa comprar a prazo um ativo imobilizado, então o índice de liquidez total não sofrerá
+   alteração.
+
+Se a empresa comprar a prazo um ativo imobilizado, então o índice de liquidez geral (também chamado de
+“Liquidez Total”) DIMINUIRÁ.
+
+Lançamento:
+
+D – Imobilizado (+ Ativo Não Circulante)
+C – Financiamentos a pagar (+ Passivo Circulante)
+
+O Índice de Liquidez Geral indica a capacidade da empresa de pagar suas dívidas de curto e longo prazo,
+usando os recursos do Ativo Circulante e do ATIVO REALIZÁVEL A LONGO PRAZO.
+
+                                          Ativo circulante + Ativo realizável a LP
+                     LG↓ =
+                             Passivo circulante↑ + (Passivo não circulante - Receita diferida)
+
+Fique Atento! O ativo não circulante é composto pelo ativo realizável a longo prazo, investimentos,
+imobilizado e intangível. Todavia, apenas o ativo realizável a longo prazo entrará na fórmula da liquidez
+Geral.
+
+8. Para realizar uma análise da estrutura das demonstrações contábeis. O foco deve ser a análise
+   Horizontal.
+
+A análise VERTICAL indica a ESTRUTURA das demonstrações contábeis.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   5
+         www.estrategiaconcursos.com.br                                                                   7
+                                                                                                          3
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 08
+
+
+
+
+9. Para analisar a evolução do ativo de uma sociedade empresária. O foco deve ser a análise Vertical.
+
+A análise Horizontal indica a EVOLUÇÃO, isto é, o comportamento de itens do balanço e da demonstração
+do resultado através do tempo.
+
+10. Na análise vertical da Demonstração do Resultado, usa-se a Receita Bruta como base (Índice 100).
+
+Na análise vertical da Demonstração do Resultado, usa-se a Receita LÍQUIDA como base (Índice 100). Já na
+análise vertical do Balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do
+Passivo + PL.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis    6
+         www.estrategiaconcursos.com.br                                                                    7
+                                                                                                            4
+                                     https://t.me/KakashiAssinaturasBot
+

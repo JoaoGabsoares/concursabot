@@ -1,0 +1,1397 @@
+                                                    Aula 03
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                          22 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 03
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Estoques - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de Revisão - Estoques
+..............................................................................................................................................................................................4
+
+3) Apostas Estratégicas - Estoques
+..............................................................................................................................................................................................8
+
+4) Questões Estratégicas - Estoques - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            10
+
+5) Questionário de Revisão - Estoques
+..............................................................................................................................................................................................
+                                                                                                                                                                                            21
+
+6) Lista de Questões Estratégicas - Estoques - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            24
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           29
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 03
+
+
+
+
+                                     ANÁLISE ESTATÍSTICA
+
+Comentários sobre a Fundação Getúlio Vargas - FGV
+
+
+
+
+Para a FGV, devemos estar seguros para classificar o que é custo e o que não é custo do Imobilizado.
+Uma atenção especial com gastos com treinamento de funcionários que é contabilizado como uma
+despesa! A banca gosta exigir a classificação de um imóvel alugado que pode ser uma Propriedade para
+Investimento ou Imobilizado. Não pode errar!            ==219a34==
+
+
+
+
+O que é mais cobrado dentro do assunto?
+
+Com base nisso, fizemos o seguinte levantamento sobre como esses temas são cobrados pelas banca:
+
+                                                                                         % Cobrança
+ Tema
+                                                                                            FGV
+ Critérios de avaliação do estoque (PEPS, UEPS, Média Ponderada)                           2,72%
+ Estoques: mensuração, reconhecimento como despesa e divulgação (CPC
+                                                                                           2,02%
+ 16)
+ Operações com mercadorias, tributos incidentes sobre compras e vendas
+                                                                                           2,02%
+ (ICMS, IPI, PIS/Confins)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                3
+        www.estrategiaconcursos.com.br                                                                29
+
+                                     https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 03
+
+
+
+
+          ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                              MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo tempo, destacar
+aspectos do conteúdo que merecem atenção.
+
+As questões de operações com mercadorias envolvem basicamente conhecimento da avaliação dos
+estoques, operações que envolvem a parte inicial da DRE (da receita bruta até o lucro bruto e apuração do
+CMV), tributação sobre as mercadorias e inventário periódico e permanente. Vamos à revisão dos pontos
+mais importantes dentro desse assunto.
+
+CPC 16 - Estoques
+
+O CPC 16 afirma que Estoques são ativos:
+
+(a) mantidos para venda no curso normal dos negócios;
+(b) em processo de produção para venda
+(c) na forma de materiais ou suprimentos a serem consumidos ou transformados no processo de produção
+ou na prestação de serviços.
+
+O controle desses estoques pode ser feito através do inventário permanente ou do inventário periódico.
+
+Avaliação
+
+O estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+
+
+                                         • Valor realizável líquido
+                                   Menor • Custo
+
+
+Valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos
+estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda.
+
+                   Custo do estoque inclui:                                              Não inclui
+
+    •Preço de compra                                               •Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS
+    •Impostos de importação e outros tributos (exceto               não cumulativos. Revenda: ICMS, PIS, COFINS não
+     recuperáveis)                                                  cumulativos)
+    •Custo de transportes                                          •Descontos comerciais
+    •Seguro                                                        •Abatimentos
+    •Manuseio
+    •Custos diretamente atribuíveis
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                   4
+         www.estrategiaconcursos.com.br                                                                                   29
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 03
+
+
+
+As devoluções, os descontos comerciais e os abatimentos devem ser deduzidos do custo de aquisição. A lei
+das SA (Lei 6.404/76) também estabelece critérios para a avaliação dos estoques. Precisamos conhecer
+especialmente os aspectos literais apresentados nessa lei.
+
+         Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios:
+
+         (...) II - os direitos que tiverem por objeto mercadorias e produtos do comércio da
+         companhia, assim como matérias-primas, produtos em fabricação e bens em
+         almoxarifado, pelo custo de aquisição ou produção, deduzido de provisão para ajustá-lo
+         ao valor de mercado, quando este for inferior;
+
+Critérios de Avaliação de Estoques
+
+O controle de estoques pode ser feito através do inventário permanente ou do inventário periódico.
+                                                         ==219a34==
+
+
+
+
+Inventário periódico: os estoques são avaliados na data do balanço, através do inventário físico. Vejam. Não
+há lançamento operação por operação. Apenas na data de encerramento é que apuramos o estoque para
+ver o saldo. Para calcular o valor do Custo das Mercadorias Vendidas, usamos a fórmula:
+
+                                CMV = Estoque inicial + Compras – Estoque final.
+
+Inventário permanente: empresa controla o estoque de forma contínua, dando baixa em cada operação
+de venda. Ele utiliza os seguintes critérios:
+
+   •   PEPS: Significa Primeiro que Entra é o Primeiro que Sai. Também conhecido pela sigla em inglês FIFO
+       (First in first out).
+
+   •   UEPS: Significa Último que Entra é o Primeiro que Sai. Também conhecido pela sigla em inglês LIFO
+       (Last In First Out). Ressaltamos que o UEPS é proibido pela legislação brasileira.
+
+   •   Média Ponderada (Fixa e Móvel): Para calcular o custo médio, podemos usar a média ponderada fixa
+       ou a média ponderada móvel:
+
+   -   média ponderada fixa: calculamos a média de todas as entradas do mês e usamos esse valor para
+       todas as saídas do mês.
+   -   média ponderada móvel: Nesse caso, calculamos o custo médio vigente na data de cada venda
+
+   •   Custo Específico: a empresa pode atribuir o custo específico de cada item vendido. Um exemplo:
+       Suponha que uma agência de automóveis possua 10 unidades de um determinado modelo em
+       estoque. Três foram comprados há 6 meses, por R$ 20.000,00. Seis foram comprados na última
+       semana, por R$ 22.000,00. O último é um carro usado, que foi aceito como parte de pagamento de
+       um veículo novo, pelo custo de R$ 12.000,00. A empresa realiza a venda de quatro veículos: um que
+       foi comprado há 6 meses, dois comprados na última semana e o veículo usado.
+
+   •   Método do Varejo: Usado em empresas que trabalham com muitos itens e apresentam uma grande
+       rotatividade de estoque, como os supermercados. Se a empresa costuma usar uma margem fixa
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   5
+         www.estrategiaconcursos.com.br                                                                  29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 03
+
+
+
+       sobre o custo para formar o preço de venda, ela pode valorizar o seu estoque final a partir do preço
+       de venda e calcular o custo usando a fórmula:
+
+                                CMV = estoque inicial + compras – estoque final.
+
+Por exemplo, suponha que determinado supermercado forme o seu preço de venda multiplicando o custo
+por 1,5. Para calcular o estoque final, basta pegar o preço de venda dos itens em estoque e dividir por 1,5.
+
+Preço de venda = R$ 1.500, Margem de 50%, qual o valor do estoque?
+
+                                                     Preço de Venda 1.500
+                                    Estoque Final=                 =      =1.000
+                                                       1+margem      1,5
+
+Tabela de Controle de Estoque
+
+No inventário permanente podemos utilizar também a tabela de controle de estoque. E como fazer a
+tabela? Você irá montar a tabela seguinte:
+
+                                                   PEPS/UEPS/M édia
+                            Entrada                            Venda                              Saldo
+      D ata
+                Q uant.     V.Unit.      Total       Q uant.   V.Unit.      Total    Q uant.      V.Unit.   Total
+
+
+
+                                                           CM V                           Estoque final
+
+
+Observações:
+
+- Vejam que as vendas ficam registradas pelo preço de custo. Não importa o preço de venda para o cálculo
+da planilha de estoques.
+- O CMV é a soma do total das saídas.
+- O estoque final é a soma do total da coluna saldo.
+- As devoluções de compras são registradas na planilha entradas, com sinal negativo.
+- As devoluções de vendas são registradas na planilha saídas, com sinal negativo.
+
+Critérios de Avalização de Estoque x Economia
+
+Em um período de aumento de preços (economia inflacionária), temos o seguinte:
+
+                                                        Ambiente Inflacionário
+                          Estoque Final (EF)   EF (PEPS) > EF (Custo Médio) > EF (UEPS)
+                                CMV          CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS)
+                           Lucro Bruto (LB)    LB (PEPS) > LB (Custo Médio) > LB (UEPS)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                             6
+         www.estrategiaconcursos.com.br                                                                             29
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 03
+
+
+
+
+Operações Com Mercadorias e Tributação
+
+As questões de operações com mercadorias envolvem basicamente conhecimento da avaliação dos
+estoques, operações que envolvem a parte inicial da DRE (da receita bruta até o lucro bruto e apuração do
+CMV), tributação sobre as mercadorias e inventário periódico e permanente.
+
+No tocante à tributação, os principais tributos incidentes na compra e na venda de mercadorias são:
+
+                                                     Imposto por            Já está incluso
+                                    ICMS
+                                                       dentro                  no preço
+
+                                                      Tributo por
+                                     PIS
+                                                        dentro
+
+                                                      Tributo por
+                                    COFINS
+                                                        dentro
+                                                                              Deve ser
+                                                     Imposto por
+                                     IPI                                     incluido no
+                                                        fora
+                                                                                preço
+
+Resultado Bruto Com Mercadorias
+
+O resultado bruto com mercadorias, ou resultado com mercadorias equivale ao lucro bruto na
+Demonstração do Resultado.
+
+Receita Bruta
+(-) Deduções da Receita
+- Devoluções de Vendas
+- Cancelamento de Vendas
+- Descontos incondicionais concedidos
+- Abatimentos concedidos
+- Impostos sobre vendas (ICMS, PIS e COFINS)
+- Ajuste a Valor Presente de Clientes
+(=) Receita Líquida
+(-) Custo das Mercadorias Vendidas
+(=) Lucro Bruto OU Resultado com Mercadorias.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                7
+         www.estrategiaconcursos.com.br                                                               29
+
+                                       https://t.me/KakashiAssinaturasBot
+    Filipe Magalhães, Júlio Cardozo
+    Aula 03
+
+
+
+
+                                      APOSTA ESTRATÉGICA
+Pontos de destaque:
+
+➢        Estoques e Operações com Mercadorias:
+
+- Você precisa saber diferenciar o valor de compra do valor que as mercadorias adquiridas serão
+contabilizadas no estoque. O ponto chave desse assunto é saber quando se deve incluir ou não
+determinado tributo, frete, outros no cálculo.
+- Operações com Mercadorias (Situações para ICMS/IPI/PIS/COFINS para Operação com bens de
+consumo; de Revenda; para Industrialização; para Imobilizado):
+O resultado com mercadorias (lucro ou prejuízo bruto) de uma empresa é obtido a partir da seguinte
+                                                          ==219a34==
+
+
+
+
+estrutura:
+                         1 Receita Bruta (ou Vendas Brutas)
+                         2 (-) Deduções da Receita
+                           (-) Devoluções de Vendas ou Vendas Canceladas
+                           (-) Descontos incondicionais concedidos
+                           (-) Abatimentos concedidos
+                           (-) Ajuste a Valor Presente de Clientes
+                           (-) Tributos sobre vendas (ICMS, IPI, PIS/COFINS)
+                         3 (=) Receita Líquida                               1-2
+                         4 (-) Custo das Mercadorias Vendidas
+                         5 (=) Lucro Bruto OU Resultado com Mercadorias 3 - 4
+1. Consumo:
+a) ICMS por dentro (a BC soma o IPI)
+b) IPI entra no Valor da Nota Fiscal (NF) e não recupera
+2. Revenda:
+a) ICMS por dentro (a BC não soma o IPI)
+b) IPI entra no Valor da NF e não recupera
+3. Industrialização:
+a) ICMS por dentro (a BC não soma o IPI)
+b) IPI entra no Valor da NF e recupera
+4. Imobilizado:
+a) ICMS por dentro (a BC soma o IPI)
+b) IPI entra no Valor da NF e não recupera
+c) ICMS, se for bem para atividade fim, pode recuperar à razão de 1/48
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral        8
+          www.estrategiaconcursos.com.br                                                       29
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+OBS:
+- PIS/COFINS:
+1. No Regime Cumulativo, não recupera em nenhuma hipótese
+2. No Regime Cumulativo:
+a) O IPI só integra a BC do PIS/COFINS na compra, não na venda
+b) Nas operações de revenda, industrialização e imobilizado PIS/COFINS são recuperáveis
+OBS: STF decidiu que o ICMS não integra a BC do PIS/COFINS em operação de revenda
+➢      Critérios de Avaliação de Estoques:
+- No Inventário Periódico o controle é na conta COMPRAS (Devoluções, Descontos e Abatimentos são
+direto na conta COMPRAS).
+- No Inventário Permanente:
+
+                            PEPS (Primeiro que Entra Primeiro que
+                            Sai)
+                            UEPS (Último que Entra Primeiro que
+    Inventário              Sai)
+                            Média Ponderada Móvel (Média Móvel)
+   Permanente
+
+                            Média Ponderada Fixa (Média Fixa)
+
+                            Preço Específico (Custo Específico)
+
+
+- Bizu (Estoque Final, CMV e Lucro Bruto):
+                                                   Ambiente Inflacionário
+                     Estoque Final (EF)   EF (PEPS) > EF (Custo Médio) > EF (UEPS)
+                            CMV         CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS)
+                      Lucro Bruto (LB)    LB (PEPS) > LB (Custo Médio) > LB (UEPS)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral       9
+         www.estrategiaconcursos.com.br                                                      29
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 03
+
+
+
+
+                                  QUESTÕES ESTRATÉGICAS
+
+1. (FGV/TCE RR/Auditor de Controle Externo/2025) Em 01/12/2024, uma loja adquiriu estoque
+    para revenda por R$ 30.000, com pagamento previsto para quatorze meses. Caso a compra
+    tivesse sido feita à vista, a loja teria pago R$ 28.000. A alíquota do ICMS incidente sobre a
+    compra é de 18%. Qualquer montante relacionado ao ICMS será compensado no curto prazo.
+Assinale a opção que indica o valor contabilizado como estoque no momento da compra.
+A R$ 22.600.
+B R$ 22.960.
+C R$ 24.600.
+D R$ 28.000.
+E R$ 30.000.
+
+Comentários:
+
+Faremos algumas observações:
+
+- De acordo com o CPC 16 - Estoques, o custo do estoque compreende.
+
+                 Custo do estoque inclui:                                                 Não inclui
+
+ •Preço de compra                                                •Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não
+ •Impostos de importação e outros tributos (exceto                cumulativos. Revenda: ICMS, PIS, COFINS não
+  recuperáveis)                                                   cumulativos)
+ •Custo de transportes                                           •Descontos comerciais
+ •Seguro                                                         •Abatimentos
+ •Manuseio
+ •Custos diretamente atribuíveis
+
+
+- Nessa compra temos juros embutidos de R$ 2,000 (R$ 30.000 – R$ 28.000). Com base nos
+pronunciamentos contábeis, o estoque deve ser reconhecido pelo valor à vista e os encargos devem ser
+reconhecidos como despesa ao longo do tempo, de acordo com o regime de competência!
+
+- Segundo a Lei Kandir, seguros, juros e demais importâncias pagas, recebidas ou debitadas, bem como
+descontos concedidos sob condição integram a base de cálculo do ICMS. Por sua vez, os descontos
+incondicionais devem ser excluídos, assim:
+
+Valor dos produtos                                       R$ 28.000
+(+) Juros                                                R$ 2.000
+= Base de Cálculo do ICMS                                R$ 30.000
+(x) Alíquota                                               18%
+= ICMS a recuperar                                       R$ 5.400
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                   10
+         www.estrategiaconcursos.com.br                                                                                   29
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+   Aula 03
+
+
+
+Neste quesito, o custo dos estoques é de:
+
+Preço                                                 R$ 30.000
+(-) Juros                                              R$ 2.000
+(-) ICMS a recuperar                                   R$ 5.400
+Total                                                 R$ 22.600
+
+Gabarito: A
+
+2. (FGV/STN/Auditor Federal de Finanças e Controle/2024) Uma livraria vende livros de
+    contabilidade. Em janeiro de 2024, não havia livros em estoque.
+Em cada pedido realizado, a livraria incorre em frete fixo de R$100, pagos à transportadora. Além disso,
+o seguro corresponde a 20% do valor pago ao fornecedor.
+Em janeiro de 2024, a livraria realizou dois pedidos do livro Contabilidade Avançada. No primeiro,
+foram adquiridos 10 desses livros, por R$100 cada, e no segundo foram adquiridos 20 desses livros, por
+R$110 cada.
+Em 31/01/2024, foram vendidos 15 desses livros, por R$200.
+Assinale a opção que indica o lucro bruto, em 31/01/2024, considerando que a livraria controla o seu
+estoque de acordo com o custo médio ponderado móvel.
+A R$980.
+B R$1.015.
+C R$1.080.
+D R$1.300.
+E R$1.400.
+
+Comentários:
+
+Para calcular o custo médio, podemos usar a média ponderada fixa ou a média ponderada móvel:
+
+    •    média ponderada fixa: calculamos a média de todas as entradas do mês e usamos esse valor para
+         todas as saídas do mês.
+    •    média ponderada móvel: Nesse caso, calculamos o custo médio vigente na data de cada venda.
+
+Como a entidade só realizou a venda após essas compras, então ambos dariam o mesmo valor.
+
+Método = MPM
+
+Estoque inicial: não havia
+
+Compra 1:
+
+10 unidades a R$ 100 = R$ 1.000
++ frete fixo........................R$100
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            11
+           www.estrategiaconcursos.com.br                                                            29
+
+                                            https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+   Aula 03
+
+
+
++ seguro (20% de R$1.000) ...R$200
+Total.................................... R$ 1.300
+
+Compra 2:
+
+20 unidades a R$ 110 = R$ 2.200
++ frete fixo........................R$100
++ seguro (20% de R$2.200) ...R$440
+Total.................................... R$ 2.740
+
+O custo médio será o seguinte:
+
+                                             Custo Total = R$ 1.300 + R$ 2.740 = R$ 4.040
+
+                                                     Número de Unidades = 10 + 20 = 30
+
+                                                 Custo Médio = R$ 4.040/30 = R$ 134,67
+
+Houve a venda de 15 unidades, assim o lucro bruto será:
+
+Antes, recordamos que o Lucro Bruto é a diferença entre a Receita Líquida de Vendas e o Custo das
+Mercadorias Vendidas (CMV).
+
+Receita = 15 unidades x R$ 200 = R$ 3.000
+
+CMV = 15 unidades x R$ 134,67 = R$ 2.020
+
+Lucro Bruto = R$ 3.000 - R$ 2.020 = R$ 980
+
+Gabarito: A
+
+3. (FGV/CVM/Inspetor Contabilidade e Auditoria/2024) Durante 2024, uma empresa S.A
+    decidiu alterar o critério de valoração de seus estoques, de PEPS para custo médio
+    ponderado. As vendas do ano foram de R$ 20 milhões e as compras totais da empresa foram
+     de R$ 10 milhões. Os valores de estoques segundo cada critério são descritos abaixo.
+                                                        PEPS     Custo Médio Ponderado
+                             31 de dezembro de 2023 R$ 3.000.000      R$ 3.000.000
+                             31 de dezembro de 2024 R$ 4.000.000      R$ 2.000.000
+Segundo a administração da empresa S.A., a mudança foi feita porque o método do custo médio
+ponderado proporciona uma melhor correspondência entre custos e receitas. Além disso, com a
+mudança, o método de precificação de estoques da empresa será consistente com o método
+predominante no setor. Considerando as informações apresentadas, o lucro bruto ajustado conforme o
+novo critério, em 31 de dezembro de 2024, é de:
+A R$ 2.000,000.00;
+B R$ 4.000.000,00;
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral     12
+            www.estrategiaconcursos.com.br                                                     29
+
+                                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+C R$ 9.000.000,00;
+D R$ 11.000.000,00;
+E R$ 14.000.000,00.
+
+Comentários:
+
+Traduzindo: a entidade usava o PEPS e mudou para Custo médio ponderado. Assim, gostaria de saber o
+lucro bruto após essa mudança.
+
+O Lucro Bruto é a diferença entre a Receita Líquida de Vendas e o Custo das Mercadorias Vendidas
+(CMV).
+
+Receita = R$ 20.000.000
+
+CMVMPM = Ei + Compras – EF = R$ 3.000.000 + R$ 10.000.000 - R$ 2.000.000 = R$ 11.000.000
+                                                         ==219a34==
+
+
+
+
+Lucro bruto MPM = R$ 20.000.000 - R$ 11.000.000 = R$ 9.000.000
+
+Para os curiosos, vamos calcular o Lucro Bruto no método PEPS:
+
+Receita = R$ 20.000.000
+
+CMVPEPS = Ei + Compras – EF = R$ 3.000.000 + R$ 10.000.000 - R$ 4.000.000 = R$9.000.000
+
+Lucro bruto PEPS = R$ 20.000.000 - R$9.000.000 = R$ 11.000.000
+
+Gabarito: C
+
+4. (FGV/Câmera dos Deputados/Analista Legislativo/2024) Uma loja começou suas operações
+    de vendas de lustres em 01/01/2023.
+Na data, ela adquiriu 40 lustres por R$4.000 à vista. O preço unitário de venda do lustre era de R$150,00.
+30 lustres ficaram guardados no interior da loja, enquanto o restante foi exposto na loja. Enquanto não
+eram vendidos, estes 10 lustres eram utilizados para iluminação, já que não havia outra fonte de luz na
+loja.
+Assinale a opção que indica a apresentação dos lustres no balanço patrimonial da loja.
+A Ativo circulante: R$4.000.
+B Ativo circulante: R$6.000.
+C Ativo circulante: R$3.000; Ativo imobilizado: R$1.000.
+D Ativo circulante: R$4.500; Ativo imobilizado: R$1.500.
+E Ativo circulante: R$3.000; ativo realizável a longo prazo: R$1.000.
+
+Comentários:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                13
+         www.estrategiaconcursos.com.br                                                                29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+Trata-se de lustres mantidos para venda no curso normal dos negócios, isto é, são estoques. O fato dele
+está em uso não descaracteriza sua essência. Dificilmente, eles ficariam sendo utilizados por mais de
+um período (requisito do imobilizado) ou realizaria após o término do exercício seguinte (requisito do
+ANC - Realizável a longo prazo). Com base nisso, já podemos eliminar as alternativas C, D e E.
+
+Como a banca é a FGV, por precaução, vamos realizar o teste:
+
+Valor de custo = R$ 4.000/40 unidades = R$ 100
+
+Valor realizável líquido = R$ 150
+
+Assim, vamos usar o menor desses valores, isto é, R$ 100 (Menor). Observa-se que continuam
+totalizando R$ 4.000.
+
+Enfim, apresentação dos lustres no balanço patrimonial da loja é a seguinte: Ativo circulante: R$4.000.
+
+Gabarito: A
+
+5. (FGV/TRF 1ª Região/Técnico Judiciário – Contabilidade/2024) Considerando-se os preceitos
+    do CPC 16 – Estoques, em um período de aumento de preços, os métodos de controle de
+    estoque que tendem a resultar em um maior lucro bruto e em um maior estoque final são,
+    respectivamente:
+A PEPS e PEPS;
+B PEPS e média ponderada;
+C PEPS e UEPS;
+D UEPS e PEPS;
+E UEPS e média móvel.
+
+Comentários:
+
+Em um período de aumento de preços (economia inflacionária), temos o seguinte:
+
+                                                   Ambiente Inflacionário
+                     Estoque Final (EF)   EF (PEPS) > EF (Custo Médio) > EF (UEPS)
+                            CMV         CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS)
+                      Lucro Bruto (LB)    LB (PEPS) > LB (Custo Médio) > LB (UEPS)
+
+Ao adotarmos o método PEPS, daremos baixar ao estoque mais antigo primeiro e esse estoque mais
+antigo foi mais barato. Consequentemente, o lucro obtido será maior. Já o estoque final será composto
+pelo estoque mais novo e esse estoque é mais caro, em razão disso o estoque final será maior no PEPS.
+
+Gabarito: A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              14
+         www.estrategiaconcursos.com.br                                                              29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+
+6. (FGV/Pref. Abreu e Lima/Técnico em Controle Interno/2024) Em 01/07/2024, uma loja de
+    brinquedos tinha, em estoque, 7 bonecas, que haviam sido compradas por R$50,00. O preço
+    das bonecas era de R$100,00.
+Em 10/07, a loja adquiriu 5 bonecas pelo custo unitário de R$60,00. Em 20/07, a loja realizou uma
+venda de 10 bonecas, por R$1.100.
+Assinale a opção que indica o custo das mercadorias vendidas, considerando que a loja utiliza o método
+PEPS para avaliar o seu estoque.
+A R$500.
+B R$530.
+C R$542.
+D R$550.
+E R$600.
+
+Comentários:
+
+Podemos resolver sem a ficha de controle de estoque. Vejam:
+
+Método = PEPS
+
+Estoque Inicial = 7 unidades a R$ 50 = R$ 350
+
+Entradas:
+
+Compra 1 = 5 unidades a R$ 60 = R$ 300
+
+Saídas (Vamos baixar as mercadorias mais antigas):
+
+Estoque Inicial = 7 unidades a R$ 50 = R$ 350
+
+Compra 1 = 3 unidades a R$ 60 = R$ 180
+
+Estoque final:
+
+Compra 1 = 2 unidades a R$ 60 = R$ 120
+
+Assim, o custo das mercadorias vendidas será:
+
+CMV = R$ 350 + R$ 180 = R$ 530
+
+Gabarito: B
+
+7. (FGV/Pref. Cuiabá/Auditor Fiscal/2024) Uma loja vendia esteiras. Cada esteira tinha custo de
+    R$ 2.000 e era vendida por R$ 2.500. Além disso, a loja pagava a seus vendedores uma
+    comissão de 10% sobre o preço da venda.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            15
+         www.estrategiaconcursos.com.br                                                            29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+A oferecia frete grátis para os seus consumidores, de modo que era responsável por pagar pela entrega
+da esteira vendida.
+Em junho de 2024 o valor pago pela entrega de cada esteira era de R$ 200. Já em julho, devido a aumento
+no preço do combustível, esse valor passou para R$ 300.
+Assinale a opção que indica o valor unitário da esteira mensurado como estoque no balanço patrimonial
+da loja em 30/06/2024 e em 31/07/2024:
+A R$ 2.000 e R$ 1.950
+B R$ 2.000 e R$ 2.000
+C R$ 2.050 e R$ 1.950
+D R$ 2.250 e R$ 2.250
+E R$ 2.300 e R$ 2.200
+
+Comentários:
+
+No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados
+pelo valor de custo ou pelo valor realizável líquido, dos dois o menor.
+
+Realizando o teste, temos que:
+
+Junho
+
+Valor de custo = R$ 2.000
+
+Valor realizável líquido = R$2.500 - (10% de R$2.500) - R$ 200 = R$2.500 - R$250 - R$ 200 = R$2.050
+
+Assim, vamos usar o menor desses valores, isto é, R$ 2.000 (Menor). Aqui já podemos eliminar as
+alternativas C, D e E.
+
+Julho (Houve aumento no preço do combustível)
+
+Valor de custo = R$ 2.000
+
+Valor realizável líquido = R$2.500 - (10% de R$2.500) - R$ 300 = R$2.500 - R$250 - R$ 300 = R$1.950
+
+Agora, o estoque deve ser avaliado por R$1.950 (Menor). O FIPECAFI afirma que essa prática de reduzir
+o custo dos estoques (write-off) ao valor realizável líquido é coerente com o “conceito geral de
+impairment”, isto é, não se deve ter registrado valores acima do que se espera realizar quando da
+ocorrência da venda ou do uso. Assim, vamos reconhecer a perda com impairment no resultado da
+empresa
+
+Gabarito: A
+
+8. (FGV/ALE TO/Analista Legislativo Ciências Contábeis/2024) Em 01/02/2024, uma loja de
+   celulares tinha em seu estoque 2 unidades do modelo X. O estoque estava contabilizado por
+   R$2.000.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             16
+         www.estrategiaconcursos.com.br                                                             29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+Em fevereiro, a loja adquiriu mais unidades do modelo X, do seguinte modo:
+10/02:.................Compra à vista de 4 unidades, por R$1.100 cada.
+15/02:............... Compra a prazo de 3 unidades, por R$1.200 cada.
+22/02:.................Compra à vista de 6 unidades, por R$1.300 cada.
+Em fevereiro, não houve vendas do modelo X.
+Em março, foram vendidas 10 unidades do celular por R$2.000 cada.
+Assinale a opção que indica o lucro bruto da loja, considerando que ela utiliza o método PEPS para
+controle de estoque.
+A R$8.100.
+B R$8.400.
+C R$8.700.
+D R$9.100.
+E R$10.000.
+
+Comentários:
+
+O Lucro Bruto é a diferença entre a Receita Líquida de Vendas e o Custo das Mercadorias Vendidas
+(CMV).
+
+   •   Receita = 10 unidades a R$ 2.000 = R$ 20.000
+
+   •   CMV
+
+Podemos resolver sem a ficha de controle de estoque. Vejam:
+
+Método = PEPS
+
+Estoque Inicial = 2 unidades a R$ 1.000 = R$ 2.000
+
+Entradas:
+
+Compra 1 = 4 unidades a R$ 1.100 = R$ 4.400
+Compra 2 = 3 unidades a R$ 1.200 = R$ 3.600
+Compra 3 = 6 unidades a R$ 1.300 = R$ 7.800
+
+Saídas (Vamos baixar as mercadorias mais antigas):
+
+Estoque Inicial = 2 unidades a R$ 1.000 = R$ 2.000
+Compra 1 = 4 unidades a R$ 1.100 = R$ 4.400
+Compra 2 = 3 unidades a R$ 1.200 = R$ 3.600
+Compra 3 = 1 unidades a R$ 1.300 = R$ 1.300
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral        17
+         www.estrategiaconcursos.com.br                                                        29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+Assim, o custo das mercadorias vendidas será R$ 11.300.
+
+Estoque final:
+
+Compra 3 = 5 unidades a R$ 1.300 = R$ 6.500
+
+Portanto, o lucro bruto da loja, considerando que ela utiliza o método PEPS para controle de estoque é:
+
+Lucro bruto PEPS = R$ 20.000 - R$ 11.300 = R$ 8.700
+
+Gabarito: C
+
+9. (FGV/ALEP/Contador/2024) Uma loja de material de construção controla o seu estoque
+    exclusivamente através de contagem física, realizada trimestralmente, antes da elaboração
+    das demonstrações contábeis trimestrais.
+Pode-se afirmar que a loja controla o seu estoque por meio do inventário
+A padrão.
+B periódico.
+C ponderado.
+D permanente.
+E de observação.
+
+Comentários:
+
+O controle de estoques pode ser feito através do inventário permanente ou do inventário periódico.
+
+Inventário permanente: empresa controla o estoque de forma contínua, dando baixa em cada
+operação de venda. Ele utiliza os seguintes critérios: PEPS, UEPS, Média Ponderada (Fixa e Móvel),
+Custo Específico e Método do Varejo.
+
+Inventário periódico: os estoques são avaliados na data do balanço, através do inventário físico. Vejam.
+Não há lançamento operação por operação. Apenas na data de encerramento é que apuramos o estoque
+para ver o saldo. Para calcular o valor do Custo das Mercadorias Vendidas, usamos a fórmula:
+
+                               CMV = Estoque inicial + Compras – Estoque final.
+
+Observa-se que o quesito descreveu o inventário periódico.
+
+Gabarito: B
+
+10. (FGV/TCE-PA/Auditor de Controle Externo/2024) Leia o fragmento a seguir em relação à
+    valoração do estoque.
+O custo dos estoques de itens que não são normalmente             e de bens ou serviços produzidos e
+segregados para projetos       deve ser atribuído pelo uso da identificação específica dos seus custos
+individuais.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              18
+         www.estrategiaconcursos.com.br                                                              29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima.
+A previstos - de curto prazo.
+B intercambiáveis - específicos.
+C intercambiáveis - tempestivos.
+D mensurados com confiabilidade - tempestivos.
+E mensurados com confiabilidade - de curto prazo.
+
+Comentários:
+
+Trata-se do método custo específico. Ele deve ser usado para itens identificados, ou para itens separados
+para um projeto específico. Ressaltamos que ele NÃO é recomendável quando há grandes
+quantidades de itens de estoque que sejam geralmente intercambiáveis, a identificação específica
+de custos não é apropriada.
+
+O quesito cobrou a literalidade do CPC 16, vejam:
+
+         Critérios de valoração de estoque
+
+         23. O custo dos estoques de itens que não são normalmente intercambiáveis e de bens
+         ou serviços produzidos e segregados para projetos específicos deve ser atribuído pelo
+         uso da identificação específica dos seus custos individuais.
+
+         Adendo! Itens intercambiáveis são itens que podem ser trocados por outro
+         plenamente e não haverá problema. Por exemplo, no estoque de fruta podemos trocar
+         laranja por laranja, açaí por açaí, morango por morango, sem problemas. Já os itens não
+         intercambiáveis são itens específicos. Imagine um avião de modelo específico, por
+         exemplo, não podemos trocar um BOEING 737 por um 747.
+
+Gabarito: B
+
+11. (FGV/Prefeitura de Caraguatatuba/Contador/2024) Em 01/01/2023, uma loja adquiriu 20
+    relógios para revenda por R$1.400. Para levar o estoque do fornecedor à loja, alugou um
+    veículo por R$400 e contratou um motorista, cujos honorários pelo serviço foram de R$200.
+   Além disso, a gasolina gasta diretamente no trajeto foi de R$100. Assinale a opção que indica
+   o custo unitário do relógio em 01/01/2023.
+(A) R$70,00.
+(B) R$80,00.
+(C) R$90,00.
+(D) R$95,00.
+(E) R$105,00.
+
+Comentários:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               19
+         www.estrategiaconcursos.com.br                                                               29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+O CPC 16 – Estoques afirma que o valor de custo do estoque deve incluir todos os custos de aquisição e
+de transformação, bem como outros custos incorridos para trazer os estoques à sua condição e
+localização atuais.
+
+Nesse sentido, o custo de aquisição dos estoques compreende o preço de compra, os impostos de
+importação e outros tributos (exceto os recuperáveis junto ao fisco), bem como os custos de transporte,
+seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos acabados, materiais e serviços.
+Descontos comerciais, abatimentos e outros itens semelhantes devem ser deduzidos na determinação do
+custo de aquisição.
+
+Logo, na nossa questão, o custo do estoque adquirido compreenderá:
+
+Preço pago =                     R$ 1.400
+(+) Aluguel Veículo              R$ 400
+(+) Honorários do MotoristaR$ 200
+(+) Gasolina do Trajeto          R$ 100
+Total =                          R$ 2.100
+Custo Unitário                   2.100/20 = R$ 105,00
+
+Gabarito: E
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           20
+          www.estrategiaconcursos.com.br                                                           29
+
+                                       https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 03
+
+
+
+
+          QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas que exigem
+respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a memorização da matéria, e,
+consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+                                                     Perguntas
+
+1. O que são estoques?
+2. O que é Lucro Bruto?
+3. O que compreende o custo dos estoques?
+4. Quais são os tipos de controle de estoques?
+5. Como é feito o controle de estoques no Inventário Periódico?
+6. Como é apurado o Custo das Mercadorias Vendidas pelo Inventário Periódico?
+7. Como é controlado o estoque pelo Inventário Permanente?
+8. Quais são os Principais critérios de avaliação de Estoques utilizados no Inventário Permanente?
+9. O que é valor realizável líquido?
+10. Como devem ser avaliados os estoques, de acordo com o CPC 16?
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                21
+         www.estrategiaconcursos.com.br                                                                                29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 03
+
+
+
+
+                                         Perguntas com respostas
+
+1. O que são estoques
+
+Estoques são ativos mantidos para venda no curso normal dos negócios; em processo de produção para
+venda, na forma de materiais ou suprimentos a serem consumidos ou transformados no processo de
+produção ou na prestação de serviços.
+
+2. O que é Lucro Bruto?
+
+O resultado bruto com mercadorias, ou resultado com mercadorias equivale é a diferença entre a Receita
+Líquida de Vendas e o Custo das Mercadorias Vendidas.
+
+3. O que compreende o custo dos estoques?                ==219a34==
+
+
+
+
+O valor de custo do estoque deve incluir todos os custos de aquisição e de transformação, bem como outros
+custos incorridos para trazer os estoques à sua condição e localização atuais, como por exemplo, o preço de
+compra, os impostos de importação e outros tributos (exceto os recuperáveis junto ao fisco), bem como os
+custos de transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos acabados,
+materiais e serviços
+
+4. Quais são os tipos de controle de estoques?
+
+O controle de estoques pode ser feito através do inventário permanente ou do inventário periódico.
+
+5. Como é feito o controle de estoques no Inventário Periódico?
+
+Pelo inventário periódico, os estoques são avaliados na data do balanço, através do inventário físico. Não há
+lançamento operação por operação. Apenas na data de encerramento é que apuramos o estoque para ver
+o saldo.
+
+6. Como é apurado o Custo das Mercadorias Vendidas pelo Inventário Periódico?
+
+Para calcular o valor do Custo das Mercadorias Vendidas, usamos a fórmula: CMV = Estoque inicial + Compras
+– Estoque final.
+
+7. Como é controlado o estoque pelo Inventário Permanente?
+
+Nesse caso, a empresa controla o estoque de forma contínua, dando baixa em cada operação de venda.
+
+8. Quais são os Principais critérios de avaliação de Estoques utilizados no Inventário Permanente?
+
+PEPS, UEPS, Média Ponderada (Fixa e Móvel), Custo Específico e Método do Varejo.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                   22
+         www.estrategiaconcursos.com.br                                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 03
+
+
+
+9. O que é valor realizável líquido?
+
+Valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos
+estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda.
+
+10. Como devem ser avaliados os estoques, de acordo com o CPC 16?
+
+Os estoques objeto deste Pronunciamento devem ser mensurados pelo valor de custo ou pelo valor
+realizável líquido, dos dois o menor.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           23
+         www.estrategiaconcursos.com.br                                                           29
+
+                                      https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 03
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+
+1. (FGV/TCE RR/Auditor de Controle Externo/2025) Em 01/12/2024, uma loja adquiriu estoque
+    para revenda por R$ 30.000, com pagamento previsto para quatorze meses. Caso a compra
+    tivesse sido feita à vista, a loja teria pago R$ 28.000. A alíquota do ICMS incidente sobre a
+    compra é de 18%. Qualquer montante relacionado ao ICMS será compensado no curto prazo.
+Assinale a opção que indica o valor contabilizado como estoque no momento da compra.
+A R$ 22.600.
+B R$ 22.960.
+C R$ 24.600.
+D R$ 28.000.
+E R$ 30.000.
+
+2. (FGV/STN/Auditor Federal de Finanças e Controle/2024) Uma livraria vende livros de
+    contabilidade. Em janeiro de 2024, não havia livros em estoque.
+Em cada pedido realizado, a livraria incorre em frete fixo de R$100, pagos à transportadora. Além disso,
+o seguro corresponde a 20% do valor pago ao fornecedor.
+Em janeiro de 2024, a livraria realizou dois pedidos do livro Contabilidade Avançada. No primeiro,
+foram adquiridos 10 desses livros, por R$100 cada, e no segundo foram adquiridos 20 desses livros, por
+R$110 cada.
+Em 31/01/2024, foram vendidos 15 desses livros, por R$200.
+Assinale a opção que indica o lucro bruto, em 31/01/2024, considerando que a livraria controla o seu
+estoque de acordo com o custo médio ponderado móvel.
+A R$980.
+B R$1.015.
+C R$1.080.
+D R$1.300.
+E R$1.400.
+
+3. (FGV/CVM/Inspetor Contabilidade e Auditoria/2024) Durante 2024, uma empresa S.A
+    decidiu alterar o critério de valoração de seus estoques, de PEPS para custo médio
+    ponderado. As vendas do ano foram de R$ 20 milhões e as compras totais da empresa foram
+    de R$ 10 milhões. Os valores de estoques segundo cada critério são descritos abaixo.
+                                               PEPS     Custo Médio Ponderado
+                    31 de dezembro de 2023 R$ 3.000.000      R$ 3.000.000
+                    31 de dezembro de 2024 R$ 4.000.000      R$ 2.000.000
+Segundo a administração da empresa S.A., a mudança foi feita porque o método do custo médio
+ponderado proporciona uma melhor correspondência entre custos e receitas. Além disso, com a
+mudança, o método de precificação de estoques da empresa será consistente com o método
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               24
+        www.estrategiaconcursos.com.br                                                               29
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+predominante no setor. Considerando as informações apresentadas, o lucro bruto ajustado conforme o
+novo critério, em 31 de dezembro de 2024, é de:
+A R$ 2.000,000.00;
+B R$ 4.000.000,00;
+C R$ 9.000.000,00;
+D R$ 11.000.000,00;
+E R$ 14.000.000,00.
+
+4. (FGV/Câmera dos Deputados/Analista Legislativo/2024) Uma loja começou suas operações
+    de vendas de lustres em 01/01/2023.
+Na data, ela adquiriu 40 lustres por R$4.000 à vista. O preço unitário de venda do lustre era de R$150,00.
+30 lustres ficaram guardados no interior da loja, enquanto o restante foi exposto na loja. Enquanto não
+eram vendidos, estes 10 lustres eram utilizados para iluminação, já que não havia outra fonte de luz na
+                                                         ==219a34==
+
+
+
+
+loja.
+Assinale a opção que indica a apresentação dos lustres no balanço patrimonial da loja.
+A Ativo circulante: R$4.000.
+B Ativo circulante: R$6.000.
+C Ativo circulante: R$3.000; Ativo imobilizado: R$1.000.
+D Ativo circulante: R$4.500; Ativo imobilizado: R$1.500.
+E Ativo circulante: R$3.000; ativo realizável a longo prazo: R$1.000.
+
+5. (FGV/TRF 1ª Região/Técnico Judiciário – Contabilidade/2024) Considerando-se os preceitos
+    do CPC 16 – Estoques, em um período de aumento de preços, os métodos de controle de
+    estoque que tendem a resultar em um maior lucro bruto e em um maior estoque final são,
+    respectivamente:
+A PEPS e PEPS;
+B PEPS e média ponderada;
+C PEPS e UEPS;
+D UEPS e PEPS;
+E UEPS e média móvel.
+
+6. (FGV/Pref. Abreu e Lima/Técnico em Controle Interno/2024) Em 01/07/2024, uma loja de
+    brinquedos tinha, em estoque, 7 bonecas, que haviam sido compradas por R$50,00. O preço
+    das bonecas era de R$100,00.
+Em 10/07, a loja adquiriu 5 bonecas pelo custo unitário de R$60,00. Em 20/07, a loja realizou uma
+venda de 10 bonecas, por R$1.100.
+Assinale a opção que indica o custo das mercadorias vendidas, considerando que a loja utiliza o método
+PEPS para avaliar o seu estoque.
+A R$500.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                25
+         www.estrategiaconcursos.com.br                                                                29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+B R$530.
+C R$542.
+D R$550.
+E R$600.
+
+7. (FGV/Pref. Cuiabá/Auditor Fiscal/2024) Uma loja vendia esteiras. Cada esteira tinha custo de
+    R$ 2.000 e era vendida por R$ 2.500. Além disso, a loja pagava a seus vendedores uma
+    comissão de 10% sobre o preço da venda.
+A oferecia frete grátis para os seus consumidores, de modo que era responsável por pagar pela entrega
+da esteira vendida.
+Em junho de 2024 o valor pago pela entrega de cada esteira era de R$ 200. Já em julho, devido a aumento
+no preço do combustível, esse valor passou para R$ 300.
+Assinale a opção que indica o valor unitário da esteira mensurado como estoque no balanço patrimonial
+da loja em 30/06/2024 e em 31/07/2024:
+A R$ 2.000 e R$ 1.950
+B R$ 2.000 e R$ 2.000
+C R$ 2.050 e R$ 1.950
+D R$ 2.250 e R$ 2.250
+E R$ 2.300 e R$ 2.200
+
+8. (FGV/ALE TO/Analista Legislativo Ciências Contábeis/2024) Em 01/02/2024, uma loja de
+   celulares tinha em seu estoque 2 unidades do modelo X. O estoque estava contabilizado por
+   R$2.000.
+Em fevereiro, a loja adquiriu mais unidades do modelo X, do seguinte modo:
+10/02:.................Compra à vista de 4 unidades, por R$1.100 cada.
+15/02:............... Compra a prazo de 3 unidades, por R$1.200 cada.
+22/02:.................Compra à vista de 6 unidades, por R$1.300 cada.
+Em fevereiro, não houve vendas do modelo X.
+Em março, foram vendidas 10 unidades do celular por R$2.000 cada.
+Assinale a opção que indica o lucro bruto da loja, considerando que ela utiliza o método PEPS para
+controle de estoque.
+A R$8.100.
+B R$8.400.
+C R$8.700.
+D R$9.100.
+E R$10.000.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             26
+         www.estrategiaconcursos.com.br                                                             29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+
+9. (FGV/ALEP/Contador/2024) Uma loja de material de construção controla o seu estoque
+    exclusivamente através de contagem física, realizada trimestralmente, antes da elaboração
+    das demonstrações contábeis trimestrais.
+Pode-se afirmar que a loja controla o seu estoque por meio do inventário
+A padrão.
+B periódico.
+C ponderado.
+D permanente.
+E de observação.
+
+10. (FGV/TCE-PA/Auditor de Controle Externo/2024) Leia o fragmento a seguir em relação à
+    valoração do estoque.
+O custo dos estoques de itens que não são normalmente             e de bens ou serviços produzidos e
+segregados para projetos       deve ser atribuído pelo uso da identificação específica dos seus custos
+individuais.
+Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima.
+A previstos - de curto prazo.
+B intercambiáveis - específicos.
+C intercambiáveis - tempestivos.
+D mensurados com confiabilidade - tempestivos.
+E mensurados com confiabilidade - de curto prazo.
+
+11. (FGV/Prefeitura de Caraguatatuba/Contador/2024) Em 01/01/2023, uma loja adquiriu 20
+    relógios para revenda por R$1.400. Para levar o estoque do fornecedor à loja, alugou um
+    veículo por R$400 e contratou um motorista, cujos honorários pelo serviço foram de R$200.
+    Além disso, a gasolina gasta diretamente no trajeto foi de R$100. Assinale a opção que indica
+    o custo unitário do relógio em 01/01/2023.
+(A) R$70,00.
+(B) R$80,00.
+(C) R$90,00.
+(D) R$95,00.
+(E) R$105,00.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            27
+         www.estrategiaconcursos.com.br                                                            29
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 03
+
+
+
+
+                                                 GABARITO
+                                                  1          A
+                                                  2          A
+                                                  3          C
+                                                  4          A
+                                                  5          A
+                                                  6          B
+                                                  7          A
+                                                  8          C
+                                                  9          B
+                                                  10         B
+                                                  11         E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral   28
+         www.estrategiaconcursos.com.br                                                   29
+
+                                      https://t.me/KakashiAssinaturasBot
+

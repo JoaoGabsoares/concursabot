@@ -1,0 +1,3703 @@
+                                                    Aula 19
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+
+
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+
+
+
+                                              19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO;
+    FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES
+    NEGATIVAS
+
+
+
+    1. Palavras do Professor ................................................................ 2
+    2. Análise Estatística ..................................................................... 3
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?................................................ 4
+    3. Roteiro de Revisão e Pontos que merecem Destaque............... 5
+    4. Aposta Estratégica ................................................................. 27
+    5. Questões Estratégicas ........................................................... 28
+          QUESTÕES FGV.............................................................................................. 28
+    6. Questionário de Revisão ........................................................ 61
+    7. Questões de Aula .................................................................. 67
+          QUESTÕES FGV.............................................................................................. 67
+          GABARITO ...................................................................................................... 76
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           principais pontos sobre Garantias e Privilégios do Crédito
+                           Tributário, assim como a parte final do CTN a respeito da
+                           Administração           Tributária      (Fiscalização,     Dívida   Ativa   e
+                           Certidões Negativas).
+
+    Vamos ver as diferenças entre Garantias e Privilégios do Crédito Tributário,
+    assim como a sua ordem de preferência, os casos em que há presunção de
+    fraude à execução fiscal, além dos principais pontos sobre Fiscalização, Dívida
+    Ativa e Certidões Negativas, sempre mirando o que tem sido cobrado em
+    prova.
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+
+
+
+              “Sem o esforço da busca, é impossível a alegria do
+                                 encontro”
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                        2
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    2. ANÁLISE ESTATÍSTICA
+
+    Com base na análise estatística das questões de Concursos da Área Fiscal dos
+    últimos anos, temos o seguinte resultado para o(s) assunto(s) que serão
+    tratados neste relatório:
+
+
+                             Assunto do Edital                                        FGV
+
+                 Garantias e Privilégios do Crédito
+                             Tributário                                               3,57%
+
+
+                            Assunto do Edital                                         FGV
+
+                        Administração Tributária                                      6,88%
+
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos da Área Fiscal, que o assunto “Garantias e Privilégios do
+    Crédito Tributário” possui importância Intermediária, tendo aparecido em
+    mais de 3,5% das questões da Banca.
+
+    Já em relação ao assunto “Administração Tributária”, ele apresenta
+    importância Alta, tendo aparecido em mais de 6,8% das questões da Banca.
+
+
+                    % de Cobrança                                  Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           3
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+
+                                          Tópico                                      FGV
+          Certidão Negativa                                                           7,42%
+
+          Alienação Fraudulenta                                                       7,19%
+
+          Dívida Ativa                                                                23,68%
+
+          Preferência do Crédito Tributário                        – Falência e
+                                                                                      18,42%
+          Recuperação Judicial
+
+          Preferência do Crédito Tributário – demais                                  7,19%
+
+          Fiscalização                                                                18,42%
+
+          Concurso de Credores                                                        7,19%
+
+          Indisponibilidade de Bens                                                   8,20%
+
+          Demais tópicos                                                              2,29%
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            4
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.
+
+
+
+    1. As Garantias dizem respeito aos meios legais que facilitam o recebimento
+    do Crédito Tributário pelo Estado.
+
+    2. Os Privilégios têm por objetivo garantir ao Crédito Tributário prioridade de
+    pagamento em relação às demais dívidas.
+
+    3. As Garantias do Crédito Tributário previstas no CTN não são taxativas,
+    podendo outras garantias serem criadas através de Lei.
+
+    4. As garantias atribuídas ao Crédito Tributário não alteraram sua natureza, e
+    nem a natureza da Obrigação Tributária a ele relativa.
+
+    5. Respondem pelo pagamento do Crédito Tributário todos os bens e rendas
+    do sujeito passivo, espólio ou massa falida, exceto aqueles declarados em lei
+    como absolutamente impenhoráveis.
+
+    6. Os bens voluntariamente declarados como impenhoráveis se sujeitam ao
+    Crédito Tributário.
+
+    Inclusive o bem de família pode ser penhorado, se a cobrança do tributo for
+    relativa ao próprio bem familiar.
+
+    Exemplo: A única casa de uma família pode vir a ser penhorada pela dívida de
+    IPTU deste imóvel, mas não pode ser penhorada por dívida de Imposto de
+    Renda do proprietário.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   5
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    7. Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu
+    começo, por sujeito passivo em débito para com a Fazenda Pública, por
+    crédito tributário regularmente inscrito como dívida ativa, exceto se tiverem
+    sido reservados, pelo devedor, bens ou rendas suficientes ao total pagamento
+    da dívida inscrita.
+
+    Atenção! Só é presumido fraude se o crédito estiver inscrito na Dívida Ativa.
+    O simples fato de a dívida existir, sem a inscrição em Dívida Ativa, não presume
+    fraude.
+
+    8. Para que haja indisponibilidade dos bens e direitos do executado, é
+    necessário que:
+
+          ▪ O devedor tenha sido devidamente citado;
+
+          ▪ Não tenha ocorrido o pagamento da dívida ou apresentação de bens à
+             penhora;
+
+          ▪ Esgotamento das diligências em busca de bens penhoráveis.
+
+
+    9. Súmula STJ 560 – “A decretação da indisponibilidade de bens e direitos, na
+    forma do art. 185-A do CTN, pressupõe o exaurimento das diligências na
+    busca por bens penhoráveis, o qual fica caracterizado quando infrutíferos o
+    pedido de constrição sobre ativos financeiros e a expedição de ofícios aos
+    registros públicos do domicílio do executado, ao Denatran ou Detran”.
+
+    10. A indisponibilidade limitar-se-á ao valor total exigível;
+
+    Os órgãos e entidades aos quais se fizer a comunicação enviarão
+    imediatamente ao juízo a relação discriminada dos bens e direitos cuja
+    indisponibilidade houverem promovido.
+
+    No caso de bloqueio de valores superiores ao da dívida, cabe ao juiz proceder
+    o desbloqueio do valor excedente.
+
+    11. A extinção das obrigações do falido requer prova de quitação de TODOS
+    os tributos.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    6
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    12. A concessão de recuperação judicial depende da apresentação da prova
+    de quitação de TODOS os tributos.
+
+    13. Nenhuma sentença de julgamento de partilha (quando se tem vários
+    herdeiros) ou adjudicação (quando único herdeiro) será proferida sem prova
+    da quitação de TODOS os tributos relativos aos bens do espólio, ou às suas
+    rendas.
+
+    14. Regra Geral de Preferência ou Privilégio do Crédito Tributário:
+
+    O Crédito Tributário prefere a qualquer outro, seja qual for sua natureza ou o
+    tempo de sua constituição, ressalvados os créditos decorrentes da Legislação
+    do Trabalho ou do Acidente de Trabalho.
+
+    15. Preferência ou Privilégio do Crédito Tributário no caso de Falência:
+
+    Segundo o CTN:
+
+                        Art. 186. Parágrafo único. Na falência
+
+                        I – o crédito tributário não prefere aos créditos extraconcursais
+                        ou às importâncias passíveis de restituição, nos termos da lei
+                        falimentar, nem aos créditos com garantia real, no limite do
+                        valor do bem gravado;
+
+                        II – a lei poderá estabelecer limites e condições para a
+                        preferência dos créditos decorrentes da legislação do trabalho;
+                        e
+
+                        III – a multa tributária prefere apenas aos créditos subordinados.
+
+
+
+    Para facilitar a memorização e o entendimento, montamos a tabela abaixo que
+    apresenta a preferência dos Créditos, no caso de Falência:
+
+    Atenção à posição dos Créditos Tributários, sendo fundamental saber quais
+    créditos possuem preferência em relação a ele.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          7
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+ Fernando Mauricio Correa
+ Aula 19
+
+
+
+
+Ordem                  Tipo de Crédito                                              Observação
+
+                                                                ▪   Bens ou valores pertencentes a terceiros
+                                                                    que na data da decretação da falência,
+                                                                    estavam em poder do devedor falido.
+
+                                                                ▪   Incluem os bens vendidos a crédito e
+ 1º        Importâncias Passíveis de Restituição
+                                                                    entregues       ao   devedor   nos   15   dias
+                                                                    anteriores ao requerimento de sua falência.
+
+                                                                ▪   Incluem Adiantamento de Contrato de
+                                                                    Câmbio
+
+                                                                ▪   Tributários ou não
+
+ 2º        Créditos Extraconcursais                             ▪   São Extraconcursais os créditos tributários
+                                                                    decorrentes de fatos geradores ocorridos
+                                                                    no curso do processo de falência.
+
+                                                                ▪   Legislação Trabalhista = Limite de 150
+           Créditos derivados da Legislação do
+                                                                    salários-mínimos por credor.
+ 3º        Trabalho e decorrentes de Acidente de
+           Trabalho
+                                                                ▪   Acidente de Trabalho = não tem limite.
+
+                                                                ▪   Penhor ou Hipoteca (Até o Limite do Bem
+ 4º        Créditos com Garantia Real
+                                                                    gravado)
+
+                                                                ▪   Que não sejam Extraconcursais
+           Créditos Tributários, independente da
+ 5º
+           natureza ou tempo de constituição
+                                                                ▪   Aqui não se incluem as Multas
+
+ 6º        Créditos quirografários
+
+           Multas contratuais, penas pecuniárias
+ 7º        por infração penal ou administrativa
+           (inclusive as multas tributárias)
+
+                                                                ▪ Por exemplo os créditos devidos aos sócios
+ 8º        Créditos Subordinados                                    e       administradores        sem    vínculo
+                                                                    empregatício
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                          8
+        www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    16. A ação de execução fiscal não está sujeita ao concurso de credores.
+
+    17. Os Créditos Tributários exigíveis no decurso do processo de inventário ou
+    arrolamento são pagos preferencialmente a qualquer encargo do monte.
+
+    18. Os Créditos Tributários vencidos ou vincendos, nos processos de
+    liquidação judicial ou voluntária, são pagos preferencialmente a quaisquer
+    outros créditos.
+
+    19. O STF declarou que não existe preferência entre pessoas jurídicas de
+    direito público, declarando inconstitucional o Parágrafo Único do Art. 187 do
+    CTN (ADPF 357).
+
+    20. Todas as pessoas submetem-se à fiscalização tributária, inclusive aquelas
+    que gozem de imunidade tributária ou de isenção de caráter pessoal.
+
+    21. Súmula STF 439 – “Estão sujeitos a fiscalização tributária ou previdenciária
+    quaisquer livros comerciais, limitado o exame aos pontos objeto da
+    investigação”.
+
+
+
+    22. Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes
+    dos lançamentos neles efetuados devem ser conservados até que ocorra a
+    prescrição dos créditos tributários decorrentes das operações a que se
+    refiram.
+
+    Reparem que a legislação não fala que os livros fiscais devem ser guardados
+    por 5 anos, mas sim, até que ocorra a prescrição.
+
+
+
+    23. As autoridades e os agentes fiscais tributários da União, dos Estados, do
+    Distrito Federal e dos Municípios somente poderão examinar documentos,
+    livros e registros de instituições financeiras, inclusive os referentes a contas de
+    depósitos e aplicações financeiras, quando houver processo administrativo
+    instaurado ou procedimento fiscal em curso e tais exames sejam considerados
+    indispensáveis pela autoridade administrativa competente.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       9
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Não se trata de quebra de sigilo bancário sem autorização judicial, mas sim de
+    “transferência de sigilo do âmbito bancário para o fiscal”, sendo ambas
+    protegidas contra o acesso de terceiros.
+
+
+
+    24. A autoridade administrativa que proceder ou presidir a quaisquer
+    diligências de fiscalização lavrará os termos necessários para que se
+    documente o início do procedimento, na forma da legislação aplicável, que
+    fixará prazo máximo para a conclusão daquelas.
+
+    É o famoso Termo de Início de Fiscalização, o qual deve ser apresentado ao
+    contribuinte no começo de toda ação fiscal.
+
+    Com a apresentação do Termo de Início de Fiscalização o Sujeito Passivo
+    perde a espontaneidade (não tem mais direito aos benefícios da denúncia
+    espontânea)
+
+
+
+    25. É vedada a divulgação, por parte da Fazenda Pública ou de seus
+    servidores, de informação obtida em razão do ofício sobre a situação
+    econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza
+    e o estado de seus negócios ou atividades, exceto nos casos de:
+
+          ▪ Requisição de autoridade judiciária no interesse da justiça;
+
+
+          ▪ Solicitações de autoridade administrativa no interesse da Administração
+             Pública, desde que seja comprovada a instauração regular de processo
+             administrativo, no órgão ou na entidade respectiva, com o objetivo de
+             investigar o sujeito passivo a que se refere a informação, por prática de
+             infração administrativa.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      10
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    26. Constitui Dívida Ativa tributária a proveniente de crédito dessa natureza,
+    regularmente inscrita na repartição administrativa competente, depois de
+    esgotado o prazo fixado, para pagamento, pela lei ou por decisão final
+    proferida em processo regular.
+
+    27. O objetivo da inscrição do Crédito Tributário em Dívida Ativa é extrair a
+    Certidão de Dívida Ativa (CDA), que é um título executivo extrajudicial, que
+    viabiliza a posterior propositura da ação de execução fiscal.
+
+    28. A Dívida regularmente Inscrita goza da presunção de certeza e liquidez e
+    tem o efeito de prova pré-constituída.             ==219a34==
+
+
+
+
+    Atenção, pois esta presunção é relativa, e pode ser ilidida por prova
+    inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite.
+
+    29. Súmula STJ 392 – “A Fazenda Pública pode substituir a certidão de dívida
+    ativa (CDA) até a prolação da sentença de embargos, quando se tratar de
+    correção de erro material ou formal, vedada a modificação do sujeito passivo
+    da execução.”
+
+    30. As Certidões Negativas de Débitos (CND) são os documentos capazes de
+    comprovar a inexistência de débito de determinado contribuinte, de
+    determinado tributo ou relativo a determinado período.
+
+    31. O prazo para emissão de uma CND é de até 10 dias (e não 10 dias úteis).
+
+    32. A Certidão Positiva com efeito de Negativa tem os mesmos efeitos que a
+    Certidão Negativa de Débitos (CND), e será emitida nos seguintes casos:
+
+          ▪ A existência de créditos não vencidos;
+
+          ▪ Créditos em curso de cobrança executiva em que tenha sido efetivada
+              a penhora;
+
+          ▪   Créditos cuja exigibilidade esteja suspensa (MO – DE – RE – CO – CO
+              – PA).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   11
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    33. Súmula STJ 446 – “Declarado e não pago o débito tributário pelo
+    contribuinte, é legítima a recusa de expedição de certidão negativa ou positiva
+    com efeito de negativa”.
+
+    34. A Certidão Negativa de Débitos é exigida nos seguintes casos:
+
+          ▪ Declaração judicial da extinção das obrigações do devedor falido;
+
+
+          ▪   Concessão de recuperação judicial;
+
+
+          ▪ Prolação de sentença judicial de partilha ou adjudicação;
+              (Neste caso é exigida a comprovação de quitação de todos os tributos
+              relativos aos bens do espólio, ou às suas rendas)
+
+
+          ▪ Participação em contrato ou licitação da Administração Pública;
+              (Neste caso é exigida a comprovação de quitação de todos os tributos
+              devidos à fazenda Pública interessada, relativos à atividade que
+              concorre)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   12
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+
+
+
+                                                Constituição Federal:
+
+
+                        Artigo 34. XXXIV, b:
+                        Art. 34. XXXIV - são a todos assegurados, independentemente
+                        do pagamento de taxas:
+
+                        b) a obtenção de certidões em repartições públicas, para defesa
+                        de direitos e esclarecimento de situações de interesse pessoal;
+
+
+                        Artigo 137. XXII:
+                        Art. 37. XXII - as administrações tributárias da União, dos
+                        Estados, do Distrito Federal e dos Municípios, atividades
+                        essenciais ao funcionamento do Estado, exercidas por
+                        servidores de carreiras específicas, terão recursos prioritários
+                        para a realização de suas atividades e atuarão de forma
+                        integrada, inclusive com o compartilhamento de cadastros e de
+                        informações fiscais, na forma da lei ou convênio.
+
+
+
+
+                                                           CTN:
+
+
+                        Artigo 183:
+                        Art. 183. A enumeração das garantias atribuídas neste Capítulo
+                        ao crédito tributário não exclui outras que sejam expressamente
+                        previstas em lei, em função da natureza ou das características
+                        do tributo a que se refiram.
+                        Parágrafo único. A natureza das garantias atribuídas ao crédito
+                        tributário não altera a natureza deste nem a da obrigação
+                        tributária a que corresponda.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        13
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 184:
+                        Art. 184. Sem prejuízo dos privilégios especiais sobre
+                        determinados bens, que sejam previstos em lei, responde pelo
+                        pagamento do crédito tributário a totalidade dos bens e das
+                        rendas, de qualquer origem ou natureza, do sujeito passivo, seu
+                        espólio ou sua massa falida, inclusive os gravados por ônus real
+                        ou cláusula de inalienabilidade ou impenhorabilidade, seja qual
+                        for a data da constituição do ônus ou da cláusula, excetuados
+                        unicamente os bens e rendas que a lei declare absolutamente
+                        impenhoráveis
+
+
+
+                        Artigo 185:
+                        Art. 185. Presume-se fraudulenta a alienação ou oneração de
+                        bens ou rendas, ou seu começo, por sujeito passivo em débito
+                        para      com      a    Fazenda        Pública,       por     crédito   tributário
+                        regularmente inscrito como dívida ativa.
+
+                        Parágrafo único. O disposto neste artigo não se aplica na
+                        hipótese de terem sido reservados, pelo devedor, bens ou
+                        rendas suficientes ao total pagamento da dívida inscrita.
+
+
+
+                        Artigo 185-A:
+                        Art. 185-A. Na hipótese de o devedor tributário, devidamente
+                        citado, não pagar nem apresentar bens à penhora no prazo
+                        legal e não forem encontrados bens penhoráveis, o juiz
+                        determinará a indisponibilidade de seus bens e direitos,
+                        comunicando a decisão, preferencialmente por meio eletrônico,
+                        aos     órgãos         e entidades         que promovem registros              de
+                        transferência de bens, especialmente ao registro público de
+                        imóveis e às autoridades supervisoras do mercado bancário e
+                        do mercado de capitais, a fim de que, no âmbito de suas
+                        atribuições, façam cumprir a ordem judicial.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                          14
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        § 1o A indisponibilidade de que trata o caput deste artigo
+                        limitar-se-á ao valor total exigível, devendo o juiz determinar o
+                        imediato levantamento da indisponibilidade dos bens ou
+                        valores que excederem esse limite.
+
+                        § 2o Os órgãos e entidades aos quais se fizer a comunicação de
+                        que trata o caput deste artigo enviarão imediatamente ao juízo
+                        a relação discriminada dos bens e direitos cuja indisponibilidade
+                        houverem promovido.
+
+
+
+
+                        Artigo 186:
+                        Art. 186. O crédito tributário prefere a qualquer outro, seja qual
+                        for sua natureza ou o tempo de sua constituição, ressalvados os
+                        créditos decorrentes da legislação do trabalho ou do acidente
+                        de trabalho.
+
+                        Parágrafo único. Na falência:
+
+                        I – o crédito tributário não prefere aos créditos extraconcursais
+                        ou às importâncias passíveis de restituição, nos termos da lei
+                        falimentar, nem aos créditos com garantia real, no limite do
+                        valor do bem gravado;
+
+                        II – a lei poderá estabelecer limites e condições para a
+                        preferência dos créditos decorrentes da legislação do trabalho;
+
+                        III – a multa tributária prefere apenas aos créditos subordinados.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          15
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 187:
+                        Art. 187. A cobrança judicial do crédito tributário não é sujeita
+                        a concurso de credores ou habilitação em falência, recuperação
+                        judicial, concordata, inventário ou arrolamento
+
+
+
+                        Artigo 188:
+                        Art. 188. São extraconcursais os créditos tributários decorrentes
+                        de fatos geradores ocorridos no curso do processo de falência.
+
+                        § 1º Contestado o crédito tributário, o juiz remeterá as partes
+                        ao processo competente, mandando reservar bens suficientes à
+                        extinção total do crédito e seus acrescidos, se a massa não
+                        puder efetuar a garantia da instância por outra forma, ouvido,
+                        quanto à natureza e valor dos bens reservados, o representante
+                        da Fazenda Pública interessada.
+
+                        § 2º O disposto neste artigo aplica-se aos processos de
+                        concordata.
+
+
+
+                        Artigo 189:
+                        Art. 189. São pagos preferencialmente a quaisquer créditos
+                        habilitados em inventário ou arrolamento, ou a outros encargos
+                        do monte, os créditos tributários vencidos ou vincendos, a
+                        cargo do de cujus ou de seu espólio, exigíveis no decurso do
+                        processo de inventário ou arrolamento.
+
+                        Parágrafo único. Contestado o crédito tributário, proceder-se-
+                        á na forma do disposto no § 1º do artigo anterior.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         16
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 190:
+                        Art. 190. São pagos preferencialmente a quaisquer outros os
+                        créditos tributários vencidos ou vincendos, a cargo de pessoas
+                        jurídicas de direito privado em liquidação judicial ou voluntária,
+                        exigíveis no decurso da liquidação.
+
+
+                        Artigo 191:
+                        Art. 191. A extinção das obrigações do falido requer prova de
+                        quitação de todos os tributos.
+
+
+
+                        Artigo 191-A:
+                        Art. 191-A. A concessão de recuperação judicial depende da
+                        apresentação da prova de quitação de todos os tributos,
+                        observado o disposto nos arts. 151, 205 e 206 desta Lei.
+
+
+
+                        Artigo 192:
+                        Art. 192. Nenhuma sentença de julgamento de partilha ou
+                        adjudicação será proferida sem prova da quitação de todos os
+                        tributos relativos aos bens do espólio, ou às suas rendas.
+
+
+
+                        Artigo 193:
+                        Art. 193. Salvo quando expressamente autorizado por lei,
+                        nenhum departamento da administração pública da União, dos
+                        Estados, do Distrito Federal, ou dos Municípios, ou sua
+                        autarquia, celebrará contrato ou aceitará proposta em
+                        concorrência pública sem que o contratante ou proponente
+                        faça prova da quitação de todos os tributos devidos à Fazenda
+                        Pública interessada, relativos à atividade em cujo exercício
+                        contrata ou concorre.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          17
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 194:
+                        Art. 194. A legislação tributária, observado o disposto nesta Lei,
+                        regulará, em caráter geral, ou especificamente em função da
+                        natureza do tributo de que se tratar, a competência e os
+                        poderes das autoridades administrativas em matéria de
+                        fiscalização da sua aplicação.
+
+                        Parágrafo único. A legislação a que se refere este artigo aplica-
+                        se às pessoas naturais ou jurídicas, contribuintes ou não,
+                        inclusive às que gozem de imunidade tributária ou de isenção
+                        de caráter pessoal.
+
+
+
+                        Artigo 195:
+                        Art. 195. Para os efeitos da legislação tributária, não têm
+                        aplicação        quaisquer        disposições        legais   excludentes   ou
+                        limitativas do direito de examinar mercadorias, livros, arquivos,
+                        documentos, papéis e efeitos comerciais ou fiscais, dos
+                        comerciantes industriais ou produtores, ou da obrigação destes
+                        de exibi-los.
+
+                        Parágrafo único. Os livros obrigatórios de escrituração
+                        comercial e fiscal e os comprovantes dos lançamentos neles
+                        efetuados serão conservados até que ocorra a prescrição dos
+                        créditos tributários decorrentes das operações a que se refiram.
+
+
+
+                        Artigo 196:
+                        Art. 196. A autoridade administrativa que proceder ou presidir
+                        a quaisquer diligências de fiscalização lavrará os termos
+                        necessários para que se documente o início do procedimento,
+                        na forma da legislação aplicável, que fixará prazo máximo para
+                        a conclusão daquelas.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      18
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Parágrafo único. Os termos a que se refere este artigo serão
+                        lavrados, sempre que possível, em um dos livros fiscais exibidos;
+                        quando lavrados em separado deles se entregará, à pessoa
+                        sujeita à fiscalização, cópia autenticada pela autoridade a que
+                        se refere este artigo.
+
+
+
+                        Artigo 197:
+                        Art. 197. Mediante intimação escrita, são obrigados a prestar à
+                        autoridade administrativa todas as informações de que
+                        disponham com relação aos bens, negócios ou atividades de
+                        terceiros:
+
+                        I - os tabeliães, escrivães e demais serventuários de ofício;
+
+                        II - os bancos, casas bancárias, Caixas Econômicas e demais
+                        instituições financeiras;
+
+                        III - as empresas de administração de bens;
+
+                        IV - os corretores, leiloeiros e despachantes oficiais;
+
+                        V - os inventariantes;
+
+                        VI - os síndicos, comissários e liquidatários;
+
+                        VII - quaisquer outras entidades ou pessoas que a lei designe,
+                        em razão de seu cargo, ofício, função, ministério, atividade ou
+                        profissão.
+
+                        Parágrafo único. A obrigação prevista neste artigo não abrange
+                        a prestação de informações quanto a fatos sobre os quais o
+                        informante esteja legalmente obrigado a observar segredo em
+                        razão de cargo, ofício, função, ministério, atividade ou
+                        profissão.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         19
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 198:
+                        Art. 198. Sem prejuízo do disposto na legislação criminal, é
+                        vedada a divulgação, por parte da Fazenda Pública ou de seus
+                        servidores, de informação obtida em razão do ofício sobre a
+                        situação econômica ou financeira do sujeito passivo ou de
+                        terceiros e sobre a natureza e o estado de seus negócios ou
+                        atividades.
+
+                        § 1o Excetuam-se do disposto neste artigo, além dos casos
+                        previstos no art. 199, os seguintes
+
+                        I – requisição de autoridade judiciária no interesse da justiça;
+
+                        II – solicitações de autoridade administrativa no interesse da
+                        Administração          Pública, desde que seja                comprovada   a
+                        instauração regular de processo administrativo, no órgão ou na
+                        entidade respectiva, com o objetivo de investigar o sujeito
+                        passivo a que se refere a informação, por prática de infração
+                        administrativa.
+
+                        § 2o O intercâmbio de informação sigilosa, no âmbito da
+                        Administração Pública, será realizado mediante processo
+                        regularmente instaurado, e a entrega será feita pessoalmente à
+                        autoridade solicitante, mediante recibo, que formalize a
+                        transferência e assegure a preservação do sigilo
+
+                        § 3o Não é vedada a divulgação de informações relativas a:
+
+                        I – representações fiscais para fins penais
+
+                        II – inscrições na Dívida Ativa da Fazenda Pública
+
+                        III – parcelamento ou moratória; e
+
+                        IV - incentivo, renúncia, benefício ou imunidade de natureza
+                        tributária cujo beneficiário seja pessoa jurídica.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                    20
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 199:
+                        Art. 199. A Fazenda Pública da União e as dos Estados, do
+                        Distrito Federal e dos Municípios prestar-se-ão mutuamente
+                        assistência para a fiscalização dos tributos respectivos e
+                        permuta de informações, na forma estabelecida, em caráter
+                        geral ou específico, por lei ou convênio.
+
+                        Parágrafo único. A Fazenda Pública da União, na forma
+                        estabelecida em tratados, acordos ou convênios, poderá
+                        permutar informações com Estados estrangeiros no interesse
+                        da arrecadação e da fiscalização de tributos.
+
+
+
+                        Artigo 200:
+                        Art. 200. As autoridades administrativas federais poderão
+                        requisitar o auxílio da força pública federal, estadual ou
+                        municipal, e reciprocamente, quando vítimas de embaraço ou
+                        desacato no exercício de suas funções, ou quando necessário à
+                        efetivação dê medida prevista na legislação tributária, ainda
+                        que não se configure fato definido em lei como crime ou
+                        contravenção.
+
+
+
+                        Artigo 201:
+                        Art. 201. Constitui dívida ativa tributária a proveniente de
+                        crédito dessa natureza, regularmente inscrita na repartição
+                        administrativa competente, depois de esgotado o prazo fixado,
+                        para pagamento, pela lei ou por decisão final proferida em
+                        processo regular.
+
+                        Parágrafo único. A fluência de juros de mora não exclui, para os
+                        efeitos deste artigo, a liquidez do crédito.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        21
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 202:
+                        Art. 202. O termo de inscrição da dívida ativa, autenticado pela
+                        autoridade competente, indicará obrigatoriamente:
+
+                        I - o nome do devedor e, sendo caso, o dos co-responsáveis,
+                        bem como, sempre que possível, o domicílio ou a residência de
+                        um e de outros;
+
+                        II - a quantia devida e a maneira de calcular os juros de mora
+                        acrescidos;
+
+                        III   -    a    origem       e    natureza        do     crédito,   mencionada
+                        especificamente a disposição da lei em que seja fundado;
+
+                        IV - a data em que foi inscrita;
+
+                        V - sendo caso, o número do processo administrativo de que se
+                        originar o crédito.
+
+                        Parágrafo único. A certidão conterá, além dos requisitos deste
+                        artigo, a indicação do livro e da folha da inscrição.
+
+
+
+
+                        Artigo 203:
+                        Art. 203. A omissão de quaisquer dos requisitos previstos no
+                        artigo anterior, ou o erro a eles relativo, são causas de nulidade
+                        da inscrição e do processo de cobrança dela decorrente, mas a
+                        nulidade poderá ser sanada até a decisão de primeira instância,
+                        mediante substituição da certidão nula, devolvido ao sujeito
+                        passivo, acusado ou interessado o prazo para defesa, que
+                        somente poderá versar sobre a parte modificada.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      22
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 204:
+                        Art. 204. A dívida regularmente inscrita goza da presunção de
+                        certeza e liquidez e tem o efeito de prova pré-constituída.
+
+                        Parágrafo único. A presunção a que se refere este artigo é
+                        relativa e pode ser ilidida por prova inequívoca, a cargo do
+                        sujeito passivo ou do terceiro a que aproveite.
+
+
+
+                        Artigo 205:
+                        Art. 205. A lei poderá exigir que a prova da quitação de
+                        determinado tributo, quando exigível, seja feita por certidão
+                        negativa, expedida à vista de requerimento do interessado, que
+                        contenha todas as informações necessárias à identificação de
+                        sua pessoa, domicílio fiscal e ramo de negócio ou atividade e
+                        indique o período a que se refere o pedido.
+
+                        Parágrafo único. A certidão negativa será sempre expedida nos
+                        termos em que tenha sido requerida e será fornecida dentro de
+                        10 (dez) dias da data da entrada do requerimento na repartição.
+
+
+
+
+                        Artigo 206:
+                        Art. 206. Tem os mesmos efeitos previstos no artigo anterior a
+                        certidão de que conste a existência de créditos não vencidos,
+                        em curso de cobrança executiva em que tenha sido efetivada a
+                        penhora, ou cuja exigibilidade esteja suspensa.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       23
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Artigo 207:
+                        Art. 207. Independentemente de disposição legal permissiva,
+                        será dispensada a prova de quitação de tributos, ou o seu
+                        suprimento, quando se tratar de prática de ato indispensável
+                        para evitar a caducidade de direito, respondendo, porém,
+                        todos os participantes no ato pelo tributo porventura devido,
+                        juros de mora e penalidades cabíveis, exceto as relativas a
+                        infrações cuja responsabilidade seja pessoal ao infrator.
+
+
+
+
+                        Artigo 208:
+                        Art. 208. A certidão negativa expedida com dolo ou fraude, que
+                        contenha erro contra a Fazenda Pública, responsabiliza
+                        pessoalmente o funcionário que a expedir, pelo crédito
+                        tributário e juros de mora acrescidos.
+
+                        Parágrafo único. O disposto neste artigo não exclui a
+                        responsabilidade criminal e funcional que no caso couber.
+
+
+
+
+                                                      Súmulas STJ:
+
+
+                        Súmula STJ 560
+                        A decretação da indisponibilidade de bens e direitos, na forma
+                        do art. 185-A do CTN, pressupõe o exaurimento das diligências
+                        na busca por bens penhoráveis, o qual fica caracterizado
+                        quando infrutíferos o pedido de constrição sobre ativos
+                        financeiros e a expedição de ofícios aos registros públicos do
+                        domicílio do executado, ao Denatran ou Detran.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      24
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Súmula STJ 307
+                        A restituição de adiantamento de contrato de câmbio, na
+                        falência, deve ser atendida antes de qualquer crédito.
+
+
+
+                        Súmula STJ 392
+                        A Fazenda Pública pode substituir a certidão de dívida ativa
+                        (CDA) até a prolação da sentença de embargos, quando se
+                        tratar de correção de erro material ou formal, vedada a
+                        modificação do sujeito passivo da execução.
+
+
+                        Súmula STJ 446
+                        Declarado e não pago o débito tributário pelo contribuinte, é
+                        legítima a recusa de expedição de certidão negativa ou positiva
+                        com efeito de negativa.
+
+
+
+
+                                                      Súmulas STF:
+
+
+
+
+                        Súmula STF 323
+                        É inadmissível a apreensão de mercadorias como meio
+                        coercitivo para pagamento de tributos.
+
+
+
+                        Súmula STF 439
+                        Estão sujeitos à fiscalização tributária ou previdenciária
+                        quaisquer livros comerciais, limitado o exame aos pontos objeto
+                        da investigação.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       25
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                                              Súmulas Vinculantes STF:
+
+
+
+
+                        Súmula Vinculante 24
+                        Não se tipifica crime material contra a ordem tributária, previsto
+                        no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento
+                        definitivo do tributo.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           26
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    4. APOSTA ESTRATÉGICA
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+    Vamos ao conteúdo da nossa aposta?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   27
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    O objetivo desta seção é procurar identificar, por meio de uma amostra de
+    questões de prova, como a Banca cobra o(s) assunto(s), de forma a orientar o
+    estudo dos temas.
+
+
+
+    QUESTÕES FGV
+
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) Sobre as
+    preferências do crédito tributário, assinale a afirmativa correta.
+
+    (A) A concessão de recuperação judicial depende da apresentação da prova
+    de regularidade fiscal.
+
+    (B) O crédito tributário prefere aos créditos com garantia real.
+
+    (C) Os créditos devidos aos sócios e administradores sem vínculo empregatício
+    são considerados créditos extraconcursais.
+
+    (D) A cobrança judicial do crédito tributário está sujeita a concurso de credores
+    ou à habilitação em falência, recuperação judicial, concordata, ao inventário
+    ou arrolamento.
+
+    (E) Na falência, a multa tributária prefere aos créditos decorrentes de serviços
+    prestados à massa falida.
+
+
+
+    Comentários: Esta questão precisa de calma e interpretação. Foi motivo de
+    diversos recursos, por isso vamos analisar à luz do CTN e da visão da banca
+    (lembrem-se que vocês precisam marcar a resposta correta, e não brigar com
+    a banca).
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     28
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa A (Correta): “A concessão de recuperação judicial depende da
+    apresentação da prova de regularidade fiscal.”
+    Vejamos o que diz o CTN:
+
+                        Art. 191-A. A concessão de recuperação judicial depende da
+                        apresentação da prova de quitação de todos os tributos,
+                        observado o disposto nos arts. 151 (versa sobre suspensão do
+                        crédito tributário), 205 (versa sobre Certidão Negativa de Débitos) e
+                        206 (versa sobre Certidão Positiva com Efeitos de Negativa) desta
+                        Lei. (Comentários nossos)
+
+
+
+    A polêmica girou em torno das expressões “regularidade fiscal” e “prova de
+    quitação de todos os tributos”. A FGV considerou a alternativa correta, apesar
+    de sabermos que o sujeito passivo pode ter todos os tributos quitados, e
+    mesmo assim não estar com sua regularidade fiscal em dia (pode ter alguma
+    pendência com obrigações acessórias, por exemplo). Mesmo assim, o gabarito
+    foi mantido como correto, apesar dos recursos. Na hora da prova, devemos
+    analisar as demais alternativa e verificar a “menos errada” ou “mais correta”.
+
+
+    Alternativa B (Incorreta): “O crédito tributário prefere aos créditos com
+    garantia real.”
+    Vejamos o que diz o CTN:
+
+                        Art. 186. O crédito tributário prefere a qualquer outro, seja qual
+                        for sua natureza ou o tempo de sua constituição, ressalvados os
+                        créditos decorrentes da legislação do trabalho ou do acidente
+                        de trabalho.
+
+                        Parágrafo único. Na falência:
+
+                        I – o crédito tributário não prefere aos créditos extraconcursais
+                        ou às importâncias passíveis de restituição, nos termos da lei
+                        falimentar, nem aos créditos com garantia real, no limite do
+                        valor do bem gravado;
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário             29
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    A alternativa B afirma categoricamente que o crédito tributário prefere aos
+    créditos com garantia real. Isso poderia estar correto, mas não devemos nos
+    esquecer do parágrafo único, que versa sobre os casos de falência. Nesses
+    casos, é inegável que o crédito tributário não prefere aos créditos com
+    garantia real. Por isso, não podemos afirmar categoricamente que o crédito
+    tributário prefere aos créditos com garantia real em todas as situações.
+
+
+
+    Alternativa C (Incorreta): “Os créditos devidos aos sócios e administradores
+    sem vínculo empregatício são considerados créditos extraconcursais.”
+    Vejamos o que diz o CTN:
+
+                        Art. 188. São extraconcursais os créditos tributários decorrentes
+                        de fatos geradores ocorridos no curso do processo de falência.
+
+
+
+    Em direito tributário, o que você precisa saber sobre a definição dos créditos
+    extraconcursais está neste artigo. Só com o CTN podemos ver que não
+    podemos afirmar categoricamente que os créditos devidos aos sócios e
+    administradores sem vínculo empregatício são considerados extraconcursais.
+    Devemos saber o momento em que eles foram constituídos (antes ou após da
+    decretação da falência). Por isso a alternativa está incorreta.
+
+
+
+    Alternativa D (Incorreta): “A cobrança judicial do crédito tributário está sujeita
+    a concurso de credores ou à habilitação em falência, recuperação judicial,
+    concordata, ao inventário ou arrolamento.”
+    Vejamos o que diz o CTN:
+
+                        Art. 187. A cobrança judicial do crédito tributário NÃO é sujeita
+                        a concurso de credores ou habilitação em falência, recuperação
+                        judicial, concordata, inventário ou arrolamento.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         30
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa E (Incorreta): “Na falência, a multa tributária prefere aos créditos
+    decorrentes de serviços prestados à massa falida.”
+    Vejamos o que diz o CTN:
+
+
+
+                        Art. 186. Parágrafo único. Na falência:
+
+                        III   –    a    multa      tributária     prefere       apenas   aos   créditos
+                        subordinados.
+
+
+    Novamente, em direito tributário você não precisa entrar no mérito de saber
+    se os créditos decorrentes de serviços prestados à massa falida são
+    subordinados ou não. O que você precisa saber é que a multa tributária
+    prefere apenas aos créditos subordinados.
+
+
+    Gabarito: A
+
+
+
+    2-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) Sobre
+    as garantias e os privilégios do crédito tributário, assinale a afirmativa correta.
+
+
+
+
+    (A) Na falência, o crédito tributário prefere a qualquer outro, seja qual for sua
+    natureza ou o tempo de sua constituição, ressalvados apenas, os créditos
+    extraconcursais ou as importâncias passíveis de restituição, nos termos da lei
+    falimentar, e os créditos com garantia real, no limite do valor do bem gravado.
+
+    (B) Presume-se fraudulenta a alienação ou oneração de bens ou rendas, por
+    sujeito passivo em débito para com a Fazenda Pública, por crédito tributário
+    regularmente inscrito em dívida ativa.
+
+    (C) O juiz pode determinar a indisponibilidade de bens e direitos do executado
+    antes da sua citação, como forma de assegurar a garantia do juízo na execução
+    fiscal.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       31
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (D) A cobrança judicial do crédito tributário está sujeita à habilitação em
+    falência e recuperação judicial.
+
+    (E) Na falência, a multa tributária prefere apenas aos créditos subordinados e
+    quirografários.
+
+
+
+    Comentários:
+    Alternativa A (Incorreta): “Na falência, o crédito tributário prefere a qualquer
+    outro, seja qual for sua natureza ou o tempo de sua constituição, ressalvados
+    apenas, os créditos extraconcursais ou as importâncias passíveis de restituição,
+    nos termos da lei falimentar, e os créditos com garantia real, no limite do valor
+    do bem gravado.”
+    Segundo o CTN:
+
+
+
+                        Art. 186. O crédito tributário prefere a qualquer outro, seja qual
+                        for sua natureza ou o tempo de sua constituição, ressalvados os
+                        créditos decorrentes da legislação do trabalho ou do acidente
+                        de trabalho.
+
+                        Parágrafo único. Na falência:
+
+                        I – o crédito tributário não prefere aos créditos extraconcursais
+                        ou às importâncias passíveis de restituição, nos termos da lei
+                        falimentar, nem aos créditos com garantia real, no limite do
+                        valor do bem gravado;
+
+
+
+    Portanto, na falência, o crédito tributário não prefere, além dos créditos
+    decorrentes da legislação do trabalho ou do acidente de trabalho, aos créditos
+    extraconcursais ou às importâncias passíveis de restituição, nos termos da lei
+    falimentar, nem aos créditos com garantia real, no limite do valor do bem
+    gravado.
+
+    Desta forma, faltou o examinador citar os Créditos derivados da Legislação do
+    Trabalho e decorrentes de Acidente de Trabalho.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          32
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa B (Correta): “Presume-se fraudulenta a alienação ou oneração de
+    bens ou rendas, por sujeito passivo em débito para com a Fazenda Pública,
+    por crédito tributário regularmente inscrito em dívida ativa.”
+    É a literalidade do Art. 185 do CTN. Vejamos:
+
+                        Art. 185. Presume-se fraudulenta a alienação ou oneração de
+                        bens ou rendas, ou seu começo, por sujeito passivo em débito
+                        para      com      a    Fazenda        Pública,       por     crédito   tributário
+                        regularmente inscrito como dívida ativa.
+
+                        Parágrafo único. O disposto neste artigo não se aplica na
+                        hipótese de terem sido reservados, pelo devedor, bens ou
+                        rendas suficientes ao total pagamento da dívida inscrita.
+
+    Vejam que é uma presunção objetiva que não considera a intenção do devedor
+    em fraudar a Fazenda. Constatada a alienação ou oneração de bens, ou seu
+    começo, sem deixar saldo suficiente para o pagamento do crédito inscrito em
+    dívida ativa, a presunção será absoluta (conforme doutrina majoritária).
+
+
+
+    Alternativa C (Incorreta): “O juiz pode determinar a indisponibilidade de bens
+    e direitos do executado antes da sua citação, como forma de assegurar a
+    garantia do juízo na execução fiscal.”
+    Vejamos o que diz o CTN:
+
+                        Art. 185-A. Na hipótese de o devedor tributário, devidamente
+                        citado, não pagar nem apresentar bens à penhora no prazo
+                        legal e não forem encontrados bens penhoráveis, o juiz
+                        determinará a indisponibilidade de seus bens e direitos,
+                        comunicando a decisão, preferencialmente por meio eletrônico,
+                        aos     órgãos         e entidades         que promovem registros              de
+                        transferência de bens, especialmente ao registro público de
+                        imóveis e às autoridades supervisoras do mercado bancário e
+                        do mercado de capitais, a fim de que, no âmbito de suas
+                        atribuições, façam cumprir a ordem judicial.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                          33
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Vejam que primeiro deve ocorrer a citação do devedor para depois, no caso
+    de ele não apresentar bens à penhora no prazo legal e não forem encontrados
+    bens penhoráveis, o juiz determinar a indisponibilidade de seus bens e
+    direitos.
+
+
+
+    Alternativa D (Incorreta): “A cobrança judicial do crédito tributário está sujeita
+    à habilitação em falência e recuperação judicial.”
+    Vejamos o que diz o CTN:
+
+
+
+                        Art. 187. A cobrança judicial do crédito tributário não é sujeita
+                        a concurso de credores ou habilitação em falência, recuperação
+                        judicial, concordata, inventário ou arrolamento.
+
+
+
+    Portanto, regra geral, a cobrança judicial do crédito tributário não é sujeita a
+    concurso de credores ou habilitação em falência, recuperação judicial,
+    concordata, inventário ou arrolamento.
+
+
+
+    Alternativa E (Incorreta): “Na falência, a multa tributária prefere apenas aos
+    créditos subordinados e quirografários.”
+
+
+
+                        CTN. Art. 186. Parágrafo único. Na falência:
+
+                        III   –    a    multa      tributária     prefere       apenas   aos   créditos
+                        subordinados.
+
+
+
+    Gabarito: B
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       34
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    3-) (FGV - Agente Fazendário - Niterói/2015) Nos termos previstos no Código
+    Tributário Nacional, em relação aos créditos tributários decorrentes de fatos
+    geradores ocorridos no curso do processo de falência, é correto afirmar que:
+
+
+
+    (A) o art. 188 do CTN, após a entrada em vigor da Lei Complementar nº
+    118/2005, passou a prever que os créditos tributários vencidos ou vincendos
+    serão pagos preferencialmente a quaisquer outros, como encargos da massa
+    falida;
+
+    (B) pela nova redação do art. 188 do CTN os créditos tributários que surgirem
+    de fatos geradores no curso do processo falimentar não devem ser satisfeitos
+    diretamente pela massa falida;
+
+    (C) os créditos tributários oriundos de fatos geradores ocorridos no curso do
+    processo falimentar, nos termos do art. 188 do CTN, após a entrada em vigor
+    da     Lei    Complementar            nº    118/2005,        preferem        apenas   os   créditos
+    quirografários;
+
+    (D) o art. 188 do CTN passou, após a entrada em vigor da Lei Complementar
+    nº 118/2005, a considerar extraconcursais os créditos tributários decorrentes
+    de fatos geradores ocorridos no curso do processo falimentar;
+
+    (E) contestado o crédito tributário, deverá o juízo falimentar decidir sobre o
+    incidente, mandando reservar bens suficientes à extinção total do crédito e
+    seus acrescidos, se a massa não puder efetuar a garantia de instância por outra
+    forma, ouvido, quanto à natureza e valor dos bens reservados, o representante
+    da Fazenda Pública interessada.
+
+
+    Comentários: Devemos ter em mente que a questão está pedindo que
+    analisemos o que ocorre com os créditos tributários decorrentes de Fatos
+    Geradores ocorridos no curso do processo de falência.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       35
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa A (Incorreta): “o art. 188 do CTN, após a entrada em vigor da Lei
+    Complementar nº 118/2005, passou a prever que os créditos tributários
+    vencidos ou vincendos serão pagos preferencialmente a quaisquer outros,
+    como encargos da massa falida;”
+    Sabemos que, no curso do processo de falência, preferem ao crédito
+    tributário, nesta ordem:
+
+    1º) Importâncias Passíveis de Restituição;
+
+    2º) Créditos Extraconcursais (tributários ou não);
+
+    3º) Créditos derivados da legislação do trabalho e decorrentes de acidente de
+    trabalho (Limite p/ créd. Leg. Trab.: 150 salários mínimos);
+
+    4º) Créditos com garantia real (Até o limite do bem gravado);
+
+
+
+    Alternativa B (Incorreta): “pela nova redação do art. 188 do CTN os créditos
+    tributários que surgirem de fatos geradores no curso do processo falimentar
+    não devem ser satisfeitos diretamente pela massa falida;
+    É exatamente o oposto disso. Segundo o CTN:
+
+                        Art. 188. São extraconcursais os créditos tributários decorrentes
+                        de fatos geradores ocorridos no curso do processo de falência.
+                        (Redação dada pela Lcp nº 118, de 2005)
+
+                        § 1º Contestado o crédito tributário, o juiz remeterá as partes
+                        ao processo competente, mandando reservar bens suficientes
+                        à extinção total do crédito e seus acrescidos, se a massa não
+                        puder efetuar a garantia da instância por outra forma, ouvido,
+                        quanto à natureza e valor dos bens reservados, o representante
+                        da Fazenda Pública interessada.
+
+                        § 2º O disposto neste artigo aplica-se aos processos de
+                        concordata.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         36
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa C (Incorreta): “os créditos tributários oriundos de fatos geradores
+    ocorridos no curso do processo falimentar, nos termos do art. 188 do CTN,
+    após a entrada em vigor da Lei Complementar nº 118/2005, preferem apenas
+    os créditos quirografários;”
+    No curso do processo de falência, os créditos tributários têm preferência
+    sobre, nesta ordem:
+
+          • Créditos quirografários;
+          • Multas contratuais, penas pecuniárias por                                 infração   penal   ou
+            administrativa, inclusive as multas tributárias;
+          • Créditos subordinados;
+
+    Ou seja, os créditos tributários preferem a outros créditos, além dos
+    quirografários.
+
+
+    Alternativa D (Correta): “o art. 188 do CTN passou, após a entrada em vigor
+    da Lei Complementar nº 118/2005, a considerar extraconcursais os créditos
+    tributários decorrentes de fatos geradores ocorridos no curso do processo
+    falimentar;”
+    Perfeito. Segundo o CTN:
+
+                        Art. 188. São extraconcursais os créditos tributários decorrentes
+                        de fatos geradores ocorridos no curso do processo de falência.
+                        (Redação dada pela Lcp nº 118, de 2005)
+
+
+
+    Alternativa E (Incorreta): “contestado o crédito tributário, deverá o juízo
+    falimentar decidir sobre o incidente, mandando reservar bens suficientes à
+    extinção total do crédito e seus acrescidos, se a massa não puder efetuar a
+    garantia de instância por outra forma, ouvido, quanto à natureza e valor dos
+    bens reservados, o representante da Fazenda Pública interessada.”
+    Nada disso. Segundo o CTN:
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                           37
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Art. 188. § 1º Contestado o crédito tributário, o juiz remeterá
+                        as partes ao processo competente, mandando reservar bens
+                        suficientes à extinção total do crédito e seus acrescidos, se a
+                        massa não puder efetuar a garantia da instância por outra
+                        forma, ouvido, quanto à natureza e valor dos bens reservados,
+                        o representante da Fazenda Pública interessada.
+
+
+
+    O juízo falimentar é incompetente para decidir sobre a contestação do crédito
+    tributário.
+
+
+    Gabarito: D
+
+
+
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) Determinado contribuinte do
+    IPTU não pagou o tributo relativo ao seu único imóvel residencial nos últimos
+    quatro anos e vem a sofrer a execução fiscal para cobrança do imposto. Nesse
+    caso:
+
+    (A) o imóvel residencial não pode responder pela dívida do IPTU por ser bem
+    de família;
+
+    (B) todos os bens e rendas do contribuinte, sem comportar exceções,
+    respondem pelo pagamento de todo crédito de natureza tributária;
+
+    (C) o único imóvel residencial poderá ser penhorado para satisfação do crédito
+    tributário de IPTU;
+
+    (D) bens gravados por ônus real ou por cláusulas de inalienabilidade não
+    podem ser alcançados para satisfação do crédito tributário;
+
+    (E) todos os bens móveis do contribuinte, sem comportar exceções,
+    respondem pelo pagamento de todo crédito de natureza tributária.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       38
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Comentários: Vejamos o que diz o CTN acerca das preferências do crédito
+    tributário.
+
+
+    Alternativa A (Incorreta): “o imóvel residencial não pode responder pela dívida
+    do IPTU por ser bem de família;”
+    Vejamos:
+
+                        CTN. Art. 184. Sem prejuízo dos privilégios especiais sobre
+                        determinados bens, que sejam previstos em lei, responde pelo
+                        pagamento do crédito tributário a totalidade dos bens e das
+                        rendas, de qualquer origem ou natureza, do sujeito passivo, seu
+                        espólio ou sua massa falida, inclusive os gravados por ônus real
+                        ou cláusula de inalienabilidade ou impenhorabilidade, seja qual
+                        for a data da constituição do ônus ou da cláusula, excetuados
+                        unicamente os bens e rendas que a lei declare absolutamente
+                        impenhoráveis.
+
+
+
+    Destaque-se que até mesmo o bem de família é penhorável para cobrança de
+    tributos, desde que relativos ao próprio bem imóvel familiar. É o que nos traz
+    a Lei 8.009/1990, art. 3º, IV:
+
+                        Art. 3º. A impenhorabilidade é oponível em qualquer processo
+                        de execução civil, fiscal, previdenciária, trabalhista ou de outra
+                        natureza, salvo se movido:
+
+                        IV - para cobrança de impostos, predial ou territorial, taxas e
+                        contribuições devidas em função do imóvel familiar;
+
+
+
+    Alternativa B (Incorreta): “todos os bens e rendas do contribuinte, sem
+    comportar exceções, respondem pelo pagamento de todo crédito de natureza
+    tributária;”
+    Acabamos de ver o Art. 184 do CTN excetua “unicamente os bens e rendas
+    que a lei declare absolutamente impenhoráveis”.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          39
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa C (Correta): “o único imóvel residencial poderá ser penhorado para
+    satisfação do crédito tributário de IPTU;”
+    Perfeito. Se é PARA satisfação do crédito tributário de IPTU pode sim,
+    conforme vimos no art. 3º, IV da Lei 8.009/1990.
+
+
+
+    Alternativa D (Incorreta): “bens gravados por ônus real ou por cláusulas de
+    inalienabilidade não podem ser alcançados para satisfação do crédito
+    tributário;”
+    Nada disso. O CTN diz que apenas os ABSOLUTAMENTE impenhoráveis não
+    podem ser alcançados para satisfação do crédito tributário.
+
+
+
+    Alternativa E (Incorreta): “todos os bens móveis do contribuinte, sem
+    comportar exceções, respondem pelo pagamento de todo crédito de natureza
+    tributária.”
+    Acabamos de ver o Art. 184 do CTN excetua “unicamente os bens e rendas
+    que a lei declare absolutamente impenhoráveis”.
+
+
+
+    Gabarito: C
+
+
+
+
+    5-) (FGV - Fiscal de Tributos - Niterói/2015) Nos termos do Código Tributário
+    Nacional, “a legislação tributária, observado o disposto nesta Lei, regulará, em
+    caráter geral, ou especificamente em função da natureza do tributo de que se
+    tratar, a competência e os poderes das autoridades administrativas em matéria
+    de fiscalização da sua aplicação”. Assim, a legislação mencionada será
+    aplicada:
+
+    (A) a pessoas naturais ou jurídicas não imunes, mesmo que isentas ou as que
+    não sejam tributadas por força de norma infraconstitucional;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    40
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (B) a pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem
+    de imunidade tributária ou de isenção de caráter pessoal;
+
+    (C) a pessoas naturais ou, quando se trate de pessoa jurídica, a seus diretores
+    ou representantes legais;
+
+    (D) a pessoas jurídicas que sejam contribuintes ou responsáveis por tributos
+    em geral ou pelo tributo específico a que se refira;
+
+    (E) a pessoas naturais ou jurídicas que sejam contribuintes do imposto a que
+    alude a norma respectiva.
+
+
+
+    Comentários: Vejamos o que nos traz o CTN:
+                        Art. 194. A legislação tributária, observado o disposto nesta Lei,
+                        regulará, em caráter geral, ou especificamente em função da
+                        natureza do tributo de que se tratar, a competência e os
+                        poderes das autoridades administrativas em matéria de
+                        fiscalização da sua aplicação.
+
+                        Parágrafo único. A legislação a que se refere este artigo aplica-
+                        se às pessoas naturais ou jurídicas, contribuintes ou não,
+                        inclusive às que gozem de imunidade tributária ou de isenção
+                        de caráter pessoal.
+
+
+
+    Alternativa A (Incorreta): “a pessoas naturais ou jurídicas não imunes, mesmo
+    que isentas ou as que não sejam tributadas por força de norma
+    infraconstitucional;”
+    Neste caso devemos procurar a alternativa mais completa. É verdade que a
+    legislação tributária se aplica às pessoas citadas, mas não somente a elas.
+
+
+    Alternativa B (Correta): “a pessoas naturais ou jurídicas, contribuintes ou não,
+    inclusive às que gozem de imunidade tributária ou de isenção de caráter
+    pessoal;”
+    Perfeito. É a literalidade do Art. 194, § único.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          41
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa C (Incorreta): “a pessoas naturais ou, quando se trate de pessoa
+    jurídica, a seus diretores ou representantes legais;”
+    A questão quis confundir o candidato. Mesmo no caso de pessoa jurídica, a
+    legislação tributária é aplicável à própria pessoa jurídica e não aos seus
+    diretores ou representantes legais.
+
+
+    Alternativa D (Incorreta): “a pessoas jurídicas que sejam contribuintes ou
+    responsáveis por tributos em geral ou pelo tributo específico a que se refira;”
+    Devemos procurar a alternativa mais completa. É verdade que a legislação
+    tributária se aplica às pessoas citadas, mas não somente a elas.
+
+
+    Alternativa E (Incorreta): “a pessoas naturais ou jurídicas que sejam
+    contribuintes do imposto a que alude a norma respectiva.”
+    Devemos procurar a alternativa mais completa. É verdade que a legislação
+    tributária se aplica às pessoas citadas, mas não somente a elas.
+
+
+
+    Gabarito: B
+
+
+
+
+    6-) (FGV - Auditor do Tesouro Municipal - Recife/2014) Com referência à
+    fiscalização tributária, assinale a afirmativa correta.
+
+    (A) A autoridade administrativa pode requisitar força pública durante atividade
+    fiscalizadora, mesmo que não tenha ocorrido fato definido em lei como crime.
+
+    (B) O contribuinte deve conservar os livros e registros obrigatórios e
+    facultativos da escrituração comercial e fiscal durante o prazo decadencial,
+    para constituir o crédito tributário.
+
+    (C) A autoridade administrativa pode examinar integralmente quaisquer livros,
+    arquivos e registros dos contribuintes.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   42
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (D) O termo de fiscalização integra o lançamento fiscal e constitui a data
+    inaugural do prazo decadencial para a constituição do crédito fiscal.
+
+    (E) Apenas a lei stricto sensu poderá autorizar permuta de informações e
+    assistência recíproca entre as fazendas públicas.
+
+
+
+    Comentários: Vamos analisar as alternativas.
+
+
+    Alternativa A (Correta): “A autoridade administrativa pode requisitar força
+    pública durante atividade fiscalizadora, mesmo que não tenha ocorrido fato
+    definido em lei como crime.”
+    Está de acordo com o CTN:
+
+                        Art. 200. As autoridades administrativas federais poderão
+                        requisitar o auxílio da força pública federal, estadual ou
+                        municipal, e reciprocamente, quando vítimas de embaraço ou
+                        desacato no exercício de suas funções, ou quando necessário à
+                        efetivação dê medida prevista na legislação tributária, ainda
+                        que não se configure fato definido em lei como crime ou
+                        contravenção.
+
+
+
+    Alternativa B (Incorreta): “O contribuinte deve conservar os livros e registros
+    obrigatórios e facultativos da escrituração comercial e fiscal durante o prazo
+    decadencial, para constituir o crédito tributário.”
+    O prazo é o prescricional e não o decadencial.
+
+                        CTN. Art. 195. Para os efeitos da legislação tributária, não têm
+                        aplicação        quaisquer        disposições        legais   excludentes   ou
+                        limitativas do direito de examinar mercadorias, livros, arquivos,
+                        documentos, papéis e efeitos comerciais ou fiscais, dos
+                        comerciantes industriais ou produtores, ou da obrigação destes
+                        de exibi-los.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      43
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Parágrafo único. Os livros obrigatórios de escrituração
+                        comercial e fiscal e os comprovantes dos lançamentos neles
+                        efetuados serão conservados até que ocorra a prescrição dos
+                        créditos tributários decorrentes das operações a que se refiram.
+
+
+
+    Alternativa C (Incorreta): “A autoridade administrativa pode examinar
+    integralmente quaisquer livros, arquivos e registros dos contribuintes.”
+    Não é bem assim. Vejamos a Súmula 439 do STF.
+
+                        Súmula        439: Estão       sujeitos      à    fiscalização   tributária   ou
+                        previdenciária quaisquer livros comerciais, limitado o exame aos
+                        pontos objeto da investigação.
+
+
+
+    Alternativa D (Incorreta): “O termo de fiscalização integra o lançamento fiscal
+    e constitui a data inaugural do prazo decadencial para a constituição do
+    crédito fiscal.”
+                        Art. 173. O direito de a Fazenda Pública constituir o crédito
+                        tributário extingue-se após 5 (cinco) anos, contados:
+
+                        I - do primeiro dia do exercício seguinte àquele em que o
+                        lançamento poderia ter sido efetuado;
+
+                        II - da data em que se tornar definitiva a decisão que houver
+                        anulado, por vício formal, o lançamento anteriormente
+                        efetuado.
+
+                        Parágrafo único. O direito a que se refere este artigo extingue-
+                        se definitivamente com o decurso do prazo nele previsto,
+                        contado da data em que tenha sido iniciada a constituição do
+                        crédito tributário pela notificação, ao sujeito passivo, de
+                        qualquer medida preparatória indispensável ao lançamento.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                        44
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    A data inaugural do prazo decadencial para a constituição do crédito fiscal
+    pode ser o primeiro dia do exercício seguinte àquele em que o lançamento
+    poderia ter sido efetuado; a data em que se tornar definitiva a decisão que
+    houver anulado, por vício formal, o lançamento anteriormente efetuado OU
+    no caso de haver alguma medida preparatória indispensável ao lançamento
+    antes disso, conta-se da data em que tenha sido iniciada a constituição do
+    crédito tributário pela notificação.
+
+
+    Alternativa E (Incorreta): “Apenas a lei stricto sensu poderá autorizar permuta
+    de informações e assistência recíproca entre as fazendas públicas.”
+    Vejamos o que diz o CTN a respeito:
+
+
+                        Art. 199. A Fazenda Pública da União e as dos Estados, do
+                        Distrito Federal e dos Municípios prestar-se-ão mutuamente
+                        assistência para a fiscalização dos tributos respectivos e
+                        permuta de informações, na forma estabelecida, em caráter
+                        geral ou específico, por lei ou convênio.
+
+    Portanto, os convênios firmados entre as Fazendas também podem autorizar
+    permuta de informações e assistência recíproca entre as fazendas públicas.
+
+
+    Gabarito: A
+
+
+
+
+    7-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) Assinale a
+    afirmativa incorreta.
+
+
+    (A) O Código Tributário Nacional, no artigo 195, nega aplicação às disposições
+    legais excludentes ou limitativas do direito de examinar os livros comerciais do
+    contribuinte.
+
+    (B) A fiscalização tem o seu poder limitado, dentre outras, por força de
+    questões funcionais e territoriais.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    45
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (C) O sigilo de correspondência não pode ser invocado pelo contribuinte em
+    sua defesa, uma vez que este direito poderá ser afastado no exercício da
+    fiscalização pelas autoridades administrativas, mesmo sem haver autorização
+    judicial.
+
+    (D) O Supremo Tribunal Federal já pacificou o entendimento no sentido de
+    não ser possível a interdição de estabelecimento como meio coercitivo de
+    cobrança de tributo.
+
+    (E) Não se admite, segundo entendimento consagrado no Supremo Tribunal
+    Federal, a apreensão de mercadorias como meio coercitivo para pagamento
+    de tributos.
+
+
+
+    Comentários: Queremos a alternativa INCORRETA!
+
+
+    Alternativa A (Correta): “O Código Tributário Nacional, no artigo 195, nega
+    aplicação às disposições legais excludentes ou limitativas do direito de
+    examinar os livros comerciais do contribuinte.”
+    Vejamos o que diz o CTN:
+
+
+
+                        CTN. Art. 195. Para os efeitos da legislação tributária, não têm
+                        aplicação        quaisquer        disposições        legais   excludentes   ou
+                        limitativas do direito de examinar mercadorias, livros, arquivos,
+                        documentos, papéis e efeitos comerciais ou fiscais, dos
+                        comerciantes industriais ou produtores, ou da obrigação destes
+                        de exibi-los.
+
+
+
+    Isto quer dizer que a lei não pode limitar ou excluir o direito de examinar
+    mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou
+    fiscais, dos comerciantes industriais ou produtores, ou da obrigação destes de
+    exibi-los. Caso seja editada uma lei nesse sentido, ela não terá aplicação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      46
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Alternativa B (Correta): “A fiscalização tem o seu poder limitado, dentre
+    outras, por força de questões funcionais e territoriais.”
+    Sim, está correto. Imagine um Auditor Fiscal do ISS de São Paulo querendo
+    fiscalizar o ICMS do Acre. Isto não será possível devido, dentre outros motivos,
+    por força de questões funcionais e territoriais.
+
+
+
+    Alternativa C (Incorreta): “O sigilo de correspondência não pode ser invocado
+    pelo contribuinte em sua defesa, uma vez que este direito poderá ser afastado
+    no exercício da fiscalização pelas autoridades administrativas, mesmo sem
+    haver autorização judicial.”
+    Lembre-se que estamos procurando a incorreta, portanto este é o nosso
+    gabarito.
+
+    O art. 5º, inc. XII, da CF/88, estabelece que:
+
+
+
+                        XII - é inviolável o sigilo da correspondência e das comunicações
+                        telegráficas, de dados e das comunicações telefônicas, salvo, no
+                        último caso, por ordem judicial, nas hipóteses e na forma que a
+                        lei estabelecer para fins de investigação criminal ou instrução
+                        processual penal;           (Vide Lei nº 9.296, de 1996)
+
+
+
+    Não é nosso escopo entrar nos meandros do Direito Constitucional, mas
+    podemos perceber que o sigilo da correspondência é inviolável, não podendo
+    ser quebrado por autoridades administrativas.
+
+
+
+    Alternativa D (Correta): “O Supremo Tribunal Federal já pacificou o
+    entendimento no sentido de não ser possível a interdição de estabelecimento
+    como meio coercitivo de cobrança de tributo.”
+    Perfeito. Está de acordo com a Súmula 70 do STF.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         47
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Súmula 70: É inadmissível a interdição de estabelecimento
+                        como meio coercitivo para cobrança de tributo.
+
+
+
+    Alternativa E (Correta): “Não se admite, segundo entendimento consagrado
+    no Supremo Tribunal Federal, a apreensão de mercadorias como meio
+    coercitivo para pagamento de tributos.
+    Perfeito. Está de acordo com a Súmula 323 do STF.
+
+
+
+                        Súmula 323: É inadmissível a apreensão de mercadorias como
+                        meio coercitivo para pagamento de tributos.
+
+
+
+    Gabarito: C
+
+
+
+
+    8-) (FGV - Técnico Tributário - SEFIN RO/2018) Analise as hipóteses a seguir,
+    e assinale (V) para a verdadeira e (F) para a falsa.
+
+
+    ( ) Constitui dívida ativa tributária todo crédito da Fazenda Pública que tiver
+    sido inscrito em repartição administrativa competente, esgotado o prazo em
+    lei para pagamento.
+
+
+    ( ) Certidão da Dívida Ativa é o título que habilita o Fisco a ingressar com a
+    execução fiscal, contemplando valor líquido e certo, incabível sua alteração
+    após iniciado o processo executivo.
+
+
+    ( ) A Fazenda Pública pode substituir a certidão de dívida ativa até a decisão
+    de 1ª instância, quando se tratar de correção de erro material ou formal,
+    vedada a modificação do sujeito passivo da execução.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   48
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Na sequência em que aparecem, as afirmativas são, respectivamente,
+
+    (A) F – F – V.                                             (D) V – F – V.
+
+    (B) V – V – F.                                             (E) V – F – F.
+
+    (C) F – V – F.
+
+
+    Comentários: Vamos analisar assertiva por assertiva.
+    Assertiva I (Incorreta): “Constitui dívida ativa tributária todo crédito da
+    Fazenda Pública que tiver sido inscrito em repartição administrativa
+    competente, esgotado o prazo em lei para pagamento.”
+    Olha a casca de banana. Vamos ver o que o CTN define:
+
+                        Art. 201. Constitui dívida ativa tributária a proveniente de
+                        crédito dessa natureza, regularmente inscrita na repartição
+                        administrativa competente, depois de esgotado o prazo fixado,
+                        para pagamento, pela lei ou por decisão final proferida em
+                        processo regular.
+
+
+    Vejam que não podemos dizer que é dívida ativa TRIBUTÁRIA todo crédito da
+    Fazenda Pública que tiver sido inscrito em repartição administrativa
+    competente, mas somente os créditos DESSA NATUREZA (tributária).
+
+
+    Assertiva II (Incorreta): “Certidão da Dívida Ativa é o título que habilita o Fisco
+    a ingressar com a execução fiscal, contemplando valor líquido e certo,
+    incabível sua alteração após iniciado o processo executivo.”
+                        CTN. Art. 203. A omissão de quaisquer dos requisitos previstos
+                        no artigo anterior (que versa sobre o termo de inscrição da
+                        dívida ativa), ou o erro a eles relativo, são causas de nulidade
+                        da inscrição e do processo de cobrança dela decorrente, mas a
+                        nulidade poderá ser sanada até a decisão de primeira instância,
+                        mediante substituição da certidão nula, devolvido ao sujeito
+                        passivo, acusado ou interessado o prazo para defesa, que
+                        somente poderá versar sobre a parte modificada.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        49
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Após a inscrição em dívida ativa, a Fazenda Pública pode ajuizar a ação
+    de execução fiscal. Caso seja admitida a ação, o juiz realizará o despacho que
+    ordenará a citação do devedor para pagar o valor devido ou garantir a
+    execução.
+
+    No caso de o sujeito passivo não reconhecer a dívida, ele pode interpor
+    embargos à execução.
+
+    Até o momento em que seja realizado o julgamento em primeira instância dos
+    embargos interpostos, a Fazenda pode substituir a CDA nula.
+
+
+    Assertiva III (Correta): “A Fazenda Pública pode substituir a certidão de dívida
+    ativa até a decisão de 1ª instância, quando se tratar de correção de erro
+    material ou formal, vedada a modificação do sujeito passivo da execução.”
+    Este é o teor da Súmula 392 do STJ. Vejamos:
+
+                        Súmula STJ 392 - A Fazenda Pública pode substituir a certidão
+                        de dívida ativa (CDA) até a prolação da sentença de embargos,
+                        quando se tratar de correção de erro material ou formal, vedada
+                        a modificação do sujeito passivo da execução.
+
+
+
+    Gabarito: A
+
+
+
+
+    9-) (FGV - Fiscal de Tributos - Niterói/2015) Para a validade da Certidão da
+    Dívida Ativa, NÃO é essencial:
+
+    (A) a data da inscrição;
+
+    (B) a origem, a natureza e o fundamento legal ou contratual da dívida;
+
+    (C) a autenticação da autoridade competente;
+
+    (D) o domicílio ou residência do devedor;
+
+    (E) a indicação do livro e da folha da inscrição.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       50
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Comentários: A questão pede uma alternativa NÃO essencial. Vejamos o que
+    nos diz o CTN:
+                        Art. 202. O termo de inscrição da dívida ativa, autenticado pela
+                        autoridade competente, indicará obrigatoriamente:
+
+                        I - o nome do devedor e, sendo caso, o dos co-responsáveis,
+                        bem como, sempre que possível, o domicílio ou a residência de
+                        um e de outros;
+
+                        II - a quantia devida e a maneira de calcular os juros de mora
+                        acrescidos;
+
+                        III   -    a    origem       e    natureza        do     crédito,   mencionada
+                        especificamente a disposição da lei em que seja fundado;
+
+                        IV - a data em que foi inscrita;
+
+                        V - sendo caso, o número do processo administrativo de que se
+                        originar o crédito.
+
+                        Parágrafo único. A certidão conterá, além dos requisitos deste
+                        artigo, a indicação do livro e da folha da inscrição.
+
+
+
+    Alternativa A (Incorreta): “a data da inscrição;”
+    De acordo com o Art. 202 do CTN, o termo de inscrição deverá indicar a data
+    de inscrição, obrigatoriamente.
+
+
+
+    Alternativa B (Incorreta): “a origem, a natureza e o fundamento legal ou
+    contratual da dívida;”
+    De acordo com o Art. 202 do CTN, inciso III, devemos ter obrigatoriamente a
+    origem e a natureza do crédito no termo de inscrição. Mas de onde vem que
+    devemos ter também o fundamento legal ou contratual da dívida? Olha que
+    maldade do examinador. De acordo com a Lei 6.830/80 (que dispõe sobre a
+    cobrança judicial da Dívida Ativa da Fazenda Pública), temos que:
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      51
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        Art. 2º, § 5º - O Termo de Inscrição de Dívida Ativa deverá
+                        conter:
+
+                        III - a origem, a natureza e o fundamento legal ou contratual da
+                        dívida;
+
+
+
+    Portanto estes itens são essenciais para o termo de inscrição da dívida ativa.
+
+
+    Alternativa C (Incorreta): “a autenticação da autoridade competente;”
+    De acordo com o Art. 202 do CTN, o termo de inscrição deverá indicar a
+    autoridade competente, obrigatoriamente.
+
+
+    Alternativa D (Correta): “o domicílio ou residência do devedor;”
+    De acordo com o Art. 202 do CTN, o domicílio ou residência do devedor
+    somente deverá ser indicado no termo de inscrição SE ISSO FOR POSSÍVEL.
+    Logo, NÃO é essencial para a validade da Certidão da Dívida Ativa.
+
+
+
+    Alternativa E (Incorreta): “a indicação do livro e da folha da inscrição.”
+    De acordo com o Art. 202 do CTN, § único, o termo de inscrição deverá indicar
+    a indicação do livro e da folha da inscrição, obrigatoriamente.
+
+
+
+                        Parágrafo único. A certidão conterá, além dos requisitos deste
+                        artigo, a indicação do livro e da folha da inscrição.
+
+
+
+    Gabarito: D
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        52
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    10-) (FGV - Auditor do Tesouro Municipal - Recife/2014) Sobre crédito
+    tributário, analise as afirmativas a seguir.
+
+
+
+    I. A inscrição do crédito tributário é decorrente da dívida ativa.
+
+    II. Todo crédito tributário é dívida ativa tributária.
+
+    III. A inscrição gera presunção de certeza e liquidez do crédito tributário.
+
+    IV. A maneira de calcular juros de mora é requisito formal para inscrição na
+    dívida ativa.
+
+
+
+    Assinale:
+
+    (A) se somente as afirmativas I e III estiverem corretas.
+
+    (B) se somente as afirmativas II e III estiverem corretas.
+
+    (C) se somente as afirmativas III e IV estiverem corretas.
+
+    (D) se somente as afirmativas II e IV estiverem corretas.
+
+    (E) se somente as afirmativas I e IV estiverem corretas.
+
+
+
+    Comentários: Vamos analisar cada assertiva.
+
+
+    Assertiva I (Incorreta): “A inscrição do crédito tributário é decorrente da dívida
+    ativa.”
+    É o contrário. A dívida ativa tributária decorre do não pagamento do crédito
+    tributário.
+
+
+    Assertiva II (Incorreta): “Todo crédito tributário é dívida ativa tributária.”
+    Somente o crédito tributário não pago e regularmente inscrito na repartição
+    administrativa competente constituirá dívida ativa tributária.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      53
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Assertiva III (Correta): “A inscrição gera presunção de certeza e liquidez do
+    crédito tributário.”
+    Está de acordo com o CTN:
+
+
+
+                        Art. 204. A dívida regularmente inscrita goza da presunção de
+                        certeza e liquidez e tem o efeito de prova pré-constituída.
+
+
+
+    Lembrando que esta não é uma presunção absoluta e sim relativa, admitindo
+    prova em contrário do sujeito passivo.
+
+
+
+    Assertiva IV (Correta): “A maneira de calcular juros de mora é requisito formal
+    para inscrição na dívida ativa.”
+    Está de acordo com o CTN:
+
+
+                        Art. 202. O termo de inscrição da dívida ativa, autenticado pela
+                        autoridade competente, indicará obrigatoriamente:
+
+                        II - a quantia devida e a maneira de calcular os juros de mora
+                        acrescidos;
+
+
+
+    Este é um dos requisitos formais para o termo de inscrição da dívida ativa.
+
+
+    Gabarito: C
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        54
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    11-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) Com relação
+    à dívida ativa, analise as afirmativas a seguir.
+
+
+
+    I. O lançamento regularmente notificado ao contribuinte, porque dotado de
+    exigibilidade, constitui dívida ativa tributária.
+
+    II. A certidão de dívida ativa poderá ser emendada ou substituída até a decisão
+    de primeira instância judicial, assegurada ao executado a devolução do prazo
+    para embargos.
+
+    III. A certidão negativa de débito expedida com dolo ou fraude, que contenha
+    erro contra a Fazenda Pública, responsabiliza pessoalmente o funcionário que
+    a expedir, pelo crédito tributário e juros de mora.
+
+
+
+    Assinale:
+
+
+
+    (A) se somente as afirmativas II e III estiverem corretas.
+
+    (B) se somente as afirmativas I e III estiverem corretas.
+
+    (C) se somente a afirmativa III estiver correta.
+
+    (D) se somente a afirmativa II estiver correta.
+
+    (E) se somente a afirmativa I estiver correta.
+
+    Comentários:
+
+
+    Assertiva I (Incorreta): “O lançamento regularmente notificado ao contribuinte,
+    porque dotado de exigibilidade, constitui dívida ativa tributária.”
+    O lançamento declara a obrigação tributária (verifica a ocorrência do fato
+    gerador) já existente e constitui o crédito tributário.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   55
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Assertiva II (Correta): “A certidão de dívida ativa poderá ser emendada ou
+    substituída até a decisão de primeira instância judicial, assegurada ao
+    executado a devolução do prazo para embargos.
+    Está plenamente de acordo com o CTN:
+
+
+
+                        CTN. Art. 203. A omissão de quaisquer dos requisitos previstos
+                        no artigo anterior (que versa sobre o termo de inscrição da
+                        dívida ativa), ou o erro a eles relativo, são causas de nulidade
+                        da inscrição e do processo de cobrança dela decorrente, mas a
+                        nulidade poderá ser sanada até a decisão de primeira instância,
+                        mediante substituição da certidão nula, devolvido ao sujeito
+                        passivo, acusado ou interessado o prazo para defesa, que
+                        somente poderá versar sobre a parte modificada.
+
+
+
+    Assertiva III (Correta): “A certidão negativa de débito expedida com dolo ou
+    fraude, que contenha erro contra a Fazenda Pública, responsabiliza
+    pessoalmente o funcionário que a expedir, pelo crédito tributário e juros de
+    mora.”
+    Está plenamente de acordo com o CTN:
+
+
+
+                        Art. 208. A certidão negativa expedida com dolo ou fraude, que
+                        contenha erro contra a Fazenda Pública, responsabiliza
+                        pessoalmente o funcionário que a expedir, pelo crédito
+                        tributário e juros de mora acrescidos.
+
+                        Parágrafo único. O disposto neste artigo não exclui a
+                        responsabilidade criminal e funcional que no caso couber.
+
+
+
+    Gabarito: A
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        56
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    12-) FGV - Auditor Fiscal Tributário (Paulínia)/2021
+    A sociedade empresária ABC Serviços de Informática Ltda. teve sua falência
+    decretada, tendo ainda dívidas referentes a obrigações principais de ISS.
+    A massa falida possui, também, entre seus débitos, as seguintes dívidas:
+
+
+    I. créditos com garantia real;
+    II. créditos quirografários;
+    III. créditos extraconcursais;
+    IV. créditos decorrentes da legislação do trabalho;
+    V. créditos decorrentes de acidentes de trabalho.
+
+
+    À luz do Código Tributário Nacional, na falência, os créditos tributários
+    referentes a obrigações principais de ISS têm preferência sobre os créditos
+    (A) com garantia real, no limite do valor do bem gravado.
+    (B) quirografários.
+    (C) extraconcursais.
+    (D) decorrentes da legislação do trabalho, nos limites e condições
+    estabelecidos em lei.
+    (E) decorrentes de acidentes de trabalho.
+
+
+    Comentários: O assunto abordado não tem nenhum mistério. O examinador
+    fala em preferência do crédito tributário na falência. Aqui, basta saber
+    organizar, conforme a tabela que vimos. Vejamos novamente:
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   57
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+ Fernando Mauricio Correa
+ Aula 19
+
+
+
+
+Ordem                    Tipo de Crédito                                                Observação
+
+           Importâncias              Passíveis           de
+ 1º
+           Restituição
+
+ 2º        Créditos Extraconcursais                              ALTERNATIVA C
+
+           Créditos derivados da Legislação do                   ALTERNATIVA D e ALTERNATIVA E
+ 3º        Trabalho e decorrentes de Acidente
+           de Trabalho
+
+ 4º        Créditos com Garantia Real                            ALTERNATIVA A
+
+           Créditos Tributários, independente
+ 5º        da      natureza        ou       tempo        de
+           constituição
+
+ 6º        Créditos quirografários                               ALTERNATIVA B
+
+           Multas           contratuais,             penas
+           pecuniárias por infração penal ou
+ 7º
+           administrativa (inclusive as multas
+           tributárias)
+
+ 8º        Créditos Subordinados
+
+
+
+      Observando a tabela acima, fica claro que, na falência, os créditos tributários
+      referentes a obrigações principais têm preferência sobre os créditos
+      quirografários.
+
+
+      Gabarito: B
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                58
+        www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    13-) FGV - Auditor Fiscal da Receita Estadual (SEFAZ ES)/2021
+    Lei ordinária do Estado X, visando a uma maior transparência na Administração
+    Tributária, determinou que fossem divulgadas, publicamente, no sítio
+    eletrônico da Secretaria Estadual de Fazenda, as seguintes informações
+    referentes aos contribuintes:
+
+
+    I. representações fiscais para fins penais;
+    II. inscrições na Dívida Ativa da Fazenda Pública;
+    III. parcelamento ou moratória.
+
+
+    Diante desse cenário e à luz do Código Tributário Nacional, assinale a
+    afirmativa correta.
+
+
+    (A) A divulgação de representações fiscais para fins penais viola o sigilo fiscal.
+    (B) A divulgação de inscrições na Dívida Ativa da Fazenda Pública viola o sigilo
+    fiscal.
+    (C) A divulgação de parcelamento ou moratória viola o sigilo fiscal.
+    (D) A divulgação de representações fiscais para fins penais e de parcelamento
+    ou moratória viola o sigilo fiscal.
+    (E) As informações divulgadas não violam o sigilo fiscal.
+
+
+    Comentários: Novamente temos uma questão que aborda os tipos de
+    informação que não têm vedação de divulgação pelo sigilo fiscal imposto pelo
+    CTN. Vamos relembrar:
+                        Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a
+                        divulgação, por parte da Fazenda Pública ou de seus servidores, de
+                        informação obtida em razão do ofício sobre a situação econômica ou
+                        financeira do sujeito passivo ou de terceiros e sobre a natureza e o
+                        estado de seus negócios ou atividades. (Redação dada pela Lcp nº 104,
+                        de 2001)
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário             59
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                        § 3º Não é vedada a divulgação de informações relativas a: (Incluído
+                        pela Lcp nº 104, de 2001)
+
+                        I – representações fiscais para fins penais; (Incluído pela Lcp nº 104, de
+                        2001)
+
+                        II – inscrições na Dívida Ativa da Fazenda Pública; (Incluído pela Lcp nº
+                        104, de 2001)
+
+                        III - parcelamento ou moratória; e                  (Redação   dada pela Lei
+                        Complementar nº 187, de 2021)
+
+                        IV - incentivo, renúncia, benefício ou imunidade de natureza tributária
+                        cujo beneficiário seja pessoa jurídica.           (Incluído pela Lei
+                        Complementar nº 187, de 2021)
+
+
+
+    Assim, fica fácil observar que nosso gabarito é a alternativa E, pois nenhuma
+    das informações trazidas nas demais alternativas violam o sigilo fiscal, caso
+    sejam divulgadas.
+
+
+
+    Gabarito: E
+
+
+
+    14-) FGV - Analista (MPE GO)/Jurídico/2022
+    A empresa ABC Roupas Ltda. foi notificada pelo Fisco do Estado Beta para,
+    em até 30 dias do recebimento da notificação, recolher valores não declarados
+    nem pagos de Imposto sobre a Circulação de Mercadorias e Serviços (ICMS).
+    No 5º dia após o recebimento da notificação, precisou requerer certidão de
+    quitação de tributos estaduais para participar de licitação. À luz do Código
+    Tributário Nacional, deverá ser a ela emitida uma
+
+    (A) Certidão Negativa.
+    (B) Certidão Positiva.
+    (C) Certidão Positiva com Efeitos de Negativa.
+    (D) Certidão Negativa com Efeitos de Positiva.
+    (E) Certidão de Dívida Ativa.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                    60
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Comentários: As Certidões Negativas de Débitos (CND) são os documentos
+    capazes de comprovar a INEXISTÊNCIA de débito de determinado
+    contribuinte, de determinado tributo ou relativo a determinado período.
+    Segundo o CTN, o prazo para emissão de uma CND é de até 10 dias.
+    Já a Certidão Positiva com efeito de Negativa tem os mesmos efeitos que a
+    Certidão Negativa de Débitos (CND), e será emitida nos seguintes casos:
+    existência de créditos não vencidos; créditos em curso de cobrança executiva
+    em que tenha sido efetivada a penhora; e créditos cuja exigibilidade esteja
+    suspensa (MO – DE – RE – CO – CO – PA).
+    Nossa questão traz um caso de lançamento de ICMS que ainda não venceu.
+    Logo, nesse caso, poderá ser expedida uma certidão positiva com efeito de
+    negativa. Vejamos:
+
+                        CTN, Art. 206. Tem os mesmos efeitos previstos no artigo anterior a
+                        certidão de que conste a existência de créditos não vencidos, em
+                        curso de cobrança executiva em que tenha sido efetivada a penhora,
+                        ou cuja exigibilidade esteja suspensa.
+
+    Gabarito: C
+
+
+
+
+    6. QUESTIONÁRIO DE REVISÃO
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           61
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+
+
+
+                                  Questionário – Somente perguntas
+
+
+
+
+    1-) O bem de família pode vir a ser penhorado?
+
+
+    2-) Em que circunstâncias a alienação ou oneração de bens ou rendas é
+    presumida como fraude?
+
+
+    3-) O que é necessário para se decretar a indisponibilidade dos bens e direitos
+    do executado?
+
+
+    4-) Quais créditos possuem preferência em relação aos créditos tributários, em
+    situações que não a de falência? E nos casos de falência?
+
+
+    5-) Nos casos de falência, a multa tributária prefere quais créditos?
+
+
+    6-) A execução fiscal está sujeita ao concurso de credores?
+
+
+    7-) Há limite à autoridade fiscal no exame de livros comerciais?
+
+
+    8-) Por qual o prazo deve ser conservado os livros fiscais?
+
+
+    9-) Em que constitui a Dívida Ativa? Ela goza de quais presunções? Estas
+    presunções são absolutas ou relativas?
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   62
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    10-) Em quais hipóteses será emitida Certidão Positiva com efeito de
+    Negativa? Ela tem o mesmo valor que a CND – Certidão Negativa de Débitos?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   63
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                                Questionário – Perguntas e Respostas
+
+
+    1-) O bem de família pode vir a ser penhorado?
+    Resposta: Sim, na hipótese de a dívida tributária se referir exatamente ao
+    próprio bem de família.
+
+    Exemplo: A única casa de uma família pode vir a ser penhorada pela dívida de
+    IPTU deste imóvel. (mas não pode ser penhorada por dívida de Imposto de
+    Renda do proprietário).
+
+
+
+    2-) Em que circunstâncias a alienação ou oneração de bens ou rendas é
+    presumida como fraude?
+    Resposta: Presume-se fraudulenta a alienação ou oneração de bens ou rendas,
+    ou seu começo, por sujeito passivo em débito para com a Fazenda Pública,
+    por crédito tributário regularmente inscrito como dívida ativa, exceto se
+    tiverem sido reservados, pelo devedor, bens ou rendas suficientes ao total
+    pagamento da dívida inscrita.
+
+    Atenção! Só é presumido fraude se o crédito estiver inscrito na Dívida Ativa.
+    O simples fato de a dívida existir, sem a inscrição em Dívida Ativa, não presume
+    fraude.
+
+
+
+    3-) O que é necessário para se decretar a indisponibilidade dos bens e direitos
+    do executado?
+    Resposta: Para que haja indisponibilidade dos bens e direitos do executado,
+    é necessário que:
+
+          ▪ O devedor tenha sido devidamente citado;
+
+          ▪ Não tenha ocorrido o pagamento da dívida ou apresentação de bens à
+             penhora;
+
+          ▪ Esgotamento das diligências em busca de bens penhoráveis.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    64
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    4-) Quais créditos possuem preferência em relação aos créditos tributários, em
+    situações que não a de falência? E nos casos de falência?
+    Resposta: Nos casos gerais (que não os de falência), O Crédito Tributário
+    prefere a qualquer outro, ressalvados os créditos decorrentes da Legislação
+    do Trabalho ou do Acidente de Trabalho.
+
+    Já no curso no curso do Processo de Falência, preferem ao crédito tributário,
+    nesta ordem:
+
+    1º) Importâncias Passíveis de Restituição;
+
+    2º) Créditos Extraconcursais (tributários ou não);
+
+    3º) Créditos derivados da legislação do trabalho e decorrentes de acidente de
+    trabalho (Limite p/ créd. Leg. Trab.: 150 salários mínimos);
+
+    4º) Créditos com garantia real (Até o limite do bem gravado);
+
+
+
+
+    5-) Nos casos de falência, a multa tributária prefere quais créditos?
+    Resposta: – A multa tributária prefere apenas aos créditos subordinados.
+
+
+
+
+    6-) A execução fiscal está sujeita ao concurso de credores?
+    Resposta: Não! A ação de execução fiscal não está sujeita ao concurso de
+    credores.
+
+
+
+
+    7-) Há limite à autoridade fiscal no exame de livros comerciais?
+    Resposta: Sim. Segundo o STF, “Estão sujeitos a fiscalização tributária ou
+    previdenciária quaisquer livros comerciais, limitado o exame aos pontos objeto
+    da investigação” (Súmula STF 439)
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   65
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    8-) Por qual o prazo deve ser conservado os livros fiscais?
+    Resposta: Cuidado! Os livros obrigatórios de escrituração comercial e fiscal e
+    os comprovantes dos lançamentos neles efetuados devem ser conservados até
+    que ocorra a prescrição dos créditos tributários decorrentes das operações a
+    que se refiram.
+
+    Reparem que a legislação não fala que os livros fiscais devem ser guardados
+    por 5 anos, mas sim, até que ocorra a prescrição.
+
+
+
+    9-) Em que constitui a Dívida Ativa? Ela goza de quais presunções? Estas
+    presunções são absolutas ou relativas?
+    Resposta: Constitui Dívida Ativa tributária a proveniente de crédito dessa
+    natureza, regularmente inscrita na repartição administrativa competente,
+    depois de esgotado o prazo fixado, para pagamento, pela lei ou por decisão
+    final proferida em processo regular.
+
+    A Dívida regularmente Inscrita goza da presunção de certeza e liquidez e tem
+    o efeito de prova pré-constituída.
+
+    Atenção, pois esta presunção é relativa, e pode ser ilidida por prova
+    inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite.
+
+
+
+    10-) Em quais hipóteses será emitida Certidão Positiva com efeito de
+    Negativa? Ela tem o mesmo valor que a CND – Certidão Negativa de Débitos?
+    Resposta: A Certidão Positiva com efeito de Negativa tem os mesmos efeitos
+    que a Certidão Negativa de Débitos (CND), e será emitida nos seguintes casos:
+
+          ▪ A existência de créditos não vencidos;
+
+          ▪ Créditos em curso de cobrança executiva em que tenha sido efetivada
+              a penhora;
+
+          ▪   Créditos cuja exigibilidade esteja suspensa (MO – DE – RE – CO – CO
+              – PA).
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   66
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    7. QUESTÕES DE AULA
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Questões Estratégicas”:
+
+
+    QUESTÕES FGV
+
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) Sobre as
+    preferências do crédito tributário, assinale a afirmativa correta.
+
+    (A) A concessão de recuperação judicial depende da apresentação da prova
+    de regularidade fiscal.
+
+    (B) O crédito tributário prefere aos créditos com garantia real.
+
+    (C) Os créditos devidos aos sócios e administradores sem vínculo empregatício
+    são considerados créditos extraconcursais.
+
+    (D) A cobrança judicial do crédito tributário está sujeita a concurso de credores
+    ou à habilitação em falência, recuperação judicial, concordata, ao inventário
+    ou arrolamento.
+
+    (E) Na falência, a multa tributária prefere aos créditos decorrentes de serviços
+    prestados à massa falida.
+
+
+
+    2-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) Sobre
+    as garantias e os privilégios do crédito tributário, assinale a afirmativa correta.
+
+    (A) Na falência, o crédito tributário prefere a qualquer outro, seja qual for sua
+    natureza ou o tempo de sua constituição, ressalvados apenas, os créditos
+    extraconcursais ou as importâncias passíveis de restituição, nos termos da lei
+    falimentar, e os créditos com garantia real, no limite do valor do bem gravado.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       67
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (B) Presume-se fraudulenta a alienação ou oneração de bens ou rendas, por
+    sujeito passivo em débito para com a Fazenda Pública, por crédito tributário
+    regularmente inscrito em dívida ativa.
+
+    (C) O juiz pode determinar a indisponibilidade de bens e direitos do executado
+    antes da sua citação, como forma de assegurar a garantia do juízo na execução
+    fiscal.
+
+    (D) A cobrança judicial do crédito tributário está sujeita à habilitação em
+    falência e recuperação judicial.
+
+    (E) Na falência, a multa tributária prefere apenas aos créditos subordinados e
+    quirografários.
+
+
+
+
+    3-) (FGV - Agente Fazendário - Niterói/2015) Nos termos previstos no Código
+    Tributário Nacional, em relação aos créditos tributários decorrentes de fatos
+    geradores ocorridos no curso do processo de falência, é correto afirmar que:
+
+    (A) o art. 188 do CTN, após a entrada em vigor da Lei Complementar nº
+    118/2005, passou a prever que os créditos tributários vencidos ou vincendos
+    serão pagos preferencialmente a quaisquer outros, como encargos da massa
+    falida;
+
+    (B) pela nova redação do art. 188 do CTN os créditos tributários que surgirem
+    de fatos geradores no curso do processo falimentar não devem ser satisfeitos
+    diretamente pela massa falida;
+
+    (C) os créditos tributários oriundos de fatos geradores ocorridos no curso do
+    processo falimentar, nos termos do art. 188 do CTN, após a entrada em vigor
+    da     Lei    Complementar            nº    118/2005,        preferem        apenas   os   créditos
+    quirografários;
+
+    (D) o art. 188 do CTN passou, após a entrada em vigor da Lei Complementar
+    nº 118/2005, a considerar extraconcursais os créditos tributários decorrentes
+    de fatos geradores ocorridos no curso do processo falimentar;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       68
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (E) contestado o crédito tributário, deverá o juízo falimentar decidir sobre o
+    incidente, mandando reservar bens suficientes à extinção total do crédito e
+    seus acrescidos, se a massa não puder efetuar a garantia de instância por outra
+    forma, ouvido, quanto à natureza e valor dos bens reservados, o representante
+    da Fazenda Pública interessada.
+
+
+
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) Determinado contribuinte do
+    IPTU não pagou o tributo relativo ao seu único imóvel residencial nos últimos
+    quatro anos e vem a sofrer a execução fiscal para cobrança do imposto. Nesse
+    caso:
+
+    (A) o imóvel residencial não pode responder pela dívida do IPTU por ser bem
+    de família;
+
+    (B) todos os bens e rendas do contribuinte, sem comportar exceções,
+    respondem pelo pagamento de todo crédito de natureza tributária;
+
+    (C) o único imóvel residencial poderá ser penhorado para satisfação do crédito
+    tributário de IPTU;
+
+    (D) bens gravados por ônus real ou por cláusulas de inalienabilidade não
+    podem ser alcançados para satisfação do crédito tributário;
+
+    (E) todos os bens móveis do contribuinte, sem comportar exceções,
+    respondem pelo pagamento de todo crédito de natureza tributária.
+
+
+
+
+    5-) (FGV - Fiscal de Tributos - Niterói/2015) Nos termos do Código Tributário
+    Nacional, “a legislação tributária, observado o disposto nesta Lei, regulará, em
+    caráter geral, ou especificamente em função da natureza do tributo de que se
+    tratar, a competência e os poderes das autoridades administrativas em matéria
+    de fiscalização da sua aplicação”. Assim, a legislação mencionada será
+    aplicada:
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    69
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    (A) a pessoas naturais ou jurídicas não imunes, mesmo que isentas ou as que
+    não sejam tributadas por força de norma infraconstitucional;
+
+    (B) a pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem
+    de imunidade tributária ou de isenção de caráter pessoal;
+
+    (C) a pessoas naturais ou, quando se trate de pessoa jurídica, a seus diretores
+    ou representantes legais;
+
+    (D) a pessoas jurídicas que sejam contribuintes ou responsáveis por tributos
+    em geral ou pelo tributo específico a que se refira;
+
+    (E) a pessoas naturais ou jurídicas que sejam contribuintes do imposto a que
+    alude a norma respectiva.
+
+
+
+
+    6-) (FGV - Auditor do Tesouro Municipal - Recife/2014) Com referência à
+    fiscalização tributária, assinale a afirmativa correta.
+
+    (A) A autoridade administrativa pode requisitar força pública durante atividade
+    fiscalizadora, mesmo que não tenha ocorrido fato definido em lei como crime.
+
+    (B) O contribuinte deve conservar os livros e registros obrigatórios e
+    facultativos da escrituração comercial e fiscal durante o prazo decadencial,
+    para constituir o crédito tributário.
+
+    (C) A autoridade administrativa pode examinar integralmente quaisquer livros,
+    arquivos e registros dos contribuintes.
+
+    (D) O termo de fiscalização integra o lançamento fiscal e constitui a data
+    inaugural do prazo decadencial para a constituição do crédito fiscal.
+
+    (E) Apenas a lei stricto sensu poderá autorizar permuta de informações e
+    assistência recíproca entre as fazendas públicas.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     70
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    7-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) Assinale a
+    afirmativa incorreta.
+
+    (A) O Código Tributário Nacional, no artigo 195, nega aplicação às disposições
+    legais excludentes ou limitativas do direito de examinar os livros comerciais do
+    contribuinte.
+
+    (B) A fiscalização tem o seu poder limitado, dentre outras, por força de
+    questões funcionais e territoriais.
+
+    (C) O sigilo de correspondência não pode ser invocado pelo contribuinte em
+    sua defesa, uma vez que este direito poderá ser afastado no exercício da
+    fiscalização pelas autoridades administrativas, mesmo sem haver autorização
+    judicial.
+
+    (D) O Supremo Tribunal Federal já pacificou o entendimento no sentido de
+    não ser possível a interdição de estabelecimento como meio coercitivo de
+    cobrança de tributo.
+
+    (E) Não se admite, segundo entendimento consagrado no Supremo Tribunal
+    Federal, a apreensão de mercadorias como meio coercitivo para pagamento
+    de tributos.
+
+
+
+    8-) (FGV - Técnico Tributário - SEFIN RO/2018) Analise as hipóteses a seguir,
+    e assinale (V) para a verdadeira e (F) para a falsa.
+
+    ( ) Constitui dívida ativa tributária todo crédito da Fazenda Pública que tiver
+    sido inscrito em repartição administrativa competente, esgotado o prazo em
+    lei para pagamento.
+
+    ( ) Certidão da Dívida Ativa é o título que habilita o Fisco a ingressar com a
+    execução fiscal, contemplando valor líquido e certo, incabível sua alteração
+    após iniciado o processo executivo.
+
+    ( ) A Fazenda Pública pode substituir a certidão de dívida ativa até a decisão
+    de 1ª instância, quando se tratar de correção de erro material ou formal,
+    vedada a modificação do sujeito passivo da execução.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    71
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Na sequência em que aparecem, as afirmativas são, respectivamente,
+
+    (A) F – F – V.
+
+    (B) V – V – F.
+
+    (C) F – V – F.
+
+    (D) V – F – V.
+
+    (E) V – F – F.
+
+
+
+    9-) (FGV - Fiscal de Tributos - Niterói/2015) Para a validade da Certidão da
+    Dívida Ativa, NÃO é essencial:
+
+
+
+    (A) a data da inscrição;
+
+    (B) a origem, a natureza e o fundamento legal ou contratual da dívida;
+
+    (C) a autenticação da autoridade competente;
+
+    (D) o domicílio ou residência do devedor;
+
+    (E) a indicação do livro e da folha da inscrição.
+
+
+
+    10-) (FGV - Auditor do Tesouro Municipal - Recife/2014) Sobre crédito
+    tributário, analise as afirmativas a seguir.
+
+
+
+    I. A inscrição do crédito tributário é decorrente da dívida ativa.
+
+    II. Todo crédito tributário é dívida ativa tributária.
+
+    III. A inscrição gera presunção de certeza e liquidez do crédito tributário.
+
+    IV. A maneira de calcular juros de mora é requisito formal para inscrição na
+    dívida ativa.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   72
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    Assinale:
+
+    (A) se somente as afirmativas I e III estiverem corretas.
+
+    (B) se somente as afirmativas II e III estiverem corretas.
+
+    (C) se somente as afirmativas III e IV estiverem corretas.
+
+    (D) se somente as afirmativas II e IV estiverem corretas.
+
+    (E) se somente as afirmativas I e IV estiverem corretas.
+
+    11-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) Com relação
+    à dívida ativa, analise as afirmativas a seguir.
+
+
+
+    I. O lançamento regularmente notificado ao contribuinte, porque dotado de
+    exigibilidade, constitui dívida ativa tributária.
+
+    II. A certidão de dívida ativa poderá ser emendada ou substituída até a decisão
+    de primeira instância judicial, assegurada ao executado a devolução do prazo
+    para embargos.
+
+    III. A certidão negativa de débito expedida com dolo ou fraude, que contenha
+    erro contra a Fazenda Pública, responsabiliza pessoalmente o funcionário que
+    a expedir, pelo crédito tributário e juros de mora.
+
+
+
+    Assinale:
+
+
+
+    (A) se somente as afirmativas II e III estiverem corretas.
+
+    (B) se somente as afirmativas I e III estiverem corretas.
+
+    (C) se somente a afirmativa III estiver correta.
+
+    (D) se somente a afirmativa II estiver correta.
+
+    (E) se somente a afirmativa I estiver correta.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   73
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    12-) FGV - Auditor Fiscal Tributário (Paulínia)/2021
+    A sociedade empresária ABC Serviços de Informática Ltda. teve sua falência
+    decretada, tendo ainda dívidas referentes a obrigações principais de ISS.
+    A massa falida possui, também, entre seus débitos, as seguintes dívidas:
+
+
+    I. créditos com garantia real;
+    II. créditos quirografários;
+    III. créditos extraconcursais;
+    IV. créditos decorrentes da legislação do trabalho;
+    V. créditos decorrentes de acidentes de trabalho.
+
+
+    À luz do Código Tributário Nacional, na falência, os créditos tributários
+    referentes a obrigações principais de ISS têm preferência sobre os créditos
+    (A) com garantia real, no limite do valor do bem gravado.
+    (B) quirografários.
+    (C) extraconcursais.
+    (D) decorrentes da legislação do trabalho, nos limites e condições
+    estabelecidos em lei.
+    (E) decorrentes de acidentes de trabalho.
+
+
+
+
+    13-) FGV - Auditor Fiscal da Receita Estadual (SEFAZ ES)/2021
+    Lei ordinária do Estado X, visando a uma maior transparência na Administração
+    Tributária, determinou que fossem divulgadas, publicamente, no sítio
+    eletrônico da Secretaria Estadual de Fazenda, as seguintes informações
+    referentes aos contribuintes:
+
+
+    I. representações fiscais para fins penais;
+    II. inscrições na Dívida Ativa da Fazenda Pública;
+    III. parcelamento ou moratória.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   74
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+     Diante desse cenário e à luz do Código Tributário Nacional, assinale a
+    afirmativa correta.
+
+
+    (A) A divulgação de representações fiscais para fins penais viola o sigilo fiscal.
+    (B) A divulgação de inscrições na Dívida Ativa da Fazenda Pública viola o sigilo
+    fiscal.
+    (C) A divulgação de parcelamento ou moratória viola o sigilo fiscal.
+    (D) A divulgação de representações fiscais para fins penais e de parcelamento
+    ou moratória viola o sigilo fiscal.
+    (E) As informações divulgadas não violam o sigilo fiscal.
+
+
+
+
+    14-) FGV - Analista (MPE GO)/Jurídico/2022
+    A empresa ABC Roupas Ltda. foi notificada pelo Fisco do Estado Beta para,
+    em até 30 dias do recebimento da notificação, recolher valores não declarados
+    nem pagos de Imposto sobre a Circulação de Mercadorias e Serviços (ICMS).
+    No 5º dia após o recebimento da notificação, precisou requerer certidão de
+    quitação de tributos estaduais para participar de licitação. À luz do Código
+    Tributário Nacional, deverá ser a ela emitida uma
+
+    (A) Certidão Negativa.
+    (B) Certidão Positiva.
+    (C) Certidão Positiva com Efeitos de Negativa.
+    (D) Certidão Negativa com Efeitos de Positiva.
+    (E) Certidão de Dívida Ativa.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      75
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+    GABARITO
+
+
+
+
+          1-A                  2-B                  3-D                   4-C         5-B
+          6-A                  7-C                  8-A                   9-D         10-C
+          11-A               12-B                  13-E                 14-C
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          76
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 19
+
+
+
+
+                           Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+
+
+                  Hoje estudamos os principais pontos sobre Garantias e Privilégios
+    do Crédito Tributário, assim como a parte final do CTN a respeito da
+    Administração Tributária (Fiscalização, Dívida Ativa e Certidões Negativas).
+
+
+
+
+                  Vamos juntos! Falta pouco!!!
+
+
+
+
+                     Um grande abraço e que Deus os abençoe.
+
+                                        Até a próxima aula!!!
+
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          77
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+

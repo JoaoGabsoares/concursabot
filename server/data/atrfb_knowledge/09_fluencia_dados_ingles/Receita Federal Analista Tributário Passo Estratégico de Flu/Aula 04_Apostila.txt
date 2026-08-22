@@ -1,0 +1,858 @@
+                                                    Aula 03
+                          Receita Federal (Analista Tributário)
+                   Passo Estratégico de Fluência de Dados
+
+
+
+
+                                                        Autor:
+                                     Fernando Pedrosa Lopes
+
+
+
+
+                                            28 de Junho de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+    Aula 03
+
+
+
+
+                                                                    SIMULADO
+Simulado ............................................................................................................................................................. 1
+
+Introdução ........................................................................................................................................................... 1
+
+Questões Inéditas ................................................................................................................................................ 1
+
+Gabarito ............................................................................................................................................................. 5
+
+Questões Comentadas ........................................................................................................................................ 5
+
+
+
+
+                                                                 INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Big Data e NoSQL, Data Mining e Machine Learning
+Pronto para testar seu conhecimento?!
+
+
+                                                       QUESTÕES INÉDITAS
+
+                                                                       Big Data/NoSQL
+
+       1. Qual das seguintes afirmações é verdadeira sobre o Big Data?
+
+             A) Big Data se refere exclusivamente à quantidade de dados armazenados em tabelas relacionais.
+             B) Big Data não está relacionado a soluções tecnológicas para lidar com grandes volumes de dados.
+             C) Big Data envolve apenas dados estruturados, excluindo os dados não estruturados.
+             D) Big Data é um termo utilizado para descrever grandes conjuntos de dados com variedade e
+             velocidade de processamento.
+             E) Big Data é um modelo de programação utilizado para análise de dados históricos.
+
+
+       2. Sobre as características fundamentais de Big Data, assinale a alternativa correta:
+
+             A) A característica de Volume se refere apenas à quantidade de dados, desconsiderando sua
+             relevância ou utilidade
+             B) A característica de Valor não influencia na tomada de decisões, sendo apenas um indicador
+             secundário
+
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                                                                                     1
+             www.estrategiaconcursos.com.br
+
+                                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         C) A característica de Variabilidade se refere à diversidade de tipos e formatos de dados, como
+         textos, imagens, vídeos, entre outros
+         D) A característica de Variedade envolve lidar com dados que apresentam variações e
+         inconsistências em sua estrutura e formato
+         E) A característica de Veracidade garante que os dados sejam precisos, confiáveis e livres de erros.
+
+     3. Quais são as principais limitações do modelo MapReduce em termos de processamento de dados?
+
+         A) O modelo MapReduce não é adequado para processar dados em tempo real, sendo mais indicado
+         para tarefas batch.
+         B) O modelo MapReduce requer um alto investimento em infraestrutura de hardware para
+         funcionar adequadamente.
+         C) O modelo MapReduce não suporta o processamento de dados não estruturados, limitando sua
+         aplicação a dados estruturados.
+         D) O modelo MapReduce é altamente complexo e requer um alto nível de expertise técnica para
+         implementar e manter.
+         E) O modelo MapReduce não é facilmente integrável com ferramentas e plataformas de Big Data,
+         como Apache Hadoop.
+
+     4. Qual tipo de base de dados NoSQL é mais adequado para armazenar dados altamente
+        interconectados, como redes sociais e sistemas de recomendação?
+
+         A) Orientado a Documentos.
+         B) Chave-Valor.
+         C) Orientado a Grafos.
+         D) Orientado a Colunas.
+         E) Relacional.
+
+     5. Qual é a principal desvantagem de utilizar uma base de dados NoSQL?
+
+         A) Dificuldade na modelagem de dados.
+         B) Baixo desempenho em consultas complexas.
+         C) Necessidade de esquema fixo.
+         D) Falta de suporte a transações ACID.
+         E) Escalabilidade vertical.
+
+
+
+
+                                                     Data Mining
+
+     6. Sobre tipos e técnicas de aprendizado de máquina, assinale a alternativa correta.
+
+         A) O aprendizado por reforço é aplicado apenas em problemas de classificação.
+         B) O aprendizado não supervisionado é utilizado principalmente em problemas de regressão.
+         C) No aprendizado semi-supervisionado, todos os dados de treinamento possuem rótulos
+         conhecidos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                           2
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         D) O aprendizado não supervisionado é aplicado apenas em problemas de classificação e não em
+         problemas de agrupamento.
+         E) No aprendizado por reforço, um agente aprende a tomar decisões com base em interações com
+         um ambiente e recebe feedback positivo ou negativo
+
+     7. Qual dos seguintes algoritmos de mineração de dados é baseado em aprendizado não
+        supervisionado?
+
+         A) K-means
+         B) Naive Bayes
+         C) Árvores de Decisão
+         D) Regressão Logística
+         E) SVM (Support Vector Machine)
+
+     8. Qual das seguintes afirmações sobre o algoritmo KNN está correta?
+
+         A) O KNN é um algoritmo de aprendizado não supervisionado.
+         B) O KNN é baseado em cálculo de distância entre os pontos de dados.
+         C) O KNN usa a probabilidade de ocorrência para fazer previsões.
+         D) O KNN é eficiente em conjuntos de dados com alta dimensionalidade.
+         E) O KNN é um algoritmo de agrupamento.
+
+     9. Qual das seguintes afirmações sobre a técnica de discretização está correta?
+
+         A) A discretização baseada em frequência divide os valores em intervalos iguais.
+         B) A discretização baseada em intervalos iguais mantém a ordem dos valores originais.
+         C) A discretização baseada em limites arbitrários usa a média dos valores existentes para definir os
+         intervalos.
+         D) A discretização baseada em limites arbitrários não permite que os valores sejam agrupados em
+         categorias.
+         E) A discretização baseada em frequência é mais adequada para atributos numéricos contínuos.
+
+     10. Qual é o objetivo da etapa de Avaliação do CRISP-DM?
+
+         A) Criar um modelo preditivo com base nos dados disponíveis.
+         B) Transformar os dados brutos em uma forma adequada para análise.
+         C) Compreender as características e propriedades dos dados.
+         D) Validar e avaliar a qualidade dos modelos de mineração de dados criados.
+         E) Aplicar técnicas estatísticas para identificar padrões nos dados.
+
+                                                 Machine Learning
+
+     11. Qual é o principal objetivo da validação cruzada em machine learning?
+
+         A) Selecionar as melhores variáveis para o modelo.
+         B) Reduzir o overfitting.
+         C) Avaliar o desempenho do modelo em dados de teste.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                           3
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         D) Treinar o modelo em várias iterações.
+         E) Aumentar a dimensionalidade dos dados.
+
+     12. Qual é a principal diferença entre o paradigma simbólico e o paradigma estatístico em machine
+         learning?
+
+         A) O paradigma simbólico usa técnicas de clustering, enquanto o paradigma estatístico utiliza
+         árvores de decisão.
+         B) O paradigma simbólico é baseado em regras e representações explícitas de conhecimento,
+         enquanto o paradigma estatístico é baseado em modelos probabilísticos.
+         C) O paradigma simbólico é supervisionado, enquanto o paradigma estatístico é não supervisionado.
+         D) O paradigma simbólico é baseado em aprendizado por reforço, enquanto o paradigma estatístico
+         é baseado em aprendizado baseado em exemplos.
+         E) O paradigma simbólico requer grandes volumes de dados, enquanto o paradigma estatístico
+         funciona bem com conjuntos de dados pequenos.
+
+     13. Qual é o principal problema do conceito de overfitting em machine learning??
+
+         A) O modelo não se ajusta bem aos dados de treinamento.
+         B) O modelo não é capaz de generalizar para novos dados.
+         C) O modelo está subajustado aos dados.
+         D) O modelo tem alta variância e baixo viés.
+         E) O modelo tem baixa variância e alto viés.
+
+     14. O que os componentes principais representam na técnica de redução de dimensionalidade PCA -
+         Principal Component Analysis?
+
+         A) São as variáveis originais do conjunto de dados.
+         B) São as classes ou rótulos dos dados.
+         C) São as médias e desvios padrão dos dados.
+         D) São os outliers detectados pelo PCA.
+         E) São as variáveis não correlacionadas que capturam a maior variação nos dados.
+
+     15. Sobre árvores de decisão em Machine Learning, assinale a alternativa correta.
+
+         A) Árvores de decisão são robustas a outliers e dados desbalanceados, o que as torna adequadas
+         para lidar com diferentes tipos de conjuntos de dados.
+         B) Árvores de decisão são apenas adequadas para problemas de regressão, não para classificação
+         C) Árvores de decisão são menos interpretáveis do que outros modelos de aprendizado de máquina,
+         como regressão linear
+         D) O ganho de informação é utilizado para selecionar o atributo que resulta na melhor divisão dos
+         dados em um nó da árvore
+         E) Uma árvore de decisão não pode lidar com dados categóricos, apenas com dados numéricos
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        4
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+
+                                                   GABARITO
+    1. D                      2. E                    3. A                    4. C         5. A
+
+    6. E                      7. A                    8. B                    9. B         10. D
+
+    11. C                     12. B                   13. B                   14. E        15. D
+
+
+
+                                      QUESTÕES COMENTADAS
+
+                                                    Big Data/NoSQL
+
+     1. Qual das seguintes afirmações é verdadeira sobre o Big Data?
+
+           A) Big Data se refere exclusivamente à quantidade de dados armazenados em tabelas relacionais.
+           B) Big Data não está relacionado a soluções tecnológicas para lidar com grandes volumes de dados.
+           C) Big Data envolve apenas dados estruturados, excluindo os dados não estruturados.
+           D) Big Data é um termo utilizado para descrever grandes conjuntos de dados com variedade e
+           velocidade de processamento.
+           E) Big Data é um modelo de programação utilizado para análise de dados históricos.
+
+           Comentários:
+
+           A) Incorreta. Big Data não se refere exclusivamente à quantidade de dados armazenados em tabelas
+           relacionais. O conceito de Big Data envolve não apenas a quantidade, mas também a variedade,
+           velocidade e veracidade dos dados.
+           B) Incorreta. Big Data está intimamente relacionado a soluções tecnológicas para lidar com grandes
+           volumes de dados. É necessário o uso de tecnologias e abordagens específicas para coletar,
+           armazenar, processar e analisar esses dados.
+           C) Incorreta. Big Data não envolve apenas dados estruturados, mas também dados
+           semiestruturados e não estruturados. A variedade de dados é uma das características essenciais do
+           Big Data.
+           D) Correta. Big Data é um termo utilizado para descrever grandes conjuntos de dados que possuem
+           características como variedade, velocidade e volume de processamento. Essas características estão
+           relacionadas à natureza dos dados e à necessidade de soluções específicas para lidar com eles.
+           E) Incorreta. Big Data não é um modelo de programação específico. É um conceito amplo que
+           abrange a gestão e análise de grandes volumes de dados, independentemente do modelo de
+           programação utilizado.
+
+           Gabarito: D
+
+
+     2. Sobre as características fundamentais de Big Data, assinale a alternativa correta:
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                           5
+           www.estrategiaconcursos.com.br
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         A) A característica de Volume se refere apenas à quantidade de dados, desconsiderando sua
+         relevância ou utilidade
+         B) A característica de Valor não influencia na tomada de decisões, sendo apenas um indicador
+         secundário
+         C) A característica de Variabilidade se refere à diversidade de tipos e formatos de dados, como
+         textos, imagens, vídeos, entre outros
+         D) A característica de Variedade envolve lidar com dados que apresentam variações e
+         inconsistências em sua estrutura e formato
+         E) A característica de Veracidade garante que os dados sejam precisos, confiáveis e livres de erros.
+
+         Comentários:
+
+         A) Incorreta. A característica de Volume não se refere apenas à quantidade de dados, mas também
+         à escala em que esses dados são gerados, armazenados e processados.
+         B) Incorreta. A característica de Valor é essencial em Big Data, pois influencia diretamente na
+         tomada de decisões e na geração de insights significativos a partir dos dados.
+         C) Incorreta. A característica de Variabilidade não se refere apenas à diversidade de tipos e formatos
+         de dados, mas também à capacidade de lidar com a velocidade e a constante mudança desses
+         dados.
+         D) Incorreta. A característica de Variedade envolve a diversidade de tipos e formatos de dados, mas
+         não necessariamente está relacionada a variações e inconsistências em sua estrutura e formato.
+         E) Correta. A característica de Veracidade se refere à garantia de que os dados sejam precisos,
+         confiáveis e livres de erros. É fundamental para obter insights corretos e tomar decisões embasadas
+         nos dados.
+
+         Gabarito: E
+
+     3. Quais são as principais limitações do modelo MapReduce em termos de processamento de dados?
+
+         A) O modelo MapReduce não é adequado para processar dados em tempo real, sendo mais indicado
+         para tarefas batch.
+         B) O modelo MapReduce requer um alto investimento em infraestrutura de hardware para
+         funcionar adequadamente.
+         C) O modelo MapReduce não suporta o processamento de dados não estruturados, limitando sua
+         aplicação a dados estruturados.
+         D) O modelo MapReduce é altamente complexo e requer um alto nível de expertise técnica para
+         implementar e manter.
+         E) O modelo MapReduce não é facilmente integrável com ferramentas e plataformas de Big Data,
+         como Apache Hadoop.
+
+         Comentários:
+
+         A) Correta. Uma das principais limitações do modelo MapReduce é que ele não é adequado para
+         processar dados em tempo real, sendo mais indicado para tarefas batch, ou seja, processamento
+         em lote.
+         B) Incorreta. Embora o modelo MapReduce possa requerer recursos de hardware, não é correto
+         afirmar que exige um alto investimento em infraestrutura de hardware para funcionar
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                             6
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         adequadamente. A escalabilidade do modelo permite adaptar a infraestrutura às necessidades do
+         processamento.
+         C) Incorreta. O modelo MapReduce é adequado para processar tanto dados estruturados quanto
+         dados não estruturados. Portanto, ele não é limitado apenas ao processamento de dados
+         estruturados.
+         D) Incorreta. Embora o modelo MapReduce possa ter uma curva de aprendizado inicial e requerer
+         expertise técnica para implementar e manter, não é correto afirmar que ele seja altamente
+         complexo. Com o uso de ferramentas e frameworks como Apache Hadoop, a complexidade pode
+         ser reduzida.
+         E) Incorreta. O modelo MapReduce é facilmente integrável com ferramentas e plataformas de Big
+         Data, como o Apache Hadoop. De fato, o Hadoop é amplamente utilizado como implementação do
+         modelo MapReduce.
+
+         Gabarito: A
+
+     4. Qual tipo de base de dados NoSQL é mais adequado para armazenar dados altamente
+        interconectados, como redes sociais e sistemas de recomendação?
+
+         A) Orientado a Documentos.
+         B) Chave-Valor.
+         C) Orientado a Grafos.
+         D) Orientado a Colunas.
+         E) Relacional.
+
+         Comentários:
+
+         A) Incorreta. O tipo de base de dados NoSQL orientado a documentos é mais adequado para
+         armazenar dados semiestruturados e flexíveis, onde a estrutura dos documentos pode variar. Não
+         é o tipo mais indicado para dados altamente interconectados.
+         B) Incorreta. O tipo de base de dados NoSQL chave-valor é mais adequado para cenários simples de
+         armazenamento e recuperação de dados com base em uma chave específica. Não é a melhor opção
+         para dados altamente interconectados.
+         C) Correta. O tipo de base de dados NoSQL orientado a grafos é o mais adequado para armazenar
+         dados altamente interconectados, como redes sociais e sistemas de recomendação. Ele permite
+         representar os relacionamentos complexos entre entidades por meio de nós e arestas.
+         D) Incorreta. O tipo de base de dados NoSQL orientado a colunas é mais adequado para o
+         processamento eficiente de grandes volumes de dados estruturados, mas não é a melhor escolha
+         para dados altamente interconectados.
+         E) Incorreta. O tipo de base de dados relacional não é a melhor opção para armazenar dados
+         altamente interconectados, pois requer esquemas fixos e relacionamentos estruturados.
+
+         Gabarito: C
+
+     5. Qual é a principal desvantagem de utilizar uma base de dados NoSQL?
+
+         A) Dificuldade na modelagem de dados.
+         B) Baixo desempenho em consultas complexas.
+         C) Necessidade de esquema fixo.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                       7
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         D) Falta de suporte a transações ACID.
+         E) Escalabilidade vertical.
+
+         Comentários:
+
+         A) Correta. Uma das principais desvantagens de utilizar uma base de dados NoSQL é a dificuldade
+         na modelagem de dados. Diferentemente das bases de dados relacionais, que possuem esquemas
+         fixos e estruturas bem definidas, as bases de dados NoSQL oferecem maior flexibilidade na
+         modelagem, o que pode tornar a definição da estrutura dos dados mais desafiadora.
+         B) Incorreta. As bases de dados NoSQL podem oferecer alto desempenho em consultas complexas,
+         dependendo do tipo de base de dados e do cenário de uso específico. A desvantagem de
+         desempenho em consultas complexas não é uma característica geral das bases de dados NoSQL.
+         C) Incorreta. As bases de dados NoSQL, ao contrário das bases de dados relacionais, não exigem um
+         esquema fixo, proporcionando maior flexibilidade na modelagem dos dados. Portanto, a
+         necessidade de um esquema fixo não é uma desvantagem das bases de dados NoSQL.
+         D) Incorreta. Embora algumas bases de dados NoSQL não forneçam suporte nativo a transações
+         ACID, outras oferecem mecanismos de consistência e atomicidade para garantir a integridade dos
+         dados. Portanto, a falta de suporte a transações ACID não é uma desvantagem geral das bases de
+         dados NoSQL.
+         E) Incorreta. As bases de dados NoSQL são conhecidas por sua capacidade de escalabilidade,
+         especialmente a escalabilidade horizontal. Portanto, a escalabilidade vertical (aumento de recursos
+         em uma única máquina) não é uma desvantagem típica das bases de dados NoSQL
+
+         Gabarito: A
+
+
+                                                     Data Mining
+
+     6. Sobre tipos e técnicas de aprendizado de máquina, assinale a alternativa correta.
+
+         A) O aprendizado por reforço é aplicado apenas em problemas de classificação.
+         B) O aprendizado não supervisionado é utilizado principalmente em problemas de regressão.
+         C) No aprendizado semi-supervisionado, todos os dados de treinamento possuem rótulos
+         conhecidos.
+         D) O aprendizado não supervisionado é aplicado apenas em problemas de classificação e não em
+         problemas de agrupamento.
+         E) No aprendizado por reforço, um agente aprende a tomar decisões com base em interações com
+         um ambiente e recebe feedback positivo ou negativo
+
+         Comentários:
+
+         A) Incorreta. O aprendizado por reforço não está limitado apenas a problemas de classificação. Na
+         verdade, ele é utilizado para problemas de tomada de decisão sequencial, onde um agente aprende
+         a interagir com um ambiente e recebe feedback positivo ou negativo.
+         B) Incorreta. O aprendizado não supervisionado não é utilizado principalmente em problemas de
+         regressão. Na verdade, o aprendizado não supervisionado é aplicado quando não há rótulos
+         disponíveis nos dados e o objetivo é descobrir padrões, estruturas ou agrupamentos nos dados.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                          8
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         C) Incorreta. No aprendizado semi-supervisionado, nem todos os dados de treinamento possuem
+         rótulos conhecidos. Nesse tipo de aprendizado, parte dos dados possui rótulos conhecidos e parte
+         não possui rótulos, sendo necessário utilizar informações dos dados rotulados para auxiliar na
+         classificação dos não rotulados.
+         D) Incorreta. O aprendizado não supervisionado não é aplicado apenas em problemas de
+         classificação. Ele também é amplamente utilizado em problemas de agrupamento, onde o objetivo
+         é identificar padrões ou grupos naturais nos dados, sem a necessidade de rótulos.
+         E) Correta. No aprendizado por reforço, um agente aprende a tomar decisões com base em
+         interações com um ambiente e recebe feedback positivo ou negativo, dependendo das ações
+         tomadas. Esse tipo de aprendizado é comumente utilizado em jogos, robótica e controle de
+         processos.
+
+         Gabarito: E
+
+                                                        ==219a34==
+
+
+
+
+     7. Qual dos seguintes algoritmos de mineração de dados é baseado em aprendizado não
+        supervisionado?
+
+         A) K-means
+         B) Naive Bayes
+         C) Árvores de Decisão
+         D) Regressão Logística
+         E) SVM (Support Vector Machine)
+
+         Comentários:
+
+         A) Correta. O algoritmo K-means é um algoritmo de agrupamento (clustering) baseado em
+         aprendizado não supervisionado. Ele agrupa os dados em clusters com base na similaridade entre
+         os pontos de dados, sem a necessidade de rótulos prévios.
+         B) Incorreta. O Naive Bayes é um algoritmo de classificação baseado em aprendizado
+         supervisionado. Ele utiliza o teorema de Bayes para calcular a probabilidade de uma instância
+         pertencer a uma determinada classe com base nas probabilidades condicionais dos atributos.
+         C) Incorreta. As árvores de decisão são algoritmos de classificação e regressão, geralmente baseados
+         em aprendizado supervisionado. Elas dividem os dados em diferentes caminhos de decisão com
+         base nos atributos, para prever a classe ou o valor de saída.
+         D) Incorreta. A regressão logística é um algoritmo de classificação binária baseado em aprendizado
+         supervisionado. Ele utiliza a regressão para modelar a relação entre os atributos e a probabilidade
+         de uma instância pertencer a uma classe específica.
+         E) Incorreta. O SVM (Support Vector Machine) é um algoritmo de classificação e regressão baseado
+         em aprendizado supervisionado. Ele mapeia os dados em um espaço dimensional superior para
+         encontrar um hiperplano de separação que maximize a margem entre as classes.
+
+         Gabarito: A
+
+
+8. Qual das seguintes afirmações sobre o algoritmo KNN está correta?
+
+         A) O KNN é um algoritmo de aprendizado não supervisionado.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                           9
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         B) O KNN é baseado em cálculo de distância entre os pontos de dados.
+         C) O KNN usa a probabilidade de ocorrência para fazer previsões.
+         D) O KNN é eficiente em conjuntos de dados com alta dimensionalidade.
+         E) O KNN é um algoritmo de agrupamento.
+
+         Comentários:
+
+         A) Incorreta. O KNN é um algoritmo de aprendizagem supervisionada
+         B) Correta. O KNN é baseado no cálculo de distância entre os pontos de dados. Ele atribui uma classe
+         a uma instância desconhecida com base nas classes dos k vizinhos mais próximos, utilizando a
+         distância euclidiana ou outras medidas de distância.
+         C) Incorreta. O KNN não usa a probabilidade de ocorrência para fazer previsões. Ele classifica uma
+         instância desconhecida com base nas classes dos vizinhos mais próximos, utilizando uma
+         abordagem de votação ou média dos rótulos.
+         D) Incorreta. O desempenho do KNN pode ser afetado por conjuntos de dados com alta
+         dimensionalidade, pois o cálculo de distância se torna mais complexo e os vizinhos mais próximos
+         podem não ser representativos o suficiente.
+         E) Incorreta. O KNN não é um algoritmo de agrupamento (clustering).
+
+         Gabarito: B
+
+
+     9. Qual das seguintes afirmações sobre a técnica de discretização está correta?
+
+         A) A discretização baseada em frequência divide os valores em intervalos iguais.
+         B) A discretização baseada em intervalos iguais mantém a ordem dos valores originais.
+         C) A discretização baseada em limites arbitrários usa a média dos valores existentes para definir os
+         intervalos.
+         D) A discretização baseada em limites arbitrários não permite que os valores sejam agrupados em
+         categorias.
+         E) A discretização baseada em frequência é mais adequada para atributos numéricos contínuos.
+
+         Comentários:
+
+         A) Incorreta. A discretização baseada em frequência não divide os valores em intervalos iguais, mas
+         sim com base na frequência de ocorrência de cada valor. Valores menos frequentes podem ser
+         agrupados em um único intervalo, enquanto valores mais frequentes podem ser divididos em vários
+         intervalos.
+         B) Correta. A discretização baseada em intervalos iguais mantém a ordem dos valores originais.
+         Nessa abordagem, os valores são divididos em intervalos de tamanho igual, preservando a ordem
+         dos valores originais.
+         C) Incorreta. A discretização baseada em limites arbitrários não utiliza a média dos valores existentes
+         para definir os intervalos. Nessa técnica, os limites dos intervalos são definidos de forma arbitrária,
+         sem levar em consideração as estatísticas dos valores existentes.
+         D) Incorreta. A discretização baseada em limites arbitrários permite que os valores sejam agrupados
+         em categorias. Nessa abordagem, os valores são mapeados em categorias específicas com base em
+         limites definidos arbitrariamente.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                            10
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         E) Incorreta. A discretização baseada em frequência não é necessariamente mais adequada para
+         atributos numéricos contínuos. Ela é mais adequada para lidar com atributos com valores
+         desbalanceados, onde alguns valores são muito mais frequentes do que outros.
+
+         Gabarito: B
+
+
+     10. Qual é o objetivo da etapa de Avaliação do CRISP-DM?
+
+         A) Criar um modelo preditivo com base nos dados disponíveis.
+         B) Transformar os dados brutos em uma forma adequada para análise.
+         C) Compreender as características e propriedades dos dados.
+         D) Validar e avaliar a qualidade dos modelos de mineração de dados criados.
+         E) Aplicar técnicas estatísticas para identificar padrões nos dados.
+
+         Comentários:
+
+         A) Incorreta. O objetivo da etapa de Avaliação do CRISP-DM não é criar um modelo preditivo, mas
+         sim avaliar os modelos de mineração de dados criados.
+         B) Incorreta. A etapa de Transformação dos dados brutos é realizada antes da etapa de Avaliação
+         no CRISP-DM. A transformação tem como objetivo preparar os dados para análise, aplicando
+         técnicas de limpeza, integração, redução, discretização, entre outras.
+         C) Incorreta. A etapa de Compreensão dos dados é realizada antes da etapa de Avaliação no CRISP-
+         DM. Na etapa de Compreensão, busca-se entender as características e propriedades dos dados,
+         explorando sua estrutura, distribuição e relacionamentos.
+         D) Correta. O objetivo da etapa de Avaliação do CRISP-DM é validar e avaliar a qualidade dos
+         modelos de mineração de dados criados. Nessa etapa, os modelos são testados, aferidos e
+         comparados para verificar sua eficácia e sua adequação aos critérios de sucesso definidos.
+         E) Incorreta. A aplicação de técnicas estatísticas para identificar padrões nos dados é mais
+         comumente realizada na etapa de Modelagem dos dados no CRISP-DM, e não na etapa de Avaliação.
+
+         Gabarito: D
+
+
+
+
+                                                 Machine Learning
+
+11. Qual é o principal objetivo da validação cruzada em machine learning?
+
+         A) Selecionar as melhores variáveis para o modelo.
+         B) Reduzir o overfitting.
+         C) Avaliar o desempenho do modelo em dados de teste.
+         D) Treinar o modelo em várias iterações.
+         E) Aumentar a dimensionalidade dos dados.
+
+         Comentários:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                      11
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         A) Incorreta. A seleção das melhores variáveis para o modelo é geralmente realizada por meio de
+         técnicas de seleção de recursos, não pela validação cruzada.
+         B) Incorreta. Embora a validação cruzada possa ajudar a identificar problemas de overfitting, esse
+         não é o seu principal objetivo.
+         C) Correta. A validação cruzada é usada para avaliar o desempenho do modelo em dados de teste,
+         permitindo estimar a capacidade de generalização do modelo.
+         D) Incorreta. Treinar o modelo em várias iterações pode ser necessário em alguns algoritmos de
+         aprendizado de máquina, mas não é o objetivo principal da validação cruzada.
+         E) Incorreta. Aumentar a dimensionalidade dos dados não é o objetivo da validação cruzada.
+
+         Gabarito: C
+
+
+     12. Qual é a principal diferença entre o paradigma simbólico e o paradigma estatístico em machine
+         learning?
+
+         A) O paradigma simbólico usa técnicas de clustering, enquanto o paradigma estatístico utiliza
+         árvores de decisão.
+         B) O paradigma simbólico é baseado em regras e representações explícitas de conhecimento,
+         enquanto o paradigma estatístico é baseado em modelos probabilísticos.
+         C) O paradigma simbólico é supervisionado, enquanto o paradigma estatístico é não supervisionado.
+         D) O paradigma simbólico é baseado em aprendizado por reforço, enquanto o paradigma estatístico
+         é baseado em aprendizado baseado em exemplos.
+         E) O paradigma simbólico requer grandes volumes de dados, enquanto o paradigma estatístico
+         funciona bem com conjuntos de dados pequenos.
+
+         Comentários:
+
+         A) Incorreta. O uso de técnicas de clustering e árvores de decisão não é uma distinção entre o
+         paradigma simbólico e o paradigma estatístico.
+         B) Correta. A principal diferença é que o paradigma simbólico é baseado em regras e representações
+         explícitas de conhecimento, enquanto o paradigma estatístico é baseado em modelos
+         probabilísticos.
+         C) Incorreta. Ambos os paradigmas podem ser aplicados tanto em problemas supervisionados
+         quanto não supervisionados.
+         D) Incorreta. O paradigma simbólico e o paradigma estatístico não estão diretamente relacionados
+         aos tipos de aprendizado mencionados.
+         E) Incorreta. O volume de dados não é uma distinção entre os dois paradigmas.
+
+         Gabarito: B
+
+
+     13. Qual é o principal problema do conceito de overfitting em machine learning??
+
+         A) O modelo não se ajusta bem aos dados de treinamento.
+         B) O modelo não é capaz de generalizar para novos dados.
+         C) O modelo está subajustado aos dados.
+         D) O modelo tem alta variância e baixo viés.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        12
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         E) O modelo tem baixa variância e alto viés.
+
+         Comentários:
+
+         A) Incorreta. O ajuste inadequado aos dados de treinamento pode ser um problema, mas não é o
+         principal problema do overfitting.
+         B) Correta. O principal problema do overfitting é que o modelo não é capaz de generalizar para
+         novos dados, ou seja, ele se ajusta muito bem aos dados de treinamento, mas tem um desempenho
+         ruim em dados não vistos anteriormente.
+         C) Incorreta. Quando o modelo está subajustado aos dados, temos o underfitting, não o overfitting.
+         D) Incorreta. Alta variância e baixo viés são características de modelos complexos que podem levar
+         ao overfitting, mas não são o principal problema.
+         E) Incorreta. Baixa variância e alto viés são características de modelos simples que podem levar ao
+         underfitting, não ao overfitting.
+
+         Gabarito: B
+
+
+     14. O que os componentes principais representam na técnica de redução de dimensionalidade PCA -
+         Principal Component Analysis?
+
+         A) São as variáveis originais do conjunto de dados.
+         B) São as classes ou rótulos dos dados.
+         C) São as médias e desvios padrão dos dados.
+         D) São os outliers detectados pelo PCA.
+         E) São as variáveis não correlacionadas que capturam a maior variação nos dados.
+
+         Comentários:
+
+         Componentes principais na técnica PCA representam as principais direções de variação dos dados e
+         são utilizados para projetar os dados em um espaço de menor dimensionalidade, preservando a
+         maior parte das informações relevantes.
+
+         Gabarito: E
+
+
+     15. Sobre árvores de decisão em Machine Learning, assinale a alternativa correta.
+
+         A) Árvores de decisão são robustas a outliers e dados desbalanceados, o que as torna adequadas
+         para lidar com diferentes tipos de conjuntos de dados.
+         B) Árvores de decisão são apenas adequadas para problemas de regressão, não para classificação
+         C) Árvores de decisão são menos interpretáveis do que outros modelos de aprendizado de máquina,
+         como regressão linear
+         D) O ganho de informação é utilizado para selecionar o atributo que resulta na melhor divisão dos
+         dados em um nó da árvore
+         E) Uma árvore de decisão não pode lidar com dados categóricos, apenas com dados numéricos
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                         13
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00
+    Fernando  Pedrosa Lopes
+  Aula 03
+
+
+
+         Comentários:
+
+         A) Incorreta. Árvores de decisão podem ser sensíveis a outliers e dados desbalanceados, o que pode
+         afetar seu desempenho.
+         B) Incorreta. Árvores de decisão são adequadas tanto para problemas de regressão quanto para
+         classificação.
+         C) Incorreta. Árvores de decisão são altamente interpretáveis, pois cada nó representa uma decisão
+         baseada em um atributo específico.
+         D) Correta. O ganho de informação é utilizado para selecionar o atributo que resulta na melhor
+         divisão dos dados em um nó da árvore.
+         E) Incorreta. Árvores de decisão podem lidar tanto com dados categóricos quanto com dados
+         numéricos.
+
+         Gabarito: D
+
+
+
+
+                                Prof. Fernando Pedrosa
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Fluência de Dados
+                                                                                                        14
+         www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+

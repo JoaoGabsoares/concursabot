@@ -1,0 +1,1751 @@
+                                                    Aula 14
+                          Receita Federal (Analista Tributário)
+                               Passo Estratégico de Legislação
+                                                     Tributária
+
+
+
+                                                         Autor:
+                             Raphael Rabelo Parreira, Bruno
+                                                       Bezerra
+
+
+                                           06 de Janeiro de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Raphael Rabelo Parreira, Bruno Bezerra
+      Aula 14
+
+
+
+
+                                                                                     Índice
+1) O que é mais cobrado - Imposto Territorial Rural - FGV
+..............................................................................................................................................................................................3
+
+2) Roteiro de revisão - Imposto Territorial Rural
+..............................................................................................................................................................................................5
+
+3) Aposta Estratégica - Imposto Territorial Rural - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            21
+
+4) Questões estratégicas - Imposto Territorial Rural - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            24
+
+5) Questionário de revisão - Imposto Territorial Rural
+..............................................................................................................................................................................................
+                                                                                                                                                                                            29
+
+6) Lista de Questões Estratégicas - Imposto Territorial Rural - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                                                                                          2
+                www.estrategiaconcursos.com.br                                                                                                                                           36
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+Foram analisadas 50 questões objetivas, do período 2015 a 2025, com banca prioritária FGV,
+complementadas por FCC e Cebraspe para atingir a amostragem.
+
+
+                                                                             Incidência do   Incidência do
+            Subassunto                            Tópico
+                                                                               Tópico (%)    Subassunto (%)
+
+
+
+     Princípios e regras
+                                      Competência tributária da
+ constitucionais aplicáveis                                                        15,0          30,0
+                                                   União
+              ao ITR
+
+
+
+                                        Finalidade extrafiscal e
+                                                                                   10,0
+                                    progressividade das alíquotas
+
+
+                                       Imunidade das pequenas
+                                                                                    5,0
+                                               glebas rurais
+
+
+                                       Delegação da cobrança e
+            Convênios                    fiscalização do ITR aos                   20,0          30,0
+                                                Municípios
+
+
+                                     Produto da arrecadação do
+                                                                                   10,0
+                                             ITR (50% x 100%)
+
+
+                                     Propriedade, domínio útil ou
+        Fato Gerador                                                               10,0          15,0
+                                           posse de imóvel rural
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                      3
+        www.estrategiaconcursos.com.br                                                                       36
+
+                                     https://t.me/KakashiAssinaturasBot
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 14
+
+
+
+
+                                   Distinção ITR x IPTU (critério
+                                                                                  5,0
+                                     da destinação do imóvel)
+
+
+
+                                      Valor da terra nua (valor
+    Base de Cálculo                                                              10,0    10,0
+                                               fundiário)
+
+
+
+                                           Lançamento por
+          Apuração                                                                5,0    10,0
+                                            homologação
+
+                                                      ==219a34==
+
+
+
+
+                                         Exclusão de áreas de
+                                      preservação da base de                      5,0
+                                                cálculo
+
+
+
+                                       Proprietário, titular do
+      Contribuinte                                                                5,0    5,0
+                                     domínio útil ou possuidor
+
+
+
+                                      Regras de pagamento e
+          Pagamento                                                               0,0    0,0
+                                            parcelamento
+
+
+
+                                      Lançamento de ofício e
+Procedimentos de Ofício                                                           0,0    0,0
+                                              fiscalização
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária          4
+                                                                                                36
+      www.estrategiaconcursos.com.br                                                             2
+                                   https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+
+Princípios e regras constitucionais aplicáveis ao imposto
+
+O ITR incide sobre propriedades territoriais localizadas fora da área urbana dos municípios e é
+de competência privativa da União.
+
+Trata-se de imposto com forte finalidade extrafiscal, como instrumento de política agrária,
+buscando estimular a produtividade das propriedades rurais. Pegadinha: estimular produtividade
+equivale a desestimular a manutenção de imóveis improdutivos.
+
+Há imunidade para pequenas glebas rurais quando exploradas pelo proprietário que não possua
+outro imóvel. A delimitação legal das pequenas glebas varia por região:
+
+Art. 2º Nos termos do art. 153, § 4º, in fine, da Constituição, o imposto não incide sobre
+pequenas glebas rurais, quando as explore, só ou com sua família, o proprietário que não possua
+outro imóvel.
+Parágrafo único. Para os efeitos deste artigo, pequenas glebas rurais são os imóveis com área
+igual ou inferior a :
+I - 100 ha, se localizado em município compreendido na Amazônia Ocidental ou no Pantanal
+mato-grossense e sul-mato-grossense;
+II - 50 ha, se localizado em município compreendido no Polígono das Secas ou na Amazônia
+Oriental;
+III - 30 ha, se localizado em qualquer outro município.
+
+A União pode permitir que Municípios fiscalizem e cobrem o ITR, desde que isso não implique
+redução do imposto nem renúncia fiscal. Pegadinha: isso é delegação da capacidade tributária
+ativa, sem mudar a competência, que permanece da União.
+
+Se o Município optar por fiscalizar e arrecadar, recebe 100% do arrecadado relativo aos imóveis
+nele situados. Se não optar, recebe 50%.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        5
+        www.estrategiaconcursos.com.br                                                          36
+
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Quadro de alta incidência em prova:
+
+
+
+                                   Princípio Tributário               Aplicação ao ITR
+
+
+
+                                 Princípio da Legalidade                   Aplicável.
+
+
+
+                           Princípio da Anterioridade Anual                Aplicável.
+
+
+
+                                 Princípio da Noventena                    Aplicável.
+
+
+
+                              Princípio da Irretroatividade                Aplicável.
+
+
+
+Fato Gerador
+
+O fato gerador do ITR está no CTN:
+
+Art. 29. O imposto, de competência da União, sobre a propriedade territorial rural tem como fato
+gerador a propriedade, o domínio útil ou a posse de imóvel por natureza, como definido na lei
+civil, localização fora da zona urbana do Município.
+
+Imóvel por natureza remete ao solo nu e ao que lhe foi agregado pela própria natureza, como
+árvores e vegetação.
+
+Regra central: o ITR recai sobre imóvel fora da zona urbana. Para identificar a zona urbana, usa-se
+a definição do CTN (no contexto do IPTU), exigindo lei municipal e presença mínima de dois
+melhoramentos.
+
+§ 1º Para os efeitos deste imposto, entende-se como zona urbana a definida em lei municipal;
+observado o requisito mínimo da existência de melhoramentos indicados em pelo menos 2 (dois)
+dos incisos seguintes, construídos ou mantidos pelo Poder Público:
+I - meio-fio ou calçamento, com canalização de águas pluviais;
+II - abastecimento de água;
+III - sistema de esgotos sanitários;
+IV - rede de iluminação pública, com ou sem posteamento para distribuição domiciliar;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         6
+                                                                                                36
+        www.estrategiaconcursos.com.br                                                           2
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+V - escola primária ou posto de saúde a uma distância máxima de 3 (três) quilômetros do imóvel
+considerado.
+
+Além disso, a lei municipal pode considerar urbanas áreas urbanizáveis ou de expansão urbana
+constantes de loteamentos aprovados, mesmo fora da zona definida, desde que destinadas à
+habitação, indústria ou comércio.
+
+Pegadinha recorrente: além do critério topográfico do CTN, existe regra do Decreto-Lei 57/1966.
+Mesmo que o imóvel esteja em área definida como urbana, se estiver utilizado em exploração
+extrativa vegetal, agrícola, pecuária ou agroindustrial, incide ITR, e não IPTU.
+
+Dica de prova: quando essa regra for cobrada, a questão costuma indicar a destinação do
+imóvel ou citar expressamente o Decreto-Lei.
+
+Quando o imóvel se estende por mais de um município, aplica-se:
+
+§ 3º O imóvel que pertencer a mais de um município deverá ser enquadrado no município onde
+fique a sede do imóvel e, se esta não existir, será enquadrado no município onde se localize a
+maior parte do imóvel.
+
+
+Contribuinte
+
+O CTN define como contribuinte:
+
+Art. 31. Contribuinte do imposto é o proprietário do imóvel, o titular de seu domínio útil, ou o seu
+possuidor a qualquer título.
+
+Proprietário é quem tem o imóvel registrado em cartório.
+
+Titular do domínio útil é típico da enfiteuse (foreiro/enfiteuta), que mantém o domínio útil e pode
+aliená-lo. Observação relevante: o Código Civil (art. 2.038) proibiu novas enfiteuses e
+subenfiteuses; as existentes seguem até sua extinção, sob o regime anterior.
+
+Possuidor a qualquer título inclui quem exerce poderes sobre a propriedade. Pegadinha: se a
+prova afirmar que “posseiros” podem ser contribuintes do ITR, considere correto.
+
+Observação jurisprudencial destacada: se o imóvel é invadido, não se viabiliza a cobrança do ITR,
+por haver perda do domínio e dos direitos inerentes à propriedade.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária          7
+                                                                                                 36
+        www.estrategiaconcursos.com.br                                                            3
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+Base de Cálculo
+
+A base de cálculo é:
+
+Art. 30. A base do cálculo do imposto é o valor fundiário.
+
+Valor fundiário corresponde ao valor da terra nua. Assim, benfeitorias (construções, instalações)
+não integram a base.
+
+As alíquotas do ITR são progressivas conforme o grau de utilização da área rural. Ideia-
+chave: menor produtividade, maior alíquota.
+
+Mesmo sendo extrafiscal, a alteração de alíquotas do ITR permanece sujeita à anterioridade e
+à noventena.
+
+
+Apuração
+
+A apuração do ITR é anual e o lançamento é por homologação. Em regra, o sujeito passivo paga
+antecipadamente, e a administração pode homologar posteriormente.
+
+A lei estabelece:
+
+Art. 10. A apuração e o pagamento do ITR serão efetuados pelo contribuinte, independentemente
+de prévio procedimento da administração tributária, nos prazos e condições estabelecidos pela
+Secretaria da Receita Federal, sujeitando-se a homologação posterior.
+
+A declaração anual obrigatória é o Documento de Informação e Apuração do ITR (DIAT), por
+imóvel. Nele o contribuinte informa o VTN:
+
+Art. 8º O contribuinte do ITR entregará, obrigatoriamente, em cada ano, o Documento de
+Informação e Apuração do ITR - DIAT, correspondente a cada imóvel, observadas data e condições
+fixadas                pela                 Secretaria                 da                Receita   Federal.
+§ 1º O contribuinte declarará, no DIAT, o Valor da Terra Nua - VTN correspondente ao imóvel.
+§ 2º O VTN refletirá o preço de mercado de terras, apurado em 1º de janeiro do ano a que se
+referir o DIAT, e será considerado auto-avaliação da terra nua a preço de mercado.
+§ 3º O contribuinte cujo imóvel se enquadre nas hipóteses estabelecidas nos arts. 2º e 3º fica
+dispensado da apresentação do DIAT.
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária               8
+                                                                                                        36
+          www.estrategiaconcursos.com.br                                                                 4
+                                       https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Pegadinha: contribuintes imunes ou isentos ficam dispensados do DIAT.
+
+Na apuração, a lei separa conceitos essenciais:
+
+   •   VTN: valor do imóvel excluídos valores relativos a construções, instalações, benfeitorias,
+       culturas, pastagens cultivadas/melhoradas e florestas plantadas.
+   •   Área tributável: área total menos áreas excluídas (preservação permanente, reserva legal,
+       interesse ecológico, áreas imprestáveis, servidão ambiental, florestas nativas em
+       regeneração, áreas alagadas para reservatório de hidrelétrica, entre outras).
+   •   VTNt: VTN multiplicado pelo quociente área tributável/área total.
+   •   Grau de Utilização (GU): percentual entre área efetivamente utilizada e área aproveitável.
+
+Há destaque jurisprudencial: admite-se a exclusão de área de preservação permanente da base de
+cálculo do ITR sem necessidade de Ato Declaratório Ambiental do IBAMA.
+
+O Decreto que regulamenta o ITR detalha hipóteses de exclusão da área total, e traz regra de não
+duplicidade: se a área se enquadrar em mais de uma hipótese, exclui-se uma única vez.
+
+Pegadinha prática: para reduzir o ITR com base em áreas excluídas, o uso de ADA é tratado como
+obrigatório, e há consequências como Taxa de Vistoria, com limite de 10% do valor da redução do
+imposto. O pagamento pode ser em cota única ou parcelado, e nenhuma parcela pode ser inferior
+a R$ 50,00.
+
+O valor do imposto é obtido pela aplicação da alíquota sobre o VTNt, considerando área total e
+GU:
+
+Art. 11. O valor do imposto será apurado aplicando-se sobre o Valor da Terra Nua Tributável -
+VTNt a alíquota correspondente, prevista no Anexo desta Lei, considerados a área total do imóvel
+e o Grau de Utilização - GU.
+
+Regra objetiva: o imposto devido não pode ser inferior a R$ 10,00.
+
+
+Do Pagamento
+
+Prazo e parcelamento:
+
+Art. 12. O imposto deverá ser pago até o último dia útil do mês fixado para a entrega do DIAT.
+Parágrafo único. À opção do contribuinte, o imposto a pagar poderá ser parcelado em até três
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária            9
+                                                                                                36
+        www.estrategiaconcursos.com.br                                                              5
+                                     https://t.me/KakashiAssinaturasBot
+    Raphael Rabelo Parreira, Bruno Bezerra
+    Aula 14
+
+
+
+quotas            iguais,          mensais            e           consecutivas,               observando-se     que:
+I      -      nenhuma          quota         será      inferior      a      R$       50,00        (cinqüenta   reais);
+II - a primeira quota ou quota única deverá ser paga até a data fixada no caput;
+III - as demais quotas, acrescidas de juros equivalentes à taxa referencial do Sistema de Liquidação
+e de Custódia (SELIC) para títulos federais, acumulada mensalmente, calculados a partir do
+primeiro dia do mês subseqüente à data fixada no caput até o último dia do mês anterior ao do
+pagamento, e de 1% (um por cento) no mês do pagamento, vencerão no último dia útil de cada
+mês;
+IV - é facultado ao contribuinte antecipar, total ou parcialmente, o pagamento do imposto ou das
+quotas.
+
+Pagamento em atraso gera multa e juros:
+
+Art. 13. O pagamento do imposto fora dos prazos previstos nesta Lei será acrescido de:
+I - multa de mora calculada à taxa de 0,33% (zero vírgula trinta e três por cento), por dia de atraso,
+não podendo ultrapassar 20% (vinte por cento), calculada a partir do primeiro dia subseqüente ao
+do vencimento do prazo previsto para o pagamento do imposto até o dia em que ocorrer o seu
+pagamento;
+II - juros de mora calculados à taxa a que se refere o art. 12, parágrafo único, inciso III, a partir do
+primeiro dia do mês subseqüente ao vencimento do prazo até o mês anterior ao do pagamento, e
+de 1% (um por cento) no mês do pagamento.
+
+
+Dos Procedimentos de Ofício
+
+Quando houver falta de declaração, subavaliação ou informações inexatas, incorretas ou
+fraudulentas, a RFB pode apurar e lançar de ofício:
+
+Art. 14. No caso de falta de entrega do DIAC ou do DIAT, bem como de subavaliação ou prestação
+de informações inexatas, incorretas ou fraudulentas, a Secretaria da Receita Federal procederá à
+determinação e ao lançamento de ofício do imposto, considerando informações sobre preços de
+terras, constantes de sistema a ser por ela instituído, e os dados de área total, área tributável e
+grau de utilização do imóvel, apurados em procedimentos de fiscalização.
+
+As multas aplicáveis seguem as previstas para os demais tributos federais.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                        10
+                                                                                                                   36
+           www.estrategiaconcursos.com.br                                                                           6
+                                        https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+Da Administração do Imposto
+
+A administração do ITR é da RFB:
+
+Art. 15. Compete à Secretaria da Receita Federal a administração do ITR, incluídas as atividades
+de arrecadação, tributação e fiscalização.
+
+No processo administrativo fiscal, para determinação, exigência, penalidades, repetição de
+indébito, consultas e compensação, aplica-se a legislação utilizada para os demais tributos federais.
+
+Pode haver convênio com o INCRA para delegação de fiscalização de informações do DIAC e DIAT.
+Nessa hipótese, agentes do INCRA podem acessar imóvel de propriedade particular para
+levantamento de dados.
+
+O CAFIR é administrado pela RFB com apoio do INCRA, com observância das regras de sigilo
+fiscal.
+
+A RFB também pode celebrar convênios com órgãos da administração tributária das unidades
+federadas para delegar competência de cobrança e lançamento do ITR, e com CNA e CONTAG
+para fornecimento de dados cadastrais de imóveis rurais.
+
+
+Dívida Ativa - Penhora ou Arresto
+
+Em execução de dívida ativa do ITR, a regra privilegia a constrição do próprio imóvel rural, se não
+houver penhora/arresto sobre dinheiro:
+
+Art. 18. Na execução de dívida ativa, decorrente de crédito tributário do ITR, na hipótese de
+penhora ou arresto de bens, previstos no art. 11 da Lei nº 6.830, de 22 de setembro de 1980, será
+penhorado ou arrestado, preferencialmente, imóvel rural, não tendo recaído a penhora ou o arresto
+sobre dinheiro.
+
+O dispositivo prevê avaliação com base no VTN declarado e admite adjudicação pela Fazenda
+Pública, ouvido o INCRA, com efeitos fundiários e registro em nome do INCRA, em certas
+condições.
+
+Distinção útil:
+
+    •     Penhora: apreensão de bens para garantir execução de dívida já reconhecida judicialmente.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        11
+                                                                                                  36
+          www.estrategiaconcursos.com.br                                                           7
+                                       https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+   •   Arresto: apreensão cautelar antes do reconhecimento judicial da dívida.
+
+
+Registro Público
+
+Regra relevante para atos em cartório:
+
+Art. 21. É obrigatória a comprovação do pagamento do ITR, referente aos cinco últimos exercícios,
+para serem praticados quaisquer dos atos previstos nos arts. 167 e 168 da Lei nº 6.015, de 31 de
+dezembro de 1973 (Lei dos Registros Públicos), observada a ressalva prevista no caput do artigo
+anterior,                                                    in                             fine.
+Parágrafo único. São solidariamente responsáveis pelo imposto e pelos acréscimos legais, nos
+termos do art. 134 da Lei nº 5.172, de 25 de outubro de 1966 - Sistema Tributário Nacional, os
+serventuários do registro de imóveis que descumprirem o disposto neste artigo, sem prejuízo de
+outras sanções legais.
+
+Pegadinha: se o serventuário não exigir a comprovação, pode responder solidariamente pelo
+imposto e acréscimos.
+
+
+ITR – IN RFB 1640/2016
+
+A IN disciplina convênios entre a RFB, em nome da União, e Municípios/DF, para delegar
+atribuições de fiscalização, lançamento e cobrança do ITR, mantendo a vedação de redução do
+imposto ou renúncia fiscal.
+
+CAPÍTULO I - DAS DISPOSIÇÕES GERAIS
+
+O convênio pode delegar fiscalização (inclusive lançamento) e cobrança do ITR. A celebração não
+prejudica competências supletivas da RFB.
+
+Não se incluem na delegação: lançamento de multa por atraso na DITR e o contencioso
+administrativo decorrente das atribuições delegadas. As regras materiais aplicáveis ao ITR
+continuam as mesmas para imóveis sob circunscrição conveniada ou não.
+
+As regras de obrigatoriedade, prazos e condições de apresentação da DITR são definidas pela RFB
+para todos os imóveis. O Portal ITR reúne relação de entes conveniados e informações.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária      12
+                                                                                              36
+        www.estrategiaconcursos.com.br                                                         8
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+CAPÍTULO II - DOS REQUISITOS PARA A CELEBRAÇÃO DO CONVÊNIO
+
+Requisitos prévios centrais:
+
+   •   Estrutura de tecnologia da informação para acesso aos sistemas.
+   •   Lei vigente criando cargo com atribuição de lançamento de créditos tributários.
+   •   Servidor concursado para o cargo, em efetivo exercício.
+   •   Opção pelo Domicílio Tributário Eletrônico (DTE).
+
+CAPÍTULO III - DA CELEBRAÇÃO DO CONVÊNIO
+
+Seção I - Da Protocolização e da Instrução da Opção
+
+A protocolização do termo de opção é exclusivamente eletrônica, com assinatura eletrônica via
+certificado digital. Ao protocolizar, o ente adere ao modelo de convênio aplicável e se compromete
+a comprovar requisitos e cumprir objetivos.
+
+A RFB formaliza processo digital de gestão do convênio e intima o ente a juntá-lo com documentos,
+como lei do cargo, termo de indicação de servidores, editais do concurso, atos de nomeação e
+declaração de estrutura de TI.
+
+Seção II - Da Verificação da Documentação e do Deferimento da Opção
+
+A unidade da RFB verifica a documentação e decide conclusivamente por conformidade ou não,
+deferindo ou indeferindo a opção. Pode solicitar esclarecimentos e documentos adicionais.
+
+Pegadinha: a verificação não isenta o ente e seus agentes de responsabilidade administrativa ou
+penal quanto à autenticidade das informações.
+
+Seção III - Da Assinatura e da Publicação do Instrumento de Convênio
+
+O convênio é assinado eletronicamente pelos representantes da RFB e do Município/DF. A
+assinatura no ato do protocolo só produz efeitos a partir da data fixada para a vigência.
+
+A RFB providencia a publicação do extrato no Diário Oficial e o disponibiliza no Portal ITR.
+
+Seção IV - Da Vigência e dos Efeitos do Convênio
+
+A vigência inicia com a publicação do extrato no Diário Oficial e o prazo é indeterminado.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária       13
+                                                                                               36
+        www.estrategiaconcursos.com.br                                                          9
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Após a publicação, os servidores indicados devem ser capacitados em curso de formação realizado
+pela RFB. A falta de capacitação pode levar à denúncia automática do convênio.
+
+Concluída a capacitação, o representante do ente solicita o cadastramento dos servidores no
+sistema. Servidor capacitado e cadastrado é considerado habilitado para fiscalização e cobrança.
+
+CAPÍTULO IV - DO PRODUTO DA ARRECADAÇÃO DO ITR
+
+O ente conveniado faz jus a 100% do produto da arrecadação do ITR dos imóveis nele situados, a
+partir da efetivação do cadastramento de seus servidores.
+
+Pegadinha: o marco prático é o cadastramento dos servidores.
+
+CAPÍTULO V - DAS CONDIÇÕES PARA A EXECUÇÃO DO CONVÊNIO
+
+Durante a execução, o ente deve cumprir um conjunto de deveres, como manter TI, manter
+servidores habilitados, informar VTN/ha para atualização de sistema de preços, cumprir metas
+mínimas de fiscalização, observar sigilo fiscal e segurança dos sistemas, emitir documentos
+conforme modelos, encaminhar processos, atender contribuintes, guardar documentos por 6 anos
+e arcar com custos de treinamento e expedição.
+
+Se não conseguir cumprir, deve informar imediatamente à RFB, que pode fixar prazo de
+adequação. A RFB pode solicitar esclarecimentos e documentos a qualquer tempo, com prazo de
+30 dias, sob pena de denúncia.
+
+CAPÍTULO VI - DA DENÚNCIA DO CONVÊNIO
+
+O convênio pode ser denunciado a qualquer tempo pelo conveniado (desistência) ou pela RFB
+(descumprimento das condições). Se a denúncia partir da RFB, em regra há comunicação escrita
+prévia com prazo de até 30 dias para adequação.
+
+Há hipóteses de denúncia automática, sem concessão desse prazo, como execução reiterada de
+procedimentos fiscais em desacordo com normas com cancelamento relevante de lançamentos,
+transcurso in albis de prazo para apresentação de documentos, falhas na inscrição/conclusão de
+curso, e descumprimento de regras de sigilo fiscal.
+
+A denúncia produz efeitos financeiros a partir de 1º de janeiro do ano subsequente. Ainda assim,
+a partir da data da denúncia o ente fica proibido de executar atos de ofício decorrentes do
+convênio.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária      14
+                                                                                              36
+        www.estrategiaconcursos.com.br                                                        10
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Após a denúncia, o conveniado deve apensar informações e documentos dos procedimentos em
+andamento e dos concluídos nos últimos seis anos ao processo digital, no prazo de 30 dias.
+
+
+Síntese do ITR
+
+
+               Elemento                                              Conteúdo essencial
+
+
+
+             Competência                                                   União.
+
+
+
+              Finalidade                                                 Extrafiscal.
+                                                        ==219a34==
+
+
+
+
+             Fato gerador        Propriedade, domínio útil ou posse de imóvel por natureza.
+
+
+
+            Base de cálculo                           Valor fundiário (terra nua).
+
+
+
+               Alíquota                 Progressiva, conforme grau de utilização e área.
+
+
+             Contribuinte               Proprietário, titular do domínio útil ou possuidor.
+
+
+
+             Lançamento                                              Por homologação.
+
+
+
+4) Imposto sobre Operações Financeiras
+
+IOF
+
+Princípios e regras constitucionais aplicáveis ao imposto
+
+O IOF é imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores
+mobiliários. É tributo eminentemente extrafiscal, utilizado como instrumento de política
+monetária.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária      15
+                                                                                              36
+        www.estrategiaconcursos.com.br                                                        11
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+O IOF também incide sobre o ouro, quando definido em lei como ativo financeiro ou instrumento
+cambial. Nesse caso, há incidência exclusiva do IOF, devido na operação de origem, com alíquota
+mínima de 1%, e repartição do produto arrecadado entre Estado/DF/Território e Município
+conforme percentuais constitucionais.
+
+A operação de origem corresponde à primeira aquisição por instituição autorizada ou ao
+desembaraço aduaneiro quando o ouro vier do exterior. Pegadinha: é incorreta a cobrança em
+momento diverso da operação de origem.
+
+Não há incidência do IOF sobre saques em caderneta de poupança, conforme súmula do STF.
+
+Jurisprudência destacada: alienação de salvados integra operações de seguro e não configura
+circulação de mercadoria para fins de ICMS. Observação objetiva: o ICMS não incide sobre
+alienação de salvados de sinistro pelas seguradoras.
+
+Outra observação recorrente: incide IOF sobre resultado de operação de mútuo.
+
+Quadro de princípios aplicáveis ao IOF:
+
+
+
+       Princípio Tributário                                           Aplicação ao IOF
+
+
+
+                                             Excepcionado (alteração de alíquotas dentro dos limites
+     Princípio da Legalidade
+                                                                            legais).
+
+
+   Princípio da Anterioridade
+                                                                       Excepcionado.
+                Anual
+
+
+
+     Princípio da Noventena                                            Excepcionado.
+
+
+   Princípio da Irretroatividade                                           Aplicável.
+
+
+
+Imunidade relevante: a imunidade do art. 150, VI, “c”, alcança o IOF para partidos políticos
+(inclusive fundações), entidades sindicais de trabalhadores e instituições de educação e assistência
+social sem fins lucrativos, atendidos requisitos. A vinculação às finalidades essenciais é presumida,
+e o ônus de provar desvio de finalidade recai sobre o sujeito ativo.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária               16
+                                                                                                       36
+        www.estrategiaconcursos.com.br                                                                 12
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Pegadinha aplicada: compras no exterior com cartão de crédito internacional, feitas por prepostos
+de instituições imunes, podem sofrer IOF quando o contribuinte na operação de câmbio for a
+administradora do cartão, que não goza de imunidade. Nessa lógica, o valor lançado na fatura, a
+título de IOF, pode ser tratado como repasse de encargo financeiro contratual.
+
+Fato Gerador
+
+O fato gerador do IOF está no CTN:
+
+Art. 63. O imposto, de competência da União, sobre operações de crédito, câmbio e seguro, e
+sobre      operações     relativas   a     títulos    e   valores   mobiliários      tem        como       fato   gerador:
+I - quanto às operações de crédito, a sua efetivação pela entrega total ou parcial do montante ou
+do valor que constitua o objeto da obrigação, ou sua colocação à disposição do interessado;
+II - quanto às operações de câmbio, a sua efetivação pela entrega de moeda nacional ou
+estrangeira, ou de documento que a represente, ou sua colocação à disposição do interessado em
+montante equivalente à moeda estrangeira ou nacional entregue ou posta à disposição por este;
+III - quanto às operações de seguro, a sua efetivação pela emissão da apólice ou do documento
+equivalente,       ou      recebimento           do       prêmio,       na      forma           da     lei        aplicável;
+IV - quanto às operações relativas a títulos e valores mobiliários, a emissão, transmissão,
+pagamento           ou        resgate           destes,        na         forma            da        lei          aplicável.
+Parágrafo único. A incidência definida no inciso I exclui a definida no inciso IV, e reciprocamente,
+quanto à emissão, ao pagamento ou resgate do título representativo de uma mesma operação de
+crédito.
+
+Pegadinha: o parágrafo único impede incidência cumulativa quando uma operação de crédito
+estiver representada por título, evitando dupla incidência.
+
+O RIOF detalha incidências e inclui ouro como ativo financeiro ou instrumento cambial, além de
+indicar hipótese de não incidência para operação de crédito externo, sem prejuízo de eventual
+incidência em operações de câmbio associadas.
+
+Contribuinte
+
+O CTN permite que a lei defina o contribuinte como qualquer das partes na operação:
+
+Art. 66. Contribuinte do imposto é qualquer das partes na operação tributada, como dispuser a lei.
+
+Na prática, são apontados como contribuintes:
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                                 17
+                                                                                                                         36
+        www.estrategiaconcursos.com.br                                                                                   13
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+   •   Operação de crédito: pessoas físicas ou jurídicas tomadoras de crédito.
+   •   Factoring: alienante do direito creditório.
+   •   Operação de câmbio: compradores ou vendedores de moeda estrangeira nas transferências
+       financeiras.
+   •   Operação de seguro: segurados.
+   •   Operações com títulos/valores: adquirentes e titulares de aplicações (e hipóteses específicas
+       previstas).
+   •   Ouro ativo financeiro/instrumento cambial: instituições autorizadas que efetuarem a primeira
+       aquisição.
+
+Pegadinha: contribuinte não é necessariamente quem recolhe; muitas vezes há responsável
+tributário encarregado da cobrança e do recolhimento.
+
+Responsáveis
+
+DA INCIDÊNCIA SOBRE OPERAÇÕES DE CRÉDITO
+
+São responsáveis pela cobrança do IOF e recolhimento ao Tesouro Nacional:
+
+   •   Instituições financeiras que efetuarem operações de crédito.
+   •   Empresas de factoring adquirentes do direito creditório.
+   •   Pessoa jurídica que conceder crédito em mútuo de recursos financeiros.
+
+DA INCIDÊNCIA SOBRE OPERAÇÕES DE CÂMBIO
+
+Responsáveis: instituições autorizadas a operar em câmbio.
+
+DA INCIDÊNCIA SOBRE OPERAÇÕES DE SEGURO
+
+Responsáveis: seguradoras ou instituições financeiras encarregadas da cobrança do prêmio. A
+seguradora responde pelos dados constantes da documentação remetida.
+
+DA     INCIDÊNCIA         SOBRE        OPERAÇÕES            RELATIVAS          A    TÍTULOS   OU   VALORES
+MOBILIÁRIOS
+
+Responsáveis incluem instituições autorizadas a operar com títulos e valores mobiliários, bolsas,
+instituições de liquidação (como no SELIC/CETIP), administradores de fundos e instituições
+intermediadoras, conforme hipóteses normativas, com deveres instrumentais de registro, controle
+e informação.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                18
+                                                                                                        36
+        www.estrategiaconcursos.com.br                                                                  14
+                                     https://t.me/KakashiAssinaturasBot
+   Raphael Rabelo Parreira, Bruno Bezerra
+   Aula 14
+
+
+
+Base de Cálculo
+
+O CTN fixa as bases de cálculo:
+
+Art. 64. A base de cálculo do imposto é:
+I - quanto às operações de crédito, o montante da obrigação, compreendendo o principal e os
+juros;
+II - quanto às operações de câmbio, o respectivo montante em moeda nacional, recebido,
+entregue ou posto à disposição;
+III - quanto às operações de seguro, o montante do prêmio;
+IV - quanto às operações relativas a títulos e valores mobiliários:
+a) na emissão, o valor nominal mais o ágio, se houver;
+b) na transmissão, o preço ou o valor nominal, ou o valor da cotação em Bolsa, como determinar
+a lei;
+c) no pagamento ou resgate, o preço.
+
+Observação prática: nas operações com ouro, usa-se o preço de aquisição, observados limites de
+variação de cotação no mercado doméstico no dia da operação.
+
+Apuração
+
+O IOF é lançado por homologação, com pagamento antecipado.
+
+Regras de cobrança destacadas:
+
+    •    Crédito: cobrança pode ocorrer no primeiro dia útil do mês subsequente ao de apuração
+         (quando apuração mensal), ou em datas específicas como prorrogação, renovação,
+         desconto e pagamento de operação não liquidada no vencimento.
+    •    Câmbio: cobrança na data da liquidação da operação.
+    •    Seguro: cobrança na data do recebimento total ou parcial do prêmio.
+    •    Títulos/valores e ouro: cobrança na data da ocorrência do fato gerador.
+
+Em todos os casos, é relevante distinguir a data de cobrança e o prazo de recolhimento efetivo
+previsto, vinculado ao decêndio da cobrança ou do registro contábil.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária     19
+                                                                                              36
+         www.estrategiaconcursos.com.br                                                       15
+                                      https://t.me/KakashiAssinaturasBot
+ Raphael Rabelo Parreira, Bruno Bezerra
+ Aula 14
+
+
+
+
+Síntese do IOF
+
+
+  Elemento                                              Conteúdo essencial
+
+
+
+Competência                                                     União.
+
+
+
+  Finalidade                                                  Extrafiscal.
+
+
+                    Crédito e câmbio: valor entregue ou posto à disposição. Seguro: emissão da
+ Fato gerador         apólice ou recebimento do prêmio. Títulos/valores: emissão, transmissão,
+                         pagamento ou resgate. Ouro: aquisição ou desembaraço aduaneiro.
+
+
+
+                       Crédito: montante (principal + juros). Câmbio: valor em moeda nacional.
+   Base de
+                    Seguro: prêmio. Títulos/valores: conforme evento (emissão inclui ágio). Ouro:
+   cálculo
+                                                        preço de aquisição.
+
+
+
+                   Reduzida/majorada por ato do Poder Executivo, conforme condições e limites
+   Alíquota
+                                                                legais.
+
+
+
+  Princípios            Exceção à anterioridade anual e à noventena; irretroatividade aplicável.
+
+
+ Contribuinte                             Qualquer das partes, como dispuser a lei.
+
+
+
+ Lançamento                                              Por homologação.
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária            20
+                                                                                                   36
+       www.estrategiaconcursos.com.br                                                              16
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+                                    APOSTA ESTRATÉGICA
+
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem
+cobrados em prova, considerando o histórico de questões da banca em provas de nível
+semelhante à nossa, bem como a experiência do professor.
+
+
+
+
+Dentro do assunto “Imposto Territorial Rural”, o tópico “Princípios constitucionais e regras
+gerais” é o ponto que acreditamos ser o que possui mais chances de ser cobrado pela banca,
+conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+
+     Aspecto                               ITR                                             IOF
+
+
+
+                                                                  União; incide sobre operações de crédito,
+                               União; incide sobre                       câmbio e seguro, ou relativas a
+ Competência e
+                       propriedades territoriais fora da             títulos/valores mobiliários, e também
+  hipótese geral
+                                   área urbana.                     sobre ouro quando definido como ativo
+                                                                       financeiro ou instrumento cambial.
+
+
+
+                           Extrafiscal: instrumento de
+                        política agrária, para estimular
+ Finalidade (traço                                                     Extrafiscal: instrumento de política
+                        a produtividade e desestimular
+    marcante)                                                                         monetária.
+                       a manutenção de propriedades
+                                   improdutivas.
+
+
+
+                         Progressividade das alíquotas
+       Regra           para desestimular propriedades Ouro: sujeição exclusiva ao IOF, devido na
+  constitucional               improdutivas.          operação de origem, com alíquota mínima
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                      21
+        www.estrategiaconcursos.com.br                                                                        36
+
+                                     https://t.me/KakashiAssinaturasBot
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 14
+
+
+
+
+ específica de                                                      de 1%, e repartição de 30% (Estado, DF
+   destaque                                                            ou Território) e 70% (Município).
+
+
+
+
+                      Pode ser fiscalizado e cobrado
+                       por Municípios que optarem,
+                      sem redução do imposto nem
+                             renúncia fiscal; isso
+                        é delegação de capacidade
+                       tributária ativa, sem alterar a==219a34==
+
+
+
+
+                           competência da União.
+
+
+ Delegação e                                                       Não há regra semelhante destacada neste
+ arrecadação                                                                             trecho.
+
+
+
+
+                      Se o Município optar, recebe a
+                       totalidade do arrecadado; se
+                         não optar, recebe 50% do
+                      montante relativo aos imóveis
+                                 nele situados.
+
+
+
+                                                                      Não há incidência sobre saques em
+                        Não incide sobre pequenas                          caderneta de poupança.
+Imunidades e                glebas rurais, quando
+não incidências        exploradas pelo proprietário
+  relevantes           que não possua outro imóvel
+                         (conceito definido em lei).               Imunidade do art. 150, VI, “c” alcança o
+                                                                                          IOF.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                        22
+                                                                                                              36
+      www.estrategiaconcursos.com.br                                                                           2
+                                   https://t.me/KakashiAssinaturasBot
+ Raphael Rabelo Parreira, Bruno Bezerra
+ Aula 14
+
+
+
+
+   Princípios                                                     Legalidade: excepcionada para alteração
+                          Legalidade, anterioridade
+ constitucionais                                                        de alíquotas dentro dos limites
+                              anual, noventena e
+tributários (regra                                                legais; anterioridade anual e noventena:
+                         irretroatividade: aplicáveis.
+      geral)                                                     excepcionadas; irretroatividade: aplicável.
+
+
+
+                            Atenção ao enunciado:                 Pegadinha de repartição do ouro: a regra
+  Pegadinhas              “estimular produtividade”               inclui DF e Território no destino dos 30%.
+     típicas               equivale a “desestimular
+                       manutenção de improdutivas”.
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                      23
+                                                                                                             36
+       www.estrategiaconcursos.com.br                                                                          3
+                                    https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui, não
+é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas que você faça uma
+boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+1. (FGV/2015/Prefeitura de Niterói/Fiscal de Tributos) Um pequeno empresário cultiva, de forma
+organizada e comercial, inclusive com empregados, hortaliças para venda, em sua propriedade,
+que está localizada em área de um Município. A rua onde fica a propriedade consta da definição
+de lei municipal, tem meio-fio, conta com abastecimento de água e sistema de esgotos sanitários,
+tendo ainda iluminação pública. De acordo com a hipótese apresentada, sobre a propriedade em
+questão:
+
+a) não haverá incidência de nenhum imposto, por conta de imunidade prevista na Constituição
+Federal.
+
+b) haverá incidência do IPTU, pois a propriedade está inserida em área da zona urbana municipal,
+contando com quatro dos melhoramentos construídos ou mantidos pelo Poder Público.
+
+c) haverá a incidência do ITR, pois o IPTU não incidirá sobre o imóvel urbano que,
+comprovadamente, seja utilizado em exploração extrativa vegetal, agrícola, pecuária ou
+agroindustrial.
+
+d) haverá incidência do IPTU, pois basta a lei municipal estabelecer que determinada área pertence
+à zona urbana para ensejar a cobrança do imposto municipal.
+
+e) haverá a incidência do ITR, pois o imposto federal tem sua receita repartida com o Município.
+
+Comentários:
+
+Alternativa A: ERRADA. Não há imunidade constitucional aplicável ao caso. A análise envolve regra
+de incidência, e não limitação constitucional ao poder de tributar.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária       24
+        www.estrategiaconcursos.com.br                                                         36
+
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Alternativa B: ERRADA. Embora presentes os melhoramentos urbanos do art. 32, § 1º, do CTN,
+esse critério não é absoluto.
+
+Alternativa C: CERTA. A jurisprudência do STJ reconhece a validade do art. 15 do Decreto-Lei nº
+57/1966, segundo o qual a destinação do imóvel prevalece sobre o critério topográfico do CTN.
+
+Art. 15, Decreto-Lei nº 57/1966:
+
+Ainda que situado em zona urbana, o imóvel utilizado em exploração extrativa vegetal, agrícola,
+pecuária ou agroindustrial sujeita-se ao ITR.
+
+Alternativa D: ERRADA. A simples definição legal de zona urbana não é suficiente para afastar a
+incidência do ITR quando presente destinação rural.
+
+Alternativa E: ERRADA. A repartição da receita não define a incidência do tributo.
+
+Gabarito: Letra C.
+
+
+
+2. (Prefeitura de Suzano/2022/Agente Fiscal) Assinale a alternativa que corresponde ao fato
+gerador do Imposto sobre a Propriedade Territorial Rural:
+
+a) transmissão, a qualquer título, da propriedade ou do domínio útil de bens imóveis.
+
+b) transmissão, a qualquer título, de direitos reais sobre imóveis, exceto os de garantia.
+
+c) propriedade, domínio útil ou posse de imóvel por natureza, localizado fora da zona urbana do
+Município.
+
+d) saída de produto nacional do território nacional.
+
+e) aquisição de renda ou proventos de qualquer natureza.
+
+Comentários:
+
+Alternativa A: ERRADA. A transmissão é fato gerador do ITBI, e não do ITR.
+
+Alternativa B: ERRADA. A transmissão de direitos reais também se relaciona ao ITBI.
+
+Alternativa C: CERTA. O fato gerador do ITR está previsto no CTN.
+
+Art. 29, CTN:
+
+O imposto, de competência da União, sobre a propriedade territorial rural tem como fato gerador
+a propriedade, o domínio útil ou a posse de imóvel por natureza, localizado fora da zona urbana
+do Município.
+
+Alternativa D: ERRADA. Trata-se de hipótese ligada ao IPI ou ao ICMS, conforme o caso.
+
+Alternativa E: ERRADA. Refere-se ao Imposto de Renda.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária     25
+                                                                                             36
+        www.estrategiaconcursos.com.br                                                          2
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Gabarito: Letra C.
+
+
+
+3. (Prefeitura de Verdejante/2021/Agente de Arrecadação) Analise as afirmativas a seguir sobre o
+Imposto sobre a Propriedade Territorial Rural (ITR):
+
+I. A competência tributária para instituição do ITR pertence à União e aos Municípios.
+II. O ITR será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de
+propriedades                                                                               improdutivas.
+III. O ITR será fiscalizado e cobrado pelos Municípios que assim optarem, desde que não implique
+redução do imposto ou qualquer outra forma de renúncia fiscal.
+
+Assinale:
+                                                        ==219a34==
+
+
+
+
+a) todas corretas
+
+b) apenas I correta
+
+c) apenas I e III corretas
+
+d) apenas II e III corretas
+
+Comentários:
+
+Item I: ERRADO. A competência tributária é exclusiva da União.
+
+Item II: CERTO. A progressividade do ITR está expressamente prevista na Constituição Federal.
+
+Art. 153, § 4º, I, CF/88:
+
+O imposto será progressivo de forma a desestimular a manutenção de propriedades improdutivas.
+
+Item III: CERTO. Os Municípios podem exercer capacidade tributária ativa.
+
+Art. 153, § 4º, III, CF/88:
+
+O imposto será fiscalizado e cobrado pelos Municípios que assim optarem, desde que não
+implique redução do imposto ou qualquer outra forma de renúncia fiscal.
+
+Estando corretos os itens II e III, o gabarito é a letra D.
+
+Gabarito: Letra D.
+
+
+
+4. (CM Potim/2021/Procurador Jurídico) O Imposto Territorial Rural não incidirá sobre pequenas
+glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel.
+Referida não incidência consubstancia uma:
+
+a) isenção
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária             26
+                                                                                                     36
+        www.estrategiaconcursos.com.br                                                                3
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+b) não incidência de fato
+
+c) imunidade
+
+d) não ocorrência de fato gerador
+
+e) remissão
+
+Comentários:
+
+Alternativa A: ERRADA. A isenção decorre de lei infraconstitucional.
+
+Alternativa B: ERRADA. Não se trata de ausência fática de incidência.
+
+Alternativa C: CERTA. A regra decorre diretamente da Constituição Federal.
+
+Art. 153, § 4º, II, CF/88:
+
+O imposto não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore o
+proprietário que não possua outro imóvel.
+
+Alternativa D: ERRADA. O fato gerador ocorre, mas há vedação constitucional à tributação.
+
+Alternativa E: ERRADA. Remissão é perdão legal de crédito tributário já constituído.
+
+Gabarito: Letra C.
+
+
+
+5. (Prefeitura de São Vicente/2020/Fiscal de Tributos) A base de cálculo do Imposto sobre a
+Propriedade Territorial Rural é:
+
+a) valor venal
+
+b) valor de mercado
+
+c) valor fundiário
+
+d) valor de aquisição
+
+Comentários:
+
+Alternativa A: ERRADA. Valor venal é base de cálculo do IPTU.
+
+Alternativa B: ERRADA. O ITR não utiliza valor de mercado integral.
+
+Alternativa C: CERTA. A base de cálculo é o valor da terra nua.
+
+Art. 30, CTN:
+
+A base do cálculo do imposto é o valor fundiário.
+
+Alternativa D: ERRADA. O valor de aquisição é irrelevante para o ITR.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária    27
+                                                                                            36
+        www.estrategiaconcursos.com.br                                                       4
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Gabarito: Letra C.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária   28
+                                                                                           36
+        www.estrategiaconcursos.com.br                                                      5
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a
+partir de perguntas que exigem respostas subjetivas, estimulando a conexão entre diversos pontos
+do conteúdo, bem como a memorização da matéria, e, consequentemente, facilitando a resolução
+de questões objetivas (e discursivas também).
+
+Perguntas
+1. Quem tem competência para instituir o ITR?
+
+2. Qual é a função extrafiscal do ITR e como ela se manifesta nas alíquotas?
+
+3. Em que situação o ITR não incide sobre pequenas glebas rurais?
+
+4. Como a lei define pequena gleba rural para fins de imunidade do ITR?
+
+5. O Município pode fiscalizar e cobrar o ITR sem alterar a competência tributária?
+
+6. Em quais hipóteses o Município faz jus a 50% ou a 100% da arrecadação do ITR?
+
+7. Quais princípios tributários se aplicam ao ITR?
+
+8. Qual é o fato gerador do ITR?
+
+9. Como o CTN define zona urbana para fins de distinção entre IPTU e ITR?
+
+10. Quando um imóvel localizado em área urbana pode ser tributado pelo ITR?
+
+11. Quais são os requisitos para o Município ou DF firmar convênio com a RFB para fiscalizar e
+cobrar o ITR?
+
+12. Quem pode ser considerado contribuinte do ITR?
+
+13. Qual é a base de cálculo do ITR e o que não a integra?
+
+14. O que é o Valor da Terra Nua e a que data ele deve corresponder?
+
+15. Como se calcula o Valor da Terra Nua Tributável e o que se entende por área tributável?
+
+16. Como se define o Município competente quando o imóvel rural se estende por mais de um
+Município?
+
+17. O que é o Grau de Utilização no cálculo do ITR?
+
+18. Como se dá a apuração e o lançamento do ITR?
+
+19. Qual é o prazo de pagamento do ITR e quais são os encargos pelo atraso?
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         29
+        www.estrategiaconcursos.com.br                                                           36
+
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+20. Para quais atos registrais é exigida a comprovação de quitação do ITR?
+
+Perguntas com respostas
+1. Quem tem competência para instituir o ITR?
+
+  A União (CF/88, art. 153, VI).
+
+2. Qual é a função extrafiscal do ITR e como ela aparece nas alíquotas?
+
+  É instrumento de política agrária para estimular produtividade, com alíquotas progressivas para
+desestimular imóveis improdutivos (CF/88, art. 153, §4º, I; EC 42/2003).
+
+3. Em que situação o ITR não incide sobre pequenas glebas rurais?
+
+  Quando a gleba é explorada pelo proprietário (só ou com sua família) que não possua outro
+imóvel (CF/88, art. 153, §4º, II; Lei 9.393/1996, art. 2º).
+
+4. Como a lei delimita “pequena gleba rural” para fins de imunidade do ITR?
+
+  Área ≤ 100 ha (Amazônia Ocidental ou Pantanal); ≤ 50 ha (Polígono das Secas ou Amazônia
+Oriental); ≤ 30 ha (demais municípios) (Lei 9.393/1996, art. 2º, parágrafo único).
+
+5. O Município pode fiscalizar e cobrar ITR? Isso muda a competência do tributo?
+
+  Pode, por delegação da capacidade tributária ativa, sem reduzir o imposto nem gerar renúncia
+fiscal; a competência tributária continua sendo da União (CF/88, art. 153, §4º, III).
+
+6. Quanto do produto da arrecadação do ITR fica com o Município e quando ele passa a ter
+100%?
+
+  Regra geral: 50% para os Municípios (CF/88, art. 158, II); se optar por fiscalizar e cobrar na
+forma legal/convênio, faz jus a 100% do produto arrecadado, a partir do cadastramento efetivo
+dos servidores no sistema (CF/88, art. 153, §4º, III; IN RFB 1.640/2016, art. 16).
+
+
+
+7. Quais princípios tributários clássicos se aplicam ao ITR?
+
+  Legalidade, anterioridade anual, noventena e irretroatividade (CF/88, art. 150, I e III, “a”, “b” e
+“c”).
+
+8. Qual é o fato gerador do ITR?
+
+  Propriedade, domínio útil ou posse de imóvel por natureza localizado fora da zona urbana do
+Município (CTN, art. 29).
+
+9. Como identificar “zona urbana” no CTN para diferenciar IPTU e ITR?
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária           30
+                                                                                                   36
+        www.estrategiaconcursos.com.br                                                              2
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+  É a área definida em lei municipal, desde que existam pelo menos 2 melhoramentos públicos
+dentre: meio-fio/calçamento com drenagem; abastecimento de água; esgoto; iluminação pública;
+escola primária ou posto de saúde até 3 km (CTN, art. 32, §1º, I a V).
+
+10. Quando um imóvel situado em área urbana pode ser tributado pelo ITR (e não pelo IPTU)?
+
+Quando, mesmo em zona urbana, for utilizado em exploração extrativa vegetal, agrícola,
+pecuária ou agroindustrial (DL 57/1966, art. 15; STJ, REsp 492.869/PR).
+
+11. Quais requisitos mínimos o Município/DF precisa ter para firmar convênio com a RFB para
+fiscalizar e cobrar o ITR?
+
+Estrutura de TI para acessar sistemas da RFB; lei criando cargo com atribuição de lançamento;
+servidor concursado em efetivo exercício nesse cargo; opção pelo Domicílio Tributário Eletrônico
+                                                        ==219a34==
+
+
+
+
+(DTE) (IN RFB 1.640/2016, art. 7º).
+
+12. Quem pode ser contribuinte do ITR?
+
+O proprietário, o titular do domínio útil (ex.: enfiteuta/foreiro) ou o possuidor a qualquer título
+(CTN, art. 31).
+
+13. Qual é a base de cálculo do ITR e o que não entra nela?
+
+O valor fundiário (terra nua), sem incluir construções/instalações/benfeitorias (CTN, art. 30).
+
+14. O que é o VTN e qual data ele deve refletir na declaração do ITR?
+
+É o Valor da Terra Nua declarado pelo contribuinte como autoavaliação a preço de mercado,
+apurado em 1º de janeiro do ano da declaração (Lei 9.393/1996, art. 8º, §§1º e 2º).
+
+15. Como se calcula o VTN tributável (VTNt) e o que é “área tributável”?
+
+VTNt = VTN × (área tributável ÷ área total); “área tributável” é a área total menos, por exemplo,
+APP e reserva legal, áreas de interesse ecológico (declaradas), áreas imprestáveis, áreas sob
+servidão ambiental, florestas nativas em regeneração (médio/avançado) e áreas alagadas para
+reservatório de usina hidrelétrica autorizada (Lei 9.393/1996, art. 10, §1º, II e III).
+
+16. Como enquadrar o ITR quando o imóvel rural se estende por mais de um município?
+
+Enquadra-se no município onde fica a sede do imóvel e, se não existir sede, no município onde
+se localize a maior parte do imóvel (Lei 9.393/1996, art. 1º, §3º).
+
+17. O que é o Grau de Utilização (GU) no ITR?
+
+É o percentual resultante da relação entre a área efetivamente utilizada e a área aproveitável do
+imóvel (Lei 9.393/1996, art. 10, §1º, VI).
+
+18. Como funciona a apuração e o lançamento do ITR e qual declaração é exigida?
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária              31
+                                                                                                      36
+        www.estrategiaconcursos.com.br                                                                 3
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+Apuração anual com lançamento por homologação (pagamento antecipado sujeito à
+homologação posterior); o contribuinte entrega, a cada ano, o documento de
+informação/apuração do imposto e declara o VTN, salvo hipóteses legais de dispensa (Lei
+9.393/1996, arts. 8º e 10; CTN, art. 150).
+
+19. Qual é o prazo de pagamento do ITR e quais os principais encargos por atraso?
+
+Paga até o último dia útil do mês fixado para entrega da declaração; pode parcelar em até 3
+quotas mensais (mínimo R$ 50), com juros SELIC + 1% no mês do pagamento; em atraso, há
+multa de mora de 0,33% ao dia (até 20%) e juros SELIC + 1% no mês do pagamento (Lei
+9.393/1996, arts. 12 e 13).
+
+20. Para quais atos de registro de imóveis é exigida prova de quitação do ITR e qual a
+consequência para o cartório se descumprir?
+
+Para a prática de atos de registro previstos na Lei de Registros Públicos, deve-se comprovar o
+pagamento do ITR dos 5 últimos exercícios; o serventuário que não exigir responde
+solidariamente pelo imposto e acréscimos (Lei 9.393/1996, art. 21; Lei 6.015/1973, arts. 167 e
+168; CTN, art. 134).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         32
+                                                                                                 36
+        www.estrategiaconcursos.com.br                                                            4
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/2015/Prefeitura de Niterói/Fiscal de Tributos) Um pequeno empresário cultiva, de forma
+organizada e comercial, inclusive com empregados, hortaliças para venda, em sua propriedade,
+que está localizada em área de um Município. A rua onde fica a propriedade consta da definição
+de lei municipal, tem meio-fio, conta com abastecimento de água e sistema de esgotos sanitários,
+tendo ainda iluminação pública. De acordo com a hipótese apresentada, sobre a propriedade em
+questão:
+
+a) não haverá incidência de nenhum imposto, por conta de imunidade prevista na Constituição
+Federal.
+
+b) haverá incidência do IPTU, pois a propriedade está inserida em área da zona urbana municipal,
+contando com quatro dos melhoramentos construídos ou mantidos pelo Poder Público.
+
+c) haverá a incidência do ITR, pois o IPTU não incidirá sobre o imóvel urbano que,
+comprovadamente, seja utilizado em exploração extrativa vegetal, agrícola, pecuária ou
+agroindustrial.
+
+d) haverá incidência do IPTU, pois basta a lei municipal estabelecer que determinada área pertence
+à zona urbana para ensejar a cobrança do imposto municipal.
+
+e) haverá a incidência do ITR, pois o imposto federal tem sua receita repartida com o Município.
+
+
+
+2. (Prefeitura de Suzano/2022/Agente Fiscal) Assinale a alternativa que corresponde ao fato
+gerador do Imposto sobre a Propriedade Territorial Rural:
+
+a) transmissão, a qualquer título, da propriedade ou do domínio útil de bens imóveis.
+
+b) transmissão, a qualquer título, de direitos reais sobre imóveis, exceto os de garantia.
+
+c) propriedade, domínio útil ou posse de imóvel por natureza, localizado fora da zona urbana do
+Município.
+
+d) saída de produto nacional do território nacional.
+
+e) aquisição de renda ou proventos de qualquer natureza.
+
+
+
+3. (Prefeitura de Verdejante/2021/Agente de Arrecadação) Analise as afirmativas a seguir sobre o
+Imposto sobre a Propriedade Territorial Rural (ITR):
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária       33
+        www.estrategiaconcursos.com.br                                                         36
+
+                                     https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 14
+
+
+
+I. A competência tributária para instituição do ITR pertence à União e aos Municípios.
+II. O ITR será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de
+propriedades                                                                               improdutivas.
+III. O ITR será fiscalizado e cobrado pelos Municípios que assim optarem, desde que não implique
+redução do imposto ou qualquer outra forma de renúncia fiscal.
+
+Assinale:
+
+a) se todas as afirmativas estiverem corretas.
+
+b) se apenas a afirmativa I estiver correta.
+
+c) se apenas as afirmativas I e III estiverem corretas.
+
+d) se apenas as afirmativas II e III estiverem corretas.==219a34==
+
+
+
+
+4. (CM Potim/2021/Procurador Jurídico) O Imposto Territorial Rural não incidirá sobre pequenas
+glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel.
+Referida não incidência consubstancia uma:
+
+a) isenção
+
+b) não incidência de fato
+
+c) imunidade
+
+d) situação de não ocorrência de fato gerador
+
+e) remissão
+
+
+
+5. (Prefeitura de São Vicente/2020/Fiscal de Tributos) A base de cálculo do Imposto sobre a
+Propriedade Territorial Rural é:
+
+a) valor venal
+
+b) valor de mercado
+
+c) valor fundiário
+
+d) valor de aquisição
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária             34
+                                                                                                     36
+        www.estrategiaconcursos.com.br                                                                2
+                                     https://t.me/KakashiAssinaturasBot
+ Raphael Rabelo Parreira, Bruno Bezerra
+ Aula 14
+
+
+
+
+Gabarito
+
+
+
+
+                      1–C                                                                 4–C
+                      2–C                                                                 5–C
+                      3–D
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         35
+                                                                                                36
+       www.estrategiaconcursos.com.br                                                            3
+                                    https://t.me/KakashiAssinaturasBot
+

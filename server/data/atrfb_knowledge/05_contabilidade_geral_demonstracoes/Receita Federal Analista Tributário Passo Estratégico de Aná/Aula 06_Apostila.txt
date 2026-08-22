@@ -1,0 +1,2176 @@
+                                                    Aula 05
+                          Receita Federal (Analista Tributário)
+                              Passo Estratégico de Análise das
+                                     Demonstrações Contábeis
+
+
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+
+
+
+                                          28 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Filipe Magalhães, Júlio Cardozo
+      Aula 05
+
+
+
+
+                                                                                     Índice
+1) Apresentação - Julio Cardozo e Filipe Magalhães
+..............................................................................................................................................................................................3
+
+2) Análise Estatística - ADC - FGV
+..............................................................................................................................................................................................5
+
+3) O que é mais cobrado no assunto - ADC - FGV
+..............................................................................................................................................................................................6
+
+4) Roteiro de Revisão - ADC - Parte 1
+..............................................................................................................................................................................................7
+
+5) Apostas Estratégicas - ADC - Parte 1 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            13
+
+6) Questões Estratégicas - ADC - Parte 1 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            14
+
+7) Questionário de Revisão - ADC - Parte 1
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+8) Lista de Questões Estratégicas - ADC - Parte 1 - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            36
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           42
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 05
+
+
+
+
+                                         APRESENTAÇÃO
+Olá! Meu nome é Julio Cardozo, e serei seu analista do Passo Estratégico! Atualmente sou Auditor Fiscal
+do estado do Espírito Santo e trabalho diretamente na fiscalização de ICMS. Fui sargento da Força Aérea
+Brasileira, controlador de tráfego aéreo, por 14 anos, tendo ingressado no serviço público com 17 anos
+de idade.
+
+Para que você conheça um pouco sobre mim, segue um resumo da minha experiência profissional,
+acadêmica e como concurseiro:
+
+     Professor das disciplinas de Contabilidade Geral, Avançada, de Custos e Perícia Contábil.
+
+     Analista do Passo Estratégico - disciplinas: Contabilidade Geral, Avançada, de Custos e Perícia
+     Contábil;
+
+     Auditor Fiscal do estado do Espírito Santo e trabalho diretamente na fiscalização de ICMS.
+
+      Fui sargento da Força Aérea Brasileira, controlador de tráfego aéreo, por 14 anos, tendo
+     ingressado no serviço público com 17 anos de idade.
+
+     Bacharel em Ciências Contábeis pela Universidade Federal do Paraná;
+
+     Pós-graduando em Direito Tributário.
+
+Fiquei muito feliz com o convite para ter a oportunidade de trabalhar na equipe do “Passo”, porque
+tenho convicção de que nossos relatórios e simulados proporcionarão uma preparação diferenciada aos
+nossos alunos!
+
+Quero trazer a minha experiência como professor e concurseiro para vocês, pois sei da grande
+importância que a Contabilidade tem para sua prova e, em um ambiente de altíssima concorrência, como
+temos visto atualmente nos concursos, um material como o Passo Estratégico é um grande diferencial
+para vocês.
+
+Meu nome é Filipe Magalhães, sou graduado em Ciências Contábeis pela Universidade Federal de
+Alagoas (UFAL) e sou professor de Contabilidade aqui no Passo Estratégico do Estratégia Concursos. A
+seguir, um resumo da minha experiência profissional e acadêmica:
+
+        Professor do Fórum de dúvidas
+
+        Monitor do Estratégia CFC
+
+        Aprovado no Exame de Suficiência 2017.1 com 46 de 50 pontos.
+
+        Fui monitor das disciplinas de Contabilidade Comercial I e II na UFAL.
+
+        Fui bolsista de Iniciação Tecnológica e Industrial do CNPq – Nível A
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   3
+        www.estrategiaconcursos.com.br                                                                   42
+
+                                    https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 05
+
+
+
+
+                        Faça contato conosco pelas redes
+                                    sociais!
+
+                          @profjuliocardozo @filipemagalhaes30
+
+                         O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+
+a) orientar revisões eficientes;                       ==219a34==
+
+
+
+
+b) destacar os pontos mais importantes e prováveis de serem cobrados em prova.
+
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+
+Isso porque nossa didática é direcionada ao aluno que já possui uma base do conteúdo.
+
+Assim, se você vai utilizar o Passo Estratégico:
+
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras indicadas
+no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente em nossos
+relatórios;
+
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram eventualmente
+expostos utilizando uma didática mais avançada que a sua capacidade de compreensão, em razão do
+seu nível de conhecimento do assunto.
+
+
+                         Seu cantinho de estudos famoso!
+                   Poste uma foto do seu cantinho de estudos nos stories do Instagram
+                                             e nos marque:
+
+
+
+                                           @passoestrategico
+                    Vamos repostar sua foto no nosso perfil para que ele fique famoso
+                                    entre milhares de concurseiros!
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   4
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 05
+
+
+
+
+                                    ANÁLISE ESTATÍSTICA
+Seguem os percentuais de incidência de todos os assuntos previstos no nosso curso – quanto maior o
+percentual de cobrança de um dado assunto, maior sua importância.
+
+Critérios da amostra de questões: banca FGV; anos 2025 a 2021; concursos de nível superior.
+
+Quantidade de questões da amostra: 126
+
+                                                                                        Grau de incidência em
+                                    Assunto                                            concursos similares: FGV
+                              Índices de Liquidez                                              42,86%
+   Introdução (Conceito, Usuários, Interesses e Tipos de Análise), Análise
+Vertical e Horizontal das Demonstrações Contábeis, Índices de Rentabilidade
+    e Lucratividade, EBIT e EBITDA e Economic Value Aded – EVA (Lucro
+                                   Residual)                                                    28,57%
+               Estrutura de Capital e Índices de Endividamento.                                 22,22%
+                               Índices de Atividade                                             5,56%
+                            Análise Do Capital De Giro                                          <1,00%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis        5
+        www.estrategiaconcursos.com.br                                                                        42
+
+                                    https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 05
+
+
+
+
+INTRODUÇÃO (CONCEITO, USUÁRIOS, INTERESSES E TIPOS
+  DE ANÁLISE), ANÁLISE VERTICAL E HORIZONTAL DAS
+DEMONSTRAÇÕES CONTÁBEIS, ÍNDICES DE RENTABILIDADE
+ E LUCRATIVIDADE, EBIT E EBITDA, ECONOMIC VALUE
+           ADED – EVA (LUCRO RESIDUAL)
+
+O que é mais cobrado dentro do assunto?
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a distribuição percentual conforme
+tabela abaixo.
+
+Critérios da amostra de questões: banca FGV; anos 2025 a 2021; concursos de nível superior
+
+Quantidade de questões da amostra: 36
+
+                                                                                          Grau de incidência em
+                                       Assunto                                             concursos similares
+
+                                                                                                     FGV
+              Análise Vertical e Horizontal das Demonstrações Contábeis                            58,33%
+                       Índices de Rentabilidade e Lucratividade                                    38,89%
+                                     EBIT e EBITDA                                                  3,00%
+            Introdução (Conceito, Usuários, Interesses e Tipos de Análise)                         <1,00%
+                     Economic Value Aded – EVA (Lucro Residual)                                    <1,00%
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis        6
+        www.estrategiaconcursos.com.br                                                                       42
+
+                                    https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 05
+
+
+
+
+          ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                        MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo tempo, destacar
+aspectos do conteúdo que merecem atenção.
+
+
+Introdução
+
+A principal finalidade da Contabilidade (incluindo a Análise de Balanços) é fornecer informações úteis para
+os seus usuários. Vamos supor, prezado concurseiro, que você, após obter a aprovação, resolva aplicar parte
+do salário em ações. Ações de boas e sólidas empresas. Você seleciona algumas empresas, pega as
+demonstrações contábeis e ... e aí?
+
+A empresa A conseguiu um lucro anual de R$ 100.000.000,00 e a empresa B obteve apenas R$ 50.000.000,00
+de lucro. Maravilha, a empresa A tem mais lucro, não é?
+
+Só que as vendas líquidas da empresa A foram de 1 bilhão, e as vendas da empresa B foram de 200 milhões.
+Por outro lado, a dívida de curto prazo (o Passivo Circulante) da empresa A é de 400 milhões, e a da empresa
+B, de 350 milhões.
+
+O ativo circulante, por outro lado, é respectivamente de 380 e 360 milhões. Você quer uma empresa sólida,
+que não quebre. Mas qual delas é mais sólida? Em qual você investiria? Bem, não podemos analisar e extrair
+informações úteis só comparando os números “secos”. Precisamos de uma técnica mais sofisticada. E é aí
+que entra a Análise de Balanços (também chamada de Análise Econômico-Financeira, Análise das
+Demonstrações Contábeis ou Análise das Demonstrações Financeiras).
+
+Análise Horizontal e Vertical
+
+A principal utilidade das Análises Horizontal e Vertical está na identificação de tendência. Para isso, os dois
+tipos de análise devem ser utilizados em conjunto.
+
+Análise Horizontal (Análise de Tendência ou Dinâmica ou Perspectiva)
+
+A análise horizontal compara o mesmo item das demonstrações contábeis (DCs) ao longo de diferentes
+exercícios sociais. Na sua elaboração, consideramos o primeiro período como base 100, e apuramos o
+percentual de evolução dos períodos seguinte.
+
+A análise horizontal pode ser do tipo “base fixa” ou “base móvel”.
+
+    •   Base fixa: todos os percentuais se referem ao primeiro ano.
+    •   Base móvel: o percentual se refere ao ano anterior.
+
+Análise Vertical (Análise da Estrutura ou Estática)
+
+Já a análise vertical compara contas ou subgrupos das DCs com os grupos maiores aos quais pertencem,
+dentro do mesmo exercício. No balanço Patrimonial, os coeficientes são calculados em função do total do
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                   7
+         www.estrategiaconcursos.com.br                                                                                   42
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Ativo e total do Passivo + PL. Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice
+100).
+
+Tome nota!
+
+   •   Análise Horizontal -> EVOLUÇÃO/COMPORTAMENTO através do tempo
+   •   Análise Vertical -> ESTRUTURA/ COMPOSIÇÃO
+
+Índices de Rentabilidade e Lucratividade
+
+A diferença entre os indicadores de Lucratividade e os indicadores de Rentabilidade é a seguinte:
+
+Nos índices de Lucratividade relacionamos o Lucro com as Vendas.
+
+Nos índices de Rentabilidade a relação ocorre entre o Lucro e o Capital Investido
+
+   •   Margem de Lucro sobre as Vendas
+
+Curiosidade! Estes índices já são calculados por meio da Análise Vertical (também conhecida como análise
+da estrutura ou análise estática. Ela indica a estrutura das demonstrações contábeis, através de coeficientes
+de participações, bem como a sua evolução no tempo)
+
+Margem bruta
+
+A margem bruta evidencia o lucro bruto obtido pela empresa em relação às suas vendas líquidas. É o lucro
+bruto obtido para cada R$1,00 de receitas líquidas de vendas A fórmula é a seguinte:
+
+                                                       Lucro Bruto
+                                              MB =
+                                                     Vendas Líquidas
+
+Margem líquida
+
+A margem líquida evidencia o lucro obtido pela empresa em relação às suas vendas líquidas. É o lucro líquido
+obtido para cada R$1,00 de receitas líquidas. A fórmula é a seguinte:
+
+                                                      Lucro Líquido
+                                              ML =
+                                                     Vendas Líquidas
+
+Margem operacional
+
+A margem operacional evidencia o lucro operacional obtido pela empresa em relação às suas vendas líquidas.
+É o lucro operacional obtido para cada R$1,00 de receitas líquidas de vendas A fórmula é a seguinte:
+
+                                                     Lucro Operacional
+                                           MO =
+                                                      Vendas Líquidas
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   8
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+   •   Giro do Ativo
+
+Este índice já foi considerado como indicador de atividade. Mas deve ficar com os quocientes de
+rentabilidade, devido à sua importância para compor o retorno sobre o investimento. A fórmula é a seguinte:
+
+                                                      Vendas Líquidas
+                                             GAT =
+                                                     Ativo Total Médio
+
+O giro do investimento total evidencia o quanto a empresa vendeu para cada R$1,00 de investimento total.
+
+   •   Retorno sobre o investimento ou Retorno sobre o Ativo ou Retorno sobre o Capital Empregado
+       (obs.: “retorno” pode ser substituído por “rentabilidade”.)
+
+Também conhecido como “Índice Du-Pont”, trata-se de um dos mais importantes quocientes para análise
+de balanços. Temos duas fórmulas:                       ==219a34==
+
+
+
+
+1ª Fórmula:
+
+               Retorno sobre Capital Empregado (RCE) = Margem Líquida x Giro do Ativo Total
+
+2ª Fórmula
+
+                                                                      Lucro líquido    Vendas líquidas Lucro líquido
+     Retorno sobre Capital Empregado (RCE) =                                         ×                →
+                                                                     Vendas líquidas    Ativo médio     Ativo médio
+
+                                                                                      Lucro líquido
+                         Retorno sobre Capital Empregado (RCE) =
+                                                                                      Ativo médio
+   •   Retorno sobre o Patrimônio Líquido (RPL) ou Retorno sobre o Capital Próprio
+
+Falamos que Retorno sobre o Patrimônio Líquido (RPL) ou Retorno sobre o Capital Próprio indica a
+rentabilidade do capital próprio aplicado na empresa.
+
+                                                       Lucro líquido
+                                             RPL=
+                                                     Patrimônio líquido
+
+Podemos calcular também o Retorno Operacional sobre o Ativo, substituindo o lucro líquido pelo lucro
+operacional líquido
+
+                                                                                         LOL
+                                Retorno operacional dos capitais próprios=
+                                                                                          PL
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                9
+         www.estrategiaconcursos.com.br                                                                                42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+Quocientes de Imobilização de Capital
+
+   •   Imobilização do capital próprio
+
+                           ICP = (Ativo não circulante – realizável a longo prazo) / PL
+
+   •   Imobilização de investimento total
+
+Ele indica a parte do ativo total aplicada no Ativo Não Circulante líquido do Realizável a longo prazo.
+(imobilizado, investimentos e intangíveis)
+
+A fórmula é a seguinte:
+
+              Indicador de imobilização do ativo = (ANC -Realizável a Longo prazo) / Ativo Total
+
+Podemos reescrevê-la da seguinte forma:
+
+        Indicador de imobilização do ativo = (imobilizado, investimentos e intangíveis) / Ativo Total
+
+Curiosidade! Este índice já é calculado quando da elaboração da Análise Vertical.
+
+Limitações da Análise por Indicadores
+
+Limitações inerentes aos dados utilizados:
+
+--- É impossível pretender que os dados sejam absolutamente precisos, porque os próprios fatos que
+refletem não podem ser determinados com precisão (estão sujeitos a convenções, princípios e juízos)
+
+--- As demonstrações não revelam todos os fatos relativos à condição financeira da empresa, ignorando fatos
+sem expressão monetária.
+
+--- O valor contabilizado dos ativos não reflete com veracidade o valor de mercado da empresa.
+
+Ebitda e Ebit
+
+   •   EBTIDA
+
+Ebtida é a sigla de “Earnings Before Interest, Taxes, Depreciation and Amortization”, que traduzido para o
+português significa “Lucro Antes de Juros, Impostos, Depreciações e Amortizações” – LAJIDA. (Usaremos
+indistintamente as duas siglas).
+
+A finalidade do Ebitda é demonstrar o potencial de geração operacional de caixa que uma empresa é capaz
+de produzir, antes de considerar o custo de qualquer empréstimo ou financiamento. Não é o fluxo de caixa
+efetivamente gerado ou consumido no período, pois não considera as variações nas contas de ativo e
+passivo. Em outras palavras, parte das vendas pode não ter sido ainda recebida, e parte das comprar ainda
+não ter sido paga.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   10
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Se todas as operações fossem à vista, o Lajida representaria o valor do caixa produzido pelos ativos, antes
+das receitas e despesas financeiras (juros) e dos impostos sobre o lucro.
+
+A partir da DRE, podemos calcular o EBITDA das seguintes formas:
+
+Lucro Operacional Antes IR e CSLL:
+(+) Despesas Financeiras
+(+) Amortização
+(+) Depreciação
+(=) EBITDA
+
+Ou
+
+Lucro Líquido
+(+) IR e CSLL
+(+) Despesas Financeiras
+(+) Amortização
+(+) Depreciação
+(=) EBITDA                                                       1
+
+     •   EBIT
+
+Ebit é a sigla de “Earnings Before Interest and Taxes”, que traduzido para o português significa “Lucro Antes
+de Juros e Impostos” – LAJIR. (Usaremos indistintamente as duas siglas).
+
+A partir da DRE, podemos calcular o EBIT da seguinte forma:
+
+Lucro Operacional Antes IR e CSLL
+(+) Despesas Financeiras
+(=) EBIT
+
+Ou
+
+Lucro Líquido
+(+) IR e CSLL
+(+) Despesas Financeiras
+(=) EBIT
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   11
+           www.estrategiaconcursos.com.br                                                                   42
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+Economic Value Aded – EVA (Lucro Residual)
+
+Corresponde ao Lucro Residual, ou seja, o que sobrou após considerar o custo do capital próprio Ele leva em
+consideração o Custo de oportunidade para a apuração do resultado da empresa. Basicamente, o retorno
+do investimento deve ser no mínimo igual ao custo de oportunidade, para que o investimento seja atraente.
+
+A fórmula é a seguinte:
+
+            EVA = Lucro Operacional líquido após os impostos – (%custo do capital próprio x PL)
+
+         Observação: Podemos substituir a expressão LOLAI pelo Lucro Líquido.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   12
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 05
+
+
+
+
+                                             APOSTA ESTRATÉGICA
+Vale a pena conferir.
+
+                                                                               Índice Du-Pont também é chamado de Retorno sobre o Ativo ou Retorno
+                                                                               sobre o Capital Empregado ou Retorno sobre o Investimento.
+
+                                                      Índice DuPont
+                                                                                     Índice DuPont = Margem Líquida x Giro do Ativo Total
+                                                                                                               ou
+                                                                                          Índice DuPont = Lucro Líquido/Ativo Médio
+
+
+
+                                                                                      EVOLUÇÃO/COMPORTAME
+                                                       Análise Horizontal
+       Análise das Demonstrações Contábeis                                              NTO através do tempo
+
+
+                                                                  ==219a34==
+
+
+
+
+                                                                                      ESTRUTURA/ COMPOSIÇÃO
+
+
+                                                        Análise Vertical
+                                                                                        Fique atento se o quesito
+                                                                                       relaciona a análise vertical
+                                                                                      ao BALANÇO PATRIMONIAL
+                                                                                       ou a DEMONSTRAÇÃO DO
+                                                                                      RESULTADO DO EXERCÍCIO
+
+
+
+A FGV costuma cobrar questões sobre quais fatos contábeis justificariam as alterações nos indicadores.
+
+Destacamos que a banca acaba repetindo os seguintes fatos contábeis:
+
+   •    Pagamento da dívida com fornecedores;
+   •    Realização integral das despesas antecipadas;
+   •    Contração de empréstimo de curto ou longo prazo;
+   •    Compra de estoque à vista ou a prazo;
+   •    Venda à vista de estoque com lucro ou com prejuízo;
+   •    Compra ou Venda de ativo imobilizado à vista ou a prazo;
+   •    Contração de empréstimo bancário;
+   •    Compra de terreno para valorização;
+   •    Aumento de capital social,
+   •    Reconhecimento e Pagamento de despesas,
+   •    Compra ou Venda de ações em tesouraria,
+   •    Reconhecimento do teste de recuperabilidade,
+   •    Pagamento antecipado de despesas;
+   •    Recebimento de um adiantamento;
+   •    Reconhecimento de dividendos.
+
+Fique atento! as respectivas contabilizações.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                                              13
+         www.estrategiaconcursos.com.br                                                                                                              42
+
+                                             https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 05
+
+
+
+
+                                 QUESTÕES ESTRATÉGICAS
+Análise vertical e horizontal das demonstrações contábeis
+
+   (FGV/TCU/Auditor Federal de Controle Externo/2022) Um analista deseja elaborar um documento com
+    a situação contábil de diferentes entidades do mesmo setor. Para isso, ele analisou suas
+    demonstrações contábeis referentes aos anos de 2019, 2020 e 2021.
+Para facilitar o seu trabalho, o analista não levou em consideração a atualização dos componentes das
+demonstrações contábeis pela inflação.
+Os resultados mais impactados pela não correção pela inflação diziam respeito, principalmente, à análise:
+A horizontal;
+B vertical;
+C dos indicadores de liquidez geral;
+D dos indicadores de liquidez imediata;
+E dos indicadores de estrutura de capital.
+
+Comentários:
+
+O objetivo da Análise Horizontal é demonstrar o comportamento de itens do Balanço e da Demonstração do
+Resultado através do tempo. Na sua elaboração, consideramos o primeiro período como base 100, e
+apuramos o percentual de evolução dos períodos seguinte.
+
+A análise horizontal pode ser feita por qualquer período de tempo: Ano, trimestres, meses, etc
+
+Normalmente, o símbolo % é omitido, na análise Horizontal.
+
+A análise horizontal pode ser do tipo “base fixa” ou “base móvel”.
+
+Na “base fixa”, todos os percentuais se referem ao primeiro ano. Exemplo:
+
+                         Análise Horizontal X1 $   %   X2 $  %   X3 $  %
+                         Receita Líquida    40000 100 42800 107 45200 113
+
+Calculando X3, temos:
+
+                                                  45.200
+                                           X3 =          = 1,13 = 113%
+                                                  40.000
+
+Na “base móvel”, o percentual se refere ao ano anterior:
+
+                    Análise Horizontal             X1 $      %      X2 $       %      X3 $       %
+                 Receita Líquida                  40000     100    42800      107    45200      106
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   14
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Calculando X3, temos:
+
+                                                  45.200
+                                           X3 =          = 1,06 = 106%.
+                                                  42.800
+
+Se a questão não mencionar nada, considere que é “base fixa”.
+
+A análise Horizontal indica a EVOLUÇÃO, isto é, o comportamento de itens do balanço e da demonstração
+do resultado através do tempo. Assim, por meio dela, ficará evidente impactados pela não correção pela
+inflação.
+
+Gabarito: A
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/SEMSA Manaus/Especialista em Saúde/Contador/2022) Uma sociedade empresária apresentou a
+    seguinte Demonstração do Resultado do Exercício em 31/12/X1:
+                              Receita de Serviços                     400.000
+                              CSP                                     - 200.000
+                              Lucro Bruto                             200.000
+                              Despesas operacionais                   - 120.000
+                              Outras receitas e despesas operacionais 30.000
+                              LAIR                                    110.000
+                              IR                                      - 22.000
+                              Lucro Líquido                           88.000
+Além disso, o seu ativo era de R$100.000 em X0 e de R$160.000 em X1.
+Assinale a opção que indica o retorno sobre o ativo da sociedade empresária em 31/12/X1, considerando o
+uso do ativo médio no denominador do índice.
+A 49%.
+B 54%
+C 62%.
+D 68%.
+E 85%.
+
+Comentários:
+
+Também conhecido como “Índice Du-Pont” ou “Retorno sobre o Investimento” ou “Retorno sobre o Ativo”
+ou “Retorno sobre o Capital Empregado” (Obs.: “Retorno” pode ser substituído por “Rentabilidade”.), trata-
+se de um dos mais importantes quocientes para análise de balanços.
+
+                         Retorno sobre o ativo = Margem Líquida x Giro do Ativo Total
+
+Como:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   15
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+                                                                      Lucro Líquido
+                                       Margem líquida =
+                                                                     Vendas Líquidas
+
+                                                                    Vendas Líquidas
+                                         Giro do ativo =
+                                                                     Ativo Médio
+
+Façamos uma demonstração:
+
+                                        Margem Líquida × Giro do Ativo
+
+                               Lucro líquido    Vendas líquidas Lucro líquido
+                                              ×                →
+                              Vendas líquidas    Ativo médio     Ativo médio
+
+Os dois cálculos conduzem ao mesmo resultado. Mas é importante detalhar a taxa de retorno em seus dois
+componentes para facilitar a identificação das causas que podem ter levado a empresa a um desempenho
+                                                       ==219a34==
+
+
+
+
+melhor ou pior que o planejado.
+
+Vamos aos cálculos:
+
+                                    Lucro Líquido        88.000         88.000 88.000
+        Retorno sobre o ativo =                   =                   =         =         = 67,69 %
+                                     Ativo Médio    100.000 + 160.000   260.000   130.000
+                                                            2              2
+
+Gabarito: D
+
+EBIT (LAJIR) e EBITDA (LAJIDA)
+
+   (FGV/CGU/Auditor Federal de Finanças e Controle/2022) Uma sociedade empresária apresenta
+    despesas de depreciação e de amortização em sua DRE. Um analista, ao analisar tal relatório, calcula
+    seu EBIT e seu EBITDA, encontrando o EBIT maior que o EBITDA.
+Nesse caso, é correto afirmar que o analista:
+A pode ter acertado os cálculos, pois EBITDA = EBIT + D + A;
+B pode ter acertado os cálculos, pois EBIT é sempre maior que EBITDA;
+C acertou os cálculos, pois EBITDA = EBIT + D + A;
+D errou algum cálculo, pois EBITDA mede fluxo de caixa;
+E errou algum cálculo, pois o EBITDA é certamente maior que o EBIT.
+
+Comentários:
+
+Ebtida é a sigla de “Earnings Before Interest, Taxes, Depreciation and Amortization”, que traduzido para o
+português significa “Lucro Antes de Juros, Impostos, Depreciações e Amortizações” – LAJIDA. (Usaremos
+indistintamente as duas siglas).
+
+As Exaustões também devem ser consideradas, juntamente com as Depreciações e Amortizações. Quanto
+aos impostos, são excluídos apenas os impostos sobre o lucro.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   16
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+A finalidade do Ebitda é demonstrar o potencial de geração operacional de caixa que uma empresa é capaz
+de produzir, antes de considerar o custo de qualquer empréstimo ou financiamento. Não é o fluxo de caixa
+efetivamente gerado ou consumido no período, pois não considera as variações nas contas de ativo e
+passivo. Em outras palavras, parte das vendas pode não ter sido ainda recebida, e parte das comprar ainda
+não ter sido paga.
+
+Se todas as operações fossem à vista, o Lajida representaria o valor do caixa produzido pelos ativos, antes
+das receitas e despesas financeiras (juros) e dos impostos sobre o lucro.
+
+Ebit é a sigla de “Earnings Before Interest and Taxes”, que traduzido para o português significa “Lucro Antes
+de Juros e Impostos” – LAJIR. (Usaremos indistintamente as duas siglas).
+
+Exemplo:
+
+                                  Demonstração do Resultado (DRE)                31/12/XX
+                           Vendas Brutas                                          650.000
+                           (-) Impostos                                          -162.500
+                           (=) Vendas Líquidas                                    487.500
+                           (-) CMV                                               -285.000
+                           (=) Lucro Bruto                                        202.500
+                           (-) Despesas
+                           De Vendas                                              -25.000
+                           Administrativas                                        -18.000
+                           Depreciação                                            -32.000
+                           Amortização                                            -15.000
+                           Financeiras                                            -45.000
+                           (=) Lucro Operacional Antes IR CSLL                    67.500
+                           (-) IR e CSLL                                          -16.700
+                           (=) Lucro Líquido                                      50.800
+
+A partir da DRE acima, podemos calcular o EBITDA da seguinte forma:
+
+Lucro Operacional Antes IR e CSLL:                                67.500
+(+) Despesas Financeiras                                         45.000
+(+) Amortização                                                  15.000
+(+) Depreciação                                                  32.000
+(=) EBITDA                                                       159.500
+
+Agora, o EBIT:
+
+Lucro Operacional Antes IR e CSLL:                                67.500
+(+) Despesas Financeiras                                         45.000
+(=) EBIT                                                         112.500
+
+Outra forma de cálculo, partindo do Lucro Líquido:
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   17
+           www.estrategiaconcursos.com.br                                                                   42
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+EBITDA:
+
+Lucro Líquido                                                    50.800
+(+) IR e CSLL                                                    16.700
+(+) Despesas Financeiras                                         45.000
+(+) Amortização                                                  15.000
+(+) Depreciação                                                  32.000
+(=) EBITDA                                                       159.500
+
+EBIT:
+
+Outra forma de cálculo, partindo do Lucro Líquido:
+
+Lucro Líquido                                                    50.800
+(+) IR e CSLL                                                    16.700
+(+) Despesas Financeiras                                         45.000
+(=) EBIT                                                         112.500
+
+Após esse exemplo fica evidente que errou algum cálculo, pois o EBITDA é certamente maior que o EBIT.
+
+Gabarito: E
+
+Análise vertical e horizontal das demonstrações contábeis
+
+   (FGV/IMBEL/Analista Contábil/2021) Leia o fragmento a seguir:
+A análise           do(a)           mostra a composição percentual dos tipos de aplicações e as origens
+de recursos que compõem o patrimônio da entidade, enquanto a análise         mostra o comportamento
+de cada item das demonstrações contábeis em dois ou mais períodos.
+Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima.
+A vertical – balanço patrimonial – horizontal
+B horizontal – balanço patrimonial – vertical
+C vertical – demonstração do resultado do exercício – horizontal
+D horizontal – demonstração do resultado do exercício – por indicadores
+E vertical – demonstração do resultado do exercício – por indicadores
+
+Comentários:
+
+A Análise Vertical também conhecida como análise da estrutura ou análise estática. Ela indica a estrutura
+das demonstrações contábeis, através de coeficientes de participações, bem como a sua evolução no tempo.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   18
+           www.estrategiaconcursos.com.br                                                                   42
+
+                                       https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+No balanço Patrimonial, os coeficientes são calculados em função do total do Ativo e total do Passivo + PL.
+Na Demonstração do Resultado, usa-se a Receita Líquida como base (Índice 100).
+
+Exemplo: Considerando-se a DRE abaixo, podemos calcular os índices de Análise Vertical da seguinte forma:
+
+                                                DRE                  R$ A.V. %
+                           Vendas líquidas                          2.000 100
+                           (-) Custo das Mercadorias Vendidas (CMV) 1.200 60
+                           (=) Lucro Bruto                           800  40
+                           (-) Despesas                              500  25
+                           (=) Lucro Líquido                         300  15
+
+Todos os coeficientes foram obtidos dividindo-se o valor de cada item pelas Vendas Líquidas.
+
+A análise Horizontal também é conhecida como análise de tendência ou dinâmica. O objetivo da Análise
+Horizontal é demonstrar o comportamento de itens do Balanço e da Demonstração do Resultado através do
+tempo. Na sua elaboração, consideramos o primeiro período como base 100, e apuramos o percentual de
+evolução dos períodos seguinte. Exemplo:
+
+                      Análise Horizontal Ano 1 A.H. Ano 2 A.H Ano 3 A.H
+                      Vendas             $ 2.200 100 $ 3.000 136 $ 3.200 145
+
+O primeiro ano da série tem índice 100.
+
+                3000
+Segundo ano:         ×100 = 136
+                2200
+                3200
+Terceiro ano:        ×100 = 145
+                2200
+
+Normalmente, o símbolo % é omitido, na análise Horizontal.
+
+A análise horizontal pode ser feita por qualquer período de tempo: Ano, trimestres, meses, etc.
+
+Preenchendo as lacunas, temos o seguinte:
+
+A análise vertical do(a) balanço patrimonial mostra a composição percentual dos tipos de aplicações e as
+origens de recursos que compõem o patrimônio da entidade, enquanto a análise horizontal mostra o
+comportamento de cada item das demonstrações contábeis em dois ou mais períodos.
+
+Gabarito: A
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/IMBEL/Analista Contábil/2021) Em 31/12/X0, as Cias. A e B, em suas Demonstrações do Resultado
+    do Exercício, apresentaram os saldos a seguir.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   19
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+                                                                  Cia A    Cia B
+                         Receita de Vendas                      500.000 100.000
+                         Custo das Mercadorias Vendidas         -100.000 -30.000
+                         Lucro Bruto                            400.000 70.000
+                         Despesas Operacionais                  -300.000 -50.000
+                         LAIR                                   100.000 20.000
+                         Imposto de renda e contribuição social -34.000   -6.800
+                         Lucro Líquido                           66.000  13.200
+Em relação aos índices de lucratividade das empresas, assinale a afirmativa correta.
+A A margem bruta e a margem líquida são maiores na Cia. A.
+B A margem bruta e a margem líquida são maiores na Cia. B.
+C A margem bruta é maior na Cia. A e, a margem líquida, na Cia. B.
+D A margem bruta e a margem líquida são iguais, nas duas empresas.
+E A margem bruta é maior na Cia. A, enquanto a margem líquida é igual nas duas empresas.
+
+Comentários:
+
+   •   Margem líquida:
+
+                                              Lucro Líquido   66.000
+                                ML CIA A =                  =        = 0,132
+                                             Vendas Líquidas 500.000
+
+                                              Lucro Líquido   13.200
+                                ML CIA B =                  =        = 0,132
+                                             Vendas Líquidas 100.000
+
+   ▪   Margem Bruta:
+
+                                                   Lucro Bruto    400.000
+                                    MB CIA A =                  =         =0,80
+                                                 Vendas Líquidas 500.000
+
+                                                   Lucro Bruto    70.000
+                                    MB CIA B =                  =        =0,70
+                                                 Vendas Líquidas 100.000
+
+A A margem bruta e a margem líquida são maiores na Cia. A.
+
+Errado, visto que as entidades possuem margens líquidas iguais.
+
+B A margem bruta e a margem líquida são maiores na Cia. B.
+
+Errado, pois a margem bruta da Cia B é menor e sua margem líquida é igual a da Cia. A.
+
+C A margem bruta é maior na Cia. A e, a margem líquida, na Cia. B.
+
+Errado, dado que as entidades possuem margens líquidas iguais.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   20
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+D A margem bruta e a margem líquida são iguais, nas duas empresas.
+
+Errado, apenas as margens líquidas são iguais.
+
+E A margem bruta é maior na Cia. A, enquanto a margem líquida é igual nas duas empresas.
+
+Esse é o nosso gabarito!
+
+Gabarito: E
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/IMBEL/Analista Contábil/2021) Assinale a opção que indica um fato que pode acarretar o
+    aumento do Índice de Retorno sobre o Ativo.
+A Compra a prazo de estoques.
+B Compra à vista de ativo imobilizado.
+C Aumento de capital social em dinheiro.
+D Pagamento de dívida com fornecedores.
+E Pagamento antecipado de despesas de aluguel.
+
+Comentários:
+
+O Retorno sobre o Ativo (também conhecido como Retorno sobre o Investimento ou Retorno sobre o Capital
+Empregado ou Índice Du-Pont) pode ser calculado de duas formas:
+
+                        Retorno sobre o Ativo = Margem Líquida x Giro do Ativo Total
+
+Como:
+
+                                           Lucro Líquido                  Vendas Líquidas
+                     Margem líquida =                     Giro do ativo =
+                                          Vendas Líquidas                  Ativo Médio
+
+Façamos uma demonstração:
+
+                                        Margem Líquida × Giro do Ativo
+
+                               Lucro líquido    Vendas líquidas Lucro líquido
+                                              ×                →
+                              Vendas líquidas    Ativo médio     Ativo médio
+
+                                                                 Lucro líquido
+                                      Retorno sobre o Ativo=
+                                                                 Ativo médio
+
+Os dois cálculos conduzem ao mesmo resultado. Mas é importante detalhar a taxa de retorno em seus dois
+componentes para facilitar a identificação das causas que podem ter levado a empresa a um desempenho
+melhor ou pior que o planejado.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   21
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Se o problema estiver na Margem, por exemplo, a empresa pode concentrar esforços para melhorá-la. Da
+mesma forma, um problema no Giro pode ser combatido com diminuição de estoques e clientes (diminuindo
+o ativo).
+
+A Compra a prazo de estoques.
+
+Lançamento:
+
+D – Estoque (+Ativo)
+C – Fornecedores (+Passivo)
+
+Houve aumento do ativo. Isso provoca um denominador “Ativo Médio” maior:
+
+                                                                  Lucro líquido
+                                    Retorno sobre o Ativo↓ =
+                                                                  Ativo médio↑
+
+Por consequência, o retorno sobre o ativo diminui.
+
+B Compra à vista de ativo imobilizado.
+
+Lançamento:
+
+D – Imobilizado (+Ativo)
+C – Disponibilidades (-Ativo)
+
+Não houve alteração do ativo, apenas troca de saldos entre contas do ativo.
+
+C Aumento de capital social em dinheiro.
+
+Lançamento:
+
+D – Disponibilidades (+Ativo)
+C – Capital Social (+PL)
+
+Houve aumento do ativo. Isso provoca um denominador “Ativo Médio” maior:
+
+                                                                  Lucro líquido
+                                    Retorno sobre o Ativo↓ =
+                                                                  Ativo médio↑
+
+Como resultado, o retorno sobre o ativo diminui.
+
+D Pagamento de dívida com fornecedores.
+
+Lançamento:
+
+D - Fornecedores (-Passivo)
+C – Disponibilidades (-Ativo)
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   22
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Houve diminuição do ativo. Isso provoca um denominador “Ativo Médio” menor:
+
+                                                                  Lucro líquido
+                                    Retorno sobre o Ativo↑ =
+                                                                  Ativo médio↓
+
+Consequentemente, o retorno sobre o ativo aumenta. Esse é o nosso gabarito.
+
+E Pagamento antecipado de despesas de aluguel.
+
+Lançamento:
+
+D – Despesa Antecipada (+Ativo)
+C – Disponibilidades (-Ativo)
+
+Não houve alteração do ativo, apenas troca de saldos entre contas do ativo.
+
+Gabarito: D.
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/IMBEL/Analista de Custos/2021) Sobre a análise das demonstrações contábeis, por meio dos
+    indicadores de rentabilidade em uma empresa, assinale a afirmativa correta.
+A Revelam a capacidade de geração de lucros.
+B Revelam a política de obtenção de recursos.
+C Medem a capacidade de pagamento das obrigações.
+D Avaliam a capacidade de remuneração do capital aplicado.
+E Avaliam a segurança oferecida em relação ao capital de terceiros.
+
+Comentários:
+
+A diferença entre os indicadores de Lucratividade e os indicadores de Rentabilidade é a seguinte:
+
+Nos índices de Lucratividade relacionamos o Lucro com as Vendas.
+
+Nos índices de Rentabilidade a relação ocorre entre o Lucro e o Capital Investido.
+
+Assim, os indicadores de rentabilidade em uma empresa avaliam a capacidade de remuneração do capital
+aplicado
+
+Gabarito: D.
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/IMBEL/Analista de Custos/2021) Os fatos a seguir impactam o índice de retorno do patrimônio
+    líquido, à exceção de um. Assinale-o.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   23
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+A Reconhecimento de dividendos.
+B Aumento de capital social em dinheiro.
+C Venda à vista de estoque com prejuízo.
+D Pagamento de dívida com fornecedores.
+E Venda a prazo de ativo imobilizado com lucro.
+
+Comentários:
+
+O Retorno sobre o Patrimônio Líquido (também conhecido como Retorno sobre o Capital Próprio) indica a
+rentabilidade do capital próprio aplicado na empresa. Deve ser comparado com outras alternativas de
+investimentos e com o retorno obtido por outras empresas do mesmo setor, para que se possa avaliar o
+desempenho da empresa sob análise.
+
+A fórmula é a seguinte:
+
+                                                      Lucro líquido
+                                             RPL=
+                                                    Patrimônio líquido
+
+Fique Atento! O quesito solicitou o item INCORRETO.
+
+A Reconhecimento de dividendos.
+
+Lançamento:
+
+D – Lucros Acumulados (-PL)
+C – Dividendos a pagar (+Passivo)
+
+Houve diminuição do PL. Acarretando um denominador “Patrimônio Líquido“ menor:
+
+                                                       Lucro líquido
+                                            RPL↑=
+                                                    Patrimônio líquido↓
+
+Consequentemente, o Retorno sobre o PL aumenta.
+
+B Aumento de capital social em dinheiro.
+
+Lançamento:
+
+D – Disponibilidades (+Ativo)
+C – Capital Social (+PL)
+
+Houve aumento do PL. Isso provoca um denominador “Patrimônio Líquido” maior:
+
+                                                       Lucro líquido
+                                            RPL↓=
+                                                    Patrimônio líquido↑
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   24
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Como resultado, o Retorno sobre o PL diminui.
+
+C Venda à vista de estoque com prejuízo.
+
+Lançamento (Valores hipotéticos):
+
+D – Caixa (+Ativo) 1.000
+C – Receitas de Vendas (+resultado) 1.000
+D – CMV (-resultado)1.200
+C – Estoque (-Ativo)1.200
+
+Houve diminuição da Resultado (Prejuízo). Lembrando que as contas de resultado são contas transitórias, ou
+seja, são zeradas a cada exercício. A entidade irá confrontar suas receitas com suas despesas e apurará o
+resultado do exercício. Esse resultado será transferido para o PL, especificadamente para conta Lucros ou
+Prejuízos Acumulados. Resumidamente, ocasionou um denominador “Patrimônio Líquido” menor:
+
+                                                       Lucro líquido
+                                            RPL↑=
+                                                    Patrimônio líquido↓
+
+Assim, o Retorno sobre o PL aumenta.
+
+D Pagamento de dívida com fornecedores.
+
+Lançamento:
+
+D - Fornecedores (-Passivo)
+C – Disponibilidades (-Ativo)
+
+Tal fato não impactou o índice de retorno do patrimônio líquido. Este é o nosso gabarito!
+
+E Venda a prazo de ativo imobilizado com lucro.
+
+Lançamento:
+
+D – Contas a Receber (+Ativo)
+D – Depreciação Acumulada (+Ativo)
+C - Imobilizado (- Ativo)
+C – Ganho (+resultado)
+
+Houve aumento da Resultado. Lembrando que as contas de resultado são contas transitórias, ou seja, são
+zeradas a cada exercício. A entidade irá confrontar suas receitas com suas despesas e apurará o resultado
+do exercício. Esse resultado será transferido para o PL, especificadamente para conta Lucros ou Prejuízos
+Acumulados. Em síntese, causa um denominador “Patrimônio Líquido” maior:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   25
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+                                                       Lucro líquido
+                                            RPL↓=
+                                                    Patrimônio líquido↑
+
+Por consequência, o Retorno sobre o PL diminui.
+
+Gabarito: D.
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/IMBEL/Engenheiro/Controle de Qualidade/2021) As tabelas apresentam os resumos do balanço
+    patrimonial e do demonstrativo do resultado do exercício de 2019 de uma sociedade empresarial.
+Resumo do balanço patrimonial.
+                                Ativo circulante:                R$110.000,00
+                                Passivo circulante:              R$100.000,00
+                                Ativo realizável de longo prazo: R$90.000,00
+                                Ativo permanente:                R$1.000.000,00
+Resumo da demonstração do exercício de 2019
+                                    Receitas:                    R$600.000,00
+                                    Custo dos produtos vendidos: R$200.000,00
+                                    Despesas operacionais:       R$100.000,00
+                                    Despesas financeiras:        R$10.000,00
+Nessa sociedade, o Retorno sobre Ativos (RsA) vale
+A 10%
+B 20%
+C 25%
+D 30%
+E 40%
+
+Comentários:
+
+Tome nota! A FGV não considera a dedução das despesas financeiras no Lucro Líquido quando analisa o
+retorno sobre o ativo, isto é, basicamente a banca adiciona o valor das despesas financeiras ao Lucro Líquido
+ou simplesmente não deduz as despesas financeira ao calcular o lucro líquido. Uma justificativa seria que
+estes representam a remuneração que a entidade oferece a seus financiadores. Caso não soubesse desse
+detalhe, acabaria acertando nesta questão por arredondamento. Todavia, devemos ficar atentos para essa
+pegadinha. Exemplo:
+
+                               Demonstração do Resultado (DRE)                 31/12/XX
+                         Vendas Brutas                                          650.000
+                         (-) Impostos                                          -162.500
+                         (=) Vendas Líquidas                                    487.500
+                         (-) CMV                                               -285.000
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   26
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+                                Demonstração do Resultado (DRE)                31/12/XX
+                         (=) Lucro Bruto                                        202.500
+                         (-) Despesas
+                         De Vendas                                              -25.000
+                         Administrativas                                        -18.000
+                         Depreciação                                            -32.000
+                         Amortização                                            -15.000
+                         Financeiras                                            -45.000
+                         (=) Lucro Operacional Antes IR CSLL                    67.500
+                         (-) IR e CSLL                                          -16.700
+                         (=) Lucro Líquido                                      50.800
+
+A partir da DRE acima, podemos calcular da seguinte forma:
+
+Lucro Líquido                                                  67.500
+(+) Despesas Financeiras                                       45.000
+(=) Lucro Líquido + DF                                         112.500
+
+Voltando para a nossa questão:
+
+                              Lucro líquido (600.000-200.000-100.000)   300.000
+  Retorno sobre o Ativo=                   =                          =         = 0,25 ou 25%
+                              Ativo médio 110.000+90.000+1.000.000 1.200.000
+
+Gabarito: C
+
+Análise vertical e horizontal das demonstrações contábeis
+
+    (FGV/Pref. Salvador/Técnico de Nível Superior/Ciências Contábeis/2017) Uma sociedade empresária
+   apresentava os seguintes saldos, em 31/12/206.
+Receita de Venda: R$ 200.000;
+Receita com a venda de ativo imobilizado: R$ 80.000;
+Despesas administrativas: R$ 30.000;
+Despesas comerciais: R$ 50.000;
+Baixa de ativo imobilizado: R$ 30.000;
+Custo das mercadorias vendidas: R$ 60.000;
+Provisão para imposto de renda: R$ 40.000.
+A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura de resultado.
+Assinale a opção que indica a representação do resultado operacional.
+A 30,00%.
+B 35,00%.
+C 42,86%.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   27
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+D 55,00%.
+E 78,57%.
+
+Comentários:
+
+A Análise Vertical calcula o percentual de cada conta em relação às Vendas Líquidas Para resultado
+operacional., fica assim:
+
+                                                    Resultado operacional.
+                                           A.V. =
+                                                       Vendas Líquidas
+
+Antes, precisamos elaborar uma DRE:
+
+                    DRE                                                           R$
+                    Receita de Venda                                            200.000
+                     (-) Custo das Mercadorias Vendidas (CMV)                   60.000
+                     (=) Lucro Bruto                                            140.000
+                     (-) Despesas
+                          administrativas                                       30.000
+                          comerciais                                            50.000
+                          Outras receitas (80.000 -30.000)                      50.000
+                    (=) Lucro Antes do Imposto de Renda (resultado operacional) 110.000
+                    (-) Provisão para imposto de renda                          40.000
+                     (=) Lucro Líquido                                          70.000
+
+Calculamos, temos:
+
+                                     Resultado operacional. 110.000
+                            A.V. =                         =         = 0,55 ou 55%
+                                        Vendas Líquidas      200.000
+
+Para fins didáticos, vejamos a análise vertical completa:
+
+               DRE                                                           R$    A.V. %
+               Receita de Venda                                            200.000 100%
+                (-) Custo das Mercadorias Vendidas (CMV)                   60.000 30%
+                (=) Lucro Bruto                                            140.000 70%
+                (-) Despesas
+                     administrativas                                       30.000 15%
+                     comerciais                                            50.000 25%
+                     Outras receitas (80.000 -30.000)                      50.000 25%
+               (=) Lucro Antes do Imposto de Renda (resultado operacional) 110.000 55%
+               (-) Provisão para imposto de renda                          40.000 20%
+                (=) Lucro Líquido                                          70.000 35%
+
+Gabarito: D
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   28
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Análise vertical e horizontal das demonstrações contábeis
+
+   (FGV/SEDUC AM/Contador/2014) Em relação à capacidade informacional da análise vertical da
+   Demonstração do Resultado do Exercício, assinale a opção correta.
+A Ela permite evidenciar quais as receitas e as despesas que mais influenciam na formação do lucro ou do
+prejuízo da entidade.
+B Ela permite analisar a capacidade de pagamento de uma entidade.
+C Ela permite analisar a periodicidade do resultado de uma entidade.
+D Ela permite detectar a composição percentual dos tipos de aplicações e as origens de recursos que
+compõem o patrimônio da entidade.
+E Ela permite analisar a evolução ou a involução das despesas de uma empresa ao longo dos anos.
+
+Comentários:
+
+A Ela permite evidenciar quais as receitas e as despesas que mais influenciam na formação do lucro ou do
+prejuízo da entidade. Este é o nosso gabarito!
+
+B Ela permite analisar a capacidade de pagamento de uma entidade.
+
+Errado, pois os índices de liquidez que indicam a capacidade da empresa de pagar suas dívidas. Esses índices
+são utilizados, entre outros usuários, pelos credores da empresa (bancos, fornecedores etc.), para avaliar o
+risco de inadimplência de créditos já concedidos ou a conceder.
+
+C Ela permite analisar a periodicidade do resultado de uma entidade.
+
+Vamos rever a nossa dica:
+
+   •   Análise Horizontal -> EVOLUÇÃO/COMPORTAMENTO através do tempo
+   •   Análise Vertical -> ESTRUTURA/ COMPOSIÇÃO
+
+Assim, periodicidade está relacionada ao COMPORTAMENTO através do tempo, consequentemente, a
+análise horizontal.
+
+D Ela permite detectar a composição percentual dos tipos de aplicações e as origens de recursos que
+compõem o patrimônio da entidade.
+
+Errado, pois isso é capacidade informacional da análise vertical do balanço patrimonial e o quesito solicitou
+a capacidade informacional da análise vertical da demonstração do resultado do exercício.
+
+Essa foi maldosa e pegou muitos candidatos. Portanto sempre fique atento se o quesito relaciona a análise
+vertical ao balanço patrimonial ou a demonstração do resultado do exercício.
+
+E Ela permite analisar a evolução ou a involução das despesas de uma empresa ao longo dos anos.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   29
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Errado, visto que isso é feito pela análise HORIZONTAL. Lembrando que a análise Horizontal indica a
+EVOLUÇÃO, isto é, o comportamento de itens do balanço e da demonstração do resultado através do tempo.
+
+Gabarito: A
+
+Análise vertical e horizontal das demonstrações contábeis
+
+    (FGV/CGE MA/Auditor do Estado/2014) Assinale a afirmativa que melhor se aplica à capacidade
+   informacional da análise vertical do Balanço Patrimonial.
+A Análise da evolução do comportamento das contas do ativo ao longo dos anos.
+B Evidenciação das receitas e despesas que mais contribuíram na formação do lucro ou do prejuízo.
+C Análise da estratégia de política de pagamento da empresa.
+D Avaliação do desempenho da empresa e da capacidade de gerar lucros.
+E Possibilidade de detecção da composição percentual dos tipos de aplicações e as origens de recursos que
+compõe o patrimônio da entidade.
+
+Comentários:
+
+A Análise da evolução do comportamento das contas do ativo ao longo dos anos.
+
+Errado, pois isso é feito pela análise HORIZONTAL. Lembrando que a análise Horizontal indica o
+comportamento de itens do balanço e da demonstração do resultado através do tempo.
+
+B Evidenciação das receitas e despesas que mais contribuíram na formação do lucro ou do prejuízo.
+
+Errado, pois isso é capacidade informacional da análise vertical da demonstração do resultado do exercício
+e o quesito solicitou a capacidade informacional da análise vertical do balanço patrimonial.
+
+Essa foi maldosa e pegou muitos candidatos. Portanto sempre fique atento se o quesito relaciona a análise
+vertical ao balanço patrimonial ou a demonstração do resultado do exercício.
+
+C Análise da estratégia de política de pagamento da empresa.
+
+Errado, pois os índices de liquidez que indicam a capacidade da empresa de pagar suas dívidas e,
+consequentemente, fornece informações para análise da estratégia de política de pagamento da empresa.
+
+D Avaliação do desempenho da empresa e da capacidade de gerar lucros.
+
+Errado, isso é feito pelos indicadores de lucratividade.
+
+E Possibilidade de detecção da composição percentual dos tipos de aplicações e as origens de recursos que
+compõe o patrimônio da entidade. Este é o nosso gabarito!
+
+Gabarito: E
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   30
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/MPE MS/Técnico I/Contabilidade/2013) Uma empresa que apresenta, no início do período, um
+   total de ativo no valor de $40.000, um passivo exigível de $30.000 e apura, ao final do ano, um lucro
+   líquido do exercício de $2.000, terá uma rentabilidade sobre o capital próprio de
+A 5%.
+B 10%.
+C 15%.
+D 20%.
+E 25%.
+
+Comentários:
+
+O Retorno sobre o Patrimônio Líquido (também conhecido como Retorno sobre o Capital Próprio) indica a
+rentabilidade do capital próprio aplicado na empresa. Deve ser comparado com outras alternativas de
+investimentos e com o retorno obtido por outras empresas do mesmo setor, para que se possa avaliar o
+desempenho da empresa sob análise. A fórmula é a seguinte:
+
+                                                      Lucro líquido
+                                             RPL=
+                                                    Patrimônio líquido
+
+Vimos que ATIVO = PASSIVO + PL. Como Ativo = 40.000 e Passivo = 30.000, então o PL será de:
+
+                                              ATIVO = PASSIVO + PL.
+                                               40.000 = 30.000 + PL.
+                                           PL. = 40.000 – 30.000 = 10.000
+
+Agora, já temos o LL e o PL. Substituindo na fórmula, temos:
+
+                                             Lucro líquido     2.000
+                                    RPL=                     =       = 20%
+                                           Patrimônio líquido 10.000
+
+Gabarito: D
+
+Índices de Rentabilidade e Lucratividade
+
+   (FGV/CODEBA/Analista Portuário/Contador/2010) Qual é a lucratividade líquida de uma empresa que
+   apresenta os seguintes dados em sua Demonstração do Resultado do Exercício e que paga 34% de
+   imposto de renda e contribuição social?
+Receita bruta de serviços: R$500.000; Despesas Operacionais: R$150.000; Custo dos Serviços Prestados:
+R$220.000.
+A 17%.
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   31
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+B 26%.
+C 31%.
+D 56%.
+E 66%.
+
+Comentários:
+
+Inicialmente, elaboremos a DRE:
+
+Receita bruta de serviços: R$500.000;
+- Custo dos Serviços Prestados: R$220.000.
+= Lucro Bruto: R$280.000.
+- Despesas Operacionais: R$150.000;
+= LAIR R$130.000.
+(-) IR e CSLL R$44.200 (130.000 x 34%)
+= LL R$85.800
+
+   •     Margem líquida:
+
+                                                   Lucro Líquido   85.800
+                              Margem líquida =                   =        = 17%.
+                                                  Vendas Líquidas 500.000
+
+Curiosidade! Este índice já é calculado quando da elaboração da Análise Vertical.
+
+Gabarito: A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   32
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+   Filipe Magalhães, Júlio Cardozo
+   Aula 05
+
+
+
+
+          QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas que exigem
+respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a memorização da matéria, e,
+consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+                                                     Perguntas
+
+1. A Análise Vertical também é conhecida como?
+2. O que a Análise Vertical indica?
+3. A Análise Horizontal também é conhecida como?
+4. Qual o objetivo da Análise Horizontal?
+5. A análise horizontal é feita em qual período de tempo?
+6. Quais os tipos de base da análise horizontal?
+7. Qual a diferença entre Lucratividade e Rentabilidade?
+8. O que é Índice Du-Pont? Quais suas fórmulas?
+9. O que é Ebtida?
+10. O que é Ebit?[
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis                33
+         www.estrategiaconcursos.com.br                                                                                42
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 05
+
+
+
+
+                                        Perguntas com respostas
+
+1. A Análise Vertical também é conhecida como?
+
+A Análise Vertical também conhecida como análise da estrutura ou análise estática.
+
+2. O que a Análise Vertical indica?
+
+A Análise Vertical Indica a estrutura das demonstrações contábeis, através de coeficientes de participações,
+bem como a sua evolução no tempo.
+
+3. A Análise Horizontal também é conhecida como?
+
+A análise Horizontal também é conhecida como análise de tendência ou dinâmica
+                                                       ==219a34==
+
+
+
+
+4. Qual o objetivo da Análise Horizontal?
+
+O objetivo da Análise Horizontal é demonstrar o comportamento de itens do Balanço e da Demonstração do
+Resultado através do tempo.
+
+5. A análise horizontal é feita em qual período de tempo?
+
+A análise horizontal pode ser feita por qualquer período de tempo: Ano, trimestres, meses, etc.
+
+6. Quais os tipos de base da análise horizontal?
+
+A análise horizontal pode ser do tipo “base fixa” ou “base móvel”.
+
+--- Base fixa: todos os percentuais se referem ao primeiro ano.
+
+--- Base móvel: o percentual se refere ao ano anterior.
+
+7. Qual a diferença entre Lucratividade e Rentabilidade?
+
+A diferença entre os indicadores de Lucratividade e os indicadores de Rentabilidade é a seguinte:
+
+Nos índices de Lucratividade relacionamos o Lucro com as Vendas.
+
+Nos índices de Rentabilidade a relação ocorre entre o Lucro e o Capital Investido.
+
+8. O que é Índice Du-Pont? Quais suas fórmulas?
+
+O Retorno sobre o Ativo (também conhecido como Retorno sobre o Investimento ou Retorno sobre o Capital
+Empregado ou Índice Du-Pont) pode ser calculado de duas formas:
+
+                        Retorno sobre o Ativo = Margem Líquida x Giro do Ativo Total
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   34
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 05
+
+
+
+                                                                 Lucro líquido
+                                      Retorno sobre o Ativo=
+                                                                 Ativo médio
+
+Os dois cálculos conduzem ao mesmo resultado. Mas é importante detalhar a taxa de retorno em seus dois
+componentes para facilitar a identificação das causas que podem ter levado a empresa a um desempenho
+melhor ou pior que o planejado.
+
+Se o problema estiver na Margem, por exemplo, a empresa pode concentrar esforços para melhorá-la. Da
+mesma forma, um problema no Giro pode ser combatido com diminuição de estoques e clientes (diminuindo
+o ativo).
+
+9. O que é Ebtida?
+
+Ebtida é a sigla de “Earnings Before Interest, Taxes, Depreciation and Amortization”, que traduzido para o
+português significa “Lucro Antes de Juros, Impostos, Depreciações e Amortizações” – LAJIDA. (Usaremos
+indistintamente as duas siglas)..
+
+A finalidade do Ebitda é demonstrar o potencial de geração operacional de caixa que uma empresa é capaz
+de produzir, antes de considerar o custo de qualquer empréstimo ou financiamento. Não é o fluxo de caixa
+efetivamente gerado ou consumido no período, pois não considera as variações nas contas de ativo e
+passivo. Em outras palavras, parte das vendas pode não ter sido ainda recebida, e parte das comprar ainda
+não ter sido paga.
+
+Se todas as operações fossem à vista, o Lajida representaria o valor do caixa produzido pelos ativos, antes
+das receitas e despesas financeiras (juros) e dos impostos sobre o lucro.
+
+10. O que é Ebit?
+
+Ebit é a sigla de “Earnings Before Interest and Taxes”, que traduzido para o português significa “Lucro Antes
+de Juros e Impostos” – LAJIR. (Usaremos indistintamente as duas siglas).
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   35
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Filipe Magalhães, Júlio Cardozo
+  Aula 05
+
+
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+   (FGV/TCU/Auditor Federal de Controle Externo/2022) Um analista deseja elaborar um documento com
+    a situação contábil de diferentes entidades do mesmo setor. Para isso, ele analisou suas
+    demonstrações contábeis referentes aos anos de 2019, 2020 e 2021.
+Para facilitar o seu trabalho, o analista não levou em consideração a atualização dos componentes das
+demonstrações contábeis pela inflação.
+Os resultados mais impactados pela não correção pela inflação diziam respeito, principalmente, à análise:
+A horizontal;
+B vertical;
+C dos indicadores de liquidez geral;
+D dos indicadores de liquidez imediata;
+E dos indicadores de estrutura de capital.
+
+   (FGV/SEMSA Manaus/Especialista em Saúde/Contador/2022) Uma sociedade empresária apresentou a
+    seguinte Demonstração do Resultado do Exercício em 31/12/X1:
+                              Receita de Serviços                     400.000
+                              CSP                                     - 200.000
+                              Lucro Bruto                             200.000
+                              Despesas operacionais                   - 120.000
+                              Outras receitas e despesas operacionais 30.000
+                              LAIR                                    110.000
+                              IR                                      - 22.000
+                              Lucro Líquido                           88.000
+Além disso, o seu ativo era de R$100.000 em X0 e de R$160.000 em X1.
+Assinale a opção que indica o retorno sobre o ativo da sociedade empresária em 31/12/X1, considerando o
+uso do ativo médio no denominador do índice.
+A 49%.
+B 54%
+C 62%.
+D 68%.
+E 85%.
+
+   (FGV/CGU/Auditor Federal de Finanças e Controle/2022) Uma sociedade empresária apresenta
+    despesas de depreciação e de amortização em sua DRE. Um analista, ao analisar tal relatório, calcula
+    seu EBIT e seu EBITDA, encontrando o EBIT maior que o EBITDA.
+Nesse caso, é correto afirmar que o analista:
+A pode ter acertado os cálculos, pois EBITDA = EBIT + D + A;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   36
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+B pode ter acertado os cálculos, pois EBIT é sempre maior que EBITDA;
+C acertou os cálculos, pois EBITDA = EBIT + D + A;
+D errou algum cálculo, pois EBITDA mede fluxo de caixa;
+E errou algum cálculo, pois o EBITDA é certamente maior que o EBIT.
+
+   (FGV/IMBEL/Analista Contábil/2021) Leia o fragmento a seguir:
+A análise           do(a)           mostra a composição percentual dos tipos de aplicações e as origens
+de recursos que compõem o patrimônio da entidade, enquanto a análise         mostra o comportamento
+de cada item das demonstrações contábeis em dois ou mais períodos.
+Assinale a opção cujos itens completam corretamente as lacunas do fragmento acima.
+A vertical – balanço patrimonial – horizontal
+B horizontal – balanço patrimonial – vertical          ==219a34==
+
+
+
+
+C vertical – demonstração do resultado do exercício – horizontal
+D horizontal – demonstração do resultado do exercício – por indicadores
+E vertical – demonstração do resultado do exercício – por indicadores
+
+   (FGV/IMBEL/Analista Contábil/2021) Em 31/12/X0, as Cias. A e B, em suas Demonstrações do Resultado
+    do Exercício, apresentaram os saldos a seguir.
+                                                                  Cia A    Cia B
+                         Receita de Vendas                      500.000 100.000
+                         Custo das Mercadorias Vendidas         -100.000 -30.000
+                         Lucro Bruto                            400.000 70.000
+                         Despesas Operacionais                  -300.000 -50.000
+                         LAIR                                   100.000 20.000
+                         Imposto de renda e contribuição social -34.000   -6.800
+                         Lucro Líquido                           66.000  13.200
+Em relação aos índices de lucratividade das empresas, assinale a afirmativa correta.
+A A margem bruta e a margem líquida são maiores na Cia. A.
+B A margem bruta e a margem líquida são maiores na Cia. B.
+C A margem bruta é maior na Cia. A e, a margem líquida, na Cia. B.
+D A margem bruta e a margem líquida são iguais, nas duas empresas.
+E A margem bruta é maior na Cia. A, enquanto a margem líquida é igual nas duas empresas.
+
+   (FGV/IMBEL/Analista Contábil/2021) Assinale a opção que indica um fato que pode acarretar o
+    aumento do Índice de Retorno sobre o Ativo.
+A Compra a prazo de estoques.
+B Compra à vista de ativo imobilizado.
+C Aumento de capital social em dinheiro.
+D Pagamento de dívida com fornecedores.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   37
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+E Pagamento antecipado de despesas de aluguel.
+
+   (FGV/IMBEL/Analista de Custos/2021) Sobre a análise das demonstrações contábeis, por meio dos
+    indicadores de rentabilidade em uma empresa, assinale a afirmativa correta.
+A Revelam a capacidade de geração de lucros.
+B Revelam a política de obtenção de recursos.
+C Medem a capacidade de pagamento das obrigações.
+D Avaliam a capacidade de remuneração do capital aplicado.
+E Avaliam a segurança oferecida em relação ao capital de terceiros.
+
+   (FGV/IMBEL/Analista de Custos/2021) Os fatos a seguir impactam o índice de retorno do patrimônio
+   líquido, à exceção de um. Assinale-o.
+A Reconhecimento de dividendos.
+B Aumento de capital social em dinheiro.
+C Venda à vista de estoque com prejuízo.
+D Pagamento de dívida com fornecedores.
+E Venda a prazo de ativo imobilizado com lucro.
+
+   (FGV/IMBEL/Engenheiro/Controle de Qualidade/2021) As tabelas apresentam os resumos do balanço
+    patrimonial e do demonstrativo do resultado do exercício de 2019 de uma sociedade empresarial.
+Resumo do balanço patrimonial.
+                                Ativo circulante:                R$110.000,00
+                                Passivo circulante:              R$100.000,00
+                                Ativo realizável de longo prazo: R$90.000,00
+                                Ativo permanente:                R$1.000.000,00
+Resumo da demonstração do exercício de 2019
+                                    Receitas:                    R$600.000,00
+                                    Custo dos produtos vendidos: R$200.000,00
+                                    Despesas operacionais:       R$100.000,00
+                                    Despesas financeiras:        R$10.000,00
+Nessa sociedade, o Retorno sobre Ativos (RsA) vale
+A 10%
+B 20%
+C 25%
+D 30%
+E 40%
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   38
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                      https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+    (FGV/Pref. Salvador/Técnico de Nível Superior/Ciências Contábeis/2017) Uma sociedade empresária
+   apresentava os seguintes saldos, em 31/12/206.
+Receita de Venda: R$ 200.000;
+Receita com a venda de ativo imobilizado: R$ 80.000;
+Despesas administrativas: R$ 30.000;
+Despesas comerciais: R$ 50.000;
+Baixa de ativo imobilizado: R$ 30.000;
+Custo das mercadorias vendidas: R$ 60.000;
+Provisão para imposto de renda: R$ 40.000.
+A sociedade empresária realiza uma análise vertical, a fim de verificar sua estrutura de resultado.
+Assinale a opção que indica a representação do resultado operacional.
+A 30,00%.
+B 35,00%.
+C 42,86%.
+D 55,00%.
+E 78,57%.
+
+   (FGV/SEDUC AM/Contador/2014) Em relação à capacidade informacional da análise vertical da
+   Demonstração do Resultado do Exercício, assinale a opção correta.
+A Ela permite evidenciar quais as receitas e as despesas que mais influenciam na formação do lucro ou do
+prejuízo da entidade.
+B Ela permite analisar a capacidade de pagamento de uma entidade.
+C Ela permite analisar a periodicidade do resultado de uma entidade.
+D Ela permite detectar a composição percentual dos tipos de aplicações e as origens de recursos que
+compõem o patrimônio da entidade.
+E Ela permite analisar a evolução ou a involução das despesas de uma empresa ao longo dos anos.
+
+     (FGV/CGE MA/Auditor do Estado/2014) Assinale a afirmativa que melhor se aplica à capacidade
+   informacional da análise vertical do Balanço Patrimonial.
+A Análise da evolução do comportamento das contas do ativo ao longo dos anos.
+B Evidenciação das receitas e despesas que mais contribuíram na formação do lucro ou do prejuízo.
+C Análise da estratégia de política de pagamento da empresa.
+D Avaliação do desempenho da empresa e da capacidade de gerar lucros.
+E Possibilidade de detecção da composição percentual dos tipos de aplicações e as origens de recursos que
+compõe o patrimônio da entidade.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   39
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+   (FGV/MPE MS/Técnico I/Contabilidade/2013) Uma empresa que apresenta, no início do período, um
+   total de ativo no valor de $40.000, um passivo exigível de $30.000 e apura, ao final do ano, um lucro
+   líquido do exercício de $2.000, terá uma rentabilidade sobre o capital próprio de
+A 5%.
+B 10%.
+C 15%.
+D 20%.
+E 25%.
+
+   (FGV/CODEBA/Analista Portuário/Contador/2010) Qual é a lucratividade líquida de uma empresa que
+   apresenta os seguintes dados em sua Demonstração do Resultado do Exercício e que paga 34% de
+   imposto de renda e contribuição social?
+Receita bruta de serviços: R$500.000; Despesas Operacionais: R$150.000; Custo dos Serviços Prestados:
+R$220.000.
+A 17%.
+B 26%.
+C 31%.
+D 56%.
+E 66%.
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   40
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 05
+
+
+
+
+                                                GABARITO
+                                                Questão Gabarito
+                                                   1       A
+                                                   2       D
+                                                   3       E
+                                                   4       A
+                                                   5       E
+                                                   6       D
+                                                   7       D
+                                                   8       D
+                                                   9       C
+                                                  10       D
+                                                  11       A
+                                                  12       E
+                                                  13       D
+                                                  14       A
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Análise das Demonstrações Contábeis   41
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,2579 @@
+                                                    Aula 14
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+
+
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+
+
+
+                                              19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    CRÉDITO TRIBUTÁRIO E LANÇAMENTO
+
+
+
+
+    1. Palavras do Professor .........................................................................2
+    2. Importância do Assunto .....................................................................3
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?................................................ 4
+    3. Roteiro de Revisão e Pontos que merecem Destaque .......................5
+    4. Aposta Estratégica ..........................................................................19
+    5. Questões Estratégicas .....................................................................20
+          QUESTÕES FGV.............................................................................................. 20
+    6. Questionário de Revisão .................................................................43
+    7. Questões de Aula ............................................................................48
+          QUESTÕES FGV.............................................................................................. 48
+          GABARITO ...................................................................................................... 54
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           principais pontos sobre Crédito Tributário e Lançamento.
+
+                           Vamos rever a definição de Lançamento, além de qual
+                           legislação será aplicável ao procedimento, tanto sob o
+                           aspecto material, como formal; ver as hipóteses de alteração
+    de Lançamento, além de conhecer suas respectivas modalidades, sempre
+    mirando o que tem sido cobrado em prova.
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+
+
+
+              “Sem o esforço da busca, é impossível a alegria do
+                                 encontro”
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          2
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    2. IMPORTÂNCIA DO ASSUNTO
+
+    Com base na análise estatística das questões de Concursos da Área Fiscal dos
+    últimos anos, temos o seguinte resultado para o(s) assunto(s) que serão
+    tratados neste relatório:
+
+
+
+                            Assunto do Edital                                         FGV
+
+                 Crédito Tributário e Lançamento                                      2,55%
+
+    * Nesta análise não estamos levando em conta os tópicos de Suspensão de
+    Exigibilidade do Crédito Tributário, Exclusão do Crédito Tributário, Extinção
+    do Crédito Tributário e Garantias e Privilégios do Crédito Tributário, que serão
+    analisadas individualmente nas aulas seguintes.
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos da Área Fiscal, que o assunto “Crédito Tributário e
+    Lançamento” possui importância Intermediária, tendo aparecido em 2,55%
+    das questões da Banca.
+
+
+
+                   % de Cobrança                                   Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           3
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+
+
+                                         Tópico                                       FGV
+      Lançamento                                                                      35,71%
+
+      Modalidades de Lançamento                                                       14,29%
+
+      Legislação aplicável ao Lançamento                                              28,57%
+
+      Alteração de Lançamento regularmente notificado                                 21,43%
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            4
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.
+
+
+
+
+    1.    O Crédito Tributário decorre da obrigação principal e tem a mesma
+    natureza desta.
+
+    2. O Crédito Tributário se refere tanto a tributos, como às dívidas decorrentes
+    de multas tributárias (penalidades).
+
+    3. As circunstâncias que modificam o crédito tributário, sua extensão ou seus
+    efeitos, ou as garantias ou os privilégios a ele atribuídos, ou que excluem sua
+    exigibilidade não afetam a obrigação tributária que lhe deu origem.
+
+    4. Com o Fato Gerador, surge a Obrigação Principal (dever de pagar tributo
+    e/ou      penalidade).         Com       o     Lançamento          realizado      pela   autoridade
+    administrativa, esta dívida se torna exigível.
+
+    Assim, podemos afirmar que a função do Lançamento é tornar uma dívida
+    EXIGÍVEL.
+
+    5. Compete privativamente à autoridade administrativa constituir o Crédito
+    Tributário pelo lançamento, não sendo permitida a delegação ou avocação
+    desta competência.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       5
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    6. Segundo o CTN, Lançamento é o procedimento administrativo tendente
+    a:
+
+          ▪ verificar a ocorrência do fato gerador da obrigação correspondente,
+          ▪ determinar a matéria tributável,
+          ▪ calcular o montante do tributo devido,
+          ▪ identificar o sujeito passivo e,
+          ▪ sendo caso, propor a aplicação da penalidade cabível.
+
+    7. Lançamento possui natureza jurídica mista, pois:
+
+          ▪ Declara a Obrigação Tributária, e
+          ▪ Constitui o Crédito Tributário
+
+    8. Em relação aos aspectos materiais, deve se aplicar ao Lançamento a
+    legislação que estava em vigor na data da ocorrência do Fato Gerador, ou
+    seja, a Legislação vigente do momento em que surgiu a Obrigação Tributária.
+
+    Segundo o CTN:
+
+                        Art. 144. O lançamento reporta-se à data da ocorrência do fato
+                        gerador da obrigação e rege-se pela lei então vigente, ainda
+                        que posteriormente modificada ou revogada.
+
+    9. Em relação aos aspectos formais (procedimentos do lançamento), deve se
+    aplicar a legislação vigente à data do lançamento, ainda que diferente da que
+    era vigente à data de ocorrência do Fato Gerador.
+
+    Desta forma, em relação à legislação que rege os Procedimentos do
+    Lançamento (critérios de apuração e fiscalização, por exemplo), podemos
+    dizer que ela alcança Fatos Geradores passados (anteriores a ela).
+
+    10.     A aplicação retroativa da Legislação que rege os Procedimentos do
+    Lançamento não se aplica na hipótese de atribuir responsabilidade tributária
+    a terceiros.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      6
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    11. Salvo disposição de lei em contrário, quando o valor tributário estiver
+    expresso em moeda estrangeira, no lançamento sua conversão será feita para
+    moeda nacional ao câmbio do dia da ocorrência do fato gerador da obrigação.
+
+    12. Antes de o contribuinte ser notificado da existência do crédito tributário,
+    o lançamento não produz qualquer efeito.
+
+    Assim, até ocorrer a Notificação, a possibilidade de revisão/alteração do
+    lançamento é total (absoluta).
+
+    13. Após a Notificação, o Lançamento só pode ser alterado em virtude de:
+
+          ▪ impugnação do sujeito passivo;
+          ▪ recurso de ofício;
+          ▪ iniciativa de ofício da autoridade administrativa, nos casos previstos no
+             artigo 149.
+
+    14. Impugnação do Sujeito Passivo ocorre quando ele contesta o lançamento
+    efetuado, seja em primeira instância (impugnação/defesa) ou na segunda
+    instância (recurso voluntário), quando a primeira instância lhe foi contrária.
+
+    15.     Recurso de Ofício ocorre quando, após a impugnação de primeira
+    instância realizada pelo Sujeito Passivo, a decisão for contrária ao Fisco (ou
+    seja, a favor do Sujeito Passivo), e o Fisco entra com novo recurso para a
+    Segunda Instância.
+
+    16. Iniciativa de Ofício da Autoridade Administrativa, nos casos previstos no
+    artigo 149:
+
+                        Art. 149. O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                        I - quando a lei assim o determine;
+
+                        II - quando a declaração não seja prestada, por quem de direito,
+                        no prazo e na forma da legislação tributária;
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        7
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        III - quando a pessoa legalmente obrigada, embora tenha
+                        prestado declaração nos termos do inciso anterior, deixe de
+                        atender, no prazo e na forma da legislação tributária, a pedido
+                        de esclarecimento formulado pela autoridade administrativa,
+                        recuse-se a prestá-lo ou não o preste satisfatoriamente, a juízo
+                        daquela autoridade;
+
+                        IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como sendo
+                        de declaração obrigatória;
+
+                        V - quando se comprove omissão ou inexatidão, por parte da
+                        pessoa legalmente obrigada, no exercício da atividade a que se
+                        refere o artigo seguinte;
+
+                        VI - quando se comprove ação ou omissão do sujeito passivo,
+                        ou de terceiro legalmente obrigado, que dê lugar à aplicação
+                        de penalidade pecuniária;
+
+                        VII - quando se comprove que o sujeito passivo, ou terceiro em
+                        benefício daquele, agiu com dolo, fraude ou simulação;
+
+                        VIII - quando deva ser apreciado fato não conhecido ou não
+                        provado por ocasião do lançamento anterior;
+
+                        IX - quando se comprove que, no lançamento anterior, ocorreu
+                        fraude ou falta funcional da autoridade que o efetuou, ou
+                        omissão, pela mesma autoridade, de ato ou formalidade
+                        especial.
+
+
+
+    17. As alterações ao Lançamento só podem ser realizadas enquanto não
+    estiver extinto o direito da Fazenda Pública pela decadência.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        8
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    18. A modificação introduzida, de ofício ou em consequência de decisão
+    administrativa ou judicial, nos critérios jurídicos adotados pela autoridade
+    administrativa no exercício do lançamento somente pode ser efetivada, em
+    relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido
+    posteriormente à sua introdução.
+
+    Assim, podemos afirmar que a mudança nos critérios jurídicos possui efeitos
+    ex nunc, aplicando-se apenas aos fatos geradores futuros.
+
+    19. Segundo o STJ (REsp 1.347.324), NÃO cabe alteração de lançamento com
+    base em erro de direito.
+
+                        “Não se admite a revisão quando configurado erro de direito
+                        consistente naquele que decorre do conhecimento e da
+                        aplicação incorreta da norma.”
+
+    20. Já em relação a erro de fato, é cabível a alteração de Lançamento.
+
+    21. As três modalidades de Lançamento são:
+
+          ▪ Lançamento de Ofício;
+
+          ▪ Lançamento por Declaração;
+
+          ▪ Lançamento por Homologação.
+
+    22. No Lançamento de Ofício, o fisco possui dados suficientes para realizar o
+    lançamento sem a participação do contribuinte.
+
+    São exemplos de tributos com Lançamento de Ofício:
+
+          ▪ IPTU;
+          ▪ IPVA;
+          ▪ Contribuição de Melhoria;
+          ▪ Taxas;
+          ▪ Contribuições de Interesse das categorias profissionais ou econômicas;
+          ▪ COSIP – Contribuição de Iluminação Pública
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   9
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    23. Já no Lançamento por Declaração, o contribuinte fica obrigado a
+    apresentar declaração com informações sobre o valor, a data de ocorrência do
+    fato gerador, seus dados pessoais etc., e com base nessas informações, a
+    autoridade providencia o lançamento, notificando-o para pagamento.
+
+    24. A retificação da declaração por iniciativa do próprio declarante, quando
+    vise a reduzir ou a excluir tributo, só é admissível mediante comprovação do
+    erro em que se funde, e antes de notificado o lançamento.
+
+    Caso o declarante constate um erro na declaração após ter sido regularmente
+    notificado, ele poderá apresentar impugnação (e não retificação).
+
+    25. Quando o cálculo do tributo tenha por base, ou tome em consideração, o
+    valor ou o preço de bens, direitos, serviços ou atos jurídicos, a autoridade
+    lançadora, mediante processo regular, ARBITRARÁ aquele valor ou preço,
+    sempre que sejam omissos ou não mereçam fé as declarações ou os
+    esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo
+    ou pelo terceiro legalmente obrigado, ressalvada, em caso de contestação,
+    avaliação contraditória, administrativa ou judicial.
+
+    26. Destaca-se o fato de que o lançamento por arbitramento não possui
+    natureza punitiva, mas apenas o fim de “apurar” o valor da base de Cálculo de
+    uma operação em que a documentação fiscal foi omissa ou não mereceu fé.
+
+    27. E por último, o Lançamento por Homologação é aquele em que o sujeito
+    passivo       antecipa       o     pagamento         sem      prévio      exame   da   autoridade
+    administrativa, sendo que esta, ao conferir a exatidão dos valores recolhidos,
+    realiza a homologação do pagamento.
+
+    Segundo o CTN:
+
+                        Art. 150. O lançamento por homologação, que ocorre quanto
+                        aos tributos cuja legislação atribua ao sujeito passivo o dever
+                        de antecipar o pagamento sem prévio exame da autoridade
+                        administrativa, opera-se pelo ato em que a referida autoridade,
+                        tomando conhecimento da atividade assim exercida pelo
+                        obrigado, expressamente a homologa.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                     10
+      www.estrategiaconcursos.com.br
+
+                                     https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    28. Se a lei não fixar prazo a homologação, será ele de Cinco Anos, a contar
+    da ocorrência do Fato Gerador.
+
+    Expirado esse prazo sem que a Fazenda Pública se tenha pronunciado,
+    considera-se homologado o lançamento e definitivamente extinto o crédito,
+    salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+
+    29.      Súmula STJ 436 - A entrega de declaração pelo contribuinte
+    reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer
+    outra providência por parte do fisco.
+
+    Desta forma, segundo o entendimento do STJ, a entrega da declaração pelo
+    contribuinte cessa a contagem do prazo Decadencial.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   11
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+
+
+
+                                                           CTN:
+
+
+                        Maior Relevância para provas: Arts. 142 a 145, 147, 149 e 150.
+                        Média Relevância para provas: Art. 139 e 146.
+                        Pouca Relevância para provas: Arts. 140, 141 e 148.
+
+
+                        Artigo 139:
+                        Art. 139. O crédito tributário decorre da obrigação principal e
+                        tem a mesma natureza desta.
+
+
+                        Artigo 140:
+                        Art. 140. As circunstâncias que modificam o crédito tributário,
+                        sua extensão ou seus efeitos, ou as garantias ou os privilégios a
+                        ele atribuídos, ou que excluem sua exigibilidade não afetam a
+                        obrigação tributária que lhe deu origem.
+
+
+                        Artigo 141:
+                        Art. 141. O crédito tributário regularmente constituído somente
+                        se modifica ou extingue, ou tem sua exigibilidade suspensa ou
+                        excluída, nos casos previstos nesta Lei, fora dos quais não
+                        podem ser dispensadas, sob pena de responsabilidade
+                        funcional na forma da lei, a sua efetivação ou as respectivas
+                        garantias.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         12
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        Artigo 142:
+                        Art. 142. Compete privativamente à autoridade administrativa
+                        constituir o crédito tributário pelo lançamento, assim entendido
+                        o procedimento administrativo tendente a verificar a ocorrência
+                        do fato gerador da obrigação correspondente, determinar a
+                        matéria tributável, calcular o montante do tributo devido,
+                        identificar o sujeito passivo e, sendo caso, propor a aplicação
+                        da penalidade cabível.
+
+                        Parágrafo único. A atividade administrativa de lançamento é
+                        vinculada e obrigatória, sob pena de responsabilidade funcional
+
+
+
+                        Artigo 143:
+                        Art. 143. Salvo disposição de lei em contrário, quando o valor
+                        tributário       esteja     expresso        em      moeda     estrangeira,   no
+                        lançamento far-se-á sua conversão em moeda nacional ao
+                        câmbio do dia da ocorrência do fato gerador da obrigação.
+
+
+
+                        Artigo 144:
+                        Art. 144. O lançamento reporta-se à data da ocorrência do fato
+                        gerador da obrigação e rege-se pela lei então vigente, ainda
+                        que posteriormente modificada ou revogada.
+
+                         § 1º Aplica-se ao lançamento a legislação que, posteriormente
+                        à ocorrência do fato gerador da obrigação, tenha instituído
+                        novos critérios de apuração ou processos de fiscalização,
+                        ampliado os poderes de investigação das autoridades
+                        administrativas, ou outorgado ao crédito maiores garantias ou
+                        privilégios, exceto, neste último caso, para o efeito de atribuir
+                        responsabilidade tributária a terceiros.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       13
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        § 2º O disposto neste artigo não se aplica aos impostos
+                        lançados por períodos certos de tempo, desde que a respectiva
+                        lei fixe expressamente a data em que o fato gerador se
+                        considera ocorrido.
+
+
+
+                        Artigo 145:
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo só pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+                        II - recurso de ofício;
+
+                        III - iniciativa de ofício da autoridade administrativa, nos casos
+                        previstos no artigo 149.
+
+
+
+                        Artigo 146:
+                        Art. 146. A modificação introduzida, de ofício ou em
+                        consequência de decisão administrativa ou judicial, nos critérios
+                        jurídicos adotados pela autoridade administrativa no exercício
+                        do lançamento somente pode ser efetivada, em relação a um
+                        mesmo sujeito passivo, quanto a fato gerador ocorrido
+                        posteriormente à sua introdução.
+
+
+
+                        Artigo 147:
+                        Art. 147. O lançamento é efetuado com base na declaração do
+                        sujeito passivo ou de terceiro, quando um ou outro, na forma
+                        da legislação tributária, presta à autoridade administrativa
+                        informações sobre matéria de fato, indispensáveis à sua
+                        efetivação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          14
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        § 1º A retificação da declaração por iniciativa do próprio
+                        declarante, quando vise a reduzir ou a excluir tributo, só é
+                        admissível mediante comprovação do erro em que se funde, e
+                        antes de notificado o lançamento.
+
+                        § 2º Os erros contidos na declaração e apuráveis pelo seu
+                        exame serão retificados de ofício pela autoridade administrativa
+                        a que competir a revisão daquela.
+
+
+
+                        Artigo 148:
+                        Art. 148. Quando o cálculo do tributo tenha por base, ou tome
+                        em consideração, o valor ou o preço de bens, direitos, serviços
+                        ou atos jurídicos, a autoridade lançadora, mediante processo
+                        regular, arbitrará aquele valor ou preço, sempre que sejam
+                        omissos        ou     não     mereçam         fé    as    declarações   ou   os
+                        esclarecimentos prestados, ou os documentos expedidos pelo
+                        sujeito passivo           ou pelo         terceiro       legalmente obrigado,
+                        ressalvada, em caso de contestação, avaliação contraditória,
+                        administrativa ou judicial.
+
+
+
+                        Artigo 149:
+                        Art. 149. O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                        I - quando a lei assim o determine;
+
+                        II - quando a declaração não seja prestada, por quem de direito,
+                        no prazo e na forma da legislação tributária;
+
+                        III - quando a pessoa legalmente obrigada, embora tenha
+                        prestado declaração nos termos do inciso anterior, deixe de
+                        atender, no prazo e na forma da legislação tributária, a pedido
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       15
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        de esclarecimento formulado pela autoridade administrativa,
+                        recuse-se a prestá-lo ou não o preste satisfatoriamente, a juízo
+                        daquela autoridade;
+
+                        IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como sendo
+                        de declaração obrigatória;
+
+                        V - quando se comprove omissão ou inexatidão, por parte da
+                        pessoa legalmente obrigada, no exercício da atividade a que se
+                        refere o artigo seguinte;
+
+                        VI - quando se comprove ação ou omissão do sujeito passivo,
+                        ou de terceiro legalmente obrigado, que dê lugar à aplicação
+                        de penalidade pecuniária;
+
+                        VII - quando se comprove que o sujeito passivo, ou terceiro em
+                        benefício daquele, agiu com dolo, fraude ou simulação;
+
+                        VIII - quando deva ser apreciado fato não conhecido ou não
+                        provado por ocasião do lançamento anterior;
+
+                        IX - quando se comprove que, no lançamento anterior, ocorreu
+                        fraude ou falta funcional da autoridade que o efetuou, ou
+                        omissão, pela mesma autoridade, de ato ou formalidade
+                        especial.
+
+
+
+                        Parágrafo único. A revisão do lançamento só pode ser iniciada
+                        enquanto não extinto o direito da Fazenda Pública.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        16
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        Artigo 150:
+                        Art. 150. O lançamento por homologação, que ocorre quanto
+                        aos tributos cuja legislação atribua ao sujeito passivo o dever
+                        de antecipar o pagamento sem prévio exame da autoridade
+                        administrativa, opera-se pelo ato em que a referida autoridade,
+                        tomando conhecimento da atividade assim exercida pelo
+                        obrigado, expressamente a homologa.
+
+                        § 1º O pagamento antecipado pelo obrigado nos termos deste
+                        artigo extingue o crédito, sob condição resolutória da ulterior
+                        homologação ao lançamento.
+
+                        § 2º Não influem sobre a obrigação tributária quaisquer atos
+                        anteriores à homologação, praticados pelo sujeito passivo ou
+                        por terceiro, visando à extinção total ou parcial do crédito.
+
+                        § 3º Os atos a que se refere o parágrafo anterior serão, porém,
+                        considerados na apuração do saldo porventura devido e, sendo
+                        o caso, na imposição de penalidade, ou sua graduação.
+
+                        § 4º Se a lei não fixar prazo a homologação, será ele de cinco
+                        anos, a contar da ocorrência do fato gerador; expirado esse
+                        prazo sem que a Fazenda Pública se tenha pronunciado,
+                        considera-se homologado o lançamento e definitivamente
+                        extinto o crédito, salvo se comprovada a ocorrência de dolo,
+                        fraude ou simulação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       17
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                                                      Súmulas STJ:
+
+
+
+
+                        Súmula STJ 397
+                        O contribuinte do IPTU é notificado do lançamento pelo envio
+                        do carnê ao seu endereço.
+
+
+                        Súmula STJ 431
+                        É ilegal a cobrança de ICMS com base no valor da mercadoria
+                        submetido ao regime de pauta fiscal.
+
+                        Súmula STJ 436
+                        A entrega de declaração pelo contribuinte reconhecendo
+                        débito fiscal constitui o crédito tributário, dispensada qualquer
+                        outra providência por parte do fisco.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         18
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    4. APOSTA ESTRATÉGICA
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+    Vamos ao conteúdo da nossa aposta?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   19
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    Nesta seção, apresentamos e comentamos uma amostra de questões objetivas
+    selecionadas estrategicamente: são questões com nível de dificuldade
+    semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+    abordam os principais pontos do assunto.
+    A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa
+    de questões, mas que você faça uma boa revisão global do assunto a partir
+    de, relativamente, poucas questões.
+
+
+    QUESTÕES FGV
+
+
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) Segundo o
+    Código Tributário Nacional, o lançamento é o procedimento pelo qual a
+    autoridade administrativa verifica a ocorrência do fato gerador da obrigação
+    tributária, determina a matéria tributável, calcula o montante do tributo
+    devido, identifica o sujeito passivo e, sendo o caso, propõe a aplicação da
+    penalidade cabível.
+
+
+
+    Sobre o lançamento, analise as afirmativas a seguir.
+
+
+
+    I. O envio do carnê de IPTU ao endereço do contribuinte configura a
+    notificação presumida do lançamento do tributo.
+
+    II. O lançamento pode ser revisto de ofício pela Fazenda Pública, se
+    constatado erro em sua feitura, enquanto não extinto o direito de lançar.
+
+    III. Ocorrendo o pagamento antecipado do ICMS por parte do contribuinte, o
+    prazo decadencial para o lançamento de eventuais diferenças é de cinco anos
+    a contar do fato gerador.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   20
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Está correto o que se afirma em
+
+    (A) I, apenas.                                                      (D) II e III, apenas.
+
+    (B) I e II, apenas.                                                 (E) I, II e III.
+
+    (C) I e III, apenas.
+
+
+
+    Comentários: O examinador pede que analisemos as assertivas acerca do
+    lançamento.
+
+    Assertiva I (Correta): O envio do carnê de IPTU ao endereço do contribuinte
+                                                       ==219a34==
+
+
+
+
+    configura a notificação presumida do lançamento do tributo.
+
+    Esta afirmação segue o entendimento sumulado pelo STJ descrito abaixo:
+
+                        Súmula nº 397: O contribuinte do IPTU é notificado do
+                        lançamento pelo envio do carnê ao seu endereço.
+
+
+
+    Assertiva II (Correta): O lançamento pode ser revisto de ofício pela Fazenda
+    Pública, se constatado erro em sua feitura, enquanto não extinto o direito de
+    lançar.
+
+    Vamos revisar o que diz o CTN acerca das hipóteses de alteração do
+    lançamento.
+
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo SÓ pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+                        II - recurso de ofício;
+
+                        III - iniciativa de ofício da autoridade administrativa, nos casos
+                        previstos no artigo 149.
+
+    O Art. 149, inc. IV do CTN versa que:
+
+                        Art. 149. O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário             21
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como sendo
+                        de declaração obrigatória;
+
+                        Parágrafo único. A revisão do lançamento só pode ser iniciada
+                        enquanto não extinto o direito da Fazenda Pública.
+
+    Lembrando que o prazo acima é decadencial, pois versa sobre o direito da
+    Fazenda de realizar o lançamento, ou seja, de constituir o crédito tributário.
+
+
+
+    Assertiva III (Correta): Ocorrendo o pagamento antecipado do ICMS por parte
+    do contribuinte, o prazo decadencial para o lançamento de eventuais
+    diferenças é de cinco anos a contar do fato gerador.
+
+    Essa assertiva versa sobre o lançamento por homologação. Veja que não é um
+    caso específico do ICMS, pois esta é a regra para qualquer lançamento por
+    homologação. Segundo o CTN:
+
+
+
+                        Art. 150. O lançamento por homologação, que ocorre quanto
+                        aos tributos cuja legislação atribua ao sujeito passivo o dever
+                        de antecipar o pagamento sem prévio exame da autoridade
+                        administrativa, opera-se pelo ato em que a referida autoridade,
+                        tomando conhecimento da atividade assim exercida pelo
+                        obrigado, expressamente a homologa.
+
+                        § 4º Se a lei não fixar prazo a homologação, será ele de cinco
+                        anos, a contar da ocorrência do fato gerador; expirado esse
+                        prazo sem que a Fazenda Pública se tenha pronunciado,
+                        considera-se homologado o lançamento e definitivamente
+                        extinto o crédito, salvo se comprovada a ocorrência de dolo,
+                        fraude ou simulação.
+
+
+
+    Gabarito: E
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       22
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    2-) (FGV - Técnico Tributário - SEFIN RO/2018) Com relação ao lançamento
+    tributário, assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+     ( ) Compete, privativamente, à autoridade administrativa constituir, pelo
+    lançamento, a obrigação tributária, verificando a ocorrência do fato gerador.
+
+    ( ) Uma nova lei, que tenha estabelecido novos procedimentos fiscalizatórios
+    para a apuração do tributo, é plenamente aplicável ao fato gerador já ocorrido,
+    porém com crédito ainda não lançado.
+
+    ( ) Quando o valor tributário estiver expresso em moeda estrangeira, salvo
+    disposição legal distinta, no lançamento será feita a conversão para moeda
+    nacional, ao câmbio do dia da ocorrência do fato gerador do tributo.
+
+    Na sequência em que aparecem, as afirmativas são, respectivamente,
+
+    (A) V – F – V.
+
+    (B) F – V – V.
+
+    (C) F – F – V.
+
+    (D) F – V – F.
+
+    (E) V – V – F.
+
+
+
+    Comentários: O examinador pede que analisemos a sequência de afirmações.
+
+    (Falsa) - Compete, privativamente, à autoridade administrativa constituir, pelo
+    lançamento, a obrigação tributária, verificando a ocorrência do fato gerador.
+
+    Na realidade, compete, privativamente, à autoridade administrativa constituir,
+    pelo lançamento, O CRÉDITO TRIBUTÁRIO. A obrigação tributária principal
+    surge com a ocorrência do fato gerador. Vejamos o que diz o CTN:
+
+
+
+                        Art. 113, § 1º A obrigação principal surge com a ocorrência do
+                        fato gerador, tem por objeto o pagamento de tributo ou
+                        penalidade pecuniária e extingue-se juntamente com o crédito
+                        dela decorrente.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      23
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        Art. 142. Compete privativamente à autoridade administrativa
+                        constituir o crédito tributário pelo lançamento, assim entendido
+                        o procedimento administrativo tendente a verificar a ocorrência
+                        do fato gerador da obrigação correspondente, determinar a
+                        matéria tributável, calcular o montante do tributo devido,
+                        identificar o sujeito passivo e, sendo caso, propor a aplicação
+                        da penalidade cabível.
+
+
+
+    (Correta) - Uma nova lei, que tenha estabelecido novos procedimentos
+    fiscalizatórios para a apuração do tributo, é plenamente aplicável ao fato
+    gerador já ocorrido, porém com crédito ainda não lançado.
+
+    Aqui, precisamos de uma interpretação mais profunda do CTN. Vejamos:
+
+                        Art. 144, § 1º Aplica-se ao lançamento a legislação que,
+                        posteriormente à ocorrência do fato gerador da obrigação,
+                        tenha instituído novos critérios de apuração ou processos de
+                        fiscalização, ampliado os poderes de investigação das
+                        autoridades administrativas, ou outorgado ao crédito maiores
+                        garantias ou privilégios, exceto, neste último caso, para o efeito
+                        de atribuir responsabilidade tributária a terceiros.
+
+    O § 1º do Art. 144 do CTN versa sobre os aspectos formais do lançamento.
+    Segundo esta passagem, aos aspectos formais aplica-se a legislação vigente
+    na data do lançamento.
+
+    Para interpretarmos o final da assertiva (“...porém com crédito ainda não
+    lançado.”), devemos lembrar que:
+
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo só pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+                        II - recurso de ofício;
+
+                        III - iniciativa de ofício da autoridade administrativa, nos casos
+                        previstos no artigo 149.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          24
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Em nenhum destes casos dos artigos 145 e 149 do CTN é dito que o
+    lançamento pode ser revisto para aplicação de novos critérios formais
+    introduzidos pela legislação tributária. Portanto, conclui-se que: A aplicação
+    de novos critérios formais introduzidos pela legislação tributária é plenamente
+    possível a fatos geradores ocorridos antes de sua ocorrência, porém aplica-se
+    apenas a fatos geradores com créditos tributários ainda não lançados.
+
+
+
+    (Correta) - Quando o valor tributário estiver expresso em moeda estrangeira,
+    salvo disposição legal distinta, no lançamento será feita a conversão para
+    moeda nacional, ao câmbio do dia da ocorrência do fato gerador do tributo.
+
+    Nesta assertiva não temos mistério. Bastava lembrar o que diz o CTN:
+
+
+
+                        Art. 143. Salvo disposição de lei em contrário, quando o valor
+                        tributário       esteja     expresso        em      moeda     estrangeira,   no
+                        lançamento far-se-á sua conversão em moeda nacional ao
+                        câmbio do dia da ocorrência do fato gerador da obrigação.
+
+
+
+    Gabarito: B
+
+
+
+
+    3-) (FGV - Agente Fazendário - Niterói/2015) Uma vez regularmente notificado
+    ao sujeito passivo, o lançamento só pode ser alterado em virtude de:
+
+    (A) decurso do prazo decadencial;
+
+    (B) majoração superveniente das alíquotas do tributo;
+
+    (C) alteração posterior da lei tributária no tocante à base de cálculo;
+
+    (D) impugnação do sujeito passivo;
+
+    (E) responsabilização tributária de pessoa imune.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       25
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Comentários: Temos um caso em que ocorreu o fato gerador, surgiu a
+    obrigação principal, foi efetuado o lançamento e o sujeito passivo foi
+    notificado. Em que circunstâncias este lançamento pode ser modificado?
+    Vamos ao CTN:
+
+
+
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo SÓ pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+                        II - recurso de ofício;
+
+                        III - iniciativa de ofício da autoridade administrativa, nos casos
+                        previstos no artigo 149.
+
+
+
+    Assertiva A (Falsa) - decurso do prazo decadencial;
+
+    Prazo decadencial é causa extintiva do crédito tributário e não hipótese de
+    alteração de lançamento.
+
+
+
+    Assertiva B (Falsa) – majoração superveniente das alíquotas do tributo;
+
+    Vamos ao CTN:
+
+
+
+                        Art. 144. O lançamento reporta-se à data da ocorrência do fato
+                        gerador da obrigação e rege-se pela lei então vigente, ainda
+                        que posteriormente modificada ou revogada.
+
+    Este      artigo       versa    sobre       a    irretroatividade         do      lançamento.   Mais
+    especificamente aos aspectos materiais do lançamento. Quando uma lei altera
+    os aspectos materiais, esta lei deve atingir apenas os fatos geradores futuros
+    e os pendentes. A majoração de alíquotas não é causa para se rever/alterar o
+    lançamento já notificado ao sujeito passivo.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                        26
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Assertiva C (Falsa): alteração posterior da lei tributária no tocante à base de
+    cálculo;
+
+    Conforme vimos acima, “O lançamento reporta-se à data da ocorrência do
+    fato gerador da obrigação e rege-se pela lei então vigente, ainda que
+    posteriormente modificada ou revogada.”
+
+
+
+    Assertiva D (Correta): impugnação do sujeito passivo;
+
+    É o que afirma o inciso I do Art. 145 do CTN:
+
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo SÓ pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+
+
+    Assertiva E (Falsa): responsabilização tributária de pessoa imune.
+
+    O lançamento não pode ser alterado para atribuir a responsabilidade tributária
+    a pessoa imune. O lançamento só pode ser alterado nos casos previstos no
+    Art. 145 do CTN. Ademais, pode ser estabelecida a responsabilidade tributária
+    a uma pessoa imune? Sim, mas por meio de Lei e não por ato administrativo
+    (no caso pelo lançamento).
+
+                        Art. 128. Sem prejuízo do disposto neste capítulo, a LEI pode
+                        atribuir de modo expresso a responsabilidade pelo crédito
+                        tributário a terceira pessoa, vinculada ao fato gerador da
+                        respectiva        obrigação,        excluindo       a    responsabilidade   do
+                        contribuinte ou atribuindo-a a este em caráter supletivo do
+                        cumprimento total ou parcial da referida obrigação.
+
+    É o caso, por exemplo, do Município que retém e recolhe o ISS do prestador
+    que lhe presta serviços, quando a lei assim o responsabiliza.
+
+
+
+    Gabarito: D
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      27
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    4-) (FGV - Fiscal de Tributos - Niterói/2015) O proprietário de um imóvel
+    realizou, no fim de 2013, uma obra em seu imóvel. Por conta dessa obra, a
+    área do imóvel foi ampliada de 120m2 para 280m2. O proprietário nada
+    informou ao Município, descumprindo normas administrativas e tributárias que
+    impõem a comunicação. Assim, a administração tributária municipal realizou
+    os lançamentos do IPTU dos fatos geradores ocorridos em 2014 e 2015 com
+    valores que consideravam uma área construída de 120m2 e não de 280m2. A
+    prefeitura tomou conhecimento do aumento da área construída em agosto de
+    2015. Considerando a situação exposta e as normas do CTN, a fiscalização do
+    Município:
+
+
+
+    (A) poderá revisar de ofício apenas o lançamento do IPTU referente ao
+    exercício de 2015, pois o exercício ainda está em curso;
+
+    (B) não poderá revisar de ofício apenas os lançamentos do IPTU dos exercícios
+    de 2014 e 2015, pois os lançamentos já foram regularmente notificados e não
+    podem ser alterados;
+
+    (C) não poderá revisar de ofício apenas os lançamentos do IPTU dos exercícios
+    de 2014 e 2015, pois a constatação do aumento da área construída é
+    introdução de modificação nos critérios jurídicos adotados pela autoridade
+    administrativa no exercício do lançamento e somente pode ser efetivada, em
+    relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido
+    posteriormente à sua introdução;
+
+    (D) poderá revisar de ofício os lançamentos do IPTU dos exercícios de 2014 e
+    2015, pois o aumento da área construída representa apreciar fatos
+    desconhecidos anteriormente, mas essa revisão do lançamento só poderá ser
+    iniciada enquanto não extinto o direito da Fazenda Pública;
+
+    (E) poderá revisar de ofício, a qualquer tempo, os lançamentos do IPTU dos
+    exercícios de 2014 e 2015, por conta do descumprimento por parte do
+    contribuinte das normas que determinam a comunicação da obra.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   28
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Comentários: Vamos resumir os fatos: O proprietário aumentou a área
+    construída de seu imóvel no final de 2013 e não informou as autoridades sobre
+    a mudança nos critérios materiais do Fato Gerador. Foram lançados e
+    notificados os IPTUs dos anos de 2014 e 2015. A prefeitura tomou
+    conhecimento do aumento da área construída em AGO/2015. Vamos ao CTN:
+
+
+
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo SÓ pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+                        II - recurso de ofício;
+
+                        III - iniciativa de ofício da autoridade administrativa, nos casos
+                        previstos no artigo 149.
+
+
+
+                        Art. 149. O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                        IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como
+                        sendo de declaração obrigatória;
+
+                        VIII - quando deva ser apreciado fato não conhecido ou não
+                        provado por ocasião do lançamento anterior;
+
+                        Parágrafo único. A revisão do lançamento só pode ser iniciada
+                        enquanto não extinto o direito da Fazenda Pública.
+
+
+
+    Sabemos que o lançamento do IPTU é feito de ofício. Apenas por curiosidade,
+    as legislações dos municípios atribuem aos contribuintes o dever de informar
+    às     Administrações           Tributárias       quaisquer        alterações     nos   elementos
+    constitutivos do Fato Gerador. Isto não deve ser confundido com lançamento
+    por declaração, ok? Como vimos, no caso desta questão, o contribuinte não
+    informou à Administração Tributária sobre as alterações ocorridas no imóvel.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                     29
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Neste caso, segundo o inciso IV e VIII do Art. 149, o lançamento pode ser
+    revisto de ofício enquanto não extinto o direito de a Fazenda Pública realizar
+    o lançamento. Este prazo é decadencial (de 5 anos), e tem início, neste caso,
+    a partir do primeiro dia do exercício seguinte àquele em que o lançamento
+    poderia ter sido efetuado. No caso do IPTU de 2014, o prazo inicia-se em
+    01.01.2015 e termina em 31.12.2019. No caso do IPTU de 2015, o prazo inicia-
+    se em 01.01.2016 e termina em 31.12.2020. Vejamos o CTN sobre um ponto
+    que iremos rever a fundo em outra aula:
+
+
+
+                        Art. 173. O direito de a Fazenda Pública constituir o crédito
+                        tributário extingue-se após 5 (cinco) anos, contados:
+
+                        I - do primeiro dia do exercício seguinte àquele em que o
+                        lançamento poderia ter sido efetuado;
+
+
+
+    Assim, vamos às assertivas:
+
+
+
+    Alternativa A (Falsa): poderá revisar de ofício apenas o lançamento do IPTU
+    referente ao exercício de 2015, pois o exercício ainda está em curso;
+
+    Como vimos acima, o prazo decadencial é de 5 anos e, no caso, os
+    lançamentos de 2014 e 2015 poderão ser revistos.
+
+
+
+    Alternativa B (Falsa): não poderá revisar de ofício apenas os lançamentos do
+    IPTU dos exercícios de 2014 e 2015, pois os lançamentos já foram
+    regularmente notificados e não podem ser alterados;
+
+
+    Como vimos acima, o prazo decadencial é de 5 anos e, no caso, os
+    lançamentos de 2014 e 2015 poderão ser revistos.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     30
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Alternativa C (Falsa): não poderá revisar de ofício apenas os lançamentos do
+    IPTU dos exercícios de 2014 e 2015, pois a constatação do aumento da área
+    construída é introdução de modificação nos critérios jurídicos adotados pela
+    autoridade administrativa no exercício do lançamento e somente pode ser
+    efetivada, em relação a um mesmo sujeito passivo, quanto a fato gerador
+    ocorrido posteriormente à sua introdução;
+
+    A modificação introduzida não foi no critério jurídico (conhecida como erro de
+    direito/interpretação da lei), e sim nos critérios materiais do Fato Gerador.
+
+
+
+    Alternativa D (Correta): poderá revisar de ofício os lançamentos do IPTU dos
+    exercícios de 2014 e 2015, pois o aumento da área construída representa
+    apreciar fatos desconhecidos anteriormente, mas essa revisão do lançamento
+    só poderá ser iniciada enquanto não extinto o direito da Fazenda Pública;
+
+    Perfeito! Como o prazo decadencial não ocorreu, a situação amolda-se no
+    inciso VIII do Art. 149 do CTN, descrito acima, permitindo a revisão de ofício
+    dos lançamentos do IPTU.
+
+
+
+    Alternativa E (Falsa): poderá revisar de ofício, a qualquer tempo, os
+    lançamentos do IPTU dos exercícios de 2014 e 2015, por conta do
+    descumprimento por parte do contribuinte das normas que determinam a
+    comunicação da obra.
+
+    A alternativa erra ao dizer que o lançamento pode ser revisto a qualquer
+    tempo. Sabemos que isto é uma inverdade e, portanto, torna a assertiva
+    incorreta.
+
+
+
+    Gabarito: D
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   31
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    5-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2011) A respeito do
+    lançamento, é correto afirmar que
+
+
+
+    (A) se reporta à data de ocorrência do fato gerador e é regido pela lei então
+    vigente, exceto se esta for posteriormente modificada ou revogada. Nesse
+    caso, por força do princípio da supremacia do interesse público, ainda que a
+    lei nova venha a prejudicar o contribuinte ou responsável pelo pagamento do
+    tributo, ela será aplicável de imediato se entrar em vigor entre a data de
+    ocorrência do fato gerador e a data do lançamento.
+
+    (B) o lançamento do Imposto de Renda é tido como lançamento por
+    declaração. Nesse tipo de lançamento, o sujeito passivo tem o dever de, se
+    for o caso, antecipar o pagamento sem o prévio exame da autoridade
+    administrativa. Esse pagamento extingue o crédito tributário, sob condição de
+    posterior homologação do lançamento pela autoridade fazendária, que tem 5
+    (cinco) anos para tanto, caso a lei não fixe prazo determinado.
+
+    (C) um dos casos em que o lançamento é considerado de declaração ocorre
+    quando se comprove falsidade, erro ou omissão quanto a qualquer elemento
+    definido na legislação tributária como sendo de declaração obrigatória.
+
+    (D) por força de previsão legal, a autoridade administrativa tem o poder de
+    delegar o lançamento tributário às entidades da administração pública indireta
+    que sejam pessoas jurídicas de direito público. Nesse caso, são aplicáveis as
+    disposições do CTN referentes à constituição do crédito tributário, que inclui,
+    entre outras, a responsabilidade funcional do servidor público pelas
+    informações prestadas ao fisco.
+
+    (E) quando o lançamento é regularmente notificado ao sujeito passivo, ele só
+    pode ser alterado pela impugnação do sujeito passivo, por recurso de ofício,
+    ou por iniciativa de ofício da autoridade administrativa, nos casos previstos
+    expressamente no CTN. Não se pode esquecer que a revisão do lançamento
+    somente pode ser iniciada enquanto não extinto o direito da Fazenda Pública.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   32
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Comentários: Temos aqui uma questão sobre os tipos de lançamentos, quais
+    sejam por Homologação, por Declaração e de Ofício. Vamos esclarecer estes
+    itens e após iremos às alternativas:
+
+
+
+    Lançamento por Homologação: É aquele que o contribuinte ou responsável
+    verifica o montante devido, declara e paga de forma antecipada sem prévio
+    exame da autoridade administrativa. Por exemplo ICMS e ISS.
+
+
+
+    Lançamento por Declaração: O sujeito passivo informa a autoridade
+    administrativa sobre a matéria de fato (o valor, a data da ocorrência do fato
+    gerador etc.), esta analisa, faz o lançamento e notifica o Sujeito Passivo. Por
+    exemplo temos o ITBI e o ITCMD.
+
+
+
+    Lançamento Direto ou de Ofício: É o lançamento que a autoridade possui
+    todas as informações necessárias para efetuar o lançamento, sem a
+    necessidade de informações do sujeito passivo: Por exemplo, IPTU e IPVA.
+
+    Vamos agora às alternativas:
+
+
+
+    Alternativa A (Incorreta): Cuidado! Realmente o lançamento se reporta à data
+    da ocorrência do Fato Gerador e rege-se pela lei vigente à época, porém não
+    há exceção, prevalecendo a legislação vigente à época do fato gerador.
+
+
+
+                        Art. 144. CTN O lançamento reporta-se à data da ocorrência do
+                        fato gerador da obrigação e rege-se pela lei então vigente,
+                        ainda que posteriormente modificada ou revogada.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     33
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Alternativa B (Incorreta): Atenção, pessoal! O IR é considerado lançamento por
+    homologação e não por Declaração, em que o sujeito passivo faz a declaração
+    e paga de forma antecipada, sem nenhuma atuação da administração
+    tributária.
+
+    O fato de a legislação exigir a entrega de uma declaração por parte do Sujeito
+    Passivo, não torna o tributo sujeito a Lançamento por Declaração.
+
+
+
+    Alternativa C (Incorreta): Quando houver falsidade, erro ou omissão a
+    administração tributária fará o Lançamento de Ofício e não por declaração.
+
+
+
+                        Art. 149 CTN O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                         IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como sendo
+                        de declaração obrigatória;
+
+
+
+    Alternativa D (Incorreta): O lançamento é atribuído privativamente a
+    autoridade administrativa, não podendo ser delegada.
+
+
+
+                        Art.     142.      CTN      Compete         privativamente     à    autoridade
+                        administrativa constituir o crédito tributário pelo lançamento,
+                        assim entendido o procedimento administrativo tendente a
+                        verificar      a   ocorrência        do     fato     gerador   da   obrigação
+                        correspondente, determinar a matéria tributável, calcular o
+                        montante do tributo devido, identificar o sujeito passivo e,
+                        sendo caso, propor a aplicação da penalidade cabível.
+
+                        Parágrafo único. A atividade administrativa de lançamento é
+                        vinculada e obrigatória, sob pena de responsabilidade
+                        funcional.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      34
+      www.estrategiaconcursos.com.br
+
+                                    https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Alternativa E (Correta): Perfeito! É o que afirma o Art.145 do CTN:
+
+                        Art. 145. O lançamento regularmente notificado ao sujeito
+                        passivo só pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+                        II - recurso de ofício;
+
+                        III - iniciativa de ofício da autoridade administrativa, nos casos
+                        previstos no artigo 149.
+
+
+                        Art. 149 Parágrafo único. A revisão do lançamento só pode ser
+                        iniciada enquanto não extinto o direito da Fazenda Pública.
+
+
+
+    Gabarito: E
+
+
+
+
+    6-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) Com relação ao
+    lançamento tributário, analise as afirmativas a seguir.
+
+    I. De acordo com a redação do CTN o lançamento por homologação é aquele
+    efetuado com base na declaração do sujeito passivo ou de terceiro, quando
+    um ou outro, na forma da legislação tributária, presta à autoridade
+    administrativa informações sobre matéria de fato, indispensáveis à sua
+    efetivação.
+
+    II. O lançamento regularmente notificado ao sujeito passivo pode ser alterado
+    a qualquer tempo em virtude da caracterização de erro de direito.
+
+    III. Aplica-se ao lançamento a legislação que, posteriormente à ocorrência do
+    fato gerador da obrigação, tenha instituído novos critérios de apuração ou
+    processos de fiscalização, ampliado os poderes de investigação das
+    autoridades administrativas ou outorgado ao crédito maiores garantias ou
+    privilégios,       exceto,      neste      último      caso,     para      o      efeito   de   atribuir
+    responsabilidade tributária a terceiros.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                            35
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Assinale:
+
+
+
+    (A) se somente a afirmativa I estiver correta.
+
+    (B) se somente a afirmativa II estiver correta.
+
+    (C) se somente a afirmativa III estiver correta.
+
+    (D) se somente as afirmativas II e III estiverem corretas.
+
+    (E) se todas as afirmativas estiverem corretas.
+
+
+
+    Comentários: Novamente temos aqui uma questão sobre os tipos de
+    lançamentos homologação, declaração e ofício. Vamos alternativas:
+
+
+
+    Assertiva I (Incorreta): Este tipo de lançamento descrito na alternativa é o por
+    Declaração, em que o lançamento é efetuado com base em informações
+    prestadas à autoridade administrativa pelo sujeito passivo ou por terceiro, na
+    forma estabelecida pela legislação tributária, sendo essas informações
+    indispensáveis à efetivação do referido lançamento.
+
+
+    Assertiva II (Incorreta): Segundo o STJ (REsp 1.347.324), NÃO cabe alteração
+    de lançamento com base em erro de direito.
+
+
+
+                        “Não se admite a revisão quando configurado erro de direito
+                        consistente naquele que decorre do conhecimento e da
+                        aplicação incorreta da norma.”
+
+
+
+    Assertiva III (Correta): Perfeito! A questão traz a literalidade do § 1º do Artigo
+    144 do CTN:
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      36
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        Art. 144 CTN. O lançamento reporta-se à data da ocorrência do
+                        fato gerador da obrigação e rege-se pela lei então vigente,
+                        ainda que posteriormente modificada ou revogada.
+
+                         § 1º Aplica-se ao lançamento a legislação que, posteriormente
+                        à ocorrência do fato gerador da obrigação, tenha instituído
+                        novos critérios de apuração ou processos de fiscalização,
+                        ampliado os poderes de investigação das autoridades
+                        administrativas, ou outorgado ao crédito maiores garantias ou
+                        privilégios, exceto, neste último caso, para o efeito de atribuir
+                        responsabilidade tributária a terceiros.
+
+
+
+    Gabarito: C
+
+
+
+
+    7-) (FGV - Auditor da Receita Estadual - AP/2010) Em relação à revisão do
+    lançamento regularmente notificado ao contribuinte, não é correto afirmar
+    que:
+
+    (A) é possível quando se comprove falsidade, erro ou omissão quanto a
+    qualquer elemento definido na legislação tributária como sendo de declaração
+    obrigatória
+
+    (B) é possível nas hipóteses de erro de fato e desde que iniciada enquanto não
+    extinto o direito da Fazenda Pública promover o lançamento.
+
+    (C) pode se dar em razão de impugnação do sujeito passivo.
+
+    (D) pode ser feita a qualquer tempo, sempre que caracterizado erro de direito.
+
+    (E) é cabível quando se comprove que o sujeito passivo, ou terceiro em
+    benefício daquele, agiu com dolo, fraude ou simulação.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         37
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Comentários: A questão versa sobre quando é possível a revisão de
+    lançamento, após o contribuinte ser regularmente notificado. Lembrando que
+    a questão pede para encontrar a alternativa incorreta.
+
+
+
+    Alternativas A e E (Corretas): Estas alternativas trazem, respectivamente, a
+    literalidade dos Incisos IV e VII do Artigo 149 do CTN
+
+                        Art. 149. CTN O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                        IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como sendo
+                        de declaração obrigatória;
+
+                        VII - quando se comprove que o sujeito passivo, ou terceiro em
+                        benefício daquele, agiu com dolo, fraude ou simulação;
+
+                        Parágrafo único. A revisão do lançamento só pode ser iniciada
+                        enquanto não extinto o direito da Fazenda Pública.
+
+    Alternativa B (Correta): Perfeito! O Erro de Fato ocorre quando algum fato
+    relevante deixa de ser levado em consideração no momento do lançamento
+    ou mesmo quando as informações, tomadas como base para o lançamento,
+    não correspondem à realidade. Como exemplo, imagine que o IPVA referente
+    a um carro foi calculado sobre uma base de cálculo relativa a outro carro.
+    Nesse caso, o lançamento deve ser alterado de ofício com base no art. 149,
+    VIII, do CTN.
+
+                        Art. 149. CTN O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                        VIII - quando deva ser apreciado fato não conhecido ou não
+                        provado por ocasião do lançamento anterior;
+
+                        Parágrafo único. A revisão do lançamento só pode ser iniciada
+                        enquanto não extinto o direito da Fazenda Pública.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      38
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Alternativa C (Correta): Perfeito! É o que afirma o Art.145 I do CTN:
+
+                        Art. 145 CTN. O lançamento regularmente notificado ao sujeito
+                        passivo só pode ser alterado em virtude de:
+
+                        I - impugnação do sujeito passivo;
+
+
+
+    Alternativa D (Incorreta): Segundo o STJ (REsp 1.347.324), NÃO cabe
+    alteração de lançamento com base em erro de direito, e muito menos “revisão
+    a qualquer tempo”, tendo em vista que esta, quando permitida, só pode ser
+    iniciada enquanto não extinto o direito da Fazenda Pública.
+
+
+
+                        STJ (REsp 1.347.324)
+
+                        “Não se admite a revisão quando configurado erro de direito
+                        consistente naquele que decorre do conhecimento e da
+                        aplicação incorreta da norma.”
+
+
+
+    Gabarito: D
+
+
+
+    8-) FGV - Delegado de Polícia (PC AM)/2022
+    321 Vestuário Ltda., atuante no comércio varejista de roupas, sonegou o
+    Imposto Estadual sobre a Circulação de Mercadorias (ICMS), omitindo
+    dolosamente do Fisco Estadual suas operações comerciais com o fim de evitar
+    o pagamento do tributo devido.
+
+
+    Diante desse cenário, o Fisco Estadual, a fim de poder cobrar
+    administrativamente tais valores, terá necessariamente de realizar
+
+
+    (A) um lançamento por declaração.
+    (B) um lançamento de ofício.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     39
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    (C) um lançamento por homologação.
+    (D) uma notificação prévia ao lançamento para comparecimento do sujeito
+    passivo perante autoridade fiscal estadual.
+    (E) uma notificação prévia ao lançamento à autoridade policial acerca dos
+    indícios de crime de sonegação fiscal.
+
+
+    Comentários: O ICMS é um tributo cujo lançamento ocorre por homologação,
+    onde o sujeito passivo, antes de qualquer atividade do fisco, deve antecipar-
+    se, calculando e recolhendo o montante do tributo. Trata-se da modalidade
+    de lançamento mais prestigiada pelo legislador, por repassar aos contribuintes
+    o ônus de controle, registro e recolhimento do tributo, restando ao fisco
+    apenas a fiscalização posterior.
+    Contudo, o art. 149 do CTN elenca diversas hipóteses nas quais o lançamento
+    é efetuado DE OFÍCIO pela autoridade administrativa. Na prática, tal
+    modalidade assume caráter supletivo, isto é, quando o contribuinte não o faz
+    ou não o faz de forma satisfatória, sendo comumente utilizada nos casos de
+    omissões (ex: declarações não prestadas), erros (ex: declaração prestada com
+    equívocos, cálculos incorretos) ou fraudes (do sujeito passivo ou da própria
+    autoridade fiscal).
+    O caso narrado pelo enunciado indica a omissão dolosa de operações
+    comerciais com intuito de evitar o pagamento do ICMS, situação autorizadora
+    do lançamento de ofício nos termos do inciso VII do art. 149 do CTN:
+                        Art. 149. O lançamento é efetuado e revisto de ofício pela
+                        autoridade administrativa nos seguintes casos:
+
+                        I - quando a lei assim o determine;
+
+                        II - quando a declaração não seja prestada, por quem de direito,
+                        no prazo e na forma da legislação tributária;
+
+                        III - quando a pessoa legalmente obrigada, embora tenha
+                        prestado declaração nos termos do inciso anterior, deixe de
+                        atender, no prazo e na forma da legislação tributária, a pedido
+                        de esclarecimento formulado pela autoridade administrativa,
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        40
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                        recuse-se a prestá-lo ou não o preste satisfatoriamente, a juízo
+                        daquela autoridade;
+
+                        IV - quando se comprove falsidade, erro ou omissão quanto a
+                        qualquer elemento definido na legislação tributária como sendo
+                        de declaração obrigatória;
+
+                        V - quando se comprove omissão ou inexatidão, por parte da
+                        pessoa legalmente obrigada, no exercício da atividade a que se
+                        refere o artigo seguinte;
+
+                        VI - quando se comprove ação ou omissão do sujeito passivo,
+                        ou de terceiro legalmente obrigado, que dê lugar à aplicação
+                        de penalidade pecuniária;
+
+                        VII - quando se comprove que o sujeito passivo, ou terceiro em
+                        benefício daquele, agiu com dolo, fraude ou simulação;
+
+                        VIII - quando deva ser apreciado fato não conhecido ou não
+                        provado por ocasião do lançamento anterior;
+
+                        IX - quando se comprove que, no lançamento anterior, ocorreu
+                        fraude ou falta funcional da autoridade que o efetuou, ou
+                        omissão, pela mesma autoridade, de ato ou formalidade
+                        especial.
+
+
+    Vamos às alternativas:
+    Alternativa A (Incorreta): No lançamento por declaração tem-se a participação
+    do sujeito passivo ou de terceiros, que prestam informações ao Fisco. Com
+    base nessa declaração, o Fisco efetua o lançamento, nos termos do Art. 147
+    do CTN.
+
+
+    Alternativa B (Correta): Conforme comentário ao início da resolução.
+
+
+    Alternativa C (Incorreta): Conforme comentário ao início da resolução.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        41
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Alternativa D (Incorreta): Inexiste necessidade de notificação prévia ao
+    lançamento para comparecimento do sujeito passivo perante autoridade fiscal
+    estadual.
+
+
+    Alternativa E (Incorreta): Inexiste necessidade de notificação prévia ao
+    lançamento à autoridade policial acerca dos indícios de crime de sonegação
+    fiscal.
+
+
+    Gabarito: B
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   42
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    6. QUESTIONÁRIO DE REVISÃO
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+
+
+
+                                  Questionário – Somente perguntas
+
+
+    1-) Quais análises/procedimentos são realizados através do Lançamento
+    Tributário?
+
+
+    2-) Por que se diz que o Lançamento tributário tem Natureza Jurídica mista?
+
+
+    3-) Qual Legislação se aplica ao Lançamento? É possível se aplicar uma
+    legislação que não esteja mais em vigor?
+
+
+    4-) É possível alterar o Lançamento antes de se efetivar a Notificação ao Sujeito
+    Passivo? E após a Notificação?
+
+
+    5-) É possível alteração do Lançamento com base em Erro de Fato? E com
+    base em Erro de Direito?
+
+
+    6-) Como funciona o Lançamento de Ofício?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     43
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    7-) Como funciona o Lançamento por Declaração?
+
+
+    8-) Como funciona o Lançamento por Homologação? Qual o prazo para a
+    homologação?
+
+
+    9-) É possível um imposto cujo Lançamento seja por Declaração, ser cobrado
+    através de um Lançamento de Ofício?
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   44
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                                Questionário – Perguntas e Respostas
+
+
+    1-) Quais análises/procedimentos são realizados através do Lançamento
+    Tributário?
+    Resposta: Segundo o CTN, em seu Artigo 142, o Lançamento é o
+    procedimento administrativo tendente a:
+
+          ▪ verificar a ocorrência do fato gerador da obrigação correspondente,
+          ▪ determinar a matéria tributável,
+          ▪ calcular o montante do tributo devido,
+          ▪ identificar o sujeito passivo e,
+          ▪ sendo caso, propor a aplicação da penalidade cabível.
+
+
+
+    2-) Por que se diz que o Lançamento tributário tem Natureza Jurídica mista?
+    Resposta: Costuma-se dizer que o Lançamento possui natureza jurídica mista,
+    pois ele Declara a Obrigação Tributária, e Constitui o Crédito Tributário.
+
+
+
+    3-) Qual Legislação se aplica ao Lançamento? É possível se aplicar uma
+    legislação que não esteja mais em vigor?
+    Resposta: Em relação aos aspectos materiais do Lançamento, deve se aplicar
+    a legislação que estava em vigor na data da ocorrência do Fato Gerador, ou
+    seja, a Legislação vigente do momento em que surgiu a Obrigação Tributária,
+    ainda que ela não esteja mais em vigor.
+
+    Segundo o CTN:
+
+                        Art. 144. O lançamento reporta-se à data da ocorrência do fato
+                        gerador da obrigação e rege-se pela lei então vigente, ainda
+                        que posteriormente modificada ou revogada.
+
+    Já em relação aos aspectos formais (procedimentos do lançamento), deve se
+    aplicar a legislação vigente à data do lançamento, ainda que diferente da que
+    era vigente à data de ocorrência do Fato Gerador.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      45
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    Desta forma, em relação à legislação que rege os Procedimentos do
+    Lançamento (critérios de apuração e fiscalização, por exemplo), podemos
+    dizer que ela alcança Fatos Geradores passados (anteriores a ela).
+
+
+
+
+    4-) É possível alterar o Lançamento antes de se efetivar a Notificação ao Sujeito
+    Passivo? E após a Notificação?
+    Resposta: Antes de o contribuinte ser notificado da existência do crédito
+    tributário, o lançamento não produz qualquer efeito, logo a possibilidade de
+    revisão/alteração do lançamento é total (absoluta).
+
+    Já após a Notificação, o Lançamento só pode ser alterado em virtude de:
+
+          ▪ impugnação do sujeito passivo;
+          ▪ recurso de ofício;
+          ▪ iniciativa de ofício da autoridade administrativa, nos casos previstos no
+             artigo 149.
+
+
+
+
+    5-) É possível alteração do Lançamento com base em Erro de Fato? E com
+    base em Erro de Direito?
+    Resposta: Em relação a erro de fato, é plenamente cabível a alteração de
+    Lançamento.
+    Já em relação a erro de direito, segundo o STJ, NÃO cabe alteração de
+    lançamento.
+
+                        REsp 1.347.324 STJ
+
+                        “Não se admite a revisão quando configurado erro de direito
+                        consistente naquele que decorre do conhecimento e da
+                        aplicação incorreta da norma.”
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     46
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    6-) Como funciona o Lançamento de Ofício?
+    Resposta: No Lançamento de Ofício, o fisco possui dados suficientes para
+    realizar o lançamento sem a participação do contribuinte.
+
+
+
+    7-) Como funciona o Lançamento por Declaração?
+    Resposta: No Lançamento por Declaração, o lançamento é efetuado com base
+    em informações prestadas à autoridade administrativa pelo sujeito passivo ou
+    por terceiro, na forma estabelecida pela legislação tributária, sendo essas
+    informações indispensáveis à efetivação do referido lançamento.
+
+
+    8-) Como funciona o Lançamento por Homologação? Qual o prazo para a
+    homologação?
+    Resposta: O Lançamento por Homologação é aquele em que o sujeito passivo
+    antecipa o pagamento sem prévio exame da autoridade administrativa, sendo
+    que esta, ao conferir a exatidão dos valores recolhidos, realiza a homologação
+    do pagamento.
+
+
+
+    9-) É possível um imposto cujo Lançamento seja por Declaração, ser cobrado
+    através de um Lançamento de Ofício?
+    Resposta: Sim! Todo tributo, apresentando alguma das irregularidades
+    previstas no art. 149, pode vir a ser lançado de ofício pela autoridade
+    administrativa.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   47
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    7. QUESTÕES DE AULA
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Análise de Questões”:
+
+
+    QUESTÕES FGV
+
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) Segundo o
+    Código Tributário Nacional, o lançamento é o procedimento pelo qual a
+    autoridade administrativa verifica a ocorrência do fato gerador da obrigação
+    tributária, determina a matéria tributável, calcula o montante do tributo
+    devido, identifica o sujeito passivo e, sendo o caso, propõe a aplicação da
+    penalidade cabível.
+
+
+    Sobre o lançamento, analise as afirmativas a seguir.
+
+
+
+
+    I. O envio do carnê de IPTU ao endereço do contribuinte configura a
+    notificação presumida do lançamento do tributo.
+
+    II. O lançamento pode ser revisto de ofício pela Fazenda Pública, se
+    constatado erro em sua feitura, enquanto não extinto o direito de lançar.
+
+    III. Ocorrendo o pagamento antecipado do ICMS por parte do contribuinte, o
+    prazo decadencial para o lançamento de eventuais diferenças é de cinco anos
+    a contar do fato gerador.
+
+
+    Está correto o que se afirma em
+
+    (A) I, apenas.                                                      (D) II e III, apenas.
+
+    (B) I e II, apenas.                                                 (E) I, II e III.
+
+    (C) I e III, apenas.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário             48
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    2-) (FGV - Técnico Tributário - SEFIN RO/2018) Com relação ao lançamento
+    tributário, assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+     ( ) Compete, privativamente, à autoridade administrativa constituir, pelo
+    lançamento, a obrigação tributária, verificando a ocorrência do fato gerador.
+
+    ( ) Uma nova lei, que tenha estabelecido novos procedimentos fiscalizatórios
+    para a apuração do tributo, é plenamente aplicável ao fato gerador já ocorrido,
+    porém com crédito ainda não lançado.
+
+    ( ) Quando o valor tributário estiver expresso em moeda estrangeira, salvo
+    disposição legal distinta, no lançamento será feita a conversão para moeda
+    nacional, ao câmbio do dia da ocorrência do fato gerador do tributo.
+
+    Na sequência em que aparecem, as afirmativas são, respectivamente,
+
+    (A) V – F – V.
+
+    (B) F – V – V.
+
+    (C) F – F – V.
+
+    (D) F – V – F.
+
+    (E) V – V – F.
+
+
+
+
+    3-) (FGV - Agente Fazendário - Niterói/2015) Uma vez regularmente notificado
+    ao sujeito passivo, o lançamento só pode ser alterado em virtude de:
+
+    (A) decurso do prazo decadencial;
+
+    (B) majoração superveniente das alíquotas do tributo;
+
+    (C) alteração posterior da lei tributária no tocante à base de cálculo;
+
+    (D) impugnação do sujeito passivo;
+
+    (E) responsabilização tributária de pessoa imune.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   49
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    4-) (FGV - Fiscal de Tributos - Niterói/2015) O proprietário de um imóvel
+    realizou, no fim de 2013, uma obra em seu imóvel. Por conta dessa obra, a
+    área do imóvel foi ampliada de 120m2 para 280m2. O proprietário nada
+    informou ao Município, descumprindo normas administrativas e tributárias que
+    impõem a comunicação. Assim, a administração tributária municipal realizou
+    os lançamentos do IPTU dos fatos geradores ocorridos em 2014 e 2015 com
+    valores que consideravam uma área construída de 120m2 e não de 280m2. A
+    prefeitura tomou conhecimento do aumento da área construída em agosto de
+    2015. Considerando a situação exposta e as normas do CTN, a fiscalização do
+    Município:
+
+    (A) poderá revisar de ofício apenas o lançamento do IPTU referente ao
+    exercício de 2015, pois o exercício ainda está em curso;
+
+    (B) não poderá revisar de ofício apenas os lançamentos do IPTU dos exercícios
+    de 2014 e 2015, pois os lançamentos já foram regularmente notificados e não
+    podem ser alterados;
+
+    (C) não poderá revisar de ofício apenas os lançamentos do IPTU dos exercícios
+    de 2014 e 2015, pois a constatação do aumento da área construída é
+    introdução de modificação nos critérios jurídicos adotados pela autoridade
+    administrativa no exercício do lançamento e somente pode ser efetivada, em
+    relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido
+    posteriormente à sua introdução;
+
+    (D) poderá revisar de ofício os lançamentos do IPTU dos exercícios de 2014 e
+    2015, pois o aumento da área construída representa apreciar fatos
+    desconhecidos anteriormente, mas essa revisão do lançamento só poderá ser
+    iniciada enquanto não extinto o direito da Fazenda Pública;
+
+    (E) poderá revisar de ofício, a qualquer tempo, os lançamentos do IPTU dos
+    exercícios de 2014 e 2015, por conta do descumprimento por parte do
+    contribuinte das normas que determinam a comunicação da obra.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   50
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    5-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2011) A respeito do
+    lançamento, é correto afirmar que
+
+    (A) se reporta à data de ocorrência do fato gerador e é regido pela lei então
+    vigente, exceto se esta for posteriormente modificada ou revogada. Nesse
+    caso, por força do princípio da supremacia do interesse público, ainda que a
+    lei nova venha a prejudicar o contribuinte ou responsável pelo pagamento do
+    tributo, ela será aplicável de imediato se entrar em vigor entre a data de
+    ocorrência do fato gerador e a data do lançamento.
+
+    (B) o lançamento do Imposto de Renda é tido como lançamento por
+    declaração. Nesse tipo de lançamento, o sujeito passivo tem o dever de, se
+    for o caso, antecipar o pagamento sem o prévio exame da autoridade
+    administrativa. Esse pagamento extingue o crédito tributário, sob condição de
+    posterior homologação do lançamento pela autoridade fazendária, que tem 5
+    (cinco) anos para tanto, caso a lei não fixe prazo determinado.
+
+    (C) um dos casos em que o lançamento é considerado de declaração ocorre
+    quando se comprove falsidade, erro ou omissão quanto a qualquer elemento
+    definido na legislação tributária como sendo de declaração obrigatória.
+
+    (D) por força de previsão legal, a autoridade administrativa tem o poder de
+    delegar o lançamento tributário às entidades da administração pública indireta
+    que sejam pessoas jurídicas de direito público. Nesse caso, são aplicáveis as
+    disposições do CTN referentes à constituição do crédito tributário, que inclui,
+    entre outras, a responsabilidade funcional do servidor público pelas
+    informações prestadas ao fisco.
+
+    (E) quando o lançamento é regularmente notificado ao sujeito passivo, ele só
+    pode ser alterado pela impugnação do sujeito passivo, por recurso de ofício,
+    ou por iniciativa de ofício da autoridade administrativa, nos casos previstos
+    expressamente no CTN. Não se pode esquecer que a revisão do lançamento
+    somente pode ser iniciada enquanto não extinto o direito da Fazenda Pública.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   51
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    6-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) Com relação ao
+    lançamento tributário, analise as afirmativas a seguir.
+
+
+
+    I. De acordo com a redação do CTN o lançamento por homologação é aquele
+    efetuado com base na declaração do sujeito passivo ou de terceiro, quando
+    um ou outro, na forma da legislação tributária, presta à autoridade
+    administrativa informações sobre matéria de fato, indispensáveis à sua
+    efetivação.
+
+    II. O lançamento regularmente notificado ao sujeito passivo pode ser alterado
+    a qualquer tempo em virtude da caracterização de erro de direito.
+
+    III. Aplica-se ao lançamento a legislação que, posteriormente à ocorrência do
+    fato gerador da obrigação, tenha instituído novos critérios de apuração ou
+    processos de fiscalização, ampliado os poderes de investigação das
+    autoridades administrativas ou outorgado ao crédito maiores garantias ou
+    privilégios,      exceto,       neste      último      caso,     para      o      efeito   de   atribuir
+    responsabilidade tributária a terceiros.
+
+
+
+    Assinale:
+
+
+
+    (A) se somente a afirmativa I estiver correta.
+
+    (B) se somente a afirmativa II estiver correta.
+
+    (C) se somente a afirmativa III estiver correta.
+
+    (D) se somente as afirmativas II e III estiverem corretas.
+
+    (E) se todas as afirmativas estiverem corretas.
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                            52
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    7-) (FGV - Auditor da Receita Estadual - AP/2010) Em relação à revisão do
+    lançamento regularmente notificado ao contribuinte, não é correto afirmar
+    que:
+
+    (A) é possível quando se comprove falsidade, erro ou omissão quanto a
+    qualquer elemento definido na legislação tributária como sendo de declaração
+    obrigatória
+
+    (B) é possível nas hipóteses de erro de fato e desde que iniciada enquanto não
+    extinto o direito da Fazenda Pública promover o lançamento.
+
+    (C) pode se dar em razão de impugnação do sujeito passivo.
+
+    (D) pode ser feita a qualquer tempo, sempre que caracterizado erro de direito.
+
+    (E) é cabível quando se comprove que o sujeito passivo, ou terceiro em
+    benefício daquele, agiu com dolo, fraude ou simulação.
+
+
+
+
+    8-) FGV - Delegado de Polícia (PC AM)/2022
+    321 Vestuário Ltda., atuante no comércio varejista de roupas, sonegou o
+    Imposto Estadual sobre a Circulação de Mercadorias (ICMS), omitindo
+    dolosamente do Fisco Estadual suas operações comerciais com o fim de evitar
+    o pagamento do tributo devido.
+
+
+    Diante desse cenário, o Fisco Estadual, a fim de poder cobrar
+    administrativamente tais valores, terá necessariamente de realizar
+
+
+    (A) um lançamento por declaração.
+    (B) um lançamento de ofício.
+    (C) um lançamento por homologação.
+    (D) uma notificação prévia ao lançamento para comparecimento do sujeito
+    passivo perante autoridade fiscal estadual.
+    (E) uma notificação prévia ao lançamento à autoridade policial acerca dos
+    indícios de crime de sonegação fiscal.
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   53
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+    GABARITO
+
+
+
+
+          1-E                  2-B                  3-D                  4-D          5-E
+
+          6-C                 7-D                   8-B
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         54
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+Fernando Mauricio Correa
+Aula 14
+
+
+
+
+                           Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+                                No estudo de hoje vimos os principais pontos sobre
+    Crédito Tributário e Lançamento.
+
+
+
+
+                     Um grande abraço e que Deus os abençoe.
+
+                                        Até a próxima aula!!!
+
+
+
+
+                           @proffernandoM                                    Tributário FM
+
+
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          55
+      www.estrategiaconcursos.com.br
+
+                                   https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,1262 @@
+                                                Aula 17
+                      Receita Federal (Analista Tributário)
+                           Passo Estratégico de Legislação
+                                                 Tributária
+
+
+
+                                                     Autor:
+                         Raphael Rabelo Parreira, Bruno
+                                                   Bezerra
+
+
+                                       22 de Janeiro de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+                                               INTRODUÇÃO
+Boas-vindas ao nosso simulado inédito!
+
+Vamos ao primeiro simulado da matéria Direitos Humanos. Este simulado contempla questões
+inéditas sobre os temas descritos a seguir:
+
+Imposto Territorial Rural
+
+Contribuição Social sobre o Lucro Líquido
+
+Contribuições Sociais de Competência da União
+
+Bom simulado!
+
+
+                                      QUESTÕES INÉDITAS
+1. (Inédita) A União pretende instituir, para financiar a seguridade social, uma nova contribuição
+social incidente sobre operações com criptoativos, não prevista expressamente no texto
+constitucional. À luz da CF/88, assinale a alternativa correta quanto aos requisitos de validade
+dessa contribuição.
+
+a) Pode ser instituída por lei ordinária, desde que respeitada a anterioridade anual e a noventena.
+
+b) Pode ser instituída por medida provisória, pois contribuições sociais não se sujeitam a reserva
+de lei complementar.
+
+c) Deve ser instituída por lei complementar, não cumulativa e sem fato gerador ou base de cálculo
+próprios das contribuições já discriminadas na Constituição.
+
+d) Pode ser instituída por lei complementar, porém cumulativa, para assegurar arrecadação em
+cascata.
+
+e) Deve ser instituída por lei ordinária, desde que tenha base de cálculo e fato gerador idênticos
+aos do PIS/Pasep e da Cofins, para simplificar a arrecadação.
+
+
+
+2. (Inédita) No tocante às contribuições ao PIS/Pasep e à Cofins incidentes sobre
+receita/faturamento, assinale a alternativa que corretamente relaciona o regime de apuração ao
+regime de tributação do IRPJ e às alíquotas básicas.
+
+a) Pessoas jurídicas no lucro real apuram PIS/Pasep e Cofins pelo regime cumulativo, às alíquotas
+de 0,65% e 3%.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+b) Pessoas jurídicas no lucro presumido apuram PIS/Pasep e Cofins pelo regime não cumulativo,
+às alíquotas de 1,65% e 7,6%.
+
+c) Instituições financeiras apuram PIS/Pasep e Cofins pelo regime não cumulativo, com direito
+amplo a créditos, por serem submetidas ao lucro real.
+
+d) Regra geral, pessoas jurídicas no lucro real submetem-se ao regime não cumulativo (1,65% e
+7,6%), enquanto as do lucro presumido ou arbitrado submetem-se ao regime cumulativo (0,65% e
+3%).
+
+e) O regime (cumulativo ou não cumulativo) é definido exclusivamente pela atividade econômica,
+sendo irrelevante o regime do IRPJ.
+
+
+
+3. (Inédita) Uma pessoa jurídica tributada pelo lucro presumido apura o PIS/Pasep e a Cofins pelo
+regime cumulativo. Considerando regras típicas de base de cálculo, assinale a alternativa correta.
+
+a) No regime cumulativo, integram a base as receitas financeiras, mas não integra o ganho na
+alienação de bens do ativo não circulante (investimento, imobilizado ou intangível).
+
+b) No regime cumulativo, receitas financeiras não integram a base, por se tratarem de receitas “não
+operacionais”.
+
+c) No regime cumulativo, o ganho na alienação de bem do ativo imobilizado integra a base, pois
+compõe necessariamente a receita bruta.
+
+d) No regime cumulativo, o ICMS destacado na nota fiscal integra a base de cálculo, pois
+representa receita do vendedor.
+
+e) No regime cumulativo, a base corresponde apenas às vendas de mercadorias, excluídas as
+prestações de serviços e os resultados em operações de conta alheia.
+
+
+
+4. (Inédita) Determinada entidade sem fins lucrativos não é contribuinte do PIS/Pasep sobre
+receita/faturamento, mas está sujeita ao PIS/Pasep incidente sobre a folha de salários. Assinale a
+alternativa correta quanto ao fato gerador, à base de cálculo e ao prazo de recolhimento.
+
+a) O fato gerador é o recebimento mensal de receitas correntes; a base é a receita corrente líquida;
+e o recolhimento é até o último dia útil do mês subsequente.
+
+b) O fato gerador é a prestação de serviços; a base é a remuneração de autônomos; e o
+recolhimento é trimestral.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária          2
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+c) O fato gerador é o pagamento da folha; a base é apenas o salário-base, excluídas gratificações
+e adicionais; e o recolhimento é até o 10º dia do mês seguinte.
+
+d) O fato gerador é o pagamento da folha; a base é a totalidade das remunerações, inclusive
+parcelas que não integram salário de contribuição; e o recolhimento é até o 2º dia útil do mês
+seguinte.
+
+e) O fato gerador é o pagamento da folha de salários; a base é o total das remunerações pagas ou
+creditadas, excluídas as parcelas que não integram o salário de contribuição; e o recolhimento é
+até o 25º dia do mês subsequente.
+
+
+
+5. (Inédita) Em relação à contribuição para o PIS/Pasep incidente sobre receitas governamentais,
+assinale a alternativa correta.
+
+a) Incide apenas sobre receitas de capital recebidas pelos entes federativos, excluídas as receitas
+correntes.
+
+b) São contribuintes a União, os Estados, o Distrito Federal, os Municípios, as autarquias e as
+fundações públicas, e o fato gerador é o recebimento mensal de receitas correntes arrecadadas e
+de transferências correntes; no caso de autarquias e fundações, também de transferências de
+capital.
+
+c) Incide apenas sobre a folha de salários de órgãos públicos, à alíquota de 1%, substituindo a
+contribuição previdenciária patronal.
+
+d) O fato gerador é anual e corresponde à apuração do superávit financeiro do exercício.
+
+e) O recolhimento é trimestral, até o 20º dia do mês subsequente ao trimestre.
+
+
+
+6. (Inédita) Lei publicada em 20/07/2026 elevou a alíquota da CSLL devida por pessoas jurídicas
+em geral. Considerando a anterioridade aplicável às contribuições sociais do art. 195 da CF/88, a
+cobrança da alíquota majorada poderá iniciar-se:
+
+a) No mesmo dia da publicação, pois contribuições sociais não se submetem a anterioridade.
+
+b) Após decorridos 90 dias da publicação, pois a CSLL se sujeita à anterioridade nonagesimal, mas
+não à anterioridade anual.
+
+c) Somente no exercício financeiro seguinte, em razão da anterioridade anual.
+
+d) Somente após 90 dias e no exercício seguinte, por cumular anterioridade anual e noventena.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária      3
+           www.estrategiaconcursos.com.br
+
+                                            https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+e) Apenas se a majoração tiver sido veiculada por lei complementar, pois a CSLL exige lei
+complementar para ser alterada.
+
+
+
+7. (Inédita) Uma editora invoca a imunidade do art. 150, VI, “d”, da CF/88 (livros, jornais,
+periódicos e o papel destinado a sua impressão) para afastar a incidência da CSLL. À luz do sistema
+constitucional tributário, assinale a alternativa correta.
+
+a) A imunidade do art. 150, VI, “d”, alcança a CSLL, por ser tributo.
+
+b) A imunidade do art. 150, VI, “d”, alcança contribuições sociais destinadas à seguridade social,
+pois o art. 195 remete ao art. 150.
+
+c) A editora é isenta de CSLL automaticamente, por ser entidade cultural, independentemente de
+previsão legal.
+
+d) A CSLL é imposto, motivo pelo qual se aplica diretamente a imunidade do art. 150, VI, “d”.
+
+e) A imunidade do art. 150, VI, aplica-se apenas a impostos, não alcançando a CSLL, que é
+contribuição social sobre o lucro.
+
+
+
+8. (Inédita) No regime do lucro presumido, a base de cálculo da CSLL, antes de acréscimos legais,
+corresponde a:
+
+a) 8% da receita bruta trimestral, com os acréscimos legalmente previstos.
+
+b) Lucro líquido contábil do período, ajustado por adições e exclusões.
+
+c) 12% da receita bruta trimestral, excluídas vendas canceladas, devoluções e descontos
+incondicionais (e outras exclusões legais), com posterior soma de acréscimos previstos na
+legislação.
+
+d) Total das receitas auferidas no mês, independentemente da denominação ou classificação
+contábil.
+
+e) Receita corrente líquida do trimestre.
+
+
+
+9. (Inédita) Uma pessoa jurídica brasileira pagou a uma empresa no exterior valores por licença de
+uso e por direitos de comercialização/distribuição de programa de computador, sem transferência
+da tecnologia correspondente. Sobre essa operação, assinale a alternativa correta quanto à
+incidência da CIDE-Remessas (CIDE-Royalties).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         4
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+a) Não incide CIDE-Remessas sobre tais pagamentos, salvo quando houver transferência da
+tecnologia correspondente.
+
+b) Incide CIDE-Remessas sempre que houver pagamento ao exterior por qualquer software,
+independentemente de transferência de tecnologia.
+
+c) Incide CIDE-Remessas, mas a alíquota é específica por unidade de medida, como m³.
+
+d) Incide CIDE-Remessas, porém a base de cálculo é o lucro da pessoa jurídica pagadora apurado
+no trimestre.
+
+e) Não incide CIDE-Remessas porque a contribuição é de competência dos Estados.
+
+
+
+10. (Inédita) Sobre a CIDE-Combustíveis, assinale a alternativa correta.
+
+a) A arrecadação não possui destinação constitucional vinculada e não há repartição com Estados,
+Distrito Federal e Municípios.
+
+b) O Poder Executivo pode majorar livremente a alíquota, acima do teto legal, por decreto, por se
+tratar de contribuição extrafiscal.
+
+c) Na importação, o pagamento é anual, no encerramento do exercício financeiro.
+
+d) A União entregará 29% do produto da arrecadação da CIDE-Combustíveis aos Estados e ao
+Distrito Federal, e 25% desse montante será entregue aos Municípios, na forma da lei.
+
+e) O contribuinte é exclusivamente o consumidor final de combustível no mercado interno.
+
+
+
+11. (Inédita) A respeito da imunidade do ITR para pequenas glebas rurais, assinale a alternativa
+correta.
+
+a) Aplica-se a qualquer imóvel rural de até 100 hectares, independentemente da região e da
+existência de outro imóvel em nome do proprietário.
+
+b) Aplica-se a imóvel rural de qualquer tamanho, desde que explorado por arrendatário ou parceiro
+agrícola.
+
+c) Configura isenção concedida por lei ordinária federal, podendo ser revogada a qualquer tempo,
+sem amparo constitucional.
+
+d) Depende de inscrição do imóvel no CAR e de grau de utilização superior a 80%, como requisito
+constitucional.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária       5
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+e) Decorre diretamente da Constituição e alcança pequenas glebas rurais definidas em lei, quando
+exploradas pelo proprietário que não possua outro imóvel.
+
+
+
+12. (Inédita) Um imóvel está situado em zona urbana definida por lei municipal e possui
+melhoramentos públicos mínimos do art. 32, § 1º, do CTN. Ainda assim, é utilizado em exploração
+agroindustrial. Sobre a incidência de IPTU/ITR, assinale a alternativa correta.
+
+a) Incide IPTU, pois o critério topográfico do CTN é absoluto e prevalece sobre qualquer regra de
+destinação do imóvel.
+
+b) Incide ITR, pois, ainda que situado em zona urbana, o imóvel utilizado em exploração extrativa
+vegetal, agrícola, pecuária ou agroindustrial sujeita-se ao ITR.
+
+c) Incidem simultaneamente IPTU e ITR, por terem fatos geradores distintos e cumuláveis.
+
+d) Não incide nenhum imposto, por se tratar de imunidade recíproca entre entes federativos.
+
+e) Incide ITBI, por ser imposto aplicável a bens imóveis em geral, independentemente de operação
+de transmissão.
+
+
+
+13. (Inédita) Em relação à fiscalização, cobrança e repartição do produto da arrecadação do ITR,
+assinale a alternativa correta.
+
+a) Ao optar por fiscalizar e cobrar o ITR, o Município passa a deter competência tributária para
+instituir e majorar o imposto.
+
+b) A opção do Município dispensa a forma legal e autoriza redução de alíquotas do ITR para
+estimular investimentos locais.
+
+c) Caso o Município opte por fiscalizar e cobrar o ITR, fará jus à totalidade do produto da
+arrecadação relativa aos imóveis nele situados, desde que não implique redução do imposto nem
+renúncia fiscal; se não optar, receberá 50%.
+
+d) Mesmo sem optar pela fiscalização e cobrança, o Município receberá 100% do produto da
+arrecadação do ITR relativo aos imóveis nele situados.
+
+e) A participação do Município é de 29% do produto arrecadado, nos mesmos moldes da CIDE-
+Combustíveis.
+
+
+
+14. (Inédita) Sobre base de cálculo do ITR, Valor da Terra Nua (VTN) e Valor da Terra Nua tributável
+(VTNt), assinale a alternativa correta.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária          6
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+a) A base de cálculo do ITR inclui construções, instalações e benfeitorias, pois compõem o valor
+venal do imóvel.
+
+b) O VTN deve refletir o valor de aquisição do imóvel pelo contribuinte, devidamente atualizado
+monetariamente.
+
+c) O VTN deve refletir o valor de mercado do imóvel em 31 de dezembro do ano anterior ao da
+declaração.
+
+d) O VTN tributável (VTNt) corresponde ao VTN multiplicado pelo quociente entre a área tributável
+e a área total do imóvel.
+
+e) O VTNt é sempre igual ao VTN, pois toda a área do imóvel é tributável por definição.
+
+
+
+15. (Inédita) Sobre o IOF, assinale a alternativa correta.
+
+a) Quando o ouro é definido em lei como ativo financeiro ou instrumento cambial, há incidência
+exclusiva do IOF na operação de origem, com alíquota mínima de 1% e repartição do produto
+arrecadado em 30% para o Estado/DF/Território e 70% para o Município.
+
+b) A majoração de alíquotas do IOF está sujeita à anterioridade anual e à noventena, por se tratar
+de imposto federal.
+
+c) O IOF não admite alteração de alíquotas por ato do Poder Executivo, por força do princípio da
+legalidade estrita.
+
+d) O fato gerador do IOF-câmbio ocorre apenas na assinatura do contrato de câmbio,
+independentemente de entrega ou colocação à disposição de moeda.
+
+e) O parágrafo único do art. 63 do CTN autoriza a incidência simultânea de IOF-crédito e IOF-
+títulos quando a mesma operação for representada por título.
+
+
+
+
+GABARITO
+            11 - C                                       6-B                               11 - E
+
+              2-D                                        7-E                               12 - B
+
+              3-A                                        8-C                               13 - C
+
+              4-E                                        9-A                               14 - D
+
+              5-B                                       10 - D                             15 - A
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária            7
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+                                 QUESTÕES COMENTADAS
+1. (Inédita) A União pretende instituir, para financiar a seguridade social, uma nova contribuição
+social incidente sobre operações com criptoativos, não prevista expressamente no texto
+constitucional. À luz da CF/88, assinale a alternativa correta quanto aos requisitos de validade
+dessa contribuição.
+
+a) Pode ser instituída por lei ordinária, desde que respeitada a anterioridade anual e a noventena.
+
+b) Pode ser instituída por medida provisória, pois contribuições sociais não se sujeitam a reserva
+de lei complementar.
+
+c) Deve ser instituída por lei complementar, não cumulativa e sem fato gerador ou base de cálculo
+próprios das contribuições já discriminadas na Constituição.
+
+d) Pode ser instituída por lei complementar, porém cumulativa, para assegurar arrecadação em
+cascata.
+
+e) Deve ser instituída por lei ordinária, desde que tenha base de cálculo e fato gerador idênticos
+aos do PIS/Pasep e da Cofins, para simplificar a arrecadação.
+
+Comentários:
+
+Alternativa A: ERRADA. Para “outras fontes” destinadas à seguridade social (não expressamente
+previstas), a Constituição remete ao regime do art. 154, I, CF/88, que exige lei complementar e
+não cumulatividade, afastando a simples lei ordinária.
+
+Alternativa B: ERRADA. Se a Constituição exige lei complementar (por remissão), não cabe
+instituição por medida provisória, pois MP não é veículo apto a suprir reserva de lei complementar.
+
+Alternativa C: CERTA. A criação de novas fontes para a seguridade social deve obedecer ao art.
+195, § 4º, CF/88, que remete ao art. 154, I, CF/88 (lei complementar, não cumulatividade e
+base/fato gerador distintos dos já previstos).
+
+Art. 195, § 4º, Constituição Federal:
+
+Art. 195, § 4º A lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão
+da seguridade social, obedecido o disposto no art. 154, I.
+
+Art. 154, I, Constituição Federal:
+
+Art. 154. A União poderá instituir:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária          8
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+I – mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não
+cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta
+Constituição;
+
+Alternativa D: ERRADA. A remissão ao art. 154, I, CF/88 exige que a exação seja não cumulativa,
+e não cumulativa “em cascata”.
+
+Alternativa E: ERRADA. A Constituição veda que a nova fonte reproduza fato gerador ou base de
+cálculo de contribuições já existentes (art. 195, § 4º c/c art. 154, I, CF/88), além de exigir lei
+complementar.
+
+Gabarito: Letra C.
+
+
+
+2. (Inédita) No tocante às contribuições ao PIS/Pasep e à Cofins incidentes sobre
+receita/faturamento, assinale a alternativa que corretamente relaciona o regime de apuração ao
+regime de tributação do IRPJ e às alíquotas básicas.
+
+a) Pessoas jurídicas no lucro real apuram PIS/Pasep e Cofins pelo regime cumulativo, às alíquotas
+de 0,65% e 3%.
+
+b) Pessoas jurídicas no lucro presumido apuram PIS/Pasep e Cofins pelo regime não cumulativo,
+às alíquotas de 1,65% e 7,6%.
+
+c) Instituições financeiras apuram PIS/Pasep e Cofins pelo regime não cumulativo, com direito
+amplo a créditos, por serem submetidas ao lucro real.
+
+d) Regra geral, pessoas jurídicas no lucro real submetem-se ao regime não cumulativo (1,65% e
+7,6%), enquanto as do lucro presumido ou arbitrado submetem-se ao regime cumulativo (0,65% e
+3%).
+
+e) O regime (cumulativo ou não cumulativo) é definido exclusivamente pela atividade econômica,
+sendo irrelevante o regime do IRPJ.
+
+Comentários:
+
+Alternativa A: ERRADA. Em regra, o lucro real se vincula ao regime não cumulativo, com alíquotas
+básicas mais elevadas e direito a créditos, nos termos das Leis nº 10.637/2002 (PIS/Pasep) e nº
+10.833/2003 (Cofins).
+
+Alternativa B: ERRADA. Em regra, lucro presumido (e arbitrado) permanecem no cumulativo, sem
+creditamento (Lei nº 9.718/1998 e legislação de regência).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        9
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa C: ERRADA. Embora comumente submetidas ao lucro real, instituições financeiras e
+assemelhadas possuem tratamento específico e, em regra, permanecem no cumulativo, não se
+aplicando a generalização “lucro real = não cumulativo” de forma absoluta.
+
+Alternativa D: CERTA. A regra geral é: lucro real → não cumulativo (PIS 1,65% e Cofins 7,6%); lucro
+presumido/arbitrado → cumulativo (PIS 0,65% e Cofins 3%), ressalvadas exceções setoriais
+previstas em lei.
+
+Alternativa E: ERRADA. A atividade econômica pode gerar exceções, mas não torna “irrelevante”
+o regime do IRPJ: este é o critério central de enquadramento geral, com exceções legalmente
+previstas.
+
+Gabarito: Letra D.
+
+
+
+3. (Inédita) Uma pessoa jurídica tributada pelo lucro presumido apura o PIS/Pasep e a Cofins pelo
+regime cumulativo. Considerando regras típicas de base de cálculo, assinale a alternativa correta.
+
+a) No regime cumulativo, integram a base as receitas financeiras, mas não integra o ganho na
+alienação de bens do ativo não circulante (investimento, imobilizado ou intangível).
+
+b) No regime cumulativo, receitas financeiras não integram a base, por se tratarem de receitas “não
+operacionais”.
+
+c) No regime cumulativo, o ganho na alienação de bem do ativo imobilizado integra a base, pois
+compõe necessariamente a receita bruta.
+
+d) No regime cumulativo, o ICMS destacado na nota fiscal integra a base de cálculo, pois
+representa receita do vendedor.
+
+e) No regime cumulativo, a base corresponde apenas às vendas de mercadorias, excluídas as
+prestações de serviços e os resultados em operações de conta alheia.
+
+Comentários:
+
+Alternativa A: CERTA. Em regra, a base abrange a receita bruta (com conceito amplo), incluindo
+receitas financeiras, mas exclui receitas decorrentes da alienação de bens do ativo não circulante,
+conforme previsões legais aplicáveis às contribuições sobre receita/faturamento.
+
+Alternativa B: ERRADA. A classificação contábil (“operacional”/“não operacional”) não afasta, por
+si só, a incidência: receitas financeiras, como regra, integram a base de PIS/Cofins conforme
+legislação de regência.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        10
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa C: ERRADA. A legislação admite exclusões da base para receitas decorrentes da venda
+de bens do ativo não circulante; portanto, não é correto afirmar inclusão “necessária”.
+
+Alternativa D: ERRADA. O entendimento consolidado (STF, Tema 69) e a disciplina legal posterior
+afastam o ICMS da base de cálculo do PIS/Pasep e da Cofins (ICMS não compõe a base).
+
+Alternativa E: ERRADA. A receita bruta não se limita a vendas de mercadorias: inclui, em regra,
+também receitas de prestação de serviços e resultados em operações de conta alheia (DL nº
+1.598/1977, art. 12, e legislação correlata).
+
+Gabarito: Letra A.
+
+
+
+4. (Inédita) Determinada entidade sem fins lucrativos não é contribuinte do PIS/Pasep sobre
+receita/faturamento, mas está sujeita ao PIS/Pasep incidente sobre a folha de salários. Assinale a
+alternativa correta quanto ao fato gerador, à base de cálculo e ao prazo de recolhimento.
+
+a) O fato gerador é o recebimento mensal de receitas correntes; a base é a receita corrente líquida;
+e o recolhimento é até o último dia útil do mês subsequente.
+
+b) O fato gerador é a prestação de serviços; a base é a remuneração de autônomos; e o
+recolhimento é trimestral.
+
+c) O fato gerador é o pagamento da folha; a base é apenas o salário-base, excluídas gratificações
+e adicionais; e o recolhimento é até o 10º dia do mês seguinte.
+
+d) O fato gerador é o pagamento da folha; a base é a totalidade das remunerações, inclusive
+parcelas que não integram salário de contribuição; e o recolhimento é até o 2º dia útil do mês
+seguinte.
+
+e) O fato gerador é o pagamento da folha de salários; a base é o total das remunerações pagas ou
+creditadas, excluídas as parcelas que não integram o salário de contribuição; e o recolhimento é
+até o 25º dia do mês subsequente.
+
+Comentários:
+
+Alternativa A: ERRADA. Essa descrição corresponde à lógica do PIS/Pasep sobre receitas
+governamentais (receitas correntes e transferências), e não ao PIS/Pasep sobre folha.
+
+Alternativa B: ERRADA. O PIS/Pasep sobre folha não tem como fato gerador “prestação de
+serviços” e não é apurado trimestralmente por essa razão.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         11
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa C: ERRADA. A base não se limita ao salário-base: em regra, alcança remunerações
+pagas ou creditadas, com exclusões específicas. Além disso, o prazo indicado não corresponde ao
+padrão cobrado para o recolhimento.
+
+Alternativa D: ERRADA. A base não inclui parcelas excluídas do salário de contribuição (Lei nº
+8.212/1991, art. 28, § 9º).
+
+Alternativa E: CERTA. A hipótese descreve corretamente o PIS/Pasep incidente sobre a folha: fato
+gerador no pagamento da folha; base composta pelas remunerações com exclusões do art. 28, §
+9º, da Lei nº 8.212/1991; e recolhimento até o 25º dia do mês subsequente (regras administrativas
+de apuração e recolhimento aplicáveis).
+
+Gabarito: Letra E.
+
+
+
+5. (Inédita) Em relação à contribuição para o PIS/Pasep incidente sobre receitas governamentais,
+assinale a alternativa correta.
+
+a) Incide apenas sobre receitas de capital recebidas pelos entes federativos, excluídas as receitas
+correntes.
+
+b) São contribuintes a União, os Estados, o Distrito Federal, os Municípios, as autarquias e as
+fundações públicas, e o fato gerador é o recebimento mensal de receitas correntes arrecadadas e
+de transferências correntes; no caso de autarquias e fundações, também de transferências de
+capital.
+
+c) Incide apenas sobre a folha de salários de órgãos públicos, à alíquota de 1%, substituindo a
+contribuição previdenciária patronal.
+
+d) O fato gerador é anual e corresponde à apuração do superávit financeiro do exercício.
+
+e) O recolhimento é trimestral, até o 20º dia do mês subsequente ao trimestre.
+
+Comentários:
+
+Alternativa A: ERRADA. A incidência central recai sobre receitas correntes e transferências
+correntes, e não “apenas” sobre receitas de capital.
+
+Alternativa B: CERTA. A descrição coincide com a regra típica: contribuintes são União, Estados,
+DF, Municípios, autarquias e fundações públicas; fato gerador é o recebimento mensal de receitas
+correntes arrecadadas e transferências correntes (e, para autarquias e fundações, também
+transferências de capital), conforme disciplina infralegal e legal do PIS/Pasep governamental.
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária      12
+           www.estrategiaconcursos.com.br
+
+                                            https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa C: ERRADA. PIS/Pasep sobre receitas governamentais não substitui contribuição
+previdenciária patronal e não tem como base “folha de salários” nessa hipótese.
+
+Alternativa D: ERRADA. O fato gerador é mensal (recebimento de receitas), não “anual” por
+superávit.
+
+Alternativa E: ERRADA. O padrão de apuração e recolhimento é mensal, e não trimestral, para essa
+contribuição.
+
+Gabarito: Letra B.
+
+
+
+6. (Inédita) Lei publicada em 20/07/2026 elevou a alíquota da CSLL devida por pessoas jurídicas
+em geral. Considerando a anterioridade aplicável às contribuições sociais do art. 195 da CF/88, a
+cobrança da alíquota majorada poderá iniciar-se:
+
+a) No mesmo dia da publicação, pois contribuições sociais não se submetem a anterioridade.
+
+b) Após decorridos 90 dias da publicação, pois a CSLL se sujeita à anterioridade nonagesimal, mas
+não à anterioridade anual.
+
+c) Somente no exercício financeiro seguinte, em razão da anterioridade anual.
+
+d) Somente após 90 dias e no exercício seguinte, por cumular anterioridade anual e noventena.
+
+e) Apenas se a majoração tiver sido veiculada por lei complementar, pois a CSLL exige lei
+complementar para ser alterada.
+
+Comentários:
+
+Alternativa A: ERRADA. As contribuições do art. 195, CF/88, submetem-se à noventena, de modo
+que a exigência não pode ser imediata (CF/88, art. 195, § 6º).
+
+Alternativa B: CERTA. A CSLL, por ser contribuição social do art. 195, CF/88, respeita a
+anterioridade nonagesimal e não se submete à anterioridade anual (CF/88, art. 195, § 6º).
+
+Antes de afirmar o termo inicial, lembre que a Constituição cria uma regra própria de anterioridade
+para contribuições sociais da seguridade.
+
+Art. 195, § 6º, Constituição Federal:
+
+Art. 195, § 6º As contribuições sociais de que trata este artigo só poderão ser exigidas após
+decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não
+se lhes aplicando o disposto no art. 150, III, b.
+
+Alternativa C: ERRADA. A anterioridade anual (art. 150, III, “b”, CF/88) é afastada expressamente
+pelo art. 195, § 6º, CF/88, para contribuições do art. 195.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        13
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa D: ERRADA. Não há cumulação obrigatória de anterioridade anual com noventena: a
+anual é afastada, restando a noventena (CF/88, art. 195, § 6º).
+
+Alternativa E: ERRADA. A CSLL pode ser instituída e alterada por lei ordinária, pois não é imposto
+(CF/88, art. 195, I, “c”; Lei nº 7.689/1988).
+
+Gabarito: Letra B.
+
+
+
+7. (Inédita) Uma editora invoca a imunidade do art. 150, VI, “d”, da CF/88 (livros, jornais,
+periódicos e o papel destinado a sua impressão) para afastar a incidência da CSLL. À luz do sistema
+constitucional tributário, assinale a alternativa correta.
+                                                        ==1fde2==
+
+
+
+
+a) A imunidade do art. 150, VI, “d”, alcança a CSLL, por ser tributo.
+
+b) A imunidade do art. 150, VI, “d”, alcança contribuições sociais destinadas à seguridade social,
+pois o art. 195 remete ao art. 150.
+
+c) A editora é isenta de CSLL automaticamente, por ser entidade cultural, independentemente de
+previsão legal.
+
+d) A CSLL é imposto, motivo pelo qual se aplica diretamente a imunidade do art. 150, VI, “d”.
+
+e) A imunidade do art. 150, VI, aplica-se apenas a impostos, não alcançando a CSLL, que é
+contribuição social sobre o lucro.
+
+Comentários:
+
+Alternativa A: ERRADA. Embora a CSLL seja tributo, a imunidade do art. 150, VI, CF/88, é norma
+que veda a instituição de impostos sobre as hipóteses ali descritas.
+
+Alternativa B: ERRADA. O art. 195 não “estende” automaticamente as imunidades do art. 150, VI,
+às contribuições sociais; a CSLL é enquadrada como contribuição social incidente sobre o lucro
+(CF/88, art. 195, I, “c”).
+
+Alternativa C: ERRADA. Isenção depende de lei específica; não decorre automaticamente de
+“natureza cultural” do contribuinte.
+
+Alternativa D: ERRADA. CSLL não é imposto; é contribuição social destinada ao custeio da
+seguridade social (CF/88, art. 195, I, “c”; Lei nº 7.689/1988).
+
+Alternativa E: CERTA. As imunidades do art. 150, VI, CF/88, são dirigidas a impostos, não atingindo
+a CSLL, que é contribuição social sobre o lucro (CF/88, art. 195, I, “c”).
+
+Gabarito: Letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        14
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+8. (Inédita) No regime do lucro presumido, a base de cálculo da CSLL, antes de acréscimos legais,
+corresponde a:
+
+a) 8% da receita bruta trimestral, com os acréscimos legalmente previstos.
+
+b) Lucro líquido contábil do período, ajustado por adições e exclusões.
+
+c) 12% da receita bruta trimestral, excluídas vendas canceladas, devoluções e descontos
+incondicionais (e outras exclusões legais), com posterior soma de acréscimos previstos na
+legislação.
+
+d) Total das receitas auferidas no mês, independentemente da denominação ou classificação
+contábil.
+
+e) Receita corrente líquida do trimestre.
+
+Comentários:
+
+Alternativa A: ERRADA. O percentual de 8% é típico do IRPJ para determinadas atividades no lucro
+presumido, mas não corresponde ao percentual padrão da CSLL.
+
+Alternativa B: ERRADA. “Lucro líquido ajustado” é a lógica do lucro real, e não do lucro presumido.
+
+Alternativa C: CERTA. No lucro presumido, a base da CSLL parte, em regra, de percentual de
+presunção de 12% da receita bruta do trimestre, observadas exclusões (como vendas canceladas,
+devoluções e descontos incondicionais), somando-se depois os acréscimos legais (IN RFB nº
+1.700/2017, art. 28; regras da legislação da CSLL).
+
+Alternativa D: ERRADA. “Total das receitas do mês” é linguagem típica da base de PIS/Cofins no
+regime não cumulativo, não da CSLL no lucro presumido.
+
+Alternativa E: ERRADA. Receita corrente líquida é conceito orçamentário/financeiro, sem relação
+com a base da CSLL.
+
+Gabarito: Letra C.
+
+
+
+9. (Inédita) Uma pessoa jurídica brasileira pagou a uma empresa no exterior valores por licença de
+uso e por direitos de comercialização/distribuição de programa de computador, sem transferência
+da tecnologia correspondente. Sobre essa operação, assinale a alternativa correta quanto à
+incidência da CIDE-Remessas (CIDE-Royalties).
+
+a) Não incide CIDE-Remessas sobre tais pagamentos, salvo quando houver transferência da
+tecnologia correspondente.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária        15
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+b) Incide CIDE-Remessas sempre que houver pagamento ao exterior por qualquer software,
+independentemente de transferência de tecnologia.
+
+c) Incide CIDE-Remessas, mas a alíquota é específica por unidade de medida, como m³.
+
+d) Incide CIDE-Remessas, porém a base de cálculo é o lucro da pessoa jurídica pagadora apurado
+no trimestre.
+
+e) Não incide CIDE-Remessas porque a contribuição é de competência dos Estados.
+
+Comentários:
+
+Alternativa A: CERTA. A legislação da CIDE-Remessas prevê regra de não incidência para
+remuneração por licença de uso ou direitos de comercialização/distribuição de programa de
+computador, salvo quando           houver      transferência     da     tecnologia         correspondente   (Lei   nº
+10.168/2000, art. 2º, § 1º-A).
+
+Alternativa B: ERRADA. A própria lei cria ressalva expressa: não é “qualquer software”
+automaticamente; depende do enquadramento legal e, no caso de programa de computador, há
+a exceção do art. 2º, § 1º-A, da Lei nº 10.168/2000.
+
+Alternativa C: ERRADA. Base em “unidade de medida” é característica típica da CIDE-
+Combustíveis, não da CIDE-Remessas, cuja base é ad valorem (somatório mensal) com alíquota
+percentual.
+
+Alternativa D: ERRADA. A base da CIDE-Remessas não é o lucro do pagador; é o somatório mensal
+dos valores pagos/creditados/entregues/empregados/remetidos ao exterior (Lei nº 10.168/2000,
+art. 2º, § 3º e § 4º).
+
+Alternativa E: ERRADA. A CIDE é contribuição de competência da União (CF/88, art. 149).
+
+Gabarito: Letra A.
+
+
+
+10. (Inédita) Sobre a CIDE-Combustíveis, assinale a alternativa correta.
+
+a) A arrecadação não possui destinação constitucional vinculada e não há repartição com Estados,
+Distrito Federal e Municípios.
+
+b) O Poder Executivo pode majorar livremente a alíquota, acima do teto legal, por decreto, por se
+tratar de contribuição extrafiscal.
+
+c) Na importação, o pagamento é anual, no encerramento do exercício financeiro.
+
+d) A União entregará 29% do produto da arrecadação da CIDE-Combustíveis aos Estados e ao
+Distrito Federal, e 25% desse montante será entregue aos Municípios, na forma da lei.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                           16
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+e) O contribuinte é exclusivamente o consumidor final de combustível no mercado interno.
+
+Comentários:
+
+Alternativa A: ERRADA. A CIDE-Combustíveis tem destinação constitucional vinculada (CF/88, art.
+177, § 4º, II) e há repartição do produto da arrecadação (CF/88, art. 159, III).
+
+Alternativa B: ERRADA. O Poder Executivo pode reduzir e restabelecer alíquotas até o teto fixado
+em lei; ultrapassar o teto caracteriza majoração que exige lei (CF/88, art. 177, § 4º, I, “b”; Lei nº
+10.336/2001).
+
+Alternativa C: ERRADA. Na importação, o pagamento ocorre na data do registro da declaração de
+importação, e não “anual” (Lei nº 10.336/2001, art. 6º).
+
+Alternativa D: CERTA. Há repartição constitucional: 29% do produto da arrecadação é entregue
+aos Estados e ao DF, com repasse de 25% desse montante aos Municípios, na forma da lei (CF/88,
+art. 159, III).
+
+Alternativa E: ERRADA. Contribuintes típicos são o produtor, o formulador e o importador, pessoa
+física ou jurídica, dos combustíveis sujeitos à contribuição (Lei nº 10.336/2001, art. 2º), e não apenas
+o consumidor final.
+
+Gabarito: Letra D.
+
+
+
+11. (Inédita) A respeito da imunidade do ITR para pequenas glebas rurais, assinale a alternativa
+correta.
+
+a) Aplica-se a qualquer imóvel rural de até 100 hectares, independentemente da região e da
+existência de outro imóvel em nome do proprietário.
+
+b) Aplica-se a imóvel rural de qualquer tamanho, desde que explorado por arrendatário ou parceiro
+agrícola.
+
+c) Configura isenção concedida por lei ordinária federal, podendo ser revogada a qualquer tempo,
+sem amparo constitucional.
+
+d) Depende de inscrição do imóvel no CAR e de grau de utilização superior a 80%, como requisito
+constitucional.
+
+e) Decorre diretamente da Constituição e alcança pequenas glebas rurais definidas em lei, quando
+exploradas pelo proprietário que não possua outro imóvel.
+
+Comentários:
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária            17
+         www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa A: ERRADA. A definição de “pequena gleba” varia por região conforme lei, e a
+imunidade exige que o proprietário não possua outro imóvel (CF/88, art. 153, § 4º, II; Lei nº
+9.393/1996, art. 2º).
+
+Alternativa     B: ERRADA. O       texto      constitucional     condiciona       a   imunidade   à   exploração
+pelo proprietário (e à ausência de outro imóvel), não por arrendatário em substituição ao
+proprietário.
+
+Alternativa C: ERRADA. Trata-se de imunidade constitucional (limitação ao poder de tributar), e
+não mera isenção infraconstitucional.
+
+Alternativa D: ERRADA. Não há, no dispositivo constitucional de imunidade das pequenas glebas,
+exigência de CAR ou percentuais de grau de utilização como condição.
+
+Alternativa E: CERTA. A imunidade é constitucional, condicionada à definição legal de “pequenas
+glebas” e à exploração pelo proprietário que não possua outro imóvel (CF/88, art. 153, § 4º, II; Lei
+nº 9.393/1996, art. 2º).
+
+Gabarito: Letra E.
+
+
+
+12. (Inédita) Um imóvel está situado em zona urbana definida por lei municipal e possui
+melhoramentos públicos mínimos do art. 32, § 1º, do CTN. Ainda assim, é utilizado em exploração
+agroindustrial. Sobre a incidência de IPTU/ITR, assinale a alternativa correta.
+
+a) Incide IPTU, pois o critério topográfico do CTN é absoluto e prevalece sobre qualquer regra de
+destinação do imóvel.
+
+b) Incide ITR, pois, ainda que situado em zona urbana, o imóvel utilizado em exploração extrativa
+vegetal, agrícola, pecuária ou agroindustrial sujeita-se ao ITR.
+
+c) Incidem simultaneamente IPTU e ITR, por terem fatos geradores distintos e cumuláveis.
+
+d) Não incide nenhum imposto, por se tratar de imunidade recíproca entre entes federativos.
+
+e) Incide ITBI, por ser imposto aplicável a bens imóveis em geral, independentemente de operação
+de transmissão.
+
+Comentários:
+
+Alternativa A: ERRADA. O critério do CTN (zona urbana) não é absoluto: o Decreto-Lei nº 57/1966
+traz regra de destinação que pode atrair o ITR mesmo em zona urbana.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                     18
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa B: CERTA. Prevalece a regra do art. 15 do Decreto-Lei nº 57/1966: ainda que em zona
+urbana, se o imóvel for utilizado em exploração extrativa vegetal, agrícola, pecuária ou
+agroindustrial, sujeita-se ao ITR.
+
+Alternativa C: ERRADA. Não há cumulatividade “IPTU + ITR” para o mesmo imóvel e período; a
+regra de destinação evita dupla incidência.
+
+Alternativa D: ERRADA. Imunidade recíproca (CF/88, art. 150, VI, “a”) refere-se a impostos sobre
+patrimônio, renda e serviços entre entes, mas não elimina a incidência pelo simples fato de o imóvel
+estar em zona urbana; além disso, o caso trata de exploração agroindustrial, não de propriedade
+de um ente federado.
+
+Alternativa E: ERRADA. ITBI incide sobre transmissão onerosa inter vivos de bens imóveis e direitos
+reais (CF/88, art. 156, II), não por mera existência do imóvel.
+
+Gabarito: Letra B.
+
+
+
+13. (Inédita) Em relação à fiscalização, cobrança e repartição do produto da arrecadação do ITR,
+assinale a alternativa correta.
+
+a) Ao optar por fiscalizar e cobrar o ITR, o Município passa a deter competência tributária para
+instituir e majorar o imposto.
+
+b) A opção do Município dispensa a forma legal e autoriza redução de alíquotas do ITR para
+estimular investimentos locais.
+
+c) Caso o Município opte por fiscalizar e cobrar o ITR, fará jus à totalidade do produto da
+arrecadação relativa aos imóveis nele situados, desde que não implique redução do imposto nem
+renúncia fiscal; se não optar, receberá 50%.
+
+d) Mesmo sem optar pela fiscalização e cobrança, o Município receberá 100% do produto da
+arrecadação do ITR relativo aos imóveis nele situados.
+
+e) A participação do Município é de 29% do produto arrecadado, nos mesmos moldes da CIDE-
+Combustíveis.
+
+Comentários:
+
+Alternativa A: ERRADA. A competência para instituir o ITR permanece da União (CF/88, art. 153,
+VI). O que pode ser transferido é a capacidade tributária ativa (fiscalização e cobrança), na forma
+da lei (CF/88, art. 153, § 4º, III).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         19
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa B: ERRADA. A Constituição condiciona a opção municipal a que não implique redução
+do imposto nem qualquer forma de renúncia fiscal (CF/88, art. 153, § 4º, III).
+
+Alternativa C: CERTA. Se o Município optar por fiscalizar e cobrar, recebe a totalidade do produto
+da arrecadação do ITR relativo aos imóveis nele situados, respeitada a vedação de
+redução/renúncia; se não optar, recebe 50% (CF/88, art. 153, § 4º, III, e art. 158, II).
+
+Alternativa D: ERRADA. Sem a opção pela fiscalização e cobrança, a regra constitucional é de 50%,
+e não 100% (CF/88, art. 158, II).
+
+Alternativa E: ERRADA. O percentual de 29% refere-se à CIDE-Combustíveis (CF/88, art. 159, III),
+não ao ITR.
+
+Gabarito: Letra C.
+
+
+
+14. (Inédita) Sobre base de cálculo do ITR, Valor da Terra Nua (VTN) e Valor da Terra Nua tributável
+(VTNt), assinale a alternativa correta.
+
+a) A base de cálculo do ITR inclui construções, instalações e benfeitorias, pois compõem o valor
+venal do imóvel.
+
+b) O VTN deve refletir o valor de aquisição do imóvel pelo contribuinte, devidamente atualizado
+monetariamente.
+
+c) O VTN deve refletir o valor de mercado do imóvel em 31 de dezembro do ano anterior ao da
+declaração.
+
+d) O VTN tributável (VTNt) corresponde ao VTN multiplicado pelo quociente entre a área tributável
+e a área total do imóvel.
+
+e) O VTNt é sempre igual ao VTN, pois toda a área do imóvel é tributável por definição.
+
+Comentários:
+
+Alternativa A: ERRADA. A base do ITR é o valor fundiário (terra nua), não incluindo
+construções/instalações/benfeitorias (CTN, art. 30).
+
+Alternativa B: ERRADA. O VTN é autoavaliação a preço de mercado em data legal, não o valor de
+aquisição do contribuinte.
+
+Alternativa C: ERRADA. O VTN deve refletir preço de mercado em 1º de janeiro do ano da
+declaração (Lei nº 9.393/1996, art. 8º, §§ 1º e 2º), e não em 31/12 do ano anterior.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária         20
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa D: CERTA. O VTN tributável ajusta o valor da terra nua pela proporção da área
+tributável sobre a área total do imóvel, resultando a fórmula: VTNt = VTN × (área tributável/área
+total), conforme disciplina legal do imposto.
+
+Alternativa E: ERRADA. Nem toda a área é necessariamente tributável (há áreas não tributáveis por
+previsão legal), razão pela qual VTNt pode ser inferior ao VTN.
+
+Gabarito: Letra D.
+
+
+
+15. (Inédita) Sobre o IOF, assinale a alternativa correta.
+
+a) Quando o ouro é definido em lei como ativo financeiro ou instrumento cambial, há incidência
+exclusiva do IOF na operação de origem, com alíquota mínima de 1% e repartição do produto
+arrecadado em 30% para o Estado/DF/Território e 70% para o Município.
+
+b) A majoração de alíquotas do IOF está sujeita à anterioridade anual e à noventena, por se tratar
+de imposto federal.
+
+c) O IOF não admite alteração de alíquotas por ato do Poder Executivo, por força do princípio da
+legalidade estrita.
+
+d) O fato gerador do IOF-câmbio ocorre apenas na assinatura do contrato de câmbio,
+independentemente de entrega ou colocação à disposição de moeda.
+
+e) O parágrafo único do art. 63 do CTN autoriza a incidência simultânea de IOF-crédito e IOF-
+títulos quando a mesma operação for representada por título.
+
+Comentários:
+
+Alternativa A: CERTA. Na hipótese do ouro definido em lei como ativo financeiro ou instrumento
+cambial, incide IOF de forma exclusiva na operação de origem, com alíquota mínima de 1%, e há
+repartição constitucional do produto da arrecadação (CF/88, art. 153, § 5º).
+
+Alternativa B: ERRADA. O IOF é exceção às anterioridades anual e nonagesimal (CF/88, art. 150, §
+1º, e art. 150, III, “c”, com exceções), por sua natureza de instrumento extrafiscal de política
+monetária.
+
+Alternativa C: ERRADA. A Constituição autoriza o Poder Executivo a alterar alíquotas do IOF,
+atendidas condições e limites legais (CF/88, art. 153, § 1º).
+
+Alternativa D: ERRADA. O fato gerador do IOF-câmbio ocorre com a efetivação pela
+entrega/colocação à disposição de moeda nacional/estrangeira ou documento representativo, e
+não “apenas” com a assinatura contratual (CTN, art. 63, II).
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária       21
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 17
+
+
+
+
+Alternativa E: ERRADA. O parágrafo único do art. 63 do CTN exclui incidência cumulativa quando
+uma mesma operação de crédito estiver representada por título, evitando dupla incidência.
+
+Gabarito: Letra A.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária    22
+        www.estrategiaconcursos.com.br
+
+                                           https://t.me/KakashiAssinaturasBot
+

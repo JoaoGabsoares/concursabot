@@ -1,0 +1,3135 @@
+                                                     Aula 02
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Estatística
+
+
+
+
+                                                          Autor:
+                                          Allan Maux Santana
+
+
+
+
+                                              19 de Maio de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Allan Maux Santana
+      Aula 02
+
+
+
+
+                                                                                     Índice
+1) Distribuições Discretas de Probabilidade
+..............................................................................................................................................................................................3
+
+2) Distribuição Contínua
+..............................................................................................................................................................................................
+                                                                                                                                                                                            36
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                                                    2
+                www.estrategiaconcursos.com.br                                                                                                                                           60
+
+                                                             https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 02
+
+
+
+
+                    DISTRIBUIÇÕES DISCRETAS DE PROBABILIDADE
+Sumário
+
+Análise Estatística ............................................................................... Erro! Indicador não definido.
+
+Roteiro de revisão e pontos do assunto que merecem destaque ................................................... 2
+
+Distribuições Discretas de Probabilidade ........................................................................................ 2
+
+   Distribuição Uniforme Discreta ..................................................................................................... 2
+
+   Distribuição de Bernoulli............................................................................................................... 3
+
+   Distribuição Binomial .................................................................................................................... 4
+
+   Distribuição Geométrica ............................................................................................................... 6
+
+   Distribuição Hipergeométrica ....................................................................................................... 7
+
+   Distribuição de Poisson ................................................................................................................ 7
+
+Questões estratégicas ...................................................................................................................... 8
+
+Lista de Questões Estratégicas ...................................................................................................... 27
+
+   Gabarito ...................................................................................................................................... 33
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                 3
+           www.estrategiaconcursos.com.br                                                                                                        60
+
+                                               https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+ ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE MERECEM
+                                                 DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a
+seguir:
+
+
+             DISTRIBUIÇÕES DISCRETAS DE PROBABILIDADE
+Nessa aula iremos aprender as distribuições teóricas de probabilidade de variáveis aleatórias
+discretas.
+
+
+Distribuição Uniforme Discreta
+
+A distribuição uniforme discreta é uma distribuição em que todos os elementos apresentam a
+mesma probabilidade de ocorrer. São exemplos desse tipo de distribuição, o lançamento de uma
+moeda (figura (A)), o lançamento de um dado honesto (figura (B)), entre outros.
+
+       (A) Lançamento de uma moeda                            (B) lançamento de um dado honesto
+
+
+
+
+Para exemplificar, iremos calcular a esperança dos lançamentos de um dado honesto. Como
+sabemos, um dado honesto tem 6 faces e as probabilidades são iguais a 1/6.
+
+                                                                                    1
+                               𝑃 1 =𝑃 2 =𝑃 3 =𝑃 4 =𝑃 5 =𝑃 6 =
+                                                                                    6
+
+                                         𝑿𝒊            𝑷(𝑿𝒊 )         𝑿𝒊 . 𝑷(𝑿𝒊 )
+                                                                            1 1
+                                          1             1/6            1.    =
+                                                                            6 6
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    4
+        www.estrategiaconcursos.com.br                                                            60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                                                             1 2
+                                          2               1/6              2. =
+                                                                             6 6
+                                                                             1 3
+                                          3               1/6              3. =
+                                                                             6 6
+                                                                             1 4
+                                          4               1/6              4. =
+                                                                             6 6
+                                                                             1 5
+                                          5               1/6              4. =
+                                                                             6 6
+                                                                             1 6
+                                          6               1/6              6. =
+                                                                             6 6
+                                                     0
+
+                                                           𝑃 𝑋1
+                                       Total                                21/6
+                                                    123
+                                                    =1
+
+Portanto, a E(X) será
+
+                                                    7
+                                                                                21
+                                    𝐸 𝑋 =𝜇=                𝑋1 . 𝑃(𝑋1 ) =           = 3,5
+                                                                                6
+                                                   123
+
+
+Vejam que, como trata-se de uma distribuição uniforme discreta, a esperança poderia ser feita
+através da média aritmética:
+
+                                                                7
+                                                                123   𝑋1
+                                                 𝐸 𝑋 =
+                                                                  𝑛
+
+Logo,
+
+                                              1 + 2 + 3 + 4 + 5 + 6 21
+                                   𝐸 𝑋 =                           =   = 3,5
+                                                        6            6
+
+Distribuição de Bernoulli
+
+Uma distribuição de Bernoulli é caracterizada pela existência de apenas dois eventos, mutuamente
+exclusivos, que chamamos de sucesso e fracasso. Sendo a probabilidade de sucesso representado
+por “p” e a probabilidade de fracasso por “p-1”. Além disso, é comum associar o valor 1 para o
+sucesso é o valor 0 para o fracasso.
+
+A esperança da distribuição Bernoulli é dada por:
+
+                                                         𝐸 𝑋 =𝑝
+
+Já a variância por:
+
+                                               𝑉𝑎𝑟 𝑋 = 𝑝 . 1 − 𝑝
+
+Sendo, 𝑞 = 1 − 𝑝. Podemos escrever a variância da seguinte forma:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                5
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                                   𝑉𝑎𝑟 𝑋 = 𝑝 . 𝑞
+
+A fórmula da probabilidade da distribuição Bernoulli é dada por:
+
+                                               𝑃 𝑋 = 𝑘 = 𝑝B . 𝑞3CB
+
+Onde,
+
+“n” é o número de repetições do experimento;
+
+“p” é o sucesso;
+
+“q = 1 - p” é o fracasso;
+
+“k” é o número de vezes que o experimento irá se repetir.
+
+Onde, X só pode assumir os valores de 0 ou 1.
+
+
+Distribuição Binomial
+
+Na distribuição de Probabilidade Binomial o experimento é repetido, nas mesmas condições, um
+número finito de vezes. Além disso, as tentativas devem ser independentes e cada tentativa deve
+ter os resultados classificados em sucesso e fracasso. Além disso, a probabilidade “p” do sucesso
+e a probabilidade “1-p” do fracasso devem se manter constante.
+
+
+
+
+        A diferença entre o experimento de Bernoulli e o Binomial está no fato de que
+        Bernoulli é realizado apenas uma vez e binomial “n” vezes.
+
+A probabilidade de uma distribuição binomial é dada por:
+
+                                                            𝑛
+                                            𝑃 𝑋=𝑘 =           . 𝑝B . 𝑞7CB
+                                                            𝑘
+
+Onde,
+
+“n” é o número de repetições do experimento;
+
+“p” é o sucesso;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 6
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+“q = 1 - p” é o fracasso;
+
+“k” é o número de vezes que o experimento irá se repetir.
+
+
+
+
+                 Exemplo!
+
+Pedro lança uma moeda honesta 5 vezes, qual a probabilidade de ocorrerem exatamente dois
+resultados cara?
+
+Vejam que temos as seguintes informações:
+
+n=5
+
+k=2
+
+Sabemos que no lançamento de uma moeda honesta tanta a probabilidade de sair cara quanto a
+de sair coroa é igual a 1/2. No nosso experimento o sucesso será a cara e o fracasso será a coroa.
+
+                                                                                  1
+                                         𝐸𝑣𝑒𝑛𝑡𝑜 𝑠𝑢𝑐𝑒𝑠𝑠𝑜 = 𝑐𝑎𝑟𝑎 = 𝑝 =
+                                                                                  2
+                                                                                      1
+                                       𝐸𝑣𝑒𝑛𝑡𝑜 𝐹𝑟𝑎𝑐𝑎𝑠𝑠𝑜 = 𝑐𝑜𝑟𝑜𝑎 = 𝑞 =
+                                                                                      2
+
+Aplicando a fórmula teremos o seguinte:
+
+                                                             𝑛
+                                             𝑃 𝑋=𝑘 =           . 𝑝B . 𝑞7CB
+                                                             𝑘
+
+                                                          5   1 L 1 MCL
+                                          𝑃 𝑋=2 =           .    .
+                                                          2   2    2
+
+Sendo,
+
+                                                𝑛              𝑛!
+                                                  = 𝐶7,B =
+                                                𝑘          𝑘! 𝑛 − 𝑘 !
+
+                            5              5!       5!     5 . 4 . 3! 20
+                              = 𝐶M,L =           =       =           =   = 10
+                            2          2! 5 − 2 ! 2! . 3! 2 . 1 . 3!   2
+
+Logo,
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 7
+         www.estrategiaconcursos.com.br                                                        60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                                            1 1 10   5
+                                        𝑃 𝑋 = 2 = 10 .        . =  =
+                                                            4 8 32 32
+
+A esperança da distribuição Binomial é dada por:
+
+                                                    𝐸 𝑋 = 𝑛 .𝑝
+
+Já a variância por:
+
+                                             𝑉𝑎𝑟 𝑋 = 𝑛 . 𝑝 . 1 − 𝑝
+
+Sendo, 𝑞 = 1 − 𝑝. Podemos escrever a variância da seguinte forma:
+
+                                                 𝑉𝑎𝑟 𝑋 = 𝑛 . 𝑝 . 𝑞
+
+Distribuição Geométrica
+
+A distribuição geométrica, assim como a binomial, é baseada em experimentos de Bernoulli
+independentes com a mesma probabilidade de sucesso “p”. Sendo que, o número de
+experimentos acontece até que ocorra o primeiro sucesso.
+
+A fórmula da distribuição geométrica é dada por:
+
+                                               𝑃 𝑋 = 𝑘 = 𝑞BC3 . 𝑝
+
+Onde,
+
+“p” é o sucesso.
+
+“q” é o fracasso.
+
+Logo, o experimento irá fracassar algumas vezes e assim que ocorrer um sucesso o ele acaba.
+
+A esperança da distribuição geométrica é dada por:
+
+                                                                1
+                                                      𝐸 𝑋 =
+                                                                𝑝
+
+Já a variância por:
+
+                                                                 𝑞
+                                                    𝑉𝑎𝑟 𝑋 =
+                                                                 𝑝L
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                8
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+Distribuição Hipergeométrica
+
+A distribuição hipergeométrica, assim como a binomial, é baseada em experimentos que
+consideram dois possíveis resultados (sucesso e fracasso). Sendo que, a seleção de elementos é
+sem reposição. Logo, diferente da binomial os eventos não são independentes.
+
+Desta forma, temos “N” elementos dos quais “S” é o sucesso e “N-S” é o fracasso. Desses “N”
+elementos serão retiradas uma amostra de “n” elementos sem reposição. Depois disso, é calculada
+a probabilidade de obter “k” sucessos.
+
+A probabilidade é dada por:
+
+                                                      𝑆            𝑁−𝑆
+                                              𝑃 𝑋=𝑘 = 𝑘            𝑛−𝑘
+                                                                   𝑁
+                                                                   𝑛
+
+O valor de “k” será: 0 ≤ 𝑘 ≤ 𝑛.
+
+A esperança da distribuição hipergeométrica é dada por:
+
+                                                      𝐸 𝑋 = 𝑛𝑝
+
+Já a variância por:
+
+                                                                   𝑁−𝑛
+                                                𝑉𝑎𝑟 𝑋 = 𝑛𝑝𝑞.
+                                                                   𝑁−1
+
+Sendo,
+
+     U
+𝑝=
+     V
+
+
+𝑞 =1−𝑝
+
+Vejam que a esperança é igual a distribuição binomial, mas variância é igual à da binomial
+                    VC7
+multiplicada por          .
+                    VC3
+
+
+Distribuição de Poisson
+
+Pessoal, enquanto na probabilidade de binomial, estamos interessados na probabilidade de “S”
+resultados sucessos em “n” repetições do experimento. Na probabilidade de Poisson, estamos
+interessados na probabilidade de “k” ocorrências em determinado intervalo (tempo ou espaço).
+
+Exemplos da aplicação da distribuição de Poisson:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística              9
+         www.estrategiaconcursos.com.br                                                     60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+   ● Número de vezes que um telefone toca em um dia;
+   ● Número de pessoas que são contaminadas por um vírus em determinado espaço.
+   ● Número de defeitos de um rolo de papel de jornal de 1000 metros.
+
+A probabilidade de Poisson partimos de uma distribuição binomial, sendo que “p” (sucesso) é
+muito pequeno (tende a zero) e “n” muito grande (tende a infinito). Sendo, a média dada por:
+
+                                                        𝜆 = 𝑛𝑝
+
+Onde, 𝜆 é o número médio de vezes que um evento ocorre (quanto vezes um telefone toca em um
+dia).
+
+Sabemos que na distribuição binomial a variância é dada por:
+
+                                              𝜎 L = 𝑛𝑝𝑞 = 𝑛𝑝(1 − 𝑝)
+
+Como, “p” tende a zero temos que (1-p) é igual a 1. Logo,
+
+                                                 𝜎 L = 𝑛𝑝𝑞 = 𝑛𝑝 . 1
+
+Sendo que, 𝜆 = 𝑛𝑝.
+
+Portanto, a variância da distribuição Poisson será a seguinte:
+
+                                                        𝜎L = 𝜆
+
+Desta forma, temos que na distribuição de Poisson a média e a variância são iguais.
+
+A fórmula da probabilidade da distribuição Poisson é dada por:
+
+                                                              𝜆 B . 𝑒 CY
+                                              𝑃 𝑋=𝑘 =
+                                                                   𝑘!
+
+Onde, “e” é o número Euler (~2,718 ...).
+
+
+                                  QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística             10
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+Q.01 (Instituto AOCP - Analista (EBSERH HU-UFGD)/Administrativo/Economia/2014)
+
+A distribuição que apresenta o caso mais simples de variável aleatória discreta, em que cada valor
+possível ocorre com a mesma probabilidade, é a
+
+a) Distribuição Binomial.
+
+b) Distribuição de Poisson.
+
+c) Distribuição Uniforme Discreta.
+
+d) Distribuição de Bernoulli.
+
+e) Distribuição Tripla.
+
+Comentários:
+
+Nessa questão, a banca traz o conceito de distribuição uniforme discreta. Os demais conceitos
+vimos ao longo de nossa aula (tirando distribuição tripla, invenção da banca).
+
+Gabarito: C
+
+Q.02 (FCC - Analista Judiciário (TRF 2ª Região)/Apoio Especializado/Estatística/2012)
+
+A variável aleatória X tem distribuição uniforme discreta nos pontos 1,2,3,4,5. A variância da
+variável aleatória Y = 3X ! 3 é igual a
+
+a) 10.
+
+b) 12.
+
+c) 15.
+
+d) 16.
+
+e) 18.
+
+Comentários:
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                11
+         www.estrategiaconcursos.com.br                                                        60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Pessoal, nessa questão temos uma distribuição uniforme discreta. E os dados fornecidos foram os
+seguintes:
+
+X={1, 2, 3, 4, 5}
+
+Y = 3X – 3
+
+E é pedido a variância da variável Y.
+
+A primeira coisa a ser feita é calcular a média (esperança) da distribuição contínua. Como vimos na
+teoria, podemos encontrar essa média através da média aritmética, uma vez que a probabilidade
+é a mesma.
+
+                                                              7
+                                                              123   𝑋1
+                                                 𝐸 𝑋 =
+                                                                𝑛
+
+                                                1 + 2 + 3 + 4 + 5 15
+                                      𝐸 𝑋 =                      =   =3
+                                                        5          5
+
+De posse da média podemos calcular a variância.
+
+                                                        7
+                                                        123    (𝑋1 − 𝐸(𝑋))L
+                                         𝑉𝑎𝑟 𝑋 =
+                                                                 𝑛
+
+                    1 − 3 L + 2 − 3 L + 3 − 3 L + 4 − 3 L + 5 − 3 L 4 + 1 + 0 + 1 + 4 10
+        𝑉𝑎𝑟 𝑋 =                                                    =                 =   =2
+                                          5                                 5          5
+
+Portanto, Var(X) = 2
+
+Para calcular a Var(Y) utilizamos a expressão dada pela banca.
+
+                                                     𝑌 = 3𝑋 − 3
+
+Como sabemos a variância não é afetada por soma ou subtração.
+
+                                                𝑉𝑎𝑟(𝑌) = 𝑉𝑎𝑟(3𝑋)
+
+Quando multiplicamos a variância por de uma constante “k”, a variância fica multiplicada pelo
+quadrado dessa constante.
+
+                                               𝑉𝑎𝑟 𝑌 = 3L . 𝑉𝑎𝑟(𝑋)
+
+Sendo, Var(X) = 2.
+
+                                               𝑉𝑎𝑟 𝑌 = 9 . 2 = 18
+
+Gabarito: E
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  12
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Q.03 (ESMARN - Estagiário (TJ RN)/Estatística/2014)
+
+Assinale a alternativa que representa CORRETAMENTE uma sequência de tentativas de Bernoulli:
+
+a) Número de falhas de uma máquina.
+
+b) Quantidade de chuva medida em milímetros.
+
+c) Classificação de um produto como bom, regular, ruim ou péssimo.
+
+d) Classificação da pressão sanguínea como normal ou não.
+
+e) Nenhuma das respostas.
+
+Comentários:
+
+Sabemos que um experimento Bernoulli é caracterizado pela existência de apenas dois eventos,
+mutuamente exclusivos, isto é, sucesso e fracasso. Analisando as alternativas podemos observar
+que a D apresenta uma sequência de tentativas Bernoulli, pois temos apenas dois resultados
+(pressão sanguínea normal ou pressão sanguínea não normal).
+
+Gabarito: D
+
+Q.04 (Instituto AOCP - Analista (EBSERH HE-UFPEL)/Administrativo/Estatística/2015)
+
+O sucesso, S, em certo procedimento cirúrgico, tem uma probabilidade de 0,95. O resultado do
+procedimento é um evento aleatório dicotômico podendo ocorrer somente sucesso ou insucesso
+e pode ser representado pela variável aleatória X. Assim, o nome da distribuição de probabilidade
+relacionada com essa variável aleatória e a sua função de probabilidade são, respectivamente:
+
+a) Distribuição Normal e 𝑃 𝑋 = 𝑥 = 0,95] 0,053C] 𝑥 = 0,1.
+
+                                                   7
+b) Distribuição Binomial e 𝑃 𝑋 = 𝑥 =                   0,95] 0,057C] 𝑥 = 0,1, … , 𝑛.
+                                                   ]
+
+                                                   c
+                                         3     C       (]Cf)d
+c) Distribuição Normal e 𝑓(𝑥) =               𝑒 ded             𝑋 ∈ 𝑅.
+                                       `√Lb
+
+
+d) Bernoulli e 𝑃 𝑋 = 𝑥 = 0,95] 0,053C] 𝑥 = 0,1.
+
+                                7
+e) Bernoulli e 𝑃 𝑋 = 𝑥 =            0,95] 0,057C] 𝑥 = 0,1.
+                                ]
+
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                13
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Pessoal, a questão fala de um experimento que só pode assumir dois resultados (sucesso e
+insucesso). E quer saber distribuição representa esse experimento. Como sabemos, essa
+distribuição só pode ser a Bernoulli. Desta forma, ficamos com as alternativas D e E.
+
+Vejam que a resposta só pode ser a letra D, pois na E temos uma fórmula parecida com a
+distribuição Binomial.
+
+Gabarito: D
+
+Q.05 (CEBRASPE (CESPE) - Analista (SERPRO)/Ciência de Dados/2021)
+
+Considerando que a tabela precedente mostra o cruzamento de duas variáveis categorizadas A e
+B, Considerando que o número X de erros registrados em determinado tipo de código
+computacional siga uma distribuição binomial com média igual a 4 e variância igual a 3, julgue o
+item a seguir.
+
+É impossível haver registros de 18 erros nesse tipo de código computacional.
+
+  C – CERTO
+
+   E - ERRADO
+
+Comentários:
+
+Pessoal, essa é uma questão de distribuição binomial. E diz que é impossível haver registros de 18
+erros. Logo, quer saber o valor do “n”. Foram dadas as seguintes informações:
+
+E(X) = 4
+
+Var(X) = 3
+
+Sabemos que as fórmulas da esperança e da variância para uma distribuição binomial são dadas
+por:
+
+                                                     𝐸 𝑋 = 𝑛𝑝
+
+                                                   𝑉𝑎𝑟 𝑋 = 𝑛𝑝𝑞
+
+Onde, 𝑞 = 1 − 𝑝.
+
+Fazendo as substituições teremos o seguinte:
+
+                                                     4 = 𝑛𝑝 (1)
+
+                                                    3 = 𝑛𝑝𝑞 (2)
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 14
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Vejam que podemos substituir o “np” da equação (1) na equação (2) e com isso encontrar o “q”.
+
+                                                        3 = 4𝑞
+
+                                                              3
+                                                        𝑞=
+                                                              4
+
+Logo,
+
+                                                      𝑞 =1−𝑝
+
+                                                      3
+                                                        =1−𝑝
+                                                      4
+                              3                              3−4                          1
+                                − 1 = −𝑝        →     −𝑝 =             →         −𝑝 = −
+                              4                               4                           4
+                                                              1
+                                                        𝑝=
+                                                              4
+
+Sabendo o valor de “p”, basta substituir na equação (1) e teremos o valor de “n”.
+
+                                                        4 = 𝑛𝑝
+
+                                                                1
+                                                       4 = 𝑛.
+                                                                4
+
+                                                        𝑛 = 16
+
+Portanto, correta a questão. Pois é impossível ter mais de 18 erros.
+
+Gabarito: Certo
+
+Q.06 (CEBRASPE (CESPE) - Analista (SERPRO)/Ciência de Dados/2021)
+
+Considerando que a tabela precedente mostra o cruzamento de duas variáveis categorizadas A e
+B, Considerando que o número X de erros registrados em determinado tipo de código
+computacional siga uma distribuição binomial com média igual a 4 e variância igual a 3, julgue o
+item a seguir.
+
+P(X=0)=3/4.
+
+  C – CERTO
+
+   E - ERRADO
+
+Comentários:
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                15
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Pessoal, na questão anterior encontramos que o valor de “n” foi 16. Além disso, vimos que “p” foi
+1/4 e que “q” foi 3/4.
+
+Com essas informações, basta utilizar a fórmula da probabilidade binomial e verificar se realmente
+P(X=0) é 3/4.
+
+                                                             𝑛
+                                             𝑃 𝑋=𝑘 =           . 𝑝B . 𝑞7CB
+                                                             𝑘
+
+                                                 16   1 j 3 30Cj
+                                         𝑃 𝑋=0 =    .    .
+                                                  0   4    4
+
+Sendo,
+
+                                                𝑛              𝑛!
+                                                  = 𝐶7,B =
+                                                𝑘          𝑘! 𝑛 − 𝑘 !
+
+                                     16               16!       16!
+                                        = 𝐶30,j =            =         =1
+                                      0           0! 16 − 0 ! 0! . 16!
+
+Pessoal, na prova quando tivermos uma combinação de “n” zero a zero. O resultado é sempre o
+1. Como demonstrado acima.
+
+Além disso, o fatorial de zero e 1 será igual a 1.
+
+0! =1
+
+1! =1
+
+Voltando ao cálculo de P(X=0)
+
+                                                       1 j              3 30
+                                            𝑃 𝑋 =0 =1.     .
+                                                       4                4
+
+                                                                      3 30
+                                              𝑃 𝑋 = 0 = 1 .1 .
+                                                                      4
+
+                                                          3 30
+                                                  𝑃 𝑋=0 =
+                                                          4
+
+Portanto, está errada a questão.
+
+Gabarito: Errado
+
+Q.07 (VUNESP - Administrador Judiciário (TJ SP)/2019)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                16
+         www.estrategiaconcursos.com.br                                                        60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Em uma eleição, sabe-se que 40% dos eleitores são favoráveis ao candidato X e o restante ao
+candidato Y. Extraindo uma amostra aleatória, com reposição, de tamanho 3 da população de
+eleitores, obtém-se que a probabilidade de que no máximo 1 eleitor da amostra seja favorável ao
+candidato X é igual a
+
+a) 36,0%.
+
+b) 43,2%.
+
+c) 64,8%.
+
+d) 78,4%.
+
+e) 35,2%.                                                 ==219a34==
+
+
+
+
+Comentários:
+
+As informações dadas na questão são as seguintes:
+
+Favorável ao candidato X =40% = 0,4
+
+Favorável ao candidato Y = 60% = 0,6
+
+Amostra igual a 3 (n=3)
+
+A banca quer saber qual a probabilidade de no máximo 1 eleitor ser favorável ao candidato X.
+Logo, X é o sucesso e Y é o fracasso.
+
+                                                                        𝑛
+                                             𝑃 𝑋=𝑘 =                      . 𝑝B . 𝑞7CB
+                                                                        𝑘
+
+No máximo 1 é a soma de P(X=0) e P(X=1).
+
+Cálculo de P(X=0)
+
+                                                                       3
+                                           𝑃 𝑋=0 =                       . 0,4j . 0,6kCj
+                                                                       0
+
+Sendo,
+
+                                                     3
+                                                       = 𝐶k,j = 1
+                                                     0
+
+                                          𝑃 𝑋 = 0 = 1 . 1 . 0,6k = 0,216
+
+Cálculo de P(X=1)
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística             17
+         www.estrategiaconcursos.com.br                                                     60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                                           3
+                                           𝑃 𝑋=0 =           . 0,43 . 0,6kC3
+                                                           1
+
+Sendo,
+
+                                                𝑛              𝑛!
+                                                  = 𝐶7,B =
+                                                𝑘          𝑘! 𝑛 − 𝑘 !
+
+                                  3              3!       3!     3 . 2!
+                                    = 𝐶k,3 =           =       =        =3
+                                  1          1! 3 − 1 ! 1! . 2! 1 . 2!
+
+Pessoal, quando tivermos uma combinação de “n” 1 a 1. O resultado é sempre o “n”. Como
+demonstrado acima.
+
+                                  𝑃 𝑋 = 1 = 3 . 0,4 . 0,6L = 1,2 . 0,36 = 0,432
+
+Portanto,
+
+𝑃 𝑋 = 0 + 𝑃 𝑋 = 1 = 0,216 + 0,432 = 0,648 = 68,4%
+
+Gabarito: C
+
+Q.08 (FGV - Técnico Superior Especializado (DPE RJ)/Estatística/2019)
+
+Para que as pessoas que aguardam atendimento em uma repartição pública fiquem acomodadas
+com relativo conforto, é necessário que o recinto seja dimensionado à razão de um metro
+quadrado de espaço para cada cidadão em espera.
+
+Se o número de pessoas que comparece, por dia, tem distribuição geométrica, com parâmetro p
+= 0,2, é correto afirmar que:
+
+a) em função da distribuição do número de pessoas, o tamanho médio ideal do recinto deve ser
+de 16 metros quadrados.
+
+b) a probabilidade de que uma sala de espera com 4 metros quadrados não seja confortável em
+certo dia é (0,2).(0,8)4.
+
+c) a probabilidade de que uma sala com 3 metros quadrados fique subutilizada em certo dia é
+igual a 0,448.
+
+d) considerando uma sala de espera que tem 20 metros quadrados e o fato de que 18 pessoas já
+estão aguardando, a probabilidade de que atinja sua lotação exata é igual a 0,16.
+
+e) a distribuição de probabilidade do tamanho (A) de sala ideal, a cada dia, é dada por P (A=x) =
+(0,2)2.(0,8)2x para X=1,2,3,...
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística               18
+         www.estrategiaconcursos.com.br                                                       60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Comentários:
+
+Pessoal, essa é uma questão de distribuição geométrica. Para o conforto das pessoas que
+aguardam atendimento é necessário um metro quadrado por pessoa. A banca diz que “p” é igual
+a 0,2. Com base nessas informações iremos analisar as alternativas apresentadas pela banca.
+
+Letra A) em função da distribuição do número de pessoas, o tamanho médio ideal do recinto deve
+ser de 16 metros quadrados.
+
+Aqui temos que calcular a média. Sabemos que a média (esperança) da distribuição geométrica é
+dada por:
+
+                                                                  1
+                                                        𝐸 𝑋 =
+                                                                  𝑝
+
+Onde,
+
+p=0,2
+
+                                                               1
+                                                    𝐸 𝑋 =         =5
+                                                              0,2
+
+Logo, errada a alternativa.
+
+Letra B) a probabilidade de que uma sala de espera com 4 metros quadrados não seja confortável
+em certo dia é (0,2).(0,8)4.
+
+Nessa alternativa, iremos utilizar a fórmula da probabilidade da distribuição geométrica.
+
+                                                 𝑃 𝑋 = 𝑘 = 𝑞BC3 . 𝑝
+
+Onde,
+
+k=4
+
+p = 0,2
+
+q = 1-p = 1 – 0,2 = 0,8
+
+                                               𝑃 𝑋 = 4 = 0,8mC3 . 0,2
+
+                                                 𝑃 𝑋 = 4 = 0,8k . 0,2
+
+Logo, errada a alternativa.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística            19
+          www.estrategiaconcursos.com.br                                                    60
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Letra C) a probabilidade de que uma sala com 3 metros quadrados fique subutilizada em certo dia
+é igual a 0,448.
+
+Aqui também é pedida a probabilidade.
+
+                                                 𝑃 𝑋 = 𝑘 = 𝑞BC3 . 𝑝
+
+Onde,
+
+k=3
+
+p = 0,2
+
+q = 1-p = 1 – 0,2 = 0,8
+
+                                               𝑃 𝑋 = 3 = 0,8kC3 . 0,2
+
+                                    𝑃 𝑋 = 3 = 0,8L . 0,2 = 0,64 . 0,2 = 0,128
+
+Logo, errada a alternativa.
+
+Letra D) considerando uma sala de espera que tem 20 metros quadrados e o fato de que 18
+pessoas já estão aguardando, a probabilidade de que atinja sua lotação exata é igual a 0,16.
+
+Nessa alternativa, tempos que a sala de espera tem 20 metros quadrados e que já tem 18 pessoas
+aguardando. A banca quer saber se a probabilidade de atingir o máximo de lotação é 0,16. Vejam
+que faltam duas pessoas para atingir esse máximo. Logo, “k” será 2.
+
+Aplicando a fórmula da probabilidade teremos o seguinte:
+
+                                                 𝑃 𝑋 = 𝑘 = 𝑞BC3 . 𝑝
+
+Onde,
+
+k=2
+
+p = 0,2
+
+q = 1-p = 1 – 0,2 = 0,8
+
+                                               𝑃 𝑋 = 2 = 0,8LC3 . 0,2
+
+                                             𝑃 𝑋 = 3 = 0,8 . 0,2 = 0,16
+
+Portanto, resposta da questão.
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística            20
+          www.estrategiaconcursos.com.br                                                    60
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Letra E) a distribuição de probabilidade do tamanho (A) de sala ideal, a cada dia, é dada por P
+(A=x) = (0,2)2.(0,8)2x para X=1,2,3,...
+
+Errada, pois a distribuição de probabilidade será dada por:
+
+                                               𝑃 𝑋 = 𝑘 = 𝑞BC3 . 𝑝
+
+                                   𝑃 𝑋 = 𝑘 = 0,8BC3 . 0,2           𝑘 = 1, 2, 3, ….
+
+Gabarito: D
+
+Q.09 (ACEP - Analista (Pref Aracati)/Fundos de Investimento/2019)
+
+Em uma casa de jogos de sinuca, para participar de uma partida, cada integrante deverá pagar R$
+50,00. Nícolas é um jogador com probabilidade de ganhar uma partida qualquer de 40%. Qual a
+probabilidade de que Nícolas ganhe na quarta partida e qual o custo esperado (em R$) para obter
+a primeira vitória?
+
+a) 8,64% e R$ 150,00.
+
+b) 7,32% e R$ 150,00.
+
+c) 9,60% e R$ 100,00.
+
+d) 9,82% e R$ 100,00.
+
+Comentários:
+
+Temos as seguintes informações:
+
+Probabilidade de ganhar = sucesso = p= 40% = 0,4
+
+Probabilidade de perder = fracasso = q = (1-p) = 60% = 0,6
+
+A banca quer saber qual a probabilidade de ganhar na quarta partida. Logo, estamos diante de
+uma distribuição geométrica.
+
+Aplicando a fórmula da probabilidade teremos o seguinte:
+
+                                               𝑃 𝑋 = 𝑘 = 𝑞BC3 . 𝑝
+
+Onde,
+
+k=4
+
+                   𝑃 𝑋 = 4 = 0,6mC3 . 0,4 = 0,6k . 0,4 = 0,216 . 0,4 = 0,0864 = 8,64%
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística              21
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                    𝑃 𝑋 = 3 = 0,216 . 0,4 = 0,0864 = 8,64%
+
+O custo será de 150,00. Pois serão necessárias 3 derrotas e cada uma delas custa 50,00.
+
+Gabarito: A
+
+Q.10 (CESGRANRIO - Analista Júnior (TRANSPETRO)/Financeiro/2018)
+
+A febre amarela é uma doença infecciosa febril aguda, causada por um vírus transmitido por
+mosquitos. Uma medida importante para prevenção e controle da febre amarela é a vacinação.
+Uma empresa, preocupada com a saúde de seus funcionários, fez um levantamento para saber
+quantos já tinham sido vacinados. Foi verificado que dos 1.000 funcionários apenas 200 já haviam
+tomado a vacina.
+
+Se forem selecionados ao acaso 200 funcionários da empresa, o número esperado de pessoas que
+não tomaram a vacina é de
+
+a) 20.
+
+b) 40.
+
+c) 80.
+
+d) 120.
+
+e) 160.
+
+Comentários:
+
+Essa é uma questão de distribuição hipergeométrica. Temos uma população é 1000 e desses 200
+foram vacinados. Logo, 800 não foram vacinados.
+
+Vacinadas = 20% (200 de 1000)
+
+Não vacinadas = 80% (800 de 1000)
+
+Se 200 pessoas forem selecionadas, qual o valor esperado das pessoas não vacinadas. Logo, o
+nosso “p” será de 0,8 (pessoas não vacinadas). A fórmula da esperança é a seguinte:
+
+                                                       𝐸 𝑋 = 𝑛𝑝
+
+Onde, o “n” é 200 e o “p” é 0,8.
+
+                                                𝐸 𝑋 = 200.0,8 = 160
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística             22
+          www.estrategiaconcursos.com.br                                                     60
+
+                                       https://t.me/KakashiAssinaturasBot
+     Allan Maux Santana
+     Aula 02
+
+
+
+Gabarito: E
+
+Q.11 (Instituto AOCP - Analista (EBSERH HU-UFS)/Administrativo/Estatística/2014)
+
+O inspetor de qualidade de um laboratório químico recebe um lote de 80 frascos de reagentes
+que, segundo o fabricante, não contém mais do que 5% de produtos defeituosos. O inspetor toma
+uma amostra de 10 produtos e decide rejeitar o lote completo se a amostra tem pelo menos um
+reagente defeituoso. Qual é a probabilidade de rejeitar o lote?
+
+a) 1 − 0,953j .
+
+                n     pq
+
+b) 1 −          o
+                    ro
+                      co
+                           .
+                    co
+
+     n     pq
+
+c)   o
+         ro
+           co
+                .
+         co
+
+                n    ro
+
+d) 1 − o pqco .
+                    co
+
+
+e) 0,953j .
+
+Comentários:
+
+Pessoal, pelo enunciado da questão podemos perceber que se trata de uma distribuição
+hipergeométrica. Sendo a fórmula expressa da seguinte forma:
+
+                                                             𝑆            𝑁−𝑆
+                                                     𝑃 𝑋=𝑘 = 𝑘            𝑛−𝑘
+                                                                          𝑁
+                                                                          𝑛
+
+Só com isso eliminamos as letras A e E. Além disso, a banca quer saber a probabilidade de ter
+“pelo menos” um reagente defeituoso. Desta forma, é mais fácil calcular a probabilidade pela
+complementação.
+
+                                              𝑃 𝑝𝑒𝑙𝑜 𝑚𝑒𝑛𝑜𝑠 1 = 1 − 𝑃(𝑛𝑒𝑛ℎ𝑢𝑚)
+
+Com isso, ficamos com as alternativas B e D.
+
+Os dados fornecidos na questão foram os seguintes:
+
+N = 80
+
+S = 5% dos fracos defeituosos = 0,05.80 = 4
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística    23
+                www.estrategiaconcursos.com.br                                            60
+
+                                             https://t.me/KakashiAssinaturasBot
+     Allan Maux Santana
+     Aula 02
+
+
+
+n = 10 (é amostra selecionada)
+
+k = é o número de defeitos que queremos. Como iremos utilizar a probabilidade complementar
+esse valor será 0.
+
+Substituindo esses dados na fórmula teremos o seguinte:
+
+                                                          4             80 − 4
+                                                  𝑃 𝑋=0 = 0             10 − 0
+                                                                        80
+                                                                        10
+
+                                                             4            76
+                                                     𝑃 𝑋=0 = 0            10
+                                                                        80
+                                                                        10
+
+                                                                   4             76
+                                              𝑃 𝑝𝑒𝑙𝑜 𝑚𝑒𝑛𝑜𝑠 1 = 1 − 0             10
+                                                                               80
+                                                                               10
+
+Portanto, ficamos com a letra B.
+
+Gabarito: B
+
+Q.12 (VUNESP - Analista Administrativo (EBSERH HC-UFU)/Estatística/2020)
+
+Uma doença atinge um indivíduo a cada mil. Qual é, aproximadamente, a probabilidade de que,
+numa comunidade de dois mil indivíduos, quatro contraiam a doença?
+
+Dado: e (número de Euler) = 2,71828...
+
+a) 𝑒 CL .
+
+     3
+b)        𝑒 CL .
+     Lm
+
+     L
+c) 𝑒 CL .
+     k
+
+
+d) 𝑒 Cm .
+
+e) 8𝑒 Cm .
+
+Comentários:
+
+Essa é uma questão de distribuição Poisson.
+
+
+
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Estatística    24
+              www.estrategiaconcursos.com.br                                            60
+
+                                           https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Uma doença atinge 1 indivíduo/mil. A banca quer saber qual a probabilidade de 4 pessoal contrai
+a doença em uma população de 2 mil indivíduos.
+
+A primeira coisa a ser feita é calcular a média.
+
+                         𝜆 = 1 𝑖𝑛𝑑𝑖𝑣𝑖𝑑𝑢𝑜 𝑎 𝑐𝑎𝑑𝑎 𝑚𝑖𝑙 = 2 𝑖𝑛𝑑𝑖𝑣𝑖𝑑𝑢𝑜𝑠 𝑎 𝑐𝑎𝑑𝑎 2 𝑚𝑖𝑙
+
+A probabilidade é dada por:
+
+                                                              𝜆 B . 𝑒 CY
+                                              𝑃 𝑋=𝑘 =
+                                                                   𝑘!
+
+Onde, “k” é 4.
+
+                                   2 m . 𝑒 CL    16 . 𝑒 CL     16 CL 2 CL
+                           𝑃 𝑋=4 =            =              =   𝑒 = 𝑒
+                                        4!      4 . 3 . 2 . 1 24     3
+
+
+
+Gabarito: C
+
+Q.13 (FCC - Auditor Fiscal (SEFAZ BA)/Administração Tributária/2019)
+
+Uma variável aleatória X representa o número de contribuintes que chega a cada hora para ser
+atendido em um órgão público. Supõe-se que X tem distribuição de Poisson, com parâmetro λ,
+ou                                                                                     seja,
+       Y y . z {|
+𝑃 𝑥 =         , sendo e a base do logaritmo (In) tal que ln(e) = 1. Se P(x = 2) = P(x = 3), então a
+          ]!
+probabilidade de que menos de 3 contribuintes cheguem em 1 hora é
+
+Dados:
+
+e!1=0,37
+
+e!2=0,14
+
+e!3=0,05
+
+a) 30,0%.
+
+b) 42,5%.
+
+c) 22,5%.
+
+d) 57,5%.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  25
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+e) 37,5%.
+
+Comentários:
+
+Nessa questão de Poisson a banca dá até a fórmula e pede a probabilidade de menos de 3
+contribuintes chegarem em uma hora.
+
+                                                           𝜆 ] . 𝑒 CY
+                                                 𝑃 𝑥 =
+                                                                𝑥!
+
+A primeira coisa a ser feita é encontrar 𝜆. Para isso, iremos igualar as chances de X = 2 e X = 3.
+Pois, as probabilidades são iguais.
+
+                                             𝑃(𝑥 = 2) = 𝑃(𝑥 = 3)
+
+                                               𝜆 L . 𝑒 CY   𝜆 k . 𝑒 CY
+                                                          =
+                                                    2!           3!
+
+                                                       𝜆L 𝜆k
+                                                         =
+                                                       2   6
+
+                                                     2. 𝜆k = 6𝜆L
+
+                                                        𝜆=3
+
+Logo,
+
+𝜆 = 3 𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑖𝑛𝑡𝑒 /ℎ𝑜𝑟𝑎
+
+                                                           𝜆 ] . 𝑒 CY
+                                                 𝑃 𝑥 =
+                                                                𝑥!
+
+
+
+Para menos de 3 temos o seguinte:
+
+                                                𝑃 0 + 𝑃 1 + 𝑃(2)
+
+                                              3 j . 𝑒 Ck
+                                     𝑃 0 =               = 𝑒 Ck = 0,05 = 5%
+                                                   0!
+
+                                   3 3 . 𝑒 Ck
+                             𝑃 1 =            = 3𝑒 Ck = 3 . 0,05 = 0,15 = 15%
+                                        1!
+
+                                    3 L . 𝑒 Ck  9
+                          𝑃 2 =                = 𝑒 Ck = 4,5 . 0,05 = 0,225 = 22,5%
+                                         2!     2
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 26
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Logo,
+
+                            𝑃 0 + 𝑃 1 + 𝑃 2 = 5% + 15% + 22,5% = 42,5%
+
+Gabarito: B
+
+Q.14 (FGV/Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Em uma população muito grande, pessoas serão aleatoriamente escolhidas até que uma pessoa
+acometida por uma certa doença seja encontrada.
+
+A variável aleatória que contará quantas pessoas serão observadas até que tal pessoa seja
+encontrada, tem distribuição de probabilidades
+
+a) binomial.
+
+b) Poisson.
+
+c) geométrica.
+
+d) hipergeométrica.
+
+e) binomial negativa.
+
+Comentários:
+
+Pessoal, nessa questão a banca traz um conceito de distribuição de probabilidade. Pelas
+informações trazidas podemos perceber que se trata da distribuição geométrica. Resposta Letra
+“C”.
+
+Vamos aos conceitos de cada distribuição:
+
+Letra A) Binomial.
+
+Na distribuição de Probabilidade Binomial o experimento é repetido, nas mesmas condições, um
+número finito de vezes. Além disso, as tentativas devem ser independentes e cada tentativa deve
+ter os resultados classificados em sucesso e fracasso. Além disso, a probabilidade “p” do sucesso
+e a probabilidade “1-p” do fracasso devem se manter constante.
+
+Letra B) Poisson.
+
+Na probabilidade de Poisson, estamos interessados na probabilidade de “k” ocorrências em
+determinado intervalo (tempo ou espaço).
+
+Exemplos da aplicação da distribuição de Poisson:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                27
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+   •   Número de vezes que um telefone toca em um dia;
+   •   Número de pessoas que são contaminadas por um vírus em determinada espaço.
+   •   Número de defeitos de um rolo de papel de jornal de 1000 metros.
+
+A probabilidade de Poisson partimos de uma distribuição binomial, sendo que “p” (sucesso) é
+muito pequeno (tende a zero) e “n” muito grande (tende a infinito).
+
+Letra C) Geométrica. Nossa resposta.
+
+A distribuição geométrica, assim como a binomial, é baseada em experimentos de Bernoulli
+independentes com a mesma probabilidade de sucesso “p”. Sendo que, o número de
+experimentos acontece até que ocorra o primeiro sucesso.
+
+Letra D) Hipergeométrica.
+
+A distribuição hipergeométrica, assim como a binomial, é baseada em experimentos que considera
+dois possíveis resultados (sucesso e fracasso). Sendo que, a seleção de elementos é sem reposição.
+Logo, diferente da binomial os eventos não são independentes.
+
+Letra E) Binomial negativa.
+
+A distribuição binomial negativa ou distribuição de Pascal é uma distribuição de probabilidade
+discreta. Esta distribuição indica o número de tentativas necessárias para obter k sucessos de igual
+probabilidade θ ao fim de n experimentos de Bernoulli, sendo a última tentativa um sucesso.
+
+Por fim, vamos revisar o conceito de distribuição de Bernoulli.
+
+Uma distribuição de Bernoulli é caracterizada pela existência de apenas dois eventos, mutuamente
+exclusivos, que chamamos de sucesso e fracasso. Sendo a probabilidade de sucesso representado
+por “p” e a probabilidade de fracasso por “p-1”. Além disso, é comum associar o valor 1 para o
+sucesso é o valor 0 para o fracasso.
+
+Gabarito: C
+
+Q.15 (FGV/Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Se X tem distribuição binomial (n, p), então a média e a variância de X são, respectivamente,
+
+a) np e np(1 – p).
+
+b) p e p(1 – p)/n.
+
+c) np e np2.
+
+d) p e np(1 – p).
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                   28
+        www.estrategiaconcursos.com.br                                                           60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+e) np e p(1 – p).
+
+Comentários:
+
+Pessoal, nessa questão temos que conhecer a fórmula da média e da variância da distribuição
+binomial. Resposta Letra “A”.
+
+A esperança (média) da distribuição Binomial é dada por:
+
+
+
+                                                    𝐸 𝑋 = 𝑛 .𝑝
+
+Já a variância por:
+
+
+
+                                             𝑉𝑎𝑟 𝑋 = 𝑛 . 𝑝 . 1 − 𝑝
+
+Gabarito: C
+
+
+
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+Q.01 (Instituto AOCP - Analista (EBSERH HU-UFGD)/Administrativo/Economia/2014)
+
+A distribuição que apresenta o caso mais simples de variável aleatória discreta, em que cada valor
+possível ocorre com a mesma probabilidade, é a
+
+a) Distribuição Binomial.
+
+b) Distribuição de Poisson.
+
+c) Distribuição Uniforme Discreta.
+
+d) Distribuição de Bernoulli.
+
+e) Distribuição Tripla.
+
+Q.02 (FCC - Analista Judiciário (TRF 2ª Região)/Apoio Especializado/Estatística/2012)
+
+A variável aleatória X tem distribuição uniforme discreta nos pontos 1,2,3,4,5. A variância da
+variável aleatória Y = 3X ! 3 é igual a
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 29
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+a) 10.
+
+b) 12.
+
+c) 15.
+
+d) 16.
+
+e) 18.
+
+Q.03 (ESMARN - Estagiário (TJ RN)/Estatística/2014)
+
+Assinale a alternativa que representa CORRETAMENTE uma sequência de tentativas de Bernoulli:
+
+a) Número de falhas de uma máquina.
+
+b) Quantidade de chuva medida em milímetros.
+
+c) Classificação de um produto como bom, regular, ruim ou péssimo.
+
+d) Classificação da pressão sanguínea como normal ou não.
+
+e) Nenhuma das respostas.
+
+Q.04 (Instituto AOCP - Analista (EBSERH HE-UFPEL)/Administrativo/Estatística/2015)
+
+O sucesso, S, em certo procedimento cirúrgico, tem uma probabilidade de 0,95. O resultado do
+procedimento é um evento aleatório dicotômico podendo ocorrer somente sucesso ou insucesso
+e pode ser representado pela variável aleatória X. Assim, o nome da distribuição de probabilidade
+relacionada com essa variável aleatória e a sua função de probabilidade são, respectivamente:
+
+a) Distribuição Normal e 𝑃 𝑋 = 𝑥 = 0,95] 0,053C] 𝑥 = 0,1.
+
+                                                    7
+b) Distribuição Binomial e 𝑃 𝑋 = 𝑥 =                    0,95] 0,057C] 𝑥 = 0,1, … , 𝑛.
+                                                    ]
+
+                                                    c
+                                          3     C       (]Cf)d
+c) Distribuição Normal e 𝑓(𝑥) =                𝑒 ded             𝑋 ∈ 𝑅.
+                                        `√Lb
+
+
+d) Bernoulli e 𝑃 𝑋 = 𝑥 = 0,95] 0,053C] 𝑥 = 0,1.
+
+                                 7
+e) Bernoulli e 𝑃 𝑋 = 𝑥 =             0,95] 0,057C] 𝑥 = 0,1.
+                                 ]
+
+
+Q.05 (CEBRASPE (CESPE) - Analista (SERPRO)/Ciência de Dados/2021)
+
+
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística               30
+         www.estrategiaconcursos.com.br                                                       60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Considerando que a tabela precedente mostra o cruzamento de duas variáveis categorizadas A e
+B, Considerando que o número X de erros registrados em determinado tipo de código
+computacional siga uma distribuição binomial com média igual a 4 e variância igual a 3, julgue o
+item a seguir.
+
+É impossível haver registros de 18 erros nesse tipo de código computacional.
+
+  C – CERTO
+
+   E - ERRADO
+
+Q.06 (CEBRASPE (CESPE) - Analista (SERPRO)/Ciência de Dados/2021)
+
+Considerando que a tabela precedente mostra o cruzamento de duas variáveis categorizadas A e
+B, Considerando que o número X de erros registrados em determinado tipo de código
+computacional siga uma distribuição binomial com média igual a 4 e variância igual a 3, julgue o
+item a seguir.
+
+P(X=0)=3/4.
+
+  C – CERTO
+
+   E - ERRADO
+
+Q.07 (VUNESP - Administrador Judiciário (TJ SP)/2019)
+
+Em uma eleição, sabe-se que 40% dos eleitores são favoráveis ao candidato X e o restante ao
+candidato Y. Extraindo uma amostra aleatória, com reposição, de tamanho 3 da população de
+eleitores, obtém-se que a probabilidade de que no máximo 1 eleitor da amostra seja favorável ao
+candidato X é igual a
+
+a) 36,0%.
+
+b) 43,2%.
+
+c) 64,8%.
+
+d) 78,4%.
+
+e) 35,2%.
+
+Q.08 (FGV - Técnico Superior Especializado (DPE RJ)/Estatística/2019)
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística               31
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Para que as pessoas que aguardam atendimento em uma repartição pública fiquem acomodadas
+com relativo conforto, é necessário que o recinto seja dimensionado à razão de um metro
+quadrado de espaço para cada cidadão em espera.
+
+Se o número de pessoas que comparece, por dia, tem distribuição geométrica, com parâmetro p
+= 0,2, é correto afirmar que:
+
+a) em função da distribuição do número de pessoas, o tamanho médio ideal do recinto deve ser
+de 16 metros quadrados.
+
+b) a probabilidade de que uma sala de espera com 4 metros quadrados não seja confortável em
+certo dia é (0,2).(0,8)4.
+
+c) a probabilidade de que uma sala com 3 metros quadrados fique subutilizada em certo dia é
+igual a 0,448.
+
+d) considerando uma sala de espera que tem 20 metros quadrados e o fato de que 18 pessoas já
+estão aguardando, a probabilidade de que atinja sua lotação exata é igual a 0,16.
+
+e) a distribuição de probabilidade do tamanho (A) de sala ideal, a cada dia, é dada por P (A=x) =
+(0,2)2.(0,8)2x para X=1,2,3,...
+
+Q.09 (ACEP - Analista (Pref Aracati)/Fundos de Investimento/2019)
+
+Em uma casa de jogos de sinuca, para participar de uma partida, cada integrante deverá pagar R$
+50,00. Nícolas é um jogador com probabilidade de ganhar uma partida qualquer de 40%. Qual a
+probabilidade de que Nícolas ganhe na quarta partida e qual o custo esperado (em R$) para obter
+a primeira vitória?
+
+a) 8,64% e R$ 150,00.
+
+b) 7,32% e R$ 150,00.
+
+c) 9,60% e R$ 100,00.
+
+d) 9,82% e R$ 100,00.
+
+Q.10 (CESGRANRIO - Analista Júnior (TRANSPETRO)/Financeiro/2018)
+
+A febre amarela é uma doença infecciosa febril aguda, causada por um vírus transmitido por
+mosquitos. Uma medida importante para prevenção e controle da febre amarela é a vacinação.
+Uma empresa, preocupada com a saúde de seus funcionários, fez um levantamento para saber
+quantos já tinham sido vacinados. Foi verificado que dos 1.000 funcionários apenas 200 já haviam
+tomado a vacina.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                32
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+     Allan Maux Santana
+     Aula 02
+
+
+
+Se forem selecionados ao acaso 200 funcionários da empresa, o número esperado de pessoas que
+não tomaram a vacina é de
+
+a) 20.
+
+b) 40.
+
+c) 80.
+
+d) 120.
+
+e) 160.
+
+Q.11 (Instituto AOCP - Analista (EBSERH HU-UFS)/Administrativo/Estatística/2014)
+
+O inspetor de qualidade de um laboratório químico recebe um lote de 80 frascos de reagentes
+que, segundo o fabricante, não contém mais do que 5% de produtos defeituosos. O inspetor toma
+uma amostra de 10 produtos e decide rejeitar o lote completo se a amostra tem pelo menos um
+reagente defeituoso. Qual é a probabilidade de rejeitar o lote?
+
+a) 1 − 0,953j .
+
+                n    pq
+
+b) 1 − o roco .
+                    co
+
+     n     pq
+
+c)   o
+         ro
+           co
+                .
+         co
+
+                n    ro
+
+d) 1 − o pqco .
+                    co
+
+
+e) 0,953j .
+
+Q.12 (VUNESP - Analista Administrativo (EBSERH HC-UFU)/Estatística/2020)
+
+Uma doença atinge um indivíduo a cada mil. Qual é, aproximadamente, a probabilidade de que,
+numa comunidade de dois mil indivíduos, quatro contraiam a doença?
+
+Dado: e (número de Euler) = 2,71828...
+
+a) 𝑒 CL .
+
+     3
+b)        𝑒 CL .
+     Lm
+
+
+
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Estatística    33
+                www.estrategiaconcursos.com.br                                            60
+
+                                             https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 02
+
+
+
+   L
+c) 𝑒 CL .
+   k
+
+
+d) 𝑒 Cm .
+
+e) 8𝑒 Cm .
+
+Q.13 (FCC - Auditor Fiscal (SEFAZ BA)/Administração Tributária/2019)
+
+Uma variável aleatória X representa o número de contribuintes que chega a cada hora para ser
+atendido em um órgão público. Supõe-se que X tem distribuição de Poisson, com parâmetro λ,
+ou                                                                                     seja,
+            Y y . z {|
+𝑃 𝑥 =         , sendo e a base do logaritmo (In) tal que ln(e) = 1. Se P(x = 2) = P(x = 3), então a
+          ]!
+probabilidade de que menos de 3 contribuintes cheguem em 1 hora é
+
+Dados:
+
+e!1=0,37
+
+e!2=0,14
+
+e!3=0,05
+
+a) 30,0%.
+
+b) 42,5%.
+
+c) 22,5%.
+
+d) 57,5%.
+
+e) 37,5%.
+
+Q.14 (FGV/Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Em uma população muito grande, pessoas serão aleatoriamente escolhidas até que uma pessoa
+acometida por uma certa doença seja encontrada.
+
+A variável aleatória que contará quantas pessoas serão observadas até que tal pessoa seja
+encontrada, tem distribuição de probabilidades
+
+a) binomial.
+
+b) Poisson.
+
+
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Estatística              34
+            www.estrategiaconcursos.com.br                                                      60
+
+                                         https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+c) geométrica.
+
+d) hipergeométrica.
+
+e) binomial negativa.
+
+Q.15 (FGV/Analista de Pesquisa e Informações (FunSaúde CE)/Estatística/2021)
+
+Se X tem distribuição binomial (n, p), então a média e a variância de X são, respectivamente,
+
+a) np e np(1 – p).
+
+b) p e p(1 – p)/n.
+
+c) np e np2.
+
+d) p e np(1 – p).
+
+e) np e p(1 – p).
+
+
+
+
+Gabarito
+
+
+
+
+       1            2          3          4          5           6          7    8   9   10
+       C            E         D           D          C           E          C    D   A   E
+       11           12        13         14         15
+       B            C         B          C          C
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  35
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+   Allan Maux Santana
+   Aula 02
+
+
+
+
+                                          DISTRIBUIÇÕES CONTÍNUAS
+Sumário
+
+Análise Estatística ............................................................................... Erro! Indicador não definido.
+
+Distribuições Contínuas.....................................................................................................................2
+
+   Distribuição Uniforme ....................................................................................................................2
+
+   Distribuição Exponencial ................................................................................................................3
+
+   Distribuição Normal .......................................................................................................................4
+
+Distribuições Condicionais e Independentes ....................................................................................7
+
+   Distribuição conjunta de Duas variáveis Aleatórias .........................................................................7
+
+   Distribuição Condicional.................................................................................................................8
+
+Questões estratégicas .....................................................................................................................10
+
+Lista de Questões Estratégicas .......................................................................................................20
+
+   Gabarito .......................................................................................................................................24
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                                                                36
+           www.estrategiaconcursos.com.br                                                                                                        60
+
+                                               https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+                                DISTRIBUIÇÕES CONTÍNUAS
+Pessoal, nesse tópico iremos estudar as Distribuições Teóricas ou Especiais de variáveis contínuas.
+
+
+Distribuição Uniforme
+
+As distribuições uniformes apresentam o mesmo valor de probabilidade para todos os possíveis
+resultados. Sendo, portanto, a função densidade de probabilidade (f.d.p.) constante em todo o
+intervalo. Logo, a f.d.p. para uma variável com distribuição uniforme dada por:
+
+
+
+
+                                      k
+
+
+
+
+Como sabemos, a probabilidade de todo espaço amostral é 100%, isto é, 1. Com isso, temos que
+a área sob a função é igual a 1.
+
+                                   Á𝑟𝑒𝑎 = 𝑏𝑎𝑠𝑒 x 𝑎𝑙𝑡𝑢𝑟𝑎 = 𝑏 − 𝑎 x 𝑘 = 1
+
+                                                          ou
+                                                             1
+                                                     𝑘=
+                                                          (𝑏 − 𝑎)
+
+A função densidade de probabilidade é dada por:
+                                                    𝑘,        𝑠𝑒 𝑎 < 𝑥 < 𝑏
+                                          𝑓 𝑥 =
+                                                    0,      𝑐𝑎𝑠𝑜 𝑐𝑜𝑛𝑡𝑟á𝑟𝑖𝑜
+Vejam que, se for conhecido o intervalo (a, b), podemos calcular a f.d.p. para “k”.
+
+A probabilidade de uma distribuição uniforme contínua está associada a um intervalo (m, n). Em
+que a < m < n < b, e a área será dada por:
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                  37
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+                                                                P(m < X < n)
+                                         k
+
+
+
+
+                                                           n      m
+
+                                       Á𝑟𝑒𝑎 = 𝑏𝑎𝑠𝑒 x 𝑎𝑙𝑡𝑢𝑟𝑎 = 𝑚 − 𝑛 x 𝑘
+
+Sendo,
+                                                              1
+                                                      𝑘=
+                                                           (𝑏 − 𝑎)
+Desta forma, fazendo as substituições teremos o seguinte:
+                                                                   (𝑚 − 𝑛)
+                                             𝑃 𝑚<𝑋<𝑛 =
+                                                                   (𝑏 − 𝑎)
+Portanto, a probabilidade de um intervalo em uma distribuição uniforme é a razão entre a
+amplitude desse intervalo (desejado) e a amplitude do intervalo total.
+
+Esperança e Variância
+A esperança matemática é dada por:
+                                                                𝑏+𝑎
+                                                     𝐸 𝑋 =
+                                                                 2
+E a variância por:
+
+                                                                𝑏−𝑎 C
+                                                 𝑉𝑎𝑟 𝑋 =
+                                                                 12
+
+Distribuição Exponencial
+
+A distribuição exponencial tem uma taxa de falha constante, sendo normalmente associada ao
+tempo. A função densidade da distribuição exponencial é dada por:
+
+                                                     𝜆𝑒 EFG ,        𝑠𝑒 𝑥 ≥ 0
+                                          𝑓 𝑥 =
+                                                     0,              𝑠𝑒 𝑥 < 0
+Onde, “e” é o número de Euler (≈ 2,7818) e 𝜆 representa a taxa de falha por unidade de tempo.
+Além disso, como a f.d.p apresenta algum valor somente para valores de X positivos, 𝜆 também é
+necessariamente positivo.
+
+A probabilidade de X está em um intervalo (a < X < b) é calculada da seguinte forma:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística            38
+         www.estrategiaconcursos.com.br                                                    60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                          𝑃 𝑎 < 𝑋 < 𝑏 = 𝑒 EF.J − 𝑒 EF.K
+Pessoal, se quisermos calcula a P(X < x), a fórmula da probabilidade será dada por:
+
+                                               𝑃 𝑋 < 𝑥 = 1 − 𝑒 EF.G
+Onde, P(X < x) é igual à função densidade de probabilidade acumulada no ponto x. Desta forma,
+a f.d.p. da variável exponencia é dada por:
+
+                                                 𝐹(𝑋) = 1 − 𝑒 EF.G
+É importante saber a probabilidade da variável X assumir valores maiores ou iguais a “x”. Para
+tanto, temos que utilizar a probabilidade do evento complementar.
+
+                                            𝑃 𝑋 ≥𝑥 =1−𝑃 𝑋 <𝑥
+
+Logo, fazendo a substituição de P(X < x) teremos o seguinte:
+
+                                           𝑃 𝑋 ≥ 𝑥 = 1 − (1 − 𝑒 EF.G )
+                                                 𝑃 𝑋 ≥ 𝑥 = 𝑒 EF.G
+A distribuição exponencial descreve o tempo entre as ocorrências de eventos sucessivos de uma
+distribuição Poisson.
+
+
+
+Esperança e Variância
+
+
+A esperança é dada por:
+                                                                       1
+                                                       𝐸 𝑋 =
+                                                                       𝜆
+Já a variância é dada por:
+                                                                       1
+                                                      𝑉𝑎𝑟 𝑋 =
+                                                                       𝜆C
+Como o desvio padrão é a raiz quadra da variância, ele será igual a esperança.
+                                                                   1
+                                                           𝜎=
+                                                                   𝜆
+
+Distribuição Normal
+
+A distribuição normal é considerada uma das distribuições mais importantes. A função densidade
+de probabilidade é dada por:
+
+                                                  1            O GEP R
+                                                           E           ,    G ∈(ET,T)
+                                      𝑓 𝑥 =            𝑒       C Q
+                                               𝜎 2𝜋
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística              39
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Portanto, a f.d.p. da distribuição normal tem o formato de um sino.
+
+
+
+
+   •    Essa distribuição tem as seguintes características:
+   •    Simétrica – média = mediana = moda;
+   •    Mesocúrtica;
+   •    Unimodal.
+
+
+
+
+       Uma distribuição normal perfeita caracteriza-se pelo fato de 68.26% dos casos se
+       concentrem em valores que se situam no intervalo entre um desvio padrão acima e um
+       desvio padrão abaixo da média. Esse valor sobe para 95.44% quando consideramos
+       dois desvios padrões (acima e abaixo da média) e 99.73% se considerarmos três desvios
+       padrões. Esse conceito é a base para o 6 Sigma. Veja a figura abaixo.
+
+
+
+
+Distribuição Normal Padrão
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Estatística                40
+         www.estrategiaconcursos.com.br                                                        60
+
+                                      https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+No cálculo dos valores da probabilidade utilizamos uma tabela. Essa tabela, refere-se a uma
+distribuição normal N (0,1). Onde, o zero é a média e o 1 é a variância, é chamada de normal
+padrão.
+
+A trans formação de valores de “X” (curva normal qualquer) em valores de “Z” (curva normal
+padronizada) é feita da seguinte forma:
+
+                                                           𝑋−𝜇
+                                                     𝑍=
+                                                            𝜎
+
+
+
+
+            Exemplo!
+
+Considere que o peso médio de um grupo de mulheres segue uma distribuição normal com média
+60 Kg e desvio padrão de 10 Kg.
+
+Qual a probabilidade de uma mulher, escolhida ao acaso, pesar mais de 70 Kg?
+
+                                                       70 − 60
+                                                𝑍=             =1
+                                                         10
+Depois de encontrado o valor de “Z” consultamos uma tabela para saber a probabilidade. A tabela
+abaixo, mostra um exemplo em que a probabilidade é dada por: P(0 < Z < z). Desta forma, para o
+Z igual 1, a probabilidade será de 34,13% (vejam marcado de vermelho na tabela).
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística              41
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+Fazendo o desenho do exemplo, teremos o seguinte:
+
+
+
+
+Ao consultar a tabela vimos que que Z = 1 corresponde a uma probabilidade de 34,13%. Sendo
+que queremos a probabilidade da área amarela. Para isso, temos que fazer uma subtração.
+
+Sabemos que a metade curva corresponde a 50% e que a área entre 0 e 1 corresponde à 34,13%.
+Logo, basta fazer a subtração:
+
+50,00% - 34,13% = 15,87%
+
+Desta forma, 15,87% das mulheres pesam acima de 70 Kg.
+
+
+                    DISTRIBUIÇÕES CONDICIONAIS E INDEPENDENTES
+
+Distribuição conjunta de Duas variáveis Aleatórias
+
+Na distribuição conjunta trabalhamos com duas ou mais de uma varável aleatória. Considere duas
+variáveis aleatória X e Y. Supomos que X assuma os valores 0, 1 e 2 e que Y assuma os valores de
+0 e 1. E que a distribuição conjunta entre essas duas variáveis será dada por:
+
+                                Y=0                      Y=1                     Total
+       X=0                      0,20                     0,10                    0,30
+       X=1                      0,10                     0,25                    0,35
+       X=2                      0,15                     0,20                    0,35
+       Total                    0,45                     0,55                    1,00
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística               42
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+De posse dessa tabela de distribuição conjunta, podemos fazer o cruzamento e encontrar a
+probabilidade, por exemplo, de X = 1 e Y =1 é 0,25. Podemos escrever da seguinte forma:
+
+                                            𝑃 𝑋 = 1 ∩ 𝑌 = 1 = 0,25
+
+                                                          ou
+
+                                             𝑃 𝑋 = 1; 𝑌 = 1 = 0,25
+
+
+Distribuição Condicional
+
+Iremos utilizar a mesma tabela apresentada anteriormente.
+
+                                Y=0                      Y=1                     Total
+       X=0                      0,20                     0,10                    0,30
+       X=1                      0,10                     0,25                    0,35
+       X=2                      0,15                     0,20                    0,35
+       Total                    0,45                     0,55                    1,00
+
+
+Na distribuição condicional, podemos encontrar a probabilidade Y ser 1 dado que X foi 0. E a
+probabilidade Y ser 0 dado que X foi 0. Podemos escrever da seguinte forma:
+
+                                       𝑃 𝑌 = 0 𝑋 = 0) e 𝑃 𝑌 = 1 𝑋 = 0)
+
+
+
+Para calcular essa probabilidade utilizamos a fórmula da probabilidade condicional. Isto é, a
+probabilidade de ocorrer o evento A dado que o evento B ocorreu.
+                                                             𝑃(𝐴 ∩ 𝐵)
+                                                𝑃 𝐴𝐵 =
+                                                               𝑃(𝐵)
+
+Aplicando essa fórmula para as variáveis X e Y, teremos o seguinte:
+                                                             𝑃(𝑌 = 1 ∩ 𝑋 = 0)
+                                      𝑃 𝑌 = 0 𝑋 = 0) =
+                                                                𝑃(𝑋 = 0)
+A probabilidade da intersecção de Y=1 e X = 0 é 0,20 (valor preenchido de vermelho na tabela) e
+que a probabilidade de X = 0 é 0,30 (valor preenchido de verde da tabela). Aplicando esses valores
+na fórmula da probabilidade condicional teremos o seguinte.
+                                                                  0,20 2
+                                           𝑃 𝑌 = 0 𝑋 = 0) =           =
+                                                                  0,30 3
+A probabilidade da intersecção de Y=1 e X = 0 é 0,10 (valor preenchido de azul claro na tabela) e
+que a probabilidade de X = 0 é 0,30 (valor preenchido de verde da tabela). Aplicando esses valores
+na fórmula da probabilidade condicional teremos o seguinte.
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 43
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                                                  0,10 1
+                                           𝑃 𝑌 = 1 𝑋 = 0) =           =
+                                                                  0,30 3
+Desta forma, podemos construir uma tabela que representa a distribuição condicional de Y, dado
+que X=0.
+
+                                             Y                     P(Y|X=0)
+                                             0                        2/3
+                                             1                        1/3
+                                            Total                      1
+
+
+Poderíamos fazer outras combinações de construir outras distribuições condicionais.
+
+Esperança e Variância
+De posse da tabela de distribuição condicional que calculamos, podemos calcular a esperança de
+a variância.
+
+Como sabemos, a para calcular a esperança basta multiplicar cada valor da variável pela respectiva
+probabilidade e somar os resultados.
+
+                                Y                      P(Y|X=0)                  Y. P(Y|X=0)
+                                0                         2/3                         0
+                                1                         1/3                        1/3
+                               Total                       1
+
+
+                                                                    1 1
+                                             𝐸 𝑌 𝑋 =0 =0+            =
+                                                                    3 3
+Já na variância temos primeiro que elevar a variável ao quadrado e só depois multiplicar pela
+respectiva probabilidade. E por fim fazer a soma.
+
+        Y                     P(Y|X=0)                     Y2                    Y. P(Y|X=0)
+        0                        2/3                       0                          0
+        1                        1/3                       1                         1/3
+       Total                      1
+
+
+                                                                     1 1
+                                            𝐸 𝑌C 𝑋 = 0 = 0 +          =
+                                                                     3 3
+Depois disso, basta utilizar a fórmula da variância.
+
+                               𝑉𝑎𝑟 𝑌 𝑋 = 0 = 𝐸 𝑌 C 𝑋 = 0 − 𝐸 𝑌 𝑋 = 0                    C
+
+
+                                                    1   1 C 1 1 3−1 2
+                               𝑉𝑎𝑟 𝑌 𝑋 = 0 =          −    = − =   =
+                                                    3   3   3 9  9   9
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 44
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+                                  QUESTÕES ESTRATÉGICAS
+
+
+
+
+Q.01 (CEBRASPE/Agente de Polícia/(PC DF)/2021)
+Considere que uma amostra aleatória simples de tamanho 𝒏 = 𝟏𝟎, representada como X1,...,X10,
+seja retirada de uma população uniformemente distribuída no intervalo [a,b], em que a e b são
+parâmetros desconhecidos, tais que 𝟎 < 𝒂 < 𝒃. Com respeito a essa população, a média amostral
+𝑿 = (𝑿𝟏 +. . . +𝑿𝟏𝟎 )/𝟏𝟎 e a variância amostral 𝑺𝟐 = 𝟏𝟎         𝟐
+                                                     𝒋l𝟏(𝑿𝒋 − 𝑿) /𝟗, julgue o item a seguir.
+
+O valor esperado da média amostral 𝑿 é igual a b/2.
+C – Certo
+E – Errado
+Comentários:
+Pessoal, nessa questão a banca quer que o candidato saiba como se calcula a média de uma
+distribuição uniforme.
+
+Sabemos que a média de uma distribuição uniforme de variável contínua é dada por:
+                                                             𝒃+𝒂
+                                                   𝑬 𝑿 =
+                                                              𝟐
+E como dito na questão 𝟎 < 𝒂 < 𝒃. Logo, a questão está errada, pois o valor de “a” é maior que
+zero. Para dar o resultado dado pela banca, teríamos que considerar “a” igual a zero.
+
+Gabarito: Errado
+Q.02 (CEBRASPE/Agente de Polícia/(PC DF)/2021)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística             45
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Considere que uma amostra aleatória simples de tamanho 𝒏 = 𝟏𝟎, representada como X1,...,X10,
+seja retirada de uma população uniformemente distribuída no intervalo [a,b], em que a e b são
+parâmetros desconhecidos, tais que 𝟎 < 𝒂 < 𝒃. Com respeito a essa população, a média amostral
+𝑿 = (𝑿𝟏 +. . . +𝑿𝟏𝟎 )/𝟏𝟎 e a variância amostral 𝑺𝟐 = 𝟏𝟎         𝟐
+                                                     𝒋l𝟏(𝑿𝒋 − 𝑿) /𝟗, julgue o item a seguir.
+
+A variância populacional é 𝒃 − 𝒂 𝟐 /𝟏𝟐
+C – Certo
+E – Errado
+Comentários:
+Pessoal, da mesma forma que a questão anterior, a banca quer que o candidato saiba como se
+calcula a variância de uma distribuição uniforme.
+
+Sabemos que a variância de uma distribuição uniforme de variável contínua é dada por:
+
+                                                          𝒃−𝒂 𝟐
+                                                  𝑽𝒂𝒓 𝑿 =
+                                                           𝟏𝟐
+Gabarito: Certo
+Q.03 (CEBRASPE/ Professor de Ensino Básico/(IFF)/Matemática/2018)
+Suponha que o tempo, em anos, de vida útil de um equipamento eletrônico, contado a partir da
+data de sua fabricação, é uniformemente distribuído no intervalo [2, 10] anos. Nesse caso, a
+probabilidade de esse equipamento ter pelo menos 8 anos de vida útil é igual a
+a) 1/5.
+b) 1/4.
+c) 1/3.
+d) 3/5.
+e) 3/4.
+Comentários:
+Nessa questão de distribuição uniforme é dado o intervalo [2, 10], que correspondem aos valores
+de “a” e “b” [a, b]. Sendo a probabilidade dada por:
+
+
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística            46
+          www.estrategiaconcursos.com.br                                                    60
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+
+                                                                P( X < 8)
+                                       k
+
+
+
+
+                                                      2       8     10
+
+E pede-se a probabilidade de um equipamento ter uma vida útil de pelo menos 8 anos. O intervalo
+desejado será [8, 10]. E como sabemos, a probabilidade é a razão entre a amplitude do intervalo
+desejado e a amplitude do intervalo total.
+
+Logo,
+                                                          (10 − 8) 2 1
+                                           𝑃 8<𝑋 =                = =
+                                                          (10 − 2) 8 4
+Gabarito: B
+Q.04 (CEBRASPE/Analista Judiciário (STM)/Apoio Especializado/Estatística/2018)
+Supondo que o custo unitário X de um processo de execução fiscal na justiça federal seja descrito
+por uma distribuição exponencial com média igual a R$ 5.000, julgue o item.
+O coeficiente de variação de X é igual a 1.
+C – Certo
+E – Errado
+Comentários:
+Nessa questão, a banca que saber se o Coeficiente de Variação (CV) é igual a 1.
+
+Como sabemos, o CV é dado pela razão entre o desvio padrão e a média. Na questão foi dito que
+a média era R$ 5.000,00 e como trata-se de uma distribuição exponencial o desvio padrão será
+igual a média.
+
+                                                𝑬 𝑿 = 𝝈 = 𝟓. 𝟎𝟎𝟎
+Logo,
+                                                           𝝈
+                                                  𝑪𝑽 =         =𝟏
+                                                          𝑬(𝑿)
+
+Portanto, correta a questão.
+
+Gabarito: Certo
+Q.05 (CEBRASPE/Analista Administrativo (EBSERH)/Estatística/2018)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                47
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Em uma pequena clínica hospitalar, a receita diária R e a despesa diária D, ambas em R$ mil, são
+variáveis aleatórias contínuas, tais que:
+P(R ≤ r) = 1 e0,2r, para r ≥ 0; e P(R < r) = 0, para r < 0; e
+P(D ≤ d) = 1 e0,25d, para d ≥ 0; e P(D < d) = 0, para d < 0.
+Considerando que a covariância entre as variáveis R e D seja igual a 10, e que S = R - D seja o saldo
+diário, julgue o item a seguir.
+A variância do saldo diário é Var(S) = 41.
+C – Certo
+E – Errado
+Comentários:
+Nessa questão, a banca que saber se a variância de S é igual a 41.
+
+Foram dadas as seguintes informações:
+
+Covariância entre as variáveis R e D = 10
+
+                                                     𝑺=𝑹−𝑫
+Logo, a variância de S será dada da seguinte forma:
+
+                                              𝑽𝒂𝒓 𝑺 = 𝑽𝒂𝒓(𝑹 − 𝑫)
+                                 𝑽𝒂𝒓 𝑺 = 𝑽𝒂𝒓 𝑹 + 𝑽𝒂𝒓 𝑫 − 𝟐. 𝑪𝒐𝒗(𝑹, 𝑫)
+Na questão é dada a probabilidade R e D são distribuições exponenciais. E dar as seguintes
+probabilidades.
+
+P(R ≤ r) = 1 e0,2r
+
+P(D ≤ d) = 1 e0,25d
+
+Logo, os valores dos parâmetros são os seguintes:
+
+𝝀𝑹 = 𝟎, 𝟐
+
+𝝀𝑹 = 𝟎, 𝟐𝟓.
+
+Sendo a variância dada por:
+                                                    𝟏    𝟏        𝟏
+                                       𝑽𝒂𝒓 𝑹 =       𝟐
+                                                       =    𝟐
+                                                              =       = 𝟐𝟓
+                                                    𝝀𝑹 𝟎, 𝟐     𝟎, 𝟎𝟒
+                                                 𝟏     𝟏          𝟏
+                                    𝑽𝒂𝒓 𝑫 =       𝟐
+                                                    =     𝟐
+                                                            =         = 𝟏𝟔
+                                                 𝝀𝑫 𝟎, 𝟐𝟓     𝟎, 𝟎𝟔𝟐𝟓
+
+Portanto,
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                    48
+        www.estrategiaconcursos.com.br                                                            60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                    𝑽𝒂𝒓 𝑺 = 𝑽𝒂𝒓 𝑹 + 𝑽𝒂𝒓 𝑫 − 𝟐. 𝑪𝒐𝒗(𝑹, 𝑫)
+                                    𝑽𝒂𝒓 𝑺 = 𝟐𝟓 + 𝟏𝟔 − 𝟐. 𝟏𝟎 = 𝟒𝟏 − 𝟐𝟎 = 𝟐𝟏
+
+Portanto, errada a questão.
+
+Gabarito: Errado
+Q.06 (IBFC/Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021)
+Considerando que numa distribuição normal a média de uma variável é igual a 12, o desvio
+padrão é igual a 3, então o valor do score “z” para uma variável igual a 18 é igual a:
+a) 0,25.
+b) 1.
+c) 0,5.
+d) -1.
+e) 2.
+Comentários:
+Nessa questão, a banca que saber apenas o valor de Z. Para tanto, foram dadas as seguintes
+informações:
+
+𝝁 = 𝟏𝟐
+𝝈=𝟑
+
+E deseja-se saber o valor de Z para uma variável igual a 18.
+
+                                                              𝑿−𝝁
+                                                       𝒁=
+                                                               𝝈
+                                                       𝟏𝟖 − 𝟏𝟐  𝟔
+                                                𝒁=             = =𝟐
+                                                          𝟑     𝟑
+Gabarito: E
+Q.07 (CEBRASPE/Analista de Controle (TCE-PR)/Administração/2016)
+Se X for uma variável aleatória normal com média 0,8 e variância 0,4, e P(X ≤ x) representar a função
+de distribuição de probabilidade acumulada dessa variável X, para x∈ R, então
+              𝑿E𝟎,𝟖
+a) a razão            será uma variável aleatória normal padrão.
+                𝟎,𝟒
+
+b) coeficiente de variação de X será inferior a 0,4.
+c) moda de X será inferior a 0,6.
+d) (X = 0,8) = P(X = 0,1).
+e) P(X < 0,7) < P(X > 0,9).
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 49
+           www.estrategiaconcursos.com.br                                                         60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Comentários:
+Pessoal, temos as seguintes informações sobre uma variável X aleatória normal.
+𝜇 = 0,8
+𝜎 C = 0,4
+Portanto, o desvio padrão será a raiz quadrada da variância.
+𝜎 = 0,4
+Letra A – Errada. Pois, está errado o valor do desvio padrão. A razão correta seria a seguinte:
+                                                         𝑋 − 0,8
+                                                              0,4
+Letra B – Errada. O coeficiente de variação é a razão entre o desvio padrão e a média. Logo,
+
+                                                              𝜎    0,4
+                                                     𝐶𝑉 =       =
+                                                              𝜇   0,8
+Agora só temos que fazer um teste para provar que o CV é menor que 0,4. Para isso, podemos
+comparar o resultado que encontramos com o que a banca está afirmando.
+
+                                                         0,4
+                                                             < 0,4
+                                                        0,8
+A primeira coisa a ser feita é elevar ao quadrado os dois lados para sumir com a raiz quadrada.
+                                                              C
+                                                        0,4
+                                                                  < 0,4C
+                                                       0,8
+                                                        0,4
+                                                            < 0,16
+                                                       0,64
+Fazendo a divisão do lado esquerdo podemos observar que será maior do que o da direita. Logo,
+a questão está errada
+                                                      0,625 > 0,16
+Letra C – Errada. Pessoal, em uma distribuição normal a média = mediana = moda. Logo, a moda
+é 0,8.
+Letra D – Correta. Na distribuição normal é contínua, a probabilidade associada a pontos da reta real é sempre
+nula. Portanto,
+
+                                              (X = 0,8) = P(X = 0,1) = 0
+Letra E – Errada. A distribuição normal é simétrica em torno da média. A média dada na questão
+foi 0,8. Se colocamos a P(X < 0,7) e P(X > 0,9) em no gráfico da normal ficará claro que a distância
+entre 0,9 e a média é igual a distância entre 0,7 e a média. Desta forma, as probabilidades são
+iguais.
+Gabarito: D
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Estatística                           50
+          www.estrategiaconcursos.com.br                                                                   60
+
+                                       https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Q.08 (CEBRASPE/Analista de Controle (TCE-PR)/Atuarial/2016)
+A variável aleatória Y segue uma distribuição normal com média 10 e desvio padrão 20, sendo
+P(Z≤1)=0,84, em que Z representa a distribuição normal padrão. Nesse caso, a probabilidade
+P(|Y|≤10) é igual a
+a) 0,68.
+b) 0,84.
+c) 0,16.
+d) 0,34.
+e) 0,50.
+Comentários:
+Essa é uma questão de distribuição normal. E foram dadas as seguintes informações:
+𝜇 = 10
+𝜎 = 20
+A questão quer saber a chance do evento |Y|≤10. Isto é, a chance de Y
+estar entre -10 e 10:
+
+
+                                                        −10<Y<10
+Fazendo o cálculo de Z, teremos o seguinte:
+                                                  𝑌−𝝁   −10 − 10
+                                           𝒁=         =          = −1
+                                                   𝝈      20
+
+
+                                                    𝑌−𝝁   10 − 10
+                                             𝒁=         =         =0
+                                                     𝝈      20
+A probabilidade de −10<Y<10 é exatamente a mesma de −1<Z<0. Desta forma,
+
+                                          P(−1 < Z < 0) = P(Z<0) − P(Z<−1)
+
+Como a curva normal padrão é simetria em torno de zero, sabemos que P(Z<0) é igual a 50%.
+
+
+
+                                            P(−1 < Z < 0) = 0,5 − P(Z < −1)
+
+Na questão foi dado que P(Z ≤ 1) é de 84%. Logo, P( Z>1) será de 16%. E por simetria P( Z < −1)
+será também 16%. Desta forma,
+
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística             51
+           www.estrategiaconcursos.com.br                                                     60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                       P(−1 < Z < 0) = 0,5 − 0,16 = 0,34
+
+
+Colocando essas informações em um gráfico, teremos o seguinte:
+
+
+
+                                                         34% 50%
+
+                                                    -1     1
+
+
+
+
+                                                         34% 50%
+
+                                                      -1
+
+
+Portanto, letra D reposta da questão.
+Gabarito: D
+Q.09 (CEBRASPE/Analista Judiciário (CNJ)/Apoio Especializado/Estatística/2013)
+Uma máquina de café expresso precisa ser reiniciada algumas vezes durante o dia, devido ao uso
+excessivo. A tabela abaixo mostra a distribuição de probabilidade conjunta do número de vezes
+que ela é reiniciada na parte da manhã (M) e na parte da tarde (T).
+
+
+
+
+Considerando essa tabela, julgue o próximo item.
+O valor de x é inferior a 0,15.
+C – Certo
+E – Errado
+Comentários:
+Para encontra o valor de “x” temos que somar todas a probabilidade e igualar a 1.
+                       0,10 + 0,04 + 0,06 + 0,10 + 0,06 + 0,10 + 0,30 + 0,12 + 𝑥 = 1
+                                                    0,88 + 𝑥 = 1
+                                                    𝑥 = 1 − 0,88
+                                                         𝑥 = 𝟎, 𝟏𝟐
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística             52
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Substituindo esse valor na tabela, podemos encontrar os totais.
+
+                         T=0                  T=1                T=2             Total
+     M=0                 0,10                 0,10               0,30            0,50
+     M=1                 0,04                 0,06               0,12            0,22
+     M=2                 0,06                 0,10               0,12            0,28
+     Total               0,20                 0,26               0,54            1,00
+Portanto, correta a questão.
+Gabarito: Certo
+Q.10 (CEBRASPE/Analista Judiciário (CNJ)/Apoio Especializado/Estatística/2013)
+Uma máquina de café expresso precisa ser reiniciada algumas vezes durante o dia, devido ao uso
+excessivo. A tabela abaixo mostra a distribuição de probabilidade conjunta do número de vezes
+que ela é reiniciada na parte da manhã (M) e na parte da tarde (T).
+
+
+
+
+Considerando essa tabela, julgue o próximo item.
+O número médio de vezes que a máquina é reiniciada na parte da manhã é inferior a 1.
+C – Certo
+E – Errado
+Comentários:
+Já encontramos o valor de “x” na questão anterior.
+
+                         T=0                  T=1                T=2             Total
+     M=0                 0,10                 0,10               0,30            0,50
+     M=1                 0,04                 0,06               0,12            0,22
+     M=2                 0,06                 0,10               0,12            0,28
+     Total               0,20                 0,26               0,54            1,00
+
+
+
+Agora temos que calcular a esperança de “M”. Para tanto podemos escrever a tabela da seguinte
+forma:
+
+                                                M                  P(M)
+                                                0                  0,50
+                                                1                  0,22
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística             53
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+                                               2                   0,28
+                                              Total                1,00
+Agora temos que multiplicar cada valor de “M” pela respectiva probabilidade e depois somar.
+
+                                     M                   P(M)               M.P(M)
+                                     0                   0,50                 0
+                                     1                   0,22                0,22
+                                     2                   0,28                0,56
+                                    Total                1,00
+
+
+                                        𝐸 𝑀 = 0 + 0,22 + 0,56 = 𝟎, 𝟕𝟖
+Portanto, inferior a 1 como afirma o item.
+Gabarito: Certo
+Q.11 (CEBRASPE/Analista Judiciário (CNJ)/Apoio Especializado/Estatística/2013)
+Uma máquina de café expresso precisa ser reiniciada algumas vezes durante o dia, devido ao uso
+excessivo. A tabela abaixo mostra a distribuição de probabilidade conjunta do número de vezes
+que ela é reiniciada na parte da manhã (M) e na parte da tarde (T).
+
+
+
+
+Considerando essa tabela, julgue o próximo item.
+A probabilidade da máquina ser reiniciada duas vezes à tarde, considerando que ela tenha sido
+reiniciada uma vez pela manhã, é superior a 0,6.
+C – Certo
+E – Errado
+Comentários:
+Já encontramos o valor de “x” na questão anterior.
+
+                         T=0                  T=1                T=2                 Total
+     M=0                 0,10                 0,10               0,30                0,50
+     M=1                 0,04                 0,06               0,12                0,22
+     M=2                 0,06                 0,10               0,12                0,28
+     Total               0,20                 0,26               0,54                1,00
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística                54
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+A banca quer a probabilidade da máquina se reiniciada 2 vezes à tarde, dado que foi reiniciada 1
+vez pela manhã. Logo, a fórmula da probabilidade condicional é dada por:
+                                                             𝑃(𝑇 = 2 ∩ 𝑀 = 1)
+                                     𝑃 𝑇=2𝑀=1 =
+                                                                𝑃(𝑀 = 1)
+Utilizando os dados da tabela temos o seguinte:
+𝑃 𝑇 = 2 ∩ 𝑀 = 1 = 𝟎, 𝟏𝟐 (veja valor preenchido de verde na tabela)
+𝑃 𝑀 = 1 = 𝟎, 𝟐𝟐 (veja valor preenchido de vermelho na tabela)
+Substituindo esses valores teremos o seguinte:
+                                                                 0,12
+                                         𝑃 𝑇=2𝑀=1 =                   = 0,54
+                                                                 0,22
+Portanto, errada questão, pois o valor foi inferior a 0,6.
+Gabarito: Errado
+
+
+                                                 Allan Maux
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+Q.01 (CEBRASPE/Agente de Polícia/(PC DF)/2021)
+Considere que uma amostra aleatória simples de tamanho 𝒏 = 𝟏𝟎, representada como X1,...,X10,
+seja retirada de uma população uniformemente distribuída no intervalo [a,b], em que a e b são
+parâmetros desconhecidos, tais que 𝟎 < 𝒂 < 𝒃. Com respeito a essa população, a média amostral
+𝑿 = (𝑿𝟏 +. . . +𝑿𝟏𝟎 )/𝟏𝟎 e a variância amostral 𝑺𝟐 = 𝟏𝟎         𝟐
+                                                     𝒋l𝟏(𝑿𝒋 − 𝑿) /𝟗, julgue o item a seguir.
+
+O valor esperado da média amostral 𝑿 é igual a b/2.
+C – Certo
+E – Errado
+Q.02 (CEBRASPE/Agente de Polícia/(PC DF)/2021)
+Considere que uma amostra aleatória simples de tamanho 𝒏 = 𝟏𝟎, representada como X1,...,X10,
+seja retirada de uma população uniformemente distribuída no intervalo [a,b], em que a e b são
+parâmetros desconhecidos, tais que 𝟎 < 𝒂 < 𝒃. Com respeito a essa população, a média amostral
+𝑿 = (𝑿𝟏 +. . . +𝑿𝟏𝟎 )/𝟏𝟎 e a variância amostral 𝑺𝟐 = 𝟏𝟎         𝟐
+                                                     𝒋l𝟏(𝑿𝒋 − 𝑿) /𝟗, julgue o item a seguir.
+
+A variância populacional é 𝒃 − 𝒂 𝟐 /𝟏𝟐
+C – Certo
+E – Errado
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística               55
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+Q.03 (CEBRASPE/ Professor de Ensino Básico/(IFF)/Matemática/2018)
+Suponha que o tempo, em anos, de vida útil de um equipamento eletrônico, contado a partir da
+data de sua fabricação, é uniformemente distribuído no intervalo [2, 10] anos. Nesse caso, a
+probabilidade de esse equipamento ter pelo menos 8 anos de vida útil é igual a
+a) 1/5.
+b) 1/4.
+c) 1/3.
+d) 3/5.
+e) 3/4.
+Q.04 (CEBRASPE/Analista Judiciário (STM)/Apoio Especializado/Estatística/2018)
+Supondo que o custo unitário X de um processo de execução fiscal na justiça federal seja descrito
+por uma distribuição exponencial com média igual a R$ 5.000, julgue o item.
+O coeficiente de variação de X é igual a 1.
+C – Certo
+E – Errado
+Q.05 (CEBRASPE/Analista Administrativo (EBSERH)/Estatística/2018)
+Em uma pequena clínica hospitalar, a receita diária R e a despesa diária D, ambas em R$ mil, são
+variáveis aleatórias contínuas, tais que:
+P(R ≤ r) = 1 e0,2r, para r ≥ 0; e P(R < r) = 0, para r < 0; e
+P(D ≤ d) = 1 e0,25d, para d ≥ 0; e P(D < d) = 0, para d < 0.
+Considerando que a covariância entre as variáveis R e D seja igual a 10, e que S = R - D seja o saldo
+diário, julgue o item a seguir.
+A variância do saldo diário é Var(S) = 41.
+C – Certo
+E – Errado
+Q.06 (IBFC/Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021)
+Considerando que numa distribuição normal a média de uma variável é igual a 12, o desvio
+padrão é igual a 3, então o valor do score “z” para uma variável igual a 18 é igual a:
+a) 0,25.
+b) 1.
+c) 0,5.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 56
+           www.estrategiaconcursos.com.br                                                         60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+d) -1.
+e) 2.
+Q.07 (CEBRASPE/Analista de Controle (TCE-PR)/Administração/2016)
+Se X for uma variável aleatória normal com média 0,8 e variância 0,4, e P(X ≤ x) representar a função
+de distribuição de probabilidade acumulada dessa variável X, para x∈ R, então
+              𝑿E𝟎,𝟖
+a) a razão            será uma variável aleatória normal padrão.
+                𝟎,𝟒
+
+b) coeficiente de variação de X será inferior a 0,4.
+c) moda de X será inferior a 0,6.
+d) (X = 0,8) = P(X = 0,1).
+e) P(X < 0,7) < P(X > 0,9).
+Q.08 (CEBRASPE/Analista de Controle (TCE-PR)/Atuarial/2016)
+A variável aleatória Y segue uma distribuição normal com média 10 e desvio padrão 20, sendo
+P(Z≤1)=0,84, em que Z representa a distribuição normal padrão. Nesse caso, a probabilidade
+P(|Y|≤10) é igual a
+a) 0,68.
+b) 0,84.
+c) 0,16.
+d) 0,34.
+e) 0,50.
+Q.09 (CEBRASPE/Analista Judiciário (CNJ)/Apoio Especializado/Estatística/2013)
+Uma máquina de café expresso precisa ser reiniciada algumas vezes durante o dia, devido ao uso
+excessivo. A tabela abaixo mostra a distribuição de probabilidade conjunta do número de vezes
+que ela é reiniciada na parte da manhã (M) e na parte da tarde (T).
+
+
+
+
+Considerando essa tabela, julgue o próximo item.
+O valor de x é inferior a 0,15.
+C – Certo
+
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Estatística                 57
+           www.estrategiaconcursos.com.br                                                         60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Allan Maux Santana
+  Aula 02
+
+
+
+E – Errado
+Q.10 (CEBRASPE/Analista Judiciário (CNJ)/Apoio Especializado/Estatística/2013)
+Uma máquina de café expresso precisa ser reiniciada algumas vezes durante o dia, devido ao uso
+excessivo. A tabela abaixo mostra a distribuição de probabilidade conjunta do número de vezes
+que ela é reiniciada na parte da manhã (M) e na parte da tarde (T).
+
+
+
+
+Considerando essa tabela, julgue o próximo item.         ==219a34==
+
+
+
+
+O número médio de vezes que a máquina é reiniciada na parte da manhã é inferior a 1.
+C – Certo
+E – Errado
+Q.11 (CEBRASPE/Analista Judiciário (CNJ)/Apoio Especializado/Estatística/2013)
+Uma máquina de café expresso precisa ser reiniciada algumas vezes durante o dia, devido ao uso
+excessivo. A tabela abaixo mostra a distribuição de probabilidade conjunta do número de vezes
+que ela é reiniciada na parte da manhã (M) e na parte da tarde (T).
+
+
+
+
+Considerando essa tabela, julgue o próximo item.
+A probabilidade da máquina ser reiniciada duas vezes à tarde, considerando que ela tenha sido
+reiniciada uma vez pela manhã, é superior a 0,6.
+C – Certo
+E – Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Estatística             58
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+ Allan Maux Santana
+ Aula 02
+
+
+
+
+Gabarito
+
+
+
+
+  1          2          3           4           5          6          7         8   9   10
+
+  E          C          B           C           E          E          D         D   C   C
+
+  11
+
+  E
+
+
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Estatística                59
+       www.estrategiaconcursos.com.br                                                        60
+
+                                    https://t.me/KakashiAssinaturasBot
+
